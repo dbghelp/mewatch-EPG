@@ -14,7 +14,12 @@ This repository contains the XML EPG (Electronic Program Guide) for mewatch chan
 
 To use the EPG data, you can fetch the XML file from this repository and parse it in your application to display the program schedule.
 
-In your M3U8 playlist, change your tvg-id for the respective channels:
+In your M3U8 playlist, 
+
+- Change your url-tvg to "https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml":
+'''#EXTM3U **url-tvg="https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml"** refresh="3600"'''
+
+- Change your tvg-id for the respective channels:
 | tvg-id | Channel Name      |
 |------------|--------------------|
 | 97098      | Channel 5         |
