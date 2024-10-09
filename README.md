@@ -21,6 +21,7 @@ In your M3U8 playlist,
 ```#EXTM3U url-tvg="https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml" refresh="3600"```
 
 - Change your tvg-id for the respective channels:
+  
 | tvg-id | Channel Name      |
 |------------|--------------------|
 | 97098      | Channel 5         |
