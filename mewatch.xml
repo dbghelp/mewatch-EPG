@@ -80,6 +80,10 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318756'&EntityType='Item'&EntityId='98202'&Width=516&Height=250" />
 	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318758'&EntityType='Item'&EntityId='204746'&Width=519&Height=250" />
+	</channel>
 	<programme channel="97098" start="20241022160000 +0000" stop="20241022163000 +0000">
 		<title>Sunny Side Up - EP 467</title>
 		<desc>Nooraini and Ibrahim are disgusted with Philip when he takes the credit for resolving the ransomware issue. Huzaima apologises to Khatijah, but will the latter allow Iskandar to go for the exchange programme? Convinced that her career in heathcare is over, Poh Cho decides to make a mid-career switch. </desc>
@@ -777,7 +781,7 @@
 	</programme>
 	<programme channel="97084" start="20241023123000 +0000" stop="20241023130000 +0000">
 		<title>Detik Khas - EP 4</title>
-		<desc>A special episode of DETIK that deep dive into contemporary issues in Singapore and around the region.</desc>
+		<desc>Masjid Sultan celebrates it's 200th year anniversary this year. What are the well kept secrets of this National Monument that often being referred as the country's National Mosque?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='8229151'&EntityType='LinearSchedule'&EntityId='31ed3a16-726e-45ff-8352-a5fc832b1ae2'&Width=1280&Height=720" />
 	</programme>
 	<programme channel="97084" start="20241023130000 +0000" stop="20241023133000 +0000">
@@ -2170,6 +2174,16 @@
 		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2024/25: Persib Bandung vs Lion City Sailors FC on 24th October, Thursday 7.50pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='8232124'&EntityType='LinearSchedule'&EntityId='7f97a72d-7a81-4264-93e6-224d3663a516'&Width=1280&Height=720" />
 	</programme>
+	<programme channel="204746" start="20241022160000 +0000" stop="20241023160000 +0000">
+		<title>No Programme available now. Next Broadcast on 24th October, Thursday 7.50pm. AFC Champions League Two 2024/25: Tampines Rovers FC vs Nam Dinh FC</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2024/25: Tampines Rovers FC vs Nam Dinh FC on 24th October, Thursday 7.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='8229257'&EntityType='LinearSchedule'&EntityId='d319972a-7c4c-4e46-ac26-b4356d3a8d56'&Width=1280&Height=720" />
+	</programme>
+	<programme channel="204746" start="20241023160000 +0000" stop="20241024115000 +0000">
+		<title>No Programme available now. Next Broadcast on 24th October, Thursday 7.50pm. AFC Champions League Two 2024/25: Tampines Rovers FC vs Nam Dinh FC</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2024/25: Tampines Rovers FC vs Nam Dinh FC on 24th October, Thursday 7.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='8232136'&EntityType='LinearSchedule'&EntityId='b20d9c87-7dcd-46d7-bd2d-cd40b3e61c6f'&Width=1280&Height=720" />
+	</programme>
 	<programme channel="97098" start="20241023163000 +0000" stop="20241023170000 +0000">
 		<title>Talking Point - EP 25</title>
 		<desc>In the second part of this series, Talking Point producer Chan Luo Er checks in on young adults across the island and finds out how we can build, and maintain strong emotional bonds.</desc>
@@ -2827,7 +2841,7 @@
 	</programme>
 	<programme channel="97084" start="20241024070000 +0000" stop="20241024073000 +0000">
 		<title>Detik Khas - EP 4</title>
-		<desc>A special episode of DETIK that deep dive into contemporary issues in Singapore and around the region.</desc>
+		<desc>Masjid Sultan celebrates it's 200th year anniversary this year. What are the well kept secrets of this National Monument that often being referred as the country's National Mosque?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='8231952'&EntityType='LinearSchedule'&EntityId='e4addc38-ab8f-4bd1-b2c7-878f196cd945'&Width=1280&Height=720" />
 	</programme>
 	<programme channel="97084" start="20241024073000 +0000" stop="20241024080000 +0000">
@@ -4144,5 +4158,20 @@
 		<title>No Programme available now. Next Broadcast on 25th October, Friday 7.50pm. AFC U17 Asian Cup™ 2025 Qualifiers: Singapore vs Tajikistan</title>
 		<desc>LIVE 5 will commence broadcast of the AFC U17 Asian Cup™ 2025 Qualifiers: Singapore vs Tajikistan on 25th October, Friday 7.50pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='8234878'&EntityType='LinearSchedule'&EntityId='cd74b656-3075-43e7-8a96-78fd3a2288b4'&Width=1280&Height=720" />
+	</programme>
+	<programme channel="204746" start="20241024115000 +0000" stop="20241024140000 +0000">
+		<title>AFC Champions League Two 2024/25: Tampines Rovers FC vs Nam Dinh FC</title>
+		<desc>Featuring a brand new format, the inaugural AFC Champions League Two season features 32 teams competing in a round-robin, home-and-away format from 17 September to 5 December with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2025/26.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='8232154'&EntityType='LinearSchedule'&EntityId='fabe9cc5-9e3d-42a5-84fa-9acc1783c17c'&Width=1280&Height=720" />
+	</programme>
+	<programme channel="204746" start="20241024140000 +0000" stop="20241024160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='8232160'&EntityType='LinearSchedule'&EntityId='66313615-d460-42d6-a53e-4cb792e12005'&Width=1280&Height=720" />
+	</programme>
+	<programme channel="204746" start="20241024160000 +0000" stop="20241025160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='8234886'&EntityType='LinearSchedule'&EntityId='b2950e3a-6cde-45a9-a4c1-59750f2eb96c'&Width=1280&Height=720" />
 	</programme>
 </tv>
