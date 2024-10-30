@@ -4,6 +4,9 @@
 
 This repository contains the XML EPG (Electronic Program Guide) for mewatch channels. The EPG provides a schedule of the current and upcoming TV programs, enabling users to easily see what's on and plan their viewing.
 
+Preview:
+https://dbghelp.github.io/epg.html?file=https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml
+
 ## Features
 
 - XML formatted EPG for mewatch channels
@@ -44,3 +47,5 @@ In your M3U8 playlist,
 | 97073      | LIVE 1            |
 | 97078      | LIVE 2            |
 | 98202      | LIVE 5            |
+| 204746      | LIVE 6            |
+| 497989      | LIVE 7            |
