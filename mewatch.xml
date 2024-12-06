@@ -84,6 +84,14 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
+	<channel id="497989">
+		<display-name>LIVE 7</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
+	</channel>
 	<programme channel="97098" start="20241205160000 +0000" stop="20241205163000 +0000">
 		<title>The Cheaters App - EP 8</title>
 		<desc>A clandestine meeting between Marcus and "R" seems to suggest that they are conducting corporate espionage to take down Ansel Secure... but why would Marcus do that? Meanwhile, Tessa is misled to believe that Vanessa has plans to sell CIRI's source code to a competitor, causing the duo to have a greater rift in their relationship. Someone has spiked Jeff's drink with estrogen, and Tessa is gaining more authority in Ansel Secure, given the profits that CIRI brings in.</desc>
@@ -501,7 +509,7 @@
 	</programme>
 	<programme channel="97104" start="20241206123000 +0000" stop="20241206130000 +0000">
 		<title>Frontline - EP 33 前线追踪</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>What challenges do cancer patients face besides battling the illness? How do they put their lives back on track after the ordeal?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8363032'&amp;EntityType='LinearSchedule'&amp;EntityId='1f297758-0d61-4596-9bf8-1c004f0aca56'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20241206130000 +0000" stop="20241206140000 +0000">
@@ -2303,6 +2311,26 @@
 		<title>No Programme available now. Next Broadcast on 8th December, Sunday 6.35pm. ASEAN Mitsubishi Electric Cup™ 2024: Cambodia vs Malaysia</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN Mitsubishi Electric Cup™ 2024: Cambodia vs Malaysia on 8th December, Sunday 6.35pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8383427'&amp;EntityType='LinearSchedule'&amp;EntityId='9eea90d2-1d79-43bb-b194-c5b1a10433ae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20241205160000 +0000" stop="20241206160000 +0000">
+		<title>No Programme available now. Next Broadcast on 8th December, Sunday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Timor Leste vs Thailand</title>
+		<desc>LIVE 6 will commence broadcast of the ASEAN Mitsubishi Electric Cup™ 2024: Timor Leste vs Thailand on 8th December, Sunday 8.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8376086'&amp;EntityType='LinearSchedule'&amp;EntityId='d0fb4d52-10c3-4d99-bc9f-aeff65db921a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20241206160000 +0000" stop="20241207160000 +0000">
+		<title>No Programme available now. Next Broadcast on 8th December, Sunday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Timor Leste vs Thailand</title>
+		<desc>LIVE 6 will commence broadcast of the ASEAN Mitsubishi Electric Cup™ 2024: Timor Leste vs Thailand on 8th December, Sunday 8.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8376090'&amp;EntityType='LinearSchedule'&amp;EntityId='701762dc-8004-442a-9198-cd6985267461'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20241205160000 +0000" stop="20241206160000 +0000">
+		<title>No Programme available now. Next Broadcast on 7th December, Saturday 2pm. Mobile Legends: Bang Bang M6 World Championship</title>
+		<desc>LIVE 7 will commence broadcast of the Mobile Legends: Bang Bang M6 World Championship on 7th December, Saturday 2pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8381292'&amp;EntityType='LinearSchedule'&amp;EntityId='40f25201-b835-4be4-a166-6d3c6ff80018'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20241206160000 +0000" stop="20241207060000 +0000">
+		<title>No Programme available now. Next Broadcast on 7th December, Saturday 2pm. Mobile Legends: Bang Bang M6 World Championship</title>
+		<desc>LIVE 7 will commence broadcast of the Mobile Legends: Bang Bang M6 World Championship on 7th December, Saturday 2pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8381296'&amp;EntityType='LinearSchedule'&amp;EntityId='78e6b450-1714-43d2-8aa4-8715c78b9034'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20241206164000 +0000" stop="20241206180000 +0000">
 		<title>Survivor 47 - EP 10</title>
@@ -4293,5 +4321,20 @@
 		<title>No Programme available now. Next Broadcast on 8th December, Sunday 6.35pm. ASEAN Mitsubishi Electric Cup™ 2024: Cambodia vs Malaysia</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN Mitsubishi Electric Cup™ 2024: Cambodia vs Malaysia on 8th December, Sunday 6.35pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8383431'&amp;EntityType='LinearSchedule'&amp;EntityId='e90e0aa6-979b-4034-853a-66cf3c1da279'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20241207160000 +0000" stop="20241208125000 +0000">
+		<title>No Programme available now. Next Broadcast on 8th December, Sunday 8.50pm. ASEAN Mitsubishi Electric Cup™ 2024: Timor Leste vs Thailand</title>
+		<desc>LIVE 6 will commence broadcast of the ASEAN Mitsubishi Electric Cup™ 2024: Timor Leste vs Thailand on 8th December, Sunday 8.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8376094'&amp;EntityType='LinearSchedule'&amp;EntityId='322bc606-14d9-434b-9a61-4be5a3629075'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20241207060000 +0000" stop="20241207160000 +0000">
+		<title>Mobile Legends: Bang Bang M6 World Championship</title>
+		<desc>The M6 World Championship is the final event and the World Championship of the MLBB 2024 Competitive Season organized by Moonton. This year, M6 return to Malaysia, the first host of the M World Championship series, and a prize pool increase from $900,000 to $1,000,000 USD.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8381300'&amp;EntityType='LinearSchedule'&amp;EntityId='cd2fd79f-6cbd-49fc-8175-ebc11825cd9b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20241207160000 +0000" stop="20241208070000 +0000">
+		<title>No Programme available now. Next Broadcast on 8th December, Sunday 3pm. Mobile Legends: Bang Bang M6 World Championship</title>
+		<desc>LIVE 7 will commence broadcast of the Mobile Legends: Bang Bang M6 World Championship on 8th December, Sunday 3pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8381304'&amp;EntityType='LinearSchedule'&amp;EntityId='618ece4e-0703-4985-84f9-f63284d6e932'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
