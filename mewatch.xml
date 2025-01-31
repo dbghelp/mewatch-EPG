@@ -68,6 +68,10 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
 	<programme channel="97098" start="20250130160000 +0000" stop="20250130181500 +0000">
 		<title>Footloose</title>
 		<desc>City teenager Ren MacCormack moves to a small town where rock music and dancing have been banned, and his rebellious spirit shakes up the populace.</desc>
@@ -1828,6 +1832,16 @@
 		<desc>LIVE 5 will commence broadcast of the Singapore Tennis Open 2025: Women’s Singles Semi-finals on 1st February, Saturday 2pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8522670'&amp;EntityType='LinearSchedule'&amp;EntityId='15c3e9e8-6b15-4752-8aaa-08ca7a4dd603'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="204746" start="20250130160000 +0000" stop="20250131160000 +0000">
+		<title>No Programme available now. Next Broadcast on 2nd February, Sunday 12pm. Singapore Smash 2025</title>
+		<desc>LIVE 6 will commence broadcast of the Singapore Smash 2025 on 2nd February, Sunday 12pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8542976'&amp;EntityType='LinearSchedule'&amp;EntityId='40588370-a0f0-4d4b-bd4a-063b99505b07'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250131160000 +0000" stop="20250201160000 +0000">
+		<title>No Programme available now. Next Broadcast on 2nd February, Sunday 12pm. Singapore Smash 2025</title>
+		<desc>LIVE 6 will commence broadcast of the Singapore Smash 2025 on 2nd February, Sunday 12pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8542985'&amp;EntityType='LinearSchedule'&amp;EntityId='88d6ac5c-32d8-4889-a5f0-ba63662a42ac'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20250131163000 +0000" stop="20250131191000 +0000">
 		<title>Thirteen Days</title>
 		<desc>In October 1962, the Kennedy administration struggles to contain the Cuban Missile Crisis.</desc>
@@ -3377,5 +3391,10 @@
 		<title>No Programme available now. Next Broadcast on 1st February, Saturday 2pm. Singapore Tennis Open 2025: Women’s Singles Semi-finals</title>
 		<desc>LIVE 5 will commence broadcast of the Singapore Tennis Open 2025: Women’s Singles Semi-finals on 1st February, Saturday 2pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8525148'&amp;EntityType='LinearSchedule'&amp;EntityId='ce212b1b-12cb-4cf5-815d-4ceb304e0d74'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250201160000 +0000" stop="20250202040000 +0000">
+		<title>No Programme available now. Next Broadcast on 2nd February, Sunday 12pm. Singapore Smash 2025</title>
+		<desc>LIVE 6 will commence broadcast of the Singapore Smash 2025 on 2nd February, Sunday 12pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8543091'&amp;EntityType='LinearSchedule'&amp;EntityId='ef963ceb-c890-43fd-83a0-01a93bc1a2d0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
