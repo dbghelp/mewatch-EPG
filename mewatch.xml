@@ -64,10 +64,6 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="97078">
-		<display-name>LIVE 2</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
-	</channel>
 	<channel id="98202">
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
@@ -1942,16 +1938,6 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 17th March, Monday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8645940'&amp;EntityType='LinearSchedule'&amp;EntityId='7a0e0e6a-1a8d-4a09-9493-5033b749f93e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20250315160000 +0000" stop="20250316160000 +0000">
-		<title>No programme available now. Next broadcast on 21st March, Friday 8.30pm. ONE Friday Fights 101</title>
-		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 101 on 21st March, Friday 8.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8644071'&amp;EntityType='LinearSchedule'&amp;EntityId='230a146f-66cb-4b37-9b36-199d5f93adc5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20250316160000 +0000" stop="20250317160000 +0000">
-		<title>No programme available now. Next broadcast on 21st March, Friday 8.30pm. ONE Friday Fights 101</title>
-		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 101 on 21st March, Friday 8.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8645936'&amp;EntityType='LinearSchedule'&amp;EntityId='13fc6b60-0b88-458c-915e-1dab20d0795e'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="98202" start="20250315160000 +0000" stop="20250316160000 +0000">
 		<title>No Programme available now. Next Broadcast on 17th Mar, Monday 12.20am. Carabao Cup 2024/25: Liverpool vs Newcastle United</title>
 		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2024/25: Liverpool vs Newcastle United on 17th Mar, Monday 12.20am. Please stay tuned!</desc>
@@ -3666,11 +3652,6 @@
 		<title>No programme available now. Next broadcast on 18th March, Tuesday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 18th March, Tuesday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8648067'&amp;EntityType='LinearSchedule'&amp;EntityId='b0e1f26b-b959-4058-9513-e0a1c4921a4c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20250317160000 +0000" stop="20250318160000 +0000">
-		<title>No programme available now. Next broadcast on 21st March, Friday 8.30pm. ONE Friday Fights 101</title>
-		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 101 on 21st March, Friday 8.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8648044'&amp;EntityType='LinearSchedule'&amp;EntityId='64db3bb6-2998-4da4-8997-e7ebab7774ff'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98202" start="20250316162000 +0000" stop="20250316182000 +0000">
 		<title>Carabao Cup 2024/25: Liverpool vs Newcastle United</title>
