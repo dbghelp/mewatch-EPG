@@ -64,10 +64,6 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
 	<programme channel="97098" start="20250317160000 +0000" stop="20250317163000 +0000">
 		<title>Provocative - EP 38</title>
 		<desc>Clarissa reveals to Pierce that Hua Jie is the one orchestrating all the misfortune on herself. Nadrah is thrilled when she thinks Tess and Caleb are seeing each other.</desc>
@@ -1873,16 +1869,6 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 19th March, Wednesday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8650512'&amp;EntityType='LinearSchedule'&amp;EntityId='b5e0117a-d2f5-4433-b72d-4f37cf5c1639'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20250317160000 +0000" stop="20250318160000 +0000">
-		<title>No Programme available now. Next Broadcast on 21st March, Friday 8.13pm. Men's 'A' International Friendly: Singapore vs Nepal</title>
-		<desc>LIVE 5 will commence broadcast of the Men's 'A' International Friendly: Singapore vs Nepal on 21st March, Friday 8.13pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8650267'&amp;EntityType='LinearSchedule'&amp;EntityId='367a8542-a8e9-4e23-994b-23d91321a499'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250318160000 +0000" stop="20250319160000 +0000">
-		<title>No Programme available now. Next Broadcast on 21st March, Friday 8.13pm. Men's 'A' International Friendly: Singapore vs Nepal</title>
-		<desc>LIVE 5 will commence broadcast of the Men's 'A' International Friendly: Singapore vs Nepal on 21st March, Friday 8.13pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8650850'&amp;EntityType='LinearSchedule'&amp;EntityId='16211028-16d5-4a1e-ab37-d3e3ac5a9c87'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20250318162000 +0000" stop="20250318164500 +0000">
 		<title>Provocative - EP 39</title>
 		<desc>Sivan is hit by rumours of him being a dirty lawyer. Nadrah worries about Tess' reaction to Pierce's upcoming wedding with Clarissa.</desc>
@@ -3632,10 +3618,5 @@
 		<title>No programme available now. Next broadcast on 20th March, Thursday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 20th March, Thursday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8653109'&amp;EntityType='LinearSchedule'&amp;EntityId='840945a4-fa1d-4cf8-afa2-82f7cfed605d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250319160000 +0000" stop="20250320160000 +0000">
-		<title>No Programme available now. Next Broadcast on 21st March, Friday 8.13pm. Men's 'A' International Friendly: Singapore vs Nepal</title>
-		<desc>LIVE 5 will commence broadcast of the Men's 'A' International Friendly: Singapore vs Nepal on 21st March, Friday 8.13pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8653492'&amp;EntityType='LinearSchedule'&amp;EntityId='803e4111-517f-4087-8621-fc87cd51a5a5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
