@@ -64,6 +64,14 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
+	<channel id="97078">
+		<display-name>LIVE 2</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
+	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
 	<programme channel="97098" start="20250319160000 +0000" stop="20250319163000 +0000">
 		<title>Provocative - EP 40</title>
 		<desc>A hopeful Jolene shows Tess her portfolio, but Tess gives her the brush off. Venya has some harsh words for Sivan when he loses his head after another run-in with Derrick.</desc>
@@ -1874,6 +1882,26 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 21st March, Friday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8655725'&amp;EntityType='LinearSchedule'&amp;EntityId='d8b5fcad-96d5-408a-a60d-9d2427dc2beb'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="97078" start="20250319160000 +0000" stop="20250320160000 +0000">
+		<title>No programme available now. Next broadcast on 21st March, Friday 8.30pm. ONE Friday Fights 101</title>
+		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 101 on 21st March, Friday 8.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8653111'&amp;EntityType='LinearSchedule'&amp;EntityId='1da57f8f-ae38-4e77-b42f-3f6f529834f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20250320160000 +0000" stop="20250321123000 +0000">
+		<title>No programme available now. Next broadcast on 21st March, Friday 8.30pm. ONE Friday Fights 101</title>
+		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 101 on 21st March, Friday 8.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8655724'&amp;EntityType='LinearSchedule'&amp;EntityId='36a17331-4112-44fa-9e72-ea1adc9d9e52'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250319160000 +0000" stop="20250320160000 +0000">
+		<title>No Programme available now. Next Broadcast on 21st March, Friday 8.13pm. Men's 'A' International Friendly: Singapore vs Nepal</title>
+		<desc>LIVE 5 will commence broadcast of the Men's 'A' International Friendly: Singapore vs Nepal on 21st March, Friday 8.13pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8653492'&amp;EntityType='LinearSchedule'&amp;EntityId='803e4111-517f-4087-8621-fc87cd51a5a5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250320160000 +0000" stop="20250321121300 +0000">
+		<title>No Programme available now. Next Broadcast on 21st March, Friday 8.13pm. Men's 'A' International Friendly: Singapore vs Nepal</title>
+		<desc>LIVE 5 will commence broadcast of the Men's 'A' International Friendly: Singapore vs Nepal on 21st March, Friday 8.13pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8656131'&amp;EntityType='LinearSchedule'&amp;EntityId='e33838e3-287a-4d7c-ab61-accb6c1c3682'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20250320163000 +0000" stop="20250320170000 +0000">
 		<title>On The Red Dot - EP 38</title>
 		<desc>Dropping out of secondary school was not simply an easy way out for these three teenagers but a necessary choice by circumstances.</desc>
@@ -3553,5 +3581,25 @@
 		<title>No programme available now. Next broadcast on 22nd March, Saturday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 22nd March, Saturday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8658438'&amp;EntityType='LinearSchedule'&amp;EntityId='4b825faa-a1e5-4dd9-86fd-5ee342ae9074'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20250321123000 +0000" stop="20250321163000 +0000">
+		<title>ONE Friday Fights 101</title>
+		<desc>ONE Friday Fights 101</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8655737'&amp;EntityType='LinearSchedule'&amp;EntityId='fc0693c3-8f42-4e03-bdb9-787c56cd8a1b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250321121300 +0000" stop="20250321143000 +0000">
+		<title>Men's 'A' International Friendly: Singapore vs Nepal</title>
+		<desc>Gearing up for the AFC Asian Cup Saudi Arabia 2027, the Lions will take on Nepal in an ‘A’ International Friendly at the National Stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8660362'&amp;EntityType='LinearSchedule'&amp;EntityId='345a8dc3-749c-40d9-9368-de254931fe2b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250321143000 +0000" stop="20250321160000 +0000">
+		<title>No Programme available now. Next Broadcast on 25th March, Tuesday 8.13pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong on 25th March, Tuesday 8.13pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8656148'&amp;EntityType='LinearSchedule'&amp;EntityId='d579d786-ca97-49fe-a1bd-37eaf7126ced'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250321160000 +0000" stop="20250322160000 +0000">
+		<title>No Programme available now. Next Broadcast on 25th March, Tuesday 8.13pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong on 25th March, Tuesday 8.13pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8658814'&amp;EntityType='LinearSchedule'&amp;EntityId='7a040975-0665-4753-a8b3-5dbe0f59f8bb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
