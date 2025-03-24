@@ -36,6 +36,18 @@
 		<display-name>SPL CH02</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
 	</channel>
+	<channel id="97073">
+		<display-name>LIVE 1</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
+	</channel>
+	<channel id="97078">
+		<display-name>LIVE 2</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
+	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -59,18 +71,6 @@
 	<channel id="382872">
 		<display-name>CinemaWorld</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
-	</channel>
-	<channel id="97073">
-		<display-name>LIVE 1</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
-	</channel>
-	<channel id="97078">
-		<display-name>LIVE 2</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
-	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20250323153000 +0000" stop="20250323163000 +0000">
 		<title>The Mating Game - EP 4</title>
@@ -1177,6 +1177,166 @@
 		<desc>SPL 02 will commence broadcast of the 2024/25 Singapore Cup: Balestier Khalsa vs Tanjong Pagar United on 29th March, Saturday 8.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8664730'&amp;EntityType='LinearSchedule'&amp;EntityId='c4c2eadc-14a1-4042-9069-fc0ce1494902'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="97073" start="20250323160000 +0000" stop="20250324110000 +0000">
+		<title>No programme available now. Next broadcast on 24th March, Monday 7pm. The Wonder Shop Home Shopping</title>
+		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 24th March, Monday 7pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8663006'&amp;EntityType='LinearSchedule'&amp;EntityId='ce49ca6f-9b25-46c3-a41e-9fa3e4199355'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324110000 +0000" stop="20250324111400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Health+ Oral Care Mouthwash</title>
+		<desc>Alcohol-free mouthwash: gentle freshness for a healthier smile. 3款清新口味的护理漱口水，助你告别口腔问题及口腔异味！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679530'&amp;EntityType='LinearSchedule'&amp;EntityId='d93bfdd9-798f-4cf3-a0e9-530ab56e3616'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324111400 +0000" stop="20250324111600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Acerpure Chef KF1 2in1 Multifunctional Flip Air Fryer</title>
+		<desc>Airfry, Grill and Hot pot - your all in 1 cooking companion! Easy to clean and odor free, you can now enjoy a wide variety of food with just 1 simple flip! 这多用途空气炸锅让你能炸，烧烤和吃火锅。五种智能烹饪模式预设，以提供最佳时间和温度烹饪菜肴- 是你最佳的厨房好帮手。</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679534'&amp;EntityType='LinearSchedule'&amp;EntityId='a85843da-6605-4473-bcf4-041274c59255'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324111600 +0000" stop="20250324113000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Health+ Dermacare Skin Repair Cream</title>
+		<desc>Natural steroid free cream to soothe and nourish dry sensitive skin! 皮肤舒缓霜！帮助缓解湿疹症状！采用蛇头鱼及海参萃取，滋润皮肤!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679538'&amp;EntityType='LinearSchedule'&amp;EntityId='d36c0a3f-6c41-43a8-bfb5-3f75dae3e8c2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324113000 +0000" stop="20250324114400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Ultimo Cover Max</title>
+		<desc>Protects your mattress from dust mites and bed bugs with this Ultimate Bed Cover Mattress! 保洁床垫是床褥的防护衣! 智能布料助你夜夜有好眠</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679542'&amp;EntityType='LinearSchedule'&amp;EntityId='2fc9f94e-58fe-4b61-be26-e0707e429b07'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324114400 +0000" stop="20250324114600 +0000">
+		<title>The Wonder Shop (Home Shopping) - NuYou Body Brush</title>
+		<desc>Transform your shower routine into a luxurious spa experience with NuYou Body Brush! 全新Nuyou洗澡刷，轻轻松松就能把身体每一寸肌肤彻底洗净，让你感受高级、舒爽、零麻烦的洗澡享受！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679546'&amp;EntityType='LinearSchedule'&amp;EntityId='7f516377-d72c-4114-976a-e468fd04c998'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324114600 +0000" stop="20250324120000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Epitex Pillow Bundle</title>
+		<desc>Epitex Brace Contour Pillow is made from dermatological-grade elastomer polymers, molded into a unique grid-like structure that provides unparalleled support while reducing pressure on your head and neck by minimizing surface tension. Epitex Brace Contour Pillow由皮肤科级弹性硅胶制成，提供卓越支撑，有效吸收头颈压力。独特网格设计带来强支撑力和回弹性，同时减少对面部皮肤的挤压。</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679550'&amp;EntityType='LinearSchedule'&amp;EntityId='e3bfe21c-46e3-48a2-bf79-8d0872e7dd52'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324120000 +0000" stop="20250324121400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Ultimo Casa Evo 3-Fold Laundry Rack</title>
+		<desc>30kg capacity versatile laundry rack designed for both indoor and outdoor use! 家里人多衣服多？三折式晾衣架是你一次洗好晾衣的最佳选择 </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679554'&amp;EntityType='LinearSchedule'&amp;EntityId='197bca4a-0386-4eb4-ba63-c0fa51cdbf13'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324121400 +0000" stop="20250324121600 +0000">
+		<title>The Wonder Shop (Home Shopping) - La Gourmet Flame Electric Cooker</title>
+		<desc>La Gourmet Flame Electric Cooker This La Gourmet Flame Electric Cooker provides you with the best of both worlds by combining a hot pot and grill in one appliance. Enjoy versatile meal preparation, whether you’re simmering soups or grilling meats and vegetables! 这款La Gourmet 火焰电饭锅将火锅和烧烤炉结合一体。为您提供两全其美的享受。无论您是煮汤还是烧烤肉类和蔬菜，都能享受多功能的膳食准备！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679558'&amp;EntityType='LinearSchedule'&amp;EntityId='3444bbde-87dc-4840-866f-40a5ed396690'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324121600 +0000" stop="20250324123000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Mobot Opula Lite 4 Wheels Mobility Scooter</title>
+		<desc>The most sleek lightweight 18kg four-wheel mobility scooter that is foldable and for overseas traveling. 18公斤四轮电动代步车，时尚轻巧可折叠，方便带出国！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679562'&amp;EntityType='LinearSchedule'&amp;EntityId='2605427f-82f1-468b-b7c4-e2a6b1e55683'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324123000 +0000" stop="20250324124400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Health+ Gastoguard</title>
+		<desc>Relieve gastro problems like heartburn and refluxes! 肠燥症！胃食道逆流！怎么办？护胃保健品能帮助你！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679566'&amp;EntityType='LinearSchedule'&amp;EntityId='03ab5c49-8e33-4dd8-8034-d0e863da3256'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324124400 +0000" stop="20250324124600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Ultimo Cozy Cool Blanket</title>
+		<desc>Breathable, comfortable and safe, cooling quilt suitable for sensitive skin. 透气、舒适、安全，适合敏感肌肤使用的Ultimo凉感被</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679570'&amp;EntityType='LinearSchedule'&amp;EntityId='05f6962c-3ba7-4c9d-b628-299a7a85c730'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324124600 +0000" stop="20250324130000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Cheong Dam Black Change Shampoo</title>
+		<desc>Grey Hair Coverage in just 5 washes! 全新4合1遮白洗发水：含天然成分，白发5天内变黑发！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679574'&amp;EntityType='LinearSchedule'&amp;EntityId='694cd755-aa47-47bf-bc11-9cffcabbb3e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324130000 +0000" stop="20250324131400 +0000">
+		<title>The Wonder Shop (Home Shopping) - I-Running X-Fold Exercise Bike</title>
+		<desc>The X-Fold Exercise Bike is a compact, foldable exercise bike designed for small spaces, offering adjustable resistance, an LCD display and Mobile App connectivity for your workout. Its space-saving design makes it ideal for convenient home cardio sessions. I-Running X-Fold折叠运动脚踏车，设计时尚小巧，配有舒适座垫、可调阻力和LCD显示屏，支持手机App连接，适合家庭健身使用。其折叠设计节省空间便于收纳，帮助您在家轻松进行有氧运动，保持体能、身形和肌肉量。</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679578'&amp;EntityType='LinearSchedule'&amp;EntityId='6c55d2ae-33b8-4ee0-b84b-235c21513558'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324131400 +0000" stop="20250324131600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Gourmet Chef Mini Multi Cooker</title>
+		<desc>Gourmet Chef Mini Multi Cooker6-in-1 mini multi-cooker for easy cooking! 蒸、煮、炒、炸、炖、火锅。功能6合1，轻便安全，使用最安心。</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679582'&amp;EntityType='LinearSchedule'&amp;EntityId='b3ae6296-4971-49b5-ae97-ba1a43f40c12'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324131600 +0000" stop="20250324133000 +0000">
+		<title>The Wonder Shop (Home Shopping) - IRIS OHYAMA Dust Mite Vacuum Cleaner</title>
+		<desc>Powerful, lightweight dust mite vacuum with a smart indicator light for easy monitoring and dust mites removal up to 98%. 强力轻便的尘螨吸尘器，配有智能指示灯，方便监控，尘螨去除率高达98%。</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679586'&amp;EntityType='LinearSchedule'&amp;EntityId='c7045857-f480-4be7-b5b5-0704860bbe33'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324133000 +0000" stop="20250324133700 +0000">
+		<title>The Wonder Shop (Home Shopping) - Ultimo Kleen 5-in-1 Laundry Pods</title>
+		<desc>Say goodbye to measuring and mess – simply toss in this laundry pod and let it do the rest! 完美结合洗衣、消毒、柔软、除臭及芳香剂的5合1浓缩洗衣凝珠</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679590'&amp;EntityType='LinearSchedule'&amp;EntityId='42e91f04-cca5-4811-8da2-9ce22666e937'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324133700 +0000" stop="20250324134400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Koli Pain Relief Plaster &amp; Massage Roller</title>
+		<desc>Discover the ultimate duo for soothing relief: Pain &amp; Relief Plaster &amp; Massage Roller. 天然植物及中草药成分的止痛贴布及按摩滚珠，很够力！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679594'&amp;EntityType='LinearSchedule'&amp;EntityId='2973f4c5-e449-4e12-8a59-8129892a4dca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324134400 +0000" stop="20250324134600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Krafter Purple Magic Sheet</title>
+		<desc>South Korea’s no. 1 Home Shopping product! A multi-purpose cleaning sheet that works wonders by effectively removing grease, stains, mould and odors on all surfaces! 韩国电视购物频台爆款！这万能布能有效地清理顽固的污渍， 油脂和气味！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679598'&amp;EntityType='LinearSchedule'&amp;EntityId='0b8d056e-7126-4f57-bc64-bb63d9c6a078'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324134600 +0000" stop="20250324140000 +0000">
+		<title>The Wonder Shop (Home Shopping) - BRAND'S ® Health-For-All Set</title>
+		<desc>Healthy body, healthy life. Step it up with Brands! 生活过得好，身体健康最重要。阖家健康保健品，为你加油打气！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679602'&amp;EntityType='LinearSchedule'&amp;EntityId='63f09660-7c4f-4a9e-8423-c6d5c5346227'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324140000 +0000" stop="20250324141400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Kale Powder</title>
+		<desc>The Kale is a superfood packed with 23 essential nutrients to support daily dietary needs. Our organic pure kale powder contains no additives, preservatives, added antioxidants, or colorants, making it suitable for all ages to maintain a healthy lifestyle. 羽衣甘蓝是一种富含23种必需营养素的超级食物，可满足日常膳食需求。我们的有机纯羽衣甘蓝粉无添加剂、防腐剂、抗氧化剂和色素，适合所有年龄段人群，有助于保持健康.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679606'&amp;EntityType='LinearSchedule'&amp;EntityId='d5d29dbb-2896-4ef7-a3c9-1876b9d04ea3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324141400 +0000" stop="20250324141600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Thermos TCMF-501 0.5L Mug with Strainer &amp; Handle</title>
+		<desc>Sleek and lightweight Thermos Mug with strainer for you to enjoy your tea to the fullest. Suitable for everyday use! 一杯多用， 茶水分离, 设计典雅的茶漏咖啡杯让你方便携带！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679610'&amp;EntityType='LinearSchedule'&amp;EntityId='c5a1ba9d-eea9-4f35-af8a-ddbbb12aac7c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324141600 +0000" stop="20250324143000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Food Art Souper Nourish Bundle Set</title>
+		<desc>No-Cook, delicious and nourishing soup that is conveniently accessible for everyone 味美清甜的免煮滋补汤，让每个人都能随时随地轻松养生！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679614'&amp;EntityType='LinearSchedule'&amp;EntityId='331d30b0-4ffb-4598-8044-9cd014329cff'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324143000 +0000" stop="20250324144400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Gourmet Chef Warm Mate</title>
+		<desc>Keep the flavor alive and your dishes warm with our Food Warmer! 家里一定要有的保温板，让你再也不会吃到凉掉的饭菜！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679618'&amp;EntityType='LinearSchedule'&amp;EntityId='828872de-2c1f-4889-b8f6-59adc581fe65'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324144400 +0000" stop="20250324144600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Recogen Prime</title>
+		<desc>Recogen Prime is a proprietary blend with superfruit complex and whey protein isolates to keep your body and mind in sync- all in one convenient sachet! Great for anyone looking to improve energy levels both physically and mentally! Recogen Prime 是一种含有超级水果复合物和乳清分离蛋白的专有混合物，可让您身心保持平衡。非常适合任何想要提高身体和精神能量水平的人。</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679622'&amp;EntityType='LinearSchedule'&amp;EntityId='b335b1d9-91f2-474e-9c8e-a6e5972cef48'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324144600 +0000" stop="20250324150000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Thomson Osteopro</title>
+		<desc>Supports knee health, Improves and maintains healthy joints and cartilage. 关节僵硬、不灵活？护节灵助你顾好关节,一定行!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679626'&amp;EntityType='LinearSchedule'&amp;EntityId='f386dcb4-41ca-4d81-82eb-77013aa401b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324150000 +0000" stop="20250324160000 +0000">
+		<title>No programme available now. Next broadcast on 25th March, Tuesday 7pm. The Wonder Shop Home Shopping</title>
+		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 25th March, Tuesday 7pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8663036'&amp;EntityType='LinearSchedule'&amp;EntityId='6cdbc4b9-fb08-4b42-9443-3f16fbeff896'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250324160000 +0000" stop="20250325110000 +0000">
+		<title>No programme available now. Next broadcast on 25th March, Tuesday 7pm. The Wonder Shop Home Shopping</title>
+		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 25th March, Tuesday 7pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8664667'&amp;EntityType='LinearSchedule'&amp;EntityId='0fc292c2-7ac4-47fb-a5cd-77396b61532a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20250323160000 +0000" stop="20250324160000 +0000">
+		<title>No programme available now. Next broadcast on 28th March, Friday 8.30pm. ONE Friday Fights 102</title>
+		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 102 on 28th March, Friday 8.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8662822'&amp;EntityType='LinearSchedule'&amp;EntityId='1e8998d2-f24c-4148-89f8-390d3648a123'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20250324160000 +0000" stop="20250325160000 +0000">
+		<title>No programme available now. Next broadcast on 28th March, Friday 8.30pm. ONE Friday Fights 102</title>
+		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 102 on 28th March, Friday 8.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8664562'&amp;EntityType='LinearSchedule'&amp;EntityId='51a38927-d281-47ac-b7d1-e669cb634f3e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250323160000 +0000" stop="20250324160000 +0000">
+		<title>No Programme available now. Next Broadcast on 25th March, Tuesday 8.13pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong on 25th March, Tuesday 8.13pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8663065'&amp;EntityType='LinearSchedule'&amp;EntityId='9a476f4f-0327-4880-b10d-e9989583a31b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250324160000 +0000" stop="20250325121300 +0000">
+		<title>No Programme available now. Next Broadcast on 25th March, Tuesday 8.13pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong on 25th March, Tuesday 8.13pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8664738'&amp;EntityType='LinearSchedule'&amp;EntityId='aa710b0a-69ed-4249-af7a-91e3f746e0fe'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="158965" start="20250323160000 +0000" stop="20250323190000 +0000">
 		<title>Only The Biggest 80s Anthems!</title>
 		<desc>All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
@@ -1721,166 +1881,6 @@
 		<title>One Floor Below</title>
 		<desc>After being the sole unfortunate witness to a domestic quarrel that ends up in a murder, Patrascu finds himself at odds with two very close neighbours: one is the bizarre murderer. The other is his very own conscience.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8663903'&amp;EntityType='LinearSchedule'&amp;EntityId='a965e2a7-25c3-45f0-b8a9-162203687237'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250323160000 +0000" stop="20250324110000 +0000">
-		<title>No programme available now. Next broadcast on 24th March, Monday 7pm. The Wonder Shop Home Shopping</title>
-		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 24th March, Monday 7pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8663006'&amp;EntityType='LinearSchedule'&amp;EntityId='ce49ca6f-9b25-46c3-a41e-9fa3e4199355'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324110000 +0000" stop="20250324111400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Health+ Oral Care Mouthwash</title>
-		<desc>Alcohol-free mouthwash: gentle freshness for a healthier smile. 3款清新口味的护理漱口水，助你告别口腔问题及口腔异味！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679530'&amp;EntityType='LinearSchedule'&amp;EntityId='d93bfdd9-798f-4cf3-a0e9-530ab56e3616'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324111400 +0000" stop="20250324111600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Acerpure Chef KF1 2in1 Multifunctional Flip Air Fryer</title>
-		<desc>Airfry, Grill and Hot pot - your all in 1 cooking companion! Easy to clean and odor free, you can now enjoy a wide variety of food with just 1 simple flip! 这多用途空气炸锅让你能炸，烧烤和吃火锅。五种智能烹饪模式预设，以提供最佳时间和温度烹饪菜肴- 是你最佳的厨房好帮手。</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679534'&amp;EntityType='LinearSchedule'&amp;EntityId='a85843da-6605-4473-bcf4-041274c59255'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324111600 +0000" stop="20250324113000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Health+ Dermacare Skin Repair Cream</title>
-		<desc>Natural steroid free cream to soothe and nourish dry sensitive skin! 皮肤舒缓霜！帮助缓解湿疹症状！采用蛇头鱼及海参萃取，滋润皮肤!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679538'&amp;EntityType='LinearSchedule'&amp;EntityId='d36c0a3f-6c41-43a8-bfb5-3f75dae3e8c2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324113000 +0000" stop="20250324114400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Ultimo Cover Max</title>
-		<desc>Protects your mattress from dust mites and bed bugs with this Ultimate Bed Cover Mattress! 保洁床垫是床褥的防护衣! 智能布料助你夜夜有好眠</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679542'&amp;EntityType='LinearSchedule'&amp;EntityId='2fc9f94e-58fe-4b61-be26-e0707e429b07'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324114400 +0000" stop="20250324114600 +0000">
-		<title>The Wonder Shop (Home Shopping) - NuYou Body Brush</title>
-		<desc>Transform your shower routine into a luxurious spa experience with NuYou Body Brush! 全新Nuyou洗澡刷，轻轻松松就能把身体每一寸肌肤彻底洗净，让你感受高级、舒爽、零麻烦的洗澡享受！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679546'&amp;EntityType='LinearSchedule'&amp;EntityId='7f516377-d72c-4114-976a-e468fd04c998'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324114600 +0000" stop="20250324120000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Epitex Pillow Bundle</title>
-		<desc>Epitex Brace Contour Pillow is made from dermatological-grade elastomer polymers, molded into a unique grid-like structure that provides unparalleled support while reducing pressure on your head and neck by minimizing surface tension. Epitex Brace Contour Pillow由皮肤科级弹性硅胶制成，提供卓越支撑，有效吸收头颈压力。独特网格设计带来强支撑力和回弹性，同时减少对面部皮肤的挤压。</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679550'&amp;EntityType='LinearSchedule'&amp;EntityId='e3bfe21c-46e3-48a2-bf79-8d0872e7dd52'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324120000 +0000" stop="20250324121400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Ultimo Casa Evo 3-Fold Laundry Rack</title>
-		<desc>30kg capacity versatile laundry rack designed for both indoor and outdoor use! 家里人多衣服多？三折式晾衣架是你一次洗好晾衣的最佳选择 </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679554'&amp;EntityType='LinearSchedule'&amp;EntityId='197bca4a-0386-4eb4-ba63-c0fa51cdbf13'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324121400 +0000" stop="20250324121600 +0000">
-		<title>The Wonder Shop (Home Shopping) - La Gourmet Flame Electric Cooker</title>
-		<desc>La Gourmet Flame Electric Cooker This La Gourmet Flame Electric Cooker provides you with the best of both worlds by combining a hot pot and grill in one appliance. Enjoy versatile meal preparation, whether you’re simmering soups or grilling meats and vegetables! 这款La Gourmet 火焰电饭锅将火锅和烧烤炉结合一体。为您提供两全其美的享受。无论您是煮汤还是烧烤肉类和蔬菜，都能享受多功能的膳食准备！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679558'&amp;EntityType='LinearSchedule'&amp;EntityId='3444bbde-87dc-4840-866f-40a5ed396690'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324121600 +0000" stop="20250324123000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Mobot Opula Lite 4 Wheels Mobility Scooter</title>
-		<desc>The most sleek lightweight 18kg four-wheel mobility scooter that is foldable and for overseas traveling. 18公斤四轮电动代步车，时尚轻巧可折叠，方便带出国！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679562'&amp;EntityType='LinearSchedule'&amp;EntityId='2605427f-82f1-468b-b7c4-e2a6b1e55683'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324123000 +0000" stop="20250324124400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Health+ Gastoguard</title>
-		<desc>Relieve gastro problems like heartburn and refluxes! 肠燥症！胃食道逆流！怎么办？护胃保健品能帮助你！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679566'&amp;EntityType='LinearSchedule'&amp;EntityId='03ab5c49-8e33-4dd8-8034-d0e863da3256'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324124400 +0000" stop="20250324124600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Ultimo Cozy Cool Blanket</title>
-		<desc>Breathable, comfortable and safe, cooling quilt suitable for sensitive skin. 透气、舒适、安全，适合敏感肌肤使用的Ultimo凉感被</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679570'&amp;EntityType='LinearSchedule'&amp;EntityId='05f6962c-3ba7-4c9d-b628-299a7a85c730'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324124600 +0000" stop="20250324130000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Cheong Dam Black Change Shampoo</title>
-		<desc>Grey Hair Coverage in just 5 washes! 全新4合1遮白洗发水：含天然成分，白发5天内变黑发！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679574'&amp;EntityType='LinearSchedule'&amp;EntityId='694cd755-aa47-47bf-bc11-9cffcabbb3e1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324130000 +0000" stop="20250324131400 +0000">
-		<title>The Wonder Shop (Home Shopping) - I-Running X-Fold Exercise Bike</title>
-		<desc>The X-Fold Exercise Bike is a compact, foldable exercise bike designed for small spaces, offering adjustable resistance, an LCD display and Mobile App connectivity for your workout. Its space-saving design makes it ideal for convenient home cardio sessions. I-Running X-Fold折叠运动脚踏车，设计时尚小巧，配有舒适座垫、可调阻力和LCD显示屏，支持手机App连接，适合家庭健身使用。其折叠设计节省空间便于收纳，帮助您在家轻松进行有氧运动，保持体能、身形和肌肉量。</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679578'&amp;EntityType='LinearSchedule'&amp;EntityId='6c55d2ae-33b8-4ee0-b84b-235c21513558'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324131400 +0000" stop="20250324131600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Gourmet Chef Mini Multi Cooker</title>
-		<desc>Gourmet Chef Mini Multi Cooker6-in-1 mini multi-cooker for easy cooking! 蒸、煮、炒、炸、炖、火锅。功能6合1，轻便安全，使用最安心。</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679582'&amp;EntityType='LinearSchedule'&amp;EntityId='b3ae6296-4971-49b5-ae97-ba1a43f40c12'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324131600 +0000" stop="20250324133000 +0000">
-		<title>The Wonder Shop (Home Shopping) - IRIS OHYAMA Dust Mite Vacuum Cleaner</title>
-		<desc>Powerful, lightweight dust mite vacuum with a smart indicator light for easy monitoring and dust mites removal up to 98%. 强力轻便的尘螨吸尘器，配有智能指示灯，方便监控，尘螨去除率高达98%。</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679586'&amp;EntityType='LinearSchedule'&amp;EntityId='c7045857-f480-4be7-b5b5-0704860bbe33'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324133000 +0000" stop="20250324133700 +0000">
-		<title>The Wonder Shop (Home Shopping) - Ultimo Kleen 5-in-1 Laundry Pods</title>
-		<desc>Say goodbye to measuring and mess – simply toss in this laundry pod and let it do the rest! 完美结合洗衣、消毒、柔软、除臭及芳香剂的5合1浓缩洗衣凝珠</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679590'&amp;EntityType='LinearSchedule'&amp;EntityId='42e91f04-cca5-4811-8da2-9ce22666e937'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324133700 +0000" stop="20250324134400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Koli Pain Relief Plaster &amp; Massage Roller</title>
-		<desc>Discover the ultimate duo for soothing relief: Pain &amp; Relief Plaster &amp; Massage Roller. 天然植物及中草药成分的止痛贴布及按摩滚珠，很够力！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679594'&amp;EntityType='LinearSchedule'&amp;EntityId='2973f4c5-e449-4e12-8a59-8129892a4dca'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324134400 +0000" stop="20250324134600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Krafter Purple Magic Sheet</title>
-		<desc>South Korea’s no. 1 Home Shopping product! A multi-purpose cleaning sheet that works wonders by effectively removing grease, stains, mould and odors on all surfaces! 韩国电视购物频台爆款！这万能布能有效地清理顽固的污渍， 油脂和气味！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679598'&amp;EntityType='LinearSchedule'&amp;EntityId='0b8d056e-7126-4f57-bc64-bb63d9c6a078'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324134600 +0000" stop="20250324140000 +0000">
-		<title>The Wonder Shop (Home Shopping) - BRAND'S ® Health-For-All Set</title>
-		<desc>Healthy body, healthy life. Step it up with Brands! 生活过得好，身体健康最重要。阖家健康保健品，为你加油打气！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679602'&amp;EntityType='LinearSchedule'&amp;EntityId='63f09660-7c4f-4a9e-8423-c6d5c5346227'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324140000 +0000" stop="20250324141400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Kale Powder</title>
-		<desc>The Kale is a superfood packed with 23 essential nutrients to support daily dietary needs. Our organic pure kale powder contains no additives, preservatives, added antioxidants, or colorants, making it suitable for all ages to maintain a healthy lifestyle. 羽衣甘蓝是一种富含23种必需营养素的超级食物，可满足日常膳食需求。我们的有机纯羽衣甘蓝粉无添加剂、防腐剂、抗氧化剂和色素，适合所有年龄段人群，有助于保持健康.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679606'&amp;EntityType='LinearSchedule'&amp;EntityId='d5d29dbb-2896-4ef7-a3c9-1876b9d04ea3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324141400 +0000" stop="20250324141600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Thermos TCMF-501 0.5L Mug with Strainer &amp; Handle</title>
-		<desc>Sleek and lightweight Thermos Mug with strainer for you to enjoy your tea to the fullest. Suitable for everyday use! 一杯多用， 茶水分离, 设计典雅的茶漏咖啡杯让你方便携带！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679610'&amp;EntityType='LinearSchedule'&amp;EntityId='c5a1ba9d-eea9-4f35-af8a-ddbbb12aac7c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324141600 +0000" stop="20250324143000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Food Art Souper Nourish Bundle Set</title>
-		<desc>No-Cook, delicious and nourishing soup that is conveniently accessible for everyone 味美清甜的免煮滋补汤，让每个人都能随时随地轻松养生！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679614'&amp;EntityType='LinearSchedule'&amp;EntityId='331d30b0-4ffb-4598-8044-9cd014329cff'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324143000 +0000" stop="20250324144400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Gourmet Chef Warm Mate</title>
-		<desc>Keep the flavor alive and your dishes warm with our Food Warmer! 家里一定要有的保温板，让你再也不会吃到凉掉的饭菜！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679618'&amp;EntityType='LinearSchedule'&amp;EntityId='828872de-2c1f-4889-b8f6-59adc581fe65'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324144400 +0000" stop="20250324144600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Recogen Prime</title>
-		<desc>Recogen Prime is a proprietary blend with superfruit complex and whey protein isolates to keep your body and mind in sync- all in one convenient sachet! Great for anyone looking to improve energy levels both physically and mentally! Recogen Prime 是一种含有超级水果复合物和乳清分离蛋白的专有混合物，可让您身心保持平衡。非常适合任何想要提高身体和精神能量水平的人。</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679622'&amp;EntityType='LinearSchedule'&amp;EntityId='b335b1d9-91f2-474e-9c8e-a6e5972cef48'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324144600 +0000" stop="20250324150000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Thomson Osteopro</title>
-		<desc>Supports knee health, Improves and maintains healthy joints and cartilage. 关节僵硬、不灵活？护节灵助你顾好关节,一定行!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679626'&amp;EntityType='LinearSchedule'&amp;EntityId='f386dcb4-41ca-4d81-82eb-77013aa401b6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324150000 +0000" stop="20250324160000 +0000">
-		<title>No programme available now. Next broadcast on 25th March, Tuesday 7pm. The Wonder Shop Home Shopping</title>
-		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 25th March, Tuesday 7pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8663036'&amp;EntityType='LinearSchedule'&amp;EntityId='6cdbc4b9-fb08-4b42-9443-3f16fbeff896'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250324160000 +0000" stop="20250325110000 +0000">
-		<title>No programme available now. Next broadcast on 25th March, Tuesday 7pm. The Wonder Shop Home Shopping</title>
-		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 25th March, Tuesday 7pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8664667'&amp;EntityType='LinearSchedule'&amp;EntityId='0fc292c2-7ac4-47fb-a5cd-77396b61532a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20250323160000 +0000" stop="20250324160000 +0000">
-		<title>No programme available now. Next broadcast on 28th March, Friday 8.30pm. ONE Friday Fights 102</title>
-		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 102 on 28th March, Friday 8.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8662822'&amp;EntityType='LinearSchedule'&amp;EntityId='1e8998d2-f24c-4148-89f8-390d3648a123'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20250324160000 +0000" stop="20250325160000 +0000">
-		<title>No programme available now. Next broadcast on 28th March, Friday 8.30pm. ONE Friday Fights 102</title>
-		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 102 on 28th March, Friday 8.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8664562'&amp;EntityType='LinearSchedule'&amp;EntityId='51a38927-d281-47ac-b7d1-e669cb634f3e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250323160000 +0000" stop="20250324160000 +0000">
-		<title>No Programme available now. Next Broadcast on 25th March, Tuesday 8.13pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong on 25th March, Tuesday 8.13pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8663065'&amp;EntityType='LinearSchedule'&amp;EntityId='9a476f4f-0327-4880-b10d-e9989583a31b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250324160000 +0000" stop="20250325121300 +0000">
-		<title>No Programme available now. Next Broadcast on 25th March, Tuesday 8.13pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong on 25th March, Tuesday 8.13pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8664738'&amp;EntityType='LinearSchedule'&amp;EntityId='aa710b0a-69ed-4249-af7a-91e3f746e0fe'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250324163000 +0000" stop="20250324173000 +0000">
 		<title>Leverage: Redemption S1 - EP 9</title>
@@ -2932,6 +2932,161 @@
 		<desc>SPL 02 will commence broadcast of the 2024/25 Singapore Cup: Balestier Khalsa vs Tanjong Pagar United on 29th March, Saturday 8.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8666782'&amp;EntityType='LinearSchedule'&amp;EntityId='70bd22fc-b73a-48e7-a7d8-a3278615ed44'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="97073" start="20250325110000 +0000" stop="20250325111400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Thermos Shuttle Chef Thermal Cooker</title>
+		<desc>Energy-saving, no-fire thermal cooker preserves nutrients, prepare in the morning, enjoy a hot meal later 节能无火焖烧锅，保持食物营养, 早上轻松准备，晚上即可享用热食</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679630'&amp;EntityType='LinearSchedule'&amp;EntityId='fca07acb-09d7-48c7-a7cc-dd0e81087739'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325111400 +0000" stop="20250325111600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Ultimo Cozy Cool Blanket</title>
+		<desc>Breathable, comfortable and safe, cooling quilt suitable for sensitive skin. 透气、舒适、安全，适合敏感肌肤使用的Ultimo凉感被</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679634'&amp;EntityType='LinearSchedule'&amp;EntityId='507f5c31-1d30-4544-9b15-36683a2b9d0b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325111600 +0000" stop="20250325113000 +0000">
+		<title>The Wonder Shop (Home Shopping) - QN 3 Bottles Special Bundle</title>
+		<desc>Promotes Bone, Joint and Eye Health Wellness! 保健三件组为关节及骨骼强壮做好防护，为视力退化做好防范!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679638'&amp;EntityType='LinearSchedule'&amp;EntityId='1fb89a93-e088-4dfc-8710-b8ee7743bfb5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325113000 +0000" stop="20250325114400 +0000">
+		<title>The Wonder Shop (Home Shopping) - ASD Hybrid 3-ply Hex Wok 32 &amp; 36cm</title>
+		<desc>This cookware is made with strong stainless steel and a long-lasting non-stick coating from Whitford (USA). Its 7-layer design ensures even heat distribution and helps keep heat longer, providing great cooking results every time. Perfect for those looking for high-quality, easy-to-use kitchen tools. ASD爱仕达316不锈钢不粘炒锅采用三层钢结构与耐高温不粘涂层，结合了不锈钢的耐用与不粘锅的便捷。蜂窝纹理设计省油防粘，食材加热均匀，不怕铁铲和钢丝球刮擦，适合烹饪各种坚硬食材。</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679642'&amp;EntityType='LinearSchedule'&amp;EntityId='7ba94e04-7261-4ff7-b0b1-8264c55d4e55'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325114400 +0000" stop="20250325114600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Vileda EasyWring Spin Mop &amp; Bucket Cleaning Bundle Set</title>
+		<desc>The secret weapon for effortless cleaning. 说再见脏地板，迎接闪亮干净！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679646'&amp;EntityType='LinearSchedule'&amp;EntityId='599b34c5-93de-4e18-bf35-59acb50b85f5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325114600 +0000" stop="20250325120000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Omron Electronic Nerve Stimulator</title>
+		<desc>Compact &amp; intuitive design massager that allows you to treat specific pain areas wherever you are. 微电流电疗结合热敷功能，帮助舒缓疼痛的好帮手，哪里痛就贴哪里！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679650'&amp;EntityType='LinearSchedule'&amp;EntityId='bb6495bd-6fff-455b-82f9-744003d459dd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325120000 +0000" stop="20250325121400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Thomson Probiotic</title>
+		<desc>Thomson ProbioGut is a premium probiotic supplement designed to support digestive health, boost immunity, and promote overall well-being. Formulated with two clinically researched Japanese probiotic strains—it helps improve gut flora, regulate bowel movements, and maintain a healthy body weight. Thomson ProbioGut 是一款优质的益生菌补充剂，专为支持消化健康、增强免疫力和促进整体健康而设计。采用两种临床研究认证的日本益生菌菌株— 有助于改善肠道菌群、调节排便，并维持健康的体重</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679654'&amp;EntityType='LinearSchedule'&amp;EntityId='220732da-55cd-4ec1-b26d-5600f5d538fa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325121400 +0000" stop="20250325121600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Thermos TCMF-501 0.5L Mug with Strainer &amp; Handle</title>
+		<desc>Sleek and lightweight Thermos Mug with strainer for you to enjoy your tea to the fullest. Suitable for everyday use! 一杯多用， 茶水分离, 设计典雅的茶漏咖啡杯让你方便携带！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679658'&amp;EntityType='LinearSchedule'&amp;EntityId='dab234ac-dd2f-4d43-854f-b20f9a671cb9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325121600 +0000" stop="20250325123000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Food Art Souper Nourish Bundle Set</title>
+		<desc>No-Cook, delicious and nourishing soup that is conveniently accessible for everyone 味美清甜的免煮滋补汤，让每个人都能随时随地轻松养生！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679662'&amp;EntityType='LinearSchedule'&amp;EntityId='ca673689-e200-4b71-bcab-768ccc1c871f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325123000 +0000" stop="20250325124400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Gourmet Chef Healthy Rice Cooker</title>
+		<desc>Smart Low Sugar Rice Cooker with 3L capacity and comes with 6 pre-programmed cooking functions! 养生电饭锅能降低白米55%的淀粉让你煮出更健康的米饭! </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679666'&amp;EntityType='LinearSchedule'&amp;EntityId='13a03a69-61c3-4a1a-a5f7-6619ed931f0d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325124400 +0000" stop="20250325124600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Wiltshire Pink Board Bundle</title>
+		<desc>All-in-one knife, scissors and board bundle that makes your life easier with an in-built knife sharpener! 全套组合菜刀、剪刀、砧板，让你下厨更轻松！菜刀和剪刀附专业磨刀套！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679670'&amp;EntityType='LinearSchedule'&amp;EntityId='cdef5a00-1aeb-4330-9d36-9ea1e8e1c8ad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325124600 +0000" stop="20250325130000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Dr Wu</title>
+		<desc>Dr Wu Ageversal Advanced Rejuvenate Eye Cream targets eye-area concerns such as fine lines, dullness, puffiness, and sagging, repairing skin and enhancing firmness. Together with the Dr Wu Ageversal Multi-Peptides Anti-Aging Ampoule, which combines 10 peptides with 10x concentrated active ingredients, it helps to reduce fine lines and restores elasticity. Dr.Wu 超逆龄肌因抚纹眼霜针对眼周细纹、暗沉、浮肿、松弛等问题，修护脆弱肌肤，提升紧致。搭配Dr.Wu超逆龄多肽抗皱安瓶，融合10种胜肽与10倍浓缩活性成分，有效淡化细纹、紧致肌肤、恢复弹性。</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679674'&amp;EntityType='LinearSchedule'&amp;EntityId='20a5c67e-17aa-4174-ae63-955eae0b425c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325130000 +0000" stop="20250325131400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Thomson Livrin</title>
+		<desc>Promotes and Enhances Liver Health with Thomson Livrin! 奶蓟精华有助维护肝脏健康、精神更佳、皮肤更美哦！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679678'&amp;EntityType='LinearSchedule'&amp;EntityId='d75e4d26-e516-423a-b40c-8333ab3337e9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325131400 +0000" stop="20250325131600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Posture Doctor</title>
+		<desc>Quick and easy posture corrector! 快速简易姿势矫正器</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679682'&amp;EntityType='LinearSchedule'&amp;EntityId='80f2aa1b-1150-437d-9f0b-93522a62af4e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325131600 +0000" stop="20250325133000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Health+ Oral Care Mouthwash</title>
+		<desc>Alcohol-free mouthwash: gentle freshness for a healthier smile. 3款清新口味的护理漱口水，助你告别口腔问题及口腔异味！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679686'&amp;EntityType='LinearSchedule'&amp;EntityId='b69fd1a3-f082-4d04-9d04-04a3decd86d9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325133000 +0000" stop="20250325133700 +0000">
+		<title>The Wonder Shop (Home Shopping) - Derm Derm Herbal Toothpaste Propolis</title>
+		<desc>Pure herbal extract toothpaste effectively treats sensitive teeth and helps fight bacteria to prevent tooth decay. Derm Derm Kids Honey Lemon toothpaste is suitable for children as young as one year old. 纯草本提取牙膏，有效治疗敏感牙齿，帮助对抗细菌，预防蛀牙。Derm Derm 儿童天然草本牙膏，蜂蜜柠檬口味牙膏适合一岁以上的儿童使用。</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679690'&amp;EntityType='LinearSchedule'&amp;EntityId='030ac2f4-3ed1-4146-b52f-4800d481bd24'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325133700 +0000" stop="20250325134400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Dontz Mini Massage Gun</title>
+		<desc>Say goodbye to muscle tension, fatigue, and soreness – this mini powerhouse delivers a therapeutic experience with targeted relief. 迷你筋膜枪小巧精悍，捶打式冲击力十足直达肌肉深层！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679694'&amp;EntityType='LinearSchedule'&amp;EntityId='b88b1f22-0c73-43c3-a5e1-43fdf79f6c63'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325134400 +0000" stop="20250325134600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Greenpan Greenchef Diamond Red Pan Bundle</title>
+		<desc>Your best cooking companion for healthy cooking for your loved ones! 健康料理的最佳伙伴!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679698'&amp;EntityType='LinearSchedule'&amp;EntityId='a75d2532-eeca-4222-b064-0e59053a3b88'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325134600 +0000" stop="20250325140000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Kinohimitsu Wellsure</title>
+		<desc>A plant-based protein nutritional drink that ensures a balanced intake of nutrients, promoting visible improvements in muscle health, immune resilience, eye health, and digestion. 一种植物性蛋白全营养饮，确保摄取均衡营养，有助于显著改善肌肉健康、增强免疫力、促进眼部健康和消化功能</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679702'&amp;EntityType='LinearSchedule'&amp;EntityId='273e6747-e316-4f8e-80ce-d8603481889b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325140000 +0000" stop="20250325141400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Dr Forest Royal Ginseng Toothpaste (3+1bottles Set)</title>
+		<desc>Specially formulated toothpaste made from Ginseng flower extract, freshens your breath and strengthens your teeth! 结合韩国人参花萃取特别配方牙膏,维护口腔卫生!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679706'&amp;EntityType='LinearSchedule'&amp;EntityId='d1632d51-9258-46ee-806a-3bbd18c37426'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325141400 +0000" stop="20250325141600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Acerpure Chef KF1 2in1 Multifunctional Flip Air Fryer</title>
+		<desc>Airfry, Grill and Hot pot - your all in 1 cooking companion! Easy to clean and odor free, you can now enjoy a wide variety of food with just 1 simple flip! 这多用途空气炸锅让你能炸，烧烤和吃火锅。五种智能烹饪模式预设，以提供最佳时间和温度烹饪菜肴- 是你最佳的厨房好帮手。</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679710'&amp;EntityType='LinearSchedule'&amp;EntityId='c7e3869b-012b-43b3-8948-40e636e39ba3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325141600 +0000" stop="20250325143000 +0000">
+		<title>The Wonder Shop (Home Shopping) - doctorcos snow white water glow mask</title>
+		<desc>9-in-1 beauty cream that moisturizes and strengthens the elasticity of your skin. 雪白保湿脸霜，让你肌肤提升保湿力、更显年轻！</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679714'&amp;EntityType='LinearSchedule'&amp;EntityId='018a0f4e-cbba-4f2c-9faa-cbfadd492522'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325143000 +0000" stop="20250325144400 +0000">
+		<title>The Wonder Shop (Home Shopping) - Health+ Ellip Glider</title>
+		<desc>Convenient aerobic and muscle training that you can use it at work and while watching TV! 让你边进行日常活动边踩踏的踏步机，帮助循环，强健肌肉，你我都做得到哦!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679718'&amp;EntityType='LinearSchedule'&amp;EntityId='dc1156a7-e59f-4f3a-aa03-253baacf2708'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325144400 +0000" stop="20250325144600 +0000">
+		<title>The Wonder Shop (Home Shopping) - Vac Pac Go</title>
+		<desc>Portable vacuum storage system that reduces luggage by half! 抽气机加耐用压缩袋，小巧轻便吸力强，可节省高达2/3的收纳空间</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679722'&amp;EntityType='LinearSchedule'&amp;EntityId='fb8962a2-5dc4-4552-8205-83dbae78934c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325144600 +0000" stop="20250325150000 +0000">
+		<title>The Wonder Shop (Home Shopping) - Gourmet Chef Thermo Blend</title>
+		<desc>All new blender solution, which integrates the functions of juicer, soymilk and cooking! 搅拌后直接在同一个机器里料理的搅拌料理机，还提供多功能模式</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679726'&amp;EntityType='LinearSchedule'&amp;EntityId='a1333b67-1ad4-4aaa-b807-afe7afc69648'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325150000 +0000" stop="20250325160000 +0000">
+		<title>No programme available now. Next broadcast on 26th March, Wednesday 7pm. The Wonder Shop Home Shopping</title>
+		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 26th March, Wednesday 7pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8664686'&amp;EntityType='LinearSchedule'&amp;EntityId='a91274c7-0168-41c9-be28-9eef4e6ef18c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97073" start="20250325160000 +0000" stop="20250326110000 +0000">
+		<title>No programme available now. Next broadcast on 26th March, Wednesday 7pm. The Wonder Shop Home Shopping</title>
+		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 26th March, Wednesday 7pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8666517'&amp;EntityType='LinearSchedule'&amp;EntityId='c30a9140-91bd-4613-93d4-661618e435e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20250325160000 +0000" stop="20250326160000 +0000">
+		<title>No programme available now. Next broadcast on 28th March, Friday 8.30pm. ONE Friday Fights 102</title>
+		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 102 on 28th March, Friday 8.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8666487'&amp;EntityType='LinearSchedule'&amp;EntityId='970afd28-5942-4d59-9266-a7adaf36f2a2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250325121300 +0000" stop="20250325143000 +0000">
+		<title>AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong</title>
+		<desc>The Singapore Men’s National Team will face India, Hong Kong, China and Bangladesh in the final round of qualifiers for the AFC Asian Cup Saudi Arabia 2027.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8668308'&amp;EntityType='LinearSchedule'&amp;EntityId='20fe64a4-aa38-4489-927f-46d7232818ad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250325143000 +0000" stop="20250325160000 +0000">
+		<title>No Programme available now. Next Broadcast on 26th March, Wednesday 9.20am. FIBA 3x3 Asia Cup 2025</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA 3x3 Asia Cup 2025 on 26th March, Wednesday 9.20am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8664746'&amp;EntityType='LinearSchedule'&amp;EntityId='7cee8b88-817d-4996-a2bd-2e60d5eaa68a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250325160000 +0000" stop="20250326012000 +0000">
+		<title>No Programme available now. Next Broadcast on 26th March, Wednesday 9.20am. FIBA 3x3 Asia Cup 2025</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA 3x3 Asia Cup 2025 on 26th March, Wednesday 9.20am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8666813'&amp;EntityType='LinearSchedule'&amp;EntityId='5b6af97d-7404-45fd-8660-653b200e027a'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="158965" start="20250324210000 +0000" stop="20250324220000 +0000">
 		<title>80s - To The Max!</title>
 		<desc>All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
@@ -3451,160 +3606,5 @@
 		<title>Murder in Sainte Baume</title>
 		<desc>Carel has returned to his native Provence. With his ex-schoolmate, today head of the local police, he investigates the death of a man killed by dozens of bee stings. Soon they uncover a horrific case from the past, one that had shaken the whole village.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8665691'&amp;EntityType='LinearSchedule'&amp;EntityId='132005d9-0db7-4f9d-8a9c-50b61a5e4c81'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325110000 +0000" stop="20250325111400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Thermos Shuttle Chef Thermal Cooker</title>
-		<desc>Energy-saving, no-fire thermal cooker preserves nutrients, prepare in the morning, enjoy a hot meal later 节能无火焖烧锅，保持食物营养, 早上轻松准备，晚上即可享用热食</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679630'&amp;EntityType='LinearSchedule'&amp;EntityId='fca07acb-09d7-48c7-a7cc-dd0e81087739'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325111400 +0000" stop="20250325111600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Ultimo Cozy Cool Blanket</title>
-		<desc>Breathable, comfortable and safe, cooling quilt suitable for sensitive skin. 透气、舒适、安全，适合敏感肌肤使用的Ultimo凉感被</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679634'&amp;EntityType='LinearSchedule'&amp;EntityId='507f5c31-1d30-4544-9b15-36683a2b9d0b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325111600 +0000" stop="20250325113000 +0000">
-		<title>The Wonder Shop (Home Shopping) - QN 3 Bottles Special Bundle</title>
-		<desc>Promotes Bone, Joint and Eye Health Wellness! 保健三件组为关节及骨骼强壮做好防护，为视力退化做好防范!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679638'&amp;EntityType='LinearSchedule'&amp;EntityId='1fb89a93-e088-4dfc-8710-b8ee7743bfb5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325113000 +0000" stop="20250325114400 +0000">
-		<title>The Wonder Shop (Home Shopping) - ASD Hybrid 3-ply Hex Wok 32 &amp; 36cm</title>
-		<desc>This cookware is made with strong stainless steel and a long-lasting non-stick coating from Whitford (USA). Its 7-layer design ensures even heat distribution and helps keep heat longer, providing great cooking results every time. Perfect for those looking for high-quality, easy-to-use kitchen tools. ASD爱仕达316不锈钢不粘炒锅采用三层钢结构与耐高温不粘涂层，结合了不锈钢的耐用与不粘锅的便捷。蜂窝纹理设计省油防粘，食材加热均匀，不怕铁铲和钢丝球刮擦，适合烹饪各种坚硬食材。</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679642'&amp;EntityType='LinearSchedule'&amp;EntityId='7ba94e04-7261-4ff7-b0b1-8264c55d4e55'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325114400 +0000" stop="20250325114600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Vileda EasyWring Spin Mop &amp; Bucket Cleaning Bundle Set</title>
-		<desc>The secret weapon for effortless cleaning. 说再见脏地板，迎接闪亮干净！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679646'&amp;EntityType='LinearSchedule'&amp;EntityId='599b34c5-93de-4e18-bf35-59acb50b85f5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325114600 +0000" stop="20250325120000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Omron Electronic Nerve Stimulator</title>
-		<desc>Compact &amp; intuitive design massager that allows you to treat specific pain areas wherever you are. 微电流电疗结合热敷功能，帮助舒缓疼痛的好帮手，哪里痛就贴哪里！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679650'&amp;EntityType='LinearSchedule'&amp;EntityId='bb6495bd-6fff-455b-82f9-744003d459dd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325120000 +0000" stop="20250325121400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Thomson Probiotic</title>
-		<desc>Thomson ProbioGut is a premium probiotic supplement designed to support digestive health, boost immunity, and promote overall well-being. Formulated with two clinically researched Japanese probiotic strains—it helps improve gut flora, regulate bowel movements, and maintain a healthy body weight. Thomson ProbioGut 是一款优质的益生菌补充剂，专为支持消化健康、增强免疫力和促进整体健康而设计。采用两种临床研究认证的日本益生菌菌株— 有助于改善肠道菌群、调节排便，并维持健康的体重</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679654'&amp;EntityType='LinearSchedule'&amp;EntityId='220732da-55cd-4ec1-b26d-5600f5d538fa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325121400 +0000" stop="20250325121600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Thermos TCMF-501 0.5L Mug with Strainer &amp; Handle</title>
-		<desc>Sleek and lightweight Thermos Mug with strainer for you to enjoy your tea to the fullest. Suitable for everyday use! 一杯多用， 茶水分离, 设计典雅的茶漏咖啡杯让你方便携带！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679658'&amp;EntityType='LinearSchedule'&amp;EntityId='dab234ac-dd2f-4d43-854f-b20f9a671cb9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325121600 +0000" stop="20250325123000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Food Art Souper Nourish Bundle Set</title>
-		<desc>No-Cook, delicious and nourishing soup that is conveniently accessible for everyone 味美清甜的免煮滋补汤，让每个人都能随时随地轻松养生！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679662'&amp;EntityType='LinearSchedule'&amp;EntityId='ca673689-e200-4b71-bcab-768ccc1c871f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325123000 +0000" stop="20250325124400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Gourmet Chef Healthy Rice Cooker</title>
-		<desc>Smart Low Sugar Rice Cooker with 3L capacity and comes with 6 pre-programmed cooking functions! 养生电饭锅能降低白米55%的淀粉让你煮出更健康的米饭! </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679666'&amp;EntityType='LinearSchedule'&amp;EntityId='13a03a69-61c3-4a1a-a5f7-6619ed931f0d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325124400 +0000" stop="20250325124600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Wiltshire Pink Board Bundle</title>
-		<desc>All-in-one knife, scissors and board bundle that makes your life easier with an in-built knife sharpener! 全套组合菜刀、剪刀、砧板，让你下厨更轻松！菜刀和剪刀附专业磨刀套！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679670'&amp;EntityType='LinearSchedule'&amp;EntityId='cdef5a00-1aeb-4330-9d36-9ea1e8e1c8ad'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325124600 +0000" stop="20250325130000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Dr Wu</title>
-		<desc>Dr Wu Ageversal Advanced Rejuvenate Eye Cream targets eye-area concerns such as fine lines, dullness, puffiness, and sagging, repairing skin and enhancing firmness. Together with the Dr Wu Ageversal Multi-Peptides Anti-Aging Ampoule, which combines 10 peptides with 10x concentrated active ingredients, it helps to reduce fine lines and restores elasticity. Dr.Wu 超逆龄肌因抚纹眼霜针对眼周细纹、暗沉、浮肿、松弛等问题，修护脆弱肌肤，提升紧致。搭配Dr.Wu超逆龄多肽抗皱安瓶，融合10种胜肽与10倍浓缩活性成分，有效淡化细纹、紧致肌肤、恢复弹性。</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679674'&amp;EntityType='LinearSchedule'&amp;EntityId='20a5c67e-17aa-4174-ae63-955eae0b425c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325130000 +0000" stop="20250325131400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Thomson Livrin</title>
-		<desc>Promotes and Enhances Liver Health with Thomson Livrin! 奶蓟精华有助维护肝脏健康、精神更佳、皮肤更美哦！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679678'&amp;EntityType='LinearSchedule'&amp;EntityId='d75e4d26-e516-423a-b40c-8333ab3337e9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325131400 +0000" stop="20250325131600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Posture Doctor</title>
-		<desc>Quick and easy posture corrector! 快速简易姿势矫正器</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679682'&amp;EntityType='LinearSchedule'&amp;EntityId='80f2aa1b-1150-437d-9f0b-93522a62af4e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325131600 +0000" stop="20250325133000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Health+ Oral Care Mouthwash</title>
-		<desc>Alcohol-free mouthwash: gentle freshness for a healthier smile. 3款清新口味的护理漱口水，助你告别口腔问题及口腔异味！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679686'&amp;EntityType='LinearSchedule'&amp;EntityId='b69fd1a3-f082-4d04-9d04-04a3decd86d9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325133000 +0000" stop="20250325133700 +0000">
-		<title>The Wonder Shop (Home Shopping) - Derm Derm Herbal Toothpaste Propolis</title>
-		<desc>Pure herbal extract toothpaste effectively treats sensitive teeth and helps fight bacteria to prevent tooth decay. Derm Derm Kids Honey Lemon toothpaste is suitable for children as young as one year old. 纯草本提取牙膏，有效治疗敏感牙齿，帮助对抗细菌，预防蛀牙。Derm Derm 儿童天然草本牙膏，蜂蜜柠檬口味牙膏适合一岁以上的儿童使用。</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679690'&amp;EntityType='LinearSchedule'&amp;EntityId='030ac2f4-3ed1-4146-b52f-4800d481bd24'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325133700 +0000" stop="20250325134400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Dontz Mini Massage Gun</title>
-		<desc>Say goodbye to muscle tension, fatigue, and soreness – this mini powerhouse delivers a therapeutic experience with targeted relief. 迷你筋膜枪小巧精悍，捶打式冲击力十足直达肌肉深层！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679694'&amp;EntityType='LinearSchedule'&amp;EntityId='b88b1f22-0c73-43c3-a5e1-43fdf79f6c63'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325134400 +0000" stop="20250325134600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Greenpan Greenchef Diamond Red Pan Bundle</title>
-		<desc>Your best cooking companion for healthy cooking for your loved ones! 健康料理的最佳伙伴!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679698'&amp;EntityType='LinearSchedule'&amp;EntityId='a75d2532-eeca-4222-b064-0e59053a3b88'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325134600 +0000" stop="20250325140000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Kinohimitsu Wellsure</title>
-		<desc>A plant-based protein nutritional drink that ensures a balanced intake of nutrients, promoting visible improvements in muscle health, immune resilience, eye health, and digestion. 一种植物性蛋白全营养饮，确保摄取均衡营养，有助于显著改善肌肉健康、增强免疫力、促进眼部健康和消化功能</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679702'&amp;EntityType='LinearSchedule'&amp;EntityId='273e6747-e316-4f8e-80ce-d8603481889b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325140000 +0000" stop="20250325141400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Dr Forest Royal Ginseng Toothpaste (3+1bottles Set)</title>
-		<desc>Specially formulated toothpaste made from Ginseng flower extract, freshens your breath and strengthens your teeth! 结合韩国人参花萃取特别配方牙膏,维护口腔卫生!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679706'&amp;EntityType='LinearSchedule'&amp;EntityId='d1632d51-9258-46ee-806a-3bbd18c37426'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325141400 +0000" stop="20250325141600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Acerpure Chef KF1 2in1 Multifunctional Flip Air Fryer</title>
-		<desc>Airfry, Grill and Hot pot - your all in 1 cooking companion! Easy to clean and odor free, you can now enjoy a wide variety of food with just 1 simple flip! 这多用途空气炸锅让你能炸，烧烤和吃火锅。五种智能烹饪模式预设，以提供最佳时间和温度烹饪菜肴- 是你最佳的厨房好帮手。</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679710'&amp;EntityType='LinearSchedule'&amp;EntityId='c7e3869b-012b-43b3-8948-40e636e39ba3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325141600 +0000" stop="20250325143000 +0000">
-		<title>The Wonder Shop (Home Shopping) - doctorcos snow white water glow mask</title>
-		<desc>9-in-1 beauty cream that moisturizes and strengthens the elasticity of your skin. 雪白保湿脸霜，让你肌肤提升保湿力、更显年轻！</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679714'&amp;EntityType='LinearSchedule'&amp;EntityId='018a0f4e-cbba-4f2c-9faa-cbfadd492522'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325143000 +0000" stop="20250325144400 +0000">
-		<title>The Wonder Shop (Home Shopping) - Health+ Ellip Glider</title>
-		<desc>Convenient aerobic and muscle training that you can use it at work and while watching TV! 让你边进行日常活动边踩踏的踏步机，帮助循环，强健肌肉，你我都做得到哦!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679718'&amp;EntityType='LinearSchedule'&amp;EntityId='dc1156a7-e59f-4f3a-aa03-253baacf2708'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325144400 +0000" stop="20250325144600 +0000">
-		<title>The Wonder Shop (Home Shopping) - Vac Pac Go</title>
-		<desc>Portable vacuum storage system that reduces luggage by half! 抽气机加耐用压缩袋，小巧轻便吸力强，可节省高达2/3的收纳空间</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679722'&amp;EntityType='LinearSchedule'&amp;EntityId='fb8962a2-5dc4-4552-8205-83dbae78934c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325144600 +0000" stop="20250325150000 +0000">
-		<title>The Wonder Shop (Home Shopping) - Gourmet Chef Thermo Blend</title>
-		<desc>All new blender solution, which integrates the functions of juicer, soymilk and cooking! 搅拌后直接在同一个机器里料理的搅拌料理机，还提供多功能模式</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8679726'&amp;EntityType='LinearSchedule'&amp;EntityId='a1333b67-1ad4-4aaa-b807-afe7afc69648'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325150000 +0000" stop="20250325160000 +0000">
-		<title>No programme available now. Next broadcast on 26th March, Wednesday 7pm. The Wonder Shop Home Shopping</title>
-		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 26th March, Wednesday 7pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8664686'&amp;EntityType='LinearSchedule'&amp;EntityId='a91274c7-0168-41c9-be28-9eef4e6ef18c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97073" start="20250325160000 +0000" stop="20250326110000 +0000">
-		<title>No programme available now. Next broadcast on 26th March, Wednesday 7pm. The Wonder Shop Home Shopping</title>
-		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 26th March, Wednesday 7pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8666517'&amp;EntityType='LinearSchedule'&amp;EntityId='c30a9140-91bd-4613-93d4-661618e435e0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20250325160000 +0000" stop="20250326160000 +0000">
-		<title>No programme available now. Next broadcast on 28th March, Friday 8.30pm. ONE Friday Fights 102</title>
-		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 102 on 28th March, Friday 8.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8666487'&amp;EntityType='LinearSchedule'&amp;EntityId='970afd28-5942-4d59-9266-a7adaf36f2a2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250325121300 +0000" stop="20250325143000 +0000">
-		<title>AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Hong Kong</title>
-		<desc>The Singapore Men’s National Team will face India, Hong Kong, China and Bangladesh in the final round of qualifiers for the AFC Asian Cup Saudi Arabia 2027.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8668308'&amp;EntityType='LinearSchedule'&amp;EntityId='20fe64a4-aa38-4489-927f-46d7232818ad'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250325143000 +0000" stop="20250325160000 +0000">
-		<title>No Programme available now. Next Broadcast on 26th March, Wednesday 9.20am. FIBA 3x3 Asia Cup 2025</title>
-		<desc>LIVE 5 will commence broadcast of the FIBA 3x3 Asia Cup 2025 on 26th March, Wednesday 9.20am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8664746'&amp;EntityType='LinearSchedule'&amp;EntityId='7cee8b88-817d-4996-a2bd-2e60d5eaa68a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250325160000 +0000" stop="20250326012000 +0000">
-		<title>No Programme available now. Next Broadcast on 26th March, Wednesday 9.20am. FIBA 3x3 Asia Cup 2025</title>
-		<desc>LIVE 5 will commence broadcast of the FIBA 3x3 Asia Cup 2025 on 26th March, Wednesday 9.20am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8666813'&amp;EntityType='LinearSchedule'&amp;EntityId='5b6af97d-7404-45fd-8660-653b200e027a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
