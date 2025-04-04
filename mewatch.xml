@@ -44,6 +44,10 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -800,7 +804,7 @@
 	</programme>
 	<programme channel="97096" start="20250404023003 +0000" stop="20250404030006 +0000">
 		<title>Arya - EP 16</title>
-		<desc>A demanding football coach is fired for being harsh and pushing his team too hard, again. After being unfairly dismissed, he channels his spite towards his fianc. His rude awakening comes when his actions lead to her demise, forcing him to take responsibility for his actions and the consequences.</desc>
+		<desc>Nandhini arrives at Mitra’s father’s house, revealing that Suresh caused the accident. Arya, visibly upset, reassures her that Suresh was unlikely having an affair and that it was just an accident. But Nandhini refuses to believe him. Determined to set things right, Arya vows to prove it to her, no matter the cost.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8713772'&amp;EntityType='LinearSchedule'&amp;EntityId='1af9948d-39d6-4e56-bea9-216dac41beba'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20250404030006 +0000" stop="20250404040003 +0000">
@@ -1192,6 +1196,16 @@
 		<title>No Programme available now. Next Broadcast on 5th April, Saturday 10.25am. HSBC SVNS Singapore 2025</title>
 		<desc>LIVE 5 will commence broadcast of the HSBC SVNS Singapore 2025 on 5th April, Saturday 10.25am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8694438'&amp;EntityType='LinearSchedule'&amp;EntityId='72433408-da14-4c27-b89c-33a944cd703a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250403160000 +0000" stop="20250404160000 +0000">
+		<title>No Programme available now. Next Broadcast on 5th April, Saturday 2pm. Singapore T100 2025: Women's Race</title>
+		<desc>LIVE 6 will commence broadcast of the Singapore T100 2025: Women's Race on 5th April, Saturday 2pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8690551'&amp;EntityType='LinearSchedule'&amp;EntityId='2bdedab7-f1e0-47d5-baec-60eba13b9982'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250404160000 +0000" stop="20250405060000 +0000">
+		<title>No Programme available now. Next Broadcast on 5th April, Saturday 2pm. Singapore T100 2025: Women's Race</title>
+		<desc>LIVE 6 will commence broadcast of the Singapore T100 2025: Women's Race on 5th April, Saturday 2pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8694418'&amp;EntityType='LinearSchedule'&amp;EntityId='547c4d3a-7904-4d6a-8098-92c65841d629'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250403160000 +0000" stop="20250403170000 +0000">
 		<title>The 1987 Video Hall Of Fame</title>
@@ -2036,7 +2050,7 @@
 	<programme channel="97098" start="20250405133054 +0000" stop="20250405140027 +0000">
 		<title>Weather Gone Viral S7 - EP 1</title>
 		<desc>From whirling tornadoes to torrential rains, to harrowing hurricanes, Weather Gone Viral gives viewers unprecedented access to some of the most insane meteorological moments from around the world. Featuring videos of the most extreme and destructive weather conditions, firsthand accounts, and professional meteorologists sharing tales from the front lines, viewers get to experience the fury of Mother Nature.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8716799'&amp;EntityType='LinearSchedule'&amp;EntityId='a7af78d9-b56c-4c71-8929-5dc6f14567d3'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8724843'&amp;EntityType='LinearSchedule'&amp;EntityId='a7af78d9-b56c-4c71-8929-5dc6f14567d3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250405140027 +0000" stop="20250405160006 +0000">
 		<title>Drag Me to Hell</title>
@@ -2286,7 +2300,7 @@
 	<programme channel="97129" start="20250405020000 +0000" stop="20250405040000 +0000">
 		<title>Young Forever S5 - EP 10 我们的歌 (第五季)</title>
 		<desc>"Young Forever" is a music variety where established singers such as Wowkie Zhang, Harlem Yu, Michael Wong will pair with the new generation of singerssuch as Mike Tsang, Su Xing etc, to perform a re-arranged song in their own style.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8716194'&amp;EntityType='LinearSchedule'&amp;EntityId='ef419ddc-7ce9-4c02-a1f6-2f8a5f11b1f6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8724847'&amp;EntityType='LinearSchedule'&amp;EntityId='ef419ddc-7ce9-4c02-a1f6-2f8a5f11b1f6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250405040000 +0000" stop="20250405041400 +0000">
 		<title>- EP 253 The Wonder Shop </title>
@@ -2361,12 +2375,12 @@
 	<programme channel="97129" start="20250405130000 +0000" stop="20250405140000 +0000">
 		<title>Marital Justice - EP 1 婚姻战争</title>
 		<desc>Bao Er (Buabongkot) thought that after fifteen years of marriage and stability with Jia Ming (Poramet), nothing would change. That is, until the day she learned of her husband's affair. Instead of accepting she's lost, Bao Er decides to stand up for justice in her marriage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8716319'&amp;EntityType='LinearSchedule'&amp;EntityId='ad8efc5e-8ae5-4937-85e2-216443cd511e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8724830'&amp;EntityType='LinearSchedule'&amp;EntityId='ad8efc5e-8ae5-4937-85e2-216443cd511e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250405140000 +0000" stop="20250405150000 +0000">
 		<title>Marital Justice - EP 2 婚姻战争</title>
 		<desc>Bao Er disrupted the wedding ceremony and was forcefully removed from the venue. Confused and heartbroken, she drove back to Bangkok in a daze and got into an accident. A lawyer named Fan Wen came to her aid. Instead of apologising, Jia Ming demanded a divorce. Bao Er went to Fan Wen's office to seek legal aid and file a lawsuit.             </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8716327'&amp;EntityType='LinearSchedule'&amp;EntityId='184d79b2-8473-4a40-b06f-f1420a909398'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8724834'&amp;EntityType='LinearSchedule'&amp;EntityId='184d79b2-8473-4a40-b06f-f1420a909398'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250405150000 +0000" stop="20250405153000 +0000">
 		<title>News Tonight 晚间新闻</title>
@@ -2521,7 +2535,7 @@
 	<programme channel="97096" start="20250405130000 +0000" stop="20250405140000 +0000">
 		<title>Uncle Taxi S5: Australian Adventure - EP 1</title>
 		<desc>Uncle Taxi Season 5 - An Australian Outback Adventure, is the 5th instalment of the iconic Uncle Taxi franchise. This remarkable travalogue series which started in Singapore went on to Malaysia, Thailand &amp; Indonesia now travels to Australia. This 1st of its kind Outback Adventure series will discover &amp; reveal the unknow of the massive Australian Outback in the Uncle Taxi style!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8723671'&amp;EntityType='LinearSchedule'&amp;EntityId='9bc519c6-b109-4f5b-be20-11d45e91dd49'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8716065'&amp;EntityType='LinearSchedule'&amp;EntityId='9bc519c6-b109-4f5b-be20-11d45e91dd49'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20250405140000 +0000" stop="20250405170000 +0000">
 		<title>Maharaja</title>
@@ -2872,6 +2886,21 @@
 		<title>No Programme available now. Next Broadcast on 6th April, Sunday 9.55am. HSBC SVNS Singapore 2025</title>
 		<desc>LIVE 5 will commence broadcast of the HSBC SVNS Singapore 2025 on 6th April, Sunday 9.55am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8696762'&amp;EntityType='LinearSchedule'&amp;EntityId='81a72a03-44a1-4ecb-8632-36d17c8e75f3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250405060000 +0000" stop="20250405103000 +0000">
+		<title>Singapore T100 2025: Women's Race</title>
+		<desc>Watch the first race of the 2025 T100 Triathlon World Tour. The world's ultimate athletes race live from the iconic Marina Bay. The T100 Triathlon World Tour features the best triathletes from around the world competing to be crowned T100 Triathlon World Champion at the end of the year.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8695337'&amp;EntityType='LinearSchedule'&amp;EntityId='41c93bed-3776-41fa-bb2c-4496718e7954'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250405103000 +0000" stop="20250405160000 +0000">
+		<title>No Programme available now. Next Broadcast on 6th April, Sunday 3pm. Singapore T100 2025: Men's Race</title>
+		<desc>LIVE 6 will commence broadcast of the Singapore T100 2025: Men's Race on 6th April, Sunday 3pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8694426'&amp;EntityType='LinearSchedule'&amp;EntityId='e4298cc2-15cb-4b11-8b54-1fd1097782b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250405160000 +0000" stop="20250406070000 +0000">
+		<title>No Programme available now. Next Broadcast on 6th April, Sunday 3pm. Singapore T100 2025: Men's Race</title>
+		<desc>LIVE 6 will commence broadcast of the Singapore T100 2025: Men's Race on 6th April, Sunday 3pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8696736'&amp;EntityType='LinearSchedule'&amp;EntityId='c47123c8-69ad-4041-813c-db0d2192e693'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250404164500 +0000" stop="20250404170000 +0000">
 		<title>We're Feelin' 80s All Over!</title>
