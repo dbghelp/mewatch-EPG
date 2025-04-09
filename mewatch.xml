@@ -48,6 +48,10 @@
 		<display-name>LIVE 6</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
 	</channel>
+	<channel id="497989">
+		<display-name>LIVE 7</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
+	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -297,17 +301,17 @@
 		<desc>The exhilarating hit game show where contestants must beat The Banker to win a huge cash prize, is making a triumphant return. The ultimate contest of nerve, luck and pure gut instinct will be fronted by one of Australia's most beloved TV presenters, Gold Logie winner Grant Denyer.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8722053'&amp;EntityType='LinearSchedule'&amp;EntityId='1e7b5b41-8b0f-4baf-80f4-7454111d00ba'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250409110028 +0000" stop="20250409113002 +0000">
+	<programme channel="97098" start="20250409110028 +0000" stop="20250409113006 +0000">
 		<title>Wheel Of Fortune S41 - EP 7958</title>
 		<desc>Pat Sajak hosts his final season of Wheel of Fortune.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8722061'&amp;EntityType='LinearSchedule'&amp;EntityId='3e5109ec-7660-4b1d-ac02-03223af15f8e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250409113002 +0000" stop="20250409123001 +0000">
+	<programme channel="97098" start="20250409113006 +0000" stop="20250409123008 +0000">
 		<title>The Cube USA S2 - EP 10</title>
 		<desc>Dwyane Wade introduces The Cube, 15 square feet of steel-edged plexiglass where simple tasks become challenges; teams have nine lives to win seven games to beat The Cube for a chance to walk away with $250,000.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8722070'&amp;EntityType='LinearSchedule'&amp;EntityId='25c850e6-2c7b-443e-830b-b8a9bc591601'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250409123001 +0000" stop="20250409130000 +0000">
+	<programme channel="97098" start="20250409123008 +0000" stop="20250409130000 +0000">
 		<title>Provocative - EP 51</title>
 		<desc>Tiger Sam's protective instincts contradict Tony's steady wisdom as he wrestles with how best to protect Jolene. The tangled web around Zoe's death tightens as Tess pushes forward in her investigation.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8722078'&amp;EntityType='LinearSchedule'&amp;EntityId='dc01b6f6-705f-4e00-8b37-bd3e28023dd6'&amp;Width=1280&amp;Height=720" />
@@ -842,7 +846,7 @@
 		<desc>Catch the latest local and international news on Suria.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8718830'&amp;EntityType='LinearSchedule'&amp;EntityId='78f747f1-f8d2-4554-89d0-dd32d1610c43'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97084" start="20250409160000 +0000" stop="20250409220000 +0000">
+	<programme channel="97084" start="20250409160000 +0000" stop="20250410010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8718866'&amp;EntityType='LinearSchedule'&amp;EntityId='2f4b6834-43b0-4ec9-a392-6722d409ff82'&amp;Width=1280&amp;Height=720" />
@@ -1311,6 +1315,26 @@
 		<title>No Programme available now. Next Broadcast on 10th April, Thursday 10.55am. Bank of Ningbo Badminton Asia Championships 2025: Preliminary Rounds</title>
 		<desc>LIVE 6 will commence broadcast of the Bank of Ningbo Badminton Asia Championships 2025: Preliminary Rounds on 10th April, Thursday 10.55am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8707704'&amp;EntityType='LinearSchedule'&amp;EntityId='3e508ec3-afea-403b-9bbb-35642b4f2cb5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250408160000 +0000" stop="20250409042500 +0000">
+		<title>No Programme available now. Next Broadcast on 9th April, Wednesday 12.25pm. Bank of Ningbo Badminton Asia Championships 2025</title>
+		<desc>LIVE 7 will commence broadcast of the Bank of Ningbo Badminton Asia Championships 2025 on 9th April, Wednesday 12.25pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8737829'&amp;EntityType='LinearSchedule'&amp;EntityId='2f53bb8c-fe1b-4906-990f-679b4cdfacdd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250409042500 +0000" stop="20250409123000 +0000">
+		<title>Bank of Ningbo Badminton Asia Championships 2025: Preliminary Rounds</title>
+		<desc>Held at the Ningbo Olympic Sports Center Gymnasium, the Badminton Asia Championships 2025 is the 42nd edition of the tournament, with a total prize of US$500,000.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8737833'&amp;EntityType='LinearSchedule'&amp;EntityId='38f502a0-739b-4010-b12a-39feee94a642'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250409123000 +0000" stop="20250409160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8737837'&amp;EntityType='LinearSchedule'&amp;EntityId='889b6e09-0c9d-4729-a290-7b0041113514'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250409160000 +0000" stop="20250410160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8737841'&amp;EntityType='LinearSchedule'&amp;EntityId='79f273b9-fd8a-494d-ae3c-c7dd46bf1794'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250408160000 +0000" stop="20250408210000 +0000">
 		<title>Every Song A Number 1!</title>
@@ -2377,15 +2401,10 @@
 		<desc>Jin Yingxin believes that Cui Shujing truly intends to adopt Zhen Qingxiu, leading her to withdraw from the competition. However, Jin Yingxin wins, and before the results are announced, Xu Minjing offers to falsify them if Cui Shuying agrees to give up the adoption.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8723247'&amp;EntityType='LinearSchedule'&amp;EntityId='2318a41a-def0-4da1-aba1-0dc4a575f96a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97129" start="20250409173000 +0000" stop="20250409183349 +0000">
+	<programme channel="97129" start="20250409173000 +0000" stop="20250409220000 +0000">
 		<title>A Good Supper - EP 20 成为饭吧</title>
 		<desc>Under Jin Yingxin's guidance, Li Duojing gets a chef's license and applies for a palace job, where Cui Shujing hires her to use as leverage against Jin Yingxin. Xu Minjing, worries about her son's interest in Jin Yingxin, tries to force her away.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8723251'&amp;EntityType='LinearSchedule'&amp;EntityId='b4286ec9-556f-4c8e-8ac0-a7b6cf2201f0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97129" start="20250409183349 +0000" stop="20250409220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8737108'&amp;EntityType='LinearSchedule'&amp;EntityId='14f3419b-0701-4b68-aae5-b88fff16c071'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250409220000 +0000" stop="20250410025814 +0000">
 		<title>End of Transmission</title>
@@ -2561,11 +2580,6 @@
 		<title>Panda's Family - EP 10 熊猫一家人</title>
 		<desc>Interns undergo wild training and become "Panda People." Goodbye Xianxian, the internship ends with tearful farewells.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8723395'&amp;EntityType='LinearSchedule'&amp;EntityId='b836df7f-ce9b-430a-9480-9ec0723c18d3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97084" start="20250409220000 +0000" stop="20250410010000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8718878'&amp;EntityType='LinearSchedule'&amp;EntityId='a4e2f990-74de-4b13-a8c7-3b645f5df592'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97084" start="20250410010000 +0000" stop="20250410013000 +0000">
 		<title>Mechamato 'The Animated Series' S2 - EP 8</title>
@@ -3056,6 +3070,11 @@
 		<title>No Programme available now. Next Broadcast on 11th April, Friday 9.55am. Bank of Ningbo Badminton Asia Championships 2025: Quarter Finals</title>
 		<desc>LIVE 6 will commence broadcast of the Bank of Ningbo Badminton Asia Championships 2025: Quarter Finals on 11th April, Friday 9.55am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8711419'&amp;EntityType='LinearSchedule'&amp;EntityId='47d602e8-5138-4ef4-9c5c-bd90a0ecbd60'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250410160000 +0000" stop="20250411160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8738577'&amp;EntityType='LinearSchedule'&amp;EntityId='6da9cae0-d23c-463a-90b5-6cf2e4985f48'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250409210000 +0000" stop="20250409220000 +0000">
 		<title>80s - To The Max!</title>
