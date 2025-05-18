@@ -893,11 +893,6 @@
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs.             Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8859497'&amp;EntityType='LinearSchedule'&amp;EntityId='5a2c6608-88b1-4bb3-8b89-c2fbf09fe7fe'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97096" start="20250519160000 +0000" stop="20250520010000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8862649'&amp;EntityType='LinearSchedule'&amp;EntityId='599189eb-8c6e-4b22-896c-a7d023fd7a81'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97072" start="20250518160000 +0000" stop="20250518160305 +0000">
 		<title>Headline News</title>
 		<desc>The latest top stories of the hour.</desc>
@@ -2578,15 +2573,20 @@
 		<desc>After a heated misunderstanding with Haqiem, Marina storms out of the house in anger. Haqiem begins a frantic search after a stranger answers Marina’s phone. Meanwhile, Marina is stunned when she bumps into Aliff in the city.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8862636'&amp;EntityType='LinearSchedule'&amp;EntityId='1e605cea-609e-4ac9-b019-04b11a9277af'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97084" start="20250520153000 +0000" stop="20250520160000 +0000">
+	<programme channel="97084" start="20250520153000 +0000" stop="20250520155947 +0000">
 		<title>Berita</title>
 		<desc>Catch the latest local and international news on Suria.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8862640'&amp;EntityType='LinearSchedule'&amp;EntityId='e237bb8a-c283-486e-bf38-6ad315c56d67'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97096" start="20250519160000 +0000" stop="20250520010000 +0000">
+	<programme channel="97084" start="20250520155947 +0000" stop="20250521010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8862649'&amp;EntityType='LinearSchedule'&amp;EntityId='599189eb-8c6e-4b22-896c-a7d023fd7a81'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8884489'&amp;EntityType='LinearSchedule'&amp;EntityId='32a9a25a-b618-4245-a827-1db4697eaab0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97096" start="20250519160052 +0000" stop="20250520010000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8884493'&amp;EntityType='LinearSchedule'&amp;EntityId='ea2ce999-1175-4883-bd7b-a8f845eae0c7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20250520010000 +0000" stop="20250520013000 +0000">
 		<title>Athiradi Samaiyal - EP 5</title>
