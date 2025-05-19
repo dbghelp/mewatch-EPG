@@ -40,10 +40,6 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -1207,16 +1203,6 @@
 		<title>No programme available now. Next broadcast on 21st May, Wednesday 8.04pm. Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs Công An Hà Nôi FC</title>
 		<desc>LIVE 2 will commence broadcast of Asean Club Championship Shopee Cup 2024/25: Buriram United FC vs Công An Hà Nôi FC on 21st May, Wednesday 8.04pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8864342'&amp;EntityType='LinearSchedule'&amp;EntityId='00c72511-b355-4f4d-98fb-a96a62e13db3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250519160000 +0000" stop="20250520160000 +0000">
-		<title>No Programme available now. Next Broadcast on 28th May, Wednesday 10am. KFF Singapore Badminton Open 2025 </title>
-		<desc>LIVE 5 will commence broadcast of the KFF Singapore Badminton Open 2025 on 28th May, Wednesday 10am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8862793'&amp;EntityType='LinearSchedule'&amp;EntityId='27d141c9-e046-4735-8a69-98c340236504'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250520160000 +0000" stop="20250521160000 +0000">
-		<title>No Programme available now. Next Broadcast on 28th May, Wednesday 10am. KFF Singapore Badminton Open 2025 </title>
-		<desc>LIVE 5 will commence broadcast of the KFF Singapore Badminton Open 2025 on 28th May, Wednesday 10am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8864668'&amp;EntityType='LinearSchedule'&amp;EntityId='473e869a-d0fe-4c6b-b4f8-bdaa9bae2404'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250519140000 +0000" stop="20250519164500 +0000">
 		<title>Colours Of The Rainbow...And More!</title>
@@ -2947,11 +2933,6 @@
 		<title>No programme available now. Next broadcast on 23rd May, Friday 8.30pm. ONE Friday Fights 109</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 109 on 23rd May, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8868446'&amp;EntityType='LinearSchedule'&amp;EntityId='08b587d2-e2e1-444e-8c57-ce3aa247dc5f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250521160000 +0000" stop="20250522160000 +0000">
-		<title>No Programme available now. Next Broadcast on 28th May, Wednesday 10am. KFF Singapore Badminton Open 2025 </title>
-		<desc>LIVE 5 will commence broadcast of the KFF Singapore Badminton Open 2025 on 28th May, Wednesday 10am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8868544'&amp;EntityType='LinearSchedule'&amp;EntityId='16a724bc-ff9f-493f-8fb9-e7d47df0a3a2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250520165000 +0000" stop="20250520170000 +0000">
 		<title>Night Moves!</title>
