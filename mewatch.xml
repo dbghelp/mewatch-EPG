@@ -40,6 +40,18 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
+	<channel id="497989">
+		<display-name>LIVE 7</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
+	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -1229,6 +1241,36 @@
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 110 on 30th May, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8887503'&amp;EntityType='LinearSchedule'&amp;EntityId='9a93739f-01d2-40b1-87ff-50785fd3a701'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98202" start="20250526160000 +0000" stop="20250527160000 +0000">
+		<title>No Programme available now. Next Broadcast on 28th May, Wednesday 10am. KFF Singapore Badminton Open 2025: Round of 32</title>
+		<desc>LIVE 5 will commence broadcast of the KFF Singapore Badminton Open 2025: Round of 32 on 28th May, Wednesday 10am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8884968'&amp;EntityType='LinearSchedule'&amp;EntityId='b8e0eb0d-15f5-4a08-9ace-738a165f3c72'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250527160000 +0000" stop="20250528020000 +0000">
+		<title>No Programme available now. Next Broadcast on 28th May, Wednesday 10am. KFF Singapore Badminton Open 2025: Round of 32</title>
+		<desc>LIVE 5 will commence broadcast of the KFF Singapore Badminton Open 2025: Round of 32 on 28th May, Wednesday 10am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8887889'&amp;EntityType='LinearSchedule'&amp;EntityId='30857ae1-c7d8-4426-8abb-f4ade9f8450b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250526160000 +0000" stop="20250527160000 +0000">
+		<title>No Programme available now. Next Broadcast on 29th May, Thursday 10am. KFF Singapore Badminton Open 2025: Round of 16</title>
+		<desc>LIVE 6 will commence broadcast of the KFF Singapore Badminton Open 2025: Round of 16 on 29th May, Thursday 10am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8884963'&amp;EntityType='LinearSchedule'&amp;EntityId='51ccde77-0043-4b0f-b890-9bcdd3370c41'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250527160000 +0000" stop="20250528160000 +0000">
+		<title>No Programme available now. Next Broadcast on 29th May, Thursday 10am. KFF Singapore Badminton Open 2025: Round of 16</title>
+		<desc>LIVE 6 will commence broadcast of the KFF Singapore Badminton Open 2025: Round of 16 on 29th May, Thursday 10am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8887909'&amp;EntityType='LinearSchedule'&amp;EntityId='14010082-390f-4c46-a7bc-87c04e2252c5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250526160000 +0000" stop="20250527160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8885342'&amp;EntityType='LinearSchedule'&amp;EntityId='89a4ca91-55ea-48e2-a2e5-4c650637b85f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250527160000 +0000" stop="20250528160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8888267'&amp;EntityType='LinearSchedule'&amp;EntityId='76893e05-8172-4df0-9fc1-c8d3730dd22c'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="158965" start="20250526120000 +0000" stop="20250526210000 +0000">
 		<title>Monday Night At The Movies!</title>
 		<desc>Popcorn at the ready, these are NOW 80s' biggest songs from the movies. But don't forget to switch off those mobile phones!</desc>
@@ -2177,107 +2219,107 @@
 	<programme channel="97129" start="20250528033000 +0000" stop="20250528034400 +0000">
 		<title>The Wonder Shop - EP 174</title>
 		<desc>Relieve gastro problems like heartburn and refluxes!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889516'&amp;EntityType='LinearSchedule'&amp;EntityId='473b1e5b-f5dd-4021-aa78-1670ce06e110'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908305'&amp;EntityType='LinearSchedule'&amp;EntityId='a50e2193-bc09-4c2f-951b-38bf18cdea4b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528034400 +0000" stop="20250528034600 +0000">
 		<title>The Wonder Shop - EP 261</title>
 		<desc>This La Gourmet Flame Electric Cooker provides you with the best of both worlds by combining a hot pot and grill in one appliance. Enjoy versatile meal preparation, whether you're simmering soups or grilling meats and vegetables!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889520'&amp;EntityType='LinearSchedule'&amp;EntityId='f463c67f-37cb-4c45-8769-6738ce0bf3ee'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908309'&amp;EntityType='LinearSchedule'&amp;EntityId='04b5577b-2404-46f2-9f65-1d770f87ec90'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528034600 +0000" stop="20250528040000 +0000">
 		<title>The Wonder Shop - EP 265</title>
 		<desc>OTO Footplus Massager offers a 3D foot massage with a detachable airbag compression system for calves, thighs, arms, and abdomen. Its 3-part sole massage mechanism provides targeted relief, with three intensity levels and five massage modes for a customized experience. It also features a two-level heat function for the soles.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889524'&amp;EntityType='LinearSchedule'&amp;EntityId='2309da54-f2ca-4b9f-9370-9d3f796887cd'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908313'&amp;EntityType='LinearSchedule'&amp;EntityId='573a946a-c6bb-4d24-b963-1ddd2d4fac5a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528040000 +0000" stop="20250528041400 +0000">
 		<title>The Wonder Shop - EP 225</title>
 		<desc>Elevate your sleep experience today! Designed to cradle your head and neck, our pillow promotes proper spinal alignment for a good night's rest!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889528'&amp;EntityType='LinearSchedule'&amp;EntityId='89a7e3e0-aca3-4434-87ff-49f0f044b172'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908317'&amp;EntityType='LinearSchedule'&amp;EntityId='5de5c08f-71bd-4658-85fc-0cf9f4654092'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528041400 +0000" stop="20250528041600 +0000">
 		<title>The Wonder Shop - EP 238</title>
 		<desc>All-in-one knife, scissors and board bundle that makes your life easier with an in-built knife sharpener!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889532'&amp;EntityType='LinearSchedule'&amp;EntityId='5db552a6-ad43-4f57-b387-588bf6e5b007'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908321'&amp;EntityType='LinearSchedule'&amp;EntityId='303f0068-d47e-4f0b-b45c-430fbd92a909'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528041600 +0000" stop="20250528043000 +0000">
 		<title>The Wonder Shop - EP 251</title>
 		<desc>The X-Fold Exercise Bike is a compact, foldable exercise bike designed for small spaces, offering adjustable resistance, an LCD display and Mobile App connectivity for your workout. Its space-saving design makes it ideal for convenient home cardio sessions.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889536'&amp;EntityType='LinearSchedule'&amp;EntityId='24a4e8b5-f54e-441f-8f72-0fb313ce4a51'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908325'&amp;EntityType='LinearSchedule'&amp;EntityId='a3e4a59b-75a9-423d-877d-5aeab620412d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528043000 +0000" stop="20250528044400 +0000">
 		<title>The Wonder Shop - EP 237</title>
 		<desc>FEM &amp; HOM Fortify Hair Loss Bundle restore scalp health and reduce hair fall for both men and women with thinning hair concerns.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889540'&amp;EntityType='LinearSchedule'&amp;EntityId='196cc8f1-6764-478e-854f-53604a33fc2e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908329'&amp;EntityType='LinearSchedule'&amp;EntityId='0c891524-7d46-48be-be57-a22e7941b299'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528044400 +0000" stop="20250528044600 +0000">
 		<title>The Wonder Shop - EP 153</title>
 		<desc>Portable vacuum storage system that reduces luggage by half!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889544'&amp;EntityType='LinearSchedule'&amp;EntityId='7b17d294-3edf-41aa-b0ee-386101a4ac2c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908333'&amp;EntityType='LinearSchedule'&amp;EntityId='5adbc833-7e08-4480-a564-bb80263839be'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528044600 +0000" stop="20250528050000 +0000">
 		<title>The Wonder Shop - EP 258</title>
 		<desc>Dr Wu Ageversal Advanced Rejuvenate Eye Cream targets eye-area concerns such as fine lines, dullness, puffiness, and sagging, repairing skin and enhancing firmness. Together with the Dr Wu Ageversal Multi-Peptides Anti-Aging Ampoule, which combines 10 peptides with 10x concentrated active ingredients, it helps to reduce fine lines and restores elasticity.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889548'&amp;EntityType='LinearSchedule'&amp;EntityId='670e3e04-838c-41fa-9a6c-7657b2fd555e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908337'&amp;EntityType='LinearSchedule'&amp;EntityId='8de92679-e009-4036-92ec-105b488dbf6b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528050000 +0000" stop="20250528051400 +0000">
 		<title>The Wonder Shop - EP 242</title>
 		<desc>Health+ Nutripack Snow Fungus is a non-cook fungus, ready to eat in just one minute. It contains 100% pure natural organic white fungus with no preservatives or chemical additives added.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889552'&amp;EntityType='LinearSchedule'&amp;EntityId='3e5b5ea9-4276-4ec1-9b9a-22ed2cb3685a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908341'&amp;EntityType='LinearSchedule'&amp;EntityId='afa1c7d4-f0bd-4247-b671-1ccb594eaeb6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528051400 +0000" stop="20250528051600 +0000">
 		<title>The Wonder Shop - EP 260</title>
 		<desc>South Korea's no. 1 Home Shopping product! A multi-purpose cleaning sheet that works wonders by effectively removing grease, stains, mould and odors on all surfaces!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889556'&amp;EntityType='LinearSchedule'&amp;EntityId='08e51958-9160-4d57-82f8-f5f346a0cdbe'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908345'&amp;EntityType='LinearSchedule'&amp;EntityId='4636fd1a-b293-4b09-a4f7-cf5d4ddab799'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528051600 +0000" stop="20250528053000 +0000">
 		<title>The Wonder Shop - EP 220</title>
 		<desc>The Wonder Shop brings you curated deals and our hosts test out the products so you know exactly what you're buying! We want to inspire you to shop smarter through entertaining content. Watch and shop with our hosts as they introduce you to the latest shopping trends and amazing deals from Health &amp; Beauty, Home &amp; Living, Food &amp; Beverage and many more! Find out on wondershop.sg or call our sales hotline 6386 8686 from Mon-Fri, 9am-6pm, Sat-Sun 8am-4pm.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889560'&amp;EntityType='LinearSchedule'&amp;EntityId='b5bd7e76-82a8-497f-9bf5-dfc33fccf117'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908349'&amp;EntityType='LinearSchedule'&amp;EntityId='c6df7e29-d8c4-4cca-8f4d-8cf5ea5019c9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528053000 +0000" stop="20250528054400 +0000">
 		<title>The Wonder Shop - EP 203</title>
 		<desc>Gua Sha Wand to help you relax and get your blood circulating.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889564'&amp;EntityType='LinearSchedule'&amp;EntityId='815b3832-61bb-40c6-b0e8-aa41b3a423b0'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908353'&amp;EntityType='LinearSchedule'&amp;EntityId='4a2f9aa1-f3e5-4e43-80dc-11c1b88dc617'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528054400 +0000" stop="20250528054600 +0000">
 		<title>The Wonder Shop - EP 192</title>
 		<desc>Breathable, comfortable and safe, cooling quilt suitable for sensitive skin.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889568'&amp;EntityType='LinearSchedule'&amp;EntityId='7e05f322-c855-4b37-bb7b-79a441d28075'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908357'&amp;EntityType='LinearSchedule'&amp;EntityId='5c840e77-4b09-4c55-a675-4ec1da6b700d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528054600 +0000" stop="20250528060000 +0000">
 		<title>The Wonder Shop - EP 264</title>
 		<desc>Ebene Bio-Ray Metal Support Knee Guard enhances support with two soft &amp; flexible metal strips for greater stability and leg strength. Ebene Bio-Ray Extra Strength Knee Guard promotes blood and oxygen circulation to relieve intense knee pain and reduce inflammation &amp; swelling. Ebene Bio-Ray Foot Massage Socks keep feet warm and improve blood and oxygen circulation for better comfort.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889572'&amp;EntityType='LinearSchedule'&amp;EntityId='e66a25b1-7d6f-4bbb-ac38-4c9f77e38594'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908361'&amp;EntityType='LinearSchedule'&amp;EntityId='846a73d8-967a-4864-842f-9ca5c01a4180'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528060000 +0000" stop="20250528061400 +0000">
 		<title>The Wonder Shop - EP 253</title>
 		<desc>This cookware is made with strong stainless steel and a long-lasting non-stick coating from Whitford (USA). Its 7-layer design ensures even heat distribution and helps keep heat longer, providing great cooking results every time. Perfect for those looking for high-quality, easy-to-use kitchen tools.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889576'&amp;EntityType='LinearSchedule'&amp;EntityId='84434b1e-8a4a-4c8a-bc5b-8dbe9afc896c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908365'&amp;EntityType='LinearSchedule'&amp;EntityId='574e9c70-8da2-43ae-b6f5-03399e7be896'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528061400 +0000" stop="20250528061600 +0000">
 		<title>The Wonder Shop - EP 233</title>
 		<desc>Sleek and lightweight Thermos Mug with strainer for you to enjoy your tea to the fullest. Suitable for everyday use!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889580'&amp;EntityType='LinearSchedule'&amp;EntityId='52999a8b-21a3-48ee-81d3-859fe87a532c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908369'&amp;EntityType='LinearSchedule'&amp;EntityId='3a85873b-72f5-437f-8a10-8682a176df17'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528061600 +0000" stop="20250528063000 +0000">
 		<title>The Wonder Shop - EP 189</title>
 		<desc>30kg capacity versatile laundry rack designed for both indoor and outdoor use!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889584'&amp;EntityType='LinearSchedule'&amp;EntityId='46cc949e-8c68-422c-90fa-a2977e06f1df'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908373'&amp;EntityType='LinearSchedule'&amp;EntityId='91a17893-179b-4389-8156-90557a0d49d9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528063000 +0000" stop="20250528064400 +0000">
 		<title>The Wonder Shop - EP 241</title>
 		<desc>HQ Lingzhi Cracked Spores Powder is formulated and manufactured in Singapore. It enhances the body's immune system, reduces fatigue, promotes blood circulation, protects the liver, and improves metabolism.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889588'&amp;EntityType='LinearSchedule'&amp;EntityId='958754ab-46db-40a3-9ca5-935d8249adb6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908377'&amp;EntityType='LinearSchedule'&amp;EntityId='ef0390a2-8074-4919-9ab6-35530e34d673'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528064400 +0000" stop="20250528064600 +0000">
 		<title>The Wonder Shop - EP 239</title>
 		<desc>Your best cooking companion for healthy cooking for your loved ones!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889592'&amp;EntityType='LinearSchedule'&amp;EntityId='07873e83-b68f-4759-bf5a-42549689fea2'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908381'&amp;EntityType='LinearSchedule'&amp;EntityId='4f8cb7e8-dc45-4b82-93a5-8d1108afd81f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528064600 +0000" stop="20250528070000 +0000">
 		<title>The Wonder Shop - EP 231</title>
 		<desc>No-Cook, delicious and nourishing soup that is conveniently accessible for everyone.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8889596'&amp;EntityType='LinearSchedule'&amp;EntityId='5501471c-5d2a-4fad-9c78-f7d8219e4ac5'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908385'&amp;EntityType='LinearSchedule'&amp;EntityId='fc3f5e83-7a62-4e49-adad-3cd8a91e0fec'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20250528070000 +0000" stop="20250528090000 +0000">
 		<title>Sisters Who Make Waves S3 - EP 5 乘风破浪的姐姐 S3</title>
@@ -2539,15 +2581,15 @@
 		<desc>Spancer feels like a pampered bridegroom this week...but no, he isn't getting married! He is just getting to enjoy the delicacies that make up the "Mappilla" cuisine of the Kerala Muslim community of Kozhikode.                         Join him and get your taste buds tickled, on THINNA THINNA AASAI at 9.30 pm tonight, only on Vasantham and mewatch.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8887990'&amp;EntityType='LinearSchedule'&amp;EntityId='f135bf25-51af-41f5-9713-476c6900253c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97096" start="20250528153000 +0000" stop="20250528160000 +0000">
+	<programme channel="97096" start="20250528153000 +0000" stop="20250528155855 +0000">
 		<title>Seithi</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs.             Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8887997'&amp;EntityType='LinearSchedule'&amp;EntityId='7031a7f1-d0b2-44bb-9a7c-ef088d9350a3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97096" start="20250528160000 +0000" stop="20250529010000 +0000">
+	<programme channel="97096" start="20250528155855 +0000" stop="20250529010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8890135'&amp;EntityType='LinearSchedule'&amp;EntityId='44bd383a-b835-42c3-a63f-38dbda64a1d9'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8908389'&amp;EntityType='LinearSchedule'&amp;EntityId='f6656dfa-c30d-4604-afb4-28abc0bd160a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20250527160300 +0000" stop="20250527170000 +0000">
 		<title>East Asia Tonight</title>
@@ -2808,6 +2850,31 @@
 		<title>No programme available now. Next broadcast on 30th May, Friday 8.30pm. ONE Friday Fights 110</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 110 on 30th May, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8889983'&amp;EntityType='LinearSchedule'&amp;EntityId='629042b0-81ad-43c1-b191-c972a9d569f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250528020000 +0000" stop="20250528120000 +0000">
+		<title>KFF Singapore Badminton Open 2025: Round of 32</title>
+		<desc>The HSBC BWF World Tour Super 750 returns to Singapore in May 2025. The KFF Singapore Badminton Open 2025 will host top-tier badminton players from around the world at the Singapore Indoor Stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8896494'&amp;EntityType='LinearSchedule'&amp;EntityId='1ec7db0f-0620-4f9d-99b6-fcc3c598a9cd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250528120000 +0000" stop="20250528160000 +0000">
+		<title>No Programme available now. Next Broadcast on 29th May, Thursday 10am. KFF Singapore Badminton Open 2025: Round of 16</title>
+		<desc>LIVE 5 will commence broadcast of the KFF Singapore Badminton Open 2025: Round of 16 on 29th May, Thursday 10am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8887903'&amp;EntityType='LinearSchedule'&amp;EntityId='b15091c0-9134-4a72-98ef-2db466a845bf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250528160000 +0000" stop="20250529020000 +0000">
+		<title>No Programme available now. Next Broadcast on 29th May, Thursday 10am. KFF Singapore Badminton Open 2025: Round of 16</title>
+		<desc>LIVE 5 will commence broadcast of the KFF Singapore Badminton Open 2025: Round of 16 on 29th May, Thursday 10am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8890286'&amp;EntityType='LinearSchedule'&amp;EntityId='b6b2124f-2a66-4074-b975-7d9c91c2a244'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250528160000 +0000" stop="20250529020000 +0000">
+		<title>No Programme available now. Next Broadcast on 29th May, Thursday 10am. KFF Singapore Badminton Open 2025: Round of 16</title>
+		<desc>LIVE 6 will commence broadcast of the KFF Singapore Badminton Open 2025: Round of 16 on 29th May, Thursday 10am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8890345'&amp;EntityType='LinearSchedule'&amp;EntityId='aaa29b50-dda1-4c58-b189-37dfd9b2379e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250528160000 +0000" stop="20250529160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8890865'&amp;EntityType='LinearSchedule'&amp;EntityId='c8764dc3-18b8-4155-9932-4e3a31fc278a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250527210000 +0000" stop="20250527220000 +0000">
 		<title>80s - To The Max!</title>
