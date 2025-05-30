@@ -44,14 +44,6 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
-	<channel id="204746">
-		<display-name>LIVE 6</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
-	</channel>
-	<channel id="497989">
-		<display-name>LIVE 7</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
-	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -1111,26 +1103,6 @@
 		<desc>LIVE 5 will commence broadcast of the KFF Singapore Badminton Open 2025: Finals on 1st Jun, Sunday 2pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8900518'&amp;EntityType='LinearSchedule'&amp;EntityId='3fd8272b-1e75-4110-9319-ab4a3004a971'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20250530160000 +0000" stop="20250531160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8924289'&amp;EntityType='LinearSchedule'&amp;EntityId='dc9852e4-d30d-42b8-84a2-1337e23c00d3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20250531160000 +0000" stop="20250601160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8909629'&amp;EntityType='LinearSchedule'&amp;EntityId='70534a0a-82a1-4b4a-bf23-002635dbf60c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20250530160000 +0000" stop="20250531160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8909877'&amp;EntityType='LinearSchedule'&amp;EntityId='3273f601-8fca-4d38-b624-7c49088abc8a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20250531160000 +0000" stop="20250601160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8909882'&amp;EntityType='LinearSchedule'&amp;EntityId='5f365353-496c-4999-9834-07159970d4c9'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="158965" start="20250530160000 +0000" stop="20250530190000 +0000">
 		<title>Only The Biggest 80s Anthems!</title>
 		<desc>All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
@@ -1769,27 +1741,27 @@
 	<programme channel="97098" start="20250531230000 +0000" stop="20250531233000 +0000">
 		<title>Hiccup &amp; Sneeze - EP 21</title>
 		<desc>Bibi wants to win Ellard's Amazeballs Dance Contest to surprise Hiccup and Sneeze with a chance to meet Ellard. Not knowing this, they offer to help Bibi prepare for the contest after seeing that she's struggling to come up with a routine.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8925111'&amp;EntityType='LinearSchedule'&amp;EntityId='53ee0ee9-1440-4aca-be31-518cc3b916c8'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8925591'&amp;EntityType='LinearSchedule'&amp;EntityId='29770ce6-61b6-4247-8774-702e675e6375'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250531233000 +0000" stop="20250601000000 +0000">
 		<title>Count TV - EP 6</title>
 		<desc>COUNT TV makes math fun for kids! Hosted by Randall and Andy, the two find themselves in all kinds of quizzical, mathematical situations each week. And it’s up to them to figure out the solutions! </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925115'&amp;EntityType='LinearSchedule'&amp;EntityId='441f138a-9ef7-475e-a41d-0b3a645ef040'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925595'&amp;EntityType='LinearSchedule'&amp;EntityId='d111dc21-6929-4f31-927a-5fb6a21e1dab'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601000000 +0000" stop="20250601001500 +0000">
 		<title>Pororo the Little Penguin 5 - EP 9</title>
 		<desc>Join Pororo and friends in their fun adventures!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925119'&amp;EntityType='LinearSchedule'&amp;EntityId='c3991d96-dd44-4528-afb5-877c9f1d1b12'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925599'&amp;EntityType='LinearSchedule'&amp;EntityId='477b8c33-0ed2-48f1-a3df-bf73e3594115'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601001500 +0000" stop="20250601003000 +0000">
 		<title>Pororo the Little Penguin 5 - EP 10</title>
 		<desc>Join Pororo and friends in their fun adventures!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925123'&amp;EntityType='LinearSchedule'&amp;EntityId='0ef771bf-cbb0-4558-a5a2-4415764f580d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925603'&amp;EntityType='LinearSchedule'&amp;EntityId='eca56a1b-0195-4be2-a352-b8fcbc4083d9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601003000 +0000" stop="20250601010000 +0000">
 		<title>Pinkfong Songs &amp; Stories - EP 101</title>
 		<desc>Enjoy the best of Pinkfong's most loved songs and stories with all your favourite characters!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8925127'&amp;EntityType='LinearSchedule'&amp;EntityId='2bf13fa0-5886-4eff-9a52-2c3e9dad6d27'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8925607'&amp;EntityType='LinearSchedule'&amp;EntityId='be6e2151-49b1-4268-8761-b9b1f3ee44e7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601010000 +0000" stop="20250601011500 +0000">
 		<title>Catch! Teenieping - EP 5</title>
@@ -1824,12 +1796,12 @@
 	<programme channel="97098" start="20250601023000 +0000" stop="20250601024500 +0000">
 		<title>Slimed Science - EP 27</title>
 		<desc>Dr Slime discovers how to solve daily problems with the help of science! In each episode, Dr Slime will challenge a guest to a series of questions, with a final challenge that uses daily household items in its experiments! Guests must rack their brains and beat Dr Slime... or face the dreaded SLIME!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925155'&amp;EntityType='LinearSchedule'&amp;EntityId='c20a1af2-f17e-4b6f-a511-bc2c166a5756'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925611'&amp;EntityType='LinearSchedule'&amp;EntityId='35f15c32-fd54-49b5-8d4c-f37352378869'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601024500 +0000" stop="20250601030000 +0000">
 		<title>Slimed Science - EP 28</title>
 		<desc>Dr Slime discovers how to solve daily problems with the help of science! In each episode, Dr Slime will challenge a guest to a series of questions, with a final challenge that uses daily household items in its experiments! Guests must rack their brains and beat Dr Slime... or face the dreaded SLIME!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925159'&amp;EntityType='LinearSchedule'&amp;EntityId='54b42efb-63b7-4087-969a-9b24be02c05f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925615'&amp;EntityType='LinearSchedule'&amp;EntityId='4b1125ef-e7e9-4264-86ae-d5b3f1dd39b6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601030000 +0000" stop="20250601033000 +0000">
 		<title>Transformers Earthspark S1 - EP 6</title>
@@ -1849,22 +1821,22 @@
 	<programme channel="97098" start="20250601043000 +0000" stop="20250601044000 +0000">
 		<title>Grizzy &amp; The Lemmings S3 - EP 1</title>
 		<desc>The hilarious misadventures of Grizzy and the Lemmings continue... now in unexpected places around the world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925175'&amp;EntityType='LinearSchedule'&amp;EntityId='5cd13c4d-9175-4d8e-932a-033cbf8e89ea'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925619'&amp;EntityType='LinearSchedule'&amp;EntityId='ebda6819-80f2-41ed-8454-7b84b86783ff'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601044000 +0000" stop="20250601045000 +0000">
 		<title>Grizzy &amp; The Lemmings S3 - EP 2</title>
 		<desc>The hilarious misadventures of Grizzy and the Lemmings continue... now in unexpected places around the world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925179'&amp;EntityType='LinearSchedule'&amp;EntityId='9869b20e-0935-4ee9-8d7e-064a15a445da'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925623'&amp;EntityType='LinearSchedule'&amp;EntityId='3986cd81-a5a8-4f91-8e81-b9ed949f8975'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601045000 +0000" stop="20250601050000 +0000">
 		<title>Grizzy &amp; The Lemmings S3 - EP 3</title>
 		<desc>The hilarious misadventures of Grizzy and the Lemmings continue... now in unexpected places around the world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925183'&amp;EntityType='LinearSchedule'&amp;EntityId='883d5784-097c-4725-a4b6-3f35e956f943'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925627'&amp;EntityType='LinearSchedule'&amp;EntityId='412816bf-5697-43ed-9fea-af11f2ede99f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601050000 +0000" stop="20250601063000 +0000">
 		<title>Shaun the Sheep</title>
 		<desc>When Shaun decides to take the day off and have some fun, he gets a little more action than he bargained for. A mix up with the Farmer, a caravan and a very steep hill lead them all to the Big City and it's up to Shaun and the flock to return everyone safely to the green grass of home.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925187'&amp;EntityType='LinearSchedule'&amp;EntityId='c35b01ae-df56-4d62-92c9-056843a4a478'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925631'&amp;EntityType='LinearSchedule'&amp;EntityId='e4f78f66-7115-4f89-a7f3-798675412b2e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601063000 +0000" stop="20250601070000 +0000">
 		<title>Groom My Room Sr 9 - EP 4</title>
@@ -1879,7 +1851,7 @@
 	<programme channel="97098" start="20250601073000 +0000" stop="20250601083000 +0000">
 		<title>The Great Canadian Baking Show Series 5 - EP 3</title>
 		<desc>The best amateur bakers from across Canada compete in a series of themed culinary challenges that celebrate their diversity. Ten of the country's most passionate bakers go head-to-head in a series of tasks that celebrate their diverse backgrounds, families and communities. In each episode they'll face three nail-biting rounds, in a warm-spirited competition that celebrates personal achievement and the joy of baking.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925199'&amp;EntityType='LinearSchedule'&amp;EntityId='93660937-4b87-4faa-a627-f5373a3ac748'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925635'&amp;EntityType='LinearSchedule'&amp;EntityId='adb8c79b-e14b-4310-9fb4-396b127850ec'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601083000 +0000" stop="20250601093000 +0000">
 		<title>Expedition With Steve Backshall - Series 2 - EP 3</title>
@@ -1894,7 +1866,7 @@
 	<programme channel="97098" start="20250601100000 +0000" stop="20250601130000 +0000">
 		<title>Mission: Impossible - Fallout</title>
 		<desc>A group of terrorists plans to detonate three plutonium cores for a simultaneous nuclear attack on different cities. Ethan Hunt, along with his IMF team, sets out to stop the carnage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925211'&amp;EntityType='LinearSchedule'&amp;EntityId='f2c79d3d-1aa1-4714-ac7b-774b4fbe2aeb'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925639'&amp;EntityType='LinearSchedule'&amp;EntityId='81c82a74-1e2a-443f-89a1-151a1754efef'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250601130000 +0000" stop="20250601133000 +0000">
 		<title>News Tonight</title>
@@ -1909,7 +1881,7 @@
 	<programme channel="97098" start="20250601143000 +0000" stop="20250601163000 +0000">
 		<title>No Reservations</title>
 		<desc>The life of a top chef changes when she becomes the guardian of her young niece.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925223'&amp;EntityType='LinearSchedule'&amp;EntityId='2a6e4ead-a3f4-4681-8959-38f57d27f92c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925643'&amp;EntityType='LinearSchedule'&amp;EntityId='d319959e-80ea-416c-a1be-14471ec07ba7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20250531170226 +0000" stop="20250531180155 +0000">
 		<title>A Quest To Heal - EP 7 我的女侠罗明依</title>
@@ -2815,16 +2787,6 @@
 		<title>No programmes streaming LIVE at this moment</title>
 		<desc>There are currently no programmes on this channel.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8902783'&amp;EntityType='LinearSchedule'&amp;EntityId='0b90e702-4e02-4e22-a374-7d32472593d4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20250601160000 +0000" stop="20250602160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8909638'&amp;EntityType='LinearSchedule'&amp;EntityId='db547b09-ce81-4fc2-9b98-94fd2c92ef4a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20250601160000 +0000" stop="20250602160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8909891'&amp;EntityType='LinearSchedule'&amp;EntityId='54c5eff5-fe60-48d7-bc87-d275c90756a5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250531190000 +0000" stop="20250531220000 +0000">
 		<title>Get Fresh At The Weekend!</title>
