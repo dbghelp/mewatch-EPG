@@ -28,10 +28,6 @@
 		<display-name>oktolidays</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7360676'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=1024&amp;Height=1024" />
 	</channel>
-	<channel id="98200">
-		<display-name>SPL CH01</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
-	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -698,7 +694,7 @@
 		<desc>Following an accident, Aizril remains partially comatose and paralysed. As he awakes from the coma, he continues to search for Aleya, consumed by regret. He is caught off guard by the heartbreaking news of his son's demise.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8900445'&amp;EntityType='LinearSchedule'&amp;EntityId='3fa09a45-d48d-41ba-bc64-1e79f82b5df1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97084" start="20250601153000 +0000" stop="20250602160000 +0000">
+	<programme channel="97084" start="20250601153000 +0000" stop="20250601160054 +0000">
 		<title>Berita</title>
 		<desc>Catch the latest local and international news on Suria.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8900449'&amp;EntityType='LinearSchedule'&amp;EntityId='e8b08301-9748-4bd4-839e-64e42a78f625'&amp;Width=1280&amp;Height=720" />
@@ -1102,16 +1098,6 @@
 		<title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
 		<desc>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8918600'&amp;EntityType='LinearSchedule'&amp;EntityId='7718b656-2f2a-4f96-8041-f3437232d590'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98200" start="20250531160000 +0000" stop="20250601160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908832'&amp;EntityType='LinearSchedule'&amp;EntityId='46d43b58-85b8-4a94-9cdc-c2c4c2b00c11'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98200" start="20250601160000 +0000" stop="20250602160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908836'&amp;EntityType='LinearSchedule'&amp;EntityId='4c056d07-1bf5-4772-99c0-34093379be46'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20250531160000 +0000" stop="20250601110000 +0000">
 		<title>No programme available now. Next broadcast on 1st June, Sunday 7pm. The Wonder Shop Home Shopping</title>
@@ -1768,210 +1754,205 @@
 		<desc>Returning season. Features three-time BAFTA-winning adventurer and wildlife expert, Steve Backshall as he ventures into uncharted territory in pursuit of new discoveries and world firsts.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925243'&amp;EntityType='LinearSchedule'&amp;EntityId='f32a1e07-c2fe-4942-ad6a-490d10fd15f7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250601204000 +0000" stop="20250601204011 +0000">
+	<programme channel="97098" start="20250601204000 +0000" stop="20250601220000 +0000">
 		<title>Survivor 45 - EP 7</title>
 		<desc>18 new castaways battle it out on the islands of Fiji for a million dollars and the title of Sole Survivor.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8927635'&amp;EntityType='LinearSchedule'&amp;EntityId='0a1f210a-4c01-47c7-9cfc-340e74ff9089'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250601204011 +0000" stop="20250601220000 +0000">
-		<title>Survivor 45 - EP 7</title>
-		<desc>18 new castaways battle it out on the islands of Fiji for a million dollars and the title of Sole Survivor.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8902887'&amp;EntityType='LinearSchedule'&amp;EntityId='c02793d5-222c-49cf-b658-7ce1e00314e3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97098" start="20250601220000 +0000" stop="20250601221422 +0000">
+	<programme channel="97098" start="20250601220000 +0000" stop="20250601221500 +0000">
 		<title>Alvinnn!!! &amp; The Chipmunks S1 - EP 3</title>
 		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8902895'&amp;EntityType='LinearSchedule'&amp;EntityId='dd4f830a-b380-4e7f-a5de-24b2ae493b29'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930884'&amp;EntityType='LinearSchedule'&amp;EntityId='15b3d57c-93ee-423b-9c6f-f7c9a7aa2213'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250601221422 +0000" stop="20250601223032 +0000">
+	<programme channel="97098" start="20250601221500 +0000" stop="20250601223000 +0000">
 		<title>Alvinnn!!! &amp; The Chipmunks S1 - EP 4</title>
 		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8923635'&amp;EntityType='LinearSchedule'&amp;EntityId='7c9558d1-a4a6-403b-8c33-6be3fa06c927'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930888'&amp;EntityType='LinearSchedule'&amp;EntityId='5876df68-9393-4f9c-af25-0944df3ef822'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250601223032 +0000" stop="20250601230027 +0000">
+	<programme channel="97098" start="20250601223000 +0000" stop="20250601230000 +0000">
 		<title>Beyblade Burst QuadDrive - EP 15</title>
 		<desc>The story centers on Bel Daizora, the leader of the Bey graveyard "Phantom's Gate". Bel, who holds Destruction Belfyre, declares war on Bladers across the world. With Ranzo Kiyama and Bashara Suiro, their journey unfolds as Bel advances to becoming the Dark Prince.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8902912'&amp;EntityType='LinearSchedule'&amp;EntityId='b299e228-6992-4f6c-b480-0a5855943130'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930892'&amp;EntityType='LinearSchedule'&amp;EntityId='f17b24e1-88f9-4f6b-ad9e-12cb6933e210'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250601230027 +0000" stop="20250601233030 +0000">
+	<programme channel="97098" start="20250601230000 +0000" stop="20250601233000 +0000">
 		<title>Squared Zebra S1 - EP 76</title>
 		<desc>Polly the striped zebra, Rodion the elephant, Gosha the crocodile, Yana the monkey, Pasha the ostrich and his little brother Petya the egg-- happily live in a jungle on a faraway island, where every day is full of adventures (and the occasional arguments). With Squared Zebra by their side, the friends learn to appreciate the beauty of the world and to value individual traits in both others and themselves!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8902925'&amp;EntityType='LinearSchedule'&amp;EntityId='4189334b-18ed-44d7-82e9-9252654018a2'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930896'&amp;EntityType='LinearSchedule'&amp;EntityId='3f0fe7e1-4a43-428e-8e54-97441abd10e3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250601233030 +0000" stop="20250601234216 +0000">
+	<programme channel="97098" start="20250601233000 +0000" stop="20250601234500 +0000">
 		<title>Little Angel - EP 1</title>
 		<desc>Come on in and enjoy your favorite nursery rhymes from Baby John and JJ.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925251'&amp;EntityType='LinearSchedule'&amp;EntityId='8c37feae-36f2-410f-baeb-fe13a1891b79'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930900'&amp;EntityType='LinearSchedule'&amp;EntityId='655722e1-f1da-4c89-987a-317b5b1e99bb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250601234216 +0000" stop="20250602000014 +0000">
+	<programme channel="97098" start="20250601234500 +0000" stop="20250602000000 +0000">
 		<title>Little Angel - EP 2</title>
 		<desc>Come on in and enjoy your favorite nursery rhymes from Baby John and JJ.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925255'&amp;EntityType='LinearSchedule'&amp;EntityId='7f6f0991-3a28-419b-a68c-a8a8bbebf4c1'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930904'&amp;EntityType='LinearSchedule'&amp;EntityId='2ad13605-dd48-4668-8bc1-bd33935306af'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602000014 +0000" stop="20250602003016 +0000">
+	<programme channel="97098" start="20250602000000 +0000" stop="20250602003000 +0000">
 		<title>Bugsville - EP 9</title>
 		<desc>Bugsville is an entertaining and educational pre-school programme featuring NATALIE, her parents (Mary and Fred) and her friends. The show will feature live action filmed in home sets as well as composited CGI shot in a green screen studio.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925259'&amp;EntityType='LinearSchedule'&amp;EntityId='2530fd55-07a0-418c-b612-e8763973355c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930908'&amp;EntityType='LinearSchedule'&amp;EntityId='940cd350-1e6f-4331-aa04-12d9c79607e8'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602003016 +0000" stop="20250602010040 +0000">
+	<programme channel="97098" start="20250602003000 +0000" stop="20250602010000 +0000">
 		<title>Pinkfong Songs &amp; Stories - EP 102</title>
 		<desc>Enjoy the best of Pinkfong's most loved songs and stories with all your favourite characters!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8925263'&amp;EntityType='LinearSchedule'&amp;EntityId='e37c3fbe-e619-4e72-a74b-fd7f02833589'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8930912'&amp;EntityType='LinearSchedule'&amp;EntityId='7acfdc1e-c79e-4c9e-95ef-8ee76c6128f7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602010040 +0000" stop="20250602013106 +0000">
+	<programme channel="97098" start="20250602010000 +0000" stop="20250602013000 +0000">
 		<title>Sesame Street S51 - EP 20</title>
 		<desc>This season is all about playful problem solving, with the recurring use of the mantra "I wonder, what if, let's try!".</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925267'&amp;EntityType='LinearSchedule'&amp;EntityId='dbf5a25a-619f-4f00-b491-045f623d45b8'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930916'&amp;EntityType='LinearSchedule'&amp;EntityId='658683fb-fd74-4d43-abd9-4a5d0da868eb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602013106 +0000" stop="20250602013942 +0000">
+	<programme channel="97098" start="20250602013000 +0000" stop="20250602014000 +0000">
 		<title>Hey Duggee: Sr3 - EP 18</title>
 		<desc>The massively popular series, packed with humour and pop culture references, is back with more comical adventures at the Squirrel Club. Guided by big lovable dog Duggee, the little Squirrels have fun earning achievement badges. The Squirrels each have their own distinctive personalities, but they all love playing, learning and making friends together.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8924915'&amp;EntityType='LinearSchedule'&amp;EntityId='b93265b9-ed1b-4f36-8873-16ac45be3ef6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930920'&amp;EntityType='LinearSchedule'&amp;EntityId='f4537d00-ad0a-4cb1-ac64-683394cf077b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602013942 +0000" stop="20250602014818 +0000">
+	<programme channel="97098" start="20250602014000 +0000" stop="20250602015000 +0000">
 		<title>Hey Duggee: Sr3 - EP 19</title>
 		<desc>The massively popular series, packed with humour and pop culture references, is back with more comical adventures at the Squirrel Club. Guided by big lovable dog Duggee, the little Squirrels have fun earning achievement badges. The Squirrels each have their own distinctive personalities, but they all love playing, learning and making friends together.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925271'&amp;EntityType='LinearSchedule'&amp;EntityId='a5eafb88-41c0-422b-a423-3e7eea9e5636'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930924'&amp;EntityType='LinearSchedule'&amp;EntityId='b774baf8-b3ef-4d7d-a5fc-624a30215bb9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602014818 +0000" stop="20250602020039 +0000">
+	<programme channel="97098" start="20250602015000 +0000" stop="20250602020000 +0000">
 		<title>Hey Duggee: Sr3 - EP 20</title>
 		<desc>The massively popular series, packed with humour and pop culture references, is back with more comical adventures at the Squirrel Club. Guided by big lovable dog Duggee, the little Squirrels have fun earning achievement badges. The Squirrels each have their own distinctive personalities, but they all love playing, learning and making friends together.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925275'&amp;EntityType='LinearSchedule'&amp;EntityId='f12af04d-425d-41e7-a44a-a29a2d219765'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930928'&amp;EntityType='LinearSchedule'&amp;EntityId='26421b1f-e64f-4300-8886-d7baad57da1d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602020039 +0000" stop="20250602021453 +0000">
+	<programme channel="97098" start="20250602020000 +0000" stop="20250602021500 +0000">
 		<title>Lil Wild S3 - EP 5</title>
 		<desc>Rara and Wobi must now fend themselves from this strange new world they find themselves in -            where everything is trying to eat you! On the surface world, Bao and Suzie hatch a plan to take            back half of a missing map of the Lost World from the local museum, owned by JJ H. Smythe!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925279'&amp;EntityType='LinearSchedule'&amp;EntityId='689cb486-db6e-4a0c-b407-576e2f0e0f99'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930932'&amp;EntityType='LinearSchedule'&amp;EntityId='69c15693-717a-4b82-b4ac-58e157b1ea15'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602021453 +0000" stop="20250602023016 +0000">
+	<programme channel="97098" start="20250602021500 +0000" stop="20250602023000 +0000">
 		<title>Lil Wild S3 - EP 6</title>
 		<desc>Rara and Wobi meet Klump, a maternal dinosaur and her baby Klumplings who tells them all about the lost world. Elsewhere, Bao and Suzie's heist went underway, attracting JJ's unwanted attention.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925283'&amp;EntityType='LinearSchedule'&amp;EntityId='7b089f34-ac3f-4e4e-8271-fc5be873892a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930936'&amp;EntityType='LinearSchedule'&amp;EntityId='337bc918-cb1f-46bd-81d7-33ab0d78f1b6'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602023016 +0000" stop="20250602024544 +0000">
+	<programme channel="97098" start="20250602023000 +0000" stop="20250602024500 +0000">
 		<title>Piggy S1 - EP 5</title>
 		<desc>Piggy uses compassion and knowledge to help his friends and neighbors with everyday challenges, in these character-driven stories about friendship, hope and fitting into the big, big world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925287'&amp;EntityType='LinearSchedule'&amp;EntityId='28d37a30-40e5-461a-980d-c4dae7c096da'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930940'&amp;EntityType='LinearSchedule'&amp;EntityId='dab18ed3-8753-4667-8343-2907c318d7ea'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602024544 +0000" stop="20250602030000 +0000">
+	<programme channel="97098" start="20250602024500 +0000" stop="20250602030000 +0000">
 		<title>Piggy S1 - EP 6</title>
 		<desc>Piggy uses compassion and knowledge to help his friends and neighbors with everyday challenges, in these character-driven stories about friendship, hope and fitting into the big, big world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925291'&amp;EntityType='LinearSchedule'&amp;EntityId='5263c7fb-88c7-451d-a05f-0c2f34c50ba7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930944'&amp;EntityType='LinearSchedule'&amp;EntityId='f5ecb1d8-c6c8-4b37-b883-17a485c2013e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602030000 +0000" stop="20250602033011 +0000">
+	<programme channel="97098" start="20250602030000 +0000" stop="20250602033000 +0000">
 		<title>Squared Zebra S1 - EP 76</title>
 		<desc>Polly the striped zebra, Rodion the elephant, Gosha the crocodile, Yana the monkey, Pasha the ostrich and his little brother Petya the egg-- happily live in a jungle on a faraway island, where every day is full of adventures (and the occasional arguments). With Squared Zebra by their side, the friends learn to appreciate the beauty of the world and to value individual traits in both others and themselves!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925295'&amp;EntityType='LinearSchedule'&amp;EntityId='df3f71af-9ac0-45c3-8ee0-216b8e6a858b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930948'&amp;EntityType='LinearSchedule'&amp;EntityId='3ec183b7-c2b9-4325-b1c7-a5b56d3fd03c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602033011 +0000" stop="20250602040016 +0000">
+	<programme channel="97098" start="20250602033000 +0000" stop="20250602040000 +0000">
 		<title>Agent Binky: Pets Of The Universe S2 - EP 3</title>
 		<desc>More adventures of Binky, a space cat who is on a mission to protect his human family (Big Human and Small Human) from any interstellar threats, with assistance from four pets in the P.U.R.S.T. (Pets of the Universe Ready for Space Travel) agency!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925299'&amp;EntityType='LinearSchedule'&amp;EntityId='3c826e57-63ac-4cc8-8574-e32a9f4f8c65'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930952'&amp;EntityType='LinearSchedule'&amp;EntityId='6d842132-1fac-421f-bcf1-818c40614fc1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602040016 +0000" stop="20250602041543 +0000">
+	<programme channel="97098" start="20250602040000 +0000" stop="20250602041500 +0000">
 		<title>Alvinnn!!! &amp; The Chipmunks S1 - EP 3</title>
 		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925303'&amp;EntityType='LinearSchedule'&amp;EntityId='7450e702-89ad-4b6b-aa1a-0546cd033b0d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930956'&amp;EntityType='LinearSchedule'&amp;EntityId='04016d9e-1781-4fdc-9058-05f53458e718'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602041543 +0000" stop="20250602043005 +0000">
+	<programme channel="97098" start="20250602041500 +0000" stop="20250602043000 +0000">
 		<title>Alvinnn!!! &amp; The Chipmunks S1 - EP 4</title>
 		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925307'&amp;EntityType='LinearSchedule'&amp;EntityId='e1d51d21-09cf-4596-82f8-ea06be5c3137'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930960'&amp;EntityType='LinearSchedule'&amp;EntityId='6cdef3d6-c10e-4567-aacb-4d0fa6c32994'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602043005 +0000" stop="20250602050002 +0000">
+	<programme channel="97098" start="20250602043000 +0000" stop="20250602050000 +0000">
 		<title>Beyblade Burst QuadDrive - EP 15</title>
 		<desc>The story centers on Bel Daizora, the leader of the Bey graveyard "Phantom's Gate". Bel, who holds Destruction Belfyre, declares war on Bladers across the world. With Ranzo Kiyama and Bashara Suiro, their journey unfolds as Bel advances to becoming the Dark Prince.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925311'&amp;EntityType='LinearSchedule'&amp;EntityId='42f74af7-1559-48a6-881b-8a7d5b486211'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930964'&amp;EntityType='LinearSchedule'&amp;EntityId='f45314f2-2739-4453-b63f-74e3a27df9f9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602050002 +0000" stop="20250602053006 +0000">
+	<programme channel="97098" start="20250602050000 +0000" stop="20250602053000 +0000">
 		<title>Totally Spies S1 - EP 14</title>
 		<desc>Three teenage girls from Beverly Hills attempt to balance their lives as high school (later university) students with their undercover work as super-spies, battling an array of bizarre criminals!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925315'&amp;EntityType='LinearSchedule'&amp;EntityId='d6d371d2-45dd-488e-9a78-be135016cbb9'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930968'&amp;EntityType='LinearSchedule'&amp;EntityId='49ffe7c7-86e7-4b5a-97a7-299b73240f27'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602053006 +0000" stop="20250602054523 +0000">
+	<programme channel="97098" start="20250602053000 +0000" stop="20250602054500 +0000">
 		<title>Ghostforce - EP 35</title>
 		<desc>Liv, Andy, and Mike are three teens who form the ultra-secret Ghostforce, a squad of superheroes with ghostly powers! With the help of the mysterious Glowboo and an arsenal of high-tech invented by their mentor, Miss Jones, our heroes battle and capture the ghosts that haunt New York City... before racing back to school for their next class!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925319'&amp;EntityType='LinearSchedule'&amp;EntityId='f5642fad-aa79-4ae5-a0ac-e6c27a7477a5'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930972'&amp;EntityType='LinearSchedule'&amp;EntityId='6d8018c1-f83c-4ed6-86d2-999f8f782f2a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602054523 +0000" stop="20250602060015 +0000">
+	<programme channel="97098" start="20250602054500 +0000" stop="20250602060000 +0000">
 		<title>Ghostforce - EP 36</title>
 		<desc>Liv, Andy, and Mike are three teens who form the ultra-secret Ghostforce, a squad of superheroes with ghostly powers! With the help of the mysterious Glowboo and an arsenal of high-tech invented by their mentor, Miss Jones, our heroes battle and capture the ghosts that haunt New York City... before racing back to school for their next class!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925323'&amp;EntityType='LinearSchedule'&amp;EntityId='c45eae60-f9a5-446a-a731-d69992752cd6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930976'&amp;EntityType='LinearSchedule'&amp;EntityId='d37c00ab-f904-41ca-8e25-7b2a383ae2d7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602060015 +0000" stop="20250602063030 +0000">
+	<programme channel="97098" start="20250602060000 +0000" stop="20250602063000 +0000">
 		<title>Space Nova S2 - EP 7</title>
 		<desc>It's 2162 and following the Novas incredible meeting with the Stardustians, everything we thought we knew about the universe has changed. Even the Novas' home base, Luna Port has become a major space station, home to entire new fields of science and learning. Still, despite all their incredible adventures, the Novas' greatest quest is ahead of them; they've just been invited to visit the Stardustian homeworld!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925327'&amp;EntityType='LinearSchedule'&amp;EntityId='9293aaa5-e99f-4d9e-a14e-7da771dba1cb'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930980'&amp;EntityType='LinearSchedule'&amp;EntityId='66541b50-f29d-4130-8cf1-27b6f7f106dd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602063030 +0000" stop="20250602070001 +0000">
+	<programme channel="97098" start="20250602063000 +0000" stop="20250602070000 +0000">
 		<title>Pokemon Ultimate Journeys: The Series [S25] - EP 12</title>
 		<desc>The stakes are higher than ever for Ash, Goh, and Chloe as they advance toward their goals! As the Pokemon World Coronation Series tournament heats up, intensive training is in store for Ash, Pikachu, and their Pokemon friends.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8925331'&amp;EntityType='LinearSchedule'&amp;EntityId='71ea3c8a-3414-4434-89d0-7c48af04f1a4'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930984'&amp;EntityType='LinearSchedule'&amp;EntityId='d0a9db7e-66bb-47a9-8e2c-c3b1ffc2f112'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602070001 +0000" stop="20250602073006 +0000">
+	<programme channel="97098" start="20250602070000 +0000" stop="20250602073000 +0000">
 		<title>On The Red Dot - EP 3</title>
 		<desc>After a complaint about his Samsui woman mural, American artist Sean Dunston faced backlash. But after 15 years here, he's painting local icons. When does a foreigner stop being one?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8903123'&amp;EntityType='LinearSchedule'&amp;EntityId='08620449-49fd-45ee-9256-7b1aa68e6e50'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930988'&amp;EntityType='LinearSchedule'&amp;EntityId='03c603e3-d610-4889-a784-6cd0605771f0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602073006 +0000" stop="20250602083018 +0000">
+	<programme channel="97098" start="20250602073000 +0000" stop="20250602083000 +0000">
 		<title>Talking Point - EP 3</title>
 		<desc>Bullying in Singapore schools has come under the spotlight in recent months. How big of a problem is it and what can we do to stop it? Diana Ser investigates, in this one-hour special.            </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8903131'&amp;EntityType='LinearSchedule'&amp;EntityId='1ab75e02-4c53-404d-94d2-61c68e1243c0'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930992'&amp;EntityType='LinearSchedule'&amp;EntityId='265734de-2bbd-4b07-8c26-8deaf3b240f1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602083018 +0000" stop="20250602093047 +0000">
+	<programme channel="97098" start="20250602083000 +0000" stop="20250602093000 +0000">
 		<title>Junior Bake Off S6 - EP 11</title>
 		<desc>The junior version of this global phenomenon returns, hosted by triple BAFTA-winning comedian HarryHill. This series sees pastry chef and food writer Ravneet Gill join the team as a new judge alongside Bake Off alumnus Liam Charles. It's a mouth-watering journey, as 16 of the country's best young bakers compete. A joyful way of getting children passionate about food.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8903140'&amp;EntityType='LinearSchedule'&amp;EntityId='c46a78ab-2a2d-4f76-b082-84fb5fd3ed0c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8930996'&amp;EntityType='LinearSchedule'&amp;EntityId='7c9e8178-5d09-43a4-adb1-69a054dec862'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250602093047 +0000" stop="20250602103000 +0000">
+	<programme channel="97098" start="20250602093000 +0000" stop="20250602103000 +0000">
 		<title>Celebrity Catch Phrase S8 - EP 7</title>
 		<desc>In this entertaining series packed with laughs, celebrity contestants attempt to work out catchphrases based on fun animations. Animations include well known phrases, sayings and even film, song and book titles. The celebrities need to buzz in as quickly as they can when they know the answer and can say what they see in a chance to win money for their chosen charities.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8903148'&amp;EntityType='LinearSchedule'&amp;EntityId='09d9a8e7-214c-4f6d-883d-5cd4e47ca057'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8931000'&amp;EntityType='LinearSchedule'&amp;EntityId='dfd56f84-1168-43a5-b3cc-99be8d2d3322'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250602103000 +0000" stop="20250602110000 +0000">
 		<title>Deal Or No Deal Australia S12 - EP 159</title>
 		<desc>The exhilarating hit game show where contestants must beat The Banker to win a huge cash prize, is making a triumphant return. The ultimate contest of nerve, luck and pure gut instinct will be fronted by one of Australia's most beloved TV presenters, Gold Logie winner Grant Denyer.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8903155'&amp;EntityType='LinearSchedule'&amp;EntityId='c86e45df-c075-4924-85b3-be08d98c83b1'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8931004'&amp;EntityType='LinearSchedule'&amp;EntityId='4d81f8d6-ee77-46d6-9da4-ee4553dd85b8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250602110000 +0000" stop="20250602113000 +0000">
 		<title>Wheel Of Fortune S41 - EP 7994</title>
 		<desc>Pat Sajak hosts his final season of Wheel of Fortune.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8903162'&amp;EntityType='LinearSchedule'&amp;EntityId='e72c0a79-0ad2-4d21-8016-4d53c7e1a55d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8931008'&amp;EntityType='LinearSchedule'&amp;EntityId='bc0aea6e-abde-49c7-8028-e1af97235306'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250602113000 +0000" stop="20250602123000 +0000">
 		<title>Celebrity Wheel of Fortune: Season 03 - EP 9</title>
 		<desc>Various celebrities compete against each other by solving word puzzles in order to win cash prizes that are determined by a spinning wheel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8903171'&amp;EntityType='LinearSchedule'&amp;EntityId='a31690f9-6c24-488b-9698-42fe57dcc3da'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8931012'&amp;EntityType='LinearSchedule'&amp;EntityId='fabaebd6-5315-49e9-a737-e2ee111093ec'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250602123000 +0000" stop="20250602130000 +0000">
 		<title>Provocative - EP 76</title>
 		<desc>Nadrah finds an unlikely ally in Melody when Melody realises what she is going through. Hui Qing discovers that her older sister has severe dementia.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8903179'&amp;EntityType='LinearSchedule'&amp;EntityId='1a423eec-c34d-4148-b5fc-5651b835315b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8931016'&amp;EntityType='LinearSchedule'&amp;EntityId='080822f7-4404-4fe2-a5a1-9516a0beadca'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250602130000 +0000" stop="20250602133000 +0000">
 		<title>News Tonight</title>
 		<desc>The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8903187'&amp;EntityType='LinearSchedule'&amp;EntityId='b79f3aff-09db-4655-ab31-b24c9917ca52'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8931020'&amp;EntityType='LinearSchedule'&amp;EntityId='356bcd95-f0b6-4900-bd3e-d653cb2f3212'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250602133000 +0000" stop="20250602140000 +0000">
 		<title>Kumar Vs The World - EP 5</title>
 		<desc>It’s getting hot in here, and it’s not just Kumar’s jokes. In this fiery episode, Kumar dives into the climate crisis and the hard truths about rising sea levels. Are we all doomed or can we still make a difference? Get schooled on Kumar VS Climate Change!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8903196'&amp;EntityType='LinearSchedule'&amp;EntityId='754be998-908c-4770-b72e-dcfba77ac1ee'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8931024'&amp;EntityType='LinearSchedule'&amp;EntityId='4b5a14ea-7c45-451d-a251-609dda2737a7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250602140000 +0000" stop="20250602150000 +0000">
 		<title>Wild Cards S2 - EP 9</title>
 		<desc>A spirited con woman and a demoted by-the-book detective are given the chance to redeem themselves. The catch? They have to find a way to work together each using their unique skills to solve crimes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8903204'&amp;EntityType='LinearSchedule'&amp;EntityId='67e3adc5-49dd-4f14-96fd-ba7e19d64066'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8931028'&amp;EntityType='LinearSchedule'&amp;EntityId='a0613ab5-949b-4c4c-88bb-0314f577028c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250602150000 +0000" stop="20250602160000 +0000">
 		<title>Fire Country S2 - EP 1</title>
 		<desc>A young convict joins a firefighting program looking for redemption and a shortened prison sentence. He and other inmates work alongside elite firefighters to extinguish massive blazes across the region.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8924124'&amp;EntityType='LinearSchedule'&amp;EntityId='b192ca10-8d5b-4f79-920d-825fbdcf8f62'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8931032'&amp;EntityType='LinearSchedule'&amp;EntityId='468d5e82-7237-4bfa-b0c4-c72814532943'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250602160000 +0000" stop="20250602163000 +0000">
 		<title>Provocative - EP 76</title>
 		<desc>Nadrah finds an unlikely ally in Melody when Melody realises what she is going through. Hui Qing discovers that her older sister has severe dementia.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8904878'&amp;EntityType='LinearSchedule'&amp;EntityId='7e128bef-a672-478a-8f06-20d43d6063b0'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8931036'&amp;EntityType='LinearSchedule'&amp;EntityId='befcf034-0402-4e86-9b3c-950f94ad4c31'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20250601170028 +0000" stop="20250601175911 +0000">
 		<title>The Family Court - EP 23 走进走出</title>
@@ -2543,7 +2524,7 @@
 		<desc>This 13-episode series looks at some of the most unfortunate cases in Singapore focusing on normal, ordinary people, whose lives change so drastically - in a SNAP of a finger. The docu drama is crafted through a powerful narrative, stylised dramatic reconstructions, archival footage and photographs, interviews with those involved, and experts.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8902747'&amp;EntityType='LinearSchedule'&amp;EntityId='55f24ccf-ce67-4837-8135-0c93cece71d5'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97096" start="20250602153000 +0000" stop="20250602160130 +0000">
+	<programme channel="97096" start="20250602153000 +0000" stop="20250603160000 +0000">
 		<title>Seithi</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs.             Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8902759'&amp;EntityType='LinearSchedule'&amp;EntityId='a17816db-3f01-44a0-929c-5a2ac439596a'&amp;Width=1280&amp;Height=720" />
@@ -2807,11 +2788,6 @@
 		<title>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</title>
 		<desc>Legenda Puteri Qaseh/Ollie And Friends Shorts S2/What on Earth S2/Game On</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8918696'&amp;EntityType='LinearSchedule'&amp;EntityId='789719e6-a239-4911-8749-218afd3c9b35'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98200" start="20250602160000 +0000" stop="20250603160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8908840'&amp;EntityType='LinearSchedule'&amp;EntityId='bf474f6f-d720-4ed4-bc3c-17e644b5bf73'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20250602110000 +0000" stop="20250602111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - PHS HAIRSCIENCE HOM/FEM Anti-Hair Loss Bundle</title>
