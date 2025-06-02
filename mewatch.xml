@@ -36,10 +36,6 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -879,7 +875,7 @@
 		<desc>This 13-episode series looks at some of the most unfortunate cases in Singapore focusing on normal, ordinary people, whose lives change so drastically - in a SNAP of a finger. The docu drama is crafted through a powerful narrative, stylised dramatic reconstructions, archival footage and photographs, interviews with those involved, and experts.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8902747'&amp;EntityType='LinearSchedule'&amp;EntityId='55f24ccf-ce67-4837-8135-0c93cece71d5'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97096" start="20250602153000 +0000" stop="20250602160130 +0000">
+	<programme channel="97096" start="20250602153000 +0000" stop="20250602160100 +0000">
 		<title>Seithi</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs.             Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8902759'&amp;EntityType='LinearSchedule'&amp;EntityId='a17816db-3f01-44a0-929c-5a2ac439596a'&amp;Width=1280&amp;Height=720" />
@@ -1303,16 +1299,6 @@
 		<title>No programme available now. Next broadcast on 6th June, Friday 8.30pm. ONE Friday Fights 111</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 111 on 6th June, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8904526'&amp;EntityType='LinearSchedule'&amp;EntityId='92808ede-7039-4b99-a325-93e400d4939f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250601160000 +0000" stop="20250602160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8933220'&amp;EntityType='LinearSchedule'&amp;EntityId='0b90e702-4e02-4e22-a374-7d32472593d4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250602160000 +0000" stop="20250603160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8933305'&amp;EntityType='LinearSchedule'&amp;EntityId='11c2310e-faef-4d4e-8d07-c1fa97d935e7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250601160000 +0000" stop="20250601190000 +0000">
 		<title>Only The Biggest 80s Anthems!</title>
@@ -2559,10 +2545,10 @@
 		<desc>End of Transmission</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8907058'&amp;EntityType='LinearSchedule'&amp;EntityId='7d1310e2-41a0-41b3-a529-63c29bb5768c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97096" start="20250602160130 +0000" stop="20250603010000 +0000">
+	<programme channel="97096" start="20250602160100 +0000" stop="20250603010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8922488'&amp;EntityType='LinearSchedule'&amp;EntityId='e931699b-6ece-4198-8370-7e419090cee8'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8935666'&amp;EntityType='LinearSchedule'&amp;EntityId='4adebb73-9aae-4673-90dc-23d13b59dcf0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20250603010000 +0000" stop="20250603013000 +0000">
 		<title>Athiradi Samaiyal Sr2 - EP 5</title>
@@ -3033,11 +3019,6 @@
 		<title>No programme available now. Next broadcast on 6th June, Friday 8.30pm. ONE Friday Fights 111</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 111 on 6th June, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8906985'&amp;EntityType='LinearSchedule'&amp;EntityId='1ad001d4-fe17-4a41-b405-f3ffe3fa7b03'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250603160000 +0000" stop="20250604160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8933309'&amp;EntityType='LinearSchedule'&amp;EntityId='175a8f8e-7321-434f-9780-65d34f67e859'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250602210000 +0000" stop="20250602220000 +0000">
 		<title>80s - To The Max!</title>
