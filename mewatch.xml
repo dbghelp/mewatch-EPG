@@ -36,6 +36,10 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -315,30 +319,25 @@
 		<desc>The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective. </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8977712'&amp;EntityType='LinearSchedule'&amp;EntityId='1d51c658-67da-4395-a472-2a8394d34320'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250624132959 +0000" stop="20250624140007 +0000">
+	<programme channel="97098" start="20250624132959 +0000" stop="20250624140037 +0000">
 		<title>In Search of Heat - EP 3</title>
 		<desc>What do chillies tell us about our past? Intrepid private chef Kevin Lee is in for a surprise as he discovers why some cultures have a deeply rooted connection to chilli.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9002516'&amp;EntityType='LinearSchedule'&amp;EntityId='3b9b45c8-4e46-470c-94f7-27560c4b9b4a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250624140007 +0000" stop="20250624142000 +0000">
+	<programme channel="97098" start="20250624140037 +0000" stop="20250624142023 +0000">
 		<title>Scene City: I Survived An Accident</title>
 		<desc>I Survived an Accident follows the life of Elise, a victim of an accident that claimed the life of her best friend and seriously injured 3 others, except told from the point of view of the "criminal". Despite investigations proving Elise's relative innocence, she finds it hard to shed the label slapped on her by netizens out for her blood and to move on with her life.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8977720'&amp;EntityType='LinearSchedule'&amp;EntityId='cdf2bb2e-a224-4f95-a29c-8ff774ab58eb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250624142000 +0000" stop="20250624151000 +0000">
+	<programme channel="97098" start="20250624142023 +0000" stop="20250624151021 +0000">
 		<title>Paris Has Fallen S1 - EP 2</title>
 		<desc>Based on the highly successful movie franchise. A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8977725'&amp;EntityType='LinearSchedule'&amp;EntityId='91cdb379-5426-447c-8f92-61d6c2fb914a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250624151000 +0000" stop="20250624160000 +0000">
+	<programme channel="97098" start="20250624151021 +0000" stop="20250624160010 +0000">
 		<title>The Librarians S4 - EP 1</title>
 		<desc>A secret sect of the Vatican Church unearths a map detailing the locations of the four cornerstones of the Library of Alexandria; Flynn and the Librarians work with an unexpected ally to stop them before the stones can be used to destroy the Library.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8977739'&amp;EntityType='LinearSchedule'&amp;EntityId='0d25dffd-6ff6-4c8f-a1b3-623bc3d2c809'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97098" start="20250624160000 +0000" stop="20250624163000 +0000">
-		<title>Provocative - EP 88</title>
-		<desc>Nadrah’s change in personality is affecting her professional and personal life. Linda tries to encourage Caleb to get together with Shufen.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982219'&amp;EntityType='LinearSchedule'&amp;EntityId='619c3c31-31e4-44e9-a61a-a6619a6599df'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20250623150130 +0000" stop="20250623160119 +0000">
 		<title>Joy of Life 2 - EP 21 庆余年 2</title>
@@ -1330,6 +1329,16 @@
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 114 on 27th June, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8986347'&amp;EntityType='LinearSchedule'&amp;EntityId='c5f43e0c-84aa-489d-84dc-1a132755650e'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98202" start="20250622160001 +0000" stop="20250623160001 +0000">
+		<title>No Programme available now. Next Broadcast on 25th Jun, Wednesday 9.10am. NBA Rising Invitational Tournament 2025</title>
+		<desc>LIVE 5 will commence broadcast of the NBA Rising Invitational Tournament 2025 on 25th Jun, Wednesday 9.10am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8974973'&amp;EntityType='LinearSchedule'&amp;EntityId='dbb56d31-da81-4459-97ba-e8747e7e3e3c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250623160001 +0000" stop="20250624160001 +0000">
+		<title>No Programme available now. Next Broadcast on 25th Jun, Wednesday 9.10am. NBA Rising Invitational Tournament 2025</title>
+		<desc>LIVE 5 will commence broadcast of the NBA Rising Invitational Tournament 2025 on 25th Jun, Wednesday 9.10am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8977132'&amp;EntityType='LinearSchedule'&amp;EntityId='072dd860-e13c-43bb-8d7d-eaa4f7e40af0'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="158965" start="20250623110000 +0000" stop="20250623200000 +0000">
 		<title>Monday Night At The Movies! - EP1</title>
 		<desc>Popcorn at the ready, these are NOW 80s' biggest songs from the movies. But don't forget to switch off those mobile phones!</desc>
@@ -1885,12 +1894,17 @@
 		<desc>When a U.S. Army deserter is granted asylum over claims of evidence of an alleged U.S. torture prison in the Czech Republic, Karla’s position as the new German ambassador in Prague is threatened. In order to find the truth, she is willing to risk it all.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8976876'&amp;EntityType='LinearSchedule'&amp;EntityId='84582cb6-8b26-4684-b700-08dd2b42445e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250624163000 +0000" stop="20250624173000 +0000">
+	<programme channel="97098" start="20250624160010 +0000" stop="20250624163009 +0000">
+		<title>Provocative - EP 88</title>
+		<desc>Nadrah’s change in personality is affecting her professional and personal life. Linda tries to encourage Caleb to get together with Shufen.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982219'&amp;EntityType='LinearSchedule'&amp;EntityId='619c3c31-31e4-44e9-a61a-a6619a6599df'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97098" start="20250624163009 +0000" stop="20250624173012 +0000">
 		<title>CSI: Vegas S2 - EP 1</title>
 		<desc>Facing an existential threat that could bring down the Crime Lab, a brilliant team of forensic investigators must welcome back old friends and deploy new techniques to preserve and serve justice in Sin City.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982223'&amp;EntityType='LinearSchedule'&amp;EntityId='f12890e1-d86e-4870-a140-001c098ea456'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250624173000 +0000" stop="20250624180000 +0000">
+	<programme channel="97098" start="20250624173012 +0000" stop="20250624180000 +0000">
 		<title>Wheel Of Fortune S41 - EP 7910</title>
 		<desc>Pat Sajak hosts his final season of Wheel of Fortune.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982227'&amp;EntityType='LinearSchedule'&amp;EntityId='9a376e0f-bddf-4a27-a68e-db38b0942067'&amp;Width=1280&amp;Height=720" />
@@ -1920,12 +1934,12 @@
 		<desc>The junior version of this global phenomenon returns, hosted by triple BAFTA-winning comedian HarryHill. This series sees pastry chef and food writer Ravneet Gill join the team as a new judge alongside Bake Off alumnus Liam Charles. It's a mouth-watering journey, as 16 of the country's best young bakers compete. A joyful way of getting children passionate about food.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982253'&amp;EntityType='LinearSchedule'&amp;EntityId='57f77e54-e632-4495-a0ab-5fe6aa1a4efd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250624220000 +0000" stop="20250624221556 +0000">
+	<programme channel="97098" start="20250624220000 +0000" stop="20250624221551 +0000">
 		<title>Alvinnn!!! &amp; The Chipmunks S1 - EP 37</title>
 		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982261'&amp;EntityType='LinearSchedule'&amp;EntityId='da8c62a0-999c-43ef-86f2-c271843730c9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250624221556 +0000" stop="20250624223050 +0000">
+	<programme channel="97098" start="20250624221551 +0000" stop="20250624223050 +0000">
 		<title>Alvinnn!!! &amp; The Chipmunks S1 - EP 38</title>
 		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982267'&amp;EntityType='LinearSchedule'&amp;EntityId='c8bd4894-1964-463c-9486-92942163516d'&amp;Width=1280&amp;Height=720" />
@@ -1943,7 +1957,7 @@
 	<programme channel="97098" start="20250624224404 +0000" stop="20250624225052 +0000">
 		<title>Oddbods Shorts S1 - EP 11</title>
 		<desc>Seven delightful, furry and quirky monsters named Fuse, Pogo, Newt, Bubbles, Slick, Zee and Jeff have a new adventure each day, and every day teaches them something new.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9000568'&amp;EntityType='LinearSchedule'&amp;EntityId='754d7930-c8f0-46df-b513-0828b8802d2f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9002723'&amp;EntityType='LinearSchedule'&amp;EntityId='c2e5a900-da73-47ef-9bb4-8ad51ad5d02d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250624225052 +0000" stop="20250624230026 +0000">
 		<title>Oddbods Shorts S1 - EP 12</title>
@@ -1978,7 +1992,7 @@
 	<programme channel="97098" start="20250625003002 +0000" stop="20250625010035 +0000">
 		<title>Pinkfong Songs &amp; Stories - EP 125</title>
 		<desc>Enjoy the best of Pinkfong's most loved songs and stories with all your favourite characters!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8982347'&amp;EntityType='LinearSchedule'&amp;EntityId='4a2897a0-f72d-4ffb-bfb6-17f049918897'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9002727'&amp;EntityType='LinearSchedule'&amp;EntityId='c5b9eb08-b41c-4d6c-bb0b-e57ef590306f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250625010035 +0000" stop="20250625013117 +0000">
 		<title>Sesame Street Mecha Builders - EP 3</title>
@@ -2008,7 +2022,7 @@
 	<programme channel="97098" start="20250625023002 +0000" stop="20250625030040 +0000">
 		<title>The Adventure Of Little Penguin S1 - EP 13</title>
 		<desc>Follow the hectic and exciting adventures of Oscar the little penguin in unique environments! The young penguin is setting out to explore the world, meeting new characters who teach him about himself, but also about others. He quickly discovers that it's not the destination that matters, but rather the people you meet along the journey.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982393'&amp;EntityType='LinearSchedule'&amp;EntityId='7bac6634-a75a-4f23-bb2d-d8b9d26b1ee9'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9002731'&amp;EntityType='LinearSchedule'&amp;EntityId='42625b59-40a0-4dfe-9fa3-aba2906bbff8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250625030040 +0000" stop="20250625031553 +0000">
 		<title>Super BOOMi S2 - EP 13</title>
@@ -2020,90 +2034,90 @@
 		<desc>Super BOOMi follows an animated bear and his friends as they learn and play in a virtual reality game universe.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982408'&amp;EntityType='LinearSchedule'&amp;EntityId='4a11543c-3b47-4304-b2ba-79fa1eb025c7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625033000 +0000" stop="20250625040001 +0000">
+	<programme channel="97098" start="20250625033000 +0000" stop="20250625040011 +0000">
 		<title>Agent Binky: Pets Of The Universe S2 - EP 37</title>
 		<desc>More adventures of Binky, a space cat who is on a mission to protect his human family (Big Human and Small Human) from any interstellar threats, with assistance from four pets in the P.U.R.S.T. (Pets of the Universe Ready for Space Travel) agency!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982416'&amp;EntityType='LinearSchedule'&amp;EntityId='35dcaf8b-5abd-4964-9009-b180de97776a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9002735'&amp;EntityType='LinearSchedule'&amp;EntityId='7eb53491-af36-4766-96f4-e117e5a2bfa0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625040001 +0000" stop="20250625041723 +0000">
+	<programme channel="97098" start="20250625040011 +0000" stop="20250625041732 +0000">
 		<title>Alvinnn!!! &amp; The Chipmunks S1 - EP 37</title>
 		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982424'&amp;EntityType='LinearSchedule'&amp;EntityId='09cf0984-ced2-4e79-9045-eba1fa019c9d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9002739'&amp;EntityType='LinearSchedule'&amp;EntityId='45105366-7d0f-4c16-a863-88c9125ce57f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625041723 +0000" stop="20250625043018 +0000">
+	<programme channel="97098" start="20250625041732 +0000" stop="20250625043028 +0000">
 		<title>Alvinnn!!! &amp; The Chipmunks S1 - EP 38</title>
 		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9001084'&amp;EntityType='LinearSchedule'&amp;EntityId='3a2bd18d-4e50-4451-b497-caef2187c1b8'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625043018 +0000" stop="20250625043746 +0000">
+	<programme channel="97098" start="20250625043028 +0000" stop="20250625043756 +0000">
 		<title>Oddbods Shorts S1 - EP 9</title>
 		<desc>Seven delightful, furry and quirky monsters named Fuse, Pogo, Newt, Bubbles, Slick, Zee and Jeff have a new adventure each day, and every day teaches them something new.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982440'&amp;EntityType='LinearSchedule'&amp;EntityId='e557d9e5-bc51-4811-b4cc-903bdbd39e68'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625043746 +0000" stop="20250625044503 +0000">
+	<programme channel="97098" start="20250625043756 +0000" stop="20250625044512 +0000">
 		<title>Oddbods Shorts S1 - EP 10</title>
 		<desc>Seven delightful, furry and quirky monsters named Fuse, Pogo, Newt, Bubbles, Slick, Zee and Jeff have a new adventure each day, and every day teaches them something new.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982448'&amp;EntityType='LinearSchedule'&amp;EntityId='337f82ce-cdcf-4203-b9cf-ab13faf9b8c3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625044503 +0000" stop="20250625045236 +0000">
+	<programme channel="97098" start="20250625044512 +0000" stop="20250625045245 +0000">
 		<title>Oddbods Shorts S1 - EP 11</title>
 		<desc>Seven delightful, furry and quirky monsters named Fuse, Pogo, Newt, Bubbles, Slick, Zee and Jeff have a new adventure each day, and every day teaches them something new.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982456'&amp;EntityType='LinearSchedule'&amp;EntityId='8544ba05-0bb4-48f0-a63d-3a7d071922f6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9002743'&amp;EntityType='LinearSchedule'&amp;EntityId='ecbeff4e-a2f1-4907-ac7b-499cc16949f1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625045236 +0000" stop="20250625050004 +0000">
+	<programme channel="97098" start="20250625045245 +0000" stop="20250625050013 +0000">
 		<title>Oddbods Shorts S1 - EP 12</title>
 		<desc>Seven delightful, furry and quirky monsters named Fuse, Pogo, Newt, Bubbles, Slick, Zee and Jeff have a new adventure each day, and every day teaches them something new.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982464'&amp;EntityType='LinearSchedule'&amp;EntityId='fed879e3-a537-44c3-a6da-185b614d977e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625050004 +0000" stop="20250625053011 +0000">
+	<programme channel="97098" start="20250625050013 +0000" stop="20250625053020 +0000">
 		<title>Dogmatix And The Indomitables - EP 9</title>
 		<desc>Dogmatix leads a gang of animal friends, the Indomitables, living in Lutetia (Paris in the Ancient World), who have to battle it out with the Romans (who insist on imposing their way of life on the Gaulish people). With its fast-paced high jinks, high-speed chases and a touch of magic, Dogmatix and the Indomitables will provide great fun and adventures for all!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982472'&amp;EntityType='LinearSchedule'&amp;EntityId='e61ee8b5-ade5-420c-aa68-f1429601e99f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9002747'&amp;EntityType='LinearSchedule'&amp;EntityId='7a44191a-d70f-4f53-b436-483d9dfa9162'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625053011 +0000" stop="20250625054555 +0000">
+	<programme channel="97098" start="20250625053020 +0000" stop="20250625054604 +0000">
 		<title>Lex &amp; Plu S2 - EP 25</title>
 		<desc>Meet Lex and Trish, a mischievous pair of fox siblings, Plu the raccoon, Greg the blue-footed booby, and the adorable little mushroom known as Crispy. Together, they operate a one-of-a-kind space taxi business, using their tricked-out car to navigate the far reaches of the galaxy.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982479'&amp;EntityType='LinearSchedule'&amp;EntityId='109e066e-f4a9-4e84-889e-6d689156ce11'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625054555 +0000" stop="20250625060029 +0000">
+	<programme channel="97098" start="20250625054604 +0000" stop="20250625060038 +0000">
 		<title>Lex &amp; Plu S2 - EP 26</title>
 		<desc>Meet Lex and Trish, a mischievous pair of fox siblings, Plu the raccoon, Greg the blue-footed booby, and the adorable little mushroom known as Crispy. Together, they operate a one-of-a-kind space taxi business, using their tricked-out car to navigate the far reaches of the galaxy.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982483'&amp;EntityType='LinearSchedule'&amp;EntityId='21ae8dc4-52a2-4044-8123-d6231bbc2f76'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9002774'&amp;EntityType='LinearSchedule'&amp;EntityId='1c588f6e-1f7d-4177-bef4-c583c19d3808'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625060029 +0000" stop="20250625063005 +0000">
+	<programme channel="97098" start="20250625060038 +0000" stop="20250625063014 +0000">
 		<title>Miraculous: Tales Of Ladybug &amp; Cat Noir S4 - EP 15</title>
 		<desc>The continuing adventures of Marinette and Adrien, two normal teens, transform into superheroes Ladybug and Cat Noir when evil threatens their city!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982487'&amp;EntityType='LinearSchedule'&amp;EntityId='3f02ad78-b6df-4274-8460-0ac077a8b026'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625063005 +0000" stop="20250625070001 +0000">
+	<programme channel="97098" start="20250625063014 +0000" stop="20250625070001 +0000">
 		<title>Pokemon Ultimate Journeys: The Series [S25] - EP 29</title>
 		<desc>The stakes are higher than ever for Ash, Goh, and Chloe as they advance toward their goals! As the Pokemon World Coronation Series tournament heats up, intensive training is in store for Ash, Pikachu, and their Pokemon friends.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982491'&amp;EntityType='LinearSchedule'&amp;EntityId='8b297424-f2a1-499a-8c90-ecf7d2f0a3a0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625070001 +0000" stop="20250625073017 +0000">
+	<programme channel="97098" start="20250625070001 +0000" stop="20250625073016 +0000">
 		<title>Wheel Of Fortune S41 - EP 7910</title>
 		<desc>Pat Sajak hosts his final season of Wheel of Fortune.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982495'&amp;EntityType='LinearSchedule'&amp;EntityId='e2472580-9db4-4586-9810-b7b61804b396'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9002751'&amp;EntityType='LinearSchedule'&amp;EntityId='fc48dcfd-ab41-4026-98dd-4ff847bab051'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625073017 +0000" stop="20250625080021 +0000">
+	<programme channel="97098" start="20250625073016 +0000" stop="20250625080021 +0000">
 		<title>Provocative - EP 88</title>
 		<desc>Nadrah’s change in personality is affecting her professional and personal life. Linda tries to encourage Caleb to get together with Shufen.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982499'&amp;EntityType='LinearSchedule'&amp;EntityId='a63c9c24-3c35-4241-bbb0-9ae075f68f5b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625080021 +0000" stop="20250625083022 +0000">
+	<programme channel="97098" start="20250625080021 +0000" stop="20250625083021 +0000">
 		<title>Kin - EP 162</title>
 		<desc>Ah Yoke sees a different side to Eunice when she is forced to involve the Shelleys in her project with Kenneth. Handsome applies for a job at Luxe and gets accepted by Jessica. Meanwhile, Kenneth and Zaryf find it a challenge to get through to a stubborn Deanna.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982503'&amp;EntityType='LinearSchedule'&amp;EntityId='05314c43-0958-4440-8d05-2cf900bfa23d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625083022 +0000" stop="20250625093000 +0000">
+	<programme channel="97098" start="20250625083021 +0000" stop="20250625093023 +0000">
 		<title>Junior Bake Off S7 - EP 13</title>
 		<desc>The junior version of this global phenomenon returns, hosted by triple BAFTA-winning comedian HarryHill. This series sees pastry chef and food writer Ravneet Gill join the team as a new judge alongside Bake Off alumnus Liam Charles. It's a mouth-watering journey, as 16 of the country's best young bakers compete. A joyful way of getting children passionate about food.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982509'&amp;EntityType='LinearSchedule'&amp;EntityId='f3f14d96-a333-4a72-a9ed-5336d8ac670b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20250625093000 +0000" stop="20250625103000 +0000">
+	<programme channel="97098" start="20250625093023 +0000" stop="20250625103000 +0000">
 		<title>Celebrity Catch Phrase S10 - EP 6</title>
 		<desc>In this entertaining series packed with laughs, celebrity contestants attempt to work out catchphrases based on fun animations. Animations include well known phrases, sayings and even film, song and book titles. The celebrities need to buzz in as quickly as they can when they know the answer and can say what they see in a chance to win money for their chosen charities.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8982517'&amp;EntityType='LinearSchedule'&amp;EntityId='8493f22a-3815-4a6b-a782-ace10ac69e1b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9002778'&amp;EntityType='LinearSchedule'&amp;EntityId='c0e77641-e33a-4fec-8668-c7fa370a15d9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250625103000 +0000" stop="20250625110000 +0000">
 		<title>Deal Or No Deal Australia S12 - EP 176</title>
@@ -3114,6 +3128,21 @@
 		<title>No programme available now. Next broadcast on 27th June, Friday 8.30pm. ONE Friday Fights 114</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 114 on 27th June, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8986351'&amp;EntityType='LinearSchedule'&amp;EntityId='18c46749-3b6f-4e83-b692-a5bd5fd0fed7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250624160001 +0000" stop="20250625011001 +0000">
+		<title>No Programme available now. Next Broadcast on 25th Jun, Wednesday 9.10am. NBA Rising Invitational Tournament 2025</title>
+		<desc>LIVE 5 will commence broadcast of the NBA Rising Invitational Tournament 2025 on 25th Jun, Wednesday 9.10am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8982191'&amp;EntityType='LinearSchedule'&amp;EntityId='1d55ef8e-e59e-4d30-b387-7b7a3693d1af'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250625011001 +0000" stop="20250625131001 +0000">
+		<title>NBA Rising Invitational Tournament 2025</title>
+		<desc>Hosted in Singapore, this is the first edition of the NBA Rising Stars Invitational, the league’s first regional high-school basketball tournament featuring boys’ and girls’ teams from 10 countries and territories across Asia-Pacific. Teams will compete in a five-day tournament at the Kallang Alive Precinct from June 25 to June 29, 2025, where top individual performers from the event will have the opportunity to attend future NBA basketball development camps, showcases, and programmes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='8991183'&amp;EntityType='LinearSchedule'&amp;EntityId='ba36dda3-eb44-4e3d-9cb3-a136e5daaddf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250625131001 +0000" stop="20250625160001 +0000">
+		<title>No Programme available now. Next Broadcast on 26th Jun, Thursday 9.10am. NBA Rising Invitational Tournament 2025</title>
+		<desc>LIVE 5 will commence broadcast of the NBA Rising Invitational Tournament 2025 on 26th Jun, Thursday 9.10am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8991187'&amp;EntityType='LinearSchedule'&amp;EntityId='e84e7529-387d-4016-ab62-caa488cb562e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250624200000 +0000" stop="20250624210000 +0000">
 		<title>80s - To The Max! - EP1</title>
