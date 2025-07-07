@@ -901,10 +901,15 @@
 		<desc>Get ready to LOL with Comedy Galatta!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9050040'&amp;EntityType='LinearSchedule'&amp;EntityId='a451572c-7e87-413f-9081-4b9692f859ed'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97096" start="20250707153000 +0000" stop="20250707170000 +0000">
+	<programme channel="97096" start="20250707153000 +0000" stop="20250707160000 +0000">
 		<title>Seithi</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9050053'&amp;EntityType='LinearSchedule'&amp;EntityId='d139502a-e1a5-48d2-8845-a74e3f51f626'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97096" start="20250707160000 +0000" stop="20250708010000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9056276'&amp;EntityType='LinearSchedule'&amp;EntityId='25ae8fb4-f7fe-4c19-ba9d-48a292e75946'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20250706160000 +0000" stop="20250706160300 +0000">
 		<title>Headline News</title>
@@ -1201,55 +1206,105 @@
 		<desc>All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9015170'&amp;EntityType='LinearSchedule'&amp;EntityId='16190a15-3ec8-4ec2-b751-3b90efb5d291'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250706180000 +0000" stop="20250706200000 +0000">
-		<title>Nothing But 80s Love Songs - EP1</title>
-		<desc>From the decade that invented the power ballad - non-stop love songs, back to back.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016870'&amp;EntityType='LinearSchedule'&amp;EntityId='a433b958-fe41-4e8a-8a34-3888ffc68201'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250706160000 +0000" stop="20250706170000 +0000">
+		<title>Simon Bates Golden Hour: 1986 - EP1</title>
+		<desc>60 minutes of hits &amp; headlines from the year of Top Gun, The Mir Space Station, Oprah Winfrey's TV debut and the launch of Samantha Fox's music career!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055291'&amp;EntityType='LinearSchedule'&amp;EntityId='06930430-74ad-4d87-b050-be2126ff02c2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250706200000 +0000" stop="20250706210000 +0000">
-		<title>80s Dance Party Night! - EP1</title>
-		<desc>Trying to impress someone with your cool moves? Give these a go, as we party into the night on NOW 80s.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016874'&amp;EntityType='LinearSchedule'&amp;EntityId='12b71e30-4e40-4b65-a4e9-241865ba874e'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250706170000 +0000" stop="20250706180000 +0000">
+		<title>It Spent How Long At No.1 ?! - EP1</title>
+		<desc>Once these tracks made it to the top spot there was no knocking them off! This is our countdown of the 50 longest chart toppers of the 1980s!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055296'&amp;EntityType='LinearSchedule'&amp;EntityId='11337a0c-fc7d-4787-861c-982c4a90c1e9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250706210000 +0000" stop="20250706220000 +0000">
-		<title>Teleshopping - EP1</title>
-		<desc>Teleshopping</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016878'&amp;EntityType='LinearSchedule'&amp;EntityId='b3868079-90e7-4b4b-9e5e-2828ea992653'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250706180000 +0000" stop="20250706190000 +0000">
+		<title>Say I'm Your Number 1! - EP1</title>
+		<desc>A choice selection of the 191 singles that reached the top of the UK charts in the 1980s!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055275'&amp;EntityType='LinearSchedule'&amp;EntityId='a433b958-fe41-4e8a-8a34-3888ffc68201'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250706220000 +0000" stop="20250706230000 +0000">
-		<title>Wake Me Up Before You Go Go! - EP1</title>
-		<desc>Your eighties party channel - 24/7. Expect synth pop, soft rock, leg warmers, lycra and lots of big hair! Classic pop that has stood the test of time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016882'&amp;EntityType='LinearSchedule'&amp;EntityId='70289ffb-23ca-41ab-8ac2-e4e900886918'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250706190000 +0000" stop="20250706210500 +0000">
+		<title>Bruno's Can You Believe It?! - EP1</title>
+		<desc>Incredible facts &amp; amazing trivia about some of the decade's most famous songs &amp; videos! This is 2 hours of Radio 1 legend Bruno Brookes asking 'Can You Believe It?!'</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055303'&amp;EntityType='LinearSchedule'&amp;EntityId='b49ecb22-e565-4c9e-bfcb-e09940f89db8'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250706230000 +0000" stop="20250707030000 +0000">
-		<title>Only The Biggest 80s Anthems! - EP1</title>
-		<desc>All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016886'&amp;EntityType='LinearSchedule'&amp;EntityId='ed8edcfe-7e51-4277-b8f6-769462dec270'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250706210500 +0000" stop="20250706220000 +0000">
+		<title>1986 Unleashed! - EP1</title>
+		<desc>Dramatic storylines, big dance routines, neon lights &amp; iconic fashions - these are the classic music videos that made 1986!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055311'&amp;EntityType='LinearSchedule'&amp;EntityId='a2b98da6-94e7-4cc3-afaf-b629ae01cdde'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250707030000 +0000" stop="20250707040000 +0000">
-		<title>The 80s (What A Feeling!) - EP1</title>
+	<programme channel="158965" start="20250706220000 +0000" stop="20250707002500 +0000">
+		<title>Every Song From Now 1 - 1983 - EP1</title>
+		<desc>"Double Album, 30 Great Tracks, including 11 Number Ones" the first NOW album bragged back in 1983. We celebrate that historic moment with every video for every track - in order!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055279'&amp;EntityType='LinearSchedule'&amp;EntityId='70289ffb-23ca-41ab-8ac2-e4e900886918'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707002500 +0000" stop="20250707010000 +0000">
+		<title>Chart Toppers! - EP1</title>
+		<desc>A choice selection of the 191 singles that reached the top of the UK charts in the 1980s!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055319'&amp;EntityType='LinearSchedule'&amp;EntityId='1eb04622-a55f-4bfa-8f05-ee72570a4916'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707010000 +0000" stop="20250707050000 +0000">
+		<title>Top Of The 80s Charts - EP1</title>
+		<desc>4 hours of bona fide classics from the best decade of music - every one of them made UK number 1. With rock, dance, new romantic, soul, pop &amp; more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055323'&amp;EntityType='LinearSchedule'&amp;EntityId='9dbe265f-35eb-4db0-a704-70e5d673402c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707050000 +0000" stop="20250707073500 +0000">
+		<title>Pop Gold! 80s V 90s - EP1</title>
+		<desc>Bruno Brookes with a quickfire party countdown crossing 2 decades - one from the 80s followed by another from the 90s! Expect Donna Summer, Steps, Sinitta &amp; S-Club 7.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055331'&amp;EntityType='LinearSchedule'&amp;EntityId='22825c4c-ba04-489a-9987-1d4d3bdffa59'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707073500 +0000" stop="20250707090000 +0000">
+		<title>Long Hot Summer! - EP1</title>
 		<desc>All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016890'&amp;EntityType='LinearSchedule'&amp;EntityId='46a3770b-a66b-4c2e-8ece-eedc9c3270ed'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055339'&amp;EntityType='LinearSchedule'&amp;EntityId='85d733fb-4998-4fbf-a612-9abf1e93805b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250707040000 +0000" stop="20250707090000 +0000">
-		<title>Only The Biggest 80s Anthems! - EP1</title>
-		<desc>All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016894'&amp;EntityType='LinearSchedule'&amp;EntityId='8cb37722-66da-4f60-94b0-91a6532dd3ad'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250707090000 +0000" stop="20250707093000 +0000">
+		<title>1981's One-Hit-Wonders! Top 10 - EP1</title>
+		<desc>10 artists that had a single big song in 1981 - then never darkened the UK Top 20 ever again! Remember Kim Carnes, Champaign, Brown Sauce or Lobo?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055283'&amp;EntityType='LinearSchedule'&amp;EntityId='be79a945-2afc-420e-8893-a25966c20f1c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250707090000 +0000" stop="20250707100000 +0000">
-		<title>Bring Out The 80s! - EP1</title>
-		<desc>Non-stop 80s -24/7. With synth pop, soft rock, leg warmers, lycra and big hair! Classic pop that has stood the test of time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016902'&amp;EntityType='LinearSchedule'&amp;EntityId='be79a945-2afc-420e-8893-a25966c20f1c'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250707093000 +0000" stop="20250707103000 +0000">
+		<title>It Spent How Long At No.1 ?! - EP1</title>
+		<desc>Once these tracks made it to the top spot there was no knocking them off! This is our countdown of the 50 longest chart toppers of the 1980s!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055347'&amp;EntityType='LinearSchedule'&amp;EntityId='d3a0aa9b-b9eb-435f-8c44-f60a8c7f2745'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250707100000 +0000" stop="20250707110000 +0000">
-		<title>80s Hit After 80s Hit! - EP1</title>
-		<desc>Your 80s channel - 24/7!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016910'&amp;EntityType='LinearSchedule'&amp;EntityId='bcc1d502-eb86-4559-bde3-684087c8b6be'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250707103000 +0000" stop="20250707104500 +0000">
+		<title>1983's One-Hit-Wonders! Top 10 - EP1</title>
+		<desc>10 artists that had a single big song in 1983 - then never darkened the UK Top 20 ever again! Remember The Maisonettes, Will Powers, Ryan Paris or Snowy White?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055353'&amp;EntityType='LinearSchedule'&amp;EntityId='5662ce8b-02e1-4d02-a931-e72e61099aa5'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250707110000 +0000" stop="20250707200000 +0000">
-		<title>Monday Night At The Movies! - EP1</title>
-		<desc>Popcorn at the ready, these are NOW 80s' biggest songs from the movies. But don't forget to switch off those mobile phones!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016919'&amp;EntityType='LinearSchedule'&amp;EntityId='be0c62f1-ee35-41b1-a290-e5c8fdf95595'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250707104500 +0000" stop="20250707110000 +0000">
+		<title>1983 Unleashed! - EP1</title>
+		<desc>Dramatic storylines, big dance routines, neon lights &amp; iconic fashions - these are the classic music videos that made 1983!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055362'&amp;EntityType='LinearSchedule'&amp;EntityId='4465b262-240f-44cd-a955-60c667955ab9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707110000 +0000" stop="20250707115000 +0000">
+		<title>1985's One-Hit-Wonders! Top 10 - EP1</title>
+		<desc>10 artists that had a single big song in 1985 - then never darkened the UK Top 20 ever again! Remember Maria Vidal, Arcadia, John Parr &amp; Phyllis Nelson?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055287'&amp;EntityType='LinearSchedule'&amp;EntityId='be0c62f1-ee35-41b1-a290-e5c8fdf95595'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707115000 +0000" stop="20250707120000 +0000">
+		<title>1985 Unleashed! - EP1</title>
+		<desc>Dramatic storylines, big dance routines, neon lights &amp; iconic fashions - these are the classic music videos that made 1985!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055371'&amp;EntityType='LinearSchedule'&amp;EntityId='b58185a5-2438-44d2-952e-c164d5324037'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707120000 +0000" stop="20250707124500 +0000">
+		<title>1987's One-Hit-Wonders! Top 10 - EP1</title>
+		<desc>10 artists that had a single big song in 1987 - then never darkened the UK Top 20 ever again! Remember Taffy, Westworld, Karel Fialka or Morris Minor &amp; The Majors?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055379'&amp;EntityType='LinearSchedule'&amp;EntityId='0985396e-6e96-4a51-85db-dfa147f65339'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707124500 +0000" stop="20250707130000 +0000">
+		<title>1987 Unleashed! - EP1</title>
+		<desc>Dramatic storylines, big dance routines, neon lights &amp; iconic fashions - these are the classic music videos that made 1987!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055387'&amp;EntityType='LinearSchedule'&amp;EntityId='a8437cae-d53c-406d-9802-2af4d55a4c60'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707130000 +0000" stop="20250707140000 +0000">
+		<title>1989's One-Hit-Wonders! Top 12 - EP1</title>
+		<desc>12 artists that had a single big song in 1989 - then never darkened the UK Top 20 ever again! Remember Rob'N'Raz, Will To Power, Midnight Oil, Kon Kan &amp; Halo James?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055392'&amp;EntityType='LinearSchedule'&amp;EntityId='23a1411e-3078-43f4-9b0f-1976eb502e9e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707140000 +0000" stop="20250707161500 +0000">
+		<title>Matt Goss' Famous Pop Of The 80s! - EP1</title>
+		<desc>Matt has hand-picked 25 tracks by amazing performers - all of them famous pop songs of the 80s. From Madness in 1980 to Madonna in 1989.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9055400'&amp;EntityType='LinearSchedule'&amp;EntityId='fdea774b-8238-49d4-a286-976fbdb8b4e9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158964" start="20250706090000 +0000" stop="20250706190000 +0000">
 		<title>Sensational 70s! - EP1</title>
@@ -1376,105 +1431,110 @@
 		<desc>Carol Decker from T'Pau with 50 Rock Ballads written from the Heart and Soul! With Queen, Bon Jovi, The Cutting Crew and Bonnie Tyler.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9014779'&amp;EntityType='LinearSchedule'&amp;EntityId='93f3baa7-4f5e-4ee8-8ccc-273825b676ea'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250706165000 +0000" stop="20250706170000 +0000">
+	<programme channel="158963" start="20250706160000 +0000" stop="20250706170000 +0000">
+		<title>Queen: Rock Icons - EP1</title>
+		<desc>Starting back in 1974 here is an hour of Anthems from the greatest British rock band in the world!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055344'&amp;EntityType='LinearSchedule'&amp;EntityId='d1c97b64-9c0f-461d-8108-46fb51b9e83e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250706170000 +0000" stop="20250706184500 +0000">
+		<title>Nicky Horne's 30 Greatest Albums - EP1</title>
+		<desc>Nicky Horne presents his favourite songs behind 30 of the greatest rock album covers ever! Featuring The Beatles &amp; Queen, The Stones &amp; Pink Floyd.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055299'&amp;EntityType='LinearSchedule'&amp;EntityId='d72bf6a1-b835-440f-b316-02329de39bca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250706184500 +0000" stop="20250706190000 +0000">
+		<title>Sunday Rock Classics - EP1</title>
+		<desc>Rounding off the week with rock classics and anthems! We guarantee AC/DC, Nirvana, Queen, Meat Loaf, Bon Jovi &amp; much more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055354'&amp;EntityType='LinearSchedule'&amp;EntityId='11b40219-0906-4e21-a95f-44b91b52e73c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250706190000 +0000" stop="20250706214000 +0000">
+		<title>Timeless Love! Soft Rock Classics - EP1</title>
+		<desc>30 Laid back, timeless, soft rock tracks &amp; big power ballads, each with an unforgettable chorus! Expect plenty of Fleetwood Mac, Foreigner, Pat Benatar, Spandau Ballet &amp; Toto.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055361'&amp;EntityType='LinearSchedule'&amp;EntityId='b6335ce4-037e-48ea-8cc4-09fc39f11c20'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250706214000 +0000" stop="20250706220000 +0000">
 		<title>Blazing Rock Ballads! - EP1</title>
 		<desc>The Biggest Ballads from the royals of rock! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Nickleback &amp; Evanescence.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016197'&amp;EntityType='LinearSchedule'&amp;EntityId='8ca2f464-971f-4bdb-b427-0aebe3ca8e6d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055369'&amp;EntityType='LinearSchedule'&amp;EntityId='0b4bb377-81b0-4f0b-a28f-370c568cf3fa'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250706170000 +0000" stop="20250706180000 +0000">
-		<title>80s Soft Rock Classics - EP1</title>
-		<desc>One hour of pure laid back tracks &amp; big power ballads from the 80s, every song with a huge chorus! Expect plenty of Foreigner, Toto, U2 &amp; Heart.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016201'&amp;EntityType='LinearSchedule'&amp;EntityId='d72bf6a1-b835-440f-b316-02329de39bca'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250706220000 +0000" stop="20250707001500 +0000">
+		<title>The 25 Best Locks In Rock - EP1</title>
+		<desc>Let your hair down as Claire Sturgess has a wild ride of fabulous follicles &amp; awesome rock hairdos! From Bowie's glamorous transformations to Joe ElliotÂ´s indestructible mullet.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055375'&amp;EntityType='LinearSchedule'&amp;EntityId='6ae5aa3c-61e4-4162-ab7a-3215807f11f4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250706180000 +0000" stop="20250706225000 +0000">
-		<title>Heart &amp; Soul: 50 Rock Ballads - EP1</title>
-		<desc>Carol Decker from T'Pau with 50 Rock Ballads written from the Heart and Soul! With Queen, Bon Jovi, The Cutting Crew and Bonnie Tyler.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016205'&amp;EntityType='LinearSchedule'&amp;EntityId='de0b14c9-f218-4216-9237-96b0d2e6455c'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707001500 +0000" stop="20250707010000 +0000">
+		<title>Summer Rock Anthems! - EP1</title>
+		<desc>Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Beach Boys &amp; the Stones through to One Republic and Kid Rock.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055383'&amp;EntityType='LinearSchedule'&amp;EntityId='e47a7de5-a8fb-494f-9531-f9a463fb1d3e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250706225000 +0000" stop="20250706230000 +0000">
-		<title>Blazing Rock Ballads! - EP1</title>
-		<desc>The Biggest Ballads from the royals of rock! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Nickleback &amp; Evanescence.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016209'&amp;EntityType='LinearSchedule'&amp;EntityId='cbdcbcb9-2233-4fdd-b2de-66ea573324ba'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707010000 +0000" stop="20250707020000 +0000">
+		<title>Fleetwood Mac: Rock Icons - EP1</title>
+		<desc>Spanning two decades, an hour of Anthems and the biggest rock songs from rock legends Fleetwood Mac!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055395'&amp;EntityType='LinearSchedule'&amp;EntityId='612834fb-cefe-4ced-bfc4-f79a7d3bcaad'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250706230000 +0000" stop="20250707011000 +0000">
-		<title>Robin Banks 80s Antiques Rockshow - EP1</title>
-		<desc>Crammed full with extraordinary finds, hidden treasures, and plenty of old relics! From the Stones and Genesis, to KISS and INXS - how many of these family heirlooms do you own?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016213'&amp;EntityType='LinearSchedule'&amp;EntityId='1cfc9b35-e2cb-4e74-a747-a13f590b47d1'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707020000 +0000" stop="20250707043500 +0000">
+		<title>30 Biggest Rock Anthems! - EP1</title>
+		<desc>30 of the biggest, timeless anthems! Featuring legendary acts like Aerosmith, Kiss, &amp; Queen, through to Razorlight, Fall Out Boy &amp; Evanescence.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055307'&amp;EntityType='LinearSchedule'&amp;EntityId='ec8c947a-6bd7-42a3-9a2b-2055844fefff'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707011000 +0000" stop="20250707020000 +0000">
-		<title>The 80s Rocked! - EP1</title>
-		<desc>Non-stop 80s rock! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Bonnie Tyler &amp; Tina Turner.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016217'&amp;EntityType='LinearSchedule'&amp;EntityId='3ac2715a-a9f2-486b-beee-87edb26819ec'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707043500 +0000" stop="20250707050000 +0000">
+		<title>Summer Rock Anthems! - EP1</title>
+		<desc>Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Beach Boys &amp; the Stones through to One Republic and Kid Rock.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055403'&amp;EntityType='LinearSchedule'&amp;EntityId='ddf16b03-9d66-4b30-bd03-0c0c04a70621'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707020000 +0000" stop="20250707060000 +0000">
-		<title>Greatest Classic Rock Bands- Ever! - EP1</title>
-		<desc>30 years &amp; 4 hours of classic rock bands, in order from 1965-1995! Expect to see The Stones, The Who, Joan Jett, Aerosmith, AC/DC, Queen, Genesis &amp; The Beatles.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016221'&amp;EntityType='LinearSchedule'&amp;EntityId='ec8c947a-6bd7-42a3-9a2b-2055844fefff'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707050000 +0000" stop="20250707074000 +0000">
+		<title>Nicky Horne's Kick-Ass Summer! - EP1</title>
+		<desc>Nicky, your little ray of sunshine, has of the 30 sunniest rock videos he can lay his hands on! From California girls to the boys of summer, the heat is very much on!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055410'&amp;EntityType='LinearSchedule'&amp;EntityId='34db317b-96a9-4a70-86a6-bc4b5e32dc17'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707060000 +0000" stop="20250707100000 +0000">
-		<title>College Rock - Through The Years! - EP1</title>
-		<desc>Flicking back through the yearbooks of the highly acclaimed school of rock, these were the tracks that you freaked out to through the years!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016226'&amp;EntityType='LinearSchedule'&amp;EntityId='07a64098-640f-4533-8c6a-c1558040e18f'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707074000 +0000" stop="20250707080000 +0000">
+		<title>Summer Rock Anthems! - EP1</title>
+		<desc>Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Beach Boys &amp; the Stones through to One Republic and Kid Rock.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055415'&amp;EntityType='LinearSchedule'&amp;EntityId='838fc9e3-461f-4ba5-9f8a-16c432f1e98b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707100000 +0000" stop="20250707103000 +0000">
-		<title>Muse: Fan Favourites - EP1</title>
-		<desc>From 2003 to 2015 - 30 minutes of the biggest rock songs from Muse!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016234'&amp;EntityType='LinearSchedule'&amp;EntityId='9ff40466-e089-4c83-b9ab-7059ea74d526'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707080000 +0000" stop="20250707082500 +0000">
+		<title>Green Day: Fan Favourites - EP1</title>
+		<desc>From 1995 to 2009 - 30 minutes of the biggest rock songs from Green Day!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055423'&amp;EntityType='LinearSchedule'&amp;EntityId='3b43c8e7-18c1-496b-a081-15df1d2b9908'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707103000 +0000" stop="20250707110000 +0000">
-		<title>Fan Favourites Night! - EP1</title>
-		<desc>All night turn it up loud because we've got the biggest anthems from the best rock acts on the planet!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016243'&amp;EntityType='LinearSchedule'&amp;EntityId='601c7adb-0c8d-48d3-9697-3482157c9ab7'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707082500 +0000" stop="20250707090000 +0000">
+		<title>The Anthems! - EP1</title>
+		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055431'&amp;EntityType='LinearSchedule'&amp;EntityId='eda1cd71-5b22-4594-a5de-31711024aafc'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707110000 +0000" stop="20250707114000 +0000">
-		<title>My Chemical Romance:fan Favourites - EP1</title>
-		<desc>From 2005 to 2010 - 40 minutes of the biggest rock songs from My Chemical Romance!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016252'&amp;EntityType='LinearSchedule'&amp;EntityId='db1a1baa-b75f-4be6-9238-549438115c11'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707090000 +0000" stop="20250707093000 +0000">
+		<title>Alex Baker's 30 High School Heroes - EP1</title>
+		<desc>Dust off your old posters as Alex relives 30 era-defining mega bangers that made high school legendary! Featuring Evanescence, No Doubt, Limp Bizkit, Wheatus &amp; many more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055437'&amp;EntityType='LinearSchedule'&amp;EntityId='04797c03-176f-4c50-9a14-4e91e9470253'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707114000 +0000" stop="20250707120000 +0000">
-		<title>Fan Favourites Night! - EP1</title>
-		<desc>All night turn it up loud because we've got the biggest anthems from the best rock acts on the planet!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016262'&amp;EntityType='LinearSchedule'&amp;EntityId='d58c0071-84e2-4476-9f0a-60f05126b8b2'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707093000 +0000" stop="20250707103000 +0000">
+		<title>Nicky Horne's 30 Greatest Albums - EP1</title>
+		<desc>Nicky Horne presents his favourite songs behind 30 of the greatest rock album covers ever! Featuring The Beatles &amp; Queen, The Stones &amp; Pink Floyd.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055443'&amp;EntityType='LinearSchedule'&amp;EntityId='833ee12b-f7c4-4b75-a368-46e2e7424ecc'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707120000 +0000" stop="20250707130000 +0000">
-		<title>Linkin Park: Fan Favourites - EP1</title>
-		<desc>Starting in 2001, here are the biggest rock songs from Linkin Park!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016271'&amp;EntityType='LinearSchedule'&amp;EntityId='f0a31ccd-7f5c-4050-a3c8-635880b55fe9'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707103000 +0000" stop="20250707112000 +0000">
+		<title>Alex Baker's 30 High School Heroes - EP1</title>
+		<desc>Dust off your old posters as Alex relives 30 era-defining mega bangers that made high school legendary! Featuring Evanescence, No Doubt, Limp Bizkit, Wheatus &amp; many more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055316'&amp;EntityType='LinearSchedule'&amp;EntityId='601c7adb-0c8d-48d3-9697-3482157c9ab7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707130000 +0000" stop="20250707132500 +0000">
-		<title>Evanescence: Fan Favourites - EP1</title>
-		<desc>From 2003 to 2006 - 30 minutes of the biggest rock songs from Evanescence!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016281'&amp;EntityType='LinearSchedule'&amp;EntityId='dfd7bcf2-109b-43d4-9423-0e8636fd3be7'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707112000 +0000" stop="20250707120000 +0000">
+		<title>Killer Cuts Of The 00s! - EP1</title>
+		<desc>A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055451'&amp;EntityType='LinearSchedule'&amp;EntityId='73a62bbb-e5d7-4ac0-a18b-033f2a959ca6'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707132500 +0000" stop="20250707140000 +0000">
-		<title>Fan Favourites Night! - EP1</title>
-		<desc>All night turn it up loud because we've got the biggest anthems from the best rock acts on the planet!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016290'&amp;EntityType='LinearSchedule'&amp;EntityId='063a7814-e225-4f26-b94c-98837dddd9a2'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707120000 +0000" stop="20250707135000 +0000">
+		<title>Turn Up The Emo Anthems! - EP1</title>
+		<desc>Turn up your speakers to 11 and live life even louder! Emo Anthems in order from Linkin Park in 2000 to The My Chemical Romance at the end of the Decade!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055327'&amp;EntityType='LinearSchedule'&amp;EntityId='f0a31ccd-7f5c-4050-a3c8-635880b55fe9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707140000 +0000" stop="20250707145000 +0000">
-		<title>Paramore: Fan Favourites - EP1</title>
-		<desc>Starting in 2007 - 45 minutes of the biggest rock songs from Paramore!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016301'&amp;EntityType='LinearSchedule'&amp;EntityId='37a37067-fa86-410d-9b8c-0f20cc3adddd'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707135000 +0000" stop="20250707140000 +0000">
+		<title>The Anthems! - EP1</title>
+		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055459'&amp;EntityType='LinearSchedule'&amp;EntityId='95061090-906b-45d4-ab62-00d97071442a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707145000 +0000" stop="20250707150000 +0000">
-		<title>Fan Favourites Night! - EP1</title>
-		<desc>All night turn it up loud because we've got the biggest anthems from the best rock acts on the planet!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016311'&amp;EntityType='LinearSchedule'&amp;EntityId='27d118ae-f4a5-4c07-941f-1ec1a34cfe7e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20250707150000 +0000" stop="20250707153000 +0000">
-		<title>Fall Out Boy: Fan Favourites - EP1</title>
-		<desc>Starting in 2006 - 30 minutes of the biggest rock songs from Fall Out Boy!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016321'&amp;EntityType='LinearSchedule'&amp;EntityId='0abb336d-eb57-41c9-bd17-5d0d81d2e434'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20250707153000 +0000" stop="20250707160000 +0000">
-		<title>Fan Favourites Night! - EP1</title>
-		<desc>All night turn it up loud because we've got the biggest anthems from the best rock acts on the planet!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9016332'&amp;EntityType='LinearSchedule'&amp;EntityId='e80c02d5-efb5-426e-abd5-cf2c2928ac84'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20250707160000 +0000" stop="20250707162500 +0000">
-		<title>Linkin Park: Fan Favourites - EP1</title>
-		<desc>Starting in 2001, here are the biggest rock songs from Linkin Park!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018281'&amp;EntityType='LinearSchedule'&amp;EntityId='3facacdb-04fb-41d3-aa96-fbfd3c686981'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707140000 +0000" stop="20250707163500 +0000">
+		<title>Feelgood Rock Songs! 2000-2019 - EP1</title>
+		<desc>20 years of feel good rock tracks! From Blink-182 &amp; Bon Jovi at the start 00s to Panic! At The Disco &amp; Pink at the end of the 2010s.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055335'&amp;EntityType='LinearSchedule'&amp;EntityId='37a37067-fa86-410d-9b8c-0f20cc3adddd'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158962" start="20250706160000 +0000" stop="20250706220000 +0000">
 		<title>Sounds Of Trace</title>
@@ -2611,11 +2671,6 @@
 		<desc>End of Transmission</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9031513'&amp;EntityType='LinearSchedule'&amp;EntityId='1583c4ce-38aa-4cae-92eb-871ab6e03d4b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97096" start="20250707170000 +0000" stop="20250708010000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9046378'&amp;EntityType='LinearSchedule'&amp;EntityId='a0dacd07-2876-4635-879b-ffdbc0736c39'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97096" start="20250708010000 +0000" stop="20250708013000 +0000">
 		<title>Pasikithu Lah! - EP 3</title>
 		<desc>Celebrities from India are given a challenge to cook Malaysian dishes, but the catch is, the ingredients will be given in Malay language. The task is to somehow understand what the ingredient is and to complete cooking the dish. Cast Vanitha Vijayakumar, Thadi Balaji, Thangadurai, Sunitha Gogoi, Reshma, Bala, Aranthangi Nisha and other celebrities.</desc>
@@ -2976,50 +3031,120 @@
 		<desc>LIVE 2 will commence broadcast of ONE Fight Night 33 on 12th July, Saturday 9am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9017945'&amp;EntityType='LinearSchedule'&amp;EntityId='8e9eefaa-ed2c-480a-92c6-e923ec3989a3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250707200000 +0000" stop="20250707210000 +0000">
-		<title>80s - To The Max! - EP1</title>
+	<programme channel="158965" start="20250707161500 +0000" stop="20250707170000 +0000">
+		<title>Monday Night At The Movies! - EP1</title>
+		<desc>Popcorn at the ready, these are NOW 80s' biggest songs from the movies. But don't forget to switch off those mobile phones!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055456'&amp;EntityType='LinearSchedule'&amp;EntityId='d65ef29d-ed6f-437d-b627-30d607af4393'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707170000 +0000" stop="20250707175000 +0000">
+		<title>1985's One-Hit-Wonders! Top 10 - EP1</title>
+		<desc>10 artists that had a single big song in 1985 - then never darkened the UK Top 20 ever again! Remember Maria Vidal, Arcadia, John Parr &amp; Phyllis Nelson?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055463'&amp;EntityType='LinearSchedule'&amp;EntityId='48196ecf-6146-49b1-9a7a-4cae46c0cdd1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707175000 +0000" stop="20250707180000 +0000">
+		<title>1985 Unleashed! - EP1</title>
+		<desc>Dramatic storylines, big dance routines, neon lights &amp; iconic fashions - these are the classic music videos that made 1985!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055467'&amp;EntityType='LinearSchedule'&amp;EntityId='e91a2590-0a9c-4646-b7c4-f457b0ce5994'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707180000 +0000" stop="20250707184500 +0000">
+		<title>1987's One-Hit-Wonders! Top 10 - EP1</title>
+		<desc>10 artists that had a single big song in 1987 - then never darkened the UK Top 20 ever again! Remember Taffy, Westworld, Karel Fialka or Morris Minor &amp; The Majors?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055475'&amp;EntityType='LinearSchedule'&amp;EntityId='c5147a8d-893c-407f-adfd-4c68eafe95f7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707184500 +0000" stop="20250707190000 +0000">
+		<title>1987 Unleashed! - EP1</title>
+		<desc>Dramatic storylines, big dance routines, neon lights &amp; iconic fashions - these are the classic music videos that made 1987!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055483'&amp;EntityType='LinearSchedule'&amp;EntityId='c21b4fbe-da15-43bb-89bb-66ee6d9365b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707190000 +0000" stop="20250707200000 +0000">
+		<title>1989's One-Hit-Wonders! Top 12 - EP1</title>
+		<desc>12 artists that had a single big song in 1989 - then never darkened the UK Top 20 ever again! Remember Rob'N'Raz, Will To Power, Midnight Oil, Kon Kan &amp; Halo James?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055493'&amp;EntityType='LinearSchedule'&amp;EntityId='007b6f8c-3a15-44ba-abff-3934a2700da9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707200000 +0000" stop="20250707220000 +0000">
+		<title>Matt Goss' Famous Pop Of The 80s! - EP1</title>
+		<desc>Matt has hand-picked 25 tracks by amazing performers - all of them famous pop songs of the 80s. From Madness in 1980 to Madonna in 1989.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9055409'&amp;EntityType='LinearSchedule'&amp;EntityId='30bab3bc-33ca-4ef5-b19f-88ea67cc6331'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707220000 +0000" stop="20250707233000 +0000">
+		<title>The Opening Track From Every Now! - EP1</title>
+		<desc>A look back at the opening tracks from all the 80s NOW albums - from Phil Collins on NOW 1 to Tears For Fears on NOW 16. Plus those TV adverts that made them famous!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055419'&amp;EntityType='LinearSchedule'&amp;EntityId='50a1f1b6-a23c-4b3a-a9ea-cd87b3459a64'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250707233000 +0000" stop="20250708000000 +0000">
+		<title>Long Hot Summer! - EP1</title>
 		<desc>All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9019295'&amp;EntityType='LinearSchedule'&amp;EntityId='30bab3bc-33ca-4ef5-b19f-88ea67cc6331'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055503'&amp;EntityType='LinearSchedule'&amp;EntityId='99b5361f-2148-480e-9bd3-2d6bc9b36a08'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250707210000 +0000" stop="20250707220000 +0000">
-		<title>Teleshopping - EP1</title>
-		<desc>Teleshopping</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9019299'&amp;EntityType='LinearSchedule'&amp;EntityId='5d096926-3aaf-46a9-a6b2-b15987895d97'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250708000000 +0000" stop="20250708022500 +0000">
+		<title>The Heat Is On! Top 30 - EP1</title>
+		<desc>30 videos about fire, heat &amp; the hot summer sun - whether your Beds Are Burning, you're All Fired Up, Hot In The City or maybe Walking In The Sunshine!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055515'&amp;EntityType='LinearSchedule'&amp;EntityId='09a0fb04-2640-4598-9c2c-efd4a2924060'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250707220000 +0000" stop="20250707230000 +0000">
-		<title>Wake Me Up Before You Go Go! - EP1</title>
-		<desc>Your eighties party channel - 24/7. Expect synth pop, soft rock, leg warmers, lycra and lots of big hair! Classic pop that has stood the test of time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9019303'&amp;EntityType='LinearSchedule'&amp;EntityId='50a1f1b6-a23c-4b3a-a9ea-cd87b3459a64'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158965" start="20250707230000 +0000" stop="20250708030000 +0000">
-		<title>Only The Biggest 80s Anthems! - EP1</title>
-		<desc>All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9019307'&amp;EntityType='LinearSchedule'&amp;EntityId='48a3d15a-a1aa-48d4-99c3-f3628fd5430b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158965" start="20250708030000 +0000" stop="20250708040000 +0000">
-		<title>The 80s (What A Feeling!) - EP1</title>
+	<programme channel="158965" start="20250708022500 +0000" stop="20250708030000 +0000">
+		<title>Long Hot Summer! - EP1</title>
 		<desc>All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9019311'&amp;EntityType='LinearSchedule'&amp;EntityId='97024ab5-967c-4a74-aecd-ecd7ff68f492'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055523'&amp;EntityType='LinearSchedule'&amp;EntityId='3a2ec7c7-6687-4820-bec9-7b06cd019b15'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250708040000 +0000" stop="20250708090000 +0000">
-		<title>Only The Biggest 80s Anthems! - EP1</title>
-		<desc>All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9019317'&amp;EntityType='LinearSchedule'&amp;EntityId='0a37b63b-7777-44bd-9bdf-33a4909735c2'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250708030000 +0000" stop="20250708053500 +0000">
+		<title>Clare Grogan's Tartan Top 30 - EP1</title>
+		<desc>In the 80s the Scottish scene was vibrant &amp; creative with punk, indie, synth, acoustic &amp; Celtic folk influences topping the charts. Altered Images' Clare Grogan has 30 of the best.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055427'&amp;EntityType='LinearSchedule'&amp;EntityId='97024ab5-967c-4a74-aecd-ecd7ff68f492'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250708090000 +0000" stop="20250708100000 +0000">
-		<title>Bring Out The 80s! - EP1</title>
-		<desc>Non-stop 80s -24/7. With synth pop, soft rock, leg warmers, lycra and big hair! Classic pop that has stood the test of time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9019323'&amp;EntityType='LinearSchedule'&amp;EntityId='887d32a1-e410-4fce-9859-2df045869b81'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250708053500 +0000" stop="20250708060000 +0000">
+		<title>Wow! What A Party! - EP1</title>
+		<desc>A non-stop ticket to the ultimate retro rave! We crank up the neon and hit the dancefloor with the most electrifying feelgood music videos the 80s had to offer.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055531'&amp;EntityType='LinearSchedule'&amp;EntityId='78b60ab3-ef6b-4920-9903-cae6ad8304b1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250708100000 +0000" stop="20250708150000 +0000">
-		<title>80s Hit After 80s Hit! - EP1</title>
-		<desc>Your 80s channel - 24/7!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9019327'&amp;EntityType='LinearSchedule'&amp;EntityId='3f7f60c7-ff7d-411b-af45-fc47b595aa56'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250708060000 +0000" stop="20250708085000 +0000">
+		<title>Mark Goodier's 12 Inch 80s! - EP1</title>
+		<desc>Dancefloor action with 20 extended mixes and king-size videos of 80s classics. From Aztec Camera &amp; A-ha to Queen, Visage &amp; Whitney Houston. Mark Goodier is on the ones &amp; twos!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055538'&amp;EntityType='LinearSchedule'&amp;EntityId='01d1809c-84e5-4891-aa9b-80e73384bc14'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20250708150000 +0000" stop="20250708200000 +0000">
-		<title>Every Song A Number 1! - EP1</title>
-		<desc>A choice selection of the 191 singles that reached the top of the UK charts in the 1980s!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9019331'&amp;EntityType='LinearSchedule'&amp;EntityId='fa3c998d-ab45-4b45-8f67-a3232cc738c7'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20250708085000 +0000" stop="20250708090000 +0000">
+		<title>Wow! What A Party! - EP1</title>
+		<desc>A non-stop ticket to the ultimate retro rave! We crank up the neon and hit the dancefloor with the most electrifying feelgood music videos the 80s had to offer.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055547'&amp;EntityType='LinearSchedule'&amp;EntityId='21e9a0c3-1e56-4abc-95f1-9f319ecbd8a7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250708090000 +0000" stop="20250708093000 +0000">
+		<title>Awww! Cute Animals In Music Vids - EP1</title>
+		<desc>Some of our favourite creatures featured in 80s pop videos. Some are cute, some not so! Spot the camels, horses, elephants, owl, donkeys... and cats!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055438'&amp;EntityType='LinearSchedule'&amp;EntityId='887d32a1-e410-4fce-9859-2df045869b81'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250708093000 +0000" stop="20250708102000 +0000">
+		<title>1985's One-Hit-Wonders! Top 10 - EP1</title>
+		<desc>10 artists that had a single big song in 1985 - then never darkened the UK Top 20 ever again! Remember Maria Vidal, Arcadia, John Parr &amp; Phyllis Nelson?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055551'&amp;EntityType='LinearSchedule'&amp;EntityId='a924bc4c-dbc3-4c9a-a5ca-cdf855f02a12'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250708102000 +0000" stop="20250708103000 +0000">
+		<title>1985 Unleashed! - EP1</title>
+		<desc>Dramatic storylines, big dance routines, neon lights &amp; iconic fashions - these are the classic music videos that made 1985!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055557'&amp;EntityType='LinearSchedule'&amp;EntityId='9b860319-231a-4984-87bf-5d07a9978561'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250708103000 +0000" stop="20250708112500 +0000">
+		<title>Awww! Cute Animals In Music Vids - EP1</title>
+		<desc>Some of our favourite creatures featured in 80s pop videos. Some are cute, some not so! Spot the camels, horses, elephants, owl, donkeys... and cats!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055563'&amp;EntityType='LinearSchedule'&amp;EntityId='0b0791c1-333b-4c68-b151-363db55e726a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250708112500 +0000" stop="20250708120000 +0000">
+		<title>Soft Rock &amp; Power Pop! - EP1</title>
+		<desc>From the decade that invented the genre - non-stop powerful love songs, back to back.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055571'&amp;EntityType='LinearSchedule'&amp;EntityId='d3b84f81-1a9c-4738-b6f4-a4eaf5febefd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250708120000 +0000" stop="20250708144500 +0000">
+		<title>Agony &amp; Ecstasy! Top 30 - EP1</title>
+		<desc>30 power ballads - some full of agony and others full of ecstasy. Bliss &amp; sadness back to back.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055583'&amp;EntityType='LinearSchedule'&amp;EntityId='3846e05d-9231-459e-b5e2-215bb75465c2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250708144500 +0000" stop="20250708150000 +0000">
+		<title>Soft Rock &amp; Power Pop! - EP1</title>
+		<desc>From the decade that invented the genre - non-stop powerful love songs, back to back.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055591'&amp;EntityType='LinearSchedule'&amp;EntityId='381dec5c-6cad-4be4-8040-2cd2513b890c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20250708150000 +0000" stop="20250708164500 +0000">
+		<title>Simon Bates: Our Tune Top 20 - EP1</title>
+		<desc>The soul of every story is in the song. Simon Bates presents the top 20 from across the decades, as chosen by you - each story is unique, each is different.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055447'&amp;EntityType='LinearSchedule'&amp;EntityId='fa3c998d-ab45-4b45-8f67-a3232cc738c7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158964" start="20250707175500 +0000" stop="20250707182500 +0000">
 		<title>Punk &amp; Disorderly! - EP1</title>
@@ -3136,80 +3261,100 @@
 		<desc>What a decade for soul singers, and this is 60 minutes of the very best. Including Stevie Wonder, Diana Ross, Barry White &amp; The Stylistics.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055257'&amp;EntityType='LinearSchedule'&amp;EntityId='0038fa3a-e1c4-41fa-98f2-cf0dcc9867a1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707162500 +0000" stop="20250707170000 +0000">
-		<title>Fan Favourites Night! - EP1</title>
-		<desc>All night turn it up loud because we've got the biggest anthems from the best rock acts on the planet!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018285'&amp;EntityType='LinearSchedule'&amp;EntityId='433067fb-3c22-42fe-b47d-7f659d8eb5e5'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20250708160000 +0000" stop="20250708163500 +0000">
+		<title>50 Years On - 1975's Best Sellers! - EP1</title>
+		<desc>A complete rundown of the 30 biggest selling UK singles UK for 1975 - can you believe these were all hits 50 years ago? And if you thought Abba were at number 1 - think again!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055742'&amp;EntityType='LinearSchedule'&amp;EntityId='87094172-3c6a-45a0-80f1-bcfcd86f5d5d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707170000 +0000" stop="20250707172500 +0000">
-		<title>Evanescence: Fan Favourites - EP1</title>
-		<desc>From 2003 to 2006 - 30 minutes of the biggest rock songs from Evanescence!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018289'&amp;EntityType='LinearSchedule'&amp;EntityId='76d53673-7f52-4012-82b9-a29977961b43'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707163500 +0000" stop="20250707170000 +0000">
+		<title>The Anthems! - EP1</title>
+		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055501'&amp;EntityType='LinearSchedule'&amp;EntityId='e2b81ea6-3433-43a4-9ef0-bac9ed51812a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707172500 +0000" stop="20250707180000 +0000">
-		<title>Fan Favourites Night! - EP1</title>
-		<desc>All night turn it up loud because we've got the biggest anthems from the best rock acts on the planet!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018293'&amp;EntityType='LinearSchedule'&amp;EntityId='a12e3658-2b18-451c-b1c1-94cd77dc74f6'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707170000 +0000" stop="20250707172000 +0000">
+		<title>Alex Baker's 30 High School Heroes - EP1</title>
+		<desc>Dust off your old posters as Alex relives 30 era-defining mega bangers that made high school legendary! Featuring Evanescence, No Doubt, Limp Bizkit, Wheatus &amp; many more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055472'&amp;EntityType='LinearSchedule'&amp;EntityId='76d53673-7f52-4012-82b9-a29977961b43'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707180000 +0000" stop="20250707185000 +0000">
-		<title>Paramore: Fan Favourites - EP1</title>
-		<desc>Starting in 2007 - 45 minutes of the biggest rock songs from Paramore!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018297'&amp;EntityType='LinearSchedule'&amp;EntityId='68257f89-e980-4de4-9187-95afc618d081'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707172000 +0000" stop="20250707180000 +0000">
+		<title>Killer Cuts Of The 00s! - EP1</title>
+		<desc>A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055507'&amp;EntityType='LinearSchedule'&amp;EntityId='4ff04bcb-eadb-427a-982c-d5aa1df7cfe4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707185000 +0000" stop="20250707190000 +0000">
-		<title>Fan Favourites Night! - EP1</title>
-		<desc>All night turn it up loud because we've got the biggest anthems from the best rock acts on the planet!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018301'&amp;EntityType='LinearSchedule'&amp;EntityId='767a5591-0f54-4d7d-a1c3-64aa9a5f5d43'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250707180000 +0000" stop="20250707195000 +0000">
+		<title>Turn Up The Emo Anthems! - EP1</title>
+		<desc>Turn up your speakers to 11 and live life even louder! Emo Anthems in order from Linkin Park in 2000 to The My Chemical Romance at the end of the Decade!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055481'&amp;EntityType='LinearSchedule'&amp;EntityId='68257f89-e980-4de4-9187-95afc618d081'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707190000 +0000" stop="20250707193000 +0000">
+	<programme channel="158963" start="20250707195000 +0000" stop="20250707200000 +0000">
+		<title>The Anthems! - EP1</title>
+		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055511'&amp;EntityType='LinearSchedule'&amp;EntityId='56efa10d-0dbb-4276-ae2b-dcbbf57e43ac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250707200000 +0000" stop="20250707220000 +0000">
+		<title>Feelgood Rock Songs! 2000-2019 - EP1</title>
+		<desc>20 years of feel good rock tracks! From Blink-182 &amp; Bon Jovi at the start 00s to Panic! At The Disco &amp; Pink at the end of the 2010s.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055487'&amp;EntityType='LinearSchedule'&amp;EntityId='56c4a546-2111-49b6-93fb-1c0a968dd04d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250707220000 +0000" stop="20250708020000 +0000">
+		<title>Rock N Roll Top 5s! 2000-2009 - EP1</title>
+		<desc>4 hours of rock anthems that all hit the top 5 in the first decade of this century. From Blink 182 in 2000 to Kasabian in 2009.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055519'&amp;EntityType='LinearSchedule'&amp;EntityId='dcc6f116-1898-42bb-8714-22bbcbed6f9d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250708020000 +0000" stop="20250708030000 +0000">
+		<title>Guns N' Roses: Rock Icons - EP1</title>
+		<desc>An hour of Anthems and the biggest rock songs from rock legends Guns N' Roses!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055528'&amp;EntityType='LinearSchedule'&amp;EntityId='05444531-ae09-43e2-ab7f-46556d51a06d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250708030000 +0000" stop="20250708051000 +0000">
+		<title>30 Years Of Summer Rock! - EP1</title>
+		<desc>From the rock archives we bring you 30 years of the biggest rock songs that charted in summer. Featuring Queen, Bon Jovi, The Killers, AC/DC, Oasis and much more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055537'&amp;EntityType='LinearSchedule'&amp;EntityId='fbe2a1b4-9c84-427c-955c-7d31d0d2eb34'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250708051000 +0000" stop="20250708060000 +0000">
+		<title>The Anthems! - EP1</title>
+		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055544'&amp;EntityType='LinearSchedule'&amp;EntityId='6df600d6-38e8-4467-802d-1de6d3f63dc1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250708060000 +0000" stop="20250708070000 +0000">
+		<title>All Killer: 00s Emo Anthems! - EP1</title>
+		<desc>An hour of the greatest Emo tracks the noughties had to offer featuring Linkin Park, Fall Out Boy, Thirty Seconds To Mars and My Chemical Romance.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055558'&amp;EntityType='LinearSchedule'&amp;EntityId='e4204b0d-f8fd-4a9a-a6da-17a779e8e2c4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250708070000 +0000" stop="20250708073000 +0000">
 		<title>Fall Out Boy: Fan Favourites - EP1</title>
 		<desc>Starting in 2006 - 30 minutes of the biggest rock songs from Fall Out Boy!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018305'&amp;EntityType='LinearSchedule'&amp;EntityId='78fe9b36-e800-425f-b470-6e9a757134bd'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055568'&amp;EntityType='LinearSchedule'&amp;EntityId='feb3cb04-04aa-497e-9c53-b30a85c61565'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250707193000 +0000" stop="20250707200000 +0000">
-		<title>Fan Favourites Night! - EP1</title>
-		<desc>All night turn it up loud because we've got the biggest anthems from the best rock acts on the planet!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018309'&amp;EntityType='LinearSchedule'&amp;EntityId='b82773b3-11cd-48c4-9779-20320fdc7c4d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20250707200000 +0000" stop="20250707202500 +0000">
-		<title>Green Day: Fan Favourites - EP1</title>
-		<desc>From 1995 to 2009 - 30 minutes of the biggest rock songs from Green Day!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018313'&amp;EntityType='LinearSchedule'&amp;EntityId='56c4a546-2111-49b6-93fb-1c0a968dd04d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20250707202500 +0000" stop="20250707230000 +0000">
-		<title>Fan Favourites Night! - EP1</title>
-		<desc>All night turn it up loud because we've got the biggest anthems from the best rock acts on the planet!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018317'&amp;EntityType='LinearSchedule'&amp;EntityId='25714b71-0290-41ba-9583-8c6f40fe609a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20250707230000 +0000" stop="20250708071500 +0000">
-		<title>99 Reasons The 80s Rocked! - EP1</title>
-		<desc>99 anthems from the decade when rock went stratospheric! With Bon Jovi, Def Leppard, Kiss, AC/DC, Guns n Roses, Bruce Springsteen, Billy Idol, U2 &amp; Genesis.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018321'&amp;EntityType='LinearSchedule'&amp;EntityId='7ff2a1ce-c207-4686-a802-b7957a8573c3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20250708071500 +0000" stop="20250708080000 +0000">
+	<programme channel="158963" start="20250708073000 +0000" stop="20250708080000 +0000">
 		<title>The Anthems! - EP1</title>
 		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018325'&amp;EntityType='LinearSchedule'&amp;EntityId='86e36169-22f5-424c-b1fd-cc2b477c5bc2'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055575'&amp;EntityType='LinearSchedule'&amp;EntityId='9f6f780d-9417-417e-8517-c55208d96bbc'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250708080000 +0000" stop="20250708120000 +0000">
-		<title>Alex Baker's Biggest 00s Anthems! - EP1</title>
-		<desc>Alex Baker brings you his 50 biggest 00s anthems! Expect everything from Green Day to Muse, Linkin Park to the Arctic Monkeys with the tunes getting bigger and louder as we go!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018329'&amp;EntityType='LinearSchedule'&amp;EntityId='3b0dd043-6745-4da0-ba30-0c0e7c40f192'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250708080000 +0000" stop="20250708093000 +0000">
+		<title>Backtrack: Rock Anthems 2020-1970 - EP1</title>
+		<desc>In Reverse: Starting with the Anthems of 2020, we're going back 45 years to the legendary rock anthems of the 70s! Turn it up this is going to be epic!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055494'&amp;EntityType='LinearSchedule'&amp;EntityId='3b0dd043-6745-4da0-ba30-0c0e7c40f192'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250708120000 +0000" stop="20250708145000 +0000">
-		<title>Rock Top 3s: 2000-2009 - EP1</title>
-		<desc>in order, the rock anthems that claimed the top 3 in the first decade of this century. From Limp Bizkit in 2000 to Kasabian in 2009!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018333'&amp;EntityType='LinearSchedule'&amp;EntityId='fb917d37-eaad-4369-9e14-df2419f4c921'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250708093000 +0000" stop="20250708095000 +0000">
+		<title>Alex Baker's 30 High School Heroes - EP1</title>
+		<desc>Dust off your old posters as Alex relives 30 era-defining mega bangers that made high school legendary! Featuring Evanescence, No Doubt, Limp Bizkit, Wheatus &amp; many more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055580'&amp;EntityType='LinearSchedule'&amp;EntityId='d47193b2-856e-4e7b-9479-51ffd9b57e1f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250708145000 +0000" stop="20250708150000 +0000">
-		<title>The Anthems! - EP1</title>
-		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018337'&amp;EntityType='LinearSchedule'&amp;EntityId='61de0ed0-4195-4c47-bae1-bdae78df15f9'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250708095000 +0000" stop="20250708103000 +0000">
+		<title>Killer Cuts Of The 00s! - EP1</title>
+		<desc>A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055588'&amp;EntityType='LinearSchedule'&amp;EntityId='82fe3891-c68d-4d5c-99d0-0532134e6666'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20250708150000 +0000" stop="20250708180000 +0000">
-		<title>Axe Attack - The Best Guitar Riffs - EP1</title>
-		<desc>From Motorhead to AC/DC, Guns N Roses to Aerosmith, we start at 1970 and bring you the best guitar riffs through the years that you are desperate to learn!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9018341'&amp;EntityType='LinearSchedule'&amp;EntityId='6a4c130c-eace-4d39-ac4f-0d7f547dbce9'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20250708103000 +0000" stop="20250708160000 +0000">
+		<title>Backtrack: Rock Anthems 2020-1970 - EP1</title>
+		<desc>In Reverse: Starting with the Anthems of 2020, we're going back 45 years to the legendary rock anthems of the 70s! Turn it up this is going to be epic!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055595'&amp;EntityType='LinearSchedule'&amp;EntityId='165caa10-696e-4409-afbe-ecdeb718a467'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20250708160000 +0000" stop="20250708165000 +0000">
+		<title>The Greatest Guitar Riffs '80-'89 - EP1</title>
+		<desc>1 hour of the most memorable riffs in rock &amp; pop! From Guns n Roses &amp; Bon Jovi to ZZ Top &amp; U2.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9055790'&amp;EntityType='LinearSchedule'&amp;EntityId='1e1ca45e-00be-401d-85eb-4b560c8b2388'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158962" start="20250707220000 +0000" stop="20250708040000 +0000">
 		<title>Urban Vibes</title>
