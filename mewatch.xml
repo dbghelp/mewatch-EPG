@@ -24,6 +24,18 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
+	<channel id="545611">
+		<display-name>WCH CH01</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9056283'&amp;EntityType='Item'&amp;EntityId='545611'&amp;Width=200&amp;Height=51" />
+	</channel>
+	<channel id="545615">
+		<display-name>WCH CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9056294'&amp;EntityType='Item'&amp;EntityId='545615'&amp;Width=200&amp;Height=51" />
+	</channel>
+	<channel id="545618">
+		<display-name>WCH CH03</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9064155'&amp;EntityType='Item'&amp;EntityId='545618'&amp;Width=200&amp;Height=51" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -31,6 +43,10 @@
 	<channel id="97078">
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
+	</channel>
+	<channel id="497989">
+		<display-name>LIVE 7</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
 	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
@@ -319,7 +335,7 @@
 	<programme channel="97098" start="20250710140000 +0000" stop="20250710150000 +0000">
 		<title>NCIS: Sydney S1 - EP 1</title>
 		<desc>It follows a talented and tireless team of Naval Criminal Investigative Services agents dedicated to solving criminal cases involving the Marines and the Navy. The series explores local stories with Australian actors and producers.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9053692'&amp;EntityType='LinearSchedule'&amp;EntityId='2168a59f-c7b9-4929-b0c9-fcda7755a8d8'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9040343'&amp;EntityType='LinearSchedule'&amp;EntityId='2168a59f-c7b9-4929-b0c9-fcda7755a8d8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250710150000 +0000" stop="20250710160000 +0000">
 		<title>NCIS: Hawaii S3 - EP 8</title>
@@ -513,7 +529,7 @@
 	</programme>
 	<programme channel="97104" start="20250710143000 +0000" stop="20250710150000 +0000">
 		<title>Focus - EP 12 焦点</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>The dispute over an ancient temple between Thailand and Cambodia has escalated. The content of a phone call that has been made public have brought the relationship between Thailand and Cambodia to a freezing point, resulting in losses for both sides. US President Trump is deeply involved in the situation in the Middle East. What is his plan in mind for the Middle East? How will the situation in the Middle East affect Singapore?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9033905'&amp;EntityType='LinearSchedule'&amp;EntityId='c4dec4d0-adb7-485b-884a-5f0daef5bd4e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20250710150000 +0000" stop="20250710160000 +0000">
@@ -1086,6 +1102,31 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9033098'&amp;EntityType='LinearSchedule'&amp;EntityId='4138a82a-0918-43d7-8611-84653bc79086'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="545611" start="20250709160000 +0000" stop="20250710160000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th July, Friday 12.10pm. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Preliminary Round - USA vs CHN on 11th July, Friday 12.10pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9038371'&amp;EntityType='LinearSchedule'&amp;EntityId='4c069958-460d-4c73-91f7-b7356ffc0399'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545611" start="20250710160000 +0000" stop="20250711041000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th July, Friday 12.10pm. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Preliminary Round - USA vs CHN on 11th July, Friday 12.10pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9038413'&amp;EntityType='LinearSchedule'&amp;EntityId='ba73a8b7-cfc6-4ece-bc12-7e4bebf310ff'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545615" start="20250708160001 +0000" stop="20250709160001 +0000">
+		<title>No Programme available now. Next Broadcast on 13th July, Sunday 7.10pm. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH02 will commence broadcast of the World Aquatics Championships - Singapore 2025: Women's Preliminary Round - NZL vs SGP on 13th July, Sunday 7.10pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9038218'&amp;EntityType='LinearSchedule'&amp;EntityId='be3dd1a6-47fb-4d9c-8066-6aab99a9e894'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545615" start="20250709160001 +0000" stop="20250710160001 +0000">
+		<title>No Programme available now. Next Broadcast on 13th July, Sunday 7.10pm. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH02 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Preliminary Round - NZL vs SGP on 13th July, Sunday 7.10pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9038237'&amp;EntityType='LinearSchedule'&amp;EntityId='7b621f9b-75f8-4416-a029-53c89d47ae87'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545618" start="20250709160001 +0000" stop="20250710160001 +0000">
+		<title>No Programme available now. Next Broadcast on 15th July, Tuesday 8am. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH03 will commence broadcast of the World Aquatics Championships - Singapore 2025: Open Water Swimming - Women's 10km Final on 15th July, Tuesday 8am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9038380'&amp;EntityType='LinearSchedule'&amp;EntityId='cf7e09d2-87f9-42d2-80e8-c859ef09ff69'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97073" start="20250709160000 +0000" stop="20250710110000 +0000">
 		<title>No programme available now. Next broadcast on 10th July, Thursday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 10th July, Thursday 7pm. Please stay tuned!</desc>
@@ -1235,6 +1276,21 @@
 		<title>No programme available now. Next broadcast on 12th July, Saturday 9am. ONE Fight Night 33</title>
 		<desc>LIVE 2 will commence broadcast of ONE Fight Night 33 on 12th July, Saturday 9am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9025126'&amp;EntityType='LinearSchedule'&amp;EntityId='1d26b77a-5a1c-421b-a211-bbaa980c510d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250708160001 +0000" stop="20250709160001 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9056505'&amp;EntityType='LinearSchedule'&amp;EntityId='61ad7073-55ed-4960-ad5e-ea275d141b20'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250709160001 +0000" stop="20250710160000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th July, Friday 5.30pm. Wrexham Down Under Tour</title>
+		<desc>LIVE 7 will commence broadcast of the Wrexham Down Under Tour: Melbourne Victory vs Wrexham AFC on 11th July, Friday 5.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9056509'&amp;EntityType='LinearSchedule'&amp;EntityId='62875dbc-b4e1-46a8-baa8-2a636530fa8c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250710160000 +0000" stop="20250711160000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th July, Friday 5.30pm. Wrexham Down Under Tour</title>
+		<desc>LIVE 7 will commence broadcast of the Wrexham Down Under Tour: Melbourne Victory vs Wrexham AFC on 11th July, Friday 5.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9056513'&amp;EntityType='LinearSchedule'&amp;EntityId='7937b5d0-560e-4891-a7f4-120f147918f0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250709145000 +0000" stop="20250709200000 +0000">
 		<title>Random 80s Day! Fresh Every Hour - EP1</title>
@@ -2735,6 +2791,66 @@
 		<title>Headline News</title>
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9044825'&amp;EntityType='LinearSchedule'&amp;EntityId='6616f424-382c-4b0e-bf09-cc3ea4f8fddb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545611" start="20250711041000 +0000" stop="20250711052000 +0000">
+		<title>World Aquatics Championships - Singapore 2025: Water Polo - Women's Preliminary Round - USA vs CHN</title>
+		<desc>World Aquatics Championships - Singapore 2025 is the flagship event bringing together the six aquatic sports of swimming, water polo, diving, artistic swimming, open water swimming and high diving. The premier event, to be held from July to August 2025 at the Singapore Sports Hub and Sentosa, is expected to attract over 2,000 competitors from over 190 countries and will host the best athletes from the top aquatic countries.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9064175'&amp;EntityType='LinearSchedule'&amp;EntityId='459539f8-4027-4c53-b6ed-9aea430b383e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545611" start="20250711052000 +0000" stop="20250711054500 +0000">
+		<title>No Programme available now. Next Broadcast on 11th July, Friday 1.45pm. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Preliminary Round - FRA vs GBR on 11th July, Friday 1.45pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9038432'&amp;EntityType='LinearSchedule'&amp;EntityId='56207998-fda3-4b8c-9eb6-de5c59dd08d4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545611" start="20250711054500 +0000" stop="20250711065500 +0000">
+		<title>World Aquatics Championships - Singapore 2025: Water Polo - Women's Preliminary Round - FRA vs GBR</title>
+		<desc>World Aquatics Championships - Singapore 2025 is the flagship event bringing together the six aquatic sports of swimming, water polo, diving, artistic swimming, open water swimming and high diving. The premier event, to be held from July to August 2025 at the Singapore Sports Hub and Sentosa, is expected to attract over 2,000 competitors from over 190 countries and will host the best athletes from the top aquatic countries.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9064179'&amp;EntityType='LinearSchedule'&amp;EntityId='bdf28aae-4e19-4ce7-bcfe-39bc9c20ff62'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545611" start="20250711065500 +0000" stop="20250711111000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th July, Friday 7.10pm. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Preliminary Round - SGP vs AUS on 11th July, Friday 7.10pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9038452'&amp;EntityType='LinearSchedule'&amp;EntityId='ecdd1b56-2dc8-4601-85a7-63be84002024'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545611" start="20250711111000 +0000" stop="20250711122000 +0000">
+		<title>World Aquatics Championships - Singapore 2025: Water Polo - Women's Preliminary Round - SGP vs AUS</title>
+		<desc>World Aquatics Championships - Singapore 2025 is the flagship event bringing together the six aquatic sports of swimming, water polo, diving, artistic swimming, open water swimming and high diving. The premier event, to be held from July to August 2025 at the Singapore Sports Hub and Sentosa, is expected to attract over 2,000 competitors from over 190 countries and will host the best athletes from the top aquatic countries.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9064183'&amp;EntityType='LinearSchedule'&amp;EntityId='b2eb8e8b-a671-49cb-803e-6c16da37ff7d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545611" start="20250711122000 +0000" stop="20250711124500 +0000">
+		<title>No Programme available now. Next Broadcast on 11th July, Friday 8.45pm. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Preliminary Round - GRE vs HUN on 11th July, Friday 8.45pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9038477'&amp;EntityType='LinearSchedule'&amp;EntityId='4ee79f64-f5fb-4bae-bd45-1847be94d5ad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545611" start="20250711124500 +0000" stop="20250711135500 +0000">
+		<title>World Aquatics Championships - Singapore 2025: Water Polo - Women's Preliminary Round - GRE vs HUN</title>
+		<desc>World Aquatics Championships - Singapore 2025 is the flagship event bringing together the six aquatic sports of swimming, water polo, diving, artistic swimming, open water swimming and high diving. The premier event, to be held from July to August 2025 at the Singapore Sports Hub and Sentosa, is expected to attract over 2,000 competitors from over 190 countries and will host the best athletes from the top aquatic countries.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9064187'&amp;EntityType='LinearSchedule'&amp;EntityId='c9ffc800-5885-4501-8142-80b4878db4f7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545611" start="20250711135500 +0000" stop="20250711160000 +0000">
+		<title>No Programme available now. Next Broadcast on 12th July, Saturday 10.35am. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Men's Preliminary Round - CAN vs USA on 12th July, Saturday 10.35am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9038497'&amp;EntityType='LinearSchedule'&amp;EntityId='1b68dec8-a467-4e27-9b27-8d8eb048d061'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545611" start="20250711160000 +0000" stop="20250712023500 +0000">
+		<title>No Programme available now. Next Broadcast on 12th July, Saturday 10.35am. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Men's Preliminary Round - CAN vs USA on 12th July, Saturday 10.35am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9043489'&amp;EntityType='LinearSchedule'&amp;EntityId='7b201365-4f36-44c9-963c-73c9852cfa16'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545615" start="20250710160001 +0000" stop="20250711160001 +0000">
+		<title>No Programme available now. Next Broadcast on 13th July, Sunday 7.10pm. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH02 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Preliminary Round - NZL vs SGP on 13th July, Sunday 7.10pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9038254'&amp;EntityType='LinearSchedule'&amp;EntityId='1c0e9bc0-29c1-40e5-8124-361fdd01ec2e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545618" start="20250710160001 +0000" stop="20250711160001 +0000">
+		<title>No Programme available now. Next Broadcast on 15th July, Tuesday 8am. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH03 will commence broadcast of the World Aquatics Championships - Singapore 2025: Open Water Swimming - Women's 10km Final on 15th July, Tuesday 8am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9038397'&amp;EntityType='LinearSchedule'&amp;EntityId='31481904-7d5c-4977-8a1b-c9a95c372936'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="545618" start="20250711160000 +0000" stop="20250712160000 +0000">
+		<title>No Programme available now. Next Broadcast on 15th July, Tuesday 8am. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH03 will commence broadcast of the World Aquatics Championships - Singapore 2025: Open Water Swimming - Women's 10km Final on 15th July, Tuesday 8am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9043601'&amp;EntityType='LinearSchedule'&amp;EntityId='4e505c5c-a35c-4ce1-9f9e-ee4d3f7b4d9c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20250711110000 +0000" stop="20250711111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Comvita Honey</title>
