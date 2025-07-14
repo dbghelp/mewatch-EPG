@@ -44,6 +44,10 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
 	<channel id="497989">
 		<display-name>LIVE 7</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
@@ -1143,14 +1147,9 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9047098'&amp;EntityType='LinearSchedule'&amp;EntityId='c1f0e538-c767-4c80-973d-42afe4565696'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="545618" start="20250713160000 +0000" stop="20250714160000 +0000">
-		<title>No Programme available now. Next Broadcast on 15th July, Tuesday 8am. World Aquatics Championships - Singapore 2025</title>
-		<desc>WCH CH03 will commence broadcast of the World Aquatics Championships - Singapore 2025: Open Water Swimming - Women's 10km Final on 15th July, Tuesday 8am. Please stay tuned!</desc>
+		<title>No Programme available now. Next Broadcast on 15th July, Tuesday 7.47am. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH03 will commence broadcast of the World Aquatics Championships - Singapore 2025: Open Water Swimming - Women's 10km Final on 15th July, Tuesday 7.47am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9047136'&amp;EntityType='LinearSchedule'&amp;EntityId='f0b4a5f5-7c7c-4105-8a9c-b5ccd0fdd347'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="545618" start="20250714160000 +0000" stop="20250715000000 +0000">
-		<title>No Programme available now. Next Broadcast on 15th July, Tuesday 8am. World Aquatics Championships - Singapore 2025</title>
-		<desc>WCH CH03 will commence broadcast of the World Aquatics Championships - Singapore 2025: Open Water Swimming - Women's 10km Final on 15th July, Tuesday 8am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9054027'&amp;EntityType='LinearSchedule'&amp;EntityId='ba4ea828-b468-418e-bdf9-ffcd30de6ffa'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20250713160000 +0000" stop="20250714110000 +0000">
 		<title>No programme available now. Next broadcast on 14th July, Monday 7pm. The Wonder Shop Home Shopping</title>
@@ -1301,6 +1300,16 @@
 		<title>No programme available now. Next broadcast on 11th July, Friday 8.30pm. ONE Friday Fights 116</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 116 on 11th July, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9053715'&amp;EntityType='LinearSchedule'&amp;EntityId='9612523c-7f77-42d8-9cb4-5d8d72703e37'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250712160001 +0000" stop="20250713160001 +0000">
+		<title>No Programme available now. Next Broadcast on 15th July, Tuesday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines on 15th July, Tuesday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9045038'&amp;EntityType='LinearSchedule'&amp;EntityId='5468af4b-ff7e-4e0a-a9f3-f28b05b2f903'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250713160001 +0000" stop="20250714160001 +0000">
+		<title>No Programme available now. Next Broadcast on 15th July, Tuesday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines on 15th July, Tuesday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9046732'&amp;EntityType='LinearSchedule'&amp;EntityId='0a2abbbb-2696-43a1-bf8d-3945101858c1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="497989" start="20250713160000 +0000" stop="20250714160000 +0000">
 		<title>No Programme available now. Next Broadcast on 15th July, Tuesday 5.30pm. Wrexham Down Under Tour</title>
@@ -2902,15 +2911,15 @@
 		<desc>WCH CH02 will commence broadcast of the World Aquatics Championships - Singapore 2025: Artistic Swimming - Men's Solo Technical Final on 19th July, Saturday 2pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9053995'&amp;EntityType='LinearSchedule'&amp;EntityId='a4154dd4-bd53-4db9-90a0-5be2261c5f27'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545618" start="20250715000000 +0000" stop="20250715024500 +0000">
+	<programme channel="545618" start="20250714234701 +0000" stop="20250715030001 +0000">
 		<title>World Aquatics Championships - Singapore 2025: Open Water Swimming - Women's 10km Final</title>
 		<desc>World Aquatics Championships - Singapore 2025 is the flagship event bringing together the six aquatic sports of swimming, water polo, diving, artistic swimming, open water swimming and high diving. The premier event, to be held from July to August 2025 at the Singapore Sports Hub and Sentosa, is expected to attract over 2,000 competitors from over 190 countries and will host the best athletes from the top aquatic countries.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9064501'&amp;EntityType='LinearSchedule'&amp;EntityId='38bb23e3-0788-40aa-883e-feccf0829b85'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9074341'&amp;EntityType='LinearSchedule'&amp;EntityId='1a20f01e-cfe5-4104-963d-8c6d677b9b2e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545618" start="20250715024500 +0000" stop="20250715160000 +0000">
-		<title>No Programme available now. Next Broadcast on 16th July, Wednesday 8am. World Aquatics Championships - Singapore 2025</title>
-		<desc>WCH CH03 will commence broadcast of the World Aquatics Championships - Singapore 2025: Open Water Swimming - Men's 10km Final on 16th July, Wednesday 8am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9054043'&amp;EntityType='LinearSchedule'&amp;EntityId='4402519f-49b5-406e-88f3-78c50c51628c'&amp;Width=1280&amp;Height=720" />
+	<programme channel="545618" start="20250715030001 +0000" stop="20250715160001 +0000">
+		<title>No Programme available now. Next Broadcast on 16th July, Wednesday 7.47am. World Aquatics Championships - Singapore 2025</title>
+		<desc>WCH CH03 will commence broadcast of the World Aquatics Championships - Singapore 2025: Open Water Swimming - Men's 10km Final on 16th July, Wednesday 7.47am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9074345'&amp;EntityType='LinearSchedule'&amp;EntityId='3aed8b98-9021-4711-81f4-0d95d7a53bf8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="545618" start="20250715160000 +0000" stop="20250716000000 +0000">
 		<title>No Programme available now. Next Broadcast on 16th July, Wednesday 8am. World Aquatics Championships - Singapore 2025</title>
@@ -3056,6 +3065,31 @@
 		<title>No programme available now. Next broadcast on 11th July, Friday 8.30pm. ONE Friday Fights 116</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 116 on 11th July, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9056797'&amp;EntityType='LinearSchedule'&amp;EntityId='26406cf0-2c6f-49ba-9f23-a3bd5b7b44a2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250714160001 +0000" stop="20250715100001 +0000">
+		<title>No Programme available now. Next Broadcast on 15th July, Tuesday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines on 15th July, Tuesday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9053791'&amp;EntityType='LinearSchedule'&amp;EntityId='dd4a4873-e189-4b75-9469-41a3ebdaa95e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250715100001 +0000" stop="20250715120001 +0000">
+		<title>ASEAN U-23 Mandiri Cup™ 2025: Malaysia vs Philippines</title>
+		<desc>The ASEAN U-23 Mandiri Cup 2025 is the 5th edition of the ASEAN U-23 Championship which will be held in Indonesia from 15 to 29 Jul 2025. 10 teams will feature in the group stage as they compete to be crowned as ASEAN’s top U23 team. Will Vietnam, the two-time defending champions, having won the 2022 and 2023 editions, continue to be the leading team or will the host team, Indonesia, bag the win?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9053795'&amp;EntityType='LinearSchedule'&amp;EntityId='3266df32-2e12-46fd-bdb9-5e91f2bd279f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250715120001 +0000" stop="20250715130001 +0000">
+		<title>No Programme available now. Next Broadcast on 15th July, Tuesday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Brunei</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Brunei on 15th July, Tuesday 9pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9053801'&amp;EntityType='LinearSchedule'&amp;EntityId='e63cebd7-b5c7-49f0-a55c-7f0051eafb55'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250715130001 +0000" stop="20250715150001 +0000">
+		<title>ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Brunei</title>
+		<desc>The ASEAN U-23 Mandiri Cup 2025 is the 5th edition of the ASEAN U-23 Championship which will be held in Indonesia from 15 to 29 Jul 2025. 10 teams will feature in the group stage as they compete to be crowned as ASEAN’s top U23 team. Will Vietnam, the two-time defending champions, having won the 2022 and 2023 editions, continue to be the leading team or will the host team, Indonesia, bag the win?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9053807'&amp;EntityType='LinearSchedule'&amp;EntityId='485aff0d-f088-4251-bb72-86e29284362b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250715150001 +0000" stop="20250715160001 +0000">
+		<title>No Programme available now. Next Broadcast on 16th July, Wednesday 6pm. ASEAN U-23 Mandiri Cup™ 2025: Cambodia vs Laos</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Cambodia vs Laos on 16th July, Wednesday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9053811'&amp;EntityType='LinearSchedule'&amp;EntityId='c6a06ebd-83dd-4a16-967f-ab882826757f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="497989" start="20250715093000 +0000" stop="20250715113000 +0000">
 		<title>Wrexham Down Under Tour: Sydney FC vs Wrexham AFC</title>
