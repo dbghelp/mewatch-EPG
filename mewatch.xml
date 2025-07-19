@@ -48,6 +48,10 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
 	<channel id="497989">
 		<display-name>LIVE 7</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
@@ -1096,11 +1100,6 @@
 		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Semi-final on 21st July, Monday 3.48pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9070197'&amp;EntityType='LinearSchedule'&amp;EntityId='1cac010d-003a-4eee-af7d-43a5e558e0d9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545611" start="20250720160000 +0000" stop="20250721074800 +0000">
-		<title>No Programme available now. Next Broadcast on 21st July, Monday 3.48pm. World Aquatics Championships - Singapore 2025</title>
-		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Semi-final on 21st July, Monday 3.48pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9072134'&amp;EntityType='LinearSchedule'&amp;EntityId='8e917107-7e99-4f0b-b481-15db11bb1042'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="545615" start="20250719113801 +0000" stop="20250719160001 +0000">
 		<title>No Programme available now. Next Broadcast on 20th July, Sunday 6.22pm. World Aquatics Championships - Singapore 2025</title>
 		<desc>WCH CH02 will commence broadcast of the World Aquatics Championships - Singapore 2025: Artistic Swimming - Team Free Final on 20th July, Sunday 6.22pm. Please stay tuned!</desc>
@@ -1235,6 +1234,16 @@
 		<title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Malaysia</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Indonesia vs Malaysia on 21st July, Monday 9pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9079897'&amp;EntityType='LinearSchedule'&amp;EntityId='2fbb76c4-0d09-4819-a38f-8aeb5f7dfd9d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250719160000 +0000" stop="20250720160000 +0000">
+		<title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei</title>
+		<desc>LIVE 6 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei on 21st July, Monday 9pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9069649'&amp;EntityType='LinearSchedule'&amp;EntityId='5b5e90fd-840e-45c1-a2bc-38574c99f577'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250720160000 +0000" stop="20250721130000 +0000">
+		<title>No Programme available now. Next Broadcast on 21st July, Monday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei</title>
+		<desc>LIVE 6 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei on 21st July, Monday 9pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9071482'&amp;EntityType='LinearSchedule'&amp;EntityId='46a61253-e37f-4e8f-b5e7-b8a0d58f41eb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="497989" start="20250719160000 +0000" stop="20250720160000 +0000">
 		<title>No Programme available now. Next Broadcast on 23rd July, Wednesday 7.30pm. Singapore Festival of Football 2025</title>
@@ -2871,50 +2880,45 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9073292'&amp;EntityType='LinearSchedule'&amp;EntityId='5603d3e6-2ba1-4ec8-ab75-b453d195b25e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545611" start="20250720160000 +0000" stop="20250721074800 +0000">
+	<programme channel="545611" start="20250720160001 +0000" stop="20250721074801 +0000">
 		<title>No Programme available now. Next Broadcast on 21st July, Monday 3.48pm. World Aquatics Championships - Singapore 2025</title>
 		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Semi-final on 21st July, Monday 3.48pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9072134'&amp;EntityType='LinearSchedule'&amp;EntityId='8e917107-7e99-4f0b-b481-15db11bb1042'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545611" start="20250721074800 +0000" stop="20250721092500 +0000">
+	<programme channel="545611" start="20250721074801 +0000" stop="20250721092501 +0000">
 		<title>World Aquatics Championships - Singapore 2025: Water Polo - Women's Semi-final</title>
 		<desc>World Aquatics Championships - Singapore 2025 is the flagship event bringing together the six aquatic sports of swimming, water polo, diving, artistic swimming, open water swimming and high diving. The premier event, to be held from July to August 2025 at the Singapore Sports Hub and Sentosa, is expected to attract over 2,000 competitors from over 190 countries and will host the best athletes from the top aquatic countries.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9095481'&amp;EntityType='LinearSchedule'&amp;EntityId='05eb778a-29d5-4646-9602-a24b60704c3a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545611" start="20250721092500 +0000" stop="20250721110000 +0000">
+	<programme channel="545611" start="20250721092501 +0000" stop="20250721110001 +0000">
 		<title>World Aquatics Championships - Singapore 2025: Water Polo - Women's Semi-final</title>
 		<desc>World Aquatics Championships - Singapore 2025 is the flagship event bringing together the six aquatic sports of swimming, water polo, diving, artistic swimming, open water swimming and high diving. The premier event, to be held from July to August 2025 at the Singapore Sports Hub and Sentosa, is expected to attract over 2,000 competitors from over 190 countries and will host the best athletes from the top aquatic countries.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9095485'&amp;EntityType='LinearSchedule'&amp;EntityId='fddcb03c-e064-4c5c-b3f5-0adafad65930'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545611" start="20250721110000 +0000" stop="20250721115000 +0000">
+	<programme channel="545611" start="20250721110001 +0000" stop="20250721115001 +0000">
 		<title>No Programme available now. Next Broadcast on 21st July, Monday 7.50pm. World Aquatics Championships - Singapore 2025</title>
 		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Semi-final on 21st July, Monday 7.50pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9072488'&amp;EntityType='LinearSchedule'&amp;EntityId='3ece3852-b490-4ce5-94bb-df8f294ecb27'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545611" start="20250721115000 +0000" stop="20250721131000 +0000">
+	<programme channel="545611" start="20250721115001 +0000" stop="20250721131001 +0000">
 		<title>World Aquatics Championships - Singapore 2025: Water Polo - Women's Semi-final</title>
 		<desc>World Aquatics Championships - Singapore 2025 is the flagship event bringing together the six aquatic sports of swimming, water polo, diving, artistic swimming, open water swimming and high diving. The premier event, to be held from July to August 2025 at the Singapore Sports Hub and Sentosa, is expected to attract over 2,000 competitors from over 190 countries and will host the best athletes from the top aquatic countries.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9095489'&amp;EntityType='LinearSchedule'&amp;EntityId='a8ebdeec-4a63-4dc2-bf0c-049b66279058'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545611" start="20250721131000 +0000" stop="20250721132500 +0000">
+	<programme channel="545611" start="20250721131001 +0000" stop="20250721132501 +0000">
 		<title>No Programme available now. Next Broadcast on 21st July, Monday 9.25pm. World Aquatics Championships - Singapore 2025</title>
 		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Women's Semi-final on 21st July, Monday 9.25pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9072177'&amp;EntityType='LinearSchedule'&amp;EntityId='4db61a08-c0b7-44e0-94f8-0a0771465978'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545611" start="20250721132500 +0000" stop="20250721144500 +0000">
+	<programme channel="545611" start="20250721132501 +0000" stop="20250721144501 +0000">
 		<title>World Aquatics Championships - Singapore 2025: Water Polo - Women's Semi-final</title>
 		<desc>World Aquatics Championships - Singapore 2025 is the flagship event bringing together the six aquatic sports of swimming, water polo, diving, artistic swimming, open water swimming and high diving. The premier event, to be held from July to August 2025 at the Singapore Sports Hub and Sentosa, is expected to attract over 2,000 competitors from over 190 countries and will host the best athletes from the top aquatic countries.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9095493'&amp;EntityType='LinearSchedule'&amp;EntityId='17024ecb-f31f-48c3-bc83-c397073d856c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545611" start="20250721144500 +0000" stop="20250721160000 +0000">
+	<programme channel="545611" start="20250721144501 +0000" stop="20250721160001 +0000">
 		<title>No Programme available now. Next Broadcast on 22nd July, Tuesday 3.48pm. World Aquatics Championships - Singapore 2025</title>
 		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Men's Semi-final on 22nd July, Tuesday 3.48pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9072192'&amp;EntityType='LinearSchedule'&amp;EntityId='252b661f-1b67-4752-853c-2ddea4065c27'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="545611" start="20250721160000 +0000" stop="20250722074800 +0000">
-		<title>No Programme available now. Next Broadcast on 22nd July, Tuesday 3.48pm. World Aquatics Championships - Singapore 2025</title>
-		<desc>WCH CH01 will commence broadcast of the World Aquatics Championships - Singapore 2025: Water Polo - Men's Semi-final on 22nd July, Tuesday 3.48pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9073784'&amp;EntityType='LinearSchedule'&amp;EntityId='616ab64e-0033-448a-82ca-ab3e23964118'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="545615" start="20250720160001 +0000" stop="20250721055201 +0000">
 		<title>No Programme available now. Next Broadcast on 21st July, Monday 1.52pm. World Aquatics Championships - Singapore 2025</title>
@@ -3100,6 +3104,21 @@
 		<title>No Programme available now. Next Broadcast on 22nd July, Tuesday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Vietnam vs Cambodia</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Vietnam vs Cambodia on 22nd July, Tuesday 9pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9079910'&amp;EntityType='LinearSchedule'&amp;EntityId='81e78dae-a476-4905-91ef-19f6136e2c36'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250721130000 +0000" stop="20250721150000 +0000">
+		<title>ASEAN U-23 Mandiri Cup™ 2025: Philippines vs Brunei</title>
+		<desc>The ASEAN U-23 Mandiri Cup 2025 is the 5th edition of the ASEAN U-23 Championship which will be held in Indonesia from 15 to 29 Jul 2025. 10 teams will feature in the group stage as they compete to be crowned as ASEAN’s top U23 team. Will Vietnam, the two-time defending champions, having won the 2022 and 2023 editions, continue to be the leading team or will the host team, Indonesia, bag the win?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9071486'&amp;EntityType='LinearSchedule'&amp;EntityId='2305ef6c-627d-40fe-a867-3b78e601ec09'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250721150000 +0000" stop="20250721160000 +0000">
+		<title>No Programme available now. Next Broadcast on 22nd July, Tuesday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Thailand vs Myanmar</title>
+		<desc>LIVE 6 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Thailand vs Myanmar on 22nd July, day 9pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9071490'&amp;EntityType='LinearSchedule'&amp;EntityId='d2e12ea9-4a27-42ae-aa7b-a2dd4924faf1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250721160000 +0000" stop="20250722130000 +0000">
+		<title>No Programme available now. Next Broadcast on 22nd July, Tuesday 9pm. ASEAN U-23 Mandiri Cup™ 2025: Thailand vs Myanmar</title>
+		<desc>LIVE 6 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Thailand vs Myanmar on 22nd July, day 9pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9073550'&amp;EntityType='LinearSchedule'&amp;EntityId='48046dd2-c40e-49f0-ba39-350723c6b843'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="497989" start="20250721160000 +0000" stop="20250722160000 +0000">
 		<title>No Programme available now. Next Broadcast on 23rd July, Wednesday 7.30pm. Singapore Festival of Football 2025</title>
