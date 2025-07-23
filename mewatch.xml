@@ -48,10 +48,6 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
-	<channel id="204746">
-		<display-name>LIVE 6</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
-	</channel>
 	<channel id="497989">
 		<display-name>LIVE 7</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
@@ -1329,16 +1325,6 @@
 		<title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 Leg 1</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 (Leg 1) on 25th July, Friday 5pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9083103'&amp;EntityType='LinearSchedule'&amp;EntityId='1c0de19f-520e-4d3b-974c-cddff046d27a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20250722160000 +0000" stop="20250723160000 +0000">
-		<title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 Leg 2</title>
-		<desc>LIVE 6 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 (Leg 2) on 25th July, Friday 5pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9079938'&amp;EntityType='LinearSchedule'&amp;EntityId='8a9c93bb-5a66-4e4d-b105-fab23bf6aa8b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20250723160000 +0000" stop="20250724160000 +0000">
-		<title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 Leg 2</title>
-		<desc>LIVE 6 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 (Leg 2) on 25th July, Friday 5pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9083118'&amp;EntityType='LinearSchedule'&amp;EntityId='30c6a944-e4f3-47e4-ab95-1385a6f877c0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="497989" start="20250722160000 +0000" stop="20250723113000 +0000">
 		<title>No Programme available now. Next Broadcast on 23rd July, Wednesday 7.30pm. Singapore Festival of Football 2025</title>
@@ -3194,11 +3180,6 @@
 		<title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 Leg 1</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 (Leg 1) on 25th July, Friday 5pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9087376'&amp;EntityType='LinearSchedule'&amp;EntityId='33dfa9e7-edd6-4fd3-8f29-85b0d4e2f592'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20250724160000 +0000" stop="20250725090000 +0000">
-		<title>No Programme available now. Next Broadcast on 25th July, Friday 5pm. ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 Leg 2</title>
-		<desc>LIVE 6 will commence broadcast of the ASEAN U-23 Mandiri Cup™ 2025: Semi-final 1 (Leg 2) on 25th July, Friday 5pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9087416'&amp;EntityType='LinearSchedule'&amp;EntityId='d3eae44f-282a-44cf-bf24-51bfe9e5ce89'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="497989" start="20250724160000 +0000" stop="20250725160000 +0000">
 		<title>No Programme available now. Next Broadcast on 26th July, Saturday 7.30pm. Hong Kong Football Festival</title>
