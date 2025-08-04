@@ -24,18 +24,6 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
-	<channel id="545611">
-		<display-name>WCH CH01</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9068383'&amp;EntityType='Item'&amp;EntityId='545611'&amp;Width=2310&amp;Height=641" />
-	</channel>
-	<channel id="545615">
-		<display-name>WCH CH02</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9068385'&amp;EntityType='Item'&amp;EntityId='545615'&amp;Width=2310&amp;Height=641" />
-	</channel>
-	<channel id="545618">
-		<display-name>WCH CH03</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9068387'&amp;EntityType='Item'&amp;EntityId='545618'&amp;Width=2310&amp;Height=641" />
-	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -47,10 +35,6 @@
 	<channel id="98202">
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
-	<channel id="497989">
-		<display-name>LIVE 7</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
 	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
@@ -1101,36 +1085,6 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117071'&amp;EntityType='LinearSchedule'&amp;EntityId='d92148ab-f5ab-450f-a75e-63f70989f1d3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545611" start="20250803160000 +0000" stop="20250804160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115963'&amp;EntityType='LinearSchedule'&amp;EntityId='9194c6ec-a108-4e7c-ac19-5cf97941d085'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="545611" start="20250804160000 +0000" stop="20250805160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9125025'&amp;EntityType='LinearSchedule'&amp;EntityId='8be5328a-6dee-4e98-9c0a-ebe1c426cc10'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="545615" start="20250803160000 +0000" stop="20250804160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115967'&amp;EntityType='LinearSchedule'&amp;EntityId='86b0f600-daa2-4ef1-9347-941e7ae42106'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="545615" start="20250804160000 +0000" stop="20250805160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9121607'&amp;EntityType='LinearSchedule'&amp;EntityId='687d7bc7-a4bc-4d8f-89ae-e91b2487cc84'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="545618" start="20250803160000 +0000" stop="20250804160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115974'&amp;EntityType='LinearSchedule'&amp;EntityId='8e633468-016e-41f1-a2ae-01d1d8c152f4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="545618" start="20250804160000 +0000" stop="20250805160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117953'&amp;EntityType='LinearSchedule'&amp;EntityId='9c0c746a-6ae0-407d-9c12-f8a60035a3af'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97073" start="20250803160000 +0000" stop="20250804110000 +0000">
 		<title>No programme available now. Next broadcast on 4th August, Monday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 4th August, Monday 7pm. Please stay tuned!</desc>
@@ -1285,16 +1239,6 @@
 		<title>No Programme available now. Next Broadcast on 6th August, Wednesday 5.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN MSIG Serenity Cup™ 2025: Thailand vs Indonesia on 6th August, Wednesday 5.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9136715'&amp;EntityType='LinearSchedule'&amp;EntityId='48948f2b-18f3-47ca-a4a2-d6cc5ea1fd6b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20250803160000 +0000" stop="20250804160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9115959'&amp;EntityType='LinearSchedule'&amp;EntityId='f545759e-a9d8-4100-8c7e-4608ea20df6e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20250804160000 +0000" stop="20250805160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9117949'&amp;EntityType='LinearSchedule'&amp;EntityId='fe1afb1c-7397-4118-9f33-74754049a0bc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250803153500 +0000" stop="20250803170000 +0000">
 		<title>80s Movie Magic! - EP1</title>
@@ -1581,52 +1525,52 @@
 		<desc>Otonashi asks his relatives to explain the truth about his wife's death and will give the priority to inheritance.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9114296'&amp;EntityType='LinearSchedule'&amp;EntityId='3739f75a-2db3-4aed-b50b-accd64a21fda'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803163000 +0000" stop="20250803170000 +0000">
+	<programme channel="242030" start="20250803163001 +0000" stop="20250803170001 +0000">
 		<title>Kubo Won't Let Me Be Invisible - New Semester And New Class 久保同學不放過我 - EP9</title>
 		<desc>Starting a new school term, Shirashi finds out he is in the same class as Kubo, Hazuki, and Tamao.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115748'&amp;EntityType='LinearSchedule'&amp;EntityId='da0c4ec5-7768-4a81-94c8-2ec2096419a0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803170000 +0000" stop="20250803173000 +0000">
+	<programme channel="242030" start="20250803170001 +0000" stop="20250803173001 +0000">
 		<title>Kubo Won't Let Me Be Invisible - Competing With Height 久保同學不放過我 - EP10</title>
 		<desc>On the day when students need to measure their height, Kubo challenges Shirashi to see who is taller.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115752'&amp;EntityType='LinearSchedule'&amp;EntityId='fa170cd3-4bdb-4062-81b0-ffc67970a93f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803173000 +0000" stop="20250803180000 +0000">
+	<programme channel="242030" start="20250803173001 +0000" stop="20250803180001 +0000">
 		<title>Kubo Won't Let Me Be Invisible - Cinema And Facial Expression 久保同學不放過我 - EP11</title>
 		<desc>Shirashi is excited about the release of a movie based on his favourite manga. Kubo invites him to watch the movie.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115757'&amp;EntityType='LinearSchedule'&amp;EntityId='cc57cccd-15b7-4dd9-93f8-273ce9cadbf4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803180000 +0000" stop="20250803183000 +0000">
+	<programme channel="242030" start="20250803180001 +0000" stop="20250803183001 +0000">
 		<title>Parallel World Pharmacy - The Siblings And The Sea 異世界藥局 - EP6</title>
 		<desc>After Falma has returned from port of Marseirre, the number of customers triples and there is a strange duo.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115761'&amp;EntityType='LinearSchedule'&amp;EntityId='e2c50773-6d77-4f93-9412-c673517e608a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803183000 +0000" stop="20250803190000 +0000">
+	<programme channel="242030" start="20250803183001 +0000" stop="20250803190001 +0000">
 		<title>Parallel World Pharmacy - The Boy With No Shadow And The Inquisitor 異世界藥局 - EP7</title>
 		<desc>The true identity of the white-clad group is the inquisitor. Falma is seen as an evil spirit and attacked.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115765'&amp;EntityType='LinearSchedule'&amp;EntityId='c8eec229-af1b-4c77-9a3e-01fc100badd2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803190000 +0000" stop="20250803193000 +0000">
+	<programme channel="242030" start="20250803190001 +0000" stop="20250803193001 +0000">
 		<title>In/spectre Season 2 - When You Wish Upon A Star 虛構推理 (第二季) - EP7</title>
 		<desc>Kotoko finds out a wooden doll kills fish with electricity at night. She and others decide to get rid of it.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115769'&amp;EntityType='LinearSchedule'&amp;EntityId='1440c633-6adf-4975-a659-3031c751598a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803193000 +0000" stop="20250803200000 +0000">
+	<programme channel="242030" start="20250803193001 +0000" stop="20250803200001 +0000">
 		<title>In/spectre Season 2 - And The Ruler Is No More 虛構推理 (第二季) - EP8</title>
 		<desc>President Otonashi secretly offers to meet Kotoko. He tells her that he was the mastermind behind his wife death.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115773'&amp;EntityType='LinearSchedule'&amp;EntityId='7ada94ef-3674-4b7f-a51d-e677a59e2923'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803200000 +0000" stop="20250803203000 +0000">
+	<programme channel="242030" start="20250803200001 +0000" stop="20250803203001 +0000">
 		<title>In/spectre Season 2 - Silent Children 虛構推理 (第二季) - EP9</title>
 		<desc>Otonashi asks his relatives to explain the truth about his wife's death and will give the priority to inheritance.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115777'&amp;EntityType='LinearSchedule'&amp;EntityId='849885d7-de5d-4392-a690-833dc3b47efd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803203000 +0000" stop="20250803210000 +0000">
+	<programme channel="242030" start="20250803203001 +0000" stop="20250803210001 +0000">
 		<title>Black Clover Season 3 - The Lion Awakens, Continued 黑色五葉草 (第三季) - EP31</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115784'&amp;EntityType='LinearSchedule'&amp;EntityId='8362d3d0-780e-4331-8fb9-70f7f45643e6'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803210000 +0000" stop="20250803213000 +0000">
+	<programme channel="242030" start="20250803210001 +0000" stop="20250803213000 +0000">
 		<title>Black Clover Season 3 - Those Who Have Been Gathered 黑色五葉草 (第三季) - EP32</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115789'&amp;EntityType='LinearSchedule'&amp;EntityId='b7d44e90-f17e-41f0-8305-244dde0c1e18'&amp;Width=1280&amp;Height=720" />
@@ -1641,112 +1585,112 @@
 		<desc>Despite having saved the world, Hero Leo is banished from his hometown because of his threatening power.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115801'&amp;EntityType='LinearSchedule'&amp;EntityId='ae0e5dd6-0e06-4084-8817-c29acbe11c3d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803223000 +0000" stop="20250803230001 +0000">
+	<programme channel="242030" start="20250803223000 +0000" stop="20250803230000 +0000">
 		<title>I'm Quitting Heroing - Strive To Ease The Burden On Your Future Self! 勇者、辭職不幹了 - EP2</title>
 		<desc>Leo temperately joins the Demon Army. He must do something to help rebuild the army to join officially.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115805'&amp;EntityType='LinearSchedule'&amp;EntityId='a4938e90-f54e-4ed4-b5ba-b82a7f949f42'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803230001 +0000" stop="20250803233001 +0000">
+	<programme channel="242030" start="20250803230000 +0000" stop="20250803233000 +0000">
 		<title>Parallel World Pharmacy - The Siblings And The Sea 異世界藥局 - EP6</title>
 		<desc>After Falma has returned from port of Marseirre, the number of customers triples and there is a strange duo.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115809'&amp;EntityType='LinearSchedule'&amp;EntityId='d4c7b868-8694-4295-8b4b-9dce8f80238f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250803233001 +0000" stop="20250804000001 +0000">
+	<programme channel="242030" start="20250803233000 +0000" stop="20250804000000 +0000">
 		<title>Parallel World Pharmacy - The Boy With No Shadow And The Inquisitor 異世界藥局 - EP7</title>
 		<desc>The true identity of the white-clad group is the inquisitor. Falma is seen as an evil spirit and attacked.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115813'&amp;EntityType='LinearSchedule'&amp;EntityId='684509d6-e43e-4860-8e58-fc4c76794250'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804000001 +0000" stop="20250804003001 +0000">
+	<programme channel="242030" start="20250804000000 +0000" stop="20250804003000 +0000">
 		<title>Fruits Basket Season 1 - See You After School 魔法水果籃 第一季 - EP1</title>
 		<desc>After losing her mother, Tohru starts living in a tent in the forest which turns out to be owned by the Soma clan.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115817'&amp;EntityType='LinearSchedule'&amp;EntityId='fda96993-5e3c-4d58-a392-bf51feff182e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804003001 +0000" stop="20250804010001 +0000">
+	<programme channel="242030" start="20250804003000 +0000" stop="20250804010000 +0000">
 		<title>Fruits Basket Season 1 - They’re All Animals! 魔法水果籃 第一季 - EP2</title>
 		<desc>Tohru learns that some members of the Soma clan can turn into animals of the zodiac, and she agrees to keep it secret.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115821'&amp;EntityType='LinearSchedule'&amp;EntityId='d588dc2c-3cd6-4aa5-a09a-fb569d54a6ee'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804010001 +0000" stop="20250804013001 +0000">
+	<programme channel="242030" start="20250804010000 +0000" stop="20250804013000 +0000">
 		<title>I'm Quitting Heroing - My Next Interview’s At The Demon Queen’s Palace! 勇者、辭職不幹了 - EP1</title>
 		<desc>Despite having saved the world, Hero Leo is banished from his hometown because of his threatening power.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115825'&amp;EntityType='LinearSchedule'&amp;EntityId='2252adb8-feb0-447c-ba3a-908cfd855cd9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804013001 +0000" stop="20250804020001 +0000">
+	<programme channel="242030" start="20250804013000 +0000" stop="20250804020000 +0000">
 		<title>I'm Quitting Heroing - Strive To Ease The Burden On Your Future Self! 勇者、辭職不幹了 - EP2</title>
 		<desc>Leo temperately joins the Demon Army. He must do something to help rebuild the army to join officially.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115829'&amp;EntityType='LinearSchedule'&amp;EntityId='badf8ac0-d17b-423e-9fce-4fc44885ca21'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804020001 +0000" stop="20250804023001 +0000">
+	<programme channel="242030" start="20250804020000 +0000" stop="20250804023000 +0000">
 		<title>In/spectre Season 2 - And The Ruler Is No More 虛構推理 (第二季) - EP8</title>
 		<desc>President Otonashi secretly offers to meet Kotoko. He tells her that he was the mastermind behind his wife death.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115833'&amp;EntityType='LinearSchedule'&amp;EntityId='4e8f04dc-6d7f-4d3f-9004-5e373b48a97b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804023001 +0000" stop="20250804030001 +0000">
+	<programme channel="242030" start="20250804023000 +0000" stop="20250804030000 +0000">
 		<title>In/spectre Season 2 - Silent Children 虛構推理 (第二季) - EP9</title>
 		<desc>Otonashi asks his relatives to explain the truth about his wife's death and will give the priority to inheritance.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115837'&amp;EntityType='LinearSchedule'&amp;EntityId='5ec22e1b-2f92-462d-86af-fddc7471ddf7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804030001 +0000" stop="20250804033001 +0000">
+	<programme channel="242030" start="20250804030000 +0000" stop="20250804033000 +0000">
 		<title>Parallel World Pharmacy - The Siblings And The Sea 異世界藥局 - EP6</title>
 		<desc>After Falma has returned from port of Marseirre, the number of customers triples and there is a strange duo.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115845'&amp;EntityType='LinearSchedule'&amp;EntityId='54775059-94a0-40bf-a38b-8b47e1e77c26'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804033001 +0000" stop="20250804040001 +0000">
+	<programme channel="242030" start="20250804033000 +0000" stop="20250804040000 +0000">
 		<title>Parallel World Pharmacy - The Boy With No Shadow And The Inquisitor 異世界藥局 - EP7</title>
 		<desc>The true identity of the white-clad group is the inquisitor. Falma is seen as an evil spirit and attacked.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115849'&amp;EntityType='LinearSchedule'&amp;EntityId='509ce4c8-332c-47c4-b1c2-91f1b26a9914'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804040001 +0000" stop="20250804043001 +0000">
+	<programme channel="242030" start="20250804040000 +0000" stop="20250804043000 +0000">
 		<title>Fruits Basket Season 1 - See You After School 魔法水果籃 第一季 - EP1</title>
 		<desc>After losing her mother, Tohru starts living in a tent in the forest which turns out to be owned by the Soma clan.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115853'&amp;EntityType='LinearSchedule'&amp;EntityId='eb33ee82-8352-41a6-a028-227656b43d2f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804043001 +0000" stop="20250804050001 +0000">
+	<programme channel="242030" start="20250804043000 +0000" stop="20250804050000 +0000">
 		<title>Fruits Basket Season 1 - They’re All Animals! 魔法水果籃 第一季 - EP2</title>
 		<desc>Tohru learns that some members of the Soma clan can turn into animals of the zodiac, and she agrees to keep it secret.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115861'&amp;EntityType='LinearSchedule'&amp;EntityId='9e10de9c-6a69-4aa7-8936-8057f7c85938'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804050001 +0000" stop="20250804053001 +0000">
+	<programme channel="242030" start="20250804050000 +0000" stop="20250804053000 +0000">
 		<title>I'm Quitting Heroing - My Next Interview’s At The Demon Queen’s Palace! 勇者、辭職不幹了 - EP1</title>
 		<desc>Despite having saved the world, Hero Leo is banished from his hometown because of his threatening power.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115865'&amp;EntityType='LinearSchedule'&amp;EntityId='83b21a17-4d4d-4663-824b-0b928ab1b48d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804053001 +0000" stop="20250804060001 +0000">
+	<programme channel="242030" start="20250804053000 +0000" stop="20250804060000 +0000">
 		<title>I'm Quitting Heroing - Strive To Ease The Burden On Your Future Self! 勇者、辭職不幹了 - EP2</title>
 		<desc>Leo temperately joins the Demon Army. He must do something to help rebuild the army to join officially.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115869'&amp;EntityType='LinearSchedule'&amp;EntityId='cf27f516-eea0-45f0-bf49-e84bc8839266'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804060001 +0000" stop="20250804063001 +0000">
+	<programme channel="242030" start="20250804060000 +0000" stop="20250804063000 +0000">
 		<title>In/spectre Season 2 - And The Ruler Is No More 虛構推理 (第二季) - EP8</title>
 		<desc>President Otonashi secretly offers to meet Kotoko. He tells her that he was the mastermind behind his wife death.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115873'&amp;EntityType='LinearSchedule'&amp;EntityId='e3ce7a90-3d1c-4c1d-8f8f-f4ef3b0dd74b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804063001 +0000" stop="20250804070001 +0000">
+	<programme channel="242030" start="20250804063000 +0000" stop="20250804070000 +0000">
 		<title>In/spectre Season 2 - Silent Children 虛構推理 (第二季) - EP9</title>
 		<desc>Otonashi asks his relatives to explain the truth about his wife's death and will give the priority to inheritance.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115877'&amp;EntityType='LinearSchedule'&amp;EntityId='1dfabfbf-b7ac-4fe8-a962-520aac2b2505'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804070001 +0000" stop="20250804073001 +0000">
+	<programme channel="242030" start="20250804070000 +0000" stop="20250804073000 +0000">
 		<title>Parallel World Pharmacy - The Siblings And The Sea 異世界藥局 - EP6</title>
 		<desc>After Falma has returned from port of Marseirre, the number of customers triples and there is a strange duo.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115881'&amp;EntityType='LinearSchedule'&amp;EntityId='a8e66ea2-506c-4bba-9561-3a0448dbc1f8'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804073001 +0000" stop="20250804080001 +0000">
+	<programme channel="242030" start="20250804073000 +0000" stop="20250804080000 +0000">
 		<title>Parallel World Pharmacy - The Boy With No Shadow And The Inquisitor 異世界藥局 - EP7</title>
 		<desc>The true identity of the white-clad group is the inquisitor. Falma is seen as an evil spirit and attacked.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115885'&amp;EntityType='LinearSchedule'&amp;EntityId='8946d24e-92a7-4d2c-b2ae-12d308b3eb05'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804080001 +0000" stop="20250804083001 +0000">
+	<programme channel="242030" start="20250804080000 +0000" stop="20250804083000 +0000">
 		<title>I'm Quitting Heroing - My Next Interview’s At The Demon Queen’s Palace! 勇者、辭職不幹了 - EP1</title>
 		<desc>Despite having saved the world, Hero Leo is banished from his hometown because of his threatening power.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115889'&amp;EntityType='LinearSchedule'&amp;EntityId='1ea2c08d-4832-4f18-8249-94461d65e9ff'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804083001 +0000" stop="20250804090001 +0000">
+	<programme channel="242030" start="20250804083000 +0000" stop="20250804090000 +0000">
 		<title>I'm Quitting Heroing - Strive To Ease The Burden On Your Future Self! 勇者、辭職不幹了 - EP2</title>
 		<desc>Leo temperately joins the Demon Army. He must do something to help rebuild the army to join officially.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115893'&amp;EntityType='LinearSchedule'&amp;EntityId='3044312d-63bc-4fc4-b9b8-87c82af3d89d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804090001 +0000" stop="20250804093001 +0000">
+	<programme channel="242030" start="20250804090000 +0000" stop="20250804093001 +0000">
 		<title>In/spectre Season 2 - And The Ruler Is No More 虛構推理 (第二季) - EP8</title>
 		<desc>President Otonashi secretly offers to meet Kotoko. He tells her that he was the mastermind behind his wife death.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115897'&amp;EntityType='LinearSchedule'&amp;EntityId='01588a93-3f6a-4058-8716-1f4703367cc9'&amp;Width=1280&amp;Height=720" />
@@ -1766,60 +1710,55 @@
 		<desc>Leo has been ordered to support General Lili as she can't work and lead her men effectively.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115909'&amp;EntityType='LinearSchedule'&amp;EntityId='ee72f0ef-b045-47bf-9dfb-202a9ae6e062'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804110001 +0000" stop="20250804113000 +0000">
+	<programme channel="242030" start="20250804110001 +0000" stop="20250804113001 +0000">
 		<title>Black Clover Season 3 - The One Who Has My Heart, My Mind, And Soul 黑色五葉草 (第三季) - EP33</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115913'&amp;EntityType='LinearSchedule'&amp;EntityId='acbd0190-766f-4692-8bea-9345cb95b846'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804113000 +0000" stop="20250804120000 +0000">
+	<programme channel="242030" start="20250804113001 +0000" stop="20250804120001 +0000">
 		<title>Black Clover Season 3 - A Black Deep-Sea Story 黑色五葉草 (第三季) - EP34</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115917'&amp;EntityType='LinearSchedule'&amp;EntityId='c94c3cf2-6034-4917-a61d-c5a594b4e36d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804120000 +0000" stop="20250804123000 +0000">
+	<programme channel="242030" start="20250804120001 +0000" stop="20250804123001 +0000">
 		<title>Kubo Won't Let Me Be Invisible - Cinema And Facial Expression 久保同學不放過我 - EP11</title>
 		<desc>Shirashi is excited about the release of a movie based on his favourite manga. Kubo invites him to watch the movie.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115921'&amp;EntityType='LinearSchedule'&amp;EntityId='7c924a9e-b13b-4e6f-a617-4db801e246ae'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804123000 +0000" stop="20250804130000 +0000">
+	<programme channel="242030" start="20250804123001 +0000" stop="20250804130001 +0000">
 		<title>Kubo Won't Let Me Be Invisible - The Star And Celebration 久保同學不放過我 - EP12</title>
 		<desc>Today is Shirashi's birthday, but no classmate knows. Kubo gives him a chooclate and wishes him a happy birthday.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115925'&amp;EntityType='LinearSchedule'&amp;EntityId='94749baf-cb0e-4afd-b71e-1f2dbb65d638'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804130000 +0000" stop="20250804133000 +0000">
+	<programme channel="242030" start="20250804130001 +0000" stop="20250804133001 +0000">
 		<title>Black Clover Season 3 - The One Who Has My Heart, My Mind, And Soul 黑色五葉草 (第三季) - EP33</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115929'&amp;EntityType='LinearSchedule'&amp;EntityId='3b75f749-44fb-4e87-8586-acf7e79bfacb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804133000 +0000" stop="20250804140000 +0000">
+	<programme channel="242030" start="20250804133001 +0000" stop="20250804140001 +0000">
 		<title>Black Clover Season 3 - A Black Deep-Sea Story 黑色五葉草 (第三季) - EP34</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115933'&amp;EntityType='LinearSchedule'&amp;EntityId='7d1165fa-32a5-4bfd-9930-6ef3b2fc01f2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804140000 +0000" stop="20250804143000 +0000">
+	<programme channel="242030" start="20250804140001 +0000" stop="20250804143001 +0000">
 		<title>Suicide Squad Isekai - EP3 異世界自殺突擊隊 - EP3</title>
 		<desc>Harley Quinn and the Suicide Squad strike a deal with Queen Aldora of the Kingdom to deactivate the bombs in their necks. </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115937'&amp;EntityType='LinearSchedule'&amp;EntityId='8cfd3909-8b4f-464e-93a9-8501f6bfb95a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804143000 +0000" stop="20250804150000 +0000">
+	<programme channel="242030" start="20250804143001 +0000" stop="20250804150001 +0000">
 		<title>Suicide Squad Isekai - EP4 異世界自殺突擊隊 - EP4</title>
 		<desc>Hoping to finally end a decades-long war, Princess Fione of the Kingdom enlists Harley and her team’s help.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115941'&amp;EntityType='LinearSchedule'&amp;EntityId='51fa0188-795e-4a24-b155-17d2f88b0421'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804150000 +0000" stop="20250804153000 +0000">
+	<programme channel="242030" start="20250804150001 +0000" stop="20250804153001 +0000">
 		<title>Black Clover Season 3 - The One Who Has My Heart, My Mind, And Soul 黑色五葉草 (第三季) - EP33</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115948'&amp;EntityType='LinearSchedule'&amp;EntityId='8670cf25-a71d-4f8d-96f0-d7730daaa7e0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804153000 +0000" stop="20250804160000 +0000">
+	<programme channel="242030" start="20250804153001 +0000" stop="20250804160001 +0000">
 		<title>Black Clover Season 3 - A Black Deep-Sea Story 黑色五葉草 (第三季) - EP34</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9115952'&amp;EntityType='LinearSchedule'&amp;EntityId='87d6be82-f352-40f5-9144-f84dd26ac3fe'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="242030" start="20250804160000 +0000" stop="20250804163000 +0000">
-		<title>Kubo Won't Let Me Be Invisible - Cinema And Facial Expression 久保同學不放過我 - EP11</title>
-		<desc>Shirashi is excited about the release of a movie based on his favourite manga. Kubo invites him to watch the movie.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117736'&amp;EntityType='LinearSchedule'&amp;EntityId='c5ed0e76-3ce9-4f09-9b36-1211d81d23d2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="382872" start="20250803143000 +0000" stop="20250803162000 +0000">
 		<title>Cloud Under The Roof</title>
@@ -2861,21 +2800,6 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9119428'&amp;EntityType='LinearSchedule'&amp;EntityId='4efd8f81-b794-4f00-9361-864b48913657'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="545611" start="20250805160000 +0000" stop="20250806160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9120490'&amp;EntityType='LinearSchedule'&amp;EntityId='6f5ad591-8dbb-4da9-b0f3-b89e70460d86'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="545615" start="20250805160000 +0000" stop="20250806160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9120497'&amp;EntityType='LinearSchedule'&amp;EntityId='88e55dc4-c019-4f17-9ebf-c4720eab91d0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="545618" start="20250805160000 +0000" stop="20250806160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9120501'&amp;EntityType='LinearSchedule'&amp;EntityId='3bbeb533-ac5d-4918-822b-b317c89859bf'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97073" start="20250805110000 +0000" stop="20250805111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - doctorcos snow white water glow mask</title>
 		<desc>9-in-1 beauty cream that moisturizes and strengthens the elasticity of your skin. 雪白保湿脸霜，让你肌肤提升保湿力、更显年轻！</desc>
@@ -3020,11 +2944,6 @@
 		<title>No Programme available now. Next Broadcast on 6th August, Wednesday 5.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN MSIG Serenity Cup™ 2025: Thailand vs Indonesia on 6th August, Wednesday 5.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9136719'&amp;EntityType='LinearSchedule'&amp;EntityId='96086388-dbcd-4e6a-9464-9998735a6d43'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20250805160000 +0000" stop="20250806160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9120486'&amp;EntityType='LinearSchedule'&amp;EntityId='bc9116dd-8a23-4cff-ae9d-d96cc9c5c7e0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250804160500 +0000" stop="20250804170000 +0000">
 		<title>Chart Toppers! - EP1</title>
@@ -3291,47 +3210,52 @@
 		<desc>The music never stops on TRACE Urban ! Sounds of Trace is here to make you enjoy the hottest global hits</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9120169'&amp;EntityType='LinearSchedule'&amp;EntityId='6aee119f-447d-49b1-8956-1a902b4b3d84'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804163000 +0000" stop="20250804170000 +0000">
+	<programme channel="242030" start="20250804160001 +0000" stop="20250804163001 +0000">
+		<title>Kubo Won't Let Me Be Invisible - Cinema And Facial Expression 久保同學不放過我 - EP11</title>
+		<desc>Shirashi is excited about the release of a movie based on his favourite manga. Kubo invites him to watch the movie.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117736'&amp;EntityType='LinearSchedule'&amp;EntityId='c5ed0e76-3ce9-4f09-9b36-1211d81d23d2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="242030" start="20250804163001 +0000" stop="20250804170001 +0000">
 		<title>Kubo Won't Let Me Be Invisible - The Star And Celebration 久保同學不放過我 - EP12</title>
 		<desc>Today is Shirashi's birthday, but no classmate knows. Kubo gives him a chooclate and wishes him a happy birthday.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117740'&amp;EntityType='LinearSchedule'&amp;EntityId='3609361c-d3c6-4f84-9450-597fdcd1c588'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804170000 +0000" stop="20250804173000 +0000">
+	<programme channel="242030" start="20250804170001 +0000" stop="20250804173001 +0000">
 		<title>Suicide Squad Isekai - EP3 異世界自殺突擊隊 - EP3</title>
 		<desc>Harley Quinn and the Suicide Squad strike a deal with Queen Aldora of the Kingdom to deactivate the bombs in their necks. </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117747'&amp;EntityType='LinearSchedule'&amp;EntityId='a4cc82e4-ac3e-45ad-a35b-47f343e7e950'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804173000 +0000" stop="20250804180000 +0000">
+	<programme channel="242030" start="20250804173001 +0000" stop="20250804180001 +0000">
 		<title>Suicide Squad Isekai - EP4 異世界自殺突擊隊 - EP4</title>
 		<desc>Hoping to finally end a decades-long war, Princess Fione of the Kingdom enlists Harley and her team’s help.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117751'&amp;EntityType='LinearSchedule'&amp;EntityId='9e810c57-d567-458c-87b3-f9695126f288'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804180000 +0000" stop="20250804183000 +0000">
+	<programme channel="242030" start="20250804180001 +0000" stop="20250804183001 +0000">
 		<title>I'm Quitting Heroing - Strive To Ease The Burden On Your Future Self! 勇者、辭職不幹了 - EP2</title>
 		<desc>Leo temperately joins the Demon Army. He must do something to help rebuild the army to join officially.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117755'&amp;EntityType='LinearSchedule'&amp;EntityId='a7b3022f-f9c4-4df9-8808-6853445b210e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804183000 +0000" stop="20250804190000 +0000">
+	<programme channel="242030" start="20250804183001 +0000" stop="20250804190001 +0000">
 		<title>I'm Quitting Heroing - A Little Bit Of Thought Goes A Long Way For Efficiency! 勇者、辭職不幹了 - EP3</title>
 		<desc>Leo has been ordered to support General Lili as she can't work and lead her men effectively.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117759'&amp;EntityType='LinearSchedule'&amp;EntityId='a293451c-e02f-46c0-8a69-ec6eb9c003cc'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804190000 +0000" stop="20250804193000 +0000">
+	<programme channel="242030" start="20250804190001 +0000" stop="20250804193001 +0000">
 		<title>Kubo Won't Let Me Be Invisible - Cinema And Facial Expression 久保同學不放過我 - EP11</title>
 		<desc>Shirashi is excited about the release of a movie based on his favourite manga. Kubo invites him to watch the movie.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117766'&amp;EntityType='LinearSchedule'&amp;EntityId='f94f583c-0629-4c9b-a076-df097adfbce2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804193000 +0000" stop="20250804200000 +0000">
+	<programme channel="242030" start="20250804193001 +0000" stop="20250804200001 +0000">
 		<title>Kubo Won't Let Me Be Invisible - The Star And Celebration 久保同學不放過我 - EP12</title>
 		<desc>Today is Shirashi's birthday, but no classmate knows. Kubo gives him a chooclate and wishes him a happy birthday.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117770'&amp;EntityType='LinearSchedule'&amp;EntityId='0a283edc-21a4-47bd-81bd-a8dfa27647a2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804200000 +0000" stop="20250804203000 +0000">
+	<programme channel="242030" start="20250804200001 +0000" stop="20250804203001 +0000">
 		<title>Black Clover Season 3 - The One Who Has My Heart, My Mind, And Soul 黑色五葉草 (第三季) - EP33</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117774'&amp;EntityType='LinearSchedule'&amp;EntityId='74fe5217-6d7e-4f94-845d-0539c67b39b9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804203000 +0000" stop="20250804210000 +0000">
+	<programme channel="242030" start="20250804203001 +0000" stop="20250804210000 +0000">
 		<title>Black Clover Season 3 - A Black Deep-Sea Story 黑色五葉草 (第三季) - EP34</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117778'&amp;EntityType='LinearSchedule'&amp;EntityId='8cc43838-15a2-4f67-8659-e5716c0c27f6'&amp;Width=1280&amp;Height=720" />
@@ -3361,32 +3285,32 @@
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117807'&amp;EntityType='LinearSchedule'&amp;EntityId='95d6ce71-143b-405e-a953-92dc80517c94'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250804233000 +0000" stop="20250805000001 +0000">
+	<programme channel="242030" start="20250804233000 +0000" stop="20250805000000 +0000">
 		<title>Black Clover Season 3 - A Black Deep-Sea Story 黑色五葉草 (第三季) - EP34</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117811'&amp;EntityType='LinearSchedule'&amp;EntityId='8625fb27-5549-4c06-b69e-74b42d4d9b1d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805000001 +0000" stop="20250805003001 +0000">
+	<programme channel="242030" start="20250805000000 +0000" stop="20250805003000 +0000">
 		<title>Kubo Won't Let Me Be Invisible - Cinema And Facial Expression 久保同學不放過我 - EP11</title>
 		<desc>Shirashi is excited about the release of a movie based on his favourite manga. Kubo invites him to watch the movie.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117820'&amp;EntityType='LinearSchedule'&amp;EntityId='9fa296c1-2aa8-473a-a723-7af6f9f95023'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805003001 +0000" stop="20250805010001 +0000">
+	<programme channel="242030" start="20250805003000 +0000" stop="20250805010000 +0000">
 		<title>Kubo Won't Let Me Be Invisible - The Star And Celebration 久保同學不放過我 - EP12</title>
 		<desc>Today is Shirashi's birthday, but no classmate knows. Kubo gives him a chooclate and wishes him a happy birthday.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117825'&amp;EntityType='LinearSchedule'&amp;EntityId='aa3b2cf0-e0fb-42bd-aa07-3afe7fde04d6'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805010001 +0000" stop="20250805013001 +0000">
+	<programme channel="242030" start="20250805010000 +0000" stop="20250805013000 +0000">
 		<title>I'm Quitting Heroing - Strive To Ease The Burden On Your Future Self! 勇者、辭職不幹了 - EP2</title>
 		<desc>Leo temperately joins the Demon Army. He must do something to help rebuild the army to join officially.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117829'&amp;EntityType='LinearSchedule'&amp;EntityId='847c5880-1f60-4c8e-aa13-962a70e96107'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805013001 +0000" stop="20250805020001 +0000">
+	<programme channel="242030" start="20250805013000 +0000" stop="20250805020000 +0000">
 		<title>I'm Quitting Heroing - A Little Bit Of Thought Goes A Long Way For Efficiency! 勇者、辭職不幹了 - EP3</title>
 		<desc>Leo has been ordered to support General Lili as she can't work and lead her men effectively.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117833'&amp;EntityType='LinearSchedule'&amp;EntityId='baa06bb3-d5a4-417f-af8d-1f0f729eff73'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805020001 +0000" stop="20250805023001 +0000">
+	<programme channel="242030" start="20250805020000 +0000" stop="20250805023001 +0000">
 		<title>Suicide Squad Isekai - EP3 異世界自殺突擊隊 - EP3</title>
 		<desc>Harley Quinn and the Suicide Squad strike a deal with Queen Aldora of the Kingdom to deactivate the bombs in their necks. </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117837'&amp;EntityType='LinearSchedule'&amp;EntityId='eb2e123a-15aa-4c37-b6c5-3ca19f5e8600'&amp;Width=1280&amp;Height=720" />
@@ -3416,57 +3340,57 @@
 		<desc>Today is Shirashi's birthday, but no classmate knows. Kubo gives him a chooclate and wishes him a happy birthday.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117857'&amp;EntityType='LinearSchedule'&amp;EntityId='eb1ceb92-1f34-4691-844f-ecb5d0224fe1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805050001 +0000" stop="20250805053000 +0000">
+	<programme channel="242030" start="20250805050001 +0000" stop="20250805053001 +0000">
 		<title>I'm Quitting Heroing - Strive To Ease The Burden On Your Future Self! 勇者、辭職不幹了 - EP2</title>
 		<desc>Leo temperately joins the Demon Army. He must do something to help rebuild the army to join officially.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117861'&amp;EntityType='LinearSchedule'&amp;EntityId='44a5d3e5-9264-4b59-ad02-19fb61952685'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805053000 +0000" stop="20250805060000 +0000">
+	<programme channel="242030" start="20250805053001 +0000" stop="20250805060001 +0000">
 		<title>I'm Quitting Heroing - A Little Bit Of Thought Goes A Long Way For Efficiency! 勇者、辭職不幹了 - EP3</title>
 		<desc>Leo has been ordered to support General Lili as she can't work and lead her men effectively.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117865'&amp;EntityType='LinearSchedule'&amp;EntityId='25382d29-ff29-4444-b5ab-ca18f2b63826'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805060000 +0000" stop="20250805063000 +0000">
+	<programme channel="242030" start="20250805060001 +0000" stop="20250805063001 +0000">
 		<title>Suicide Squad Isekai - EP3 異世界自殺突擊隊 - EP3</title>
 		<desc>Harley Quinn and the Suicide Squad strike a deal with Queen Aldora of the Kingdom to deactivate the bombs in their necks. </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117869'&amp;EntityType='LinearSchedule'&amp;EntityId='e4ba94af-c085-40aa-a9a2-da23a90a3fd3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805063000 +0000" stop="20250805070000 +0000">
+	<programme channel="242030" start="20250805063001 +0000" stop="20250805070001 +0000">
 		<title>Suicide Squad Isekai - EP4 異世界自殺突擊隊 - EP4</title>
 		<desc>Hoping to finally end a decades-long war, Princess Fione of the Kingdom enlists Harley and her team’s help.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117873'&amp;EntityType='LinearSchedule'&amp;EntityId='c4352bad-06f4-4a56-8cb0-077aa16760eb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805070000 +0000" stop="20250805073000 +0000">
+	<programme channel="242030" start="20250805070001 +0000" stop="20250805073001 +0000">
 		<title>Black Clover Season 3 - The One Who Has My Heart, My Mind, And Soul 黑色五葉草 (第三季) - EP33</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117877'&amp;EntityType='LinearSchedule'&amp;EntityId='d4760304-2d39-4770-a4e3-e22c343c5478'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805073000 +0000" stop="20250805080000 +0000">
+	<programme channel="242030" start="20250805073001 +0000" stop="20250805080001 +0000">
 		<title>Black Clover Season 3 - A Black Deep-Sea Story 黑色五葉草 (第三季) - EP34</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117881'&amp;EntityType='LinearSchedule'&amp;EntityId='4d289dc8-f12a-4633-a802-e53d3510ed88'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805080000 +0000" stop="20250805083000 +0000">
+	<programme channel="242030" start="20250805080001 +0000" stop="20250805083001 +0000">
 		<title>I'm Quitting Heroing - Strive To Ease The Burden On Your Future Self! 勇者、辭職不幹了 - EP2</title>
 		<desc>Leo temperately joins the Demon Army. He must do something to help rebuild the army to join officially.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117885'&amp;EntityType='LinearSchedule'&amp;EntityId='af7c4e3b-2208-4359-a322-55a159bdb2e1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805083000 +0000" stop="20250805090000 +0000">
+	<programme channel="242030" start="20250805083001 +0000" stop="20250805090001 +0000">
 		<title>I'm Quitting Heroing - A Little Bit Of Thought Goes A Long Way For Efficiency! 勇者、辭職不幹了 - EP3</title>
 		<desc>Leo has been ordered to support General Lili as she can't work and lead her men effectively.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117889'&amp;EntityType='LinearSchedule'&amp;EntityId='6dbbcf65-8b19-4271-8357-477920f77ff6'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805090000 +0000" stop="20250805093000 +0000">
+	<programme channel="242030" start="20250805090001 +0000" stop="20250805093001 +0000">
 		<title>Legend Of The Galactic Heroes: Die Neue These - Intrigue - The Die Is Cast 銀河英雄傳說 DIE NEUE THESE 圖謀 - EP5</title>
 		<desc>Reinhard gathers generals and orders them to get the fleets ready to attack as the young Emperor is being kidnapped.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117893'&amp;EntityType='LinearSchedule'&amp;EntityId='1112ffa1-684f-4e40-a120-7d58874e9769'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805093000 +0000" stop="20250805100000 +0000">
+	<programme channel="242030" start="20250805093001 +0000" stop="20250805100001 +0000">
 		<title>Legend Of The Galactic Heroes: Die Neue These - Intrigue - The Legitimate Galactic Empire Government 銀河英雄傳說 DIE NEUE THESE 圖謀 - EP6</title>
 		<desc>In Heinessen, Trunicht holds a speech and announces Reinhard is a dictator and Remscheid is the legitimate prime minister.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117897'&amp;EntityType='LinearSchedule'&amp;EntityId='4e2b245f-2959-4a5a-aeac-276e93419486'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805100000 +0000" stop="20250805103001 +0000">
+	<programme channel="242030" start="20250805100001 +0000" stop="20250805103001 +0000">
 		<title>I'm Quitting Heroing - A Little Bit Of Thought Goes A Long Way For Efficiency! 勇者、辭職不幹了 - EP3</title>
 		<desc>Leo has been ordered to support General Lili as she can't work and lead her men effectively.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117901'&amp;EntityType='LinearSchedule'&amp;EntityId='67d19959-a233-423e-9e99-1b487be519ed'&amp;Width=1280&amp;Height=720" />
@@ -3501,27 +3425,27 @@
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117925'&amp;EntityType='LinearSchedule'&amp;EntityId='9ec03c92-3a61-43f7-a80b-c8dead2b85eb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805133001 +0000" stop="20250805140001 +0000">
+	<programme channel="242030" start="20250805133001 +0000" stop="20250805140000 +0000">
 		<title>Black Clover Season 3 - Charmy's Century Of Hunger, Gordon's Millennium Of Loneliness 黑色五葉草 (第三季) - EP35</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117929'&amp;EntityType='LinearSchedule'&amp;EntityId='f49ec393-5e31-4c48-8926-92ca9475529a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805140001 +0000" stop="20250805143001 +0000">
+	<programme channel="242030" start="20250805140000 +0000" stop="20250805143000 +0000">
 		<title>Suicide Squad Isekai - EP5 異世界自殺突擊隊 - EP5</title>
 		<desc>Taking on Ratcatcher’s army of beasts turns out to be a piece of cake for the Suicide Squad.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117933'&amp;EntityType='LinearSchedule'&amp;EntityId='580ce888-b0d9-41f9-94cb-e3b889c5807e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805143001 +0000" stop="20250805150001 +0000">
+	<programme channel="242030" start="20250805143000 +0000" stop="20250805150000 +0000">
 		<title>Suicide Squad Isekai - EP6 異世界自殺突擊隊 - EP6</title>
 		<desc>Harley and the Suicide Squad triumphantly return from dragon-slaying to find a blazing fortress and a heartbreaking defeat.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117937'&amp;EntityType='LinearSchedule'&amp;EntityId='c3d8d8d0-c9e1-4427-9b29-5469a997564a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805150001 +0000" stop="20250805153001 +0000">
+	<programme channel="242030" start="20250805150000 +0000" stop="20250805153000 +0000">
 		<title>Black Clover Season 3 - A Black Deep-Sea Story 黑色五葉草 (第三季) - EP34</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117941'&amp;EntityType='LinearSchedule'&amp;EntityId='d416c556-2202-4853-b84d-1e59f68b2a66'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="242030" start="20250805153001 +0000" stop="20250805160001 +0000">
+	<programme channel="242030" start="20250805153000 +0000" stop="20250805160000 +0000">
 		<title>Black Clover Season 3 - Charmy's Century Of Hunger, Gordon's Millennium Of Loneliness 黑色五葉草 (第三季) - EP35</title>
 		<desc>Asta is born with no magical power in a magic world. He aims to be the Wizard King to prove his own strength.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9117945'&amp;EntityType='LinearSchedule'&amp;EntityId='1bdb585a-05e2-4c8b-a5b6-482be1e335cc'&amp;Width=1280&amp;Height=720" />
