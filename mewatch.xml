@@ -36,6 +36,10 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -1184,6 +1188,16 @@
 		<title>No Programme available now. Next Broadcast on 12th August, Tuesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN MSIG Serenity Cup™ 2025: Indonesia vs Cambodia on 12th August, Tuesday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9143913'&amp;EntityType='LinearSchedule'&amp;EntityId='97e47185-2180-4830-b7b7-cd6f09b974c2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250810160000 +0000" stop="20250811160000 +0000">
+		<title>No Programme available now. Next Broadcast on 12th August, Tuesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+		<desc>LIVE 6 will commence broadcast of the ASEAN MSIG Serenity Cup™ 2025: Vietnam vs Thailand on 12th August, Tuesday 8.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9141225'&amp;EntityType='LinearSchedule'&amp;EntityId='c2f7d67e-3145-419a-851f-be0d119b7f3c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250811160000 +0000" stop="20250812123000 +0000">
+		<title>No Programme available now. Next Broadcast on 12th August, Tuesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+		<desc>LIVE 6 will commence broadcast of the ASEAN MSIG Serenity Cup™ 2025: Vietnam vs Thailand on 12th August, Tuesday 8.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9143925'&amp;EntityType='LinearSchedule'&amp;EntityId='5f47e2a5-f807-426e-a11b-9b49fb0d5602'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250810120000 +0000" stop="20250810162000 +0000">
 		<title>Cuddle On The Couch - The Love 50 - EP1</title>
@@ -2794,6 +2808,21 @@
 		<title>No Programme available now. Next Broadcast on 13th August, Wednesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN MSIG Serenity Cup™ 2025: Australia vs Timor-Leste on 13th August, Wednesday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9146988'&amp;EntityType='LinearSchedule'&amp;EntityId='f9033968-4bea-45f1-a84e-f064fc195759'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250812123000 +0000" stop="20250812143000 +0000">
+		<title>ASEAN MSIG Serenity Cup™ 2025: Vietnam vs Thailand</title>
+		<desc>The ASEAN MSIG Serenity Cup 2025 is the 13th edition of the ASEAN Women's Championship, a Southeast Asia's premier international women's football tournament showcasing the region's best female football players and emerging talent. Eight teams will feature in the group stage as they compete to be crowned as ASEAN’s top women’s team. Will Philippines defend their position as the champion, having won the last tournament in 2022 or will another team be crowned the champion?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9143929'&amp;EntityType='LinearSchedule'&amp;EntityId='812a87b9-65bb-4132-9f8d-eb83a53c6623'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250812143000 +0000" stop="20250812160000 +0000">
+		<title>No Programme available now. Next Broadcast on 13th August, Wednesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+		<desc>LIVE 6 will commence broadcast of the ASEAN MSIG Serenity Cup™ 2025: Philippines vs Myanmar on 13th August, Wednesday 8.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9143933'&amp;EntityType='LinearSchedule'&amp;EntityId='c5d8affc-b744-44c2-8730-1b904dbb486b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250812160000 +0000" stop="20250813123000 +0000">
+		<title>No Programme available now. Next Broadcast on 13th August, Wednesday 8.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
+		<desc>LIVE 6 will commence broadcast of the ASEAN MSIG Serenity Cup™ 2025: Philippines vs Myanmar on 13th August, Wednesday 8.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9147000'&amp;EntityType='LinearSchedule'&amp;EntityId='15ff4af3-816b-443f-9dda-304000e6dd01'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250811161500 +0000" stop="20250811170000 +0000">
 		<title>80s Rock Anthems Night! - EP1</title>
