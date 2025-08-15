@@ -24,6 +24,10 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
+	<channel id="98200">
+		<display-name>SPL CH01</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -35,10 +39,6 @@
 	<channel id="98202">
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
-	<channel id="204746">
-		<display-name>LIVE 6</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
 	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
@@ -1019,6 +1019,16 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9154781'&amp;EntityType='LinearSchedule'&amp;EntityId='e0ccbe3b-2d37-4a8b-a880-27c403af20fe'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98200" start="20250814160000 +0000" stop="20250815160000 +0000">
+		<title>No Programme available now. Next Broadcast on 16th August, Saturday 7.50pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs BG Tampines Rovers FC on 16th August, Saturday 7.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9156426'&amp;EntityType='LinearSchedule'&amp;EntityId='c2c3d46a-1118-4db9-a1d1-0bf3b7424e36'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98200" start="20250815160000 +0000" stop="20250816115000 +0000">
+		<title>No Programme available now. Next Broadcast on 16th August, Saturday 7.50pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs BG Tampines Rovers FC on 16th August, Saturday 7.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9156430'&amp;EntityType='LinearSchedule'&amp;EntityId='17aee086-bd3a-4cb8-84f3-738058dd644c'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97073" start="20250814160000 +0000" stop="20250815110000 +0000">
 		<title>No programme available now. Next broadcast on 15th August, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 15th August, Friday 7pm. Please stay tuned!</desc>
@@ -1183,16 +1193,6 @@
 		<title>No Programme available now. Next Broadcast on 16th August, Saturday 5.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN MSIG Serenity Cup™ 2025: Vietnam vs Australia on 16th August, Saturday 5pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9154913'&amp;EntityType='LinearSchedule'&amp;EntityId='6a0c292f-e2d1-4e89-a024-579f6324e06e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20250814160000 +0000" stop="20250815160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9152841'&amp;EntityType='LinearSchedule'&amp;EntityId='0d275515-e467-4881-b071-888e7171720e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20250815160000 +0000" stop="20250816160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9154970'&amp;EntityType='LinearSchedule'&amp;EntityId='81c66df1-9446-48b3-b69c-4e958fd6d56c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250814140000 +0000" stop="20250814161500 +0000">
 		<title>Matt Goss' Famous Pop Of The 80s! - EP1</title>
@@ -2814,6 +2814,21 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9157106'&amp;EntityType='LinearSchedule'&amp;EntityId='90200800-45ed-45cd-a479-48a368573db7'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98200" start="20250816115000 +0000" stop="20250816140000 +0000">
+		<title>Singapore Premier League 2025/2026: Lion City Sailors FC vs BG Tampines Rovers FC</title>
+		<desc>The Singapore Premier League 2025-2026 is the 8th season of the Singapore Premier League. A total of eight teams are taking part in a triple round-robin format. Will Lion City Sailors continue to defend their champion title, having won the 2024 edition or will another club be crowned as the new champion?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9156434'&amp;EntityType='LinearSchedule'&amp;EntityId='ca6a9960-670c-41b9-ad9c-e73946eaa220'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98200" start="20250816140000 +0000" stop="20250816160000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd August, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Albirex Niigata FC (S) vs Balestier Khalsa FC on 23rd August, Saturday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9156438'&amp;EntityType='LinearSchedule'&amp;EntityId='909cc7be-c1e5-487a-a1ff-6723c6f29c54'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98200" start="20250816160000 +0000" stop="20250817160000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd August, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Albirex Niigata FC (S) vs Balestier Khalsa FC on 23rd August, Saturday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9157095'&amp;EntityType='LinearSchedule'&amp;EntityId='d61f4549-43f6-4bc0-b606-f1ec9d3fe411'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97073" start="20250816113000 +0000" stop="20250816132000 +0000">
 		<title>SSO National Day Concert 2025</title>
 		<desc>The 8th SSO National Day Concert celebrates Singapore’s 60th birthday with a wide-ranging showcase of Singapore’s growing league of composers and musical artists.</desc>
@@ -2863,11 +2878,6 @@
 		<title>No Programme available now. Next Broadcast on 19th August, Tuesday 5.30pm. ASEAN MSIG Serenity Cup™ 2025</title>
 		<desc>LIVE 5 will commence broadcast of the ASEAN MSIG Serenity Cup™ 2025: 3rd Place Final on 19th August, Tuesday 5.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9157115'&amp;EntityType='LinearSchedule'&amp;EntityId='651fe5d8-175f-4e1b-a6ee-7c9579b33e84'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20250816160000 +0000" stop="20250817160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9157141'&amp;EntityType='LinearSchedule'&amp;EntityId='7a62b213-88e8-4ab6-851c-a244e61d3649'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250815170000 +0000" stop="20250815190000 +0000">
 		<title>Surely Not A Cover? Top 25 - EP1</title>
