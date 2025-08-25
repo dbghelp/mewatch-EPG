@@ -36,6 +36,18 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
+	<channel id="497989">
+		<display-name>LIVE 7</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
+	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -1189,6 +1201,36 @@
 		<title>No programme available now. Next broadcast on 29th August, Friday 8.30pm. ONE Friday Fights 122</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 122 on 29th August, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9180732'&amp;EntityType='LinearSchedule'&amp;EntityId='bd125907-3f9d-4816-9a64-2d68804b2135'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250824160000 +0000" stop="20250825160000 +0000">
+		<title>No Programme available now. Next Broadcast on 24th September, Wednesday 9pm. ASEAN Shopee Cup 2025/2026</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: Selangor FC vs Tampines Rovers FC on 24th September, Wednesday 9pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9177625'&amp;EntityType='LinearSchedule'&amp;EntityId='1bd7b06e-8243-4cf6-8bb3-4cfafb7e26ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250825160000 +0000" stop="20250826160000 +0000">
+		<title>No Programme available now. Next Broadcast on 24th September, Wednesday 9pm. ASEAN Shopee Cup 2025/2026</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: Selangor FC vs Tampines Rovers FC on 24th September, Wednesday 9pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9181049'&amp;EntityType='LinearSchedule'&amp;EntityId='0abf86e2-2fa9-4dd6-9d82-003d0f7736ad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250824160000 +0000" stop="20250825160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9177639'&amp;EntityType='LinearSchedule'&amp;EntityId='343f5dc4-59df-4224-9738-ab88ec8ca414'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250825160000 +0000" stop="20250826160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9181057'&amp;EntityType='LinearSchedule'&amp;EntityId='2e6449a3-4a80-408e-b520-e1d093dfd85f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250824160000 +0000" stop="20250825160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9178167'&amp;EntityType='LinearSchedule'&amp;EntityId='6ea0f807-f522-4969-99ab-328d98700493'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250825160000 +0000" stop="20250826160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9181869'&amp;EntityType='LinearSchedule'&amp;EntityId='dd5d9ba0-0a3c-4375-8bf3-03cc0285ab0f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250824150000 +0000" stop="20250824163000 +0000">
 		<title>20 Million Sellers Of The 80s! - EP1</title>
@@ -2904,6 +2946,21 @@
 		<title>No programme available now. Next broadcast on 29th August, Friday 8.30pm. ONE Friday Fights 122</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 122 on 29th August, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9182659'&amp;EntityType='LinearSchedule'&amp;EntityId='2c2b8e67-a123-4798-a6f1-84f7e9be0b02'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250826160000 +0000" stop="20250827160000 +0000">
+		<title>No Programme available now. Next Broadcast on 24th September, Wednesday 9pm. ASEAN Shopee Cup 2025/2026</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: Selangor FC vs Tampines Rovers FC on 24th September, Wednesday 9pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9182977'&amp;EntityType='LinearSchedule'&amp;EntityId='8770d479-7494-4dfe-aa25-f33a91c13076'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250826160000 +0000" stop="20250827160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9182992'&amp;EntityType='LinearSchedule'&amp;EntityId='942c0121-6ee0-4d69-bee1-bc235834fbab'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250826160000 +0000" stop="20250827160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9183356'&amp;EntityType='LinearSchedule'&amp;EntityId='885a0771-eab9-429f-a869-e7cb48b00d57'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250825170000 +0000" stop="20250825180000 +0000">
 		<title>Mark Goodier's No.2s Of 1986 - EP1</title>
