@@ -44,10 +44,6 @@
 		<display-name>LIVE 6</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
 	</channel>
-	<channel id="497989">
-		<display-name>LIVE 7</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
-	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -1222,15 +1218,15 @@
 		<desc>LIVE 5 will commence broadcast of the TotalEnergies BWF World Championships 2025: Round of 16 S1 on 28th August, Thursday 3.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9197935'&amp;EntityType='LinearSchedule'&amp;EntityId='f769b17f-d2c4-4219-a055-594d8f10eee4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20250828073000 +0000" stop="20250828123000 +0000">
+	<programme channel="98202" start="20250828073000 +0000" stop="20250828133000 +0000">
 		<title>TotalEnergies BWF World Championships 2025: Round of 16 S1</title>
 		<desc>Mixed Doubles - Mathias CHRISTIANSEN (DEN) / Alexandra BØJE (DEN) vs CHENG Xing (CHN) / ZHANG Chi (CHN) | Men’s Singles - Kodai NARAOKA (JPN) vs LOH Kean Yew (SGP) | Mixed Doubles - TANG Chun Man (HKG) / TSE Ying Suet (HKG) vs Dhruv KAPILA (IND) / Tanisha CRASTO (IND) | Mixed Doubles - Thom GICQUEL (FRA) / Delphine DELRUE (FRA) vs YE Hong Wei (TPE) / Nicole Gonzales CHAN (TPE) | Men’s Singles - SHI Yu Qi (CHN) vs Christo POPOV (FRA)</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9206273'&amp;EntityType='LinearSchedule'&amp;EntityId='78610910-55dd-4dcf-9b50-c30488894fb2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20250828123000 +0000" stop="20250828150000 +0000">
+	<programme channel="98202" start="20250828133000 +0000" stop="20250828150000 +0000">
 		<title>No Programme available now. Next Broadcast on 28th August, Thursday 11pm. TotalEnergies BWF World Championships 2025</title>
 		<desc>LIVE 5 will commence broadcast of the TotalEnergies BWF World Championships 2025: Round of 16 S2 on 28th August, Thursday 11pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9200209'&amp;EntityType='LinearSchedule'&amp;EntityId='5ee5a97d-80f9-4985-bb51-2e5b957ccfcb'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9206625'&amp;EntityType='LinearSchedule'&amp;EntityId='10483f0a-3872-40e3-9c45-322061da8712'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98202" start="20250828150000 +0000" stop="20250828200000 +0000">
 		<title>TotalEnergies BWF World Championships 2025: Round of 16 S2</title>
@@ -1247,30 +1243,20 @@
 		<desc>LIVE 6 will commence broadcast of the TotalEnergies BWF World Championships 2025: Round of 16 S1 on 28th August, Thursday 3.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9197976'&amp;EntityType='LinearSchedule'&amp;EntityId='cf502f9f-00c0-4d79-a564-1f44a5bb126d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20250828073000 +0000" stop="20250828123000 +0000">
+	<programme channel="204746" start="20250828073000 +0000" stop="20250828113800 +0000">
 		<title>TotalEnergies BWF World Championships 2025: Round of 16 S1</title>
 		<desc>Women’s Doubles - YEUNG Nga Ting (HKG) / YEUNG Pui Lam (HKG) vs Nami MATSUYAMA (JPN) / Chiharu SHIDA (JPN) | Women’s Singles - Putri Kusuma WARDANI (INA) vs Tomoka MIYAZAKI (JPN) | Women’s Singles - Supanida KATETHONG (THA) vs Akane YAMAGUCHI (JPN) | Men’s Singles - LEE Cheuk Yiu (HKG) vs Jonatan CHRISTIE (INA) | Women’s Singles - PUSARLA V. Sindhu (IND) vs WANG Zhi Yi (CHN)</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9200261'&amp;EntityType='LinearSchedule'&amp;EntityId='40f0315d-4bfa-4ad9-9ed7-a67364c56ece'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20250828123000 +0000" stop="20250828150000 +0000">
+	<programme channel="204746" start="20250828113800 +0000" stop="20250828150000 +0000">
 		<title>No Programme available now. Next Broadcast on 28th August, Thursday 11pm. TotalEnergies BWF World Championships 2025</title>
 		<desc>LIVE 6 will commence broadcast of the TotalEnergies BWF World Championships 2025: Round of 16 S2 on 28th August, Thursday 11pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9200265'&amp;EntityType='LinearSchedule'&amp;EntityId='826bd979-050e-4cef-aa03-b8c2c8fdd518'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9206621'&amp;EntityType='LinearSchedule'&amp;EntityId='dd9f86e8-b93b-4bda-a8da-2edabf4cb714'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="204746" start="20250828150000 +0000" stop="20250828200000 +0000">
 		<title>TotalEnergies BWF World Championships 2025: Round of 16 S2</title>
 		<desc>Men’s Singles - Alwi FARHAN (INA) vs Kunlavut VITIDSARN (THA) | Women’s Doubles - Gabriela STOEVA (BUL) / Stefani STOEVA (BUL) vs Yuki FUKUSHIMA (JPN) / Mayu MATSUMOTO (JPN) | Men’s Doubles - KIM Won Ho (KOR) / SEO Seung Jae (KOR) vs Leo Rolly CARNANDO (INA) / Bagas MAULANA (INA) | Women’s Singles - CHEN Yu Fei (CHN) vs NGUYEN Thuy Linh (VIE) | Men’s Doubles - MAN Wei Chong (MAS) / Kai Wun TEE (MAS) vs Ben LANE (ENG) / Sean VENDY (ENG)</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9200269'&amp;EntityType='LinearSchedule'&amp;EntityId='1342af94-e748-4119-a1ad-17453efbafe8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20250827160000 +0000" stop="20250828160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9186678'&amp;EntityType='LinearSchedule'&amp;EntityId='c35deebb-c692-445f-b1c9-7733a67f0c2d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20250828160000 +0000" stop="20250829160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9188734'&amp;EntityType='LinearSchedule'&amp;EntityId='91562180-68f5-4b9c-a258-6b383abc16c4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250827160000 +0000" stop="20250827170000 +0000">
 		<title>Eurythmics: Reminisce! - EP1</title>
@@ -3006,11 +2992,6 @@
 		<title>TotalEnergies BWF World Championships 2025: Quarter Finals S2</title>
 		<desc>The TotalEnergies BWF World Championships 2025 will be held in Paris, France, from 25 to 31 August. This prestigious event, hosted by the Badminton World Federation (BWF), will feature seven days of intense competition in men's and women's singles and doubles events.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9200285'&amp;EntityType='LinearSchedule'&amp;EntityId='c0ccb314-57c3-4b43-8736-508a57f1649d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20250829160000 +0000" stop="20250830160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9190361'&amp;EntityType='LinearSchedule'&amp;EntityId='3f8cf9c9-a309-404f-a0b2-fb9f46c68431'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250828170000 +0000" stop="20250828203500 +0000">
 		<title>60 Summer Sizzlers! 1980-1989 - EP1</title>
