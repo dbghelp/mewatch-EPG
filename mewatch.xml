@@ -889,6 +889,46 @@
 		<desc>End of Transmission</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9216811'&amp;EntityType='LinearSchedule'&amp;EntityId='bbdac2cd-3b67-4169-95e4-562a36da97c8'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="97072" start="20250901160000 +0000" stop="20250901160300 +0000">
+		<title>Headline News</title>
+		<desc>The latest top stories of the hour.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9222089'&amp;EntityType='LinearSchedule'&amp;EntityId='edfc3089-7c80-46c5-8c11-14028f312041'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97072" start="20250901160300 +0000" stop="20250901170000 +0000">
+		<title>East Asia Tonight</title>
+		<desc>Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9222093'&amp;EntityType='LinearSchedule'&amp;EntityId='9dd7151a-1329-4d54-a167-b60720721b40'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97072" start="20250901170000 +0000" stop="20250901173000 +0000">
+		<title>On The Red Dot - EP 16</title>
+		<desc>Thomas never planned to hawk soup, but he carries his grandfather’s legacy at Koh Brother Pig’s Organ Soup. As costs soar and family time shrinks, can he keep the Bib Gourmand alive?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9222097'&amp;EntityType='LinearSchedule'&amp;EntityId='0c8248d6-dfbd-40a2-bc80-f13825ca9852'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97072" start="20250901173000 +0000" stop="20250901180000 +0000">
+		<title>Talking Point - EP 14</title>
+		<desc>Amid a spate of unprecedented closures, Diana Ser finds out what’s really eating Singapore’s F&amp;B businesses, and is our local food culture at stake?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9222101'&amp;EntityType='LinearSchedule'&amp;EntityId='1bd7f3f7-ac37-4840-b5e9-2b2a71f281fc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97072" start="20250901180000 +0000" stop="20250901190000 +0000">
+		<title>Singapore Tonight</title>
+		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9222105'&amp;EntityType='LinearSchedule'&amp;EntityId='b0e2b367-31d0-4373-8b44-f7d1f2c71781'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97072" start="20250901190000 +0000" stop="20250901200000 +0000">
+		<title>Separation: Declassified - EP 2</title>
+		<desc>Declassified files and private letters expose betrayals, an assassination plot, and nuclear secrets in the tense aftermath of Singapore’s shock separation from Malaysia in 1965.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9222109'&amp;EntityType='LinearSchedule'&amp;EntityId='64258128-1f5f-45bf-9488-4b38c609e248'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97072" start="20250901200000 +0000" stop="20250901210000 +0000">
+		<title>Asia Tonight</title>
+		<desc>CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day’s events.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9222113'&amp;EntityType='LinearSchedule'&amp;EntityId='f7db1cec-1ca0-4279-adaf-4d93227506e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97072" start="20250901210000 +0000" stop="20250901220000 +0000">
+		<title>Singapore Hidden in 40 Objects - EP 1</title>
+		<desc>A torn dollar note used in a secret deal. School shoes with a World War II link. Cows that enjoyed air-conditioned pampering. Join Sam Driscoll as he uncovers stories that were never taught in school.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9222117'&amp;EntityType='LinearSchedule'&amp;EntityId='5b464973-be61-4624-b71a-9b8a9eb9c218'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97072" start="20250901220000 +0000" stop="20250901230000 +0000">
 		<title>Singapore Tonight</title>
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
@@ -964,10 +1004,15 @@
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9196838'&amp;EntityType='LinearSchedule'&amp;EntityId='9e380123-30fa-4382-8341-a649ca79ffda'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97072" start="20250902150000 +0000" stop="20250902160300 +0000">
+	<programme channel="97072" start="20250902150000 +0000" stop="20250902160000 +0000">
 		<title>Singapore Hidden in 40 Objects - EP 1</title>
 		<desc>A torn dollar note used in a secret deal. School shoes with a World War II link. Cows that enjoyed air-conditioned pampering. Join Sam Driscoll as he uncovers stories that were never taught in school.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9200630'&amp;EntityType='LinearSchedule'&amp;EntityId='6abb5710-c805-4ac6-828c-184035e50a01'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97072" start="20250902160000 +0000" stop="20250902160300 +0000">
+		<title>Headline News</title>
+		<desc>The latest top stories of the hour.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9222121'&amp;EntityType='LinearSchedule'&amp;EntityId='e64e1427-6683-4250-b5c2-dbf424abe46b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20250901160000 +0000" stop="20250902160000 +0000">
 		<title>No Programme available now. Next Broadcast on 12th September, Friday 7.20pm. Singapore Premier League 2025/2026</title>
