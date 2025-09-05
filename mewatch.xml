@@ -24,6 +24,10 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
+	<channel id="186574">
+		<display-name>oktolidays</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7360676'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=1024&amp;Height=1024" />
+	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -993,6 +997,71 @@
 		<title>Headline News</title>
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9208137'&amp;EntityType='LinearSchedule'&amp;EntityId='811e5284-09fa-4457-92ef-bb3b36a7d454'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250904160000 +0000" stop="20250905040000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221407'&amp;EntityType='LinearSchedule'&amp;EntityId='d2d12fa7-7a01-409b-91af-3699f9255e55'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905040000 +0000" stop="20250905045954 +0000">
+		<title>Blippi Singapore Adventures/Ok-to-Try/How To Train Your Future 我的未来有未来/Wildlife Snap! With Biogirl MJ</title>
+		<desc>Blippi Singapore Adventures/Ok-to-Try/How To Train Your Future 我的未来有未来/Wildlife Snap! With Biogirl MJ</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221411'&amp;EntityType='LinearSchedule'&amp;EntityId='ffb9d1db-0b12-4b3a-a855-e32363316318'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905045954 +0000" stop="20250905060053 +0000">
+		<title>One Page At A Time 伟人不见了!/Ai, Ai, Cef!/Paula &amp; Pals S3</title>
+		<desc>One Page At A Time 伟人不见了!/Ai, Ai, Cef!/Paula &amp; Pals S3</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221415'&amp;EntityType='LinearSchedule'&amp;EntityId='5ae40903-98aa-4b4e-85b2-f2172c4de835'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905060053 +0000" stop="20250905070028 +0000">
+		<title>MAYA MACHINDRA/Alfie's "World of Wow!"</title>
+		<desc>MAYA MACHINDRA/Alfie's "World of Wow!"</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221419'&amp;EntityType='LinearSchedule'&amp;EntityId='3faa0c04-b6ad-4810-90a8-03f0bd799b5e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905070028 +0000" stop="20250905080007 +0000">
+		<title>X,Y,&amp; Zain/Playing with Big Toys 小伙伴大玩具/The Little Prince and His Friends</title>
+		<desc>X,Y,&amp; Zain/Playing with Big Toys 小伙伴大玩具/The Little Prince and His Friends</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221423'&amp;EntityType='LinearSchedule'&amp;EntityId='e9df3c92-49d5-4147-b91f-f3f37e6910b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905080007 +0000" stop="20250905090018 +0000">
+		<title>Blippi Singapore Adventures/Ayalaan/How To Train Your Future 我的未来有未来</title>
+		<desc>Blippi Singapore Adventures/Ayalaan/How To Train Your Future 我的未来有未来</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221427'&amp;EntityType='LinearSchedule'&amp;EntityId='83f6efc2-3f84-4028-be5a-df2504564585'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905090018 +0000" stop="20250905100047 +0000">
+		<title>One Page At A Time 伟人不见了!/Ultraman Omega/Paula &amp; Pals S3</title>
+		<desc>One Page At A Time 伟人不见了!/Ultraman Omega/Paula &amp; Pals S3</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221431'&amp;EntityType='LinearSchedule'&amp;EntityId='d65121bb-6bcd-4263-8ddb-e20a95a23414'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905100047 +0000" stop="20250905110042 +0000">
+		<title>Vasantham Junior Chef S2/Alfie's "World of Wow!"</title>
+		<desc>Vasantham Junior Chef S2/Alfie's "World of Wow!"</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221435'&amp;EntityType='LinearSchedule'&amp;EntityId='b2d56715-1421-4cbd-837a-1a65eb33765f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905110042 +0000" stop="20250905120025 +0000">
+		<title>X,Y,&amp; Zain/Beyblade X S2/Dylan's Playtime Adventures</title>
+		<desc>X,Y,&amp; Zain/Beyblade X S2/Dylan's Playtime Adventures</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221439'&amp;EntityType='LinearSchedule'&amp;EntityId='9f79a640-03ec-46dc-9544-5a40bb8e9447'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905120025 +0000" stop="20250905130016 +0000">
+		<title>Blippi Singapore Adventures/How To Train Your Future 我的未来有未来/Kelab JMJ S3</title>
+		<desc>Blippi Singapore Adventures/How To Train Your Future 我的未来有未来/Kelab JMJ S3</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221443'&amp;EntityType='LinearSchedule'&amp;EntityId='a1118e52-5f3f-445c-b565-c4a3cff12755'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905130016 +0000" stop="20250905140057 +0000">
+		<title>One Page At A Time 伟人不见了!/Kaathu Karuppu/Paula &amp; Pals S3</title>
+		<desc>One Page At A Time 伟人不见了!/Kaathu Karuppu/Paula &amp; Pals S3</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221447'&amp;EntityType='LinearSchedule'&amp;EntityId='f7ebd8ec-48a4-488f-874a-1a36aed09ffe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905140057 +0000" stop="20250905150155 +0000">
+		<title>Enna Nadakkuthu Junior/The Little Prince and His Friends</title>
+		<desc>Enna Nadakkuthu Junior/The Little Prince and His Friends</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221451'&amp;EntityType='LinearSchedule'&amp;EntityId='9283e77a-7e8d-496e-981d-a56458ebf79e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905150155 +0000" stop="20250905160058 +0000">
+		<title>X,Y,&amp; Zain/Ultraman Omega/Alfie's "World of Wow!"</title>
+		<desc>X,Y,&amp; Zain/Ultraman Omega/Alfie's "World of Wow!"</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221455'&amp;EntityType='LinearSchedule'&amp;EntityId='7e79dd61-d333-497f-8a4a-3398d3702a72'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20250904160000 +0000" stop="20250905160000 +0000">
 		<title>No Programme available now. Next Broadcast on 12th September, Friday 7.20pm. Singapore Premier League 2025/2026</title>
@@ -2673,6 +2742,126 @@
 		<title>Headline News</title>
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9209890'&amp;EntityType='LinearSchedule'&amp;EntityId='70785aed-02df-4b26-92ca-c775e2f36851'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905160058 +0000" stop="20250905170015 +0000">
+		<title>Blippi Singapore Adventures/I Can Cook Too! 大家一起来做饭!/Makan Skuad</title>
+		<desc>Blippi Singapore Adventures/I Can Cook Too! 大家一起来做饭!/Makan Skuad</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221459'&amp;EntityType='LinearSchedule'&amp;EntityId='e2942d36-71c5-41fe-8a18-e579300eb4a0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905170015 +0000" stop="20250905180028 +0000">
+		<title>One Page At A Time 伟人不见了!/Kaathu Karuppu/Fables From Oot's World</title>
+		<desc>One Page At A Time 伟人不见了!/Kaathu Karuppu/Fables From Oot's World</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221463'&amp;EntityType='LinearSchedule'&amp;EntityId='9476046b-e8ad-4ae8-a60b-05b1f9926f36'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905180028 +0000" stop="20250905190107 +0000">
+		<title>Enna Nadakkuthu Junior/Alfie's "World of Wow!"</title>
+		<desc>Enna Nadakkuthu Junior/Alfie's "World of Wow!"</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221467'&amp;EntityType='LinearSchedule'&amp;EntityId='19ab71bd-d76c-4ce3-b17a-951bd94f6b14'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905190107 +0000" stop="20250905200026 +0000">
+		<title>X,Y,&amp; Zain/Beyblade X S2/Dylan's Playtime Adventures</title>
+		<desc>X,Y,&amp; Zain/Beyblade X S2/Dylan's Playtime Adventures</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221471'&amp;EntityType='LinearSchedule'&amp;EntityId='034a5e13-f6f1-441a-87ef-08b993980295'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905200026 +0000" stop="20250905210019 +0000">
+		<title>Blippi Singapore Adventures/Just One Thing 一点通/Stor Atuk S2</title>
+		<desc>Blippi Singapore Adventures/Just One Thing 一点通/Stor Atuk S2</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221475'&amp;EntityType='LinearSchedule'&amp;EntityId='1ff46acc-bcca-477f-93a5-423549d8453f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905210019 +0000" stop="20250905220011 +0000">
+		<title>One Page At A Time 伟人不见了!/The Little Prince and His Friends/Ai, Ai, Cef!</title>
+		<desc>One Page At A Time 伟人不见了!/The Little Prince and His Friends/Ai, Ai, Cef!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221479'&amp;EntityType='LinearSchedule'&amp;EntityId='6e38b102-6fc5-4906-b793-5ed9ede19985'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905220011 +0000" stop="20250905230008 +0000">
+		<title>Enna Nadakkuthu Junior/Alfie's "World of Wow!"</title>
+		<desc>Enna Nadakkuthu Junior/Alfie's "World of Wow!"</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221483'&amp;EntityType='LinearSchedule'&amp;EntityId='bfad1e3c-dfd4-4381-b32f-a7a35e2e8c59'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250905230008 +0000" stop="20250906000025 +0000">
+		<title>X,Y,&amp; Zain/Ultraman Omega/Paula &amp; Pals S3</title>
+		<desc>X,Y,&amp; Zain/Ultraman Omega/Paula &amp; Pals S3</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221487'&amp;EntityType='LinearSchedule'&amp;EntityId='9b73d8d2-0b6e-4dd8-aec2-9d85a5670f1b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906000025 +0000" stop="20250906010123 +0000">
+		<title>Blippi Singapore Adventures/Lingo Bingo 华研巧语/Projek L.I.T S2</title>
+		<desc>Blippi Singapore Adventures/Lingo Bingo 华研巧语/Projek L.I.T S2</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221491'&amp;EntityType='LinearSchedule'&amp;EntityId='9cfac12a-78ff-47e6-b666-57b6aaf04075'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906010123 +0000" stop="20250906020116 +0000">
+		<title>One Page At A Time 伟人不见了!/Kaathu Karuppu/Paula &amp; Pals S3</title>
+		<desc>One Page At A Time 伟人不见了!/Kaathu Karuppu/Paula &amp; Pals S3</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221495'&amp;EntityType='LinearSchedule'&amp;EntityId='fd23b511-b12c-4cec-b83f-7b02b88c0376'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906020116 +0000" stop="20250906030137 +0000">
+		<title>Enna Nadakkuthu Junior/Dylan's Playtime Adventures</title>
+		<desc>Enna Nadakkuthu Junior/Dylan's Playtime Adventures</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221499'&amp;EntityType='LinearSchedule'&amp;EntityId='6695568c-6cd6-494a-8cb0-4cf954e42c04'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906030137 +0000" stop="20250906040000 +0000">
+		<title>X,Y,&amp; Zain/Beyblade X S2/Alfie's "World of Wow!"</title>
+		<desc>X,Y,&amp; Zain/Beyblade X S2/Alfie's "World of Wow!"</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221503'&amp;EntityType='LinearSchedule'&amp;EntityId='5b20044c-567b-44f1-9ce8-c27e25313204'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906040000 +0000" stop="20250906045954 +0000">
+		<title>Blippi Singapore Adventures/Ok-to-Try/How To Train Your Future 我的未来有未来/Wildlife Snap! With Biogirl MJ</title>
+		<desc>Blippi Singapore Adventures/Ok-to-Try/How To Train Your Future 我的未来有未来/Wildlife Snap! With Biogirl MJ</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221507'&amp;EntityType='LinearSchedule'&amp;EntityId='6310e235-dcbb-4ab4-9c92-e22090af3011'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906045954 +0000" stop="20250906060053 +0000">
+		<title>One Page At A Time 伟人不见了!/Ai, Ai, Cef!/Paula &amp; Pals S3</title>
+		<desc>One Page At A Time 伟人不见了!/Ai, Ai, Cef!/Paula &amp; Pals S3</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221511'&amp;EntityType='LinearSchedule'&amp;EntityId='9beae504-37e7-4bc8-832d-164361d5bc9a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906060053 +0000" stop="20250906070028 +0000">
+		<title>MAYA MACHINDRA/Alfie's "World of Wow!"</title>
+		<desc>MAYA MACHINDRA/Alfie's "World of Wow!"</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221515'&amp;EntityType='LinearSchedule'&amp;EntityId='5aa6baec-7922-4c49-af8c-df1a00e8e498'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906070028 +0000" stop="20250906080007 +0000">
+		<title>X,Y,&amp; Zain/Playing with Big Toys 小伙伴大玩具/The Little Prince and His Friends</title>
+		<desc>X,Y,&amp; Zain/Playing with Big Toys 小伙伴大玩具/The Little Prince and His Friends</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221519'&amp;EntityType='LinearSchedule'&amp;EntityId='ba8ad31c-2084-4a27-b69f-9ffb7805d20d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906080007 +0000" stop="20250906090018 +0000">
+		<title>Blippi Singapore Adventures/Ayalaan/How To Train Your Future 我的未来有未来</title>
+		<desc>Blippi Singapore Adventures/Ayalaan/How To Train Your Future 我的未来有未来</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221523'&amp;EntityType='LinearSchedule'&amp;EntityId='517b40d9-afd0-449b-9683-0e33a5dd121a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906090018 +0000" stop="20250906100047 +0000">
+		<title>One Page At A Time 伟人不见了!/Ultraman Omega/Paula &amp; Pals S3</title>
+		<desc>One Page At A Time 伟人不见了!/Ultraman Omega/Paula &amp; Pals S3</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221527'&amp;EntityType='LinearSchedule'&amp;EntityId='f3c83e58-627f-4c27-bc2d-fee2d207f8c3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906100047 +0000" stop="20250906110042 +0000">
+		<title>Vasantham Junior Chef S2/Alfie's "World of Wow!"</title>
+		<desc>Vasantham Junior Chef S2/Alfie's "World of Wow!"</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221531'&amp;EntityType='LinearSchedule'&amp;EntityId='4c3e9042-558b-416e-8404-c2379fedab89'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906110042 +0000" stop="20250906120025 +0000">
+		<title>X,Y,&amp; Zain/Beyblade X S2/Dylan's Playtime Adventures</title>
+		<desc>X,Y,&amp; Zain/Beyblade X S2/Dylan's Playtime Adventures</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221535'&amp;EntityType='LinearSchedule'&amp;EntityId='9956821b-2f6f-4d0a-ae9d-12d4a1de27f0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906120025 +0000" stop="20250906130016 +0000">
+		<title>Blippi Singapore Adventures/How To Train Your Future 我的未来有未来/Kelab JMJ S3</title>
+		<desc>Blippi Singapore Adventures/How To Train Your Future 我的未来有未来/Kelab JMJ S3</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221539'&amp;EntityType='LinearSchedule'&amp;EntityId='c60ee8ab-fe58-4e77-a66e-26931f626dfb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906130016 +0000" stop="20250906140057 +0000">
+		<title>One Page At A Time 伟人不见了!/Kaathu Karuppu/Paula &amp; Pals S3</title>
+		<desc>One Page At A Time 伟人不见了!/Kaathu Karuppu/Paula &amp; Pals S3</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221543'&amp;EntityType='LinearSchedule'&amp;EntityId='f3d32bb7-e668-44d3-a808-a9bdfd5c8531'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906140057 +0000" stop="20250906150155 +0000">
+		<title>Enna Nadakkuthu Junior/The Little Prince and His Friends</title>
+		<desc>Enna Nadakkuthu Junior/The Little Prince and His Friends</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221547'&amp;EntityType='LinearSchedule'&amp;EntityId='e7461664-6396-4f15-85fc-1cdd6248c521'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20250906150155 +0000" stop="20250906160058 +0000">
+		<title>X,Y,&amp; Zain/Ultraman Omega/Alfie's "World of Wow!"</title>
+		<desc>X,Y,&amp; Zain/Ultraman Omega/Alfie's "World of Wow!"</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9221551'&amp;EntityType='LinearSchedule'&amp;EntityId='f7a7c016-1c11-408e-a948-cf1893d8d4bc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20250906160000 +0000" stop="20250907160000 +0000">
 		<title>No Programme available now. Next Broadcast on 12th September, Friday 7.20pm. Singapore Premier League 2025/2026</title>
