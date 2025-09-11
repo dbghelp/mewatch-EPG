@@ -40,10 +40,6 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -1333,16 +1329,6 @@
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 124 on 12th September, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9225343'&amp;EntityType='LinearSchedule'&amp;EntityId='2af4573f-3454-40b5-b5ed-52047dac304e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20250910160000 +0000" stop="20250911160000 +0000">
-		<title>No Programme available now. Next Broadcast on 18th September, Thursday 5pm. FIBA Intercontinental Cup 2025</title>
-		<desc>LIVE 5 will commence broadcast of the FIBA Intercontinental Cup 2025: NBA G League United vs Flamengo on 18th September, Thursday 5pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9223470'&amp;EntityType='LinearSchedule'&amp;EntityId='dbfc905b-f4f0-4d49-8cd4-ea673058507d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250911160000 +0000" stop="20250912160000 +0000">
-		<title>No Programme available now. Next Broadcast on 18th September, Thursday 5pm. FIBA Intercontinental Cup 2025</title>
-		<desc>LIVE 5 will commence broadcast of the FIBA Intercontinental Cup 2025: NBA G League United vs Flamengo on 18th September, Thursday 5pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9225729'&amp;EntityType='LinearSchedule'&amp;EntityId='7d6fc5b5-06e8-4820-be06-18e1964c9fbc'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="158965" start="20250910090000 +0000" stop="20250910170000 +0000">
 		<title>Most Weeks In UK Chart? Top 100 - EP1</title>
 		<desc>Who spent the most weeks in the UK Top 75 during the whole decade? We countdown the Top 100 artists with longevity - all their song weeks combined &amp; surprises are a guarantee!</desc>
@@ -2120,7 +2106,7 @@
 	</programme>
 	<programme channel="97098" start="20250912133000 +0000" stop="20250912140000 +0000">
 		<title>On The Red Dot - EP 18</title>
-		<desc>Hosts Gurmit Singh and Oon Shu An uncover keepsakes from Singapore’s 60s80s - from a talking PC to a locally made camera, plus a surprise guest with a treasure from sporting history.</desc>
+		<desc>Hosts Gurmit Singh and Oon Shu An uncover keepsakes from Singapore’s '60s to '80s - from a talking PC to a locally made camera, plus a surprise guest with a treasure from sporting history.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9243536'&amp;EntityType='LinearSchedule'&amp;EntityId='7dd11f77-0a74-40d7-8e6e-c7ffedd42858'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20250912140000 +0000" stop="20250912160000 +0000">
@@ -3112,11 +3098,6 @@
 		<title>ONE Friday Fights 124</title>
 		<desc>ONE Friday Fights 124 brings a stacked card of Muay Thai, kickboxing, and MMA to Bangkok on September 12, featuring some of the most exciting athletes on the planet. In the main event, Suriyanlek, fresh off his ninth bonus-winning performance, takes on Decho, who is riding an eight-fight win streak. Plus, the featured bout of the night sees former ONE World Champion Alaverdi Ramazanov return against the dangerous Dernchon.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9238926'&amp;EntityType='LinearSchedule'&amp;EntityId='4ec0ce77-4afb-4b78-86df-50c45b3fba07'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250912160000 +0000" stop="20250913160000 +0000">
-		<title>No Programme available now. Next Broadcast on 18th September, Thursday 5pm. FIBA Intercontinental Cup 2025</title>
-		<desc>LIVE 5 will commence broadcast of the FIBA Intercontinental Cup 2025: NBA G League United vs Flamengo on 18th September, Thursday 5pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9227971'&amp;EntityType='LinearSchedule'&amp;EntityId='b948a4d4-7978-4da2-89ed-d2930721c5f4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250911170000 +0000" stop="20250911180000 +0000">
 		<title>Long Hot Summer! - EP1</title>
