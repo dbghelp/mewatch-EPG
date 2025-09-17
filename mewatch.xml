@@ -40,6 +40,18 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
+	<channel id="497989">
+		<display-name>LIVE 7</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
+	</channel>
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
@@ -777,7 +789,7 @@
 	</programme>
 	<programme channel="97084" start="20250917123000 +0000" stop="20250917130000 +0000">
 		<title>Detik Semasa - EP 13</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Up to 800 traineeships will be offered by private firms and the public sector from October amid concerns from fresh graduates about a tepid job market.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9237348'&amp;EntityType='LinearSchedule'&amp;EntityId='93e55032-7e59-4f68-a581-a2e5d61e06b8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97084" start="20250917130000 +0000" stop="20250917133000 +0000">
@@ -1334,6 +1346,36 @@
 		<title>No programme available now. Next broadcast on 19th September, Friday 8.30pm. ONE Friday Fights 125</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 125 on 19th September, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9239910'&amp;EntityType='LinearSchedule'&amp;EntityId='4ecf9ea7-8678-4bc8-94a9-cf15f22d5fe0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250916160000 +0000" stop="20250917160000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th September, Thursday 5pm. FIBA Intercontinental Cup 2025</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA Intercontinental Cup 2025: NBA G League United vs Flamengo on 18th September, Thursday 5pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9237407'&amp;EntityType='LinearSchedule'&amp;EntityId='9a998191-d989-42fc-b0f3-7cc0f4b10696'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250917160000 +0000" stop="20250918090000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th September, Thursday 5pm. FIBA Intercontinental Cup 2025</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA Intercontinental Cup 2025: NBA G League United vs Flamengo on 18th September, Thursday 5pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9240320'&amp;EntityType='LinearSchedule'&amp;EntityId='af7002f8-3d35-48d1-b246-1921f1bc32e4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250916160000 +0000" stop="20250917160000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th September, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2025/26: Kaya FC-Iloilo vs Tampines Rovers FC on 18th September, Thursday 5.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9237414'&amp;EntityType='LinearSchedule'&amp;EntityId='fd9491b5-8d77-40be-bef7-733059a99a78'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250917160000 +0000" stop="20250918095000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th September, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2025/26: Kaya FC-Iloilo vs Tampines Rovers FC on 18th September, Thursday 5.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9240375'&amp;EntityType='LinearSchedule'&amp;EntityId='b9c2b800-d35a-4c16-9814-d640b157c6e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250916160000 +0000" stop="20250917160000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th September, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 7 will commence broadcast of the AFC Champions League Two 2025/26: Persib Bandung vs Lion City Sailors FC on 18th September, Thursday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9264097'&amp;EntityType='LinearSchedule'&amp;EntityId='99b68bbd-5540-4622-95ac-ba9c957cbde0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250917160000 +0000" stop="20250918120500 +0000">
+		<title>No Programme available now. Next Broadcast on 18th September, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 7 will commence broadcast of the AFC Champions League Two 2025/26: Persib Bandung vs Lion City Sailors FC on 18th September, Thursday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9264183'&amp;EntityType='LinearSchedule'&amp;EntityId='51ba786a-a75f-49df-9226-bb34c387cfaf'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250916140000 +0000" stop="20250916164000 +0000">
 		<title>Tight Fit's 30 Fantasy Islands! - EP1</title>
@@ -2417,7 +2459,7 @@
 	</programme>
 	<programme channel="97084" start="20250918070000 +0000" stop="20250918073000 +0000">
 		<title>Detik Semasa - EP 13</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Up to 800 traineeships will be offered by private firms and the public sector from October amid concerns from fresh graduates about a tepid job market.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9240107'&amp;EntityType='LinearSchedule'&amp;EntityId='ae913ad9-4a28-4698-8953-37973dfb07c2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97084" start="20250918073000 +0000" stop="20250918080000 +0000">
@@ -2984,6 +3026,61 @@
 		<title>No programme available now. Next broadcast on 19th September, Friday 8.30pm. ONE Friday Fights 125</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 125 on 19th September, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9242104'&amp;EntityType='LinearSchedule'&amp;EntityId='36487050-390d-4f4f-aba9-9bfa9454a3ed'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250918090000 +0000" stop="20250918103000 +0000">
+		<title>FIBA Intercontinental Cup 2025: NBA G League United vs Flamengo</title>
+		<desc>FIBA Intercontinental Cup returns for the third year. Catch world-class basketball action as the best basketball clubs from each continent battle for international supremacy and the ultimate accolade of Intercontinental Champion at the Singapore Indoor Stadium from 18 to 21 September 2025. Teams competing are Alahli SC from Libya, Unicaja from Spain, Utsunomiya Brex from Japan, Flamengo from Brazil, Illawarra Hawks from Australia and National Basketball Association (NBA) G League United.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9241893'&amp;EntityType='LinearSchedule'&amp;EntityId='4ab3f551-ec8a-4a39-a238-dc8384b1bf58'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250918103000 +0000" stop="20250918120000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th September, Thursday 8pm. FIBA Intercontinental Cup 2025</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA Intercontinental Cup 2025: Alahli SC vs Unicaja on 18th September, Thursday 8pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9240340'&amp;EntityType='LinearSchedule'&amp;EntityId='91309ee7-fe48-4099-a517-2af44b8c22ac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250918120000 +0000" stop="20250918133000 +0000">
+		<title>FIBA Intercontinental Cup 2025: Alahli SC vs Unicaja</title>
+		<desc>FIBA Intercontinental Cup returns for the third year. Catch world-class basketball action as the best basketball clubs from each continent battle for international supremacy and the ultimate accolade of Intercontinental Champion at the Singapore Indoor Stadium from 18 to 21 September 2025. Teams competing are Alahli SC from Libya, Unicaja from Spain, Utsunomiya Brex from Japan, Flamengo from Brazil, Illawarra Hawks from Australia and National Basketball Association (NBA) G League United.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9241897'&amp;EntityType='LinearSchedule'&amp;EntityId='fdbf0802-ccbd-4767-9e5d-bf489563ae62'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250918133000 +0000" stop="20250918160000 +0000">
+		<title>No Programme available now. Next Broadcast on 19th September, Friday 4pm. FIBA Intercontinental Cup 2025</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA Intercontinental Cup 2025: Illawarra Hawks vs Flamengo on 19th September, Friday 4pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9240360'&amp;EntityType='LinearSchedule'&amp;EntityId='93eda9ee-176b-45d4-9c00-1636a502b881'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250918160000 +0000" stop="20250919080000 +0000">
+		<title>No Programme available now. Next Broadcast on 19th September, Friday 4pm. FIBA Intercontinental Cup 2025</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA Intercontinental Cup 2025: Illawarra Hawks vs Flamengo on 19th September, Friday 4pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9242457'&amp;EntityType='LinearSchedule'&amp;EntityId='5dc4a851-ca3d-4c2c-b810-f673f38a1945'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250918095000 +0000" stop="20250918120000 +0000">
+		<title>AFC Champions League Two 2025/26: Kaya FC-Iloilo vs Tampines Rovers FC</title>
+		<desc>AFC Champions League Two 2025/26 will be the 22nd edition of Asia’s second-tier club football tournament. This season features 32 teams competing in a round-robin group stage format from September to December 2025 and the knock-out stage from February to May 2025, with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2026/27.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9264115'&amp;EntityType='LinearSchedule'&amp;EntityId='13246d35-1fd8-4f58-bfc0-c8fbfce07bfc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250918120000 +0000" stop="20250918160000 +0000">
+		<title>No Programme available now. Next Broadcast on 21st September, Sunday 8.55am. Toyota World Para Swimming Championships – Singapore 2025</title>
+		<desc>LIVE 6 will commence broadcast of the Toyota World Para Swimming Championships – Singapore 2025 on 21st September, Sunday 8.55am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9240383'&amp;EntityType='LinearSchedule'&amp;EntityId='7a7de75a-7de7-4aee-98cf-080ac9ea5e6b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20250918160000 +0000" stop="20250919160000 +0000">
+		<title>No Programme available now. Next Broadcast on 21st September, Sunday 8.55am. Toyota World Para Swimming Championships – Singapore 2025</title>
+		<desc>LIVE 6 will commence broadcast of the Toyota World Para Swimming Championships – Singapore 2025 on 21st September, Sunday 8.55am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9242525'&amp;EntityType='LinearSchedule'&amp;EntityId='90fc5cd6-4e86-4196-aaa0-840b6d6ba391'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250918120500 +0000" stop="20250918141500 +0000">
+		<title>AFC Champions League Two 2025/26: Persib Bandung vs Lion City Sailors FC</title>
+		<desc>AFC Champions League Two 2025/26 will be the 22nd edition of Asia’s second-tier club football tournament. This season features 32 teams competing in a round-robin group stage format from September to December 2025 and the knock-out stage from February to May 2025, with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2026/27.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9264191'&amp;EntityType='LinearSchedule'&amp;EntityId='031c95e0-cb6a-427b-8817-bbfe82ecedfa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250918141500 +0000" stop="20250918160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9264187'&amp;EntityType='LinearSchedule'&amp;EntityId='ea1a89f3-1709-4408-9503-46e23ff998ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20250918160000 +0000" stop="20250919160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9264195'&amp;EntityType='LinearSchedule'&amp;EntityId='148672f8-d1dc-496f-abcb-ae6ae73ba62a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20250917163000 +0000" stop="20250917170000 +0000">
 		<title>Night Moves! - EP1</title>
