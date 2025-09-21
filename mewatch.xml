@@ -40,10 +40,6 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
 	<channel id="204746">
 		<display-name>LIVE 6</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
@@ -1262,16 +1258,6 @@
 		<title>No programme available now. Next broadcast on 26th September, Friday 8.30pm. ONE Friday Fights 126</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 126 on 26th September, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9256726'&amp;EntityType='LinearSchedule'&amp;EntityId='27c4749e-5a5b-4dc1-a908-bbf2fe4e9bb7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250921160000 +0000" stop="20250922160000 +0000">
-		<title>No Programme available now. Next Broadcast on 24th September, Wednesday 9pm. ASEAN Shopee Cup 2025/2026</title>
-		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: Selangor FC vs Tampines Rovers FC on 24th September, Wednesday 9pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9254741'&amp;EntityType='LinearSchedule'&amp;EntityId='23100c87-66fd-42ab-8fb2-a601817a3592'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250922160000 +0000" stop="20250923160000 +0000">
-		<title>No Programme available now. Next Broadcast on 24th September, Wednesday 9pm. ASEAN Shopee Cup 2025/2026</title>
-		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: Selangor FC vs Tampines Rovers FC on 24th September, Wednesday 9pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9257010'&amp;EntityType='LinearSchedule'&amp;EntityId='b5c76d9a-a343-4a88-9e6d-0f47fe86c959'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="204746" start="20250921160000 +0000" stop="20250922005500 +0000">
 		<title>No Programme available now. Next Broadcast on 22nd September, Monday 8.55am. Toyota World Para Swimming Championships – Singapore 2025</title>
@@ -2812,11 +2798,6 @@
 		<title>No programme available now. Next broadcast on 26th September, Friday 8.30pm. ONE Friday Fights 126</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 126 on 26th September, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9262533'&amp;EntityType='LinearSchedule'&amp;EntityId='5ac93931-d1f9-48f1-a94b-2a1832dcdc0e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250923160000 +0000" stop="20250924130000 +0000">
-		<title>No Programme available now. Next Broadcast on 24th September, Wednesday 9pm. ASEAN Shopee Cup 2025/2026</title>
-		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: Selangor FC vs Tampines Rovers FC on 24th September, Wednesday 9pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9262888'&amp;EntityType='LinearSchedule'&amp;EntityId='22717763-4f57-4d78-99ea-22c948b1c82f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="204746" start="20250923005500 +0000" stop="20250923032500 +0000">
 		<title>Toyota World Para Swimming Championships – Singapore 2025: Heats</title>
