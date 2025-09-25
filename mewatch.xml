@@ -40,10 +40,6 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
 	<channel id="204746">
 		<display-name>LIVE 6</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
@@ -471,7 +467,7 @@
 	<programme channel="97104" start="20250925103000 +0000" stop="20250925113000 +0000">
 		<title>(Live) Hello Singapore - EP 128 狮城有约</title>
 		<desc>Delivering the day's latest news and social features that matter to you. Every Monday to Friday, from 6.30pm to 7.30pm on Channel 8.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9278021'&amp;EntityType='LinearSchedule'&amp;EntityId='1528ba05-baf8-43b2-818f-ccc40558a1c9'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9266327'&amp;EntityType='LinearSchedule'&amp;EntityId='1528ba05-baf8-43b2-818f-ccc40558a1c9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20250925113000 +0000" stop="20250925120000 +0000">
 		<title>Teresa Teng - EP 28 但愿人长久</title>
@@ -1342,16 +1338,6 @@
 		<title>No programme available now. Next broadcast on 26th September, Friday 8.30pm. ONE Friday Fights 126</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 126 on 26th September, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9269516'&amp;EntityType='LinearSchedule'&amp;EntityId='0cf35be8-e125-4ff1-a335-86f87bfd9d66'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250924160000 +0000" stop="20250925160000 +0000">
-		<title>No Programme available now. Next Broadcast on 1st October, Wednesday 5.50pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Lion City Sailors FC vs Selangor FC on 1st October, Wednesday 5.50pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9266062'&amp;EntityType='LinearSchedule'&amp;EntityId='877e3c5f-9702-4da7-bac0-db504a25314e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20250925160000 +0000" stop="20250926160000 +0000">
-		<title>No Programme available now. Next Broadcast on 1st October, Wednesday 5.50pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Lion City Sailors FC vs Selangor FC on 1st October, Wednesday 5.50pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9269977'&amp;EntityType='LinearSchedule'&amp;EntityId='e6f65f56-ceb1-4478-8c0f-00e2cd35088e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="204746" start="20250924160000 +0000" stop="20250925005500 +0000">
 		<title>No Programme available now. Next Broadcast on 25th September, Thursday 8.55am. Toyota World Para Swimming Championships – Singapore 2025</title>
@@ -2898,35 +2884,35 @@
 		<desc>Using the local society issues as a backbone, this drama depicts the lives of families of different background residing in the same neighbourhood, from the cold and self-centered to the understanding of the true meaning of love. The story reflects the meaning of how blood is thicker than water and the neighbourhood spirit of helping and watching out for each other.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9269993'&amp;EntityType='LinearSchedule'&amp;EntityId='854da65e-1530-47f6-92b8-d619318f77e7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97104" start="20250925190000 +0000" stop="20250925200000 +0000">
+	<programme channel="97104" start="20250925190000 +0000" stop="20250925201000 +0000">
 		<title>Your Hand In Mine - EP 135 想握你的手</title>
 		<desc>Using the local society issues as a backbone, this drama depicts the lives of families of different background residing in the same neighbourhood, from the cold and self-centered to the understanding of the true meaning of love. The story reflects the meaning of how blood is thicker than water and the neighbourhood spirit of helping and watching out for each other.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9269997'&amp;EntityType='LinearSchedule'&amp;EntityId='f6b03865-89ac-496b-8c1c-592bd0da53dc'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97104" start="20250925200000 +0000" stop="20250925210000 +0000">
+	<programme channel="97104" start="20250925201000 +0000" stop="20250925210500 +0000">
 		<title>Golden City - EP 179 多情城市</title>
 		<desc>This drama is set in the Jiufen area from the 1960s to the 1970s. It tells the story of how three brothers conquered the world with their bare hands. Through the love story of the previous generation, it connects the common emotions between the two generations depicting the memories and in-depth exploration of the differences in values between them.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9270001'&amp;EntityType='LinearSchedule'&amp;EntityId='854677fa-6bac-4b9d-82a6-292588eeeee4'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9312172'&amp;EntityType='LinearSchedule'&amp;EntityId='748f6511-7bf2-4c6e-a4b8-014ab3d3f824'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97104" start="20250925210000 +0000" stop="20250925220000 +0000">
+	<programme channel="97104" start="20250925210500 +0000" stop="20250925220000 +0000">
 		<title>Golden City - EP 180 多情城市</title>
 		<desc>This drama is set in the Jiufen area from the 1960s to the 1970s. It tells the story of how three brothers conquered the world with their bare hands. Through the love story of the previous generation, it connects the common emotions between the two generations depicting the memories and in-depth exploration of the differences in values between them.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9270005'&amp;EntityType='LinearSchedule'&amp;EntityId='0d0df7ca-9e7d-4702-bc60-65d0a17a30e8'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9312176'&amp;EntityType='LinearSchedule'&amp;EntityId='286e0644-ee60-4611-a2ca-908a5ec44bca'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97104" start="20250925220000 +0000" stop="20250925230000 +0000">
+	<programme channel="97104" start="20250925220000 +0000" stop="20250925225000 +0000">
 		<title>Hear U Out S3 - EP 17 权听你说3</title>
 		<desc>Desmond Ng was the relatively unknown challenger among industry bigwigs, Ke Le had an unstable voice. How did they overcome the criticism while competing in Getai Challenge to become the latest hosting combo today?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9270009'&amp;EntityType='LinearSchedule'&amp;EntityId='f9bb40d6-5ac6-4efa-8171-7ee5ecd09d2f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97104" start="20250925230000 +0000" stop="20250925233000 +0000">
+	<programme channel="97104" start="20250925225000 +0000" stop="20250925233500 +0000">
 		<title>News Tonight 晚间新闻</title>
 		<desc>Daily evening updates on top local news and world news.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9270013'&amp;EntityType='LinearSchedule'&amp;EntityId='fdfae33e-485c-4bc0-be8b-0556d9dd7935'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9312180'&amp;EntityType='LinearSchedule'&amp;EntityId='96896baa-41c0-4cb7-9ae8-be4cea3b0336'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97104" start="20250925233000 +0000" stop="20250926000000 +0000">
+	<programme channel="97104" start="20250925233500 +0000" stop="20250926000000 +0000">
 		<title>Healing Heroes - EP 2 医生不是神</title>
 		<desc>Ekin is in grief when he overhears Yi Ge and Ren Hui talking about the death of his wife and two children in the shipwreck as he prepares to visit Yanthy after her surgery. Upon waking up, Yanthy cries looking for her mother, but Ekin cannot bear to tell the truth and lies that they have returned to Indonesia. Yi Ge bursts into tears as she, too, lost her mother at a young age.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9270017'&amp;EntityType='LinearSchedule'&amp;EntityId='071aaa66-8596-41e0-99c3-acacaa913875'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9312184'&amp;EntityType='LinearSchedule'&amp;EntityId='d13aeba6-cfa0-4844-97a6-4df9d7b5348b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20250926000000 +0000" stop="20250926010000 +0000">
 		<title>The Cellphone Swap - EP 6 爱情乱码</title>
@@ -3036,7 +3022,7 @@
 	<programme channel="97104" start="20250926103000 +0000" stop="20250926113000 +0000">
 		<title>(Live) Hello Singapore - EP 129 狮城有约</title>
 		<desc>Delivering the day's latest news and social features that matter to you. Every Monday to Friday, from 6.30pm to 7.30pm on Channel 8.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9289698'&amp;EntityType='LinearSchedule'&amp;EntityId='80bdb2d3-072f-4d9a-a7b2-062f39fbf2bb'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9270129'&amp;EntityType='LinearSchedule'&amp;EntityId='80bdb2d3-072f-4d9a-a7b2-062f39fbf2bb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20250926113000 +0000" stop="20250926120000 +0000">
 		<title>Teresa Teng - EP 29 但愿人长久</title>
@@ -3853,11 +3839,6 @@
 		<desc>This September, ONE Championship is bringing a massive blockbuster event to Asia primetime that fans around the globe can’t afford to miss! Some of the most popular strikers in the combat sports universe will descend upon the world-famous Lumpinee Stadium for ONE Friday Fights 126 on September 26, and the stakes in Bangkok that evening are sky-high. In the main event, reigning ONE Bantamweight Muay Thai World Champion Nabil Anane will jump-start his path to double gold. But his first bantamweight kickboxing match will be against the division’s #2-ranked contender and the former flyweight kickboxing king himself, Ilias Ennahachi. The event also marks the quick return of #3-ranked featherweight Muay Thai contender Shadow Singha Mawynn. He makes his promotional debut in kickboxing against Chinese phenom Liu Mengyang, the last person to beat ONE Interim Featherweight Kickboxing World Champion Masaaki Noiri.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9269526'&amp;EntityType='LinearSchedule'&amp;EntityId='109a6ec9-7eec-4d94-9cd6-d4cb3c8d5615'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20250926160000 +0000" stop="20250927160000 +0000">
-		<title>No Programme available now. Next Broadcast on 1st October, Wednesday 5.50pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Lion City Sailors FC vs Selangor FC on 1st October, Wednesday 5.50pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9278981'&amp;EntityType='LinearSchedule'&amp;EntityId='535ea06b-d5b5-4e7d-ac1a-67d661bb279c'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="204746" start="20250926012500 +0000" stop="20250926040000 +0000">
 		<title>Toyota World Para Swimming Championships – Singapore 2025: Heats</title>
 		<desc>The Toyota World Para Swimming Championships – Singapore 2025 will take place from 21 to 27 September at the OCBC Aquatic Centre, marking the first time the event is hosted in Asia. Over 600 athletes from 60 nations will compete in this top-tier Para swimming competition, including Paris 2024 Paralympians and Los Angeles 2025 Paralympics hopefuls.</desc>
@@ -3941,22 +3922,22 @@
 	<programme channel="557763" start="20250926114648 +0000" stop="20250926133559 +0000">
 		<title>Japan v Sweden | Semi-finals | FIFA Women's World Cup Germany 2011™ | Full Match Replay</title>
 		<desc>Watch the full match replay between Japan and Sweden played at FIFA World Cup Stadium, Frankfurt, Frankfurt on Wednesday, 13 July 2011 at 20:45.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9310498'&amp;EntityType='LinearSchedule'&amp;EntityId='b5c282fa-fc2d-476f-97f9-3e12c240f64e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9312244'&amp;EntityType='LinearSchedule'&amp;EntityId='3d27c9f0-a12d-465c-a5bf-f1443605dc83'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20250926133559 +0000" stop="20250926153054 +0000">
 		<title>France v Croatia | Final | 2018 FIFA World Cup Russia™ | Full Match Replay</title>
 		<desc>Watch the full replay from the match between France and Croatia played at Luzhniki Stadium, Moscow on Sunday, 15 July 2018.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9310502'&amp;EntityType='LinearSchedule'&amp;EntityId='5c8247aa-5b92-4e79-abd5-389e3de8fe72'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9312248'&amp;EntityType='LinearSchedule'&amp;EntityId='be10ab02-5ab2-4830-9faa-813cdd868416'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20250926153054 +0000" stop="20250926154951 +0000">
 		<title>Misfit: Luis Suárez | Eyes of the World</title>
 		<desc>Red cards, penalties and one of the most infamous handball in World Cup history. The 2010 match between Ghana and Uruguay was one for the ages.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9310506'&amp;EntityType='LinearSchedule'&amp;EntityId='4bab550e-857e-4f9f-bfae-d8e03f78470d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9312252'&amp;EntityType='LinearSchedule'&amp;EntityId='55b7dac6-2152-4990-8c9c-6eac2a9e5237'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20250926154951 +0000" stop="20250926162945 +0000">
 		<title>FACTS: Argentina v Germany FR | Mexico 86</title>
 		<desc>Diego Maradona's Argentina beating Germany FR in the Azteca explained.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9310510'&amp;EntityType='LinearSchedule'&amp;EntityId='a3eb2879-f3bf-4e17-b87e-1688bd199316'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9312256'&amp;EntityType='LinearSchedule'&amp;EntityId='7f477103-85e8-4c34-99a0-5a1faeacb9ce'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20250925160500 +0000" stop="20250925162500 +0000">
 		<title>NSL Super Cup '25: Dragons v Pulse</title>
