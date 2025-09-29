@@ -24,10 +24,6 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
-	<channel id="186574">
-		<display-name>oktolidays</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7360676'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=1024&amp;Height=1024" />
-	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -39,10 +35,6 @@
 	<channel id="97078">
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
-	</channel>
-	<channel id="204746">
-		<display-name>LIVE 6</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
 	</channel>
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
@@ -1044,81 +1036,6 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9293608'&amp;EntityType='LinearSchedule'&amp;EntityId='d5ceb9e3-0347-4ece-adcb-efe99adf90d7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="186574" start="20250928150155 +0000" stop="20250928160058 +0000">
-		<title>X,Y,&amp; Zain/Ultraman Omega/Alfie's "World of Wow!"</title>
-		<desc>X,Y,&amp; Zain/Ultraman Omega/Alfie's "World of Wow!"</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9286897'&amp;EntityType='LinearSchedule'&amp;EntityId='1530904c-c6ae-4e99-90d6-418ef90dc5b5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250928160058 +0000" stop="20250928170015 +0000">
-		<title>Blippi Singapore Adventures/I Can Cook Too! 大家一起来做饭!/Makan Skuad</title>
-		<desc>Blippi Singapore Adventures/I Can Cook Too! 大家一起来做饭!/Makan Skuad</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291061'&amp;EntityType='LinearSchedule'&amp;EntityId='8e548469-6fa5-4820-83ce-c9b99ee427ba'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250928170015 +0000" stop="20250928180028 +0000">
-		<title>One Page At A Time 伟人不见了!/Kaathu Karuppu/Fables From Oot's World</title>
-		<desc>One Page At A Time 伟人不见了!/Kaathu Karuppu/Fables From Oot's World</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291068'&amp;EntityType='LinearSchedule'&amp;EntityId='c6ab6210-01e9-4c28-b433-06c3e0b24e63'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250928180028 +0000" stop="20250928190107 +0000">
-		<title>Enna Nadakkuthu Junior/Alfie's "World of Wow!"</title>
-		<desc>Enna Nadakkuthu Junior/Alfie's "World of Wow!"</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291076'&amp;EntityType='LinearSchedule'&amp;EntityId='d8af88d0-b25b-4aa1-afa6-ee0b6fdef2ab'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250928190107 +0000" stop="20250928200026 +0000">
-		<title>X,Y,&amp; Zain/Beyblade X S2/Dylan's Playtime Adventures</title>
-		<desc>X,Y,&amp; Zain/Beyblade X S2/Dylan's Playtime Adventures</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291084'&amp;EntityType='LinearSchedule'&amp;EntityId='ac09d51d-4cfc-4c5e-98ea-5b6d37da7633'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250928200026 +0000" stop="20250928210019 +0000">
-		<title>Blippi Singapore Adventures/Just One Thing 一点通/Stor Atuk S2</title>
-		<desc>Blippi Singapore Adventures/Just One Thing 一点通/Stor Atuk S2</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291090'&amp;EntityType='LinearSchedule'&amp;EntityId='ca4e178c-6125-488a-a820-a693d448ebe0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250928210019 +0000" stop="20250928220011 +0000">
-		<title>One Page At A Time 伟人不见了!/The Little Prince and His Friends/Ai, Ai, Cef!</title>
-		<desc>One Page At A Time 伟人不见了!/The Little Prince and His Friends/Ai, Ai, Cef!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291097'&amp;EntityType='LinearSchedule'&amp;EntityId='b95e8485-5b53-44fd-b022-bcdb2b55d7e5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250928220011 +0000" stop="20250928230008 +0000">
-		<title>Enna Nadakkuthu Junior/Alfie's "World of Wow!"</title>
-		<desc>Enna Nadakkuthu Junior/Alfie's "World of Wow!"</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291104'&amp;EntityType='LinearSchedule'&amp;EntityId='184dc1d1-b368-4960-8f58-eea6322dcca3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250928230008 +0000" stop="20250929000025 +0000">
-		<title>X,Y,&amp; Zain/Ultraman Omega/Paula &amp; Pals S3</title>
-		<desc>X,Y,&amp; Zain/Ultraman Omega/Paula &amp; Pals S3</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291112'&amp;EntityType='LinearSchedule'&amp;EntityId='517a5523-235d-469f-b58f-3d7dbc427fb5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250929000025 +0000" stop="20250929010123 +0000">
-		<title>Blippi Singapore Adventures/Lingo Bingo 华研巧语/Projek L.I.T S2</title>
-		<desc>Blippi Singapore Adventures/Lingo Bingo 华研巧语/Projek L.I.T S2</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291121'&amp;EntityType='LinearSchedule'&amp;EntityId='6d3bc7a0-9311-4b58-bb72-b2d8f779bb51'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250929010123 +0000" stop="20250929020116 +0000">
-		<title>One Page At A Time 伟人不见了!/Kaathu Karuppu/Paula &amp; Pals S3</title>
-		<desc>One Page At A Time 伟人不见了!/Kaathu Karuppu/Paula &amp; Pals S3</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291129'&amp;EntityType='LinearSchedule'&amp;EntityId='1649e480-3583-41a1-9972-3e3f25fe1059'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250929020116 +0000" stop="20250929030137 +0000">
-		<title>Enna Nadakkuthu Junior/Dylan's Playtime Adventures</title>
-		<desc>Enna Nadakkuthu Junior/Dylan's Playtime Adventures</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291135'&amp;EntityType='LinearSchedule'&amp;EntityId='37f54a8e-e00b-4a58-9b8c-c0049739c2ae'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250929030137 +0000" stop="20250929040000 +0000">
-		<title>X,Y,&amp; Zain/Beyblade X S2/Alfie's "World of Wow!"</title>
-		<desc>X,Y,&amp; Zain/Beyblade X S2/Alfie's "World of Wow!"</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291141'&amp;EntityType='LinearSchedule'&amp;EntityId='525b161b-d362-42fd-9bda-4de6b578d35b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250929040000 +0000" stop="20250929160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9291149'&amp;EntityType='LinearSchedule'&amp;EntityId='46754554-56cd-43ef-bd11-0cbf113833bb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20250929160000 +0000" stop="20250930160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294095'&amp;EntityType='LinearSchedule'&amp;EntityId='a235f04f-ae0b-445a-ad32-78758670c663'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="98200" start="20250928160000 +0000" stop="20250929160000 +0000">
 		<title>No Programme available now. Next Broadcast on 2nd October, Thursday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Young Lions vs Hougang United FC on 2nd October, Thursday 7.20pm. Please stay tuned!</desc>
@@ -1278,16 +1195,6 @@
 		<title>No programme available now. Next broadcast on 3rd October, Friday 8.30pm. ONE Friday Fights 127</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 127 on 3rd October, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9315333'&amp;EntityType='LinearSchedule'&amp;EntityId='ac7e4c03-ae34-4b2a-98b3-9e0a3cffdd6c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20250928160000 +0000" stop="20250929160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9290468'&amp;EntityType='LinearSchedule'&amp;EntityId='493abb2d-6040-400c-ac9a-fa2ae35a03e2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20250929160000 +0000" stop="20250930160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9293951'&amp;EntityType='LinearSchedule'&amp;EntityId='6adaa1ed-f016-4529-9e2d-cdcede1dccf5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20250928155048 +0000" stop="20250928180942 +0000">
 		<title>England v Colombia | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
@@ -3584,11 +3491,6 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9300853'&amp;EntityType='LinearSchedule'&amp;EntityId='5f6f38ea-5f2a-4f73-8aee-585533aa2b2d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="186574" start="20250930160000 +0000" stop="20251001160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9301837'&amp;EntityType='LinearSchedule'&amp;EntityId='57476236-d625-49da-8cd2-2e42306f3cbe'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="98200" start="20250930160000 +0000" stop="20251001160000 +0000">
 		<title>No Programme available now. Next Broadcast on 2nd October, Thursday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Young Lions vs Hougang United FC on 2nd October, Thursday 7.20pm. Please stay tuned!</desc>
@@ -3733,11 +3635,6 @@
 		<title>No programme available now. Next broadcast on 3rd October, Friday 8.30pm. ONE Friday Fights 127</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 127 on 3rd October, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9315377'&amp;EntityType='LinearSchedule'&amp;EntityId='87ef8ae9-57f9-4b9c-a02e-6fa5eb5d2b39'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20250930160000 +0000" stop="20251001160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9304159'&amp;EntityType='LinearSchedule'&amp;EntityId='7b2f9637-7f5a-41de-9305-8e4e05b0b8de'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20250929180942 +0000" stop="20250929183451 +0000">
 		<title>The Queens | Queen of WE</title>
@@ -3960,7 +3857,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294154'&amp;EntityType='LinearSchedule'&amp;EntityId='0b499e36-9cb4-43bd-8f66-2a677c704255'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556888" start="20250929193000 +0000" stop="20250929200000 +0000">
-		<title>Homage - The Unconventionals Of Football - EP27</title>
+		<title>Homage - The Unconventionals Of Tennis - EP27</title>
 		<desc>We pay tribute to the most remarkable athletes of our era.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294166'&amp;EntityType='LinearSchedule'&amp;EntityId='d4d3e302-6f59-47b8-b23a-f82ddf2cdbe2'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -4035,7 +3932,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294288'&amp;EntityType='LinearSchedule'&amp;EntityId='2213a893-3b30-44c9-98ba-fccad8e4bbe6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556888" start="20250930030000 +0000" stop="20250930033000 +0000">
-		<title>Homage - The Unconventionals Of Football - EP27</title>
+		<title>Homage - The Unconventionals Of Tennis - EP27</title>
 		<desc>We pay tribute to the most remarkable athletes of our era.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294296'&amp;EntityType='LinearSchedule'&amp;EntityId='c655fe81-95d7-491d-bc33-57e7a4c251b7'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -4080,32 +3977,32 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294351'&amp;EntityType='LinearSchedule'&amp;EntityId='ac6d0109-f3a1-49df-aa17-fc07c7217c86'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556888" start="20250930073000 +0000" stop="20250930080000 +0000">
-		<title>Star Rated - Batman Athletes - EP128</title>
+		<title>Star Rated - Hunger Games - EP128</title>
 		<desc>Your favourite sports stars witnessed away from the training ground in 'Star Rated'!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294359'&amp;EntityType='LinearSchedule'&amp;EntityId='8046a00e-1196-4371-bd4a-0d8cf75c6c8e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556888" start="20250930080000 +0000" stop="20250930083000 +0000">
-		<title>Star Rated - Best Nicknames - EP129</title>
+		<title>Star Rated - Hunger Games - EP129</title>
 		<desc>Your favourite sports stars witnessed away from the training ground in 'Star Rated'!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294365'&amp;EntityType='LinearSchedule'&amp;EntityId='4daafc03-cc0b-4ffd-b57b-802e79a9e36d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556888" start="20250930083000 +0000" stop="20250930090000 +0000">
-		<title>Star Rated - Goal Scorers - EP130</title>
+		<title>Star Rated - Hunger Games - EP130</title>
 		<desc>Your favourite sports stars witnessed away from the training ground in 'Star Rated'!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294371'&amp;EntityType='LinearSchedule'&amp;EntityId='3fd5486b-e872-4808-abab-919bab32dc4b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556888" start="20250930090000 +0000" stop="20250930093000 +0000">
-		<title>Star Rated - Unluckiest Stars - EP131</title>
+		<title>Star Rated - Hunger Games - EP131</title>
 		<desc>Your favourite sports stars witnessed away from the training ground in 'Star Rated'!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294379'&amp;EntityType='LinearSchedule'&amp;EntityId='d8ae3a25-b108-461f-b4e7-7322d41e9fc6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556888" start="20250930093000 +0000" stop="20250930100000 +0000">
-		<title>Star Rated - Maddest Sport Stars - EP132</title>
+		<title>Star Rated - Hunger Games - EP132</title>
 		<desc>Your favourite sports stars witnessed away from the training ground in 'Star Rated'!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294387'&amp;EntityType='LinearSchedule'&amp;EntityId='c49f4788-7120-4147-86d5-45101d11a9e1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556888" start="20250930100000 +0000" stop="20250930103000 +0000">
-		<title>Star Rated - Scariest Sports Team - EP133</title>
+		<title>Star Rated - Hunger Games - EP133</title>
 		<desc>Your favourite sports stars witnessed away from the training ground in 'Star Rated'!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9294395'&amp;EntityType='LinearSchedule'&amp;EntityId='42a97476-f29f-4ff0-bb3d-7c93cb471294'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -4180,7 +4077,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306122'&amp;EntityType='LinearSchedule'&amp;EntityId='1cd87c52-2803-498a-aae7-0121b83d5a12'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20250929173000 +0000" stop="20250929180000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep9 - EP9</title>
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep1 - EP9</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306126'&amp;EntityType='LinearSchedule'&amp;EntityId='383713dc-1d25-45e4-8729-73c10935b108'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -4200,7 +4097,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306138'&amp;EntityType='LinearSchedule'&amp;EntityId='dfeec030-dc80-4467-827a-68a4646d448c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20250929193000 +0000" stop="20250929200000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep17 - EP117</title>
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep1 - EP117</title>
 		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306142'&amp;EntityType='LinearSchedule'&amp;EntityId='040ab19e-04b6-4704-9de7-305a0ad3bc81'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -4240,7 +4137,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306170'&amp;EntityType='LinearSchedule'&amp;EntityId='778775bc-2f84-498a-876e-9deb7d12b92b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20250929233000 +0000" stop="20250930000000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep9 - EP9</title>
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep1 - EP9</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306174'&amp;EntityType='LinearSchedule'&amp;EntityId='a0e260b1-386d-4fb3-804f-1ad778995c00'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -4260,7 +4157,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306186'&amp;EntityType='LinearSchedule'&amp;EntityId='4a4a8289-8504-4c13-90a2-02136ea0362e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20250930013000 +0000" stop="20250930020000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep17 - EP117</title>
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep1 - EP117</title>
 		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306190'&amp;EntityType='LinearSchedule'&amp;EntityId='e1d127cd-edb9-44b5-ad3e-28987eca692f'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -4300,7 +4197,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306218'&amp;EntityType='LinearSchedule'&amp;EntityId='872af962-8ab2-45f9-8241-f49b577ad706'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20250930053000 +0000" stop="20250930060000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep9 - EP9</title>
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep1 - EP9</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306222'&amp;EntityType='LinearSchedule'&amp;EntityId='7d9eb31d-c4c3-487d-89c2-395181d9a0f1'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -4320,7 +4217,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306234'&amp;EntityType='LinearSchedule'&amp;EntityId='b4e9a0d6-e87c-4da8-aaa5-b5c32844187f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20250930073000 +0000" stop="20250930080000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep17 - EP117</title>
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep1 - EP117</title>
 		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306238'&amp;EntityType='LinearSchedule'&amp;EntityId='99909e5d-dc74-43d9-bda8-63fb82c911eb'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -4360,7 +4257,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306266'&amp;EntityType='LinearSchedule'&amp;EntityId='44784a0e-78a2-4944-9154-6853bdf63467'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20250930113000 +0000" stop="20250930120000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep10 - EP10</title>
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep1 - EP10</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306270'&amp;EntityType='LinearSchedule'&amp;EntityId='e3a98674-7067-4e05-9959-06011195244a'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -4380,7 +4277,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306282'&amp;EntityType='LinearSchedule'&amp;EntityId='714a30c8-d49b-42ff-9e97-df0f384b14e8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20250930133000 +0000" stop="20250930140000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep18 - EP118</title>
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep1 - EP118</title>
 		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306286'&amp;EntityType='LinearSchedule'&amp;EntityId='b4c4a116-248f-46bd-8487-42a439522e8e'&amp;Width=1280&amp;Height=720" />
 	</programme>
