@@ -36,6 +36,10 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9268198'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
@@ -1190,6 +1194,16 @@
 		<title>No programme available now. Next broadcast on 3rd October, Friday 8.30pm. ONE Friday Fights 127</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 127 on 3rd October, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9315377'&amp;EntityType='LinearSchedule'&amp;EntityId='87ef8ae9-57f9-4b9c-a02e-6fa5eb5d2b39'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250929160000 +0000" stop="20250930160000 +0000">
+		<title>No Programme available now. Next Broadcast on 1st October, Wednesday 5.50pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Lion City Sailors FC vs Selangor FC on 1st October, Wednesday 5.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9293919'&amp;EntityType='LinearSchedule'&amp;EntityId='30f097ec-809f-4992-95f7-420e972084cd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20250930160000 +0000" stop="20251001095000 +0000">
+		<title>No Programme available now. Next Broadcast on 1st October, Wednesday 5.50pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Lion City Sailors FC vs Selangor FC on 1st October, Wednesday 5.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9302564'&amp;EntityType='LinearSchedule'&amp;EntityId='c0ecdee2-2a23-4d0b-8fd4-fccf0d4d35c3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20250929155048 +0000" stop="20250929180942 +0000">
 		<title>England v Colombia | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
@@ -3655,6 +3669,21 @@
 		<title>No programme available now. Next broadcast on 3rd October, Friday 8.30pm. ONE Friday Fights 127</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 127 on 3rd October, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9315420'&amp;EntityType='LinearSchedule'&amp;EntityId='153f1b0a-9f11-47d0-a9e2-6997bcc9eec8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251001095000 +0000" stop="20251001120000 +0000">
+		<title>AFC Champions League Two 2025/26: Lion City Sailors FC vs Selangor FC</title>
+		<desc>AFC Champions League Two 2025/26 will be the 22nd edition of Asia’s second-tier club football tournament. This season features 32 teams competing in a round-robin group stage format from September to December 2025 and the knock-out stage from February to May 2025, with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2026/27.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9302568'&amp;EntityType='LinearSchedule'&amp;EntityId='ce7bd15b-e825-408a-b17e-22298d8a0fae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251001120000 +0000" stop="20251001160000 +0000">
+		<title>No Programme available now. Next Broadcast on 2nd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs BG Pathum United on 2nd October, Thursday 5.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9302572'&amp;EntityType='LinearSchedule'&amp;EntityId='ffb6f84f-a7c9-463a-b6f7-2856f92b2df7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251001160000 +0000" stop="20251002095000 +0000">
+		<title>No Programme available now. Next Broadcast on 2nd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs BG Pathum United on 2nd October, Thursday 5.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9306780'&amp;EntityType='LinearSchedule'&amp;EntityId='553875a5-e4e7-4dce-9b46-9fbf4412c2d4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20250930161155 +0000" stop="20250930184839 +0000">
 		<title>Morocco v Colombia | Group H | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
