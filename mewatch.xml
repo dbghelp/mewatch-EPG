@@ -36,10 +36,6 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
@@ -1194,16 +1190,6 @@
 		<title>No programme available now. Next broadcast on 17th October, Friday 8.30pm. ONE Friday Fights 129</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 129 on 17th October, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9372962'&amp;EntityType='LinearSchedule'&amp;EntityId='4788294c-8def-468a-8d2d-c7c93fd8d86f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20251013160000 +0000" stop="20251014160000 +0000">
-		<title>No Programme available now. Next Broadcast on 23rd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs FC Pohang Steelers on 23rd October, Thursday 5.50pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9369266'&amp;EntityType='LinearSchedule'&amp;EntityId='3b38cf90-3f59-4eb9-b1ad-3154010e8b91'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20251014160000 +0000" stop="20251015160000 +0000">
-		<title>No Programme available now. Next Broadcast on 23rd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs FC Pohang Steelers on 23rd October, Thursday 5.50pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9373328'&amp;EntityType='LinearSchedule'&amp;EntityId='31b4fd29-557c-49b0-8ceb-4bc05a8aacb0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251013153858 +0000" stop="20251013161825 +0000">
 		<title>FACTS: Brazil v Italy | USA 94</title>
@@ -3654,11 +3640,6 @@
 		<title>No programme available now. Next broadcast on 17th October, Friday 8.30pm. ONE Friday Fights 129</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 129 on 17th October, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9379912'&amp;EntityType='LinearSchedule'&amp;EntityId='2cc31353-9b1c-4d3c-a34e-1e7a98bb6588'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20251015160000 +0000" stop="20251016160000 +0000">
-		<title>No Programme available now. Next Broadcast on 23rd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs FC Pohang Steelers on 23rd October, Thursday 5.50pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9380322'&amp;EntityType='LinearSchedule'&amp;EntityId='81a60bad-7457-4d98-84f0-f201b88e1f46'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251014174940 +0000" stop="20251014194423 +0000">
 		<title>France v Belgium | Semi-finals | 2018 FIFA World Cup Russia™ | Full Match Replay</title>
