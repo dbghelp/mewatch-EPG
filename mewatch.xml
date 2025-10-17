@@ -28,6 +28,10 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
+	<channel id="98201">
+		<display-name>SPL CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -984,7 +988,7 @@
 	<programme channel="98200" start="20251016160000 +0000" stop="20251017112000 +0000">
 		<title>No Programme available now. Next Broadcast on 17th October, Friday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Hougang United FC vs Albirex Niigata FC (S) on 17th October, Friday 7.20pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9385282'&amp;EntityType='LinearSchedule'&amp;EntityId='40917117-7951-4e9b-87d0-ed98d315324e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9432876'&amp;EntityType='LinearSchedule'&amp;EntityId='40917117-7951-4e9b-87d0-ed98d315324e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20251017112000 +0000" stop="20251017133000 +0000">
 		<title>Singapore Premier League 2025/2026: Hougang United FC vs Albirex Niigata FC S</title>
@@ -994,12 +998,22 @@
 	<programme channel="98200" start="20251017133000 +0000" stop="20251017160000 +0000">
 		<title>No Programme available now. Next Broadcast on 18th October, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Geylang International FC vs Tanjong Pagar United FC on 18th October, Saturday 7.20pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9385304'&amp;EntityType='LinearSchedule'&amp;EntityId='ef07ede9-7b07-4fcb-b462-e65b7bd4e768'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9432880'&amp;EntityType='LinearSchedule'&amp;EntityId='ef07ede9-7b07-4fcb-b462-e65b7bd4e768'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20251017160000 +0000" stop="20251018112000 +0000">
 		<title>No Programme available now. Next Broadcast on 18th October, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Geylang International FC vs Tanjong Pagar United FC on 18th October, Saturday 7.20pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9390835'&amp;EntityType='LinearSchedule'&amp;EntityId='2c943dda-8dfc-4555-b741-d3dfddba3be2'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9432884'&amp;EntityType='LinearSchedule'&amp;EntityId='2c943dda-8dfc-4555-b741-d3dfddba3be2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20251016160000 +0000" stop="20251017160000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th October, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs Young Lions on 18th October, Saturday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9431014'&amp;EntityType='LinearSchedule'&amp;EntityId='5af33c9f-9a02-4c58-81cb-12bf146315e4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20251017160000 +0000" stop="20251018112000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th October, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs Young Lions on 18th October, Saturday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9431018'&amp;EntityType='LinearSchedule'&amp;EntityId='7b99e8e7-d79b-4ad7-a443-c882b4e5b200'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20251016160000 +0000" stop="20251017110000 +0000">
 		<title>No programme available now. Next broadcast on 17th October, Friday 7pm. The Wonder Shop Home Shopping</title>
@@ -3479,12 +3493,27 @@
 	<programme channel="98200" start="20251018133000 +0000" stop="20251018160000 +0000">
 		<title>No Programme available now. Next Broadcast on 19th October, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: BG Tampines Rovers FC vs Balestier Khalsa FC on 19th October, Sunday 7.20pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9390868'&amp;EntityType='LinearSchedule'&amp;EntityId='998e92c2-baae-4fae-aafe-0f01add20c24'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9432888'&amp;EntityType='LinearSchedule'&amp;EntityId='998e92c2-baae-4fae-aafe-0f01add20c24'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20251018160000 +0000" stop="20251019112000 +0000">
 		<title>No Programme available now. Next Broadcast on 19th October, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: BG Tampines Rovers FC vs Balestier Khalsa FC on 19th October, Sunday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9394852'&amp;EntityType='LinearSchedule'&amp;EntityId='53efe5e2-0285-4ccf-8315-3302d20e9cf6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20251018112000 +0000" stop="20251018133000 +0000">
+		<title>Singapore Premier League 2025/2026: Lion City Sailors FC vs Young Lions</title>
+		<desc>The Singapore Premier League 2025-2026 is the 8th season of the Singapore Premier League. A total of eight teams are taking part in a triple round-robin format. Will Lion City Sailors continue to defend their champion title, having won the 2024 edition or will another club be crowned as the new champion?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9390911'&amp;EntityType='LinearSchedule'&amp;EntityId='ba7f2c85-618d-49b6-89c0-c5478bbdf44c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20251018133000 +0000" stop="20251018160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9431022'&amp;EntityType='LinearSchedule'&amp;EntityId='35ae9df5-bd43-4951-9122-63e5a822c23c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20251018160000 +0000" stop="20251019160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9431145'&amp;EntityType='LinearSchedule'&amp;EntityId='362e0057-f5a8-4a8c-893e-61faeff0736c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20251018110000 +0000" stop="20251018111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Health+ Ellip Glider</title>
@@ -3584,12 +3613,12 @@
 	<programme channel="557763" start="20251017201615 +0000" stop="20251017220608 +0000">
 		<title>Bulgaria v Italy | Semi-finals | 1994 FIFA World Cup USA™ | Full Match Replay</title>
 		<desc>Watch the full match replay between Bulgaria and Italy played at Giants Stadium, New York on Wednesday, 13 July 1994 at 16:00 (local time).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9432224'&amp;EntityType='LinearSchedule'&amp;EntityId='c67efa99-bf77-4653-a12c-2d95ff93316c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9433020'&amp;EntityType='LinearSchedule'&amp;EntityId='436ae4da-5ff6-409a-909c-49a05aa1830f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251017220608 +0000" stop="20251018003043 +0000">
 		<title>Italy v Germany FR | Semi-finals | 1970 FIFA World Cup Mexico™ | Full Match Replay</title>
 		<desc>Watch the full match replay between Italy and Germany FR played at Estadio Azteca, Mexico City on Wednesday, 17 June 1970 at 16:00 (local time).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9432228'&amp;EntityType='LinearSchedule'&amp;EntityId='47447781-9fb7-46a1-bf3c-abd6f91ed516'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9433024'&amp;EntityType='LinearSchedule'&amp;EntityId='92a75c41-04ed-42b0-8451-85d6dafc2e90'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251018003043 +0000" stop="20251018004952 +0000">
 		<title>FIFA U-20 World Cup Chile 2025™ - Highlights Quarter-Finals</title>
