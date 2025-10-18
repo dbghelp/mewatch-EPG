@@ -28,10 +28,6 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
-	<channel id="98201">
-		<display-name>SPL CH02</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
-	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -1119,16 +1115,6 @@
 		<title>No Programme available now. Next Broadcast on 24th October, Friday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Balestier Khalsa FC vs Tanjong Pagar United FC on 24th October, Friday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9433126'&amp;EntityType='LinearSchedule'&amp;EntityId='ddd8558a-1eda-4776-a913-ab63ac30acf2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20251018160000 +0000" stop="20251019160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9431145'&amp;EntityType='LinearSchedule'&amp;EntityId='362e0057-f5a8-4a8c-893e-61faeff0736c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20251019160000 +0000" stop="20251020160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9431149'&amp;EntityType='LinearSchedule'&amp;EntityId='a35e9eef-da24-45a3-bc91-3399cefdadb6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20251018160000 +0000" stop="20251019110000 +0000">
 		<title>No programme available now. Next broadcast on 19th October, Sunday 7pm. The Wonder Shop Home Shopping</title>
@@ -3424,11 +3410,6 @@
 		<title>No Programme available now. Next Broadcast on 24th October, Friday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Balestier Khalsa FC vs Tanjong Pagar United FC on 24th October, Friday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9433130'&amp;EntityType='LinearSchedule'&amp;EntityId='9b2ed131-a05a-44c4-916a-61e5a4f27a2a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20251020160000 +0000" stop="20251021160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9431153'&amp;EntityType='LinearSchedule'&amp;EntityId='825dbc44-a7d1-4b8c-ad09-ed0db2372b47'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20251020110000 +0000" stop="20251020111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Philips Azur Steam Iron</title>
