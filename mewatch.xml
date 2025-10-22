@@ -36,6 +36,14 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
@@ -1240,6 +1248,26 @@
 		<title>No programme available now. Next broadcast on 24th October, Friday 8.30pm. ONE Friday Fights 130</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 130 on 24th October, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9416514'&amp;EntityType='LinearSchedule'&amp;EntityId='2f95303c-05bd-4dce-8bc0-2904ae48b82d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251021160000 +0000" stop="20251022160000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd October, Thursday 5.50pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs FC Pohang Steelers on 23rd October, Thursday 5.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9409375'&amp;EntityType='LinearSchedule'&amp;EntityId='e6143168-b300-4e1a-bd31-b96e7248846e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251022160000 +0000" stop="20251023095000 +0000">
+		<title>No programme available now. 现在没有节目</title>
+		<desc>There are currently no programmes on this channel! Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9458773'&amp;EntityType='LinearSchedule'&amp;EntityId='cfa87527-2ff7-4f8c-8ec6-91e0111cd750'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251021160000 +0000" stop="20251022160000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd October, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2025/26: Bangkok United vs Lion City Sailors FC on 23rd October, Thursday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9409389'&amp;EntityType='LinearSchedule'&amp;EntityId='e0736906-f8bb-4f23-9d07-f9574c2aa3a9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251022160000 +0000" stop="20251023120500 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd October, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2025/26: Bangkok United vs Lion City Sailors FC on 23rd October, Thursday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9416880'&amp;EntityType='LinearSchedule'&amp;EntityId='bbe13e4e-4484-4392-91a6-04dd3ec7844e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251021155000 +0000" stop="20251021171932 +0000">
 		<title>LIVE - Costa Rica v Brazil | Group A | FIFA U-17 Women's World Cup Morocco 2025™</title>
@@ -3680,6 +3708,36 @@
 		<title>No programme available now. Next broadcast on 24th October, Friday 8.30pm. ONE Friday Fights 130</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 130 on 24th October, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9424697'&amp;EntityType='LinearSchedule'&amp;EntityId='f3233384-a10d-49a9-bbb4-2245ce94a7a1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251023095000 +0000" stop="20251023120000 +0000">
+		<title>AFC Champions League Two 2025/26: BG Tampines Rovers FC vs FC Pohang Steelers</title>
+		<desc>AFC Champions League Two 2025/26 will be the 22nd edition of Asia’s second-tier club football tournament. This season features 32 teams competing in a round-robin group stage format from September to December 2025 and the knock-out stage from February to May 2025, with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2026/27.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9416886'&amp;EntityType='LinearSchedule'&amp;EntityId='2bba4edd-96d5-4748-9b2c-356a78d2dbbe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251023120000 +0000" stop="20251023160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26: Arsenal vs Brighton on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9416894'&amp;EntityType='LinearSchedule'&amp;EntityId='a05363b5-b5a6-4283-bbdc-75c03a4b2964'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251023160000 +0000" stop="20251024160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26: Arsenal vs Brighton on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9425046'&amp;EntityType='LinearSchedule'&amp;EntityId='7fa88b14-04ba-49c5-a229-c33b049dad71'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251023120500 +0000" stop="20251023141500 +0000">
+		<title>AFC Champions League Two 2025/26: Bangkok United vs Lion City Sailors FC</title>
+		<desc>AFC Champions League Two 2025/26 will be the 22nd edition of Asia’s second-tier club football tournament. This season features 32 teams competing in a round-robin group stage format from September to December 2025 and the knock-out stage from February to May 2025, with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2026/27.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9416902'&amp;EntityType='LinearSchedule'&amp;EntityId='9e6fcaac-dad9-47a4-9eeb-8ff9af30dc61'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251023141500 +0000" stop="20251023160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the Carabao Cup 2025/26: Liverpool vs Crystal Palace on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9416906'&amp;EntityType='LinearSchedule'&amp;EntityId='297f6587-436b-4fdd-b88e-013d182d3cfc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251023160000 +0000" stop="20251024160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the Carabao Cup 2025/26: Liverpool vs Crystal Palace on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9425062'&amp;EntityType='LinearSchedule'&amp;EntityId='a9b2d7cc-0d9c-482f-b07e-4e81f5e2d935'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251022173225 +0000" stop="20251022182713 +0000">
 		<title>U-20 FWWC 2024 - All Goals</title>
