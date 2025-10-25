@@ -28,6 +28,10 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
+	<channel id="98201">
+		<display-name>SPL CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -1056,6 +1060,16 @@
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs Albirex Niigata FC (S) on 27th October, Monday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9444874'&amp;EntityType='LinearSchedule'&amp;EntityId='c7464960-e088-4718-832d-4bb1fdb88e1c'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98201" start="20251025160000 +0000" stop="20251026160000 +0000">
+		<title>No Programme available now. Next Broadcast on 27th October, Monday 7.20pm. Singapore Premier League 2025/2028</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Hougang United FC vs BG Tampines Rovers FC on 27th October, Monday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9437658'&amp;EntityType='LinearSchedule'&amp;EntityId='3fbd1a5a-f69b-4786-a8ea-2196a7f303f0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20251026160000 +0000" stop="20251027112000 +0000">
+		<title>No Programme available now. Next Broadcast on 27th October, Monday 7.20pm. Singapore Premier League 2025/2029</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Hougang United FC vs BG Tampines Rovers FC on 27th October, Monday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9444887'&amp;EntityType='LinearSchedule'&amp;EntityId='ab05d2e9-8115-411a-bf84-f532069b267b'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97073" start="20251025160000 +0000" stop="20251026110000 +0000">
 		<title>No programme available now. Next broadcast on 26th October, Sunday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 26th October, Sunday 7pm. Please stay tuned!</desc>
@@ -1153,7 +1167,7 @@
 	</programme>
 	<programme channel="557763" start="20251025160457 +0000" stop="20251025173631 +0000">
 		<title>LIVE - Canada v France | Group D | FIFA U-17 Women's World Cup Morocco 2025™</title>
-		<desc>Watch the match between Canada and France played at Football Academy Mohammed VI (Pitch 3), Salé on Saturday, 25 October 2025 at 17:00 (local time).</desc>
+		<desc>Watch the match between Canada and France played at Football Academy Mohammed VI.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9452971'&amp;EntityType='LinearSchedule'&amp;EntityId='78ef7e18-9b1b-4ccc-aedf-6b4c1cc2e435'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251025173631 +0000" stop="20251025181813 +0000">
@@ -1173,47 +1187,47 @@
 	</programme>
 	<programme channel="557763" start="20251025185658 +0000" stop="20251025204747 +0000">
 		<title>LIVE - New Zealand v Zambia | Group F | FIFA U-17 Women's World Cup Morocco 2025™</title>
-		<desc>Watch the match between New Zealand and Zambia played at Football Academy Mohammed VI (Pitch 2), Salé on Saturday, 25 October 2025 at 20:00 (local time).</desc>
+		<desc>Watch the match between New Zealand and Zambia played at Football Academy Mohammed VI.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9452987'&amp;EntityType='LinearSchedule'&amp;EntityId='a90a744e-c341-42b8-a1c2-d6108db4d864'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251025204747 +0000" stop="20251025224143 +0000">
 		<title>Brazil v Colombia | Quarter-finals | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Brazil and Colombia played at Estádio Castelão, Fortaleza on Friday, 04 July 2014.</desc>
+		<desc>Watch the full match replay from the match between Brazil and Colombia</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9452991'&amp;EntityType='LinearSchedule'&amp;EntityId='a9364d9e-fff6-4f82-8720-0bb0a9ef0338'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251025224143 +0000" stop="20251026003534 +0000">
 		<title>Uruguay v Netherlands | Semi-finals | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Uruguay and Netherlands played at Cape Town Stadium, Cape Town on Tuesday, 06 July 2010.</desc>
+		<desc>Watch the full match replay from the match between Uruguay and Netherlands</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9452995'&amp;EntityType='LinearSchedule'&amp;EntityId='9fc36bb5-d047-4f8b-9b28-a5c1fb337572'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251026003534 +0000" stop="20251026022548 +0000">
 		<title>England v France | Group Matches | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between England and France played at Wembley Stadium, London on Wednesday, 20 July 1966.</desc>
+		<desc>Watch the full match replay between England and France played at Wembley Stadium, London.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9458324'&amp;EntityType='LinearSchedule'&amp;EntityId='9288ff51-5c28-4a99-b781-702cd0e0cdd0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251026022548 +0000" stop="20251026045348 +0000">
 		<title>Germany FR v England | Semi-finals | 1990 FIFA World Cup Italy™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany FR and England played at Stadio delle Alpi, Turin on Wednesday, 4 July 1990 at 20:00 (local time).</desc>
+		<desc>Watch the match between Germany FR and England. Stadio delle Alpi, Turin.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9458328'&amp;EntityType='LinearSchedule'&amp;EntityId='96ee8ac3-907e-40fc-8b5c-28bc3b9252e0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251026045348 +0000" stop="20251026073057 +0000">
 		<title>Brazil v Netherlands | Semi-finals | 1998 FIFA World Cup France™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and Netherlands played at Stade Vélodrome, Marseille on Tuesday, 07 July 1998.</desc>
+		<desc>Watch the match between Brazil and Netherlands. Stade Vélodrome, Marseille.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9458332'&amp;EntityType='LinearSchedule'&amp;EntityId='c585578a-cb2a-427e-9fa0-727cada0fa58'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251026073057 +0000" stop="20251026101055 +0000">
 		<title>Romania v Sweden | Quarter-finals | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Romania and Sweden played at Stanford Stadium, San Francisco on Sunday, 10 July 1994 at 12:30 (local time).</desc>
+		<desc>Watch the full match replay between Romania and Sweden played at Stanford Stadium, San Francisco.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9458336'&amp;EntityType='LinearSchedule'&amp;EntityId='721208e4-7b9f-4eaa-8839-2d4e2baa5f42'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251026101055 +0000" stop="20251026122022 +0000">
 		<title>Switzerland v Spain | Round of 16 | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Switzerland and Spain played at Eden Park, Auckland / Tāmaki Makaurau on Saturday, August 5, 2023 at 5:00 PM (local time).</desc>
+		<desc>Watch the full match replay between Switzerland and Spain at Eden Park, Auckland.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9458340'&amp;EntityType='LinearSchedule'&amp;EntityId='2aa5a859-2883-4b69-945e-c3a2f0d961d1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251026122022 +0000" stop="20251026142945 +0000">
 		<title>Colombia v Spain | Final | FIFA U-17 Women's World Cup India 2022™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Colombia and Spain played in the FIFA U-17 Women's World Cup India 2022™.</desc>
+		<desc>Watch the full match replay between Colombia and Spain, the 2022 U-17 WWC Final in India.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9458344'&amp;EntityType='LinearSchedule'&amp;EntityId='8b18a45b-98ad-431a-8580-57c49803cd78'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251026142945 +0000" stop="20251026144726 +0000">
@@ -1228,7 +1242,7 @@
 	</programme>
 	<programme channel="557763" start="20251026150721 +0000" stop="20251026160137 +0000">
 		<title>All FIFA World Cup™ Direct Red Cards (1974-2022)</title>
-		<desc>Not all of it is about goals and assists: relive each of the straight red cards in the FIFA World Cup (1974-2022).</desc>
+		<desc>Not all of it is about goals and assists: relive each of the straight red cards in the FIFA World Cup.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9479078'&amp;EntityType='LinearSchedule'&amp;EntityId='ce614e01-2f8d-479f-88bf-d8fe51773e63'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251025150000 +0000" stop="20251025170000 +0000">
@@ -3435,6 +3449,21 @@
 		<title>No programmes streaming LIVE at this moment</title>
 		<desc>There are currently no programmes on this channel.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9450368'&amp;EntityType='LinearSchedule'&amp;EntityId='92b00daf-794a-41d6-a483-987f92bbec9d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20251027112000 +0000" stop="20251027133000 +0000">
+		<title>Singapore Premier League 2025/2026: Hougang United FC vs BG Tampines Rovers FC</title>
+		<desc>The Singapore Premier League 2025-2026 is the 8th season of the Singapore Premier League. A total of eight teams are taking part in a triple round-robin format. Will Lion City Sailors continue to defend their champion title, having won the 2024 edition or will another club be crowned as the new champion?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9489004'&amp;EntityType='LinearSchedule'&amp;EntityId='20db8377-fe59-4359-bced-026cf2bc9702'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20251027133000 +0000" stop="20251027160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9489008'&amp;EntityType='LinearSchedule'&amp;EntityId='c3b65ea5-c699-4844-a703-3a1220093900'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20251027160000 +0000" stop="20251028160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9450388'&amp;EntityType='LinearSchedule'&amp;EntityId='5deb9da4-48f1-42ec-8373-6241555dc9d1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20251027110000 +0000" stop="20251027111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Comvita Honey</title>
