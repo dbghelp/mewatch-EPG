@@ -40,6 +40,22 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
+	<channel id="497989">
+		<display-name>LIVE 7</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
+	</channel>
+	<channel id="554063">
+		<display-name>LIVE 8</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9530109'&amp;EntityType='Item'&amp;EntityId='554063'&amp;Width=587&amp;Height=250" />
+	</channel>
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
@@ -1195,6 +1211,46 @@
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 131 on 31st October, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9453503'&amp;EntityType='LinearSchedule'&amp;EntityId='18197a48-330e-4fb1-a955-fba366705593'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98202" start="20251027160000 +0000" stop="20251028160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26: Arsenal vs Brighton on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9450384'&amp;EntityType='LinearSchedule'&amp;EntityId='b135892a-4ebc-411d-bcae-86c19e989b02'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251028160000 +0000" stop="20251029160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26: Arsenal vs Brighton on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9453890'&amp;EntityType='LinearSchedule'&amp;EntityId='2e3218f6-eb1d-403a-b4f7-d34a984eabeb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251027160000 +0000" stop="20251028160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the Carabao Cup 2025/26: Liverpool vs Crystal Palace on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9450397'&amp;EntityType='LinearSchedule'&amp;EntityId='67ae062e-bbe2-46af-8253-72810ae54be8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251028160000 +0000" stop="20251029160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the Carabao Cup 2025/26: Liverpool vs Crystal Palace on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9453894'&amp;EntityType='LinearSchedule'&amp;EntityId='6d3258d9-7ff7-4d34-b351-ce47b43dcef2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20251027160000 +0000" stop="20251028160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 7 will commence broadcast of the Carabao Cup 2025/26: Swansea vs Manchester City on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9451417'&amp;EntityType='LinearSchedule'&amp;EntityId='f39f7c3c-7114-4f15-b66f-8f152539f8b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20251028160000 +0000" stop="20251029160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 7 will commence broadcast of the Carabao Cup 2025/26: Swansea vs Manchester City on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9455131'&amp;EntityType='LinearSchedule'&amp;EntityId='27ee3ce2-566d-4419-ac0d-f1b5d22a9cc9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="554063" start="20251027160000 +0000" stop="20251028160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.52am. Carabao Cup 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26: Newcastle vs Tottenham on 30th October, Thursday 3.52am. Please stay tuned!</desc>
+		<icon src="N/A" />
+	</programme>
+	<programme channel="554063" start="20251028160000 +0000" stop="20251029160000 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.52am. Carabao Cup 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26: Newcastle vs Tottenham on 30th October, Thursday 3.52am. Please stay tuned!</desc>
+		<icon src="N/A" />
+	</programme>
 	<programme channel="557763" start="20251027150728 +0000" stop="20251027174727 +0000">
 		<title>Romania v Sweden | Quarter-finals | 1994 FIFA World Cup USA™ | Full Match Replay</title>
 		<desc>Watch the full match replay between Romania and Sweden played at Stanford Stadium, San Francisco.</desc>
@@ -1202,103 +1258,103 @@
 	</programme>
 	<programme channel="557763" start="20251027174727 +0000" stop="20251027202725 +0000">
 		<title>Romania v Sweden | Quarter-finals | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Romania and Sweden played at Stanford Stadium, San Francisco on Sunday, 10 July 1994 at 12:30 (local time).</desc>
+		<desc>Watch the full match replay between Romania and Sweden played at Stanford Stadium, San Francisco.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9504442'&amp;EntityType='LinearSchedule'&amp;EntityId='f8fb3a14-9953-4738-90ab-09688dc6900c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251027202725 +0000" stop="20251027230723 +0000">
 		<title>Romania v Sweden | Quarter-finals | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Romania and Sweden played at Stanford Stadium, San Francisco on Sunday, 10 July 1994 at 12:30 (local time).</desc>
+		<desc>Watch the full match replay between Romania and Sweden played at Stanford Stadium, San Francisco.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9504446'&amp;EntityType='LinearSchedule'&amp;EntityId='d37909d9-d50e-4ba7-b6fa-5a94a3cf650e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251027230723 +0000" stop="20251027233446 +0000">
 		<title>Hristo Stoichkov | Voices</title>
-		<desc>A Ballon d'Or winner and Bulgaria's miracle at USA '94. Hristo Stoichkov sharing an unforgettable journey through an up-close narrative.</desc>
+		<desc>Hristo Stoichkov recounts Bulgaria’s miracle at USA '94 in a unique narrative journey.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9504450'&amp;EntityType='LinearSchedule'&amp;EntityId='7a4a4302-87f1-44e0-beb3-099c81a1a965'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251027233446 +0000" stop="20251028000000 +0000">
+	<programme channel="557763" start="20251027233446 +0000" stop="20251028021444 +0000">
 		<title>Romania v Sweden | Quarter-finals | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Romania and Sweden played at Stanford Stadium, San Francisco on Sunday, 10 July 1994 at 12:30 (local time).</desc>
+		<desc>Watch the full match replay between Romania and Sweden played at Stanford Stadium, San Francisco.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9504454'&amp;EntityType='LinearSchedule'&amp;EntityId='fb800b9e-3436-4c4c-a81d-5bc41ad80697'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028000000 +0000" stop="20251028021854 +0000">
-		<title>England v Colombia | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Colombia played at Stadium Australia, Sydney / Wangal on Saturday, August 12, 2023 at 8:30 PM (local time).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529460'&amp;EntityType='LinearSchedule'&amp;EntityId='72766170-389a-44db-9f6a-ca92e079ae4a'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028021444 +0000" stop="20251028025417 +0000">
+		<title>FACTS: Germany v Brazil | Korea/Japan 2002</title>
+		<desc>Germany dazzles to secure a record fourth title against Brazil in Yokohama.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529634'&amp;EntityType='LinearSchedule'&amp;EntityId='28b5b36e-8433-4461-8cf8-573961327038'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028021854 +0000" stop="20251028024403 +0000">
-		<title>The Queens | Queen of WE</title>
-		<desc>We follow INAC Kobe's action packed and emotionally charged journey through the highs and lows, all the way to the top, where they are ultimately crowned WE League champions.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529464'&amp;EntityType='LinearSchedule'&amp;EntityId='2b9be884-fc5f-4ee1-8c3d-6f184a42eb6a'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028025417 +0000" stop="20251028032140 +0000">
+		<title>Hristo Stoichkov | Voices</title>
+		<desc>Hristo Stoichkov recounts Bulgaria’s miracle at USA '94 in a unique narrative journey.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529638'&amp;EntityType='LinearSchedule'&amp;EntityId='f2a1a9b4-36a5-488e-a1ab-d939e76e16fe'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028024403 +0000" stop="20251028030348 +0000">
-		<title>Player Stories II</title>
-		<desc>From the daughter of an All Blacks coach to a former sprinter, the FIFA Women's World Cup 2023™ was full of footballers with great stories.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529468'&amp;EntityType='LinearSchedule'&amp;EntityId='0a31bc03-206b-4e91-a7ec-6af6a8e72298'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028032140 +0000" stop="20251028034712 +0000">
+		<title>Hwang Hee-Chan | Life in GB</title>
+		<desc>Hwang Hee-Chan for a day, as he learns to adjust to a new life in Wolverhampton, England.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529642'&amp;EntityType='LinearSchedule'&amp;EntityId='14847cff-b710-4d1d-aabf-6e502e86fdfe'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028030348 +0000" stop="20251028045404 +0000">
-		<title>Sweden v England | Group B | 2006 FIFA World Cup Germany™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Sweden and England played at RheinEnergieStadion, Cologne on Tuesday, 20 June 2006.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529472'&amp;EntityType='LinearSchedule'&amp;EntityId='bdcb9e07-acb2-495e-8a81-5d771bf666f7'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028034712 +0000" stop="20251028041325 +0000">
+		<title>FIFA U-17 Women's World Cup Morocco 2025™ - Highlights Bundle</title>
+		<desc>Watch the latest highlights from the FIFA U-17 Women's World Cup Morocco 2025™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9529646'&amp;EntityType='LinearSchedule'&amp;EntityId='ffab4905-5f33-4198-95f9-da96389d3607'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028045404 +0000" stop="20251028064406 +0000">
-		<title>USA v Japan | Final | FIFA Women's World Cup Canada 2015™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Japan played at BC Place Stadium, Vancouver on Sunday, 05 July 2015 at 16:00.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529476'&amp;EntityType='LinearSchedule'&amp;EntityId='050f3ab7-7200-4002-a604-87c06b524d6f'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028041325 +0000" stop="20251028043718 +0000">
+		<title>Sergio Goycochea | Discovering</title>
+		<desc>Goycochea's importance in Argentina's 1990 World Cup campaign cannot be understated.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529650'&amp;EntityType='LinearSchedule'&amp;EntityId='7ca527aa-aa42-4abc-af75-6e4eade9dae1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028064406 +0000" stop="20251028083415 +0000">
-		<title>Netherlands v Croatia | Play-off for third place | 1998 FIFA World Cup France™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Netherlands and Croatia played at Parc des Princes, Paris on Saturday, 11 July 1998.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529480'&amp;EntityType='LinearSchedule'&amp;EntityId='251666ee-1198-446a-973b-49e11f94c924'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028043718 +0000" stop="20251028063418 +0000">
+		<title>England v Egypt | Group Matches | 1990 FIFA World Cup Italy™ | Full Match Replay</title>
+		<desc>Watch the full match replay between England and Egypt played at Stadio Sant'Elia, Cagliari.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529654'&amp;EntityType='LinearSchedule'&amp;EntityId='cec798ba-0377-4eb6-af63-d405af1315c1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028083415 +0000" stop="20251028102848 +0000">
-		<title>Poland v USA | Group D | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Poland and USA played at Daejeon World Cup Stadium, Daejeon on Friday, 14 June 2002.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529484'&amp;EntityType='LinearSchedule'&amp;EntityId='7a73cd4c-f7ee-4103-9d21-3fbc620d179b'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028063418 +0000" stop="20251028071539 +0000">
+		<title>World Champions: France 1998</title>
+		<desc>The iconic home soil triumph of France at the 1998 FIFA World Cup™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529658'&amp;EntityType='LinearSchedule'&amp;EntityId='d3265dc9-e2ad-4680-88cc-819e32805761'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028102848 +0000" stop="20251028122340 +0000">
-		<title>TP Mazembe v Inter | Final | FIFA Club World Cup UAE 2010™ | Full Match Replay</title>
-		<desc>The now called FIFA Intercontinental Cup final full match replay between TP Mazembe and Inter played at Zayed Sports Stadium, Abu Dhabi, on 19 December 2010.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529488'&amp;EntityType='LinearSchedule'&amp;EntityId='2329d2a8-9fce-45fe-be2d-c478ebb713ed'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028071539 +0000" stop="20251028085230 +0000">
+		<title>Sweden v Norway | Semi-finals | FIFA Women's World Cup China PR 1991™ | Full Match Replay</title>
+		<desc>Watch the full match replay between Sweden and Norway played at Ying Dong Stadium, Panyu.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529662'&amp;EntityType='LinearSchedule'&amp;EntityId='861c4d90-24fb-4e8f-a379-bd0cb6118e84'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028122340 +0000" stop="20251028125409 +0000">
-		<title>Epic Showdowns: Brazil v Netherlands</title>
-		<desc>Relive the intense clashes between Brazil and the Netherlands in the 1994 and 2010 FIFA World Cups.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9529492'&amp;EntityType='LinearSchedule'&amp;EntityId='5a9744c4-0cf8-403f-9133-fa5c2a466707'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028085230 +0000" stop="20251028111933 +0000">
+		<title>France v Morocco | Round of 16 | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
+		<desc>Watch the full match replay between France and Morocco at Hindmarsh Stadium, Adelaide.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529666'&amp;EntityType='LinearSchedule'&amp;EntityId='96eab622-fe52-42fd-a8b7-84fdb1618557'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028125409 +0000" stop="20251028132444 +0000">
-		<title>Australia's Memorable Matches in the FIFA World Cup™</title>
-		<desc>Enjoy Australia's victory against Japan in Germany 2006™ and the draw against the Netherlands in Brazil 2014™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9529496'&amp;EntityType='LinearSchedule'&amp;EntityId='604ca817-d25c-4bfe-b4f0-9c24a6d20aaf'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028111933 +0000" stop="20251028113755 +0000">
+		<title>FIFA U-17 Women's World Cup Dominican Republic 2024™ Quarter finals to Final Highlights</title>
+		<desc>Enjoy the highlights from the U-17 Women's World Cup played in Dominican Republic</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529670'&amp;EntityType='LinearSchedule'&amp;EntityId='46c57d09-cba3-4b61-815f-e9798a2349cb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028132444 +0000" stop="20251028134958 +0000">
-		<title>FIFA World Cup™ Opening Matches</title>
-		<desc>Relive China PR against Norway in the FIFA Women's World Cup China 1991™ and Russia against Saudi Arabia in the FIFA World Cup Russia 2018™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9529500'&amp;EntityType='LinearSchedule'&amp;EntityId='653e397a-dfea-44ea-a784-f4ee90a8af96'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028113755 +0000" stop="20251028120931 +0000">
+		<title>The Best of FIFA Word Cup Qatar 2022</title>
+		<desc>Relive the best moments of the FIFA Word Cup Qatar 2022</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529674'&amp;EntityType='LinearSchedule'&amp;EntityId='242c16a4-15b3-4d6e-a039-f07ebc535040'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028134958 +0000" stop="20251028141915 +0000">
-		<title>A LOOK BACK: FIFA Women's World Cup USA 1999™</title>
-		<desc>USA Highlights in the FIFA Women's World Cup USA 1999™</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529504'&amp;EntityType='LinearSchedule'&amp;EntityId='89f8ce5c-807c-4007-9161-a675d4bb6b45'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028120931 +0000" stop="20251028124749 +0000">
+		<title>World Champions: France 2018</title>
+		<desc>The glorious victory of France at the 2018 FIFA World Cup™ in Russia.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529678'&amp;EntityType='LinearSchedule'&amp;EntityId='5c5a0f24-99f7-41bd-9398-f07bd7cec447'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028141915 +0000" stop="20251028145846 +0000">
-		<title>FACTS: Italy v France | Germany 2006</title>
-		<desc>Italy vs Zidane's France drama explained.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529508'&amp;EntityType='LinearSchedule'&amp;EntityId='a25fef3b-2640-4eaa-80ca-9ee9892122c2'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028124749 +0000" stop="20251028142336 +0000">
+		<title>La Coupe de la Gloire | The Official Film of the 1998 FIFA World Cup™</title>
+		<desc>Enjoy the fascinating story of the 1998 tournament</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529682'&amp;EntityType='LinearSchedule'&amp;EntityId='d6ebbfad-89c0-42d4-9781-1ca6093c681a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028145846 +0000" stop="20251028151950 +0000">
-		<title>Roger Milla | Discovering</title>
-		<desc>Before Weah, before Drogba, before Eto'o. A World Cup legend and one of the best African strikers of all time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529512'&amp;EntityType='LinearSchedule'&amp;EntityId='37b571fd-bc11-455c-90f0-3371efdecc34'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028142336 +0000" stop="20251028145317 +0000">
+		<title>Vicente Del Bosque | Voices</title>
+		<desc>The mastermind behind Spain’s FIFA World Cup triumph shares his personal story.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529686'&amp;EntityType='LinearSchedule'&amp;EntityId='0824db9a-f509-4ba4-a7b0-e133482ccc23'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028151950 +0000" stop="20251028155048 +0000">
-		<title>Iceland | The Debut</title>
-		<desc>There is a first time for everything and a nation's first World Cup experience is hardly a forgettable one.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529516'&amp;EntityType='LinearSchedule'&amp;EntityId='c2673529-b9c7-4646-a017-f40af9793ec9'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028145317 +0000" stop="20251028153300 +0000">
+		<title>FACTS: Argentina v Netherlands | Argentina 1978</title>
+		<desc>Argentina outlasts the Netherlands in a fever-pitch showdown in Buenos Aires.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529690'&amp;EntityType='LinearSchedule'&amp;EntityId='07f4b73d-c766-4be8-9c13-d0b70af1e40c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028155048 +0000" stop="20251028180942 +0000">
-		<title>England v Colombia | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Colombia played at Stadium Australia, Sydney / Wangal on Saturday, August 12, 2023 at 8:30 PM (local time).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529520'&amp;EntityType='LinearSchedule'&amp;EntityId='29e71518-983c-4c3e-babd-b666b2525ff7'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028153300 +0000" stop="20251028172545 +0000">
+		<title>LIVE - Brasile - Cina, RP | Ottavi di finale | Coppa del Mondo Femminile FIFA U-17 Marocco 2025</title>
+		<desc>Guarda la partita tra Brasile e Cina, RP giocato al Stadio del principe ereditario Moulay Hassan.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529694'&amp;EntityType='LinearSchedule'&amp;EntityId='699f85b6-24f6-4e63-8f0a-0a613493ca8d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251027150000 +0000" stop="20251027170000 +0000">
 		<title>Frauen Bundesliga '25/26: SGS Essen v Hoffenheim</title>
@@ -3368,7 +3424,7 @@
 	<programme channel="97096" start="20251029140000 +0000" stop="20251029143000 +0000">
 		<title>Aah! - EP 1</title>
 		<desc>Chitra hears a haunting lullaby from a sealed hospital ward and turns to Aditya for answers. Together they step into a mystery that will test their fears and bind their paths in ways neither expects.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9453806'&amp;EntityType='LinearSchedule'&amp;EntityId='ce79d3d8-a2a0-4784-bb11-be2e7dec2b2b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529804'&amp;EntityType='LinearSchedule'&amp;EntityId='ce79d3d8-a2a0-4784-bb11-be2e7dec2b2b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20251029143000 +0000" stop="20251029150000 +0000">
 		<title>Yaar 2 - EP 3</title>
@@ -3655,110 +3711,135 @@
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 131 on 31st October, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9458874'&amp;EntityType='LinearSchedule'&amp;EntityId='dc55eff9-9f8b-488f-b462-4d7be53e4693'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028180942 +0000" stop="20251028183451 +0000">
-		<title>The Queens | Queen of WE</title>
-		<desc>We follow INAC Kobe's action packed and emotionally charged journey through the highs and lows, all the way to the top, where they are ultimately crowned WE League champions.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529524'&amp;EntityType='LinearSchedule'&amp;EntityId='b262edee-a2dd-44fd-b12e-10b01465f1b2'&amp;Width=1280&amp;Height=720" />
+	<programme channel="98202" start="20251029160000 +0000" stop="20251029193700 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26: Arsenal vs Brighton on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9459269'&amp;EntityType='LinearSchedule'&amp;EntityId='2f084251-21f7-4212-b1dc-29fb70d63906'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028183451 +0000" stop="20251028185437 +0000">
-		<title>Player Stories II</title>
-		<desc>From the daughter of an All Blacks coach to a former sprinter, the FIFA Women's World Cup 2023™ was full of footballers with great stories.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529528'&amp;EntityType='LinearSchedule'&amp;EntityId='56276ff0-6195-4f44-934b-a6e78b64e1b6'&amp;Width=1280&amp;Height=720" />
+	<programme channel="204746" start="20251029160000 +0000" stop="20251029193700 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the Carabao Cup 2025/26: Liverpool vs Crystal Palace on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9459303'&amp;EntityType='LinearSchedule'&amp;EntityId='5fc3a262-8790-43bd-a352-d2f7ca93e458'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028185437 +0000" stop="20251028204452 +0000">
-		<title>Sweden v England | Group B | 2006 FIFA World Cup Germany™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Sweden and England played at RheinEnergieStadion, Cologne on Tuesday, 20 June 2006.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529532'&amp;EntityType='LinearSchedule'&amp;EntityId='27399498-f7e7-44f0-b346-40bbe8085bca'&amp;Width=1280&amp;Height=720" />
+	<programme channel="497989" start="20251029160000 +0000" stop="20251029193700 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.37am. Carabao Cup 2025/26</title>
+		<desc>LIVE 7 will commence broadcast of the Carabao Cup 2025/26: Swansea vs Manchester City on 30th October, Thursday 3.37am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9460555'&amp;EntityType='LinearSchedule'&amp;EntityId='06896dac-9e8e-470f-9aa4-9557b09d241d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251028204452 +0000" stop="20251028223455 +0000">
-		<title>USA v Japan | Final | FIFA Women's World Cup Canada 2015™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Japan played at BC Place Stadium, Vancouver on Sunday, 05 July 2015 at 16:00.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529536'&amp;EntityType='LinearSchedule'&amp;EntityId='2ff80ade-f5d7-49ee-ba9c-90951e38768f'&amp;Width=1280&amp;Height=720" />
+	<programme channel="554063" start="20251029160000 +0000" stop="20251029195200 +0000">
+		<title>No Programme available now. Next Broadcast on 30th October, Thursday 3.52am. Carabao Cup 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26: Newcastle vs Tottenham on 30th October, Thursday 3.52am. Please stay tuned!</desc>
+		<icon src="N/A" />
 	</programme>
-	<programme channel="557763" start="20251028223455 +0000" stop="20251029000000 +0000">
-		<title>Netherlands v Croatia | Play-off for third place | 1998 FIFA World Cup France™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Netherlands and Croatia played at Parc des Princes, Paris on Saturday, 11 July 1998.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529540'&amp;EntityType='LinearSchedule'&amp;EntityId='dca8c8d4-592f-4b66-beeb-f4780e33f576'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028172545 +0000" stop="20251028180403 +0000">
+		<title>World Champions: France 2018</title>
+		<desc>The glorious victory of France at the 2018 FIFA World Cup™ in Russia.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529698'&amp;EntityType='LinearSchedule'&amp;EntityId='17ce9988-ab9a-4199-bad4-71426b3fcd57'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029000000 +0000" stop="20251029021854 +0000">
-		<title>England v Colombia | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Colombia played at Stadium Australia, Sydney / Wangal on Saturday, August 12, 2023 at 8:30 PM (local time).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529544'&amp;EntityType='LinearSchedule'&amp;EntityId='0fe50153-d997-479f-90e0-6a6f8ff14165'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028180403 +0000" stop="20251028182652 +0000">
+		<title>Mana Iwabuchi | Life in Arsenal</title>
+		<desc>A diamond of the Japan national women's team who plays for Arsenal in England.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529702'&amp;EntityType='LinearSchedule'&amp;EntityId='6bd941d6-dcee-4e1d-ad35-4bdc0238a055'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029021854 +0000" stop="20251029024403 +0000">
-		<title>The Queens | Queen of WE</title>
-		<desc>We follow INAC Kobe's action packed and emotionally charged journey through the highs and lows, all the way to the top, where they are ultimately crowned WE League champions.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529548'&amp;EntityType='LinearSchedule'&amp;EntityId='e3506c2f-55a3-49d9-a69d-d5dfb545bb82'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028182652 +0000" stop="20251028185306 +0000">
+		<title>FIFA U-17 Women's World Cup Morocco 2025™ - Highlights Bundle</title>
+		<desc>Watch the latest highlights from the FIFA U-17 Women's World Cup Morocco 2025™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9529706'&amp;EntityType='LinearSchedule'&amp;EntityId='602a7aec-266b-4a4d-86cb-c4a12a8ebed9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029024403 +0000" stop="20251029030348 +0000">
-		<title>Player Stories II</title>
-		<desc>From the daughter of an All Blacks coach to a former sprinter, the FIFA Women's World Cup 2023™ was full of footballers with great stories.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529552'&amp;EntityType='LinearSchedule'&amp;EntityId='495ba42e-f4f7-4919-9f7b-ba315be4090a'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028185306 +0000" stop="20251028204833 +0000">
+		<title>LIVE - Italia - Nigeria | Ottavi di finale | Coppa del Mondo Femminile FIFA U-17 Marocco 2025</title>
+		<desc>Guarda la partita tra Italia e Nigeria giocato al Accademia di Calcio Mohammed VI.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529710'&amp;EntityType='LinearSchedule'&amp;EntityId='24b65afd-b723-45a2-9bdf-03c3c8d49cbd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029030348 +0000" stop="20251029045404 +0000">
-		<title>Sweden v England | Group B | 2006 FIFA World Cup Germany™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Sweden and England played at RheinEnergieStadion, Cologne on Tuesday, 20 June 2006.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529556'&amp;EntityType='LinearSchedule'&amp;EntityId='d9092a5e-55c2-44fb-80c9-d4f24f2ca75b'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028204833 +0000" stop="20251028211446 +0000">
+		<title>FIFA U-17 Women's World Cup Morocco 2025™ - Highlights Bundle</title>
+		<desc>Watch the latest highlights from the FIFA U-17 Women's World Cup Morocco 2025™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9529714'&amp;EntityType='LinearSchedule'&amp;EntityId='3753cedc-26cd-44a9-b96f-6bfb212e5834'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029045404 +0000" stop="20251029064406 +0000">
-		<title>USA v Japan | Final | FIFA Women's World Cup Canada 2015™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Japan played at BC Place Stadium, Vancouver on Sunday, 05 July 2015 at 16:00.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529560'&amp;EntityType='LinearSchedule'&amp;EntityId='d3afd8cb-8d82-4820-9eb1-08e93c7748b2'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028211446 +0000" stop="20251028231147 +0000">
+		<title>England v Egypt | Group Matches | 1990 FIFA World Cup Italy™ | Full Match Replay</title>
+		<desc>Watch the full match replay between England and Egypt played at Stadio Sant'Elia, Cagliari.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529718'&amp;EntityType='LinearSchedule'&amp;EntityId='bfe6172e-799d-416a-8ab6-5264e69191d1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029064406 +0000" stop="20251029083415 +0000">
-		<title>Netherlands v Croatia | Play-off for third place | 1998 FIFA World Cup France™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Netherlands and Croatia played at Parc des Princes, Paris on Saturday, 11 July 1998.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529564'&amp;EntityType='LinearSchedule'&amp;EntityId='8583f49a-ea1e-4dbd-a966-943c2fa08076'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251028231147 +0000" stop="20251029004838 +0000">
+		<title>Sweden v Norway | Semi-finals | FIFA Women's World Cup China PR 1991™ | Full Match Replay</title>
+		<desc>Watch the full match replay between Sweden and Norway played at Ying Dong Stadium, Panyu.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529722'&amp;EntityType='LinearSchedule'&amp;EntityId='0f86edc0-765f-47ad-9575-8e380bcf1c68'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029083415 +0000" stop="20251029102848 +0000">
-		<title>Poland v USA | Group D | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Poland and USA played at Daejeon World Cup Stadium, Daejeon on Friday, 14 June 2002.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529568'&amp;EntityType='LinearSchedule'&amp;EntityId='a6af7147-2b46-4a1d-a4f2-6bbd047b68d2'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251029004838 +0000" stop="20251029031204 +0000">
+		<title>England v Belgium | Round of 16 | 1990 FIFA World Cup Italy™ | Full Match Replay</title>
+		<desc>Watch the full match replay between England and Belgium played at Stadio Dall´Ara, Bologna.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529726'&amp;EntityType='LinearSchedule'&amp;EntityId='6d2c347c-5705-4281-8fc2-200e6de79465'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029102848 +0000" stop="20251029122340 +0000">
-		<title>TP Mazembe v Inter | Final | FIFA Club World Cup UAE 2010™ | Full Match Replay</title>
-		<desc>The now called FIFA Intercontinental Cup final full match replay between TP Mazembe and Inter played at Zayed Sports Stadium, Abu Dhabi, on 19 December 2010.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529572'&amp;EntityType='LinearSchedule'&amp;EntityId='b17f4440-a68b-4573-81bb-ad98ffb05001'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251029031204 +0000" stop="20251029050521 +0000">
+		<title>France v Argentina | Round of 16 | 2018 FIFA World Cup Russia™ | Full Match Replay</title>
+		<desc>Watch the full match replay from the match between France and Argentina</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529730'&amp;EntityType='LinearSchedule'&amp;EntityId='7ba1e5ee-6e99-465a-a179-9ece0f4bb37c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029122340 +0000" stop="20251029125409 +0000">
-		<title>Epic Showdowns: Brazil v Netherlands</title>
-		<desc>Relive the intense clashes between Brazil and the Netherlands in the 1994 and 2010 FIFA World Cups.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9529576'&amp;EntityType='LinearSchedule'&amp;EntityId='c563d14d-357f-44e9-a423-37f5c5372227'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251029050521 +0000" stop="20251029071446 +0000">
+		<title>Japan v Sweden | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
+		<desc>Watch the full match replay between Japan and Sweden played at Eden Park, Auckland.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529734'&amp;EntityType='LinearSchedule'&amp;EntityId='bf2c56c7-c791-45cb-9f95-502fb1ed2ba7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029125409 +0000" stop="20251029132444 +0000">
-		<title>Australia's Memorable Matches in the FIFA World Cup™</title>
-		<desc>Enjoy Australia's victory against Japan in Germany 2006™ and the draw against the Netherlands in Brazil 2014™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9529580'&amp;EntityType='LinearSchedule'&amp;EntityId='233af865-a281-4152-a9b7-2ae27afa93d3'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251029071446 +0000" stop="20251029081503 +0000">
+		<title>All Goals | FIFA World Cup Qatar 2022™</title>
+		<desc>Watch all goals scored at the FIFA World Cup Qatar 2022™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529738'&amp;EntityType='LinearSchedule'&amp;EntityId='c960fd80-38bf-49e0-9aa1-0bc655bb2caf'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029132444 +0000" stop="20251029134958 +0000">
-		<title>FIFA World Cup™ Opening Matches</title>
-		<desc>Relive China PR against Norway in the FIFA Women's World Cup China 1991™ and Russia against Saudi Arabia in the FIFA World Cup Russia 2018™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9529584'&amp;EntityType='LinearSchedule'&amp;EntityId='5552b0cd-efb6-4544-bf25-08ee5e7c1dcd'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251029081503 +0000" stop="20251029084117 +0000">
+		<title>The Best of FIFA Women's World Cup 2023</title>
+		<desc>Relive the best moments of the FIFA Women's World Cup 2023</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9529742'&amp;EntityType='LinearSchedule'&amp;EntityId='2b3ce0e6-7e0a-4019-90c4-14d06b59c403'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029134958 +0000" stop="20251029141915 +0000">
-		<title>A LOOK BACK: FIFA Women's World Cup USA 1999™</title>
-		<desc>USA Highlights in the FIFA Women's World Cup USA 1999™</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529588'&amp;EntityType='LinearSchedule'&amp;EntityId='20cf017c-1d89-406a-8328-218fd09683f2'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251029084117 +0000" stop="20251029093014 +0000">
+		<title>World Champions: Italy 2006</title>
+		<desc>The unforgettable triumph of Italy at the 2006 FIFA World Cup in Germany.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529746'&amp;EntityType='LinearSchedule'&amp;EntityId='26bf8338-0c45-4f07-a19a-c23bbd52a669'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029141915 +0000" stop="20251029145846 +0000">
-		<title>FACTS: Italy v France | Germany 2006</title>
-		<desc>Italy vs Zidane's France drama explained.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529592'&amp;EntityType='LinearSchedule'&amp;EntityId='fa434a5a-dcf3-4f36-a788-7e4ba322a8a2'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251029093014 +0000" stop="20251029095436 +0000">
+		<title>Kyogo Furuhashi | Life in Glasgow</title>
+		<desc>Follow the highs and lows of Japanese international Kyogo Furuhashi's first year living in Glasgow, Scotland.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529750'&amp;EntityType='LinearSchedule'&amp;EntityId='970b7212-a5be-48b3-a8d9-f1c94c916e5b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029145846 +0000" stop="20251029151950 +0000">
-		<title>Roger Milla | Discovering</title>
-		<desc>Before Weah, before Drogba, before Eto'o. A World Cup legend and one of the best African strikers of all time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529596'&amp;EntityType='LinearSchedule'&amp;EntityId='e4c1eb3d-5af3-45f5-9408-5f29230dc125'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251029095436 +0000" stop="20251029120830 +0000">
+		<title>Seven Games from Glory | The Official Film of the 2002 FIFA World Cup™</title>
+		<desc>Go behind the scenes with Ronaldo and the heroes of the 2002 FIFA World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529754'&amp;EntityType='LinearSchedule'&amp;EntityId='83a9e915-0f50-46c4-a217-c7eae0e7136a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029151950 +0000" stop="20251029155048 +0000">
-		<title>Iceland | The Debut</title>
-		<desc>There is a first time for everything and a nation's first World Cup experience is hardly a forgettable one.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529600'&amp;EntityType='LinearSchedule'&amp;EntityId='6f35a6d8-f596-46d0-b546-d51d3ac37fc3'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251029120830 +0000" stop="20251029122847 +0000">
+		<title>Falcão | Voices</title>
+		<desc>The king of futsal relives his epic FIFA Futsal World Cup journey with intimate reflections.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529758'&amp;EntityType='LinearSchedule'&amp;EntityId='42579d21-d208-4326-87d1-282ad3b30d1d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251029155048 +0000" stop="20251029180942 +0000">
-		<title>England v Colombia | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Colombia played at Stadium Australia, Sydney / Wangal on Saturday, August 12, 2023 at 8:30 PM (local time).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529604'&amp;EntityType='LinearSchedule'&amp;EntityId='5811fc94-440d-4c5c-9195-a647a6774c88'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251029122847 +0000" stop="20251029130611 +0000">
+		<title>Voices II</title>
+		<desc>More unfiltered stories of football journeys at the FIFA World Cup™, told by those who lived them.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529762'&amp;EntityType='LinearSchedule'&amp;EntityId='e68b4bfd-8a14-46aa-a067-d6e155ff3304'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251029130611 +0000" stop="20251029134548 +0000">
+		<title>FACTS: Germany v Sweden | USA 2003</title>
+		<desc>Germany beats Sweden with a golden goal to claim their first Women’s World Cup title.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529766'&amp;EntityType='LinearSchedule'&amp;EntityId='d7c8946e-03f8-4787-9342-d041df42e7f5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251029134548 +0000" stop="20251029142311 +0000">
+		<title>Voices II</title>
+		<desc>More unfiltered stories of football journeys at the FIFA World Cup™, told by those who lived them.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529770'&amp;EntityType='LinearSchedule'&amp;EntityId='e3bc6437-7475-48ff-9b20-e2876d5b253e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251029142311 +0000" stop="20251029150248 +0000">
+		<title>FACTS: Germany v Sweden | USA 2003</title>
+		<desc>Germany beats Sweden with a golden goal to claim their first Women’s World Cup title.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529774'&amp;EntityType='LinearSchedule'&amp;EntityId='5507484e-ac47-4984-9317-912ade5f8d8b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251029150248 +0000" stop="20251029152901 +0000">
+		<title>FIFA U-17 Women's World Cup Morocco 2025™ - Highlights Bundle</title>
+		<desc>Watch the latest highlights from the FIFA U-17 Women's World Cup Morocco 2025™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9529778'&amp;EntityType='LinearSchedule'&amp;EntityId='d9b69279-fa94-44a9-983e-9b4be8d9b366'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251029152901 +0000" stop="20251029172516 +0000">
+		<title>LIVE - Spain v France | Round of 16 | FIFA U-17 Women's World Cup Morocco 2025™</title>
+		<desc>Watch the match between Spain and France played at Football Academy Mohammed VI.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9529782'&amp;EntityType='LinearSchedule'&amp;EntityId='c98aa35f-ec0b-4a9e-8996-7ebe42096171'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251028164000 +0000" stop="20251028171000 +0000">
 		<title>MP Series '25: MDS 120 Cappadocia '25 H/L</title>
