@@ -28,10 +28,6 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
-	<channel id="98201">
-		<display-name>SPL CH02</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
-	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -47,14 +43,6 @@
 	<channel id="204746">
 		<display-name>LIVE 6</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
-	</channel>
-	<channel id="497989">
-		<display-name>LIVE 7</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
-	</channel>
-	<channel id="554063">
-		<display-name>LIVE 8</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9530109'&amp;EntityType='Item'&amp;EntityId='554063'&amp;Width=587&amp;Height=250" />
 	</channel>
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
@@ -1036,16 +1024,6 @@
 		<desc>SPL 01 will commence broadcast of the Singapore Cup 2025/2026: Geylang International FC vs Albirex Niigata FC (S) on 1st November, Saturday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9523009'&amp;EntityType='LinearSchedule'&amp;EntityId='f9a01306-4a94-44ba-ad82-026697d4e730'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98201" start="20251030160000 +0000" stop="20251031160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9468429'&amp;EntityType='LinearSchedule'&amp;EntityId='8c1d0576-7b9c-4a0d-bfaf-7d26ce13359b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20251031160000 +0000" stop="20251101160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9523025'&amp;EntityType='LinearSchedule'&amp;EntityId='408f425e-a459-4bcd-8e0a-03f46eb86d87'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97073" start="20251030160000 +0000" stop="20251031110000 +0000">
 		<title>No programme available now. Next broadcast on 31st October, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 31st October, Friday 7pm. Please stay tuned!</desc>
@@ -1216,26 +1194,6 @@
 		<desc>LIVE 6 will commence broadcast of the Tour de France EFGH Singapore Criterium 2025 on 2nd November, Sunday 4.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9480876'&amp;EntityType='LinearSchedule'&amp;EntityId='e5fc53e5-8f80-4ec2-98f2-3d87fc0d4878'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="497989" start="20251030160000 +0000" stop="20251031160000 +0000">
-		<title>No Programme available now. Next Broadcast on 6th November, Thursday 1.30pm. Moutai Singapore Open</title>
-		<desc>LIVE 7 will commence broadcast of the Moutai Singapore Open on 6th November, Thursday 1.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9469541'&amp;EntityType='LinearSchedule'&amp;EntityId='c370e2e9-d012-4117-b126-3e214143a244'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20251031160000 +0000" stop="20251101160000 +0000">
-		<title>No Programme available now. Next Broadcast on 6th November, Thursday 1.30pm. Moutai Singapore Open</title>
-		<desc>LIVE 7 will commence broadcast of the Moutai Singapore Open on 6th November, Thursday 1.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9481816'&amp;EntityType='LinearSchedule'&amp;EntityId='56b95416-3303-4513-9865-028c7a8e6432'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="554063" start="20251030160000 +0000" stop="20251031160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9543134'&amp;EntityType='LinearSchedule'&amp;EntityId='f9fb39c9-34de-45c0-bf67-df5ff2731d05'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="554063" start="20251031160000 +0000" stop="20251101160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9538835'&amp;EntityType='LinearSchedule'&amp;EntityId='6b002293-fbe5-4dfd-a253-5f0c928cf1db'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="557763" start="20251030154845 +0000" stop="20251030160557 +0000">
 		<title>Joy: Marco Tardelli | Eyes of the World</title>
 		<desc>A final, a goal, and "a shout I've waited my whole life to make."</desc>
@@ -1278,12 +1236,12 @@
 	</programme>
 	<programme channel="557763" start="20251030215345 +0000" stop="20251030234121 +0000">
 		<title>USA - Suisse | Phase de groupes | Coupe du Monde de la FIFA, États-Unis 1994™ | Match complet</title>
-		<desc>Regardez le match complet USA - Suisse joué au Pontiac Silverdome, Detroit le samedi 18 juin 1994.</desc>
+		<desc>Regardez le match complet USA - Suisse joué au Pontiac Silverdome, Detroit.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9545196'&amp;EntityType='LinearSchedule'&amp;EntityId='564b773c-ee0c-4bab-8cfd-53aa008ce98d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251030234121 +0000" stop="20251031012856 +0000">
 		<title>USA v Switzerland | Group Matches | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Switzerland played at Pontiac Silverdome, Detroit on Saturday, 18 June 1994.</desc>
+		<desc>Watch the full match replay between USA and Switzerland played at Pontiac Silverdome, Detroit.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9545204'&amp;EntityType='LinearSchedule'&amp;EntityId='98109a74-6b78-4366-ace3-589e38b768f0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251031012856 +0000" stop="20251031015732 +0000">
@@ -1298,12 +1256,12 @@
 	</programme>
 	<programme channel="557763" start="20251031023742 +0000" stop="20251031033618 +0000">
 		<title>Heroes and Babies | The Long Walk</title>
-		<desc>The first episode of the series traces the history of the penalty shootout from its first appearance at the World Cup in 1982 up to the 1990 tournament.</desc>
+		<desc>The first episode episode of The Long Walk moves the shootout into a new millennium.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9545227'&amp;EntityType='LinearSchedule'&amp;EntityId='4fe92321-6df5-4635-865a-ef531f8ef9e3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251031033618 +0000" stop="20251031052514 +0000">
 		<title>Germany FR v Netherlands | Second Round | 1978 FIFA World Cup Argentina™️ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany FR and Netherlands played at Estadio Chateau Carreras, Cordoba on Sunday, 18 June 1978.</desc>
+		<desc>Watch the full match replay between Germany FR and Netherlands played in Cordoba.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9545235'&amp;EntityType='LinearSchedule'&amp;EntityId='e9324b0b-ece0-417a-a018-abc53c9a9574'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251031052514 +0000" stop="20251031074840 +0000">
@@ -1313,17 +1271,17 @@
 	</programme>
 	<programme channel="557763" start="20251031074840 +0000" stop="20251031102239 +0000">
 		<title>Germany v Argentina | Quarter-finals | 2006 FIFA World Cup Germany™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Germany and Argentina played at Olympiastadion, Berlin on Friday, 30 June 2006.</desc>
+		<desc>Watch the full match replay from the match between Germany and Argentina.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9545250'&amp;EntityType='LinearSchedule'&amp;EntityId='5abcc180-5146-4c7b-a5d2-4262b9600f1d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251031102239 +0000" stop="20251031121953 +0000">
 		<title>Argentina v Croatia | Semi-finals | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and Croatia played at Lusail Stadium, Al Daayen on Tuesday, 13 December 2022 at 22:00.</desc>
+		<desc>Watch the full match replay between Argentina and Croatia played at Lusail Stadium, Al Daayen.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9545258'&amp;EntityType='LinearSchedule'&amp;EntityId='018739eb-5d73-4161-b9d1-44c276c002fe'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251031121953 +0000" stop="20251031145120 +0000">
 		<title>USA v Ghana | Round of 16 | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between USA and Ghana played at Royal Bafokeng Sports Palace, Phokeng on Saturday, 26 June 2010.</desc>
+		<desc>Watch the full match replay from the match between USA and Ghana played in Phokeng.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9545268'&amp;EntityType='LinearSchedule'&amp;EntityId='033aa7f2-93f3-416d-98a5-0b81a9d09337'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251031145120 +0000" stop="20251031152006 +0000">
@@ -1333,7 +1291,7 @@
 	</programme>
 	<programme channel="557763" start="20251031152006 +0000" stop="20251031153904 +0000">
 		<title>Misfit: Luis Suárez | Eyes of the World</title>
-		<desc>Red cards, penalties and one of the most infamous handball in World Cup history. The 2010 match between Ghana and Uruguay was one for the ages.</desc>
+		<desc>When Ghana and Uruguay met in the quarter,final of the 2010 FIFA World Cup in South Africa</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9545285'&amp;EntityType='LinearSchedule'&amp;EntityId='dbd50716-b222-44a4-ab7a-e559336495e0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251031153904 +0000" stop="20251031161847 +0000">
@@ -3536,11 +3494,6 @@
 		<desc>SPL 01 will commence broadcast of the Singapore Cup 2025/2026: Balestier Khalsa FC vs Tanjong Pagar FC on 2nd November, Sunday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9523013'&amp;EntityType='LinearSchedule'&amp;EntityId='3eaa0880-2901-49e0-8c7b-260847a4342c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98201" start="20251101160000 +0000" stop="20251102160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9523029'&amp;EntityType='LinearSchedule'&amp;EntityId='e683d793-8daf-4a68-9573-6f5e6d2d4a84'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97073" start="20251101110000 +0000" stop="20251101111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Health+ Nutripack Snow Fungus</title>
 		<desc>Health+ Nutripack Snow Fungus is a non-cook fungus, ready to eat in just one minute. It contains 100% pure natural organic white fungus with no preservatives or chemical additives added. Health+雪颜银耳 ，免煮即食只需1分钟即可享用。100% 纯天然有机银耳，不添加防腐剂或化学添加剂</desc>
@@ -3636,16 +3589,6 @@
 		<desc>LIVE 6 will commence broadcast of the Tour de France EFGH Singapore Criterium 2025 on 2nd November, Sunday 4.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9500547'&amp;EntityType='LinearSchedule'&amp;EntityId='4358ad3a-3c4e-489e-bf6a-769d43253168'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="497989" start="20251101160000 +0000" stop="20251102160000 +0000">
-		<title>No Programme available now. Next Broadcast on 6th November, Thursday 1.30pm. Moutai Singapore Open</title>
-		<desc>LIVE 7 will commence broadcast of the Moutai Singapore Open on 6th November, Thursday 1.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9501023'&amp;EntityType='LinearSchedule'&amp;EntityId='f3636945-01d5-4ac9-9225-a4d4b4f60ac9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="554063" start="20251101160000 +0000" stop="20251102160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9538839'&amp;EntityType='LinearSchedule'&amp;EntityId='2f009fac-9bca-4384-9a04-b54dfcdf9f78'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="557763" start="20251031161847 +0000" stop="20251031165816 +0000">
 		<title>FACTS: Germany v Brazil | China 2007</title>
 		<desc>Germany wins its second title, defeating Marta's Brazil.</desc>
@@ -3683,73 +3626,73 @@
 	</programme>
 	<programme channel="557763" start="20251031195355 +0000" stop="20251031205232 +0000">
 		<title>Heroes and Babies | The Long Walk</title>
-		<desc>The first episode of the series traces the history of the penalty shootout from its first appearance at the World Cup in 1982 up to the 1990 tournament.</desc>
+		<desc>The first episode episode of The Long Walk moves the shootout into a new millennium.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9545391'&amp;EntityType='LinearSchedule'&amp;EntityId='9ba8a9dd-7afa-40fc-9b02-6cafb7020f16'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251031205232 +0000" stop="20251101002038 +0000">
 		<title>Australia v France | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
-		<desc>Watch the full match replay between Australia and France played at Brisbane Stadium, Brisbane / Meaanjin on Saturday, August 12, 2023 at 5:00 PM (local time).</desc>
+		<desc>Watch the full match replay between Australia and France played at Brisbane Stadium, Brisbane.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9545400'&amp;EntityType='LinearSchedule'&amp;EntityId='92888752-09a6-4c15-a825-7850eae20113'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101002038 +0000" stop="20251101004914 +0000">
 		<title>All Penalty shootouts from ⁠FIFA World Cup Mexico 1986™</title>
 		<desc>Relive the thrill of the matches that ended in a penalty shootout</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602209'&amp;EntityType='LinearSchedule'&amp;EntityId='27dd1bea-80de-45d2-be3a-fb6b6402ef7b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602964'&amp;EntityType='LinearSchedule'&amp;EntityId='5a3325c1-ddcb-43b4-bdbc-ac4da99de5e1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101004914 +0000" stop="20251101014751 +0000">
 		<title>Heroes and Babies | The Long Walk</title>
-		<desc>The first episode of the series traces the history of the penalty shootout from its first appearance at the World Cup in 1982 up to the 1990 tournament.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602213'&amp;EntityType='LinearSchedule'&amp;EntityId='c085e403-ac18-4cae-ab69-0eb4befd4f9c'&amp;Width=1280&amp;Height=720" />
+		<desc>The first episode episode of The Long Walk moves the shootout into a new millennium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602968'&amp;EntityType='LinearSchedule'&amp;EntityId='13c6e53c-6c56-4104-b79d-41ba15e386f1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101014751 +0000" stop="20251101041241 +0000">
 		<title>France v Belgium | Play-off for third place | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between France and Belgium played at Estadio Cuauhtemoc, Puebla on Saturday, 28 June 1986.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602217'&amp;EntityType='LinearSchedule'&amp;EntityId='5e20e72c-fbd5-4c3e-b297-670f42fb5818'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay between France and Belgium played at Estadio Cuauhtemoc, Puebla.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602972'&amp;EntityType='LinearSchedule'&amp;EntityId='03b6a048-c343-40ae-97fc-484ab045805f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101041241 +0000" stop="20251101045250 +0000">
 		<title>All Penalty shootouts from ⁠FIFA World Cup Italy 1990™</title>
 		<desc>Relive the thrill of the matches that ended in a penalty shootout</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602221'&amp;EntityType='LinearSchedule'&amp;EntityId='fcd2e5db-e891-49ff-b631-fdf4fd77f408'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602976'&amp;EntityType='LinearSchedule'&amp;EntityId='0fe2a05b-88be-4dea-a8c5-3c41fa082b7a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101045250 +0000" stop="20251101072945 +0000">
 		<title>Germany FR v France | Semi-finals | 1982 FIFA World Cup Spain™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany FR and France played at Ramon Sanchez Pizjuan, Seville on Thursday, 08 July 1982.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602225'&amp;EntityType='LinearSchedule'&amp;EntityId='4bd196be-28ba-4c51-9f70-792684106936'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the match between Germany FR and France. Ramon Sanchez Pizjuan, Seville.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602980'&amp;EntityType='LinearSchedule'&amp;EntityId='b41ef40d-e1f8-461f-97b0-9d4da1964431'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101072945 +0000" stop="20251101080404 +0000">
 		<title>⁠All Penalty shootouts from ⁠FIFA World Cup Germany 2006™</title>
 		<desc>Relive the thrill of the matches that ended in a penalty shootout</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602229'&amp;EntityType='LinearSchedule'&amp;EntityId='8a2a4d88-e1d8-4e98-b8ed-1f295bdd021f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602984'&amp;EntityType='LinearSchedule'&amp;EntityId='d4dc94b7-5bb3-4318-a936-384957a1b3f8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101080404 +0000" stop="20251101103802 +0000">
 		<title>Germany v Argentina | Quarter-finals | 2006 FIFA World Cup Germany™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Germany and Argentina played at Olympiastadion, Berlin on Friday, 30 June 2006.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602233'&amp;EntityType='LinearSchedule'&amp;EntityId='7ecb57da-dcde-43db-bd92-8119d39acae4'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay from the match between Germany and Argentina.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602988'&amp;EntityType='LinearSchedule'&amp;EntityId='e2c3640d-c443-450c-8cee-93ee740bf80e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101103802 +0000" stop="20251101105319 +0000">
 		<title>All Penalty shootouts from ⁠FIFA World Cup Korea/Japan 2002™</title>
 		<desc>Relive the thrill of the matches that ended in a penalty shootout</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602237'&amp;EntityType='LinearSchedule'&amp;EntityId='e483040c-645b-4244-b373-7d2dae39f2a4'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602992'&amp;EntityType='LinearSchedule'&amp;EntityId='8282d3ba-f70b-4d90-9c09-92f6b3b4bf07'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101105319 +0000" stop="20251101133802 +0000">
 		<title>Croatia v Brazil | Quarter-finals | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Croatia and Brazil played at Education City Stadium, Doha on Friday, 09 December 2022 at 18:00.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602241'&amp;EntityType='LinearSchedule'&amp;EntityId='01f6a42f-0c74-422c-9a0d-6316a5736fb0'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay between Croatia and Brazil.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602996'&amp;EntityType='LinearSchedule'&amp;EntityId='16ed54b8-e465-455a-b1b3-a08eefcc4dab'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101133802 +0000" stop="20251101143726 +0000">
 		<title>A Look Back: 2022 Fifa World Cup Qatar™</title>
 		<desc>The thrilling journey of Argentina through the 2022 World Cup in Qatar.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602245'&amp;EntityType='LinearSchedule'&amp;EntityId='fab3198f-f058-42be-afe7-a35c479a53c7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9603000'&amp;EntityType='LinearSchedule'&amp;EntityId='bed38447-13d4-44d7-b624-1c6e8c1343ec'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101143726 +0000" stop="20251101145507 +0000">
 		<title>25 Memorable FIFA U-17 Women’s World Cup Goals</title>
 		<desc>Remember some of the best strikes in the history of the tournament.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602249'&amp;EntityType='LinearSchedule'&amp;EntityId='7cb38243-c658-49b2-a2fc-7b144ff023bb'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9603004'&amp;EntityType='LinearSchedule'&amp;EntityId='9b2154bd-149d-496d-9c94-f5d7d9838ed7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251101145507 +0000" stop="20251101164901 +0000">
 		<title>LIVE - Brazil v Canada | Quarter-finals | FIFA U-17 Women's World Cup Morocco 2025™</title>
-		<desc>Watch the match between Brazil and Canada played at Prince Moulay Abdellah Annex Stadium, Rabat on Saturday, 1 November 2025 at 16:30 (local time).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9602253'&amp;EntityType='LinearSchedule'&amp;EntityId='2eca41b0-247a-47a1-8de4-ca943ddefe14'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the match between Brazil and Canada played at Prince Moulay Abdellah Annex Stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9603008'&amp;EntityType='LinearSchedule'&amp;EntityId='07f5445d-f581-42a1-a410-82d9312018a9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251031172500 +0000" stop="20251031193000 +0000">
 		<title>LIVE Frauen Bundesliga '25/26: Cologne v Nuremberg</title>
