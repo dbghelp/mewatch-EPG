@@ -44,6 +44,10 @@
 		<display-name>LIVE 6</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
 	</channel>
+	<channel id="497989">
+		<display-name>LIVE 7</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
+	</channel>
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
@@ -1299,24 +1303,34 @@
 		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2025/26: FC Pohang Steelers vs BG Tampines Rovers FC on 6th November, Thursday 5.50pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9536781'&amp;EntityType='LinearSchedule'&amp;EntityId='cd98c9be-8ae1-4377-84a5-ae92f86076d7'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="497989" start="20251104160000 +0000" stop="20251105160000 +0000">
+		<title>No Programme available now. Next Broadcast on 6th November, Thursday 1.30pm. Moutai Singapore Open</title>
+		<desc>LIVE 7 will commence broadcast of the Moutai Singapore Open on 6th November, Thursday 1.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9527540'&amp;EntityType='LinearSchedule'&amp;EntityId='9d39cbb8-ca42-49f1-9222-74128e42854f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20251105160000 +0000" stop="20251106053000 +0000">
+		<title>No Programme available now. Next Broadcast on 6th November, Thursday 1.30pm. Moutai Singapore Open</title>
+		<desc>LIVE 7 will commence broadcast of the Moutai Singapore Open on 6th November, Thursday 1.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9537786'&amp;EntityType='LinearSchedule'&amp;EntityId='717f11a9-5bcb-4436-8e3e-c518129cec0f'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="557763" start="20251104154501 +0000" stop="20251104172048 +0000">
 		<title>LIVE - England v Venezuela | FIFA U-17 World Cup Qatar 2025™</title>
-		<desc>Watch the match between England and Venezuela played at Aspire Zone - Pitch 4, Doha on Tuesday, 4 November 2025 at 18:15 (local time).</desc>
+		<desc>Watch the match between England and Venezuela played at Aspire Zone - Pitch 4.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618548'&amp;EntityType='LinearSchedule'&amp;EntityId='1d8a6761-3d57-4f3e-a96c-d7db99842909'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251104172048 +0000" stop="20251104195742 +0000">
 		<title>Germany FR v France | Semi-finals | 1982 FIFA World Cup Spain™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany FR and France played at Ramon Sanchez Pizjuan, Seville on Thursday, 08 July 1982.</desc>
+		<desc>Watch the match between Germany FR and France. Ramon Sanchez Pizjuan, Seville.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618552'&amp;EntityType='LinearSchedule'&amp;EntityId='6e117bbc-2b04-49ff-b889-2a9085e25881'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251104195742 +0000" stop="20251104222233 +0000">
 		<title>France v Belgium | Play-off for third place | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between France and Belgium played at Estadio Cuauhtemoc, Puebla on Saturday, 28 June 1986.</desc>
+		<desc>Watch the full match replay between France and Belgium played at Estadio Cuauhtemoc, Puebla.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618556'&amp;EntityType='LinearSchedule'&amp;EntityId='93c99e3b-8185-426d-baf6-5ad222723e75'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251104222233 +0000" stop="20251105001910 +0000">
 		<title>England v Senegal | Round of 16 | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Senegal played at Al Bayt Stadium, Al Khor on Sunday, 04 December 2022 at 22:00.</desc>
+		<desc>Watch the full match replay between England and Senegal played at Al Bayt Stadium, Al Khor.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618560'&amp;EntityType='LinearSchedule'&amp;EntityId='a95b6a00-a0ef-485b-b33c-616a5cc309f2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105001910 +0000" stop="20251105021611 +0000">
@@ -1326,37 +1340,37 @@
 	</programme>
 	<programme channel="557763" start="20251105021611 +0000" stop="20251105040732 +0000">
 		<title>Argentina v England | Group F | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Argentina and England played at Sapporo Dome, Sapporo on Friday, 07 June 2002.</desc>
+		<desc>Watch the full match replay from the match between Argentina and England played at Sapporo Dome, Sapporo.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618568'&amp;EntityType='LinearSchedule'&amp;EntityId='87379b18-fed8-412d-83b1-8d8ecd13d352'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105040732 +0000" stop="20251105060128 +0000">
 		<title>Brazil v Colombia | Quarter-finals | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Brazil and Colombia played at Estádio Castelão, Fortaleza on Friday, 04 July 2014.</desc>
+		<desc>Watch the full match replay from the match between Brazil and Colombia</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618572'&amp;EntityType='LinearSchedule'&amp;EntityId='522e6305-523c-4aa1-9ef2-8b4a23bca517'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105060128 +0000" stop="20251105083210 +0000">
 		<title>Netherlands v Spain | Final | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
-		<desc>Watch the full replay from the match between Netherlands and Spain played at Soccer City, Johannesburg on Sunday, 11 July 2010.</desc>
+		<desc>Watch the full replay from the match between Netherlands and Spain</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618576'&amp;EntityType='LinearSchedule'&amp;EntityId='95942b33-093c-4739-a9bb-a3e68d35fc7c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105083210 +0000" stop="20251105085010 +0000">
 		<title>2014 FIFA World Cup Brazil™ | The Final</title>
-		<desc>Through the stories of those present at the Maracanã, revisit the nail-biting 2014 final between Germany and Argentina.</desc>
+		<desc>Through the eyes of those present, revisit the 2014 Germany vs Argentina final at Maracanã.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618580'&amp;EntityType='LinearSchedule'&amp;EntityId='b28dfd1e-6649-492a-b7f5-155193597e5b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105085010 +0000" stop="20251105091132 +0000">
 		<title>Radja Nainggolan and Kadeisha Buchanan | HD Cutz</title>
-		<desc>HD Cutz heads out on a European road trip to meet Radja Nainggolan and then Canadian international Kadeisha Buchanan.</desc>
+		<desc>A European road trip to meet Radja Nainggolan and then Canadian international Kadeisha Buchanan.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618584'&amp;EntityType='LinearSchedule'&amp;EntityId='701f62c6-f6a1-48b4-8711-e4efc2e3c818'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105091132 +0000" stop="20251105093029 +0000">
 		<title>Misfit: Luis Suárez | Eyes of the World</title>
-		<desc>Red cards, penalties and one of the most infamous handball in World Cup history. The 2010 match between Ghana and Uruguay was one for the ages.</desc>
+		<desc>When Ghana and Uruguay met in the quarter,final of the 2010 FIFA World Cup in South Africa</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618588'&amp;EntityType='LinearSchedule'&amp;EntityId='820e085f-9969-43f8-9309-caa6a9e62055'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105093029 +0000" stop="20251105103039 +0000">
 		<title>Asia Stories</title>
-		<desc>Asia Stories brings together passionate football people from six different nations across the continent. Inspiring human tales that celebrate football from China, Japan, Saudi Arabia, Korea, India and Indonesia. EP 6: Saudi Arabia. EP 4 : Japan EP 5: Korea EP 1: China EP 2: India</desc>
+		<desc>Asia Stories brings together passionate football people from six different nations across the continent.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618592'&amp;EntityType='LinearSchedule'&amp;EntityId='a277de3c-f7ce-4f3a-916b-2a6819a0285c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105103039 +0000" stop="20251105105654 +0000">
@@ -1371,7 +1385,7 @@
 	</programme>
 	<programme channel="557763" start="20251105113347 +0000" stop="20251105120107 +0000">
 		<title>All Goals | FIFA U-17 Women's World Cup Dominican Republic 2024™</title>
-		<desc>Relive the emotion of each and every goal scored by the future stars of the sport, in the U17 FIFA Women's World Cup hosted in the Dominican Republic in 2024.</desc>
+		<desc>Relive the emotion of each and every goal scored by the future stars of the sport in the U17 FWWC.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618604'&amp;EntityType='LinearSchedule'&amp;EntityId='18bf0f71-2abe-4f8b-b918-f46f4aa27c6e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105120107 +0000" stop="20251105122722 +0000">
@@ -1381,17 +1395,17 @@
 	</programme>
 	<programme channel="557763" start="20251105122722 +0000" stop="20251105140045 +0000">
 		<title>LIVE - Tajikistan v Czechia | FIFA U-17 World Cup Qatar 2025™</title>
-		<desc>Watch the match between Tajikistan and Czechia played at Aspire Zone - Pitch 8, Doha on Wednesday, 5 November 2025 at 15:30 (local time).</desc>
+		<desc>Watch the match between Tajikistan and Czechia played at Aspire Zone - Pitch 8.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618612'&amp;EntityType='LinearSchedule'&amp;EntityId='a854a83f-9c3e-4ee5-842e-7ccf07da0fd9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105140045 +0000" stop="20251105150055 +0000">
 		<title>Asia Stories</title>
-		<desc>Asia Stories brings together passionate football people from six different nations across the continent. Inspiring human tales that celebrate football from China, Japan, Saudi Arabia, Korea, India and Indonesia. EP 6: Saudi Arabia. EP 4 : Japan EP 5: Korea EP 1: China EP 2: India</desc>
+		<desc>Asia Stories brings together passionate football people from six different nations across the continent.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618616'&amp;EntityType='LinearSchedule'&amp;EntityId='566d780d-a720-4884-bc3d-afa818314e58'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105150055 +0000" stop="20251105152815 +0000">
 		<title>All Goals | FIFA U-17 Women's World Cup Dominican Republic 2024™</title>
-		<desc>Relive the emotion of each and every goal scored by the future stars of the sport, in the U17 FIFA Women's World Cup hosted in the Dominican Republic in 2024.</desc>
+		<desc>Relive the emotion of each and every goal scored by the future stars of the sport in the U17 FWWC.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618620'&amp;EntityType='LinearSchedule'&amp;EntityId='6bd92be3-9875-4a55-bc2a-fe93aedbb8cc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251105152815 +0000" stop="20251105170252 +0000">
@@ -3206,7 +3220,7 @@
 	</programme>
 	<programme channel="97084" start="20251106070000 +0000" stop="20251106073000 +0000">
 		<title>Detik Semasa - EP 19</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Safety is a top priority for those traveling to Malaysia by land this holiday season. Unfamiliar road conditions and driver habits are among the reasons Singaporeans hire private car services with drivers.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9536506'&amp;EntityType='LinearSchedule'&amp;EntityId='c50a7727-7c86-4392-92b4-e802a12abf27'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97084" start="20251106073000 +0000" stop="20251106080000 +0000">
@@ -3689,6 +3703,21 @@
 		<desc>There are currently no programmes on this channel.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9553828'&amp;EntityType='LinearSchedule'&amp;EntityId='04820f67-a509-4d6e-9bb8-03f3ae72aeee'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="497989" start="20251106053000 +0000" stop="20251106093000 +0000">
+		<title>Moutai Singapore Open</title>
+		<desc>The Moutai Singapore Open, taking place at The Singapore Island Country Club (SICC) from 6 to 9 November, is the penultimate stop on the International Series schedule. A host of big-name LIV Golf players like Paul Casey from England, and Americans Talor Gooch, Peter Uihlein and Anthony Kim, will tee it up, while Thailand’s Sadom Kaewkanjana, winner of the 2022 edition, will be vying for the title and crucial Rankings points alongside the cream of the Asian Tour. Catch the tournament ‘live’ on mewatch! </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9623985'&amp;EntityType='LinearSchedule'&amp;EntityId='8b506db3-9334-4cff-a9a8-645fe54471ee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20251106093000 +0000" stop="20251106160000 +0000">
+		<title>No Programme available now. Next Broadcast on 7th November, Friday 1.30pm. Moutai Singapore Open</title>
+		<desc>LIVE 7 will commence broadcast of the Moutai Singapore Open on 7th November, Friday 1.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9537805'&amp;EntityType='LinearSchedule'&amp;EntityId='ea2429fd-fef2-4c45-851d-57f85e6b8011'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20251106160000 +0000" stop="20251107053000 +0000">
+		<title>No Programme available now. Next Broadcast on 7th November, Friday 1.30pm. Moutai Singapore Open</title>
+		<desc>LIVE 7 will commence broadcast of the Moutai Singapore Open on 7th November, Friday 1.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9554637'&amp;EntityType='LinearSchedule'&amp;EntityId='3e1a0a2f-f0ad-473d-9325-ae13f1ff639e'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="557763" start="20251105170252 +0000" stop="20251105185648 +0000">
 		<title>Brazil v Colombia | Quarter-finals | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
 		<desc>Watch the full match replay from the match between Brazil and Colombia</desc>
@@ -3704,90 +3733,105 @@
 		<desc>Watch the full match replay between England and Egypt played at Stadio Sant'Elia, Cagliari.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618636'&amp;EntityType='LinearSchedule'&amp;EntityId='1cbccef2-0ef1-487f-8873-861d5703616b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251105223015 +0000" stop="20251106000000 +0000">
+	<programme channel="557763" start="20251105223015 +0000" stop="20251106002137 +0000">
 		<title>Argentina v England | Group F | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
 		<desc>Watch the full match replay from the match between Argentina and England played at Sapporo Dome, Sapporo.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9618640'&amp;EntityType='LinearSchedule'&amp;EntityId='070ac94b-9308-4e4b-a52b-febd377c8f3b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251106000000 +0000" stop="20251106021854 +0000">
-		<title>England v Colombia | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Colombia played at Stadium Australia, Sydney.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611281'&amp;EntityType='LinearSchedule'&amp;EntityId='09381d5b-b8cf-4795-8a9e-8584e8c1631a'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251106002137 +0000" stop="20251106003949 +0000">
+		<title>FIFA U-17 Women's World Cup Morocco 2025™ - Highlights Bundle</title>
+		<desc>Watch the latest highlights from the FIFA U-17 Women's World Cup Morocco 2025™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9644724'&amp;EntityType='LinearSchedule'&amp;EntityId='6c3daad5-8b86-462e-8e94-6e58bc7ba2d4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251106021854 +0000" stop="20251106024403 +0000">
-		<title>The Queens | Queen of WE</title>
-		<desc>We follow INAC Kobe's action packed and emotionally charged journey through the highs and lows</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611285'&amp;EntityType='LinearSchedule'&amp;EntityId='cb7b276d-d69b-4df3-8cb7-74f1d7163083'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251106003949 +0000" stop="20251106023058 +0000">
+		<title>USA v Portugal | Group D | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
+		<desc>Watch the full match replay between USA and Portugal played at Suwon World Cup Stadium, Suwon.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644728'&amp;EntityType='LinearSchedule'&amp;EntityId='a5cb9095-9876-4ca7-b803-d28575fb7b9b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251106024403 +0000" stop="20251106030348 +0000">
-		<title>Player Stories II</title>
-		<desc>From the daughter of an All Blacks coach to a former sprinter.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611289'&amp;EntityType='LinearSchedule'&amp;EntityId='db985ebd-0e28-41c5-8a7a-4fa656f36f82'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251106023058 +0000" stop="20251106043030 +0000">
+		<title>France v Morocco | Semi-finals | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
+		<desc>Watch the full match replay between France and Morocco played at Al Bayt Stadium, Al Khor.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644732'&amp;EntityType='LinearSchedule'&amp;EntityId='6a751ca6-79f8-40ef-a4e5-98e1e1977803'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251106030348 +0000" stop="20251106045404 +0000">
-		<title>Sweden v England | Group B | 2006 FIFA World Cup Germany™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Sweden and England played in Cologne.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611293'&amp;EntityType='LinearSchedule'&amp;EntityId='ff07245f-cc45-4639-a97f-a44e8b701a76'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251106043030 +0000" stop="20251106070406 +0000">
+		<title>Germany v Argentina | Final | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
+		<desc>Watch the full replay from the match between Germany and Argentina</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644737'&amp;EntityType='LinearSchedule'&amp;EntityId='3fce7fed-fe25-4065-8d79-bcc6d97194e9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251106045404 +0000" stop="20251106064406 +0000">
-		<title>USA v Japan | Final | FIFA Women's World Cup Canada 2015™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Japan played at BC Place Stadium</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611297'&amp;EntityType='LinearSchedule'&amp;EntityId='8ed2be94-5c0d-4dfd-bd58-7a0a3f7f620d'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251106070406 +0000" stop="20251106073328 +0000">
+		<title>2018 FIFA World Cup Russia™ | The Final</title>
+		<desc>Journey back to the 2018 France vs Croatia final through first-hand stories.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644744'&amp;EntityType='LinearSchedule'&amp;EntityId='aee5c048-b1c2-4ab0-83e6-327f52bc5e0c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251106064406 +0000" stop="20251106083415 +0000">
-		<title>Netherlands v Croatia | Play-off for third place | 1998 FIFA World Cup France™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Netherlands and Croatia played at Parc des Princes, Paris.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611301'&amp;EntityType='LinearSchedule'&amp;EntityId='257c96e4-1add-4d0e-b5a8-f5affd7115a8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20251106083415 +0000" stop="20251106102848 +0000">
-		<title>Poland v USA | Group D | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Poland and USA played at Daejeon World Cup Stadium, Daejeon.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611305'&amp;EntityType='LinearSchedule'&amp;EntityId='67b3f94f-6a8c-482d-8dcd-44c7112da585'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20251106102848 +0000" stop="20251106122340 +0000">
-		<title>TP Mazembe v Inter | Final | FIFA Club World Cup UAE 2010™ | Full Match Replay</title>
-		<desc>The now called FIFA Intercontinental Cup full match replay between TP Mazembe and Inter.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611309'&amp;EntityType='LinearSchedule'&amp;EntityId='184ea042-2f74-4044-ab10-59dee236bb38'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20251106122340 +0000" stop="20251106125409 +0000">
-		<title>Epic Showdowns: Brazil v Netherlands</title>
-		<desc>Relive the intense clashes between Brazil and the Netherlands in the 1994 and 2010 FIFA World Cups.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9611313'&amp;EntityType='LinearSchedule'&amp;EntityId='6ba78576-573c-433f-b28d-453efe51a566'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20251106125409 +0000" stop="20251106132444 +0000">
-		<title>Australia's Memorable Matches in the FIFA World Cup™</title>
-		<desc>Enjoy Australia's victory against Japan in Germany 2006™ and the draw against the Netherlands in Brazil 2014™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9611317'&amp;EntityType='LinearSchedule'&amp;EntityId='784f7c65-a2b0-4b16-b188-d1cdb20924c3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20251106132444 +0000" stop="20251106134958 +0000">
-		<title>FIFA World Cup™ Opening Matches</title>
-		<desc>FIFA Women's World Cup China 1991 and Russia against Saudi Arabia in the FIFA World Cup Russia 2018</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9611321'&amp;EntityType='LinearSchedule'&amp;EntityId='c8961dc2-a4c9-4f0c-9f71-99fcc3eaac85'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20251106134958 +0000" stop="20251106141915 +0000">
-		<title>A LOOK BACK: FIFA Women's World Cup USA 1999™</title>
-		<desc>USA Highlights in the FIFA Women's World Cup USA 1999™</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611325'&amp;EntityType='LinearSchedule'&amp;EntityId='53a021f7-3492-42a4-a1ed-7ca47aa8072b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20251106141915 +0000" stop="20251106145846 +0000">
-		<title>FACTS: Italy v France | Germany 2006</title>
-		<desc>Italy vs Zidane's France drama explained.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611329'&amp;EntityType='LinearSchedule'&amp;EntityId='7fb8b6de-6803-4365-98e8-8a32f3f50cdd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20251106145846 +0000" stop="20251106151950 +0000">
+	<programme channel="557763" start="20251106073328 +0000" stop="20251106075432 +0000">
 		<title>Roger Milla | Discovering</title>
 		<desc>Before Weah, before Drogba, before Eto'o. A World Cup legend and one of the best African strikers of all time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611333'&amp;EntityType='LinearSchedule'&amp;EntityId='8bee924b-49f8-4cb2-a1bf-6b23dffa2ad9'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644748'&amp;EntityType='LinearSchedule'&amp;EntityId='0f5c362e-d4ca-4e6e-9de2-54077a99ada9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251106151950 +0000" stop="20251106155048 +0000">
-		<title>Iceland | The Debut</title>
-		<desc>The captivating story of how Iceland reached their historic qualification to the 2018 FIFA World Cup.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611337'&amp;EntityType='LinearSchedule'&amp;EntityId='37d98f1a-c71c-4e83-837c-1452f4900807'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251106075432 +0000" stop="20251106081508 +0000">
+		<title>Jude Bellingham and Ryan Sessegnon | HD Cutz</title>
+		<desc>Meet up with Dortmund wonderkid Jude Bellingham and then catches up with Tottenham's Ryan Sessegnon.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644752'&amp;EntityType='LinearSchedule'&amp;EntityId='3621669a-04c6-43bd-a385-4abeb6ea98fa'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251106155048 +0000" stop="20251106180942 +0000">
-		<title>England v Colombia | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Colombia played at Stadium Australia, Sydney.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9611341'&amp;EntityType='LinearSchedule'&amp;EntityId='ffee8c00-1489-4af3-9c21-f88b9d8570d0'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251106081508 +0000" stop="20251106084306 +0000">
+		<title>Episode 1 | Kariobangi</title>
+		<desc>Meet the Kariobangi Sharks, a team in the slums of Nairobi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644756'&amp;EntityType='LinearSchedule'&amp;EntityId='e9cf7bf4-021a-4164-9e65-f3e4d06a2f2b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251106084306 +0000" stop="20251106094323 +0000">
+		<title>All Goals | FIFA World Cup Qatar 2022™</title>
+		<desc>Watch all goals scored at the FIFA World Cup Qatar 2022™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644760'&amp;EntityType='LinearSchedule'&amp;EntityId='f82599b0-67b5-4a79-8875-4d41bb6e280b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251106094323 +0000" stop="20251106103738 +0000">
+		<title>All FIFA World Cup™ Direct Red Cards (1974-2022)</title>
+		<desc>Not all of it is about goals and assists: relive each of the straight red cards in the FIFA World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644764'&amp;EntityType='LinearSchedule'&amp;EntityId='d4969c87-1058-4706-acc7-a47265ad5353'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251106103738 +0000" stop="20251106105520 +0000">
+		<title>25 Memorable FIFA U-17 Women’s World Cup Goals</title>
+		<desc>Remember some of the best strikes in the history of the tournament.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644768'&amp;EntityType='LinearSchedule'&amp;EntityId='402e1584-34b9-4dbd-8ffb-f021685deb53'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251106105520 +0000" stop="20251106111556 +0000">
+		<title>Jude Bellingham and Ryan Sessegnon | HD Cutz</title>
+		<desc>Meet up with Dortmund wonderkid Jude Bellingham and then catches up with Tottenham's Ryan Sessegnon.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644772'&amp;EntityType='LinearSchedule'&amp;EntityId='b24c3a17-10b4-4f91-ac45-68731e282a42'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251106111556 +0000" stop="20251106121011 +0000">
+		<title>All FIFA World Cup™ Direct Red Cards (1974-2022)</title>
+		<desc>Not all of it is about goals and assists: relive each of the straight red cards in the FIFA World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644776'&amp;EntityType='LinearSchedule'&amp;EntityId='b18d888d-ff53-4913-a2e1-69116cb548a5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251106121011 +0000" stop="20251106122824 +0000">
+		<title>FIFA U-17 Women's World Cup Morocco 2025™ - Highlights Bundle</title>
+		<desc>Watch the latest highlights from the FIFA U-17 Women's World Cup Morocco 2025™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9644784'&amp;EntityType='LinearSchedule'&amp;EntityId='505ad5ba-8020-485b-8dfd-4671ac4eef8e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251106122824 +0000" stop="20251106140019 +0000">
+		<title>LIVE - Bolivia v Italy | FIFA U-17 World Cup Qatar 2025™</title>
+		<desc>Watch the match between Bolivia and Italy played at Aspire Zone - Pitch 3.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644788'&amp;EntityType='LinearSchedule'&amp;EntityId='7bb92369-7eed-41b5-823e-b93c70a1a337'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251106140019 +0000" stop="20251106142817 +0000">
+		<title>Episode 1 | Kariobangi</title>
+		<desc>Meet the Kariobangi Sharks, a team in the slums of Nairobi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644792'&amp;EntityType='LinearSchedule'&amp;EntityId='e26007b8-48a9-43b8-9ceb-8b8d45a2658f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251106142817 +0000" stop="20251106152834 +0000">
+		<title>All Goals | FIFA World Cup Qatar 2022™</title>
+		<desc>Watch all goals scored at the FIFA World Cup Qatar 2022™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644796'&amp;EntityType='LinearSchedule'&amp;EntityId='af31693c-7e62-48f8-907b-d4edcbd29a85'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251106152834 +0000" stop="20251106154646 +0000">
+		<title>FIFA U-17 Women's World Cup Morocco 2025™ - Highlights Bundle</title>
+		<desc>Watch the latest highlights from the FIFA U-17 Women's World Cup Morocco 2025™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9644800'&amp;EntityType='LinearSchedule'&amp;EntityId='64e08554-d7ab-4d81-9725-757edc4bf2da'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251106154646 +0000" stop="20251106171633 +0000">
+		<title>LIVE - United Arab Emirates v Croatia | FIFA U-17 World Cup Qatar 2025™</title>
+		<desc>Watch the match between United Arab Emirates and Croatia played at Aspire Zone - Pitch 4.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9644804'&amp;EntityType='LinearSchedule'&amp;EntityId='86a949a1-fa50-44e8-9b00-a538a0619ead'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251105172500 +0000" stop="20251105175500 +0000">
 		<title>Women's Football Weekly '25/26</title>
