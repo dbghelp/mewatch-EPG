@@ -40,10 +40,6 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
-	<channel id="204746">
-		<display-name>LIVE 6</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
-	</channel>
 	<channel id="497989">
 		<display-name>LIVE 7</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
@@ -1248,16 +1244,6 @@
 		<desc>LIVE 5 will commence broadcast of the Singlife Nations Cup 2025 on 8th November, Saturday 09.55am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9619333'&amp;EntityType='LinearSchedule'&amp;EntityId='1c94c31a-0964-441e-a33a-3e7797b8c038'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20251106160000 +0000" stop="20251107160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9553828'&amp;EntityType='LinearSchedule'&amp;EntityId='04820f67-a509-4d6e-9bb8-03f3ae72aeee'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20251107160000 +0000" stop="20251108160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9583628'&amp;EntityType='LinearSchedule'&amp;EntityId='7df30eb6-7719-4317-909f-ff8ab32c8221'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="497989" start="20251106160000 +0000" stop="20251107053000 +0000">
 		<title>No Programme available now. Next Broadcast on 7th November, Friday 1.30pm. Moutai Singapore Open</title>
 		<desc>LIVE 7 will commence broadcast of the Moutai Singapore Open on 7th November, Friday 1.30pm. Please stay tuned!</desc>
@@ -1310,42 +1296,42 @@
 	</programme>
 	<programme channel="557763" start="20251107002824 +0000" stop="20251107022129 +0000">
 		<title>Brazil v France | Final | 1998 FIFA World Cup France™ | Full Match Replay</title>
-		<desc>Watch the full replay from the match between Brazil and France</desc>
+		<desc>Watch the full replay from the match between Brazil and France played at Stade de France, Saint-Denis on Sunday, 12 July 1998.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719073'&amp;EntityType='LinearSchedule'&amp;EntityId='341550a3-9fd4-4663-b07f-1876bf68671d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107022129 +0000" stop="20251107041843 +0000">
 		<title>Argentina v Croatia | Semi-finals | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and Croatia played at Lusail Stadium, Al Daayen.</desc>
+		<desc>Watch the full match replay between Argentina and Croatia played at Lusail Stadium, Al Daayen on Tuesday, 13 December 2022 at 22:00.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719077'&amp;EntityType='LinearSchedule'&amp;EntityId='c4ca206a-43c4-407c-994e-cdf9e5419532'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107041843 +0000" stop="20251107060715 +0000">
 		<title>Mexico v Bulgaria | Round of 16 | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Mexico and Bulgaria, Mexico City, 15 June 1986.</desc>
+		<desc>Watch the full match replay from the match between Mexico and Bulgaria played at Estadio Azteca, Mexico City on Sunday, 15 June 1986. The match is now available with commentary in Spanish.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719081'&amp;EntityType='LinearSchedule'&amp;EntityId='c0ccfcd7-bcd3-4474-a782-57074caae6e6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107060715 +0000" stop="20251107063437 +0000">
 		<title>Hristo Stoichkov | Voices</title>
-		<desc>Hristo Stoichkov recounts Bulgaria’s miracle at USA '94 in a unique narrative journey.</desc>
+		<desc>A Ballon d'Or winner and Bulgaria's miracle at USA '94. Hristo Stoichkov sharing an unforgettable journey through an up-close narrative.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719085'&amp;EntityType='LinearSchedule'&amp;EntityId='2b7c7af8-42ed-4213-86b6-213f64178256'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107063437 +0000" stop="20251107070454 +0000">
 		<title>Episode 2 | Kariobangi</title>
-		<desc>Meet the Kariobangi Sharks, a team in the slums of Nairobi</desc>
+		<desc>The Sharks search for a new striker as Kenya try to reach their first ever World Cup.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719093'&amp;EntityType='LinearSchedule'&amp;EntityId='6beaaf3a-6889-42e6-bc7d-291b173fc15c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107070454 +0000" stop="20251107084041 +0000">
 		<title>La Coupe de la Gloire | The Official Film of the 1998 FIFA World Cup™</title>
-		<desc>Enjoy the fascinating story of the 1998 tournament</desc>
+		<desc>Enjoy the fascinating story of the 1998 tournament – one seemingly written for Ronaldo and Brazil but ultimately belonging to Zinedine Zidane and France.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719097'&amp;EntityType='LinearSchedule'&amp;EntityId='7b996e09-69b9-4186-8e0c-b3446b4d9874'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107084041 +0000" stop="20251107094119 +0000">
 		<title>Moments | The Official Film of the 2023 FIFA Women’s World Cup™</title>
-		<desc>A review of key moments in the biggest women’s sporting event in the World, both on and off the pitch.</desc>
+		<desc>32 teams descend on Australia and New Zealand in a bid to become champions of the World.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719104'&amp;EntityType='LinearSchedule'&amp;EntityId='0491b427-dc4c-405f-a038-f0af8d8c57a0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107094119 +0000" stop="20251107100535 +0000">
 		<title>Semi-Finals, Play-off for Third Place and Final | FIFA Women's World Cup 2023TM</title>
-		<desc>Highlights of the Semi-Finals, Play-off for Third Place and Final from the FIFA Women's World Cup 2023TM.</desc>
+		<desc>Watch the highlights of the Semi-Finals, Play-off for Third Place and Final from the FIFA Women's World Cup 2023TM</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719109'&amp;EntityType='LinearSchedule'&amp;EntityId='2418534e-574b-46b5-b8ee-35c5883807e3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107100535 +0000" stop="20251107104659 +0000">
@@ -1360,7 +1346,7 @@
 	</programme>
 	<programme channel="557763" start="20251107110914 +0000" stop="20251107120952 +0000">
 		<title>Moments | The Official Film of the 2023 FIFA Women’s World Cup™</title>
-		<desc>A review of key moments in the biggest women’s sporting event in the World, both on and off the pitch.</desc>
+		<desc>32 teams descend on Australia and New Zealand in a bid to become champions of the World.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719125'&amp;EntityType='LinearSchedule'&amp;EntityId='fe364b68-c6e0-41bf-bdc6-5e04f2ae1de8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107120952 +0000" stop="20251107122805 +0000">
@@ -1370,7 +1356,7 @@
 	</programme>
 	<programme channel="557763" start="20251107122805 +0000" stop="20251107141854 +0000">
 		<title>LIVE - Switzerland v Korea Republic | FIFA U-17 World Cup Qatar 2025™</title>
-		<desc>Watch the match between Switzerland and Korea Republic played at Aspire Zone - Pitch 4.</desc>
+		<desc>Watch the match between Switzerland and Korea Republic played at Aspire Zone - Pitch 4, Doha on Friday, 7 November 2025 at 18:15 (local time).</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719133'&amp;EntityType='LinearSchedule'&amp;EntityId='c74eacc8-a278-4f54-8fb2-c45089bea460'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107141854 +0000" stop="20251107150018 +0000">
@@ -1385,7 +1371,7 @@
 	</programme>
 	<programme channel="557763" start="20251107151831 +0000" stop="20251107165005 +0000">
 		<title>LIVE - England v Haiti | FIFA U-17 World Cup Qatar 2025™</title>
-		<desc>Watch the match between England and Haiti played at Aspire Zone - Pitch 3.</desc>
+		<desc>Watch the match between England and Haiti played at Aspire Zone - Pitch 3, Doha on Friday, 7 November 2025 at 15:30 (local time).</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719145'&amp;EntityType='LinearSchedule'&amp;EntityId='0e79145e-02d4-4581-b401-477b81695b85'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251106160000 +0000" stop="20251106174500 +0000">
@@ -3424,8 +3410,8 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9718282'&amp;EntityType='LinearSchedule'&amp;EntityId='245289a4-a542-460b-8216-4b319bd97c23'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97078" start="20251108053000 +0000" stop="20251108160000 +0000">
-		<title>No programme available now. Next broadcast on 14th November, Friday 8.30pm. ONE Friday Fights 133</title>
-		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 133 on 14th November, Friday 8.30pm. Please stay tuned!</desc>
+		<title>No programme available now. Next broadcast on 13th November, Thursday 8.15pm. Men’s 'A' International Friendly</title>
+		<desc>LIVE 2 will commence broadcast of Men’s 'A' International Friendly: Thailand vs Singapore on 13th November, Thursday 8.15pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9583516'&amp;EntityType='LinearSchedule'&amp;EntityId='1a1a076a-0dd6-4a61-92bd-8a50c07c59a0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97078" start="20251108160000 +0000" stop="20251109160000 +0000">
@@ -3473,11 +3459,6 @@
 		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Lion City Sailors FC vs Persib Bandung on 26th November, Wednesday 8.05pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9619357'&amp;EntityType='LinearSchedule'&amp;EntityId='44f9f602-2f48-48e0-9ec5-63afa5d3fa38'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20251108160000 +0000" stop="20251109160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9608073'&amp;EntityType='LinearSchedule'&amp;EntityId='916e3557-cba9-4613-a33e-1789dc41463f'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="497989" start="20251108030000 +0000" stop="20251108070000 +0000">
 		<title>Moutai Singapore Open</title>
 		<desc>The Moutai Singapore Open, taking place at The Singapore Island Country Club (SICC) from 6 to 9 November, is the penultimate stop on the International Series schedule. A host of big-name LIV Golf players like Paul Casey from England, and Americans Talor Gooch, Peter Uihlein and Anthony Kim, will tee it up, while Thailand’s Sadom Kaewkanjana, winner of the 2022 edition, will be vying for the title and crucial Rankings points alongside the cream of the Asian Tour. Catch the tournament ‘live’ on mewatch! </desc>
@@ -3495,32 +3476,32 @@
 	</programme>
 	<programme channel="557763" start="20251107165005 +0000" stop="20251107184309 +0000">
 		<title>Brazil v France | Final | 1998 FIFA World Cup France™ | Full Match Replay</title>
-		<desc>Watch the full replay from the match between Brazil and France</desc>
+		<desc>Watch the full replay from the match between Brazil and France played at Stade de France, Saint-Denis on Sunday, 12 July 1998.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719169'&amp;EntityType='LinearSchedule'&amp;EntityId='8749309a-742a-425c-a59e-a121f9a2b7df'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107184309 +0000" stop="20251107204023 +0000">
 		<title>Argentina v Croatia | Semi-finals | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and Croatia played at Lusail Stadium, Al Daayen.</desc>
+		<desc>Watch the full match replay between Argentina and Croatia played at Lusail Stadium, Al Daayen on Tuesday, 13 December 2022 at 22:00.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719178'&amp;EntityType='LinearSchedule'&amp;EntityId='45305d6d-98f8-4d0f-8fd2-55b491dcf36b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107204023 +0000" stop="20251107222855 +0000">
 		<title>Mexico v Bulgaria | Round of 16 | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Mexico and Bulgaria, Mexico City, 15 June 1986.</desc>
+		<desc>Watch the full match replay from the match between Mexico and Bulgaria played at Estadio Azteca, Mexico City on Sunday, 15 June 1986. The match is now available with commentary in Spanish.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719186'&amp;EntityType='LinearSchedule'&amp;EntityId='476cc88f-4d57-4f68-a93d-024ff304446b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107222855 +0000" stop="20251107225618 +0000">
 		<title>Hristo Stoichkov | Voices</title>
-		<desc>Hristo Stoichkov recounts Bulgaria’s miracle at USA '94 in a unique narrative journey.</desc>
+		<desc>A Ballon d'Or winner and Bulgaria's miracle at USA '94. Hristo Stoichkov sharing an unforgettable journey through an up-close narrative.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719194'&amp;EntityType='LinearSchedule'&amp;EntityId='9f22b3b4-3f89-4f37-92db-136466a4f686'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107225618 +0000" stop="20251107232634 +0000">
 		<title>Episode 2 | Kariobangi</title>
-		<desc>Meet the Kariobangi Sharks, a team in the slums of Nairobi</desc>
+		<desc>The Sharks search for a new striker as Kenya try to reach their first ever World Cup.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719203'&amp;EntityType='LinearSchedule'&amp;EntityId='45f0fb3d-3bc8-4593-9553-58c379388136'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251107232634 +0000" stop="20251108010221 +0000">
 		<title>La Coupe de la Gloire | The Official Film of the 1998 FIFA World Cup™</title>
-		<desc>Enjoy the fascinating story of the 1998 tournament</desc>
+		<desc>Enjoy the fascinating story of the 1998 tournament – one seemingly written for Ronaldo and Brazil but ultimately belonging to Zinedine Zidane and France.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719210'&amp;EntityType='LinearSchedule'&amp;EntityId='090526c8-4567-4395-a4c8-8e512d309c5e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251108010221 +0000" stop="20251108012034 +0000">
@@ -3530,32 +3511,32 @@
 	</programme>
 	<programme channel="557763" start="20251108012034 +0000" stop="20251108030722 +0000">
 		<title>Argentina v England | Quarter-finals | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and England played at Estadio Azteca, Mexico City.</desc>
+		<desc>Watch the full match replay between Argentina and England played at Estadio Azteca, Mexico City on Sunday, 22 June 1986.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719236'&amp;EntityType='LinearSchedule'&amp;EntityId='a9235b38-be42-4ce3-9a29-8a59a2a04277'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251108030722 +0000" stop="20251108045636 +0000">
 		<title>Bulgaria v Germany | Quarter-finals | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Bulgaria and Germany played at Giants Stadium, New Jersey.</desc>
+		<desc>Watch the full match replay between Bulgaria and Germany played at Giants Stadium, New Jersey on Sunday, 10 July 1994.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719243'&amp;EntityType='LinearSchedule'&amp;EntityId='e5413f32-057d-4d28-b0ab-c56e4496de11'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251108045636 +0000" stop="20251108072445 +0000">
 		<title>Germany FR v Mexico | Quarter-finals | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany FR and Mexico, San Nicolas, 21 June 1986.</desc>
+		<desc>Watch the full match replay from the match between Germany FR and Mexico played at Estadio Universitario, San Nicolas De Los Garza on Saturday, 21 June 1986.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719251'&amp;EntityType='LinearSchedule'&amp;EntityId='ab15678c-952a-45a1-813e-f6df511557c8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251108072445 +0000" stop="20251108075426 +0000">
 		<title>Vicente Del Bosque | Voices</title>
-		<desc>The mastermind behind Spain’s FIFA World Cup triumph shares his personal story.</desc>
+		<desc>The mastermind behind Spain's FIFA World Cup triumph shares his story through personal testimony.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719265'&amp;EntityType='LinearSchedule'&amp;EntityId='3266e95b-decc-4538-a99d-0ca281a4d2f9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251108075426 +0000" stop="20251108085553 +0000">
 		<title>Futebol Arte</title>
-		<desc>Brazil squad at the 1982 FIFA World Cup will forever be remembered as one of the most exciting teams</desc>
+		<desc>Despite falling short of their ultimate goal, the Brazil squad at the 1982 FIFA World Cup will forever be remembered as one of the most exciting teams in the tournament’s history.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719279'&amp;EntityType='LinearSchedule'&amp;EntityId='aae0c6d5-a96f-4668-9cfb-5092d74eb067'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251108085553 +0000" stop="20251108093021 +0000">
 		<title>Episode 3 | Kariobangi</title>
-		<desc>Meet the Kariobangi Sharks, a team in the slums of Nairobi</desc>
+		<desc>The Sharks deal with adversity on the field, as their young players try to find a way out of the slum.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719289'&amp;EntityType='LinearSchedule'&amp;EntityId='bc1f46a4-4fa1-4a99-9992-82d403553a4f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251108093021 +0000" stop="20251108095832 +0000">
@@ -3580,17 +3561,17 @@
 	</programme>
 	<programme channel="557763" start="20251108120141 +0000" stop="20251108142949 +0000">
 		<title>Germany FR v Mexico | Quarter-finals | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany FR and Mexico, San Nicolas, 21 June 1986.</desc>
+		<desc>Watch the full match replay from the match between Germany FR and Mexico played at Estadio Universitario, San Nicolas De Los Garza on Saturday, 21 June 1986.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719347'&amp;EntityType='LinearSchedule'&amp;EntityId='433fabfb-ff50-4edc-aa7e-5091fdd4d2a3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251108142949 +0000" stop="20251108153116 +0000">
 		<title>Futebol Arte</title>
-		<desc>Brazil squad at the 1982 FIFA World Cup will forever be remembered as one of the most exciting teams</desc>
+		<desc>Despite falling short of their ultimate goal, the Brazil squad at the 1982 FIFA World Cup will forever be remembered as one of the most exciting teams in the tournament’s history.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719356'&amp;EntityType='LinearSchedule'&amp;EntityId='493d3817-72ce-4549-bb55-da447ab37dee'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251108153116 +0000" stop="20251108172237 +0000">
-		<title>U17s Womens Placeholder 8th NOV 330pm</title>
-		<desc>U17s Womens Placeholder 8th NOV 330pm</desc>
+		<title>Brazil v Mexico | Play-off for third place | FIFA U-17 Women's World Cup Morocco 2025™</title>
+		<desc>Watch the match between Brazil and Mexico played at Prince Moulay Abdellah Annex Stadium, Rabat on Saturday, 8 November 2025 at 16:30 (local time).</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='9719365'&amp;EntityType='LinearSchedule'&amp;EntityId='7354ec6f-4d32-4d6b-83f0-71e4eeaa5dee'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251107163000 +0000" stop="20251107170000 +0000">
