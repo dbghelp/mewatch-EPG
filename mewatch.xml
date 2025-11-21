@@ -24,6 +24,10 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
+	<channel id="186574">
+		<display-name>Oktolidays</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9467885'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=945&amp;Height=250" />
+	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -35,6 +39,14 @@
 	<channel id="97078">
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
+	</channel>
+	<channel id="558241">
+		<display-name>River Monsters</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089297'&amp;EntityType='Item'&amp;EntityId='558241'&amp;Width=150&amp;Height=59" />
+	</channel>
+	<channel id="558273">
+		<display-name>FoodON</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089305'&amp;EntityType='Item'&amp;EntityId='558273'&amp;Width=150&amp;Height=59" />
 	</channel>
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
@@ -1036,6 +1048,76 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10077132'&amp;EntityType='LinearSchedule'&amp;EntityId='ea4c1104-aa4b-4674-aa8d-15bd61c2d9df'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="186574" start="20251120160000 +0000" stop="20251121040000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048400'&amp;EntityType='LinearSchedule'&amp;EntityId='75cbd3a2-02cd-483a-8d5d-585f60fcab58'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121040000 +0000" stop="20251121045956 +0000">
+		<title>Open Season: Call of Nature/One Page At A Time 伟人不见了!/Biogirl MJ's Treasure Hunt/One Page At A Time Pada Suatu Hari</title>
+		<desc>Open Season: Call of Nature/One Page At A Time 伟人不见了!/Biogirl MJ's Treasure Hunt/One Page At A Time Pada Suatu Hari</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048411'&amp;EntityType='LinearSchedule'&amp;EntityId='946cf5da-19b9-4698-9006-f7240c3bf5a9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121045956 +0000" stop="20251121060038 +0000">
+		<title>Wild Kratts/Alfie's "World of Wow!"/Ai, Ai, Cef!/Stickers Together</title>
+		<desc>Wild Kratts/Alfie's "World of Wow!"/Ai, Ai, Cef!/Stickers Together</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048420'&amp;EntityType='LinearSchedule'&amp;EntityId='a1ba1cbf-1eaf-45f8-8d02-25014196ac50'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121060038 +0000" stop="20251121070002 +0000">
+		<title>Dr. Panda/X,Y,&amp; Zain/Before I was Awesome/Ok-to-Try</title>
+		<desc>Dr. Panda/X,Y,&amp; Zain/Before I was Awesome/Ok-to-Try</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048426'&amp;EntityType='LinearSchedule'&amp;EntityId='9658d87d-aa62-41a6-9fe7-17aff1b94e63'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121070002 +0000" stop="20251121080013 +0000">
+		<title>Beyblade X/Word Whiz 华文“浆”好玩/5x5</title>
+		<desc>Beyblade X/Word Whiz 华文“浆”好玩/5x5</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048434'&amp;EntityType='LinearSchedule'&amp;EntityId='422a4209-dc36-4de3-acf2-3500d70cec86'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121080013 +0000" stop="20251121085958 +0000">
+		<title>Ultraman Omega/Game On/Blippi Singapore Adventures</title>
+		<desc>Ultraman Omega/Game On/Blippi Singapore Adventures</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048442'&amp;EntityType='LinearSchedule'&amp;EntityId='57612f17-c36d-4c82-9d50-833a2a2d3526'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121085958 +0000" stop="20251121100011 +0000">
+		<title>Dylan's Playtime Adventures/Stor Atuk/Wishes 许愿泡泡茶/One Page At A Time Oru Oorilae</title>
+		<desc>Dylan's Playtime Adventures/Stor Atuk/Wishes 许愿泡泡茶/One Page At A Time Oru Oorilae</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048450'&amp;EntityType='LinearSchedule'&amp;EntityId='d1c52805-92d5-438d-b4b8-19b628bfa497'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121100011 +0000" stop="20251121110016 +0000">
+		<title>The Little Prince and His Friends/Playing with Big Toys 小伙伴大玩具/Ayalaan/Cartoon Buddies</title>
+		<desc>The Little Prince and His Friends/Playing with Big Toys 小伙伴大玩具/Ayalaan/Cartoon Buddies</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048458'&amp;EntityType='LinearSchedule'&amp;EntityId='a0750903-c69b-4795-ae9f-6e8ad9ee8a2c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121110016 +0000" stop="20251121120009 +0000">
+		<title>Open Season: Call of Nature/Mark Your Calendar 历历在目/Kelab JMJ/One Page At A Time Oru Oorilae</title>
+		<desc>Open Season: Call of Nature/Mark Your Calendar 历历在目/Kelab JMJ/One Page At A Time Oru Oorilae</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048465'&amp;EntityType='LinearSchedule'&amp;EntityId='7e471760-8ebb-476f-a20a-e10f8ca05a12'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121120009 +0000" stop="20251121125958 +0000">
+		<title>Wild Kratts/Makan Skuad/Syber Surfer Sam</title>
+		<desc>Wild Kratts/Makan Skuad/Syber Surfer Sam</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048470'&amp;EntityType='LinearSchedule'&amp;EntityId='bf74d89c-ac2e-4825-aad6-a2fa67572b01'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121125958 +0000" stop="20251121135905 +0000">
+		<title>Dr. Panda/Just One Thing 一点通/Blippi Singapore Adventures/The Adventures of Luggy</title>
+		<desc>Dr. Panda/Just One Thing 一点通/Blippi Singapore Adventures/The Adventures of Luggy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048477'&amp;EntityType='LinearSchedule'&amp;EntityId='20e38f48-a5b9-4780-a4fd-209e20d9f266'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121135905 +0000" stop="20251121145852 +0000">
+		<title>Beyblade X/One Page At A Time 伟人不见了!/What on Earth</title>
+		<desc>Beyblade X/One Page At A Time 伟人不见了!/What on Earth</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048488'&amp;EntityType='LinearSchedule'&amp;EntityId='8e360317-1182-4691-b45d-6a6361e35be3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121145852 +0000" stop="20251121155934 +0000">
+		<title>Ultraman Omega/Projek L.I.T/Slimed Science</title>
+		<desc>Ultraman Omega/Projek L.I.T/Slimed Science</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048499'&amp;EntityType='LinearSchedule'&amp;EntityId='774d8710-702b-4ad7-8dac-d739d5d6a4a0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121155934 +0000" stop="20251121165942 +0000">
+		<title>Dylan's Playtime Adventures/Wishes 许愿泡泡茶/Lil Wild/Syber Surfer Sam</title>
+		<desc>Dylan's Playtime Adventures/Wishes 许愿泡泡茶/Lil Wild/Syber Surfer Sam</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10048508'&amp;EntityType='LinearSchedule'&amp;EntityId='76d5a6ac-b5a2-483c-98ec-11d4ec0e3e0a'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="98200" start="20251120160000 +0000" stop="20251121160000 +0000">
 		<title>No Programme available now. Next Broadcast on 22nd November, Saturday 7.20pm. Singapore Cup 2025/2026 </title>
 		<desc>SPL 01 will commence broadcast of the Singapore Cup 2025/2026: Hougang United FC vs Geylang International FC on 22nd November, Saturday 7.20pm. Please stay tuned!</desc>
@@ -1196,6 +1278,456 @@
 		<desc>The world's largest martial arts organization returns to Bangkok on November 21 with a galaxy of stars, including four-time Muay Thai World Champion Yodlekpet in the main event against Anar Mammadov. Plus, Elies Abdelali takes on Former ONE Bantamweight Kickboxing World Champion Alaverdi Ramazanov in the featured bout, Filipina sensation Islay Erika Bomogao returns against Ploychompoo, and much more! </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10168662'&amp;EntityType='LinearSchedule'&amp;EntityId='af945c42-c5b8-49ec-8c76-d73979dd44a7'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="558241" start="20251120152909 +0000" stop="20251120162140 +0000">
+		<title>River Monsters - Phantom Assassin</title>
+		<desc>Jeremy Wade returns to Australia's Fitzroy River on his toughest quest yet.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070709'&amp;EntityType='LinearSchedule'&amp;EntityId='9b18849e-109e-462a-8ce8-3bd40b72841c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251120162140 +0000" stop="20251120171436 +0000">
+		<title>River Monsters - Razorhead</title>
+		<desc>Jeremy Wade investigates reports of a creature terrorizing the Florida Keys.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070744'&amp;EntityType='LinearSchedule'&amp;EntityId='ba9c3e23-0b07-4fe9-b72a-63dd55b0bb92'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251120171436 +0000" stop="20251120180835 +0000">
+		<title>River Monsters - Colombian Slasher</title>
+		<desc>Jeremy Wade heads to Colombia to investigate a creature blamed for killing a new bride.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070755'&amp;EntityType='LinearSchedule'&amp;EntityId='cf2ffe7f-2342-4f1b-b0e6-401431ebf02d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251120180835 +0000" stop="20251120190136 +0000">
+		<title>River Monsters - Russian Killer</title>
+		<desc>The disappearance of three men in Russia proves to be a baffling case for Jeremy Wade.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070767'&amp;EntityType='LinearSchedule'&amp;EntityId='928b35b3-5e22-4b26-b8c2-e902a84c2f47'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251120190136 +0000" stop="20251120195426 +0000">
+		<title>River Monsters - Coral Reef Killer</title>
+		<desc>A mysterious sea creature impales victims on the island of Sulawesi in Indonesia.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070777'&amp;EntityType='LinearSchedule'&amp;EntityId='3519dd45-5858-4486-80f6-39c9e3883b28'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251120195426 +0000" stop="20251120204713 +0000">
+		<title>River Monsters - Mekong Mutilator</title>
+		<desc>Jeremy Wade heads to south east Asia's Mekong river in search of a baby-faced killer.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070788'&amp;EntityType='LinearSchedule'&amp;EntityId='a85f8ea8-386a-4bbc-9b77-84eab37fc57a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251120204713 +0000" stop="20251120213932 +0000">
+		<title>River Monsters - Japanese Horrors</title>
+		<desc>Jeremy Wade is in Japan on the trail of the kappa, a fish about which legends abound.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070800'&amp;EntityType='LinearSchedule'&amp;EntityId='345b0e23-2088-4c0b-950d-86b9fc7ec1bf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251120213932 +0000" stop="20251120223214 +0000">
+		<title>River Monsters - Invisible Executioner</title>
+		<desc>Extreme angler Jeremy Wade travels to the Zambezi River in Africa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070810'&amp;EntityType='LinearSchedule'&amp;EntityId='fa06e19f-6785-4662-a5d5-f7072d993213'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251120223214 +0000" stop="20251120232554 +0000">
+		<title>River Monsters - Ice Cold Killer</title>
+		<desc>Travelling from London to Greenland and on to Norway.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070820'&amp;EntityType='LinearSchedule'&amp;EntityId='74aa2b32-a08c-4f48-890f-c666fc7b8fb4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251120232554 +0000" stop="20251121001841 +0000">
+		<title>River Monsters - Demon Fish</title>
+		<desc>Jeremy Wade journeys up the Congo River in search of the ferocious Goliath Tiger Fish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070831'&amp;EntityType='LinearSchedule'&amp;EntityId='b71f4a32-0d43-426a-b949-edeab2473949'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121001841 +0000" stop="20251121011137 +0000">
+		<title>River Monsters - Body Snatcher</title>
+		<desc>Jeremy is convinced a river monster is at large after hearing tales of a body-snatching.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070840'&amp;EntityType='LinearSchedule'&amp;EntityId='358fcb93-02ce-444d-ae12-74a74ff744c7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121011137 +0000" stop="20251121020420 +0000">
+		<title>River Monsters - Legend of Loch Ness</title>
+		<desc>Jeremy Wade is on a mission to track down the famous Loch Ness monster.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070852'&amp;EntityType='LinearSchedule'&amp;EntityId='fe6fd37a-de56-40cf-9b08-d27469bc5176'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121020420 +0000" stop="20251121025713 +0000">
+		<title>River Monsters - Malaysian Lake Monster</title>
+		<desc>Two men mysteriously vanish on a remote lake in Malaysia.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070860'&amp;EntityType='LinearSchedule'&amp;EntityId='f72f59ba-00ba-47ed-a49d-b00bdc59f7a5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121025713 +0000" stop="20251121035004 +0000">
+		<title>River Monsters - Bone Crusher</title>
+		<desc>In the remote Amazon, Jeremy Wade seeks a predator which cannot be caught with a rod.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070868'&amp;EntityType='LinearSchedule'&amp;EntityId='cdd35d1e-0a2c-460a-bc73-ecd16e3a5ef0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121035004 +0000" stop="20251121044253 +0000">
+		<title>River Monsters - Flesh Ripper</title>
+		<desc>Jeremy Wade goes to New Zealand looking for a dangerous creature described 200 years ago.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070876'&amp;EntityType='LinearSchedule'&amp;EntityId='6f64f9c0-ae83-470c-86fb-177b81b0f09d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121044253 +0000" stop="20251121053548 +0000">
+		<title>River Monsters - Face Ripper</title>
+		<desc>Jeremy Wade investigates the story of a man who had his face ripped off in Bolivia.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070885'&amp;EntityType='LinearSchedule'&amp;EntityId='0a1618f0-250f-45ee-adcb-5c5599b6ef58'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121053548 +0000" stop="20251121062831 +0000">
+		<title>River Monsters - Chainsaw Predator</title>
+		<desc>Jeremy Wade is in the Australian outback trying to catch the rare freshwater sawfish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10070892'&amp;EntityType='LinearSchedule'&amp;EntityId='91dd7a2d-8f0d-4705-91db-d9784e88fc31'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121062831 +0000" stop="20251121072143 +0000">
+		<title>River Monsters - Killers from the Abyss (Part 2)</title>
+		<desc>Fishing detective, Jeremy Wade, continues the biggest investigation of his career.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092455'&amp;EntityType='LinearSchedule'&amp;EntityId='2424705f-024f-4a13-8e21-846abfdd10da'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121072143 +0000" stop="20251121081425 +0000">
+		<title>River Monsters - Hidden Predator</title>
+		<desc>Jeremy Wade goes to South Africa, where the biggest bull shark ever recorded was caught.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092459'&amp;EntityType='LinearSchedule'&amp;EntityId='84e5a604-c847-4dd5-83fa-d87b3b4947ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121081425 +0000" stop="20251121090710 +0000">
+		<title>River Monsters - Man-Eating Monster</title>
+		<desc>Extreme angler Jeremy Wade embarks on a mission in Guyana in South America.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092463'&amp;EntityType='LinearSchedule'&amp;EntityId='8db7b034-c6d1-4ca4-84b7-c312ec037076'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121090710 +0000" stop="20251121095950 +0000">
+		<title>River Monsters - Asian Slayer</title>
+		<desc>Jeremy Wade travels to the Himalayas to investigate river attacks.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092467'&amp;EntityType='LinearSchedule'&amp;EntityId='47d79121-74d6-42d1-9b47-d9a487e86125'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121095950 +0000" stop="20251121105247 +0000">
+		<title>River Monsters - Jungle Terminator</title>
+		<desc>Jeremy Wade investigates three mysterious deaths in the remote western Amazon.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092471'&amp;EntityType='LinearSchedule'&amp;EntityId='1a3fc5c2-fea5-4818-9188-471858142c8a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121105247 +0000" stop="20251121114532 +0000">
+		<title>River Monsters - Silent Assassin</title>
+		<desc>Jeremy Wade travels to the Parana River in Argentina.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092475'&amp;EntityType='LinearSchedule'&amp;EntityId='0a9a2229-191d-4319-a3d0-47045030d181'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121114532 +0000" stop="20251121124001 +0000">
+		<title>River Monsters - Killers from the Abyss (Part 1)</title>
+		<desc>Fishing detective, Jeremy Wade, takes on the biggest investigation of his career.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092479'&amp;EntityType='LinearSchedule'&amp;EntityId='b2e07585-54b9-4f40-817e-571c42318f77'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121124001 +0000" stop="20251121133231 +0000">
+		<title>River Monsters - Pack of Teeth</title>
+		<desc>Jeremy Wade is in southern Africa on the banks of the Okavango.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092483'&amp;EntityType='LinearSchedule'&amp;EntityId='befc6674-9e39-4bc2-bf5c-06a388d92c56'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121133231 +0000" stop="20251121142526 +0000">
+		<title>River Monsters - Jungle Killer</title>
+		<desc>Jeremy Wade heads to the jungles of South America to track down a dangerous fish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092487'&amp;EntityType='LinearSchedule'&amp;EntityId='3da5d332-41fb-4f3b-8c00-e31996ac3bf8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121142526 +0000" stop="20251121151820 +0000">
+		<title>River Monsters - Secrets of the Sea</title>
+		<desc>Jeremy goes behind the scenes and we see what went into the making of a season at sea.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092491'&amp;EntityType='LinearSchedule'&amp;EntityId='e8c9e0a9-a8e5-4297-b0eb-ae45328959a4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121151820 +0000" stop="20251121161113 +0000">
+		<title>River Monsters - Deep Sea Demon</title>
+		<desc>Jeremy Wade goes in search of the truth behind the sea serpent legend.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092495'&amp;EntityType='LinearSchedule'&amp;EntityId='4b891577-0bf9-4f3d-af7d-8881e2db9537'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120155630 +0000" stop="20251120160755 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Pumpkin</title>
+		<desc>A Vegetable That Promises a Healthy Fall: Pumpkin</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107174'&amp;EntityType='LinearSchedule'&amp;EntityId='c5770521-ad54-4405-9c8d-3f6e1845b014'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120160755 +0000" stop="20251120161544 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Sweet Potato</title>
+		<desc>Sweet Potato</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107178'&amp;EntityType='LinearSchedule'&amp;EntityId='511964f4-f151-4849-96f5-4538b96ab0df'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120161544 +0000" stop="20251120162601 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Taro</title>
+		<desc>How to Prepare and Grill Taro</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107182'&amp;EntityType='LinearSchedule'&amp;EntityId='8cd3bae6-a474-4189-8b89-3f0d0cf515fe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120162601 +0000" stop="20251120164153 +0000">
+		<title>Chingus - Chingus ep.20 Spicy Stir-fried Chicken</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107186'&amp;EntityType='LinearSchedule'&amp;EntityId='aab85d06-50b0-40eb-9c00-636c39ff1c36'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120164153 +0000" stop="20251120165327 +0000">
+		<title>Chingus - Chingus ep.1 Bone hangover soup</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107190'&amp;EntityType='LinearSchedule'&amp;EntityId='19aac982-63fd-4bc8-9f64-2e2d2580d769'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120165327 +0000" stop="20251120165627 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 7. 'Korean Chestnut Rice Cake and Fruit Punch'.</title>
+		<desc>We’d tried to reproduce 'Korean Chestnut Rice Cake and Fruit Punch'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107194'&amp;EntityType='LinearSchedule'&amp;EntityId='33407726-5759-4375-83d9-fd89874ace7e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120165627 +0000" stop="20251120170010 +0000">
+		<title>A royal culinary class - EP8</title>
+		<desc>A royal culinary class</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107198'&amp;EntityType='LinearSchedule'&amp;EntityId='448fc7e8-1848-42c7-9414-869bb2bf2c75'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120170010 +0000" stop="20251120172831 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Fermented Red Pepper and Steamed Yam Tofu</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107202'&amp;EntityType='LinearSchedule'&amp;EntityId='aea1aacf-aee6-4692-9089-4e631425822c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120172831 +0000" stop="20251120175616 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Fermented Lemon and Cold Melon Soup</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107206'&amp;EntityType='LinearSchedule'&amp;EntityId='e0c32b83-e54b-4fe3-8bba-603aa8e9b185'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120175616 +0000" stop="20251120191137 +0000">
+		<title>Drink with God Season 2 - Drink with god</title>
+		<desc>Season 1 finale! The last battle among the 5 MCs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107210'&amp;EntityType='LinearSchedule'&amp;EntityId='f985b445-d17d-4c14-a5f0-525ea59d7f5e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120191137 +0000" stop="20251120202044 +0000">
+		<title>Drink with God Season 2 - Drink with God Season 2-1</title>
+		<desc>Legendary Korean basketball star Heo Jae! On his 30th wedding anniversary, what dish will be recommended to him to share with his wife?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107214'&amp;EntityType='LinearSchedule'&amp;EntityId='255c2aa2-e249-4802-91bd-71384a9cfe01'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120202044 +0000" stop="20251120212651 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.11 Drinking Snack Meal Kit</title>
+		<desc>Watch out for a tipsy night! This week at the Meal Kit Lab?it’s time for the “Drinking Snack Meal Kit” showdown!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107218'&amp;EntityType='LinearSchedule'&amp;EntityId='ee5a7f64-f42e-4cca-b41b-3a8bb83ae04d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120212651 +0000" stop="20251120223302 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.12 Galbijjim Meal Kit</title>
+		<desc>Galbijjim?Korean braised short ribs, loved by all ages and nationalities! But who will be the one to win over even the foreign taste buds?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107222'&amp;EntityType='LinearSchedule'&amp;EntityId='617ad042-5e3b-4d6f-b8bc-7e0d276e3213'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120223302 +0000" stop="20251120224310 +0000">
+		<title>Awesome Food - Awesome Food Ep.22 Steamed Fish</title>
+		<desc>Making 10 Steamed Fish Dishes!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107226'&amp;EntityType='LinearSchedule'&amp;EntityId='8ad17df9-56f8-46e4-8101-4b3fd352386b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120224310 +0000" stop="20251120225516 +0000">
+		<title>Awesome Food - Awesome Food Ep.23 Clam Macarons</title>
+		<desc>Making Clam Macarons</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107230'&amp;EntityType='LinearSchedule'&amp;EntityId='543b55ef-5fe3-463a-af7e-1e1af8942912'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120225516 +0000" stop="20251120230917 +0000">
+		<title>Awesome Food - Awesome Food Ep.24 Traditional Korean Snack</title>
+		<desc>Making Traditional Korean Snack Oranda and jeonbyung</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107234'&amp;EntityType='LinearSchedule'&amp;EntityId='097e8bd6-8584-486c-8caf-2c2ff1ce1d54'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120230917 +0000" stop="20251120232041 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Pumpkin</title>
+		<desc>A Vegetable That Promises a Healthy Fall: Pumpkin</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107238'&amp;EntityType='LinearSchedule'&amp;EntityId='9eb7cf04-7967-4fbe-bb99-761df3afae85'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120232041 +0000" stop="20251120232830 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Sweet Potato</title>
+		<desc>Sweet Potato</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107242'&amp;EntityType='LinearSchedule'&amp;EntityId='691c5c3c-234e-4731-b3f2-f0c68a146c66'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120232830 +0000" stop="20251120233847 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Taro</title>
+		<desc>How to Prepare and Grill Taro</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107246'&amp;EntityType='LinearSchedule'&amp;EntityId='a0c174e1-e668-4442-b680-f433e3f2949f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120233847 +0000" stop="20251120235439 +0000">
+		<title>Chingus - Chingus ep.20 Spicy Stir-fried Chicken</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107250'&amp;EntityType='LinearSchedule'&amp;EntityId='2f016619-32dc-425a-b266-2f99d55e203c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251120235439 +0000" stop="20251121000613 +0000">
+		<title>Chingus - Chingus ep.1 Bone hangover soup</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107254'&amp;EntityType='LinearSchedule'&amp;EntityId='516e875d-f12b-4814-ae8a-9f7f5b873bf6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121000613 +0000" stop="20251121000913 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 7. 'Korean Chestnut Rice Cake and Fruit Punch'.</title>
+		<desc>We’d tried to reproduce 'Korean Chestnut Rice Cake and Fruit Punch'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107258'&amp;EntityType='LinearSchedule'&amp;EntityId='f92d5db2-7ef0-4f9a-b069-488c1a74dc76'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121000913 +0000" stop="20251121001256 +0000">
+		<title>A royal culinary class - EP8</title>
+		<desc>A royal culinary class</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107262'&amp;EntityType='LinearSchedule'&amp;EntityId='c229d79b-8eb2-4ca9-869e-053fd1aac0d5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121001256 +0000" stop="20251121004117 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Fermented Red Pepper and Steamed Yam Tofu</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107266'&amp;EntityType='LinearSchedule'&amp;EntityId='327eae6d-1f06-4626-aab5-7234216ca926'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121004117 +0000" stop="20251121010902 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Fermented Lemon and Cold Melon Soup</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107270'&amp;EntityType='LinearSchedule'&amp;EntityId='668d8da2-5200-4d64-94a2-421141410591'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121010902 +0000" stop="20251121022423 +0000">
+		<title>Drink with God Season 2 - Drink with god</title>
+		<desc>Season 1 finale! The last battle among the 5 MCs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107274'&amp;EntityType='LinearSchedule'&amp;EntityId='0b0c303f-61e2-4254-a39d-632dcb71f152'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121022423 +0000" stop="20251121033330 +0000">
+		<title>Drink with God Season 2 - Drink with God Season 2-1</title>
+		<desc>Legendary Korean basketball star Heo Jae! On his 30th wedding anniversary, what dish will be recommended to him to share with his wife?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107278'&amp;EntityType='LinearSchedule'&amp;EntityId='1336a61c-d0fd-48b3-8635-2f4a33ef73c6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121033330 +0000" stop="20251121043937 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.11 Drinking Snack Meal Kit</title>
+		<desc>Watch out for a tipsy night! This week at the Meal Kit Lab?it’s time for the “Drinking Snack Meal Kit” showdown!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107282'&amp;EntityType='LinearSchedule'&amp;EntityId='20595f25-acec-42d7-a9fb-17c5dd695e7c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121043937 +0000" stop="20251121054548 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.12 Galbijjim Meal Kit</title>
+		<desc>Galbijjim?Korean braised short ribs, loved by all ages and nationalities! But who will be the one to win over even the foreign taste buds?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107286'&amp;EntityType='LinearSchedule'&amp;EntityId='b532f5a6-c6ce-4447-b4e3-3ec0089111d0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121054548 +0000" stop="20251121055556 +0000">
+		<title>Awesome Food - Awesome Food Ep.22 Steamed Fish</title>
+		<desc>Making 10 Steamed Fish Dishes!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107290'&amp;EntityType='LinearSchedule'&amp;EntityId='5d8f29bd-a622-4164-b282-0fd7dbbab654'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121055556 +0000" stop="20251121060802 +0000">
+		<title>Awesome Food - Awesome Food Ep.23 Clam Macarons</title>
+		<desc>Making Clam Macarons</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107294'&amp;EntityType='LinearSchedule'&amp;EntityId='7d166016-7f59-4231-89c5-6f94a3c7323e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121060802 +0000" stop="20251121062203 +0000">
+		<title>Awesome Food - Awesome Food Ep.24 Traditional Korean Snack</title>
+		<desc>Making Traditional Korean Snack Oranda and jeonbyung</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107298'&amp;EntityType='LinearSchedule'&amp;EntityId='593c2604-cf56-4eee-956f-96aaa14eb39f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121062203 +0000" stop="20251121063327 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Pumpkin</title>
+		<desc>A Vegetable That Promises a Healthy Fall: Pumpkin</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107302'&amp;EntityType='LinearSchedule'&amp;EntityId='6e97d172-ba53-4959-a618-14c419466e15'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121063327 +0000" stop="20251121064116 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Sweet Potato</title>
+		<desc>Sweet Potato</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107306'&amp;EntityType='LinearSchedule'&amp;EntityId='505ae0ea-9a90-4e89-a564-19d8325b74c0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121064116 +0000" stop="20251121065133 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Taro</title>
+		<desc>How to Prepare and Grill Taro</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107310'&amp;EntityType='LinearSchedule'&amp;EntityId='4c085190-0322-4027-ae34-c1d27a8941cb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121065133 +0000" stop="20251121070725 +0000">
+		<title>Chingus - Chingus ep.20 Spicy Stir-fried Chicken</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107314'&amp;EntityType='LinearSchedule'&amp;EntityId='c99aad33-cda3-415d-a504-05786bf923ec'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121070725 +0000" stop="20251121071859 +0000">
+		<title>Chingus - Chingus ep.1 Bone hangover soup</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107318'&amp;EntityType='LinearSchedule'&amp;EntityId='b75a8d3b-36c7-4b01-81c8-3abcac628f5e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121071859 +0000" stop="20251121072159 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 7. 'Korean Chestnut Rice Cake and Fruit Punch'.</title>
+		<desc>We’d tried to reproduce 'Korean Chestnut Rice Cake and Fruit Punch'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107322'&amp;EntityType='LinearSchedule'&amp;EntityId='47cd7cd1-bdb6-4fa8-bc24-a2ca1fd84ec1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121072159 +0000" stop="20251121072542 +0000">
+		<title>A royal culinary class - EP8</title>
+		<desc>A royal culinary class</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107326'&amp;EntityType='LinearSchedule'&amp;EntityId='62423253-23cb-48e0-860d-154898116787'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121072542 +0000" stop="20251121075404 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Fermented Red Pepper and Steamed Yam Tofu</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107330'&amp;EntityType='LinearSchedule'&amp;EntityId='810f42f9-49db-4263-bc17-66d3d4ba1842'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121075404 +0000" stop="20251121082148 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Fermented Lemon and Cold Melon Soup</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107334'&amp;EntityType='LinearSchedule'&amp;EntityId='50f1ceb6-373b-4fc0-ad9f-d47dac486ca9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121082148 +0000" stop="20251121093709 +0000">
+		<title>Drink with God Season 2 - Drink with god</title>
+		<desc>Season 1 finale! The last battle among the 5 MCs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107338'&amp;EntityType='LinearSchedule'&amp;EntityId='e0e7bf50-b7f0-4240-b283-3c0a2732d7e2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121093709 +0000" stop="20251121104316 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.11 Drinking Snack Meal Kit</title>
+		<desc>Watch out for a tipsy night! This week at the Meal Kit Lab?it’s time for the “Drinking Snack Meal Kit” showdown!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107342'&amp;EntityType='LinearSchedule'&amp;EntityId='8cd25367-ab91-4601-b495-9785bd07f73c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121104316 +0000" stop="20251121115223 +0000">
+		<title>Drink with God Season 2 - Drink with God Season 2-1</title>
+		<desc>Legendary Korean basketball star Heo Jae! On his 30th wedding anniversary, what dish will be recommended to him to share with his wife?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107346'&amp;EntityType='LinearSchedule'&amp;EntityId='79e96ebe-2e22-4372-80bb-0f15bd40fd23'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121115223 +0000" stop="20251121125834 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.12 Galbijjim Meal Kit</title>
+		<desc>Galbijjim?Korean braised short ribs, loved by all ages and nationalities! But who will be the one to win over even the foreign taste buds?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107350'&amp;EntityType='LinearSchedule'&amp;EntityId='5b17ebb6-b8e5-4cdd-8bfc-a39ca5c62ac0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121125834 +0000" stop="20251121130842 +0000">
+		<title>Awesome Food - Awesome Food Ep.22 Steamed Fish</title>
+		<desc>Making 10 Steamed Fish Dishes!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107354'&amp;EntityType='LinearSchedule'&amp;EntityId='9da215f0-61b3-4655-98cb-74a1a425be03'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121130842 +0000" stop="20251121132048 +0000">
+		<title>Awesome Food - Awesome Food Ep.23 Clam Macarons</title>
+		<desc>Making Clam Macarons</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107358'&amp;EntityType='LinearSchedule'&amp;EntityId='5031328f-3e08-4ef0-846d-5c09d06dcb79'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121132048 +0000" stop="20251121133449 +0000">
+		<title>Awesome Food - Awesome Food Ep.24 Traditional Korean Snack</title>
+		<desc>Making Traditional Korean Snack Oranda and jeonbyung</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107362'&amp;EntityType='LinearSchedule'&amp;EntityId='74119cc3-fe55-4672-9922-a1395280a592'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121133449 +0000" stop="20251121133749 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 7. 'Korean Chestnut Rice Cake and Fruit Punch'.</title>
+		<desc>We’d tried to reproduce 'Korean Chestnut Rice Cake and Fruit Punch'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107366'&amp;EntityType='LinearSchedule'&amp;EntityId='ba3ab977-88e1-44ec-97d4-e96190b0ddbc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121133749 +0000" stop="20251121134132 +0000">
+		<title>A royal culinary class - EP8</title>
+		<desc>A royal culinary class</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107370'&amp;EntityType='LinearSchedule'&amp;EntityId='2d7fc748-d913-4b06-91a0-13bf16a7061b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121134132 +0000" stop="20251121135256 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Pumpkin</title>
+		<desc>A Vegetable That Promises a Healthy Fall: Pumpkin</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107374'&amp;EntityType='LinearSchedule'&amp;EntityId='3071dcb8-8127-4635-b6b8-9a8c4b54ad93'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121135256 +0000" stop="20251121140045 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Sweet Potato</title>
+		<desc>Sweet Potato</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107378'&amp;EntityType='LinearSchedule'&amp;EntityId='757fa84c-3452-4fce-b19a-c7280c2f24c7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121140045 +0000" stop="20251121141102 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Taro</title>
+		<desc>How to Prepare and Grill Taro</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107382'&amp;EntityType='LinearSchedule'&amp;EntityId='2d7a818e-1086-407b-979f-dbc3feff9b87'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121141102 +0000" stop="20251121142654 +0000">
+		<title>Chingus - Chingus ep.20 Spicy Stir-fried Chicken</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107386'&amp;EntityType='LinearSchedule'&amp;EntityId='cc703586-2f5c-4a74-bf2f-3593cdaa4a72'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121142654 +0000" stop="20251121143828 +0000">
+		<title>Chingus - Chingus ep.1 Bone hangover soup</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10107390'&amp;EntityType='LinearSchedule'&amp;EntityId='25a73a3e-6f13-47db-a81c-8a692dd7f911'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121143828 +0000" stop="20251121150650 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Fermented Red Pepper and Steamed Yam Tofu</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10107394'&amp;EntityType='LinearSchedule'&amp;EntityId='9c30e580-029f-43c1-b772-d88313f4101f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121150650 +0000" stop="20251121151659 +0000">
+		<title>Awesome Food - Awesome Food Ep.25 Cupcakes</title>
+		<desc>Process of Making Beautiful Cupcakes</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10118952'&amp;EntityType='LinearSchedule'&amp;EntityId='b09dec08-932a-4d1e-92e9-93b2872f2d71'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121151659 +0000" stop="20251121152711 +0000">
+		<title>Awesome Food - Awesome Food Ep.26 Galbi-Flavored Fried Chicken</title>
+		<desc>Making Korean Galbi-Flavored Fried Chicken</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10118956'&amp;EntityType='LinearSchedule'&amp;EntityId='c766e8c1-7e70-4dfa-be3f-59ecae302be9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121152711 +0000" stop="20251121153740 +0000">
+		<title>Awesome Food - Awesome Food Ep.27 Korean Seafood Restaurant</title>
+		<desc>Enjoy fresh seafood in this Korean Seafood Restaurant</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10118960'&amp;EntityType='LinearSchedule'&amp;EntityId='89a80f93-2c3b-40cd-b27b-068c8305e639'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121153740 +0000" stop="20251121154737 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Spring Cabbage</title>
+		<desc>Winter Cabbage Full of Earth’s Energy, Spring Cabbage</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10118964'&amp;EntityType='LinearSchedule'&amp;EntityId='91a5e7fd-f42c-4808-8333-fdafa5c4bc6c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121154737 +0000" stop="20251121155823 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Shepherd’s Purse</title>
+		<desc>Herald of Spring, Shepherd’s Purse</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10118968'&amp;EntityType='LinearSchedule'&amp;EntityId='6bbd7785-7b48-4d3f-b9d2-371326886987'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121155823 +0000" stop="20251121161338 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Spring Cabbage</title>
+		<desc>Nutrient-Packed Spring Cabbage</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10118972'&amp;EntityType='LinearSchedule'&amp;EntityId='006ee93c-cdd6-4bb6-8731-d5ade97d42bf'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="557763" start="20251120135014 +0000" stop="20251120162107 +0000">
 		<title>Norway v Philippines | Group A | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
 		<desc>Watch the full match replay between Norway and Philippines played at Eden Park, Auckland</desc>
@@ -1224,52 +1756,52 @@
 	<programme channel="557763" start="20251121005754 +0000" stop="20251121024559 +0000">
 		<title>Argentina v Serbia and Montenegro | Group C | 2006 FIFA World Cup Germany™ | Full Match Replay</title>
 		<desc>Watch the full match replay from the match between Argentina and Serbia and Montenegro played at Veltins Arena</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197526'&amp;EntityType='LinearSchedule'&amp;EntityId='487cb0cc-d86e-4f46-9d98-2bdffe9d565a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197896'&amp;EntityType='LinearSchedule'&amp;EntityId='2a018fdc-ee1c-44ad-bcc8-896a78d06bcc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121024559 +0000" stop="20251121051033 +0000">
 		<title>Italy v Germany FR | Semi-finals | 1970 FIFA World Cup Mexico™ | Full Match Replay</title>
 		<desc>Watch the full match replay between Italy and Germany FR played in Mexico City.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197530'&amp;EntityType='LinearSchedule'&amp;EntityId='4972a225-23e0-440c-83d8-19835aec480a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197868'&amp;EntityType='LinearSchedule'&amp;EntityId='5cb5a822-168c-46d1-a399-c823935de230'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121051033 +0000" stop="20251121072427 +0000">
 		<title>Seven Games from Glory | The Official Film of the 2002 FIFA World Cup™</title>
 		<desc>Go behind the scenes with Ronaldo and the heroes of the 2002 FIFA World Cup.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197510'&amp;EntityType='LinearSchedule'&amp;EntityId='c9ea66a8-f118-4578-8138-7435f93d95b7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197900'&amp;EntityType='LinearSchedule'&amp;EntityId='13be6b11-b9c9-4bb2-bebf-4d140ca85de7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121072427 +0000" stop="20251121074812 +0000">
 		<title>Antonio Rüdiger and Timothy Weah | HD Cutz</title>
 		<desc>The old friend Antonio Rüdiger, before jetting off to France to meet a new customer.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197494'&amp;EntityType='LinearSchedule'&amp;EntityId='5304c12d-e33c-41b8-8735-298914ad1b62'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197872'&amp;EntityType='LinearSchedule'&amp;EntityId='6a32da78-51c2-4aaa-8a17-74c821b0caa7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121074812 +0000" stop="20251121094101 +0000">
 		<title>Spain v Japan | Final | FIFA U-20 Women's World Cup Costa Rica 2022 | Full Match Replay</title>
 		<desc>Watch the full match replay from the match between Spain and Japan played at Costa Rica</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197518'&amp;EntityType='LinearSchedule'&amp;EntityId='577aa454-71fe-4238-83d4-2febbfc46720'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197888'&amp;EntityType='LinearSchedule'&amp;EntityId='b0f86fd4-cf04-4b12-ba2e-78cf646f162a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121094101 +0000" stop="20251121100447 +0000">
 		<title>Antonio Rüdiger and Timothy Weah | HD Cutz</title>
 		<desc>The old friend Antonio Rüdiger, before jetting off to France to meet a new customer.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197514'&amp;EntityType='LinearSchedule'&amp;EntityId='e92aa5d8-729d-4c05-aa5c-7075f3f1c819'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197876'&amp;EntityType='LinearSchedule'&amp;EntityId='2385ff48-13ce-4d16-a2e2-b94a54d87c36'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121100447 +0000" stop="20251121103651 +0000">
 		<title>Italy v Brazil: The Finals</title>
 		<desc>FIFA World Cup™ Matches That Astonished the World 3</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197502'&amp;EntityType='LinearSchedule'&amp;EntityId='5270f52e-0758-40eb-b2d8-51b4d88a07e7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197880'&amp;EntityType='LinearSchedule'&amp;EntityId='c8cecedb-58aa-4f78-b8b3-b0f359878bb9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121103651 +0000" stop="20251121105403 +0000">
 		<title>Joy: Marco Tardelli | Eyes of the World</title>
 		<desc>A final, a goal, and "a shout I've waited my whole life to make."</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197506'&amp;EntityType='LinearSchedule'&amp;EntityId='4a01619c-2786-4ec3-bbb9-7d39ad1db176'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197864'&amp;EntityType='LinearSchedule'&amp;EntityId='6ef1b4f0-0204-4abb-b186-07233c8e104a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121105403 +0000" stop="20251121142209 +0000">
 		<title>Australia v France | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
 		<desc>Watch the full match replay between Australia and France played at Brisbane Stadium, Brisbane.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197522'&amp;EntityType='LinearSchedule'&amp;EntityId='0ff24d4c-0d4e-43bb-9a68-530e9be7871f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197884'&amp;EntityType='LinearSchedule'&amp;EntityId='16722694-7fcd-4faf-af20-35b0b382ec0d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121142209 +0000" stop="20251121164531 +0000">
 		<title>LIVE - Italia - Burkina Faso | Coppa del Mondo FIFA U-17 Qatar 2025</title>
 		<desc>Guarda la partita tra Italia e Burkina Faso giocato al Zona Aspire - Campo 5 - Khaled Ballan.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197498'&amp;EntityType='LinearSchedule'&amp;EntityId='ce4e9e85-1b15-48ae-bb8c-261c5481e911'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197892'&amp;EntityType='LinearSchedule'&amp;EntityId='b5a07458-a503-479d-817e-3efa13e292ad'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251120153000 +0000" stop="20251120160500 +0000">
 		<title>Sheballer: Sheballer ep.4</title>
@@ -3289,7 +3821,7 @@
 	<programme channel="97072" start="20251121233000 +0000" stop="20251122000000 +0000">
 		<title>On The Red Dot - EP 27</title>
 		<desc>After repeated rejections, Nicholas builds a barbering business. Dave gets over 100 no’s but finds viral traction on TikTok, giving him the confidence to jump into livestream sales.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10105983'&amp;EntityType='LinearSchedule'&amp;EntityId='61722264-42c6-4f83-9d88-86a3f5f6e5b5'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10208002'&amp;EntityType='LinearSchedule'&amp;EntityId='61722264-42c6-4f83-9d88-86a3f5f6e5b5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20251122000000 +0000" stop="20251122003000 +0000">
 		<title>(Live) Asia Now</title>
@@ -3329,7 +3861,7 @@
 	<programme channel="97072" start="20251122033000 +0000" stop="20251122040000 +0000">
 		<title>On The Red Dot - EP 27</title>
 		<desc>After repeated rejections, Nicholas builds a barbering business. Dave gets over 100 no’s but finds viral traction on TikTok, giving him the confidence to jump into livestream sales.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10105991'&amp;EntityType='LinearSchedule'&amp;EntityId='ae21d1a2-3276-40bd-bab5-22a26e833238'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10208006'&amp;EntityType='LinearSchedule'&amp;EntityId='ae21d1a2-3276-40bd-bab5-22a26e833238'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20251122040000 +0000" stop="20251122043000 +0000">
 		<title>(Live) Asia Now</title>
@@ -3439,7 +3971,7 @@
 	<programme channel="97072" start="20251122143000 +0000" stop="20251122150000 +0000">
 		<title>On The Red Dot - EP 28</title>
 		<desc>Rae, a first-class dietetics graduate, left the field after feeling she couldn’t make the impact she hoped for. While reorganising her home, she found a new passion and pursued professional organising. Tsuri, a design communication graduate, left the corporate 9-to-5 and discovered an unexpected passion for car wrapping after investing in an automotive business with her husband.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10106000'&amp;EntityType='LinearSchedule'&amp;EntityId='3cdf243c-f388-4244-bf7d-45a383b84be4'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10208018'&amp;EntityType='LinearSchedule'&amp;EntityId='3cdf243c-f388-4244-bf7d-45a383b84be4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20251122150000 +0000" stop="20251122150300 +0000">
 		<title>(Live) Headline News</title>
@@ -3455,6 +3987,126 @@
 		<title>Headline News</title>
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10093962'&amp;EntityType='LinearSchedule'&amp;EntityId='40e2bf62-6608-46d3-81a5-ab49e3bfa65f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121165942 +0000" stop="20251121175944 +0000">
+		<title>The Little Prince and His Friends/Enna Nadakkuthu Junior/Our Story House 故事小金屋</title>
+		<desc>The Little Prince and His Friends/Enna Nadakkuthu Junior/Our Story House 故事小金屋</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078257'&amp;EntityType='LinearSchedule'&amp;EntityId='966b473e-2ff3-4df7-af0b-c13dcc0ca8f8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121175944 +0000" stop="20251121185935 +0000">
+		<title>Open Season: Call of Nature/The Cheer Team 无敌啦啦队/Paula &amp; Pals/The Adventures of Luggy</title>
+		<desc>Open Season: Call of Nature/The Cheer Team 无敌啦啦队/Paula &amp; Pals/The Adventures of Luggy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078261'&amp;EntityType='LinearSchedule'&amp;EntityId='3f472021-8b9b-4057-848d-94457a0da4bb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121185935 +0000" stop="20251121195929 +0000">
+		<title>Wild Kratts/Ai, Ai, Cef!/What on Earth</title>
+		<desc>Wild Kratts/Ai, Ai, Cef!/What on Earth</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078265'&amp;EntityType='LinearSchedule'&amp;EntityId='ddf66055-019b-4af7-9599-274233a8f289'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121195929 +0000" stop="20251121205952 +0000">
+		<title>Dr. Panda/ Vasantham Junior Chef/Giganto Club SG </title>
+		<desc>Dr. Panda/ Vasantham Junior Chef/Giganto Club SG </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078269'&amp;EntityType='LinearSchedule'&amp;EntityId='3be42cbc-8804-4b74-bca0-68f0135b3c6f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121205952 +0000" stop="20251121215954 +0000">
+		<title>Beyblade X/Biogirl MJ's Treasure Hunt/The Adventures of Luggy</title>
+		<desc>Beyblade X/Biogirl MJ's Treasure Hunt/The Adventures of Luggy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078273'&amp;EntityType='LinearSchedule'&amp;EntityId='ed3ebad2-a028-4cf0-83cf-e02b56ca9fd2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121215954 +0000" stop="20251121230027 +0000">
+		<title>Ultraman Omega/Ayalaan/5x5</title>
+		<desc>Ultraman Omega/Ayalaan/5x5</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078277'&amp;EntityType='LinearSchedule'&amp;EntityId='564788c4-2438-47eb-81da-ff77b3be6a00'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251121230027 +0000" stop="20251122000038 +0000">
+		<title>Dylan's Playtime Adventures/Diary of Amos Lee S2 阿莫的日记/Our Story House 故事小金屋/Busy Bodies</title>
+		<desc>Dylan's Playtime Adventures/Diary of Amos Lee S2 阿莫的日记/Our Story House 故事小金屋/Busy Bodies</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078281'&amp;EntityType='LinearSchedule'&amp;EntityId='f4fcb792-83ba-4f2a-bd6a-4872595439f7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122000038 +0000" stop="20251122010027 +0000">
+		<title>The Little Prince and His Friends/Kaathu Karuppu/Leo the Wildlife Ranger:S6 Spin Off/The Adventures of Luggy</title>
+		<desc>The Little Prince and His Friends/Kaathu Karuppu/Leo the Wildlife Ranger:S6 Spin Off/The Adventures of Luggy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078285'&amp;EntityType='LinearSchedule'&amp;EntityId='c57fd499-15ca-45ab-a9b6-4a38a2ab0d60'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122010027 +0000" stop="20251122020029 +0000">
+		<title>Open Season: Call of Nature/Kelab JMJ/Lil Wild/5x5</title>
+		<desc>Open Season: Call of Nature/Kelab JMJ/Lil Wild/5x5</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078289'&amp;EntityType='LinearSchedule'&amp;EntityId='d2fe138d-efc4-4858-bf5f-159097f479e2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122020029 +0000" stop="20251122030033 +0000">
+		<title>Wild Kratts/Ubin Boy/Blippi Singapore Adventures</title>
+		<desc>Wild Kratts/Ubin Boy/Blippi Singapore Adventures</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078293'&amp;EntityType='LinearSchedule'&amp;EntityId='d421b70b-8c61-472a-9282-34487883f208'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122030033 +0000" stop="20251122040000 +0000">
+		<title>Dr. Panda/Lingo Bingo 华研巧语/Fables From Oot's World/Syber Surfer Sam/The Misadventures of Cube Melt</title>
+		<desc>Dr. Panda/Lingo Bingo 华研巧语/Fables From Oot's World/Syber Surfer Sam/The Misadventures of Cube Melt</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078297'&amp;EntityType='LinearSchedule'&amp;EntityId='3f776838-49ae-446d-b3ba-4191013404eb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122040000 +0000" stop="20251122045956 +0000">
+		<title>Open Season: Call of Nature/One Page At A Time 伟人不见了!/Biogirl MJ's Treasure Hunt/One Page At A Time Pada Suatu Hari</title>
+		<desc>Open Season: Call of Nature/One Page At A Time 伟人不见了!/Biogirl MJ's Treasure Hunt/One Page At A Time Pada Suatu Hari</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078301'&amp;EntityType='LinearSchedule'&amp;EntityId='cc29471f-0e10-44ec-b5ab-258fd57c14c6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122045956 +0000" stop="20251122060038 +0000">
+		<title>Wild Kratts/Alfie's "World of Wow!"/Ai, Ai, Cef!/Stickers Together</title>
+		<desc>Wild Kratts/Alfie's "World of Wow!"/Ai, Ai, Cef!/Stickers Together</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078305'&amp;EntityType='LinearSchedule'&amp;EntityId='30f045ea-bdc0-4129-a913-d23e580161a3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122060038 +0000" stop="20251122070002 +0000">
+		<title>Dr. Panda/X,Y,&amp; Zain/Before I was Awesome/Ok-to-Try</title>
+		<desc>Dr. Panda/X,Y,&amp; Zain/Before I was Awesome/Ok-to-Try</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078309'&amp;EntityType='LinearSchedule'&amp;EntityId='f8288714-14e5-4ce4-8177-cb63017dede2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122070002 +0000" stop="20251122080013 +0000">
+		<title>Beyblade X/Word Whiz 华文“浆”好玩/5x5</title>
+		<desc>Beyblade X/Word Whiz 华文“浆”好玩/5x5</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078313'&amp;EntityType='LinearSchedule'&amp;EntityId='64520e27-22fc-4c6d-afb1-9310dbd5d832'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122080013 +0000" stop="20251122085958 +0000">
+		<title>Ultraman Omega/Game On/Blippi Singapore Adventures</title>
+		<desc>Ultraman Omega/Game On/Blippi Singapore Adventures</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078318'&amp;EntityType='LinearSchedule'&amp;EntityId='da03a204-070a-4b3c-9e85-4324a00d84e8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122085958 +0000" stop="20251122100011 +0000">
+		<title>Dylan's Playtime Adventures/Stor Atuk/Wishes 许愿泡泡茶/One Page At A Time Oru Oorilae</title>
+		<desc>Dylan's Playtime Adventures/Stor Atuk/Wishes 许愿泡泡茶/One Page At A Time Oru Oorilae</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078326'&amp;EntityType='LinearSchedule'&amp;EntityId='ecf73c9b-e303-4c49-869b-510c061d6c31'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122100011 +0000" stop="20251122110016 +0000">
+		<title>The Little Prince and His Friends/Playing with Big Toys 小伙伴大玩具/Ayalaan/Cartoon Buddies</title>
+		<desc>The Little Prince and His Friends/Playing with Big Toys 小伙伴大玩具/Ayalaan/Cartoon Buddies</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078333'&amp;EntityType='LinearSchedule'&amp;EntityId='a7736d61-f73d-46f5-a535-7ab7d8db0233'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122110016 +0000" stop="20251122120009 +0000">
+		<title>Open Season: Call of Nature/Mark Your Calendar 历历在目/Kelab JMJ/One Page At A Time Oru Oorilae</title>
+		<desc>Open Season: Call of Nature/Mark Your Calendar 历历在目/Kelab JMJ/One Page At A Time Oru Oorilae</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078337'&amp;EntityType='LinearSchedule'&amp;EntityId='e1f36ebe-05e8-4c0c-80ac-9c82a417cb37'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122120009 +0000" stop="20251122125958 +0000">
+		<title>Wild Kratts/Makan Skuad/Syber Surfer Sam</title>
+		<desc>Wild Kratts/Makan Skuad/Syber Surfer Sam</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078342'&amp;EntityType='LinearSchedule'&amp;EntityId='4841f5a6-1312-4c87-a868-a46eefb9d4d6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122125958 +0000" stop="20251122135905 +0000">
+		<title>Dr. Panda/Just One Thing 一点通/Blippi Singapore Adventures/The Adventures of Luggy</title>
+		<desc>Dr. Panda/Just One Thing 一点通/Blippi Singapore Adventures/The Adventures of Luggy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078349'&amp;EntityType='LinearSchedule'&amp;EntityId='dfa91382-03b6-4c1b-97bb-bbab3c58adfa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122135905 +0000" stop="20251122145852 +0000">
+		<title>Beyblade X/One Page At A Time 伟人不见了!/What on Earth</title>
+		<desc>Beyblade X/One Page At A Time 伟人不见了!/What on Earth</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078353'&amp;EntityType='LinearSchedule'&amp;EntityId='a82ca515-dd41-4bc0-94fb-1f227f4bbcbb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122145852 +0000" stop="20251122155934 +0000">
+		<title>Ultraman Omega/Projek L.I.T/Slimed Science</title>
+		<desc>Ultraman Omega/Projek L.I.T/Slimed Science</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078359'&amp;EntityType='LinearSchedule'&amp;EntityId='9f9b485c-0ec2-496e-ae6a-83aae8653a02'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20251122155934 +0000" stop="20251122165942 +0000">
+		<title>Dylan's Playtime Adventures/Wishes 许愿泡泡茶/Lil Wild/Syber Surfer Sam</title>
+		<desc>Dylan's Playtime Adventures/Wishes 许愿泡泡茶/Lil Wild/Syber Surfer Sam</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10078365'&amp;EntityType='LinearSchedule'&amp;EntityId='8b7a9a99-21e1-4810-b6f3-833e1851f4db'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20251122112000 +0000" stop="20251122133000 +0000">
 		<title>Singapore Cup 2025/2026: Hougang United FC vs Geylang International FC</title>
@@ -3551,100 +4203,510 @@
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 135 on 28th November, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10093955'&amp;EntityType='LinearSchedule'&amp;EntityId='a7a7b0b9-2ccd-4353-ace1-a3d5b9f080c1'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="558241" start="20251121161113 +0000" stop="20251121170403 +0000">
+		<title>River Monsters - Congo Killer</title>
+		<desc>Jeremy Wade travels to the Congo River on the trail of the legend of the spirit Mami Wata.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092499'&amp;EntityType='LinearSchedule'&amp;EntityId='f80d74c4-9446-491b-9993-489d95012fd5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121170403 +0000" stop="20251121175625 +0000">
+		<title>River Monsters - Piranha</title>
+		<desc>Are the stories of piranha attacks on humans just myth and imagination?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092503'&amp;EntityType='LinearSchedule'&amp;EntityId='d6e0042f-7614-4d08-b230-12fcb51a85c0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121175625 +0000" stop="20251121184845 +0000">
+		<title>River Monsters - Alligator Gar</title>
+		<desc>Extreme angler Jeremy Wade heads to Texas on the trail of the vicious alligator gar.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092507'&amp;EntityType='LinearSchedule'&amp;EntityId='62123e46-034e-4add-b630-1eafd790cb03'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121184845 +0000" stop="20251121194122 +0000">
+		<title>River Monsters - Africa's Deadliest</title>
+		<desc>Wildlife series. Jeremy Wade investigates the ferocious and carnivorous tigerfish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092511'&amp;EntityType='LinearSchedule'&amp;EntityId='4e413c90-0141-4b8c-8dea-0f3e174366c1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121194122 +0000" stop="20251121203348 +0000">
+		<title>River Monsters - Freshwater Shark</title>
+		<desc>Jeremy Wade investigates the myth of the freshwater shark.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092515'&amp;EntityType='LinearSchedule'&amp;EntityId='68d89134-4cf7-48ae-aa07-50dee81f17a4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121203348 +0000" stop="20251121212652 +0000">
+		<title>River Monsters - Amazon Titanic</title>
+		<desc>Jeremy Wade investigates the sinking on the Amazon of the Sobral Santos.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092519'&amp;EntityType='LinearSchedule'&amp;EntityId='1df38c8f-1398-4246-98c9-1594cbc1ee2a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121212652 +0000" stop="20251121221943 +0000">
+		<title>River Monsters - Death Ray</title>
+		<desc>Jeremy Wade goes to Thailand in search of the 700lb giant freshwater stingray.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092523'&amp;EntityType='LinearSchedule'&amp;EntityId='e3c3d613-2085-4872-8e20-297d8cbc9535'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121221943 +0000" stop="20251121231240 +0000">
+		<title>River Monsters - Vampires of the Deep</title>
+		<desc>Jeremy Wade embarks on a punishing mission to the Pacific Northwest.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092527'&amp;EntityType='LinearSchedule'&amp;EntityId='3ae9bdc6-8f34-4b54-93ce-4179ee7657e3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251121231240 +0000" stop="20251122000539 +0000">
+		<title>River Monsters - Killer Torpedo</title>
+		<desc>Extreme angler Jeremy Wade ventures deep into Central America in search of a killer fish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092531'&amp;EntityType='LinearSchedule'&amp;EntityId='6fb6779f-9a23-4af9-b4e6-e39e24b1ccf6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122000539 +0000" stop="20251122005829 +0000">
+		<title>River Monsters - Volcanic Island Terror</title>
+		<desc>On a volcanic Pacific island, an ancient fishing community is being terrorised.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092535'&amp;EntityType='LinearSchedule'&amp;EntityId='a913b386-a338-4d6a-b068-564aa6c895db'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122005829 +0000" stop="20251122015115 +0000">
+		<title>River Monsters - Alaska's Cold Water Killer</title>
+		<desc>Jeremy Wade investigates a fatal incident in Alaska - is an unidentified killer at large?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092539'&amp;EntityType='LinearSchedule'&amp;EntityId='f3ef55e0-5a0d-48d7-bf28-9b5a89214647'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122015115 +0000" stop="20251122024338 +0000">
+		<title>River Monsters - Amazon Assassins</title>
+		<desc>In the depths of the Amazon, legends tell of an evil spirit in a great fish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092543'&amp;EntityType='LinearSchedule'&amp;EntityId='8241cf18-f42e-414f-85b4-8fb77b254fba'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122024338 +0000" stop="20251122033632 +0000">
+		<title>River Monsters - River Of Blood</title>
+		<desc>In Argentina, Jeremy Wade hunts for a vicious predator known as the 'River Tiger'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092547'&amp;EntityType='LinearSchedule'&amp;EntityId='2525d510-f17a-4b50-a5a6-8e4a4679e662'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122033632 +0000" stop="20251122042901 +0000">
+		<title>River Monsters - Atomic Assassin</title>
+		<desc>Angler Jeremy Wade braves the radiation in Chernobyl on the trail of a monster fish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092551'&amp;EntityType='LinearSchedule'&amp;EntityId='1cce5684-e36b-4ffe-a790-a43c2e4ebd4e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122042901 +0000" stop="20251122052150 +0000">
+		<title>River Monsters - Electric Executioner</title>
+		<desc>Jeremy Wade is in Brazil in search of a fish that has already killed three cowboys.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092555'&amp;EntityType='LinearSchedule'&amp;EntityId='73ca49fc-1e69-4079-b747-b32a964099f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122052150 +0000" stop="20251122061442 +0000">
+		<title>River Monsters - Devil of the Deep</title>
+		<desc>Jeremy goes on a dangerous mission where he discovers a deep-sea devil.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092559'&amp;EntityType='LinearSchedule'&amp;EntityId='f8cf5451-c718-458d-9288-ef88ab1f0ac8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122061442 +0000" stop="20251122070603 +0000">
+		<title>River Monsters: Lair of the Giants - Lair of the Giants (Part 1)</title>
+		<desc>Jeremy Wade explores the Essequibo, Guyana's largest river.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10092563'&amp;EntityType='LinearSchedule'&amp;EntityId='4b99678c-c3f1-4af4-8c0a-4aab532624ca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122070603 +0000" stop="20251122075908 +0000">
+		<title>River Monsters: Lair of the Giants - Lair of the Giants (Part 2)</title>
+		<desc>Jeremy continues his exploration of South Africa's rivers and lakes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10106142'&amp;EntityType='LinearSchedule'&amp;EntityId='9efb25cf-7281-4781-b424-3c0be41689e9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122075908 +0000" stop="20251122085145 +0000">
+		<title>River Monsters: Best of Series 1-5 - Monster Hunting Secrets</title>
+		<desc>A compilation of the best bits from this extreme fishing series.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10106146'&amp;EntityType='LinearSchedule'&amp;EntityId='713e65cd-2e2c-4862-9ef4-a3c80c7e6fce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122085145 +0000" stop="20251122094429 +0000">
+		<title>River Monsters: Best of Series 1-5 - Toughest Cases</title>
+		<desc>Another compilation of the best bits from this extreme fishing series.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10106150'&amp;EntityType='LinearSchedule'&amp;EntityId='8907968a-5dd5-4462-a2ce-634e2184cbfa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122094429 +0000" stop="20251122103656 +0000">
+		<title>River Monsters: Best of Series 1-5 - US River Monsters</title>
+		<desc>Another compilation of the best bits from this extreme fishing series.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10106154'&amp;EntityType='LinearSchedule'&amp;EntityId='12fa007c-358d-41c6-8513-9a2c501398c1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122103656 +0000" stop="20251122112937 +0000">
+		<title>River Monsters: Best of Series 1-5 - Monsters in Unexpected Places</title>
+		<desc>Another compilation of the best bits from this extreme fishing series.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10106158'&amp;EntityType='LinearSchedule'&amp;EntityId='9bb5550e-f91d-4b35-b381-daf65b2d2480'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122112937 +0000" stop="20251122122154 +0000">
+		<title>River Monsters: Best of Series 1-5 - Worst Nightmares aka Halloween Special</title>
+		<desc>Another compilation of the best bits from this extreme fishing series.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10106162'&amp;EntityType='LinearSchedule'&amp;EntityId='cfe987f7-0f2d-4969-95cb-8eef73592a57'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122122154 +0000" stop="20251122140802 +0000">
+		<title>River Monsters: Amazon Titanic - River Monsters: Amazon Titanic</title>
+		<desc>It was supposed to be the safest boat in the Amazon, but when Sobral Santos II sank by the remote town of Obidos on the night of September 21st 1981 more than 300 people died. What had laid into the passengers?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10106166'&amp;EntityType='LinearSchedule'&amp;EntityId='f801b136-8c08-430e-9291-3cc4b56f725b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122140802 +0000" stop="20251122150051 +0000">
+		<title>River Monsters: Invisible Killers - River Monsters: Invisible Killers</title>
+		<desc>Jeremy Wade looks at dark and deadly creatures - parasites.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10106170'&amp;EntityType='LinearSchedule'&amp;EntityId='11341525-dbaa-4dd1-9308-bc0c33ca5363'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122150051 +0000" stop="20251122155438 +0000">
+		<title>River Monsters Compilations - Killer Weapons</title>
+		<desc>Jeremy Wade takes a look back some of the killer fish he has encountered in the series.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10106174'&amp;EntityType='LinearSchedule'&amp;EntityId='a2e1b9c5-bef4-424d-8d35-831b66c086b1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558241" start="20251122155438 +0000" stop="20251122164725 +0000">
+		<title>River Monsters Compilations - Lethal Legends</title>
+		<desc>Do underwater creatures with grasping hands stalk children in Japan on the Zambezi?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10106178'&amp;EntityType='LinearSchedule'&amp;EntityId='02243de1-7510-4400-9e71-7793c14cd861'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121161338 +0000" stop="20251121162509 +0000">
+		<title>Chingus - Chingus ep.2 Korean style fried chicken</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10118976'&amp;EntityType='LinearSchedule'&amp;EntityId='4d129d1f-79ad-45fd-9b14-746f4b83bb22'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121162509 +0000" stop="20251121163616 +0000">
+		<title>Chingus - Chingus ep.3 Clam kalguksu</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10118980'&amp;EntityType='LinearSchedule'&amp;EntityId='fd486acb-b5d4-4d95-b451-d13343a218c7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121163616 +0000" stop="20251121163855 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 9. "Tteokbokki"</title>
+		<desc>We’d tried to reproduce "royal tteokbokki" made with soy sauce seasoning.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10118984'&amp;EntityType='LinearSchedule'&amp;EntityId='ee8f8e50-8be9-4b65-8d49-ecd62de5e85c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121163855 +0000" stop="20251121164249 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 1. “Guksu-bibim”</title>
+		<desc>We’d tried to reproduce “Guksu-bibim” which was described as a simple dish enjoyed in daily life on the book 「Puinpilji」, written in Joseon Dynasty.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10118988'&amp;EntityType='LinearSchedule'&amp;EntityId='b741ed89-10c1-4035-a472-a7eac4c4e61c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121164249 +0000" stop="20251121171043 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Chili Pepper Dumplings</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10118992'&amp;EntityType='LinearSchedule'&amp;EntityId='d81b4c0b-42fd-4de2-a6a9-86dbb4649d52'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121171043 +0000" stop="20251121173937 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Mugwort Rice Cakes</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10118996'&amp;EntityType='LinearSchedule'&amp;EntityId='ea1affce-064e-4697-a7e9-e30c5cbb5bae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121173937 +0000" stop="20251121185152 +0000">
+		<title>Drink with God Season 2 - Drink with god</title>
+		<desc>Customized food recommendations.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119000'&amp;EntityType='LinearSchedule'&amp;EntityId='96b4086c-002e-46a5-949e-bcb8160d53c8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121185152 +0000" stop="20251121200734 +0000">
+		<title>Drink with God Season 2 - Drink with god</title>
+		<desc>What menu do famous drinkers Sunny and Xiumin, a true alcohol lover, recommend?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119004'&amp;EntityType='LinearSchedule'&amp;EntityId='0f060986-ad55-4a34-979e-245fdaba6030'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121200734 +0000" stop="20251121213220 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.1 Tteokbokki Meal Kit</title>
+		<desc>Which one is the fake among 4 special stamina dishes created by Leeteuk? Discover the secret to enjoying your tteokbokki meal kit even more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10119008'&amp;EntityType='LinearSchedule'&amp;EntityId='4eb4ba6e-681f-4722-96e0-4cf061a426c8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121213220 +0000" stop="20251121225050 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.2 Beef intestine Meal Kit</title>
+		<desc>A world food trip from home! Among the global meal kits, which one is fake? And what’s the killer touch to perfect your Beef intestine kit?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10119012'&amp;EntityType='LinearSchedule'&amp;EntityId='c697c148-4f2e-4960-b0b3-a3fa03898fa3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121225050 +0000" stop="20251121230059 +0000">
+		<title>Awesome Food - Awesome Food Ep.25 Cupcakes</title>
+		<desc>Process of Making Beautiful Cupcakes</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119016'&amp;EntityType='LinearSchedule'&amp;EntityId='ef4f517b-1880-45bb-b429-f47cb25dba72'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121230059 +0000" stop="20251121231111 +0000">
+		<title>Awesome Food - Awesome Food Ep.26 Galbi-Flavored Fried Chicken</title>
+		<desc>Making Korean Galbi-Flavored Fried Chicken</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119020'&amp;EntityType='LinearSchedule'&amp;EntityId='b987ac6e-f9e3-435c-bbdc-9a6abd8cd133'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121231111 +0000" stop="20251121232140 +0000">
+		<title>Awesome Food - Awesome Food Ep.27 Korean Seafood Restaurant</title>
+		<desc>Enjoy fresh seafood in this Korean Seafood Restaurant</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119024'&amp;EntityType='LinearSchedule'&amp;EntityId='f225ef29-69f4-49ea-b2fc-b67a3d3b2974'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121232140 +0000" stop="20251121233136 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Spring Cabbage</title>
+		<desc>Winter Cabbage Full of Earth’s Energy, Spring Cabbage</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119028'&amp;EntityType='LinearSchedule'&amp;EntityId='7007ef5e-02f8-42e0-a8c2-c117690e5836'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121233136 +0000" stop="20251121234222 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Shepherd’s Purse</title>
+		<desc>Herald of Spring, Shepherd’s Purse</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119032'&amp;EntityType='LinearSchedule'&amp;EntityId='40482fa9-f781-43ca-b052-9c9eaf9e7103'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121234222 +0000" stop="20251121235738 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Spring Cabbage</title>
+		<desc>Nutrient-Packed Spring Cabbage</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119040'&amp;EntityType='LinearSchedule'&amp;EntityId='990ec540-a19e-4c80-9f24-623c8b7679a0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251121235738 +0000" stop="20251122000909 +0000">
+		<title>Chingus - Chingus ep.2 Korean style fried chicken</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119048'&amp;EntityType='LinearSchedule'&amp;EntityId='ab5daffd-5274-42ce-8653-0ae3d25ad25e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122000909 +0000" stop="20251122002016 +0000">
+		<title>Chingus - Chingus ep.3 Clam kalguksu</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119056'&amp;EntityType='LinearSchedule'&amp;EntityId='ff54373a-6983-42b1-9052-d202094db41a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122002016 +0000" stop="20251122002255 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 9. "Tteokbokki"</title>
+		<desc>We’d tried to reproduce "royal tteokbokki" made with soy sauce seasoning.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119064'&amp;EntityType='LinearSchedule'&amp;EntityId='a379cae6-79d8-4277-bf71-fb9040d86062'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122002255 +0000" stop="20251122002649 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 1. “Guksu-bibim”</title>
+		<desc>We’d tried to reproduce “Guksu-bibim” which was described as a simple dish enjoyed in daily life on the book 「Puinpilji」, written in Joseon Dynasty.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119072'&amp;EntityType='LinearSchedule'&amp;EntityId='5add3bdb-e1e2-49fd-a2d8-566910016115'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122002649 +0000" stop="20251122005443 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Chili Pepper Dumplings</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10119079'&amp;EntityType='LinearSchedule'&amp;EntityId='3e6954da-1005-4f93-9f92-168bc405e2ad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122005443 +0000" stop="20251122012337 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Mugwort Rice Cakes</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10119087'&amp;EntityType='LinearSchedule'&amp;EntityId='e6373858-2b17-4120-b634-78eb122f4b0d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122012337 +0000" stop="20251122023551 +0000">
+		<title>Drink with God Season 2 - Drink with god</title>
+		<desc>Customized food recommendations.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119096'&amp;EntityType='LinearSchedule'&amp;EntityId='714b3f5f-8860-438c-b69f-6ab2697e29d0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122023551 +0000" stop="20251122035133 +0000">
+		<title>Drink with God Season 2 - Drink with god</title>
+		<desc>What menu do famous drinkers Sunny and Xiumin, a true alcohol lover, recommend?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119104'&amp;EntityType='LinearSchedule'&amp;EntityId='53043ffe-3399-478d-b5df-23931652b2e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122035133 +0000" stop="20251122051620 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.1 Tteokbokki Meal Kit</title>
+		<desc>Which one is the fake among 4 special stamina dishes created by Leeteuk? Discover the secret to enjoying your tteokbokki meal kit even more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10119110'&amp;EntityType='LinearSchedule'&amp;EntityId='673eff56-328e-44cf-bf8e-582ffde9513c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122051620 +0000" stop="20251122063450 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.2 Beef intestine Meal Kit</title>
+		<desc>A world food trip from home! Among the global meal kits, which one is fake? And what’s the killer touch to perfect your Beef intestine kit?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10119117'&amp;EntityType='LinearSchedule'&amp;EntityId='bdb23e1c-8240-4cec-acfa-fd32e0cfff89'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122063450 +0000" stop="20251122064459 +0000">
+		<title>Awesome Food - Awesome Food Ep.25 Cupcakes</title>
+		<desc>Process of Making Beautiful Cupcakes</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119124'&amp;EntityType='LinearSchedule'&amp;EntityId='21fa7b90-cc28-4512-8dac-2fda452cab3f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122064459 +0000" stop="20251122065511 +0000">
+		<title>Awesome Food - Awesome Food Ep.26 Galbi-Flavored Fried Chicken</title>
+		<desc>Making Korean Galbi-Flavored Fried Chicken</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119132'&amp;EntityType='LinearSchedule'&amp;EntityId='6f765c06-0af6-4aac-b464-e502a311f646'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122065511 +0000" stop="20251122070540 +0000">
+		<title>Awesome Food - Awesome Food Ep.27 Korean Seafood Restaurant</title>
+		<desc>Enjoy fresh seafood in this Korean Seafood Restaurant</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119139'&amp;EntityType='LinearSchedule'&amp;EntityId='12c20c63-4d60-425c-9ca0-a2fe2115e524'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122070540 +0000" stop="20251122071536 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Spring Cabbage</title>
+		<desc>Winter Cabbage Full of Earth’s Energy, Spring Cabbage</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119147'&amp;EntityType='LinearSchedule'&amp;EntityId='5e0f3344-6447-4d0d-9d9d-8833d0d55d35'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122071536 +0000" stop="20251122072622 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Shepherd’s Purse</title>
+		<desc>Herald of Spring, Shepherd’s Purse</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119156'&amp;EntityType='LinearSchedule'&amp;EntityId='84a24459-8ada-4038-9a39-1b33523e1fc8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122072622 +0000" stop="20251122074138 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Spring Cabbage</title>
+		<desc>Nutrient-Packed Spring Cabbage</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119164'&amp;EntityType='LinearSchedule'&amp;EntityId='f90807c1-0fa3-45b3-8c82-eb592de13525'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122074138 +0000" stop="20251122075308 +0000">
+		<title>Chingus - Chingus ep.2 Korean style fried chicken</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119172'&amp;EntityType='LinearSchedule'&amp;EntityId='13a8db7f-2adb-43ec-8914-a95019efe55a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122075308 +0000" stop="20251122080415 +0000">
+		<title>Chingus - Chingus ep.3 Clam kalguksu</title>
+		<desc>Let the tasty adventure begin! From culture shock to culinary delight?this is their fun-filled journey into the heart of K-food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119180'&amp;EntityType='LinearSchedule'&amp;EntityId='2d48cce8-ebc6-4b2c-ae1f-5345b4fd7682'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122080415 +0000" stop="20251122080654 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 9. "Tteokbokki"</title>
+		<desc>We’d tried to reproduce "royal tteokbokki" made with soy sauce seasoning.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119184'&amp;EntityType='LinearSchedule'&amp;EntityId='9e350dc4-52ac-4d04-af0c-0c13f14e297b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122080654 +0000" stop="20251122081049 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 1. “Guksu-bibim”</title>
+		<desc>We’d tried to reproduce “Guksu-bibim” which was described as a simple dish enjoyed in daily life on the book 「Puinpilji」, written in Joseon Dynasty.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119188'&amp;EntityType='LinearSchedule'&amp;EntityId='c43741fc-bf8e-4f7b-ba14-7b5069d94a40'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122081049 +0000" stop="20251122083843 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Chili Pepper Dumplings</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10119195'&amp;EntityType='LinearSchedule'&amp;EntityId='2d4f798a-2d75-489c-964e-23eaaf2b6bd8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122083843 +0000" stop="20251122090736 +0000">
+		<title>The best cooking secrets - The Best Cooking Secrets: Yoon Suk-ja’s Mugwort Rice Cakes</title>
+		<desc>Top secret recipes from Korean master chefs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10119202'&amp;EntityType='LinearSchedule'&amp;EntityId='fd63f9dd-81ef-4458-a8f6-b55a7cad759b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122090736 +0000" stop="20251122101951 +0000">
+		<title>Drink with God Season 2 - Drink with god</title>
+		<desc>Customized food recommendations.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119210'&amp;EntityType='LinearSchedule'&amp;EntityId='613e34ea-66b1-45cc-8471-f8409c7437b8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122101951 +0000" stop="20251122114438 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.1 Tteokbokki Meal Kit</title>
+		<desc>Which one is the fake among 4 special stamina dishes created by Leeteuk? Discover the secret to enjoying your tteokbokki meal kit even more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10119218'&amp;EntityType='LinearSchedule'&amp;EntityId='8382e141-fd49-477f-ab2f-06d3d804f264'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122114438 +0000" stop="20251122130020 +0000">
+		<title>Drink with God Season 2 - Drink with god</title>
+		<desc>What menu do famous drinkers Sunny and Xiumin, a true alcohol lover, recommend?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119225'&amp;EntityType='LinearSchedule'&amp;EntityId='fe879f08-ea59-4852-99b2-c821f0d028a6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122130020 +0000" stop="20251122141849 +0000">
+		<title>Mealkit Lab - Mealkit Lab Ep.2 Beef intestine Meal Kit</title>
+		<desc>A world food trip from home! Among the global meal kits, which one is fake? And what’s the killer touch to perfect your Beef intestine kit?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10119232'&amp;EntityType='LinearSchedule'&amp;EntityId='df36ab02-f15b-4676-ba52-cae45f7a90e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122141849 +0000" stop="20251122142128 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 9. "Tteokbokki"</title>
+		<desc>We’d tried to reproduce "royal tteokbokki" made with soy sauce seasoning.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119240'&amp;EntityType='LinearSchedule'&amp;EntityId='a42038ba-6591-4cfe-90c2-13b804beab99'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122142128 +0000" stop="20251122142523 +0000">
+		<title>A royal culinary class - A royal culinary class Lesson 1. “Guksu-bibim”</title>
+		<desc>We’d tried to reproduce “Guksu-bibim” which was described as a simple dish enjoyed in daily life on the book 「Puinpilji」, written in Joseon Dynasty.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119248'&amp;EntityType='LinearSchedule'&amp;EntityId='bb9c1b92-5518-4417-b3d3-eeb4cbc34f4d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122142523 +0000" stop="20251122143532 +0000">
+		<title>Awesome Food - Awesome Food Ep.25 Cupcakes</title>
+		<desc>Process of Making Beautiful Cupcakes</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119256'&amp;EntityType='LinearSchedule'&amp;EntityId='03d07e60-57f8-4143-9ab3-3ac140ef2b3b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122143532 +0000" stop="20251122144544 +0000">
+		<title>Awesome Food - Awesome Food Ep.26 Galbi-Flavored Fried Chicken</title>
+		<desc>Making Korean Galbi-Flavored Fried Chicken</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119264'&amp;EntityType='LinearSchedule'&amp;EntityId='41f13018-52f3-40ac-9371-949f52c28221'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122144544 +0000" stop="20251122145613 +0000">
+		<title>Awesome Food - Awesome Food Ep.27 Korean Seafood Restaurant</title>
+		<desc>Enjoy fresh seafood in this Korean Seafood Restaurant</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119273'&amp;EntityType='LinearSchedule'&amp;EntityId='7de39f29-35af-4511-926b-4f05002f1120'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122145613 +0000" stop="20251122150000 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Spring Cabbage</title>
+		<desc>Winter Cabbage Full of Earth’s Energy, Spring Cabbage</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10119282'&amp;EntityType='LinearSchedule'&amp;EntityId='89fe6e00-d0be-4781-a677-9b0e7839b6da'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122150000 +0000" stop="20251122150609 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Spring Cabbage</title>
+		<desc>Winter Cabbage Full of Earth’s Energy, Spring Cabbage</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10134328'&amp;EntityType='LinearSchedule'&amp;EntityId='71914a63-281e-4cd4-b248-2ed515747e37'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122150609 +0000" stop="20251122151657 +0000">
+		<title>Awesome Food - Awesome Food Ep.28 Dried Pollack Soup</title>
+		<desc>Cooking Dried Pollack Soup, a popular hangover soup in Korea</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10134344'&amp;EntityType='LinearSchedule'&amp;EntityId='445c67d4-134e-46e2-a518-d8610b2a06fe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122151657 +0000" stop="20251122152714 +0000">
+		<title>Awesome Food - Awesome Food Ep.29 Yanggaeng</title>
+		<desc>Making Yanggaeng (Korean Red Bean Jelly) With Figs</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10134340'&amp;EntityType='LinearSchedule'&amp;EntityId='b411cdb8-025c-4175-8123-c6423663b409'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122152714 +0000" stop="20251122153524 +0000">
+		<title>Awesome Food - Awesome Food Ep.30 Cherry Blossom Latte</title>
+		<desc>Making a Cherry Blossom Latte</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10134348'&amp;EntityType='LinearSchedule'&amp;EntityId='7765ea53-bdc9-4154-a9a3-fef97d1bff22'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122153524 +0000" stop="20251122154521 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Spring Cabbage</title>
+		<desc>Winter Cabbage Full of Earth’s Energy, Spring Cabbage</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10134332'&amp;EntityType='LinearSchedule'&amp;EntityId='9ce584eb-74bf-49a6-8afb-f5d975886c80'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122154521 +0000" stop="20251122155607 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Shepherd’s Purse</title>
+		<desc>Herald of Spring, Shepherd’s Purse</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10134352'&amp;EntityType='LinearSchedule'&amp;EntityId='4e9c8467-ea20-4580-b42e-3aaaca09782a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558273" start="20251122155607 +0000" stop="20251122161122 +0000">
+		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Spring Cabbage</title>
+		<desc>Nutrient-Packed Spring Cabbage</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10134336'&amp;EntityType='LinearSchedule'&amp;EntityId='21ff8b98-b60f-4af4-a779-1ef699cfddda'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="557763" start="20251121164531 +0000" stop="20251121183358 +0000">
 		<title>LIVE - Marocco - Brasile | Gruppo A | Coppa del Mondo femminile FIFA Under 17 Marocco 2025</title>
-		<desc>Guarda la partita tra Marocco e Brasile giocato al Stadio Annesso Principe Moulay Abdellah, Rabat il venerdì 17 ottobre 2025 alle 20:00 (ora locale).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195330'&amp;EntityType='LinearSchedule'&amp;EntityId='21211753-08c6-4a83-8a82-bd25b6df2a56'&amp;Width=1280&amp;Height=720" />
+		<desc>Guarda la partita tra Marocco e Brasile giocato al Stadio Annesso Principe Moulay Abdellah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197946'&amp;EntityType='LinearSchedule'&amp;EntityId='30aeaef3-e320-4209-95bc-17bf5ea62411'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121183358 +0000" stop="20251121191012 +0000">
 		<title>FIFA U-17 World Cup Qatar 2025™: Highlights Bundle</title>
 		<desc>Watch the latest highlights from the FIFA U-17 World Cup Qatar 2025™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195302'&amp;EntityType='LinearSchedule'&amp;EntityId='bc0b86a1-3202-42f9-adeb-9b19c7138670'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197918'&amp;EntityType='LinearSchedule'&amp;EntityId='f3465511-429f-4c6b-8ad3-dd39d6b650cf'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121191012 +0000" stop="20251121210014 +0000">
 		<title>USA v Japan | Final | FIFA Women's World Cup Canada 2015™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Japan played at BC Place Stadium, Vancouver on Sunday, 05 July 2015 at 16:00.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195306'&amp;EntityType='LinearSchedule'&amp;EntityId='e00ffda7-9282-4cc5-aa2e-19305c66bbcc'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay between USA and Japan played at BC Place Stadium</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197950'&amp;EntityType='LinearSchedule'&amp;EntityId='97829584-cf56-4243-88ce-9d0205602943'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121210014 +0000" stop="20251121212904 +0000">
 		<title>La Furia Roja: Spain in South Africa 2010</title>
 		<desc>Relive Spain's matches against Chile and the Netherlands in the 2010 FIFA World Cup™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10195310'&amp;EntityType='LinearSchedule'&amp;EntityId='1001aa98-4888-4916-9f25-9d7c6601de1b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10197930'&amp;EntityType='LinearSchedule'&amp;EntityId='ad50c267-0306-44c5-b154-ab574dcd6509'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121212904 +0000" stop="20251121232023 +0000">
 		<title>Brazil v Germany | Semi-finals | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Brazil and Germany played at Estádio Mineirão, Belo Horizonte on Tuesday, 08 July 2014.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195326'&amp;EntityType='LinearSchedule'&amp;EntityId='e997db6c-8c97-4b16-b9ac-4af11030792a'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay from the match between Brazil and Germany</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197934'&amp;EntityType='LinearSchedule'&amp;EntityId='c40c79c8-de4c-4f72-bc23-beea61d83f11'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251121232023 +0000" stop="20251122011735 +0000">
 		<title>Poland v Argentina | Group C | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Poland and Argentina played at Stadium 974, Doha on Wednesday, 30 November 2022 at 22:00.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195314'&amp;EntityType='LinearSchedule'&amp;EntityId='e7a59cc9-bd5b-4fc9-9322-8a0c2fa4e70a'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay between Poland and Argentina played at Stadium 974, Doha.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197914'&amp;EntityType='LinearSchedule'&amp;EntityId='4a2ed522-2b28-492c-91fe-fe41ded61210'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122011735 +0000" stop="20251122015349 +0000">
 		<title>FIFA U-17 World Cup Qatar 2025™: Highlights Bundle</title>
 		<desc>Watch the latest highlights from the FIFA U-17 World Cup Qatar 2025™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195346'&amp;EntityType='LinearSchedule'&amp;EntityId='4b001d0c-2547-4f15-8301-4c3e773c75d8'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197954'&amp;EntityType='LinearSchedule'&amp;EntityId='665c1450-4087-4bcd-855d-af1ff2ee1f0e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122015349 +0000" stop="20251122034821 +0000">
 		<title>England v Panama | Group G | 2018 FIFA World Cup Russia™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between England and Panama played at Nizhny Novgorod Stadium, Nizhny Novgorod on Sunday, 24 June 2018.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195374'&amp;EntityType='LinearSchedule'&amp;EntityId='eb19decc-fede-406f-8112-e5cfcde150c9'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay from the match between England and Panama played at Nizhny Novgorod Stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197958'&amp;EntityType='LinearSchedule'&amp;EntityId='bb764df7-32da-4845-8c0b-4e003196ca14'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122034821 +0000" stop="20251122041658 +0000">
 		<title>FIFA World Cup™ Host Nation Champions 2</title>
 		<desc>Get excited again with the host nations that managed to lift the trophy in front of their fans.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10195318'&amp;EntityType='LinearSchedule'&amp;EntityId='2dce7682-a988-45c5-bb5c-9398d8950ea5'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10197970'&amp;EntityType='LinearSchedule'&amp;EntityId='e8099c6a-3d52-4008-a375-1cb39a5a1906'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122041658 +0000" stop="20251122044745 +0000">
 		<title>Epic Showdowns: England v Argentina</title>
 		<desc>Relive Argentina's triumphant moments against England in the 1986™ and 1998™ FIFA World Cup battles.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10195334'&amp;EntityType='LinearSchedule'&amp;EntityId='68e32ab4-20f6-472c-a7fe-088d1e944d03'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10197962'&amp;EntityType='LinearSchedule'&amp;EntityId='44865666-4f05-43e1-8e03-cc9ac4386752'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122044745 +0000" stop="20251122072256 +0000">
 		<title>Argentina v England | Round of 16 | 1998 FIFA World Cup France™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Argentina and England played at Stade Geoffroy Guichard, Saint-Etienne on Tuesday, 30 June 1998.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195362'&amp;EntityType='LinearSchedule'&amp;EntityId='3962e094-8bbe-44c1-a6f6-e3ad4d8888de'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay between Argentina and England played at Stade Geoffroy Guichard, Saint-Etienne.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197906'&amp;EntityType='LinearSchedule'&amp;EntityId='87ec523f-5110-440b-88ec-fa856afbd8c0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122072256 +0000" stop="20251122082113 +0000">
 		<title>Heroes</title>
-		<desc>Relive the rise of the FIFA Women’s World Cup. Icons of the game tell the story of the tournament’s development from its modest beginnings of 1991 to the heady heights of 2015.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195342'&amp;EntityType='LinearSchedule'&amp;EntityId='939d2b4d-718c-4598-94e5-30f0c178cc77'&amp;Width=1280&amp;Height=720" />
+		<desc>Relive the rise of the FIFA Women’s World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197974'&amp;EntityType='LinearSchedule'&amp;EntityId='ab8a6881-8d05-42a5-8603-1eb6574f228c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122082113 +0000" stop="20251122084952 +0000">
 		<title>FIFA Women's World Cup™ Host Nation Victories</title>
 		<desc>Relive Sweden's triumph against Germany in Sweden 1995™ and France's success against Brazil in France 2019™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10195322'&amp;EntityType='LinearSchedule'&amp;EntityId='351b05cf-13bc-4feb-80c2-d13503abca69'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10197922'&amp;EntityType='LinearSchedule'&amp;EntityId='c73bc5c0-ddc0-4d63-9c59-321b3a9e85c6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122084952 +0000" stop="20251122103527 +0000">
 		<title>LIVE - Spain v Thailand | Group B | FIFA Futsal Women's World Cup Philippines 2025™</title>
-		<desc>Watch the match between Spain and Thailand played at PhilSports Arena, Manila on Saturday, 22 November 2025 at 19:30 (local time).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195358'&amp;EntityType='LinearSchedule'&amp;EntityId='7dbe1466-06dc-484b-8fbf-10a1d4cb28a1'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the match between Spain and Thailand played at PhilSports Arena, Manila.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197938'&amp;EntityType='LinearSchedule'&amp;EntityId='f2bd1d29-24a1-4cf2-b311-b1ed4f398e03'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122103527 +0000" stop="20251122112156 +0000">
 		<title>Habsi</title>
 		<desc>Meet Ali Al Habsi: The Middle Eastern man who became an unlikely hero in English football.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195350'&amp;EntityType='LinearSchedule'&amp;EntityId='5afe368b-c8a2-486b-8602-e6ea5e590f2c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197910'&amp;EntityType='LinearSchedule'&amp;EntityId='a43bd4ab-0d3a-48c8-bcaf-a75555f95bc8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122112156 +0000" stop="20251122134328 +0000">
 		<title>LIVE - Colombia v Canada | Group B | FIFA Futsal Women's World Cup Philippines 2025™</title>
-		<desc>Watch the match between Colombia and Canada played at PhilSports Arena, Manila on Saturday, 22 November 2025 at 17:00 (local time).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195354'&amp;EntityType='LinearSchedule'&amp;EntityId='ac7da1f8-4e03-495a-ab71-b0e948b60006'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the match between Colombia and Canada played at PhilSports Arena, Manila.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197978'&amp;EntityType='LinearSchedule'&amp;EntityId='67a3c7f5-3782-4249-9239-cffe37c45073'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122134328 +0000" stop="20251122140323 +0000">
 		<title>Hugo Sánchez | Discovering</title>
 		<desc>Find out about one of the best Mexican footballers of all time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195370'&amp;EntityType='LinearSchedule'&amp;EntityId='919a67f7-46e6-41b0-b9ed-a32b7a79607d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197966'&amp;EntityType='LinearSchedule'&amp;EntityId='448f3753-d3fb-4283-a064-60f6bf13751a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122140323 +0000" stop="20251122155447 +0000">
 		<title>Germany v Norway | Final | FIFA Women's World Cup Sweden 1995™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany and Norway played at Rasunda Stadium, Solna on Sunday, 18 June 1995 at 18:00.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195338'&amp;EntityType='LinearSchedule'&amp;EntityId='828dc84b-37e6-4ce6-8477-13632ccd89a5'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full replay from the match between Germany and Norway played at Rasunda Stadium</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197926'&amp;EntityType='LinearSchedule'&amp;EntityId='594f3c23-64fc-4bd5-8b57-716ececb0a57'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251122155447 +0000" stop="20251122174610 +0000">
 		<title>Tunisia v Afghan Women United | FIFA Unites Women's Series 2025</title>
-		<desc>Watch the match between Tunisia and Afghan Women United played at Berrechid Municipal Stadium, Berrechid on Wednesday, 29 October 2025 at 20:00 (local time).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10195366'&amp;EntityType='LinearSchedule'&amp;EntityId='f5fae12d-3f44-4a94-93de-7fe6ec1bc27f'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the match between Tunisia and Afghan Women United played at Berrechid Municipal Stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10197942'&amp;EntityType='LinearSchedule'&amp;EntityId='1c3e91e0-2fa4-4a50-89e6-d5fed97b8de7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251121160500 +0000" stop="20251121173000 +0000">
 		<title>Netball Super League '25: Forest v Lightning</title>
