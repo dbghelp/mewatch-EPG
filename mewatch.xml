@@ -40,6 +40,10 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
 	<channel id="558241">
 		<display-name>River Monsters</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089297'&amp;EntityType='Item'&amp;EntityId='558241'&amp;Width=150&amp;Height=59" />
@@ -1353,6 +1357,26 @@
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 135 on 28th November, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10157363'&amp;EntityType='LinearSchedule'&amp;EntityId='43f8af62-8298-4d02-8424-2c45d7043af2'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98202" start="20251125160000 +0000" stop="20251126120500 +0000">
+		<title>No Programme available now. Next Broadcast on 26th November, Wednesday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Lion City Sailors FC vs Persib Bandung on 26th November, Wednesday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137037'&amp;EntityType='LinearSchedule'&amp;EntityId='7521bd27-8a07-4013-a8a3-5297958a6b62'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251126120500 +0000" stop="20251126141500 +0000">
+		<title>AFC Champions League Two 2025/26: Lion City Sailors FC vs Persib Bandung</title>
+		<desc>AFC Champions League Two 2025/26 will be the 22nd edition of Asia’s second-tier club football tournament. This season features 32 teams competing in a round-robin group stage format from September to December 2025 and the knock-out stage from February to May 2025, with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2026/27.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10137051'&amp;EntityType='LinearSchedule'&amp;EntityId='9616719e-224b-43e9-a822-9cd26f22bc50'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251126141500 +0000" stop="20251126160000 +0000">
+		<title>No Programme available now. Next Broadcast on 27th November, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Kaya FC-Iloilo on 27th November, Thursday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137057'&amp;EntityType='LinearSchedule'&amp;EntityId='a21b5a61-e2dd-45f0-a2ea-016ad52a8e8a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251126160000 +0000" stop="20251127120500 +0000">
+		<title>No Programme available now. Next Broadcast on 27th November, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Kaya FC-Iloilo on 27th November, Thursday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10157722'&amp;EntityType='LinearSchedule'&amp;EntityId='76d93195-06bc-4c1f-9e39-b29f2c30e40e'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="558241" start="20251125151043 +0000" stop="20251125160328 +0000">
 		<title>River Monsters - Silent Assassin</title>
 		<desc>Jeremy Wade travels to the Parana River in Argentina.</desc>
@@ -1810,7 +1834,7 @@
 	</programme>
 	<programme channel="557763" start="20251125161758 +0000" stop="20251125183129 +0000">
 		<title>Argentina v South Africa | Group G | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and South Africa played at Dunedin Stadium, Dunedin / Ōtepoti on Friday, July 28, 2023 at 12:00 PM (local time).</desc>
+		<desc>Watch the full match replay between Argentina and South Africa at Dunedin Stadium, Dunedin.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246006'&amp;EntityType='LinearSchedule'&amp;EntityId='a453b85f-a91f-4a30-bd82-667773b1f012'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251125183129 +0000" stop="20251125185234 +0000">
@@ -1830,7 +1854,7 @@
 	</programme>
 	<programme channel="557763" start="20251125195734 +0000" stop="20251125214846 +0000">
 		<title>Brazil v England | Group Matches | 1970 FIFA World Cup Mexico™️ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and England played at Estadio Jalisco, Guadalajara on Sunday, 07 June 1970.</desc>
+		<desc>Watch the full match replay between Brazil and England played at Estadio Jalisco, Guadalajara.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246018'&amp;EntityType='LinearSchedule'&amp;EntityId='69a30f97-ada6-4592-a95d-43dd9a05b7dc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251125214846 +0000" stop="20251125223009 +0000">
@@ -1840,17 +1864,17 @@
 	</programme>
 	<programme channel="557763" start="20251125223009 +0000" stop="20251126005444 +0000">
 		<title>Italy v Germany FR | Semi-finals | 1970 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Italy and Germany FR played at Estadio Azteca, Mexico City on Wednesday, 17 June 1970 at 16:00 (local time).</desc>
+		<desc>Watch the full match replay between Italy and Germany FR played in Mexico City.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246022'&amp;EntityType='LinearSchedule'&amp;EntityId='0e1e565e-131e-4a68-a3df-d28c1fd2750c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251126005444 +0000" stop="20251126033031 +0000">
 		<title>Brazil v Italy | Final | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>Watch the full replay from the match between Brazil and Italy played at Rose Bowl, Pasadena on Sunday, 17 July 1994.</desc>
+		<desc>The full replay of the match between Brazil and Italy played at Rose Bowl, Pasadena.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246026'&amp;EntityType='LinearSchedule'&amp;EntityId='a4ac3ce6-73b4-4ccb-8b7c-ee6e0babdef8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251126033031 +0000" stop="20251126043041 +0000">
 		<title>Asia Stories</title>
-		<desc>Asia Stories brings together passionate football people from six different nations across the continent. Inspiring human tales that celebrate football from China, Japan, Saudi Arabia, Korea, India and Indonesia. EP 6: Saudi Arabia. EP 4 : Japan EP 5: Korea EP 1: China EP 2: India</desc>
+		<desc>Asia Stories brings together passionate football people from six different nations across the continent.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10245962'&amp;EntityType='LinearSchedule'&amp;EntityId='108dfd86-9735-47eb-a1c9-9c64a904887f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251126043041 +0000" stop="20251126045927 +0000">
@@ -1860,7 +1884,7 @@
 	</programme>
 	<programme channel="557763" start="20251126045927 +0000" stop="20251126063555 +0000">
 		<title>LIVE - New Zealand v Tanzania | Group C | FIFA Futsal Women's World Cup Philippines 2025™</title>
-		<desc>Watch the match between New Zealand and Tanzania played at PhilSports Arena, Manila on Wednesday, 26 November 2025 at 13:00 (local time).</desc>
+		<desc>Watch the match between New Zealand and Tanzania played at PhilSports Arena, Manila.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10245966'&amp;EntityType='LinearSchedule'&amp;EntityId='9d93e442-89a5-4580-a56d-0ae668b8fa0e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251126063555 +0000" stop="20251126065409 +0000">
@@ -1875,7 +1899,7 @@
 	</programme>
 	<programme channel="557763" start="20251126073550 +0000" stop="20251126091027 +0000">
 		<title>LIVE - Portugal v Japan | Group C | FIFA Futsal Women's World Cup Philippines 2025™</title>
-		<desc>Watch the match between Portugal and Japan played at PhilSports Arena, Manila on Wednesday, 26 November 2025 at 15:30 (local time).</desc>
+		<desc>Watch the match between Portugal and Japan played at PhilSports Arena, Manila.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246038'&amp;EntityType='LinearSchedule'&amp;EntityId='3e0b1279-68a5-42fe-832e-02b7d3f97845'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251126091027 +0000" stop="20251126095208 +0000">
@@ -1890,7 +1914,7 @@
 	</programme>
 	<programme channel="557763" start="20251126101732 +0000" stop="20251126114927 +0000">
 		<title>LIVE - Panama v IR Iran | Group D | FIFA Futsal Women's World Cup Philippines 2025™</title>
-		<desc>Watch the match between Panama and IR Iran played at PhilSports Arena, Manila on Wednesday, 26 November 2025 at 18:00 (local time).</desc>
+		<desc>Watch the match between Panama and IR Iran played at PhilSports Arena, Manila.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10245986'&amp;EntityType='LinearSchedule'&amp;EntityId='4fa3f186-3b36-42f7-9cff-0c42807ed6cf'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251126114927 +0000" stop="20251126123108 +0000">
@@ -1900,12 +1924,12 @@
 	</programme>
 	<programme channel="557763" start="20251126123108 +0000" stop="20251126144344 +0000">
 		<title>LIVE - Brazil v Italy | Group D | FIFA Futsal Women's World Cup Philippines 2025™</title>
-		<desc>Watch the match between Brazil and Italy played at PhilSports Arena, Manila on Wednesday, 26 November 2025 at 20:30 (local time).</desc>
+		<desc>Watch the match between Brazil and Italy played at PhilSports Arena, Manila.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10245978'&amp;EntityType='LinearSchedule'&amp;EntityId='b088954d-c3c0-4e66-9888-4a35a2d1f203'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251126144344 +0000" stop="20251126163414 +0000">
 		<title>Brazil v USA | Round of 16 | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and USA played at Stanford Stadium, San Francisco on Monday, 04 July 1994.</desc>
+		<desc>Watch the full match replay between Brazil and USA played at Stanford Stadium, San Francisco.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246002'&amp;EntityType='LinearSchedule'&amp;EntityId='76492b31-8949-40db-877c-45aa3ae71809'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251125160000 +0000" stop="20251125173000 +0000">
@@ -3028,55 +3052,95 @@
 		<desc>T'Pau's Carol Decker with 30 years of the most amazing women who ROCK! From Grace Slick in the 60s to Florence Welch in the 00s - these ladies all left an incredible mark.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10122779'&amp;EntityType='LinearSchedule'&amp;EntityId='d8b1c1c9-78ac-4b86-b804-e2d9efe92762'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251125163500 +0000" stop="20251125170000 +0000">
-		<title>Bank Holiday Rock Anthems! - EP1</title>
-		<desc>Bank Holiday anthems &amp; the biggest rock songs from the last 5 decades! From Bruce Springsteen &amp; Blondie through to Def Leppard &amp; The Killers.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137689'&amp;EntityType='LinearSchedule'&amp;EntityId='c9551580-e79d-4ee2-a9f7-21ab19313fe1'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20251125160000 +0000" stop="20251125174000 +0000">
+		<title>Loud &amp; Legendary: The 20 Greatest! - EP1</title>
+		<desc>The most iconic &amp; ear-shattering rock songs that shaped the genre! Including Led Zeppelin's timeless Whole Lotta Love &amp; AC/DC's rebellious Highway to Hell. Crank it up &amp; enjoy!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294011'&amp;EntityType='LinearSchedule'&amp;EntityId='42f7d1ca-18c6-4a84-8cae-5ca774fe6392'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251125170000 +0000" stop="20251125185000 +0000">
-		<title>All Killer: 00s Karaoke! - EP1</title>
-		<desc>Turn your amp up to 11 &amp; make your mic roar! Here come 25 of the greatest 00s rock karaoke tracks. Featuring The Killers, Fall Out Boy, Arctic Monkeys &amp; many more!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137747'&amp;EntityType='LinearSchedule'&amp;EntityId='318cddef-072c-4fea-b8d8-d997a765b50f'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20251125174000 +0000" stop="20251125180000 +0000">
+		<title>Legendary Rock: 1980-1989 - EP1</title>
+		<desc>These are the legendary rock stars that made the 80s! Expect Meat Loaf, Bonnie Tyler, Queen, Bon Jovi, AC/DC, Iron Maiden &amp; loads more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294015'&amp;EntityType='LinearSchedule'&amp;EntityId='237777e3-385f-4aca-94a1-01bfef3f4e9f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251125185000 +0000" stop="20251125190000 +0000">
-		<title>Bank Holiday Anthems! - EP1</title>
-		<desc>Turn it up to 11 all Bank Holiday weekend for the finest rock anthems! Featuring The Killers, Green Day, Biffy Clyro, Sum 41, Kings Of Leon &amp; The Foo Fighters.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137659'&amp;EntityType='LinearSchedule'&amp;EntityId='2ac5240e-e31b-4ade-904c-1e5dc4a16fda'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251125190000 +0000" stop="20251125220000 +0000">
-		<title>Carol Decker's 1st Ladies of Rock! - EP1</title>
-		<desc>T'Pau's Carol Decker with 30 years of the most amazing women who ROCK! From Grace Slick in the 60s to Florence Welch in the 00s - these ladies all left an incredible mark.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137675'&amp;EntityType='LinearSchedule'&amp;EntityId='71ed0702-7457-4bf5-8c94-6768b28ef28c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251125220000 +0000" stop="20251126020000 +0000">
-		<title>Amped Up: 50 Bank Holiday Bangers! - EP1</title>
-		<desc>Turn your speakers up to 11 for 50 of the biggest, most uplifting, feel-good, Bank Holiday bangers! With anthems from Blink-182, Queen, Kiss &amp; The Killers.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137705'&amp;EntityType='LinearSchedule'&amp;EntityId='2c588e1c-fd81-4051-bb74-e8438fc4b882'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251126020000 +0000" stop="20251126093000 +0000">
-		<title>101 Feelgood Rock Songs! - EP1</title>
-		<desc>8 hours of the biggest feel-good rock songs! With anthems from Bowie to Queen, Blink-182 to The Stones.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137773'&amp;EntityType='LinearSchedule'&amp;EntityId='4855fac3-3a62-44aa-8bcf-5e0e859e95b1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251126093000 +0000" stop="20251126103000 +0000">
-		<title>All Killer: 00s Karaoke! - EP1</title>
-		<desc>Turn your amp up to 11 &amp; make your mic roar! Here come 25 of the greatest 00s rock karaoke tracks. Featuring The Killers, Fall Out Boy, Arctic Monkeys &amp; many more!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137699'&amp;EntityType='LinearSchedule'&amp;EntityId='04e61cf3-7b41-43f3-b266-99031cedbfad'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251126103000 +0000" stop="20251126132500 +0000">
+	<programme channel="158963" start="20251125180000 +0000" stop="20251125192500 +0000">
 		<title>Front Men &amp; Women Of Rock - EP1</title>
 		<desc>Standby to pay homage to the best front men and leading ladies that the world of rock has produced! From Grace Slick &amp; Christine McVie to Ozzy Osbourne &amp; Jimi Hendrix.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137716'&amp;EntityType='LinearSchedule'&amp;EntityId='90ddc4c5-25b0-4faa-8c2a-ea5a3d0aebfd'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294023'&amp;EntityType='LinearSchedule'&amp;EntityId='a86e647a-0849-4ffe-ab84-4cd28c4c8bb8'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251126132500 +0000" stop="20251126140000 +0000">
-		<title>Bank Holiday Rock Anthems! - EP1</title>
-		<desc>Bank Holiday anthems &amp; the biggest rock songs from the last 5 decades! From Bruce Springsteen &amp; Blondie through to Def Leppard &amp; The Killers.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137783'&amp;EntityType='LinearSchedule'&amp;EntityId='836f1860-d02b-436f-a28b-d1b3310ce91f'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20251125192500 +0000" stop="20251125200000 +0000">
+		<title>The Anthems! - EP1</title>
+		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294035'&amp;EntityType='LinearSchedule'&amp;EntityId='06027490-1683-4ded-866c-fb02ec697321'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251126140000 +0000" stop="20251126162500 +0000">
-		<title>I Love Rock 'n' Roll! Top 30 - EP1</title>
-		<desc>Guitars, big beats, BIG hair and a fantastic rhythm section - this is how we rocked out in the 80s! With Bon Jovi, ZZ Top, Status Quo, Bryan Adams, Genesis &amp; Joan Jett</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10137731'&amp;EntityType='LinearSchedule'&amp;EntityId='0c63b639-9d9d-4b60-9248-4fe0245e7acc'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20251125200000 +0000" stop="20251125204000 +0000">
+		<title>The 1975: Fan Favourites - EP1</title>
+		<desc>From 2013 to 2022 - 40 minutes of the biggest rock songs from The 1975!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294039'&amp;EntityType='LinearSchedule'&amp;EntityId='267304c6-6b57-45e4-8e18-a4201e8e0abc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251125204000 +0000" stop="20251125210000 +0000">
+		<title>The Anthems! - EP1</title>
+		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294003'&amp;EntityType='LinearSchedule'&amp;EntityId='50ab1419-d56e-4209-94c9-e166c9667dd9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251125210000 +0000" stop="20251125230000 +0000">
+		<title>Teenage Kicks: The Misfit Years - EP1</title>
+		<desc>From angsty misfit anthems &amp; teen rebellion, to non-conformers &amp; pure emotional turbulence, these songs reminded us growing up that sometimes it's totally fine to feel different!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294007'&amp;EntityType='LinearSchedule'&amp;EntityId='674688bd-fba8-4280-bf97-203f48928a1a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251125230000 +0000" stop="20251126064000 +0000">
+		<title>Rock Anthems 1985 - 2015 - EP1</title>
+		<desc>Over 7 hours and 3 decades of classic rock anthems back to back! Starting with Bon Jovi, Billy Idol &amp; ZZ Top through to Razorlight, Green Day &amp; the Foo Fighters!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294027'&amp;EntityType='LinearSchedule'&amp;EntityId='dc6a806d-b80e-42ab-9e6f-23534f089fc6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126064000 +0000" stop="20251126070000 +0000">
+		<title>Killer Cuts Of The 00s! - EP1</title>
+		<desc>A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294043'&amp;EntityType='LinearSchedule'&amp;EntityId='f8492e23-acb5-461d-9e06-ea2212e79ddc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126070000 +0000" stop="20251126080000 +0000">
+		<title>Linkin Park: Fan Favourites - EP1</title>
+		<desc>Starting in 2001, here are the biggest rock songs from Linkin Park!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294047'&amp;EntityType='LinearSchedule'&amp;EntityId='47cb5b61-112f-45ba-81fc-1e3a41f297a7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126080000 +0000" stop="20251126095000 +0000">
+		<title>Turn Up The Emo Anthems! - EP1</title>
+		<desc>Turn up your speakers to 11 and live life even louder! Emo Anthems in order from Linkin Park in 2000 to The My Chemical Romance at the end of the Decade!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10293991'&amp;EntityType='LinearSchedule'&amp;EntityId='5602cfe6-1daf-4c80-b329-7de1a18af862'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126095000 +0000" stop="20251126100000 +0000">
+		<title>The Anthems! - EP1</title>
+		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294051'&amp;EntityType='LinearSchedule'&amp;EntityId='e1a7b890-91e8-4062-b6c4-5ff7d9aa24e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126100000 +0000" stop="20251126102500 +0000">
+		<title>Green Day: Fan Favourites - EP1</title>
+		<desc>From 1995 to 2009 - 30 minutes of the biggest rock songs from Green Day!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294019'&amp;EntityType='LinearSchedule'&amp;EntityId='49ce6bf5-c386-4d4d-8e20-c595a67ab487'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126102500 +0000" stop="20251126110000 +0000">
+		<title>Killer Cuts Of The 00s! - EP1</title>
+		<desc>A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10293995'&amp;EntityType='LinearSchedule'&amp;EntityId='ae936abc-4121-448a-bf0c-0ea0f0e5e2fa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126110000 +0000" stop="20251126131500 +0000">
+		<title>The 25 Best Locks in Rock - EP1</title>
+		<desc>Let your hair down as Claire Sturgess has a wild ride of fabulous follicles &amp; awesome rock hairdos! From Bowie's glamorous transformations to Joe ElliotÂ´s indestructible mullet.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294031'&amp;EntityType='LinearSchedule'&amp;EntityId='58869bf9-817b-438f-901e-6b8ba4d370c9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126131500 +0000" stop="20251126140000 +0000">
+		<title>Rated Rock! The No.1s - EP1</title>
+		<desc>Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10293999'&amp;EntityType='LinearSchedule'&amp;EntityId='3c44901e-f022-410a-bb2d-a6a4bb54d30f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126140000 +0000" stop="20251126160000 +0000">
+		<title>Big Hair &amp; Power Chords! - EP1</title>
+		<desc>20 epic songs loaded with mega hair energy &amp; power chords! From 80s rock icons Boston, Whitesnake &amp; Chicago to modern day heroes The Darkness, Green Day &amp; My Chemical Romance.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10293987'&amp;EntityType='LinearSchedule'&amp;EntityId='0c63b639-9d9d-4b60-9248-4fe0245e7acc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126160000 +0000" stop="20251126180000 +0000">
+		<title>25 Rock Guilty Pleasures! - EP1</title>
+		<desc>Over the years their credibility has been questioned, but their singalong potential was never in doubt! These are the 80s songs that built cities out of Rock n Roll!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294079'&amp;EntityType='LinearSchedule'&amp;EntityId='194c3276-c2af-4c4a-98ed-6084b48b3aea'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="382872" start="20251125145000 +0000" stop="20251125163500 +0000">
 		<title>East Frisian: Atonement</title>
@@ -3575,7 +3639,7 @@
 	</programme>
 	<programme channel="97104" start="20251127143000 +0000" stop="20251127150000 +0000">
 		<title>Focus - EP 27 焦点</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>The AI boom has driven the stock market soaring, but has an AI bubble appeared? Will it inflate further? The G20 summit has concluded seemingly international issues, they actually concern our wallets. The Singapore Teochew Poit Ip Huay Kuan will relocate to its old site after the redevelopment of the Teochew Building and work together with Ngee Ann Kongsi for the future of the Teochew community.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10158143'&amp;EntityType='LinearSchedule'&amp;EntityId='1938d6c5-6c9a-4400-865f-6441a1109588'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20251127150000 +0000" stop="20251127160000 +0000">
@@ -4398,6 +4462,21 @@
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 135 on 28th November, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10186224'&amp;EntityType='LinearSchedule'&amp;EntityId='429d1e78-38bc-465e-bf06-1b6532fb204c'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98202" start="20251127120500 +0000" stop="20251127141500 +0000">
+		<title>AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Kaya FC-Iloilo</title>
+		<desc>AFC Champions League Two 2025/26 will be the 22nd edition of Asia’s second-tier club football tournament. This season features 32 teams competing in a round-robin group stage format from September to December 2025 and the knock-out stage from February to May 2025, with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2026/27.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10157715'&amp;EntityType='LinearSchedule'&amp;EntityId='ecc23749-448f-4fd2-b55d-60da1201c5af'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251127141500 +0000" stop="20251127160000 +0000">
+		<title>No Programme available now. Next Broadcast on 3rd December, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs BG Pathum United FC on 3rd December, Wednesday 7.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10157729'&amp;EntityType='LinearSchedule'&amp;EntityId='fa636479-d09c-4c6d-ad9d-d0d3f6803577'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20251127160000 +0000" stop="20251128160000 +0000">
+		<title>No Programme available now. Next Broadcast on 3rd December, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs BG Pathum United FC on 3rd December, Wednesday 7.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10177227'&amp;EntityType='LinearSchedule'&amp;EntityId='5f8b9b4a-103e-4089-9398-1c8942b7326d'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="558241" start="20251126164031 +0000" stop="20251126173325 +0000">
 		<title>River Monsters - Secrets of the Sea</title>
 		<desc>Jeremy goes behind the scenes and we see what went into the making of a season at sea.</desc>
@@ -4810,12 +4889,12 @@
 	</programme>
 	<programme channel="557763" start="20251126183432 +0000" stop="20251126202117 +0000">
 		<title>Argentina v Belgium | Semi-finals | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and Belgium played at Estadio Azteca, Mexico City on Wednesday, 25 June 1986.</desc>
+		<desc>Watch the full match replay between Argentina and Belgium played at Estadio Azteca, Mexico City.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10232066'&amp;EntityType='LinearSchedule'&amp;EntityId='c62c48d8-2560-4d42-aa74-c5bbfa28fd55'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251126202117 +0000" stop="20251126221605 +0000">
 		<title>Argentina v Belgium | Quarter-finals | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Argentina and Belgium played at Estadio Nacional, Brasilia on Saturday, 05 July 2014.</desc>
+		<desc>Watch the full match replay from the match between Argentina and Belgium</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246066'&amp;EntityType='LinearSchedule'&amp;EntityId='974045d7-dfa4-4fbc-9ef6-8d28f5170366'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251126221605 +0000" stop="20251126223710 +0000">
@@ -4835,7 +4914,7 @@
 	</programme>
 	<programme channel="557763" start="20251126232942 +0000" stop="20251127002952 +0000">
 		<title>Asia Stories</title>
-		<desc>Asia Stories brings together passionate football people from six different nations across the continent. Inspiring human tales that celebrate football from China, Japan, Saudi Arabia, Korea, India and Indonesia. EP 6: Saudi Arabia. EP 4 : Japan EP 5: Korea EP 1: China EP 2: India</desc>
+		<desc>Asia Stories brings together passionate football people from six different nations across the continent.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246050'&amp;EntityType='LinearSchedule'&amp;EntityId='6b6cfb47-95f1-469c-9894-14b74cfb8bc5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251127002952 +0000" stop="20251127004806 +0000">
@@ -4845,7 +4924,7 @@
 	</programme>
 	<programme channel="557763" start="20251127004806 +0000" stop="20251127024211 +0000">
 		<title>England v Brazil | Quarter-finals | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Brazil played at Shizuoka Stadium ECOPA, Shizuoka on Friday, 21 June 2002.</desc>
+		<desc>Watch the full match replay between England and Brazil played at Shizuoka Stadium ECOPA, Shizuoka.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246110'&amp;EntityType='LinearSchedule'&amp;EntityId='391d2f12-5c21-438f-a2d0-0b347ec1088d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251127024211 +0000" stop="20251127032343 +0000">
@@ -4855,7 +4934,7 @@
 	</programme>
 	<programme channel="557763" start="20251127032343 +0000" stop="20251127051653 +0000">
 		<title>Brazil v Turkey | Semi-finals | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and Turkey played at Saitama Stadium, Saitama on Wednesday, 26 June 2002.</desc>
+		<desc>Watch the match between Brazil and Turkey. Saitama Stadium, Saitama.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246070'&amp;EntityType='LinearSchedule'&amp;EntityId='6f09faf9-709f-41d2-8965-4d019244b4fc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251127051653 +0000" stop="20251127065321 +0000">
@@ -4870,22 +4949,22 @@
 	</programme>
 	<programme channel="557763" start="20251127071316 +0000" stop="20251127081443 +0000">
 		<title>Futebol Arte</title>
-		<desc>Despite falling short of their ultimate goal, the Brazil squad at the 1982 FIFA World Cup will forever be remembered as one of the most exciting teams in the tournament’s history.</desc>
+		<desc>Brazil squad at the 1982 FIFA World Cup will forever be remembered as one of the most exciting teams</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246114'&amp;EntityType='LinearSchedule'&amp;EntityId='b4971eba-7df9-4337-aa5f-1dd42ae96440'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251127081443 +0000" stop="20251127084335 +0000">
 		<title>Carli Lloyd | Icons</title>
-		<desc>One final, three goals... Discover how Carli Lloyd achieved football immortality.</desc>
+		<desc>Discover how Carli Lloyd achieved football immortality, the storied career of US soccer legend.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246082'&amp;EntityType='LinearSchedule'&amp;EntityId='1f315a8e-2db0-4afd-bee6-8037874a5494'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251127084335 +0000" stop="20251127102844 +0000">
 		<title>Argentina v Brazil | Second Round | 1982 FIFA World Cup Spain™ | Full Match Replay</title>
-		<desc>Watch the highlights between Argentina and Brazil played at Estadio de Sarrià, Barcelona on Friday, 02 July 1982.</desc>
+		<desc>Watch the highlights between Argentina and Brazil played at Estadio de Sarrià, Barcelona.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10246118'&amp;EntityType='LinearSchedule'&amp;EntityId='f2d10268-e649-4ebb-b9ae-8719b5614457'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251127102844 +0000" stop="20251127122047 +0000">
 		<title>Argentina v Bulgaria | Group Matches | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Argentina and Bulgaria played at Cotton Bowl, Dallas on Jueves, 30 June 1994.</desc>
+		<desc>Watch the full match replay from the match between Argentina and Bulgaria played at Cotton Bowl, Dallas.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10232078'&amp;EntityType='LinearSchedule'&amp;EntityId='0086ac8e-384f-45bc-8473-d21d51467b31'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251127122047 +0000" stop="20251127123604 +0000">
@@ -4895,7 +4974,7 @@
 	</programme>
 	<programme channel="557763" start="20251127123604 +0000" stop="20251127150039 +0000">
 		<title>LIVE - Brazil v Italy | FIFA U-17 World Cup Qatar 2025™</title>
-		<desc>Watch the match between Brazil and Italy played at Aspire Zone - Pitch 7 - Mansour Muftah, Doha on Thursday, 27 November 2025 at 15:30 (local time).</desc>
+		<desc>Watch Brazil vs Italy at Aspire Zone (Pitch 7, Mansour Muftah), Doha — Thu, 27 Nov 2025, 15:30 (local time).</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10279542'&amp;EntityType='LinearSchedule'&amp;EntityId='b5719ce1-74e8-4e33-8d7a-50dfbd8e1106'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251127150039 +0000" stop="20251127151853 +0000">
@@ -5973,85 +6052,70 @@
 		<desc>3 hours of 70s love. What more could you ask for a long smooch on the sofa?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10177762'&amp;EntityType='LinearSchedule'&amp;EntityId='370172fc-dfbc-4e46-811c-053a26148913'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251126162500 +0000" stop="20251126170000 +0000">
+	<programme channel="158963" start="20251126180000 +0000" stop="20251126194000 +0000">
+		<title>Rock Anthems 1985 - 2015 - EP1</title>
+		<desc>Over 7 hours and 3 decades of classic rock anthems back to back! Starting with Bon Jovi, Billy Idol &amp; ZZ Top through to Razorlight, Green Day &amp; the Foo Fighters!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294095'&amp;EntityType='LinearSchedule'&amp;EntityId='c8b82fe3-dbcd-496d-bbd3-9a6112e62c32'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126194000 +0000" stop="20251126200000 +0000">
+		<title>Killer Cuts Of The 00s! - EP1</title>
+		<desc>A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294067'&amp;EntityType='LinearSchedule'&amp;EntityId='ac89cf0d-682c-4758-8f4f-03640e689ff3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126200000 +0000" stop="20251126210000 +0000">
+		<title>Linkin Park: Fan Favourites - EP1</title>
+		<desc>Starting in 2001, here are the biggest rock songs from Linkin Park!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294055'&amp;EntityType='LinearSchedule'&amp;EntityId='66d7533b-4f30-48a6-81e3-202413a188b2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126210000 +0000" stop="20251126225000 +0000">
+		<title>Turn Up The Emo Anthems! - EP1</title>
+		<desc>Turn up your speakers to 11 and live life even louder! Emo Anthems in order from Linkin Park in 2000 to The My Chemical Romance at the end of the Decade!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294083'&amp;EntityType='LinearSchedule'&amp;EntityId='3c6d5027-5e5d-40c5-959d-c299a0342568'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20251126225000 +0000" stop="20251126230000 +0000">
 		<title>The Anthems! - EP1</title>
 		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10158063'&amp;EntityType='LinearSchedule'&amp;EntityId='28df84fc-bb3a-454a-ae31-5ee9afb40615'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294071'&amp;EntityType='LinearSchedule'&amp;EntityId='90ed3271-0c5c-4519-a67a-445ff0b6eb00'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251126170000 +0000" stop="20251126192500 +0000">
-		<title>Front Men &amp; Women Of Rock - EP1</title>
-		<desc>Standby to pay homage to the best front men and leading ladies that the world of rock has produced! From Grace Slick &amp; Christine McVie to Ozzy Osbourne &amp; Jimi Hendrix.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10157984'&amp;EntityType='LinearSchedule'&amp;EntityId='6c94233a-eda3-47d1-accf-afcfe2e67ab2'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20251126230000 +0000" stop="20251127010500 +0000">
+		<title>Suzi Q's U.S. Rock Legends - EP1</title>
+		<desc>A musical journey through sixty years of the finest American rock nâ roll. From Elvis &amp; Jerry Lee Lewis to Nirvana &amp; Green Day.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294099'&amp;EntityType='LinearSchedule'&amp;EntityId='a23b174e-2bb0-4e3b-a3b4-64e222529357'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251126192500 +0000" stop="20251126200000 +0000">
-		<title>Bank Holiday Rock Anthems! - EP1</title>
-		<desc>Bank Holiday anthems &amp; the biggest rock songs from the last 5 decades! From Bruce Springsteen &amp; Blondie through to Def Leppard &amp; The Killers.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10158073'&amp;EntityType='LinearSchedule'&amp;EntityId='83f1cf26-63a5-499b-b6a7-6307844be2cf'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20251127010500 +0000" stop="20251127020000 +0000">
+		<title>The United States Of Rock! - EP1</title>
+		<desc>Nothing but Anthems from USA! From AC/DC, Guns N Roses &amp; Bon Jovi to Aerosmith, Green Day &amp; Blondie.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294103'&amp;EntityType='LinearSchedule'&amp;EntityId='36a1a491-078d-4edd-ad01-0a79310dc6a2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251126200000 +0000" stop="20251126220000 +0000">
-		<title>I Love Rock 'n' Roll! Top 30 - EP1</title>
-		<desc>Guitars, big beats, BIG hair and a fantastic rhythm section - this is how we rocked out in the 80s! With Bon Jovi, ZZ Top, Status Quo, Bryan Adams, Genesis &amp; Joan Jett</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10157955'&amp;EntityType='LinearSchedule'&amp;EntityId='66d7533b-4f30-48a6-81e3-202413a188b2'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20251127020000 +0000" stop="20251127040000 +0000">
+		<title>All American Frontmen! - EP1</title>
+		<desc>40 years of the greatest leading men US Rock has to offer! From Lenny Kilmister and Steve Perry in the 70s right through to Brandon Flowers and Jack White in the the 21st Century.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294075'&amp;EntityType='LinearSchedule'&amp;EntityId='cbffc60c-bc3b-49a5-aac3-c63470110ce1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251126220000 +0000" stop="20251127003000 +0000">
-		<title>American Rock Gods! 1990-1999 - EP1</title>
-		<desc>In order telling the rock story of a decade - over 2 hours of Aerosmith, Bon Jovi, GNR, RHCP, Foo Fighters, ZZ Top, Nirvana, Pearl Jam &amp; The Offspring.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10157967'&amp;EntityType='LinearSchedule'&amp;EntityId='b1d63ccb-59d0-4581-a480-c71e4031de44'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20251127040000 +0000" stop="20251127053500 +0000">
+		<title>All Killer: Stateside Anthems! - EP1</title>
+		<desc>In order, 20 of the biggest american anthems from the 21st Century featuring The Killers, Bon Jovi, Nickleback and One Republic.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294107'&amp;EntityType='LinearSchedule'&amp;EntityId='7f179779-6db5-47a2-a931-2eca23746b9b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251127003000 +0000" stop="20251127022000 +0000">
-		<title>All Killer: 00s Rock Bands! - EP1</title>
-		<desc>25 of the greatest rock bands of the noughties featuring Paramore, Bullet For My Valentine, Slipknot and My Chemical Romance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10157976'&amp;EntityType='LinearSchedule'&amp;EntityId='74202a9d-b99c-4562-9d5a-4326c7d3ea78'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20251127053500 +0000" stop="20251127060000 +0000">
+		<title>The United States Of Rock! - EP1</title>
+		<desc>Nothing but Anthems from USA! From AC/DC, Guns N Roses &amp; Bon Jovi to Aerosmith, Green Day &amp; Blondie.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294091'&amp;EntityType='LinearSchedule'&amp;EntityId='724a0c78-4690-4b28-a0e0-fcd61b698dc0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251127022000 +0000" stop="20251127030000 +0000">
-		<title>Maxed Out On 2001 Anthems! - EP1</title>
-		<desc>Live it loud and Max out on the finest rock anthems! Featuring The Stroke, Sum 41, Linkin Park, Feeder &amp; Limp Bizkit. This is Now Rock!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10157959'&amp;EntityType='LinearSchedule'&amp;EntityId='33d7bbc1-236e-47c4-ac67-5f407340fb87'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20251127060000 +0000" stop="20251127110500 +0000">
+		<title>Stuff The Turkey! 50 Bangers - EP1</title>
+		<desc>A Thanksgiving &amp; pre-Christmas feast of classic rock bangers &amp; anthems! Starting with the Stones &amp; Hendrix through to Green Day &amp; the Foo's plus a few Christmas crackers thrown in!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294059'&amp;EntityType='LinearSchedule'&amp;EntityId='48b04bf1-fcbb-4ac2-b366-c274e281abf0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251127030000 +0000" stop="20251127050000 +0000">
-		<title>Nicky Horne's 25 Rock Rebels! - EP1</title>
-		<desc>Rock &amp; Roll started as a rebellion and Nicky Horne brings you the 25 people who pushed all the boundaries &amp; refused to conform! These are greatest Rock Rebels of all time!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10157997'&amp;EntityType='LinearSchedule'&amp;EntityId='b1b33c7b-216d-446e-8327-4fa659003d32'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251127050000 +0000" stop="20251127053000 +0000">
-		<title>Muse: Fan Favourites - EP1</title>
-		<desc>From 2003 to 2015 - 30 minutes of the biggest rock songs from Muse!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10157963'&amp;EntityType='LinearSchedule'&amp;EntityId='828e2ece-4939-49bc-8ac0-a4752f94f635'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251127053000 +0000" stop="20251127060000 +0000">
+	<programme channel="158963" start="20251127110500 +0000" stop="20251127120000 +0000">
 		<title>The Anthems! - EP1</title>
 		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10158006'&amp;EntityType='LinearSchedule'&amp;EntityId='2ab433a3-3660-47c7-acc9-936cad2829ee'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294087'&amp;EntityType='LinearSchedule'&amp;EntityId='b371a1ea-8ff5-4364-be29-08e3f17261d4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20251127060000 +0000" stop="20251127093000 +0000">
-		<title>Rock n Roll Top 5s! 2000-2009 - EP1</title>
-		<desc>4 hours of rock anthems that all hit the top 5 in the first decade of this century. From Blink 182 in 2000 to Kasabian in 2009.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10158038'&amp;EntityType='LinearSchedule'&amp;EntityId='48b04bf1-fcbb-4ac2-b366-c274e281abf0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251127093000 +0000" stop="20251127103000 +0000">
-		<title>Front Men &amp; Women Of Rock - EP1</title>
-		<desc>Standby to pay homage to the best front men and leading ladies that the world of rock has produced! From Grace Slick &amp; Christine McVie to Ozzy Osbourne &amp; Jimi Hendrix.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10158047'&amp;EntityType='LinearSchedule'&amp;EntityId='0e1a2f32-2953-4feb-9844-4e687a8b2335'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251127103000 +0000" stop="20251127120000 +0000">
-		<title>Teenage Dirtbags! 1995-2010 - EP1</title>
-		<desc>From the rebellious teens of the 90s and 00s we bring you the stars who said "To hell with the world" and expressed themselves through great tunes!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10158055'&amp;EntityType='LinearSchedule'&amp;EntityId='3654e7a4-6bd5-40ae-b489-5ea71e284abc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251127120000 +0000" stop="20251127130000 +0000">
-		<title>Nu Metal Immortals! - EP1</title>
-		<desc>An hour of Nu Metal from the likes of Alien Ant Farm, Evanescence and Limp Bizkit to Korn, Linkin Park and Rage Against The Machine.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10158083'&amp;EntityType='LinearSchedule'&amp;EntityId='d372c616-ee2a-4c23-88c8-dd8edf85b355'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251127130000 +0000" stop="20251127152500 +0000">
-		<title>30 Rock &amp; Indie Heroes of the 10s - EP1</title>
-		<desc>Claire Sturgess relives the 2010s with her 30 greatest heroes in rock and indie. The Vaccines, Biffy Clyro and Imagine Dragons are all in the Top 10, but who is her number 1?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10158015'&amp;EntityType='LinearSchedule'&amp;EntityId='855c693b-0e40-4336-8f8a-a7d19df3afc2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20251127152500 +0000" stop="20251127170000 +0000">
-		<title>The Anthems! - EP1</title>
-		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10158024'&amp;EntityType='LinearSchedule'&amp;EntityId='8bfa1600-02fb-4b3e-a400-48826d31d732'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20251127120000 +0000" stop="20251127160000 +0000">
+		<title>Alex Baker's Biggest 00s Anthems! - EP1</title>
+		<desc>Alex Baker brings you his 50 biggest 00s anthems! Expect everything from Green Day to Muse, Linkin Park to the Arctic Monkeys with the tunes getting bigger and louder as we go!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10294063'&amp;EntityType='LinearSchedule'&amp;EntityId='d372c616-ee2a-4c23-88c8-dd8edf85b355'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="382872" start="20251126164500 +0000" stop="20251126182500 +0000">
 		<title>Oddball</title>
