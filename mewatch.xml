@@ -40,10 +40,6 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
 	<channel id="558241">
 		<display-name>River Monsters</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089297'&amp;EntityType='Item'&amp;EntityId='558241'&amp;Width=150&amp;Height=59" />
@@ -1276,16 +1272,6 @@
 		<title>No programme available now. Next broadcast on 5th December, Friday 8.30pm. ONE Friday Fights 136</title>
 		<desc>LIVE 2 will commence broadcast of ONE Friday Fights 136 on 5th December, Friday 8.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10219254'&amp;EntityType='LinearSchedule'&amp;EntityId='ffddf5dd-a68a-4964-b9db-aeb60fa0c1c4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20251128160000 +0000" stop="20251129160000 +0000">
-		<title>No Programme available now. Next Broadcast on 3rd December, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
-		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs BG Pathum United FC on 3rd December, Wednesday 7.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10198600'&amp;EntityType='LinearSchedule'&amp;EntityId='86664910-06a5-4df9-a3ea-735754728d76'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20251129160000 +0000" stop="20251130160000 +0000">
-		<title>No Programme available now. Next Broadcast on 3rd December, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
-		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs BG Pathum United FC on 3rd December, Wednesday 7.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10219717'&amp;EntityType='LinearSchedule'&amp;EntityId='b90d50cd-1cab-487a-90ac-fb1de5585485'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20251128152103 +0000" stop="20251128161357 +0000">
 		<title>River Monsters - Secrets of the Sea</title>
@@ -4256,11 +4242,6 @@
 		<title>No programme available now. Next broadcast on 6th December, Saturday 10am. ONE Fight Night 38: Andrade vs. Baatarkhuu</title>
 		<desc>LIVE 2 will commence broadcast of ONE Fight Night 38: Andrade vs. Baatarkhuu on 6th December, Saturday 10am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10233189'&amp;EntityType='LinearSchedule'&amp;EntityId='37ab9f39-6fad-4f9e-8ef2-53ec41d66d5d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20251130160000 +0000" stop="20251201160000 +0000">
-		<title>No Programme available now. Next Broadcast on 3rd December, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
-		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs BG Pathum United FC on 3rd December, Wednesday 7.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10233441'&amp;EntityType='LinearSchedule'&amp;EntityId='7b2125da-f631-4ad7-833b-a37d8df0d9b8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20251129165235 +0000" stop="20251129174522 +0000">
 		<title>River Monsters Compilations - Lethal Legends</title>
