@@ -28,6 +28,18 @@
 		<display-name>Oktolidays</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9467885'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=945&amp;Height=250" />
 	</channel>
+	<channel id="576059">
+		<display-name>SEA Games CH01</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10298961'&amp;EntityType='Item'&amp;EntityId='576059'&amp;Width=289&amp;Height=250" />
+	</channel>
+	<channel id="576060">
+		<display-name>SEA Games CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10298974'&amp;EntityType='Item'&amp;EntityId='576060'&amp;Width=289&amp;Height=250" />
+	</channel>
+	<channel id="576061">
+		<display-name>SEA Games CH03</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10298979'&amp;EntityType='Item'&amp;EntityId='576061'&amp;Width=289&amp;Height=250" />
+	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -83,10 +95,6 @@
 	<channel id="158963">
 		<display-name>NOW Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510610'&amp;EntityType='Item'&amp;EntityId='158963'&amp;Width=193&amp;Height=187" />
-	</channel>
-	<channel id="382872">
-		<display-name>CinemaWorld</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20251202160000 +0000" stop="20251202163000 +0000">
 		<title>Provocative - EP 176</title>
@@ -1183,6 +1191,56 @@
 		<desc>Dylan's Playtime Adventures/Wishes 许愿泡泡茶/Lil Wild/Syber Surfer Sam</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276366'&amp;EntityType='LinearSchedule'&amp;EntityId='ac0b94d9-8315-44d2-a3eb-844fa5054c7e'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="576059" start="20251202160000 +0000" stop="20251203090000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332644'&amp;EntityType='LinearSchedule'&amp;EntityId='1b43cde4-d9a7-49d1-b8da-f4fc34a88669'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20251203090000 +0000" stop="20251203110000 +0000">
+		<title>Football - 33rd SEA Games Thailand 2025 Men's Group Stage - LAO vs VIE</title>
+		<desc>Men's Group Stage - Laos vs Vietnam</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332636'&amp;EntityType='LinearSchedule'&amp;EntityId='b30b3c69-c434-4435-8d98-575710bcabac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20251203110000 +0000" stop="20251203120000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332640'&amp;EntityType='LinearSchedule'&amp;EntityId='2e6e9c34-5955-4df9-b8b0-47d54f997e80'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20251203120000 +0000" stop="20251203140000 +0000">
+		<title>Football - 33rd SEA Games Thailand 2025 Men's Group Stage - TLS vs THA</title>
+		<desc>Men's Group Stage - Timor-Leste vs Thailand</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332648'&amp;EntityType='LinearSchedule'&amp;EntityId='00200b82-c3ed-4213-8b19-1ddef4308da7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20251203140000 +0000" stop="20251203155900 +0000">
+		<title>End Of Transmission</title>
+		<desc>End Of Transmission</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332632'&amp;EntityType='LinearSchedule'&amp;EntityId='aa56a88d-1078-4175-b4d4-562c9ca497f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20251203160000 +0000" stop="20251204113000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332652'&amp;EntityType='LinearSchedule'&amp;EntityId='7df872da-7076-468d-a412-d8271c375dc9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576060" start="20251202160000 +0000" stop="20251203155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332712'&amp;EntityType='LinearSchedule'&amp;EntityId='8c31ecbe-57a6-4c45-a418-be3f7ff2c55b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576060" start="20251203160000 +0000" stop="20251204155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332720'&amp;EntityType='LinearSchedule'&amp;EntityId='19e6ccd8-e31f-4ce2-85a3-c42f60932fa9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576061" start="20251202160000 +0000" stop="20251203155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332697'&amp;EntityType='LinearSchedule'&amp;EntityId='95987a33-9135-48b0-97e3-918a0696ab91'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576061" start="20251203160000 +0000" stop="20251204155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332704'&amp;EntityType='LinearSchedule'&amp;EntityId='2dab687f-a2cc-4b05-9631-24a02ff0a5bd'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="98200" start="20251202160000 +0000" stop="20251203160000 +0000">
 		<title>No Programme available now. Next Broadcast on 6th December, Saturday 7.20pm. Singapore Cup 2025/2026 </title>
 		<desc>SPL 01 will commence broadcast of the Singapore Cup 2025/2026: Tanjong Pagar United FC vs Geylang International FC on 6th December, Saturday 7.20pm. Please stay tuned!</desc>
@@ -1755,12 +1813,12 @@
 	</programme>
 	<programme channel="557763" start="20251202144958 +0000" stop="20251202164200 +0000">
 		<title>Goal! | The Official Film of the 1966 FIFA World Cup™</title>
-		<desc>Enjoy a unique perspective on England’s 1966 triumph by getting up close to its stars and enjoying atmospheric footage of some thrilling FIFA World Cup™ action.</desc>
+		<desc>Enjoy a unique view of England’s 1966 triumph with its stars and thrilling FIFA World Cup moments.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10317413'&amp;EntityType='LinearSchedule'&amp;EntityId='44f33c9d-f796-4c22-ad07-26ce8f6e867d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251202164200 +0000" stop="20251202183312 +0000">
 		<title>Brazil v England | Group Matches | 1970 FIFA World Cup Mexico™️ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and England played at Estadio Jalisco, Guadalajara on Sunday, 07 June 1970.</desc>
+		<desc>Watch the full match replay between Brazil and England played at Estadio Jalisco, Guadalajara.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10317469'&amp;EntityType='LinearSchedule'&amp;EntityId='48958e4f-713d-47c1-b2be-a7da4aeecc7a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251202183312 +0000" stop="20251202185125 +0000">
@@ -1770,27 +1828,27 @@
 	</programme>
 	<programme channel="557763" start="20251202185125 +0000" stop="20251202205554 +0000">
 		<title>Brazil v Argentina | Final | FIFA Futsal World Cup Uzbekistan 2024™ | Full Match Replay</title>
-		<desc>Watch the match between Brazil and Argentina played at Humo Arena, Tashkent on Sunday, 06 October 2024 at 20:00 (local time).</desc>
+		<desc>Watch the match between Brazil and Argentina played at Humo Arena, Tashkent.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10317477'&amp;EntityType='LinearSchedule'&amp;EntityId='52523b6f-6a8a-41de-99e5-a31caf254b5e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251202205554 +0000" stop="20251202212314 +0000">
 		<title>All Goals | FIFA U-17 Women's World Cup Dominican Republic 2024™</title>
-		<desc>Relive the emotion of each and every goal scored by the future stars of the sport, in the U17 FIFA Women's World Cup hosted in the Dominican Republic in 2024.</desc>
+		<desc>Relive the emotion of each and every goal scored by the future stars of the sport in the U17 FWWC.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10317465'&amp;EntityType='LinearSchedule'&amp;EntityId='638d8683-a928-4bc6-abc7-6f4ee29784b1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251202212314 +0000" stop="20251202214857 +0000">
 		<title>Stories from the Dominican Republic</title>
-		<desc>The protagonists of the thrilling 2024 FIFA U-17 Women's World Cup, in their own words. Their lives, their journeys, and the personal stories of these future stars.</desc>
+		<desc>The protagonists of the thrilling 2024 FIFA U-17 Women's World Cup, in their own words.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10317461'&amp;EntityType='LinearSchedule'&amp;EntityId='8e995d5d-4233-4f5d-8e48-e385cba3a132'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251202214857 +0000" stop="20251202234454 +0000">
 		<title>Spain v Chile | Group B | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Spain and Chile played at Maracanã, Rio de Janeiro on Wednesday, 18 June 2014.</desc>
+		<desc>Watch the full match replay between Spain and Chile played at Maracanã, Rio de Janeiro.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10317473'&amp;EntityType='LinearSchedule'&amp;EntityId='cc642ac1-18cd-4368-9afa-067f7fa6c3ba'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251202234454 +0000" stop="20251203004648 +0000">
 		<title>Road to Maracana | The Official Film of the 2014 FIFA World Cup™</title>
-		<desc>Relive a FIFA World Cup™ featuring the hypnotising trickery of Neymar, swashbuckling runs of Robben, wonder goals of Messi and a German conquest decorated by an earth-shaking semi-final victory.</desc>
+		<desc>Relive a FIFA World Cup™ featuring the hypnotising trickery of Neymar</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10317453'&amp;EntityType='LinearSchedule'&amp;EntityId='23186a91-b906-4683-93ff-14a015c96e01'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203004648 +0000" stop="20251203010502 +0000">
@@ -1800,22 +1858,22 @@
 	</programme>
 	<programme channel="557763" start="20251203010502 +0000" stop="20251203025248 +0000">
 		<title>German DR v Germany FR | First Round | 1974 FIFA World Cup Germany™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between German DR and Germany FR played at Volksparkstadion, Hamburg on Saturday, 22 June 1974.</desc>
+		<desc>Watch the full match replay from the match between German DR and Germany FR played in Hamburg.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333871'&amp;EntityType='LinearSchedule'&amp;EntityId='f0f70925-0ff0-4d96-963e-dd8840699fdb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203025248 +0000" stop="20251203035043 +0000">
 		<title>One to Eleven</title>
-		<desc>Diego Maradona, Paolo Rossi, Carles Puyol and several other FIFA World Cup™ winners tell the untold stories of how they won the most coveted prize in the beautiful game.</desc>
+		<desc>Several FIFA World Cup™ winners tell the untold stories of how they won in the beautiful game.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333843'&amp;EntityType='LinearSchedule'&amp;EntityId='358475f5-7dc5-4af1-abf5-e80d5a19dcc1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203035043 +0000" stop="20251203041747 +0000">
 		<title>Unforgettable FIFA World Cup Blowouts</title>
-		<desc>Relive Portugal's victory against North Korea in England 1966™ and the Netherlands' win over Argentina in Germany 1974™.</desc>
+		<desc>Relive Portugal's victory against in England 1966™ and in Germany 1974™.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10333875'&amp;EntityType='LinearSchedule'&amp;EntityId='ac597fad-0948-4afb-b8cc-1df947482dc2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203041747 +0000" stop="20251203064110 +0000">
 		<title>Argentina v Netherlands | Final | 1978 FIFA World Cup Argentina™ | Full Match Replay</title>
-		<desc>Watch the full replay from the match between Argentina and Netherlands played at El Monumental, Buenos Aires on Sunday, 25 June 1978.</desc>
+		<desc>Watch the full replay from the match between Argentina and Netherlands</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333835'&amp;EntityType='LinearSchedule'&amp;EntityId='8259f1e9-a34a-4a02-a6d0-b0cb909f8a2e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203064110 +0000" stop="20251203070105 +0000">
@@ -1830,7 +1888,7 @@
 	</programme>
 	<programme channel="557763" start="20251203074333 +0000" stop="20251203093223 +0000">
 		<title>France v Northern Ireland | Second Round | 1982 FIFA World Cup Spain™ | Full Match Replay</title>
-		<desc>Watch the full match replay between France and Northern Ireland played in Madrid on Monday, 5 July 1982.</desc>
+		<desc>Watch the full match replay between France and Northern Ireland, Madrid, 5 July 1982.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333855'&amp;EntityType='LinearSchedule'&amp;EntityId='e5365671-e43e-4142-aa1f-208fce0bc681'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203093223 +0000" stop="20251203101102 +0000">
@@ -1840,17 +1898,17 @@
 	</programme>
 	<programme channel="557763" start="20251203101102 +0000" stop="20251203102814 +0000">
 		<title>Joy: Marco Tardelli | Eyes of the World</title>
-		<desc>As the 2026 World Cup draws closer and the growth of Major League Soccer continues, an array of unique supporter cultures have evolved in the United States, redefining experiences for the country’s football fans.</desc>
+		<desc>A final, a goal, and "a shout I've waited my whole life to make."</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333847'&amp;EntityType='LinearSchedule'&amp;EntityId='a5106d2e-63fb-4411-9b07-cd2189b20ea3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203102814 +0000" stop="20251203122010 +0000">
 		<title>Poland v Belgium | Second Round | 1982 FIFA World Cup Spain™ | Full Match Replay</title>
-		<desc>Watch the highlights between Poland and Belgium played at Camp Nou, Barcelona on Monday, 28 June 1982.</desc>
+		<desc>Watch the highlights between Poland and Belgium played at Camp Nou, Barcelona.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333863'&amp;EntityType='LinearSchedule'&amp;EntityId='a7bf3c94-bcef-4434-807a-37c3ae9d65d3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203122010 +0000" stop="20251203132137 +0000">
 		<title>Futebol Arte</title>
-		<desc>Despite falling short of their ultimate goal, the Brazil squad at the 1982 FIFA World Cup will forever be remembered as one of the most exciting teams in the tournament’s history.</desc>
+		<desc>Brazil squad at the 1982 FIFA World Cup will forever be remembered as one of the most exciting teams</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333859'&amp;EntityType='LinearSchedule'&amp;EntityId='2600af90-943e-4f8e-9700-202530758b42'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203132137 +0000" stop="20251203135041 +0000">
@@ -1865,12 +1923,12 @@
 	</programme>
 	<programme channel="557763" start="20251203140855 +0000" stop="20251203155641 +0000">
 		<title>German DR v Germany FR | First Round | 1974 FIFA World Cup Germany™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between German DR and Germany FR played at Volksparkstadion, Hamburg on Saturday, 22 June 1974.</desc>
+		<desc>Watch the full match replay from the match between German DR and Germany FR played in Hamburg.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333887'&amp;EntityType='LinearSchedule'&amp;EntityId='4da9309d-603c-40a8-b150-e1048d454896'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203155641 +0000" stop="20251203165436 +0000">
 		<title>One to Eleven</title>
-		<desc>Diego Maradona, Paolo Rossi, Carles Puyol and several other FIFA World Cup™ winners tell the untold stories of how they won the most coveted prize in the beautiful game.</desc>
+		<desc>Several FIFA World Cup™ winners tell the untold stories of how they won in the beautiful game.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333895'&amp;EntityType='LinearSchedule'&amp;EntityId='d0318159-fbbf-4671-a01c-024021e6f42d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251202160000 +0000" stop="20251202173500 +0000">
@@ -2958,81 +3016,6 @@
 		<desc>In Reverse: Starting with the Anthems of 2020, we're going back 45 years to the legendary rock anthems of the 70s! Turn it up this is going to be epic!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10442187'&amp;EntityType='LinearSchedule'&amp;EntityId='4d5df314-a689-4828-b135-6fd0d5007e42'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="382872" start="20251202145000 +0000" stop="20251202162500 +0000">
-		<title>Temporaries</title>
-		<desc>Ariane gets a job as an interpreter at a food plant after moving back to the Richelieu Valley following a breakup. There, she finds herself torn between obeying the harsh demands of her boss and standing up for the exploited migrant workers she befriends.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10256168'&amp;EntityType='LinearSchedule'&amp;EntityId='28dafaac-6963-45ea-a652-d44fc25c6f67'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251202162500 +0000" stop="20251202185500 +0000">
-		<title>Looking For Jacques</title>
-		<desc>Based on a book and an original TV series from the 80s, Carina is a journalist digging into the disappearance of Jacques, a successful author. She is desperate for a juicy story to land a great job but the more she finds out, the less she wants to share. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276271'&amp;EntityType='LinearSchedule'&amp;EntityId='124e750e-8429-4bbd-8e36-18eddc72ea44'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251202185500 +0000" stop="20251202203500 +0000">
-		<title>Murder in Ramatuelle</title>
-		<desc>When wine estate owner Sébastien Lacassagne is found murdered in his home, Prosecutor Elisabeth Richard and Captain Caroline Martinez delve into his tangled past. As secrets unravel, a year-old disappearance emerges as the key to unlocking the truth.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276279'&amp;EntityType='LinearSchedule'&amp;EntityId='a83421f6-a38b-41af-9f48-08e805146f2e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251202203500 +0000" stop="20251202220000 +0000">
-		<title>Open Door</title>
-		<desc>Rudina embarks on a road trip with her pregnant sister Elma back to their Albanian hometown. However, Elma is unmarried, and they need to find someone to play the part of her husband in order not to anger their traditional father.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276263'&amp;EntityType='LinearSchedule'&amp;EntityId='3ff53592-3652-4b3b-a609-422816547492'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251202220000 +0000" stop="20251202235500 +0000">
-		<title>Backwards</title>
-		<desc>Inspired by true events. The story of a young mother of an autistic boy, whose many years of stubbornness and the fight against bureaucracy and human heartlessness led to changes in the education system.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276267'&amp;EntityType='LinearSchedule'&amp;EntityId='d58c8a34-8d98-4b29-be05-ff79e1137589'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251202235500 +0000" stop="20251203012000 +0000">
-		<title>Black Snow</title>
-		<desc>Gosha is a trucker in northern Yakutia, who supplies his community with food, alongside low quality vodka which contributes to their alcoholism. When his truck breaks down during one of his trips, he finds himself alone in the wilderness. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276235'&amp;EntityType='LinearSchedule'&amp;EntityId='db29ee4e-7a38-469d-9afa-685c22bce45c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203012000 +0000" stop="20251203031000 +0000">
-		<title>Mediterranea</title>
-		<desc>Two men make the dangerous journey from Africa to Italy for a better life but then face hostility and violence in this shocking look at the life-and-death struggle of refugees.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276239'&amp;EntityType='LinearSchedule'&amp;EntityId='6c8287e3-b94d-4e96-9646-663d99d09679'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203031000 +0000" stop="20251203044500 +0000">
-		<title>Murder in Haute Provence</title>
-		<desc>Two police officers investigate a body found in a slaughterhouse with the label “Can they suffer”. Although an animal rights association was initially suspected, details reveal that the victim was an undercover cop specialising in veterinary surveillance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10276283'&amp;EntityType='LinearSchedule'&amp;EntityId='728b8d60-293f-421b-937f-5bb1048d6dc4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203044500 +0000" stop="20251203061500 +0000">
-		<title>Temporaries</title>
-		<desc>Ariane gets a job as an interpreter at a food plant after moving back to the Richelieu Valley following a breakup. There, she finds herself torn between obeying the harsh demands of her boss and standing up for the exploited migrant workers she befriends.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276243'&amp;EntityType='LinearSchedule'&amp;EntityId='4d9b1caa-77dd-4741-9742-cab7277826e1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203061500 +0000" stop="20251203074500 +0000">
-		<title>Binti</title>
-		<desc>Faced with potential deportation as an immigrant, Binti, a 12-year-old vlogger plots a scheme with her new friend to bring their parents together to save her future.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276247'&amp;EntityType='LinearSchedule'&amp;EntityId='0ea3b0da-2f7d-4de7-ae18-49287a38f5e8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203074500 +0000" stop="20251203092000 +0000">
-		<title>Pure White</title>
-		<desc>Vural, a husband and a father who was raised in faith, leads a seemingly pious and conformist life. Yet, everything takes a sudden dark turn when he learns a truth that will force him to confront his views on religion and morality.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276255'&amp;EntityType='LinearSchedule'&amp;EntityId='ea1854cf-111e-40a3-b307-65a9d44fdda0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203092000 +0000" stop="20251203112500 +0000">
-		<title>For The Birds</title>
-		<desc>Irma is a tomboy who believes independence is the only form of freedom. Then she meets Sampie, a charming rugby player with a heart of gold and oh-so-soft hands who sweeps her right off her feet to the altar, but not before she teaches him a thing or two. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10276287'&amp;EntityType='LinearSchedule'&amp;EntityId='d5088ebe-ed57-4ede-9811-627569d03ac8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203112500 +0000" stop="20251203130000 +0000">
-		<title>The Boss and The Cutie</title>
-		<desc>Totò is a rising boss of Neopolitan organised crime. Rosetta is a little girl in the fifth grade. After encountering nasty accidents and falling into comas, the both of them wake up in the hospital to find that they are trapped in the other’s body.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276259'&amp;EntityType='LinearSchedule'&amp;EntityId='df339325-ea90-4f0e-a473-ee7260ebba52'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203130000 +0000" stop="20251203150500 +0000">
-		<title>The Kiss</title>
-		<desc>In 1913 Denmark, young officer Anton grapples with duty and love when he befriends Baron von Løvenskjold's daughter, Edith, confined to a wheelchair. As their bond deepens, Anton is ensnared in a web of promises and lies, torn between pity and true love.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276251'&amp;EntityType='LinearSchedule'&amp;EntityId='c12a491e-ddf2-4143-b563-74d767639e44'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203150500 +0000" stop="20251203165500 +0000">
-		<title>Premiere Affaire</title>
-		<desc>Nora, a young and an inexperienced criminal defense lawyer is charged with the case of a teenage boy accused of murdering a neighbour.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10276275'&amp;EntityType='LinearSchedule'&amp;EntityId='499232f8-fc72-44fd-ba14-7164fff7e0b1'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20251203163000 +0000" stop="20251203173000 +0000">
 		<title>FBI: Most Wanted S4 - EP 11</title>
 		<desc>The Fugitive Task Force relentlessly tracks notorious criminals on the Bureau's Most Wanted list.</desc>
@@ -4118,6 +4101,31 @@
 		<desc>Dylan's Playtime Adventures/Wishes 许愿泡泡茶/Lil Wild/Syber Surfer Sam</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10283047'&amp;EntityType='LinearSchedule'&amp;EntityId='ce864d4d-647b-49df-9630-139efede0490'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="576059" start="20251204113000 +0000" stop="20251204133000 +0000">
+		<title>Football - 33rd SEA Games Thailand 2025 Women's Group Stage - INA vs THA</title>
+		<desc>Men's Group Stage - Laos vs Vietnam</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332656'&amp;EntityType='LinearSchedule'&amp;EntityId='79b3814d-bffa-4267-a8c6-ffc9759889cf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20251204133000 +0000" stop="20251204155900 +0000">
+		<title>End Of Transmission</title>
+		<desc>End Of Transmission</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332660'&amp;EntityType='LinearSchedule'&amp;EntityId='72b3793a-f8ad-47a0-bcd4-68e609e2f9bc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20251204160000 +0000" stop="20251205110000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332664'&amp;EntityType='LinearSchedule'&amp;EntityId='e13a7f2e-98bd-450f-83c0-be190939cdc5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576060" start="20251204160000 +0000" stop="20251205090000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332740'&amp;EntityType='LinearSchedule'&amp;EntityId='53503343-0d4c-4f31-a0e3-1282a6ae4f8c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576061" start="20251204160000 +0000" stop="20251205155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10332709'&amp;EntityType='LinearSchedule'&amp;EntityId='aa7e846b-ec41-4877-8c23-86fbb41fb392'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="98200" start="20251204160000 +0000" stop="20251205160000 +0000">
 		<title>No Programme available now. Next Broadcast on 6th December, Saturday 7.20pm. Singapore Cup 2025/2026 </title>
 		<desc>SPL 01 will commence broadcast of the Singapore Cup 2025/2026: Tanjong Pagar United FC vs Geylang International FC on 6th December, Saturday 7.20pm. Please stay tuned!</desc>
@@ -4685,12 +4693,12 @@
 	</programme>
 	<programme channel="557763" start="20251203165436 +0000" stop="20251203172140 +0000">
 		<title>Unforgettable FIFA World Cup Blowouts</title>
-		<desc>Relive Portugal's victory against North Korea in England 1966™ and the Netherlands' win over Argentina in Germany 1974™.</desc>
+		<desc>Relive Portugal's victory against in England 1966™ and in Germany 1974™.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10333919'&amp;EntityType='LinearSchedule'&amp;EntityId='b02d49b6-fd67-4280-b126-e468c90f0f59'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203172140 +0000" stop="20251203194503 +0000">
 		<title>Argentina v Netherlands | Final | 1978 FIFA World Cup Argentina™ | Full Match Replay</title>
-		<desc>Watch the full replay from the match between Argentina and Netherlands played at El Monumental, Buenos Aires on Sunday, 25 June 1978.</desc>
+		<desc>Watch the full replay from the match between Argentina and Netherlands</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333923'&amp;EntityType='LinearSchedule'&amp;EntityId='49edc08f-db99-4984-a056-24284f43316a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203194503 +0000" stop="20251203200458 +0000">
@@ -4705,7 +4713,7 @@
 	</programme>
 	<programme channel="557763" start="20251203204726 +0000" stop="20251203223616 +0000">
 		<title>France v Northern Ireland | Second Round | 1982 FIFA World Cup Spain™ | Full Match Replay</title>
-		<desc>Watch the full match replay between France and Northern Ireland played in Madrid on Monday, 5 July 1982.</desc>
+		<desc>Watch the full match replay between France and Northern Ireland, Madrid, 5 July 1982.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333911'&amp;EntityType='LinearSchedule'&amp;EntityId='4d8ac0e9-b408-4b74-9749-ba731d73ff74'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203223616 +0000" stop="20251203231455 +0000">
@@ -4715,12 +4723,12 @@
 	</programme>
 	<programme channel="557763" start="20251203231455 +0000" stop="20251203233207 +0000">
 		<title>Joy: Marco Tardelli | Eyes of the World</title>
-		<desc>As the 2026 World Cup draws closer and the growth of Major League Soccer continues, an array of unique supporter cultures have evolved in the United States, redefining experiences for the country’s football fans.</desc>
+		<desc>A final, a goal, and "a shout I've waited my whole life to make."</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333903'&amp;EntityType='LinearSchedule'&amp;EntityId='e80539a8-fa8b-448a-aae8-d860541f7b84'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251203233207 +0000" stop="20251204012403 +0000">
 		<title>Poland v Belgium | Second Round | 1982 FIFA World Cup Spain™ | Full Match Replay</title>
-		<desc>Watch the highlights between Poland and Belgium played at Camp Nou, Barcelona on Monday, 28 June 1982.</desc>
+		<desc>Watch the highlights between Poland and Belgium played at Camp Nou, Barcelona.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10333915'&amp;EntityType='LinearSchedule'&amp;EntityId='c83e93c1-8191-4041-b0ba-b2f8845f5f85'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251204012403 +0000" stop="20251204014217 +0000">
@@ -4730,7 +4738,7 @@
 	</programme>
 	<programme channel="557763" start="20251204014217 +0000" stop="20251204041025 +0000">
 		<title>Germany FR v Mexico | Quarter-finals | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Germany FR and Mexico played at Estadio Universitario, San Nicolas De Los Garza on Saturday, 21 June 1986.</desc>
+		<desc>Watch the full match replay between Germany FR and Mexico, San Nicolas, 21 June 1986.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10381475'&amp;EntityType='LinearSchedule'&amp;EntityId='38db1319-2efb-40cc-9921-10b69f36c587'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251204041025 +0000" stop="20251204045019 +0000">
@@ -4745,7 +4753,7 @@
 	</programme>
 	<programme channel="557763" start="20251204051013 +0000" stop="20251204065845 +0000">
 		<title>Mexico v Bulgaria | Round of 16 | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Mexico and Bulgaria played at Estadio Azteca, Mexico City on Sunday, 15 June 1986. The match is now available with commentary in Spanish.</desc>
+		<desc>Watch the full match replay between Mexico and Bulgaria, Mexico City, 15 June 1986.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10381459'&amp;EntityType='LinearSchedule'&amp;EntityId='4b0321a3-d233-4d3b-816f-eb00c6a6c03b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251204065845 +0000" stop="20251204075103 +0000">
@@ -4760,27 +4768,27 @@
 	</programme>
 	<programme channel="557763" start="20251204082222 +0000" stop="20251204095545 +0000">
 		<title>Hero | The Official Film of the 1986 FIFA World Cup™</title>
-		<desc>Mexico ’86 was all about Maradona. ‘Hero’ shows captivating, never-seen-before footage of Diego on and off the pitch, and the excellence of Elkjaer, Francescoli, Lineker and Sanchez.</desc>
+		<desc>Mexico ’86 was all about Maradona</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10381491'&amp;EntityType='LinearSchedule'&amp;EntityId='101f58fa-16e0-4db6-b3ea-a03977eab14c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251204095545 +0000" stop="20251204114324 +0000">
 		<title>England v Poland | Group Matches | 1986 FIFA World Cup Mexico™️ | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Poland played at Estadio Tecnologico, Monterrey on Wednesday, 11 June 1986.</desc>
+		<desc>Watch the full match replay between England and Poland played in Monterrey.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10381495'&amp;EntityType='LinearSchedule'&amp;EntityId='b0c8cae5-b820-4297-81f2-75fa978d8dd8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251204114324 +0000" stop="20251204121047 +0000">
 		<title>Hristo Stoichkov | Voices</title>
-		<desc>A Ballon d'Or winner and Bulgaria's miracle at USA '94. Hristo Stoichkov sharing an unforgettable journey through an up-close narrative.</desc>
+		<desc>Hristo Stoichkov recounts Bulgaria’s miracle at USA '94 in a unique narrative journey.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10381463'&amp;EntityType='LinearSchedule'&amp;EntityId='85cdcb11-ce82-48d6-8a0a-b9c01be3d95f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251204121047 +0000" stop="20251204122833 +0000">
 		<title>Curses | Mysteries of Football</title>
-		<desc>Can a football team truly be cursed? In the third episode of the series, Diego Ripoll explores some of the curses suffered by important teams around the world.</desc>
+		<desc>Diego Ripoll explores some of the curses suffered by important teams around the world.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10381467'&amp;EntityType='LinearSchedule'&amp;EntityId='603cecce-0931-473f-add1-ff535050b47f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251204122833 +0000" stop="20251204141443 +0000">
 		<title>Germany FR v Scotland | Group Matches | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany FR and Scotland played at Estadio Corregidora, Queretaro on Sunday, 08 June 1986.</desc>
+		<desc>Watch the full match replay between Germany FR and Scotland played in Queretaro.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10381479'&amp;EntityType='LinearSchedule'&amp;EntityId='4259e046-b09b-4a62-8ed0-ac290d89a099'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251204141443 +0000" stop="20251204143257 +0000">
@@ -4790,7 +4798,7 @@
 	</programme>
 	<programme channel="557763" start="20251204143257 +0000" stop="20251204170105 +0000">
 		<title>Germany FR v Mexico | Quarter-finals | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Germany FR and Mexico played at Estadio Universitario, San Nicolas De Los Garza on Saturday, 21 June 1986.</desc>
+		<desc>Watch the full match replay between Germany FR and Mexico, San Nicolas, 21 June 1986.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10381483'&amp;EntityType='LinearSchedule'&amp;EntityId='8a846282-63f6-4d34-87f9-8421b3211efb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251203170000 +0000" stop="20251203173000 +0000">
@@ -5907,75 +5915,5 @@
 		<title>Big Hair &amp; Power Chords! - EP1</title>
 		<desc>20 epic songs loaded with mega hair energy &amp; power chords! From 80s rock icons Boston, Whitesnake &amp; Chicago to modern day heroes The Darkness, Green Day &amp; My Chemical Romance.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10442239'&amp;EntityType='LinearSchedule'&amp;EntityId='65dcf63d-e94e-4f2d-9f21-f4006be56cb3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203165500 +0000" stop="20251203183000 +0000">
-		<title>Black Snow</title>
-		<desc>Gosha is a trucker in northern Yakutia, who supplies his community with food, alongside low quality vodka which contributes to their alcoholism. When his truck breaks down during one of his trips, he finds himself alone in the wilderness. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281720'&amp;EntityType='LinearSchedule'&amp;EntityId='5c9e626f-6b5f-41c3-8bed-11a199e19318'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203183000 +0000" stop="20251203201500 +0000">
-		<title>Murder in Haute Provence</title>
-		<desc>Two police officers investigate a body found in a slaughterhouse with the label “Can they suffer”. Although an animal rights association was initially suspected, details reveal that the victim was an undercover cop specialising in veterinary surveillance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10281738'&amp;EntityType='LinearSchedule'&amp;EntityId='3a1cad4d-c8b7-446e-8786-aa22686d7b8c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203201500 +0000" stop="20251203220000 +0000">
-		<title>Pure White</title>
-		<desc>Vural, a husband and a father who was raised in faith, leads a seemingly pious and conformist life. Yet, everything takes a sudden dark turn when he learns a truth that will force him to confront his views on religion and morality.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281754'&amp;EntityType='LinearSchedule'&amp;EntityId='199b2c46-fa39-4673-8595-b7bacfb62cb1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251203220000 +0000" stop="20251204001000 +0000">
-		<title>For The Birds</title>
-		<desc>Irma is a tomboy who believes independence is the only form of freedom. Then she meets Sampie, a charming rugby player with a heart of gold and oh-so-soft hands who sweeps her right off her feet to the altar, but not before she teaches him a thing or two. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10281770'&amp;EntityType='LinearSchedule'&amp;EntityId='e1b08c11-9a76-4a92-8ff3-a3ae87135c87'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251204001000 +0000" stop="20251204014000 +0000">
-		<title>Confetti</title>
-		<desc>Due to her dyslexia, Meimei is ostracized by her school and community. Encouraged by Meimei's teacher from school, Lan leaves everything behind in China for New York City in hopes of finding an education program for her daughter.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281758'&amp;EntityType='LinearSchedule'&amp;EntityId='afb87b8d-6f87-40e5-97fc-7e548d7ab451'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251204014000 +0000" stop="20251204030500 +0000">
-		<title>Binti</title>
-		<desc>Faced with potential deportation as an immigrant, Binti, a 12-year-old vlogger plots a scheme with her new friend to bring their parents together to save her future.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281786'&amp;EntityType='LinearSchedule'&amp;EntityId='7379ec7c-19dd-4e87-adc9-4f248c5240be'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251204030500 +0000" stop="20251204044500 +0000">
-		<title>Ghost Town Anthology</title>
-		<desc>Set in a small town in Quebec, the film centres on the inhabitants of the town who are struggling to cope after teenager Simon Dubé is killed in a car accident. As the family and town grieve, the residents begin to report several ghost sightings.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281774'&amp;EntityType='LinearSchedule'&amp;EntityId='b709e9c5-193f-4c6e-992e-8b8ba69cf523'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251204044500 +0000" stop="20251204062000 +0000">
-		<title>The Boss and The Cutie</title>
-		<desc>Totò is a rising boss of Neopolitan organised crime. Rosetta is a little girl in the fifth grade. After encountering nasty accidents and falling into comas, the both of them wake up in the hospital to find that they are trapped in the other’s body.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281778'&amp;EntityType='LinearSchedule'&amp;EntityId='8ec1eb02-c294-49cb-b80e-13b769b1fd7d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251204062000 +0000" stop="20251204075000 +0000">
-		<title>Patchwork Family</title>
-		<desc>Christian is a divorced father who can only see his young daughter Vanessa every other weekend. When he meets the single mother Christine and decides to participate in a summer TV show, his whole life is turned upside down.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281782'&amp;EntityType='LinearSchedule'&amp;EntityId='32150afb-8c1b-4eeb-8e08-19c1dc808ec5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251204075000 +0000" stop="20251204094500 +0000">
-		<title>The Kiss</title>
-		<desc>In 1913 Denmark, young officer Anton grapples with duty and love when he befriends Baron von Løvenskjold's daughter, Edith, confined to a wheelchair. As their bond deepens, Anton is ensnared in a web of promises and lies, torn between pity and true love.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281742'&amp;EntityType='LinearSchedule'&amp;EntityId='91c95063-284a-4c0b-9634-d8dc18d9308f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251204094500 +0000" stop="20251204112000 +0000">
-		<title>Above the Clouds</title>
-		<desc>After losing his parents in a flood, 15-year-old Andy is forced to live in the Mountain Province with his estranged grandfather. Feeling they’ve lost everything, the two embark on a journey and start to come to terms with their grief.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281762'&amp;EntityType='LinearSchedule'&amp;EntityId='4712b8f5-d4a8-44c4-9f44-701e65a44796'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251204112000 +0000" stop="20251204130000 +0000">
-		<title>Premiere Affaire</title>
-		<desc>Nora, a young and an inexperienced criminal defense lawyer is charged with the case of a teenage boy accused of murdering a neighbour.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281766'&amp;EntityType='LinearSchedule'&amp;EntityId='7815405a-99bf-4b35-afe4-57ad98015d3b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251204130000 +0000" stop="20251204145500 +0000">
-		<title>The Uninvited Guest</title>
-		<desc>In this suspense thriller, Felix, an architect, lets a stranger into his home to use his phone. When the man suddenly disappears inside the house, Felix finds himself in in a cat and mouse chase and his house becomes a maze.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281734'&amp;EntityType='LinearSchedule'&amp;EntityId='9f109f84-36f6-478c-aada-3310f5273036'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20251204145500 +0000" stop="20251204165000 +0000">
-		<title>Under the Volcano</title>
-		<desc>A blended Ukrainian family spends the last day of their vacation in Tenerife, Spain, when suddenly Russia’s ongoing occupation of Ukraine turns into a full-scale invasion. As their return to Kyiv becomes impossible, the tourists become refugees overnight.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10281750'&amp;EntityType='LinearSchedule'&amp;EntityId='4e7138a5-7024-4da9-acea-e5415b0fe17d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
