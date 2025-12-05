@@ -56,6 +56,10 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
 	<channel id="558241">
 		<display-name>River Monsters</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089297'&amp;EntityType='Item'&amp;EntityId='558241'&amp;Width=150&amp;Height=59" />
@@ -91,10 +95,6 @@
 	<channel id="158965">
 		<display-name>NOW 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510630'&amp;EntityType='Item'&amp;EntityId='158965'&amp;Width=193&amp;Height=187" />
-	</channel>
-	<channel id="158964">
-		<display-name>NOW 70s</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510620'&amp;EntityType='Item'&amp;EntityId='158964'&amp;Width=193&amp;Height=187" />
 	</channel>
 	<programme channel="97098" start="20251204160000 +0000" stop="20251204163000 +0000">
 		<title>Provocative - EP 178</title>
@@ -914,7 +914,7 @@
 	<programme channel="97096" start="20251205120000 +0000" stop="20251205123000 +0000">
 		<title>Indian Beat S16 - EP 36</title>
 		<desc>A bilingual magazine show that serves as a platform by featuring activities and events organized by the various Tamil and Indian ethnic organizations around Singapore.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10302054'&amp;EntityType='LinearSchedule'&amp;EntityId='a1512d1d-0072-4dc0-921e-7577066486d5'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10569485'&amp;EntityType='LinearSchedule'&amp;EntityId='a1512d1d-0072-4dc0-921e-7577066486d5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20251205123000 +0000" stop="20251205130000 +0000">
 		<title>(Live) Seithi</title>
@@ -934,7 +934,7 @@
 	<programme channel="97096" start="20251205140000 +0000" stop="20251205163000 +0000">
 		<title>Jetty</title>
 		<desc>In Kataripalem, Andhra Pradesh, fishermen face exploitation and natural disasters. Meenakshi and Sriram navigate challenges as they seek a jetty.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10442027'&amp;EntityType='LinearSchedule'&amp;EntityId='855fb8b3-8bd5-4014-83a8-85db4441fb53'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10569493'&amp;EntityType='LinearSchedule'&amp;EntityId='855fb8b3-8bd5-4014-83a8-85db4441fb53'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20251204160000 +0000" stop="20251204160300 +0000">
 		<title>Headline News</title>
@@ -1420,6 +1420,11 @@
 		<title>No Programme available now. Next Broadcast on 6th December, Saturday 9pm. Women's World Floorball Championships 2025</title>
 		<desc>LIVE 5 will commence broadcast of the Women's World Floorball Championships 2025: Singapore vs United States on 6th December, Saturday 9pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10529657'&amp;EntityType='LinearSchedule'&amp;EntityId='f493f0d0-38d8-4027-904b-ff73a3274452'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251204160000 +0000" stop="20251206060000 +0000">
+		<title>No Programme available now. Next Broadcast on 6th December, Saturday 2pm. Asia Artist Awards 2025 - Red Carpet</title>
+		<desc>LIVE 6 will commence broadcast of the Asia Artist Awards 2025 - Red Carpet on 6th December, Saturday 2pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10317141'&amp;EntityType='LinearSchedule'&amp;EntityId='bb8500fa-f50e-4cfd-b7c2-3eb544808922'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20251204154206 +0000" stop="20251204163448 +0000">
 		<title>River Monsters - South Pacific Terrors</title>
@@ -2911,86 +2916,6 @@
 		<desc>The 80s was the decade where rock &amp; big hair were inseparable! Just look at Tina Turner, Bonnie Tyler, U2, White Snake &amp; Marillion.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10302094'&amp;EntityType='LinearSchedule'&amp;EntityId='4c5e9adb-a08e-44af-bbd3-020b56608032'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20251204160000 +0000" stop="20251204162500 +0000">
-		<title>The Bank Holiday Boogie! - EP1</title>
-		<desc>If you don't get up and dance, you aren't human! Disco was the best floor show in town &amp; once again it's time to get up &amp; get lost in the pulse!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10302126'&amp;EntityType='LinearSchedule'&amp;EntityId='6dc57456-6d06-40e8-bf6e-ea3d8a4e85f4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251204162500 +0000" stop="20251204195500 +0000">
-		<title>A Massive 70s Party! Top 50 - EP1</title>
-		<desc>The hottest party starters from pop's golden decade. From disco to soul to glam to pure pop to new wave.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10313764'&amp;EntityType='LinearSchedule'&amp;EntityId='899981df-55d6-44d4-849a-138cacd66449'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251204195500 +0000" stop="20251204202500 +0000">
-		<title>The Bank Holiday Boogie! - EP1</title>
-		<desc>If you don't get up and dance, you aren't human! Disco was the best floor show in town &amp; once again it's time to get up &amp; get lost in the pulse!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10302166'&amp;EntityType='LinearSchedule'&amp;EntityId='25bd9d69-cafd-4d0e-8598-9113463a3660'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251204202500 +0000" stop="20251204210000 +0000">
-		<title>Disco Battle! Boney M vs ABBA - EP1</title>
-		<desc>Get on the dancefloor and see who has the biggest 70s disco beats - Boney M or ABBA?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10313768'&amp;EntityType='LinearSchedule'&amp;EntityId='c5f55664-e263-4d8a-bcf9-4210e98dc1e4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251204210000 +0000" stop="20251205042500 +0000">
-		<title>The 101 Best Disco Boogies - Ever! - EP1</title>
-		<desc>It's time to shake your thang on the biggest dancefloor session ever. From Abba to the Bee Gees, Chic to The Real Thing, Dan Hartman to Donna Summer - these were made for dancing!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10313776'&amp;EntityType='LinearSchedule'&amp;EntityId='ce3944fb-8714-4069-9ed8-a4fe3ee73f97'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205042500 +0000" stop="20251205050000 +0000">
-		<title>The Bank Holiday Boogie! - EP1</title>
-		<desc>If you don't get up and dance, you aren't human! Disco was the best floor show in town &amp; once again it's time to get up &amp; get lost in the pulse!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10302174'&amp;EntityType='LinearSchedule'&amp;EntityId='bb81e014-5c29-40ce-8717-ca8a519f937f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205050000 +0000" stop="20251205072500 +0000">
-		<title>Pat Sharp's Disco Explosion! - EP1</title>
-		<desc>Get down to Studio 54 with Abba on songwriting duties, the Bee Gees on production, Chic's string section &amp; Pat Sharp on rhythm guitar!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10313782'&amp;EntityType='LinearSchedule'&amp;EntityId='938bc084-9d02-4023-969d-db056425282f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205072500 +0000" stop="20251205080000 +0000">
-		<title>The Bank Holiday Boogie! - EP1</title>
-		<desc>If you don't get up and dance, you aren't human! Disco was the best floor show in town &amp; once again it's time to get up &amp; get lost in the pulse!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10302138'&amp;EntityType='LinearSchedule'&amp;EntityId='0af0e1df-2b0c-4630-bccc-0a27a099a632'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205080000 +0000" stop="20251205093000 +0000">
-		<title>Disco Bling! Top 25 - EP1</title>
-		<desc>25 of the campest &amp; glitziest disco videos known to man. Sunglasses at the ready cause you'll be blinded by the bright lights &amp; brilliant bling!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10313792'&amp;EntityType='LinearSchedule'&amp;EntityId='46cfec12-9edb-4172-9a89-504d9b483ae8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205093000 +0000" stop="20251205095500 +0000">
-		<title>The Bank Holiday Boogie! - EP1</title>
-		<desc>If you don't get up and dance, you aren't human! Disco was the best floor show in town &amp; once again it's time to get up &amp; get lost in the pulse!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10302130'&amp;EntityType='LinearSchedule'&amp;EntityId='5a763b79-64f8-432c-8055-1c95e8942d11'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205095500 +0000" stop="20251205103000 +0000">
-		<title>A Massive 70s Party! Top 50 - EP1</title>
-		<desc>The hottest party starters from pop's golden decade. From disco to soul to glam to pure pop to new wave.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10313801'&amp;EntityType='LinearSchedule'&amp;EntityId='2b1febb9-4cfe-44a8-9354-266a41da704e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205103000 +0000" stop="20251205125000 +0000">
-		<title>Derek Griffiths: Playschool Disco! - EP1</title>
-		<desc>The voice of your childhood Derek Griffiths with 40 of those tunes you pestered your parents to buy - all top pop moments that still bring a smile &amp; happy memories of school days!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10313814'&amp;EntityType='LinearSchedule'&amp;EntityId='ba985245-1dc1-46ea-9d79-092034978101'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205125000 +0000" stop="20251205130000 +0000">
-		<title>The Bank Holiday Boogie! - EP1</title>
-		<desc>If you don't get up and dance, you aren't human! Disco was the best floor show in town &amp; once again it's time to get up &amp; get lost in the pulse!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10302162'&amp;EntityType='LinearSchedule'&amp;EntityId='80fa6d8d-d4a1-44f5-80f3-e4f7960cc4e8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205130000 +0000" stop="20251205153000 +0000">
-		<title>The Complete Abba! 1973-2022 - EP1</title>
-		<desc>Quite simply the biggest hits from the biggest pop act of the 70s &amp; now back for the 2020s - Abba! 32 songs, 9 UK number 1s.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10313824'&amp;EntityType='LinearSchedule'&amp;EntityId='d364b730-66d2-493c-8483-dec833cdd9cc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205153000 +0000" stop="20251205160000 +0000">
-		<title>Boogie Nights! - EP1</title>
-		<desc>If you don't get up and dance, you aren't human! Disco was the best floor show in town &amp; once again it's time to get up &amp; get lost in the pulse!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10313832'&amp;EntityType='LinearSchedule'&amp;EntityId='674cb6d0-3b2f-4b07-ad70-cc5e31c76cd3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205160000 +0000" stop="20251205181500 +0000">
-		<title>Derek Griffiths: Playschool Disco! - EP1</title>
-		<desc>The voice of your childhood Derek Griffiths with 40 of those tunes you pestered your parents to buy - all top pop moments that still bring a smile &amp; happy memories of school days!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320217'&amp;EntityType='LinearSchedule'&amp;EntityId='e414ff92-4123-4832-a2d1-9018dc8a962c'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20251205162000 +0000" stop="20251205173000 +0000">
 		<title>Survivor 49 - EP 7</title>
 		<desc>A new group of castaways begin the adventure of a lifetime while stranded on the stunning islands of Fiji. The players competing on the 49th season include a musician, a correctional officer, an MBA career coach, an airport ramp agent, a fitness trainer, a financial crime consultant, a clinical social worker and a film producer.</desc>
@@ -3654,12 +3579,12 @@
 	<programme channel="97096" start="20251206050000 +0000" stop="20251206080000 +0000">
 		<title>Guru Dhakshanai</title>
 		<desc>The story is about the importance of education and teachers in society.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10389897'&amp;EntityType='LinearSchedule'&amp;EntityId='6f685557-9ed8-4466-82a8-01307e2ac379'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10569402'&amp;EntityType='LinearSchedule'&amp;EntityId='6f685557-9ed8-4466-82a8-01307e2ac379'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20251206080000 +0000" stop="20251206110000 +0000">
 		<title>Love (Hindi)</title>
 		<desc>Prithvi and Maggie fall in love and decide to get married, but Maggie's mother objects looking at Prithvi's past.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10389901'&amp;EntityType='LinearSchedule'&amp;EntityId='6b9590c8-a938-4e96-a444-37250b14fc1f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10569406'&amp;EntityType='LinearSchedule'&amp;EntityId='6b9590c8-a938-4e96-a444-37250b14fc1f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20251206110000 +0000" stop="20251206120000 +0000">
 		<title>Growing Wild: Project Castaway - EP 3</title>
@@ -3684,7 +3609,7 @@
 	<programme channel="97096" start="20251206140000 +0000" stop="20251206163000 +0000">
 		<title>Desingu Raja 2</title>
 		<desc>College buddies become a police chief, inspector, and criminal. Their reunion years later sparks chaos as friendship collides with duty.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10389905'&amp;EntityType='LinearSchedule'&amp;EntityId='b06de7c9-aaeb-4429-b0ba-1ad360788fc8'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10569410'&amp;EntityType='LinearSchedule'&amp;EntityId='b06de7c9-aaeb-4429-b0ba-1ad360788fc8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20251205160300 +0000" stop="20251205170000 +0000">
 		<title>East Asia Tonight</title>
@@ -4155,6 +4080,31 @@
 		<title>No Programme available now. Next Broadcast on 7th December, Sunday 11.30pm. Women's World Floorball Championships 2025</title>
 		<desc>LIVE 5 will commence broadcast of the Women's World Floorball Championships 2025: Estonia vs Singapore on 7th December, Sunday 11.30pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10529669'&amp;EntityType='LinearSchedule'&amp;EntityId='30244269-dd55-4d94-8848-607dfc616f6b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251206060000 +0000" stop="20251206073000 +0000">
+		<title>Asia Artist Awards 2025 - Red Carpet</title>
+		<desc>Featuring star power from musicians JJ Lin, Stray Kids, ATEEZ, IVE, LE SSERAFIM, MONSTA X; actors IU, Park Bo Gum, Kim Yoo-Jung, Im Yoon-Ah and many more, this two-day epic extravaganza at the Kaohsiung National Stadium in Taiwan ushers in the milestone 10th edition of Asia Artist Awards. The event opens with a bang on Day 1 with a high-octane awards ceremony honouring achievements in music, TV and film across Asia. Over seven hours of red-carpet glamour, glitzy awards and smash act performances showcase the top stars of Asian entertainment. Day 2 shifts into festive concert mode, with three solid hours of non-stop live K-pop performances. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10331132'&amp;EntityType='LinearSchedule'&amp;EntityId='1f682301-0532-4a10-b9c5-a08f1aeaa6dd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251206073000 +0000" stop="20251206080000 +0000">
+		<title>No Programme available now. Next Broadcast on 6th December, Saturday 4pm. Asia Artist Awards 2025 - Main Show</title>
+		<desc>LIVE 6 will commence broadcast of the Asia Artist Awards 2025 - Main Show on 6th December, Saturday 4pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10319494'&amp;EntityType='LinearSchedule'&amp;EntityId='a647b3ca-0fb7-45c5-90e8-ea0f0cfb7494'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251206080000 +0000" stop="20251206140000 +0000">
+		<title>Asia Artist Awards 2025 - Main Show</title>
+		<desc>Featuring star power from musicians JJ Lin, Stray Kids, ATEEZ, IVE, LE SSERAFIM, MONSTA X; actors IU, Park Bo Gum, Kim Yoo-Jung, Im Yoon-Ah and many more, this two-day epic extravaganza at the Kaohsiung National Stadium in Taiwan ushers in the milestone 10th edition of Asia Artist Awards. The event opens with a bang on Day 1 with a high-octane awards ceremony honouring achievements in music, TV and film across Asia. Over seven hours of red-carpet glamour, glitzy awards and smash act performances showcase the top stars of Asian entertainment. Day 2 shifts into festive concert mode, with three solid hours of non-stop live K-pop performances. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10331136'&amp;EntityType='LinearSchedule'&amp;EntityId='744a4b48-0ec8-43a6-83c6-d20f04bde586'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251206140000 +0000" stop="20251206160000 +0000">
+		<title>No Programme available now. Next Broadcast on 7th December, Sunday 5pm. ACON 2025</title>
+		<desc>LIVE 6 will commence broadcast of the ACON 2025 on 7th December, Sunday 5pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10319510'&amp;EntityType='LinearSchedule'&amp;EntityId='bcd136f6-e599-4ce2-ac3c-933954aed0a2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251206160000 +0000" stop="20251207090000 +0000">
+		<title>No Programme available now. Next Broadcast on 7th December, Sunday 5pm. ACON 2025</title>
+		<desc>LIVE 6 will commence broadcast of the ACON 2025 on 7th December, Sunday 5pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10365519'&amp;EntityType='LinearSchedule'&amp;EntityId='32ff116e-2b5d-484d-aa9b-c7ca6ee01d90'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20251205161859 +0000" stop="20251205171154 +0000">
 		<title>River Monsters - Secrets of the Sea</title>
@@ -5535,110 +5485,5 @@
 		<title>Chartbusters! with Bruno Brookes - EP1</title>
 		<desc>They seemed to arrive from nowhere, burst into the chart &amp; caused a mini pop sensation. Bruno's back, taking you through the decade year by year, with his pick of 30 surprise hits!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10319866'&amp;EntityType='LinearSchedule'&amp;EntityId='c5a39a82-fbc8-4ab4-a9e9-bdb230e2202e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205181500 +0000" stop="20251205182500 +0000">
-		<title>The Bank Holiday Boogie! - EP1</title>
-		<desc>If you don't get up and dance, you aren't human! Disco was the best floor show in town &amp; once again it's time to get up &amp; get lost in the pulse!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320014'&amp;EntityType='LinearSchedule'&amp;EntityId='10adb6d8-4a6c-4a7c-913a-1f0363445c86'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205182500 +0000" stop="20251205205500 +0000">
-		<title>The Complete Abba! 1973-2022 - EP1</title>
-		<desc>Quite simply the biggest hits from the biggest pop act of the 70s &amp; now back for the 2020s - Abba! 32 songs, 9 UK number 1s.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320230'&amp;EntityType='LinearSchedule'&amp;EntityId='4481e301-8ab4-46f0-a897-404f7edcbb7a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205205500 +0000" stop="20251205210000 +0000">
-		<title>Boogie Nights! - EP1</title>
-		<desc>If you don't get up and dance, you aren't human! Disco was the best floor show in town &amp; once again it's time to get up &amp; get lost in the pulse!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320028'&amp;EntityType='LinearSchedule'&amp;EntityId='492a71c5-89f2-4551-83db-a480f26f5637'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251205210000 +0000" stop="20251206000000 +0000">
-		<title>Essentials! 70s Rock Groups - EP1</title>
-		<desc>Turn it up loud for 2 hours of proper rock from the 70s - the decade that gave birth to Prog &amp; Metal! Including Pink Floyd, Led Zeppelin, Black Sabbath, Alice Cooper, AC/DC &amp; Queen</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320296'&amp;EntityType='LinearSchedule'&amp;EntityId='31dd9d66-9e18-44cf-9729-0c73a65751d6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206000000 +0000" stop="20251206010000 +0000">
-		<title>Simon Bates Golden Hour: 1979 - EP1</title>
-		<desc>60 minutes of hits &amp; headlines from the year of 'Moonraker', 'Alien' &amp; 'The Muppet Movie' and when 24 million people saw Penelope Keith in 'To The Manor Born' on TV.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320305'&amp;EntityType='LinearSchedule'&amp;EntityId='90698d1b-07e5-454c-8048-ab426073a5bf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206010000 +0000" stop="20251206020000 +0000">
-		<title>Simon Bates Golden Hour: 1978 - EP1</title>
-		<desc>60 minutes of hits &amp; headlines from the year Larry Grayson first shouted Shut That Door on 'The Generation Game' and Ted Rodgers rolled out his robotic dustbin on '3-2-1'.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320067'&amp;EntityType='LinearSchedule'&amp;EntityId='32e263d9-303d-4f37-8665-35abd8cf2d7f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206020000 +0000" stop="20251206030000 +0000">
-		<title>Simon Bates Golden Hour: 1977 - EP1</title>
-		<desc>60 minutes of hits &amp; headlines from the year Demis Roussos soundtracked 'Abigail's Party', Punk was the new scourge of society, but it was outsold by TV cop crooner David Soul!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320202'&amp;EntityType='LinearSchedule'&amp;EntityId='f53daee4-1811-4656-be55-9d498e07664c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206030000 +0000" stop="20251206040000 +0000">
-		<title>Simon Bates NEW Golden Hour: 1976 - EP1</title>
-		<desc>Another 60 minutes of heatwave hits &amp; headlines from a year of contrasts - Punk, Dancing Queen, the Inter-City 125, the Honey Monster &amp; that year's top toy - Swingball!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320345'&amp;EntityType='LinearSchedule'&amp;EntityId='db3c881f-a121-4cf0-84a7-f19df98a196f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206040000 +0000" stop="20251206050000 +0000">
-		<title>Simon Bates Golden Hour: 1975 - EP1</title>
-		<desc>60 minutes of hits &amp; headlines from the year Margaret Thatcher became Tory leader, 'Ding A Dong" won Eurovision, and Fawlty Towers opened its doors for the very first time!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320244'&amp;EntityType='LinearSchedule'&amp;EntityId='57e7ae6c-653d-4b96-aac6-ff6a4c166d76'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206050000 +0000" stop="20251206060000 +0000">
-		<title>Simon Bates NEW Golden Hour: 1974 - EP1</title>
-		<desc>Another 60 minutes from the year Richard Nixon left the US Presidency after Watergate, Prog Rock dominated the album charts &amp; inflation hit double digits. Imagine that!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320082'&amp;EntityType='LinearSchedule'&amp;EntityId='026a6b79-8e07-48b3-9cd8-a358a55e753c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206060000 +0000" stop="20251206070000 +0000">
-		<title>Simon Bates NEW Golden Hour: 1973 - EP1</title>
-		<desc>Another 60 minutes of hits &amp; headlines served with a side or order of flares! It was a busy year for the Queen as she opened the Sydney Opera House &amp; the new London Bridge.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320360'&amp;EntityType='LinearSchedule'&amp;EntityId='32f143bc-a9fd-47ea-ace3-b140e49f123a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206070000 +0000" stop="20251206080000 +0000">
-		<title>Simon Bates Golden Hour: 1972 - EP1</title>
-		<desc>60 minutes of hits &amp; headlines from a year of major cultural debuts - 'Jesus Christ Superstar', 'Are You Being Served?' &amp; George, Zippy &amp; Bungle in 'Rainbow'!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320186'&amp;EntityType='LinearSchedule'&amp;EntityId='5a4ce425-538d-44e6-a564-802654880080'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206080000 +0000" stop="20251206090000 +0000">
-		<title>Simon Bates Golden Hour: 1971 - EP1</title>
-		<desc>60 minutes of hits &amp; headlines from the year Gary Barlow, David Tennant &amp; Clare Balding were born. And the UK said goodbye to pounds, shillings &amp; pence as we went decimal!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320119'&amp;EntityType='LinearSchedule'&amp;EntityId='138c023a-6042-4af1-90ef-365d2f61df65'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206090000 +0000" stop="20251206093000 +0000">
-		<title>Simon Bates NEW Golden Hour: 1970 - EP1</title>
-		<desc>Another 60 minutes of hits &amp; headlines from a year of firsts - 18 year olds were allowed to vote in the UK, Hawaii Five-O arrived on the TV &amp; the 747 Jumbo launched from Heathrow!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320098'&amp;EntityType='LinearSchedule'&amp;EntityId='91f23fad-3137-4f68-89c9-a1b863ffb083'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206093000 +0000" stop="20251206103000 +0000">
-		<title>Derek Griffiths: Playschool Disco! - EP1</title>
-		<desc>The voice of your childhood Derek Griffiths with 40 of those tunes you pestered your parents to buy - all top pop moments that still bring a smile &amp; happy memories of school days!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320370'&amp;EntityType='LinearSchedule'&amp;EntityId='43f4f0a8-c4e0-4b29-97e7-04e810d1541a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206103000 +0000" stop="20251206110000 +0000">
-		<title>Magic Moments! The 70s - EP1</title>
-		<desc>Experience the magic of the 70s, where every beat was a spell and every song a timeless enchantment!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320380'&amp;EntityType='LinearSchedule'&amp;EntityId='3a590fb5-2167-4a01-9fa2-2e9e5229ba95'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206110000 +0000" stop="20251206134500 +0000">
-		<title>Bruno Brookes-Never Even A Top 10? - EP1</title>
-		<desc>Bruno Brookes guides you through the stats in disbelief! Three hours of top tunes from superstars like Bowie, Abba, Bob Marley, Queen, The Who and more. But why didn't we buy 'em?!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320268'&amp;EntityType='LinearSchedule'&amp;EntityId='e7bcce0e-1457-4c5a-967f-5ad1f2007ce3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206134500 +0000" stop="20251206140000 +0000">
-		<title>Punk &amp; Disorderly! - EP1</title>
-		<desc>Non-stop 70s songs the cool kids were listening to in the latter half of the decade - expect skinny jeans, safety pins, guitars and just a few snarls!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320135'&amp;EntityType='LinearSchedule'&amp;EntityId='c44fe554-2f27-48fd-a27d-15274242e9c2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206140000 +0000" stop="20251206152000 +0000">
-		<title>Not A Top 10?! Punk &amp; New Wave - EP1</title>
-		<desc>20 punk &amp; new wave anthems that never made the UK Top 10 - yes really!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320162'&amp;EntityType='LinearSchedule'&amp;EntityId='bc234a00-18ce-47f6-a0bf-4d3e5f394358'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206152000 +0000" stop="20251206160000 +0000">
-		<title>Punk &amp; Disorderly! - EP1</title>
-		<desc>Non-stop 70s songs the cool kids were listening to in the latter half of the decade - expect skinny jeans, safety pins, guitars and just a few snarls!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10320285'&amp;EntityType='LinearSchedule'&amp;EntityId='3a60c6c7-4702-4640-b9ee-05750121d03d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20251206160000 +0000" stop="20251206162500 +0000">
-		<title>Magic Moments! The 70s - EP1</title>
-		<desc>Experience the magic of the 70s, where every beat was a spell and every song a timeless enchantment!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10365988'&amp;EntityType='LinearSchedule'&amp;EntityId='a8dc7917-4b89-4233-b06a-7feb7a6cb62a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
