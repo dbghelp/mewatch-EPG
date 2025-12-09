@@ -44,6 +44,14 @@
 		<display-name>SEA Games CH04</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10298988'&amp;EntityType='Item'&amp;EntityId='580750'&amp;Width=289&amp;Height=250" />
 	</channel>
+	<channel id="580751">
+		<display-name>SEA Games CH05</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10298994'&amp;EntityType='Item'&amp;EntityId='580751'&amp;Width=289&amp;Height=250" />
+	</channel>
+	<channel id="580752">
+		<display-name>SEA Games CH06</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10299762'&amp;EntityType='Item'&amp;EntityId='580752'&amp;Width=289&amp;Height=250" />
+	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -59,10 +67,6 @@
 	<channel id="98202">
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
-	<channel id="204746">
-		<display-name>LIVE 6</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
 	</channel>
 	<channel id="558241">
 		<display-name>River Monsters</display-name>
@@ -91,10 +95,6 @@
 	<channel id="556877">
 		<display-name>TG Junior</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358838'&amp;EntityType='Item'&amp;EntityId='556877'&amp;Width=264&amp;Height=250" />
-	</channel>
-	<channel id="556894">
-		<display-name>Action Hollywood Movies</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358842'&amp;EntityType='Item'&amp;EntityId='556894'&amp;Width=304&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20251208160000 +0000" stop="20251208163000 +0000">
 		<title>Provocative - EP 179</title>
@@ -1221,6 +1221,26 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10533568'&amp;EntityType='LinearSchedule'&amp;EntityId='b5fbb5d4-f872-4f3c-a89d-8bfb55ef3ad3'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="580751" start="20251208160000 +0000" stop="20251209155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10533624'&amp;EntityType='LinearSchedule'&amp;EntityId='a43f0383-adff-4179-9133-59f4d93a8875'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="580751" start="20251209160000 +0000" stop="20251210080000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10533628'&amp;EntityType='LinearSchedule'&amp;EntityId='b6da45f3-775b-488c-b61d-9fc77840ca2c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="580752" start="20251208160000 +0000" stop="20251209155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10553666'&amp;EntityType='LinearSchedule'&amp;EntityId='d1643304-0ae6-443e-a63e-dd9ba7b99f2e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="580752" start="20251209160000 +0000" stop="20251210110000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10553670'&amp;EntityType='LinearSchedule'&amp;EntityId='4bc78aaa-dd29-49d3-a1a6-0e9f88d7f279'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="98200" start="20251208160000 +0000" stop="20251209160000 +0000">
 		<title>No Programme available now. Next Broadcast on 14th December, Sunday 7.20pm. Singapore Cup 2025/2026 </title>
 		<desc>SPL 01 will commence broadcast of the Singapore Cup 2025/2026 Semi-final 1st Leg : Balestier Khalsa FC vs Lion City Sailors FC on 14th December, Sunday 7.20pm. Please stay tuned!</desc>
@@ -1390,16 +1410,6 @@
 		<title>No Programme available now. Next Broadcast on 10th December, Wednesday 8.05pm. AFC Champions League Two 2025/26</title>
 		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Selangor FC vs Lion City Sailors FC on 10th December, Wednesday 8.05pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10529693'&amp;EntityType='LinearSchedule'&amp;EntityId='46e8e890-25a7-4af3-be2e-ccf9b00cfe10'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20251208160000 +0000" stop="20251209160000 +0000">
-		<title>No Programme available now. Next Broadcast on 18th December, Thursday 4.05am. Carabao Cup 2025/26</title>
-		<desc>LIVE 6 will commence broadcast of the Carabao Cup 2025/26: Newcastle United vs Fulham on 18th December, Thursday 4.05am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10420692'&amp;EntityType='LinearSchedule'&amp;EntityId='ead500d3-98ef-4c25-a3b1-84e6f424854a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20251209160000 +0000" stop="20251210160000 +0000">
-		<title>No Programme available now. Next Broadcast on 18th December, Thursday 4.05am. Carabao Cup 2025/26</title>
-		<desc>LIVE 6 will commence broadcast of the Carabao Cup 2025/26: Newcastle United vs Fulham on 18th December, Thursday 4.05am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10486135'&amp;EntityType='LinearSchedule'&amp;EntityId='d8b2087a-7520-44f0-80a9-7fb3f35bf778'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20251208153207 +0000" stop="20251208162501 +0000">
 		<title>River Monsters - Secrets of the Sea</title>
@@ -1838,7 +1848,7 @@
 	</programme>
 	<programme channel="557763" start="20251208171845 +0000" stop="20251208194017 +0000">
 		<title>England v Germany FR | Final | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between England and Germany FR</desc>
+		<desc>Watch the full match replay from the match between England and Germany FR played at Wembley Stadium, London on Saturday, 30 July 1966.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572691'&amp;EntityType='LinearSchedule'&amp;EntityId='dab5d329-5907-4b3d-8df5-14a3f6ba189a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251208194017 +0000" stop="20251208195830 +0000">
@@ -1863,7 +1873,7 @@
 	</programme>
 	<programme channel="557763" start="20251208215723 +0000" stop="20251208234604 +0000">
 		<title>Argentina v Germany | Quarter-finals | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Argentina and Germany played at Cape Town Stadium.</desc>
+		<desc>Watch the full match replay from the match between Argentina and Germany played at Cape Town Stadium, Cape Town on Saturday, 03 July 2010.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572589'&amp;EntityType='LinearSchedule'&amp;EntityId='8b8ee8af-4b60-4c80-9f39-a1ea20c0cafb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251208234604 +0000" stop="20251209003250 +0000">
@@ -1893,7 +1903,7 @@
 	</programme>
 	<programme channel="557763" start="20251209024933 +0000" stop="20251209043508 +0000">
 		<title>England v Mexico | Group Matches | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Mexico played at Wembley Stadium, London.</desc>
+		<desc>Watch the full match replay between England and Mexico played at Wembley Stadium, London on Saturday, 16 July 1966.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572706'&amp;EntityType='LinearSchedule'&amp;EntityId='6e949714-e01a-44a8-893f-f9450160a207'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251209043508 +0000" stop="20251209050032 +0000">
@@ -1903,12 +1913,12 @@
 	</programme>
 	<programme channel="557763" start="20251209050032 +0000" stop="20251209064443 +0000">
 		<title>LIVE - Fiji v Argentina | FIFA U-17 World Cup Qatar 2025™</title>
-		<desc>Watch the match between Fiji and Argentina played at Aspire Zone - Pitch 3.</desc>
+		<desc>Watch the match between Fiji and Argentina played at Aspire Zone - Pitch 3, Doha on Sunday, 9 November 2025 at 15:30 (local time).</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572712'&amp;EntityType='LinearSchedule'&amp;EntityId='e5737ab9-db41-4337-8c72-2b6863142ab6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251209064443 +0000" stop="20251209082854 +0000">
 		<title>England v Portugal | Semi-finals | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Portugal played in London.</desc>
+		<desc>Watch the full match replay between England and Portugal played at Wembley Stadium, London on Tuesday, 26 July 1966.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10553786'&amp;EntityType='LinearSchedule'&amp;EntityId='aa12b382-3118-45e4-b5ce-84311f4d5ae7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251209082854 +0000" stop="20251209090313 +0000">
@@ -1918,7 +1928,7 @@
 	</programme>
 	<programme channel="557763" start="20251209090313 +0000" stop="20251209104653 +0000">
 		<title>England v Uruguay | Group Matches | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Uruguay played at Wembley Stadium, London.</desc>
+		<desc>Watch the full match replay between England and Uruguay played at Wembley Stadium, London on Saturday, 16 July 1966.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572621'&amp;EntityType='LinearSchedule'&amp;EntityId='bb0fbd54-436f-4ac1-bcba-aa3f68ab9dfa'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251209104653 +0000" stop="20251209110144 +0000">
@@ -1928,7 +1938,7 @@
 	</programme>
 	<programme channel="557763" start="20251209110144 +0000" stop="20251209124455 +0000">
 		<title>Germany FR v Uruguay | Quarter-finals | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany FR and Uruguay played in Sheffield on 23 July 1966.</desc>
+		<desc>Watch the full match replay between Germany FR and Uruguay played at Hillsborough Stadium, Sheffield on Saturday, 23 July 1966 at 15:00 (local time).</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572629'&amp;EntityType='LinearSchedule'&amp;EntityId='54f83da3-8dac-45bc-8ffb-5f2e960b1316'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251209124455 +0000" stop="20251209130559 +0000">
@@ -1938,7 +1948,7 @@
 	</programme>
 	<programme channel="557763" start="20251209130559 +0000" stop="20251209145253 +0000">
 		<title>Germany FR v Soviet Union | Semi-finals | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany FR and Soviet Union played in London.</desc>
+		<desc>Watch the full match replay between Germany FR and Soviet Union played at Goodison Park, London on Monday, 25 July 1966.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572662'&amp;EntityType='LinearSchedule'&amp;EntityId='b7016235-bc20-46b3-b696-5f27549685ea'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251209145253 +0000" stop="20251209151248 +0000">
@@ -1948,7 +1958,7 @@
 	</programme>
 	<programme channel="557763" start="20251209151248 +0000" stop="20251209165936 +0000">
 		<title>Portugal v Brazil | Group Matches | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Portugal and Brazil played at Goodison Park, Liverpool.</desc>
+		<desc>Watch the full match replay between Portugal and Brazil played at Goodison Park, Liverpool on Tuesday, 19 July 1966.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572668'&amp;EntityType='LinearSchedule'&amp;EntityId='1e523220-cb46-4a60-b8ee-5a1ccdf94098'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251208150000 +0000" stop="20251208165500 +0000">
@@ -2795,71 +2805,6 @@
 		<title>Talking Tom and Friends Minis</title>
 		<desc>Get ready to watch Talking Tom and Friends at their cutest! Mini in size, but massive in fun, the Minis check out the day-to-day world of the friends we all know and love where they do the most ordinary things in the most extraordinary ways.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487757'&amp;EntityType='LinearSchedule'&amp;EntityId='c25c9834-74ce-4e25-82fd-b2522025def3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251208160000 +0000" stop="20251208180000 +0000">
-		<title>Charro!</title>
-		<desc>Jess Wade is innocently accused of having stolen a cannon from the Mexican revolutionary forces. He tries to find the real culprits, a gang of criminals.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421489'&amp;EntityType='LinearSchedule'&amp;EntityId='4928d4db-d647-48b8-ac5d-e359b4f0c4e0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251208180000 +0000" stop="20251208200000 +0000">
-		<title>The Gay Deceivers</title>
-		<desc>Danny and Elliot avoid military service by pretending to be gay, but they have to act the part when the recruiting officer doesn't buy it.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421510'&amp;EntityType='LinearSchedule'&amp;EntityId='0186eab5-32a3-40fe-b889-ea400670d800'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251208200000 +0000" stop="20251208220000 +0000">
-		<title>Christmas Evil</title>
-		<desc>In this comedic horror movie, a toymaker tries to make the Christmas spirit a reality, becoming obsessed with the behavior of children and the quality of the toys he makes. When he is met with hypocrisy and cynicism, he snaps and goes on a killing spree.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421572'&amp;EntityType='LinearSchedule'&amp;EntityId='340642df-d5b0-43a5-b799-5d66c8a5a4c0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251208220000 +0000" stop="20251209000000 +0000">
-		<title>Charro!</title>
-		<desc>Jess Wade is innocently accused of having stolen a cannon from the Mexican revolutionary forces. He tries to find the real culprits, a gang of criminals.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421593'&amp;EntityType='LinearSchedule'&amp;EntityId='a55c2c47-061e-4924-8294-e1537653e524'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209000000 +0000" stop="20251209020000 +0000">
-		<title>The Gay Deceivers</title>
-		<desc>Danny and Elliot avoid military service by pretending to be gay, but they have to act the part when the recruiting officer doesn't buy it.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421601'&amp;EntityType='LinearSchedule'&amp;EntityId='4b10527b-17b5-4e68-91a9-34c5d76bdac5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209020000 +0000" stop="20251209040000 +0000">
-		<title>Christmas Evil</title>
-		<desc>In this comedic horror movie, a toymaker tries to make the Christmas spirit a reality, becoming obsessed with the behavior of children and the quality of the toys he makes. When he is met with hypocrisy and cynicism, he snaps and goes on a killing spree.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421499'&amp;EntityType='LinearSchedule'&amp;EntityId='54223a74-2eac-4750-9f54-fea11c85444f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209040000 +0000" stop="20251209060000 +0000">
-		<title>Charro!</title>
-		<desc>Jess Wade is innocently accused of having stolen a cannon from the Mexican revolutionary forces. He tries to find the real culprits, a gang of criminals.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421522'&amp;EntityType='LinearSchedule'&amp;EntityId='88a74c06-c8dd-450f-ac8e-0a2dc7bf9471'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209060000 +0000" stop="20251209080000 +0000">
-		<title>The Gay Deceivers</title>
-		<desc>Danny and Elliot avoid military service by pretending to be gay, but they have to act the part when the recruiting officer doesn't buy it.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421535'&amp;EntityType='LinearSchedule'&amp;EntityId='a63326fc-e27e-46c0-8bb4-09eeddda4ee5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209080000 +0000" stop="20251209100000 +0000">
-		<title>Christmas Evil</title>
-		<desc>In this comedic horror movie, a toymaker tries to make the Christmas spirit a reality, becoming obsessed with the behavior of children and the quality of the toys he makes. When he is met with hypocrisy and cynicism, he snaps and goes on a killing spree.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421560'&amp;EntityType='LinearSchedule'&amp;EntityId='ed1c8118-fa64-4fa9-9c04-27890df6c3a8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209100000 +0000" stop="20251209115000 +0000">
-		<title>The Mad Bomber</title>
-		<desc>William Dorn decides to get back at all the people he blames for the overdose death of his daughter and the break up of his marriage, so he decides to go on a bombing spree.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421610'&amp;EntityType='LinearSchedule'&amp;EntityId='ad588112-92a4-4f89-a658-01fbe541a75e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209115000 +0000" stop="20251209135000 +0000">
-		<title>The Hit</title>
-		<desc>Ex-gangster Willie Parker has betrayed his former 'colleagues' and now lives in Spain, where he thinks he can hide from their vengeance. But one day, ten years later, two hitmen show up and he must face the music.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421547'&amp;EntityType='LinearSchedule'&amp;EntityId='11b4b47e-14ba-45bd-b134-defdbfb59cec'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209135000 +0000" stop="20251209160000 +0000">
-		<title>Beyond the Law</title>
-		<desc>A trio of thieves plot to steal a town's silver shipment but a turn of events makes them the town's heroes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10421584'&amp;EntityType='LinearSchedule'&amp;EntityId='4efa7d5a-eb2f-4887-b81f-912b6f55f504'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209160000 +0000" stop="20251209175000 +0000">
-		<title>The Mad Bomber</title>
-		<desc>William Dorn decides to get back at all the people he blames for the overdose death of his daughter and the break up of his marriage, so he decides to go on a bombing spree.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487335'&amp;EntityType='LinearSchedule'&amp;EntityId='67114cab-7b0a-4d28-b2b6-e1ca243066ba'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20251209163000 +0000" stop="20251209173000 +0000">
 		<title>FBI: Most Wanted S4 - EP 15</title>
@@ -3914,7 +3859,7 @@
 	<programme channel="576059" start="20251210043000 +0000" stop="20251210080000 +0000">
 		<title>Artistic Gymnastics - 33rd SEA Games Thailand 2025 Men's &amp; Women's Preliminary Round</title>
 		<desc>Men's &amp; Women's Preliminary Round</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487309'&amp;EntityType='LinearSchedule'&amp;EntityId='25b98682-baea-47d3-ac82-6186569a298b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10637527'&amp;EntityType='LinearSchedule'&amp;EntityId='25b98682-baea-47d3-ac82-6186569a298b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251210080000 +0000" stop="20251210090000 +0000">
 		<title>Ju-jitsu - 33rd SEA Games Thailand 2025 Men's &amp; Women's Preliminary Round &amp; Finals</title>
@@ -3924,12 +3869,12 @@
 	<programme channel="576059" start="20251210090000 +0000" stop="20251210110000 +0000">
 		<title>Basketball 3x3 - 33rd SEA Games Thailand 2025 Men's &amp; Women's Group Stage - 10 Dec 2025</title>
 		<desc>Men's Group Stage - Group A - Singapore vs Myanmar | Women's Group Stage - Group B - Singapore vs Laos | Women's Group Stage - Group B - Singapore vs Thailand</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10533596'&amp;EntityType='LinearSchedule'&amp;EntityId='9ec77c2d-cd13-47bf-a013-5344cce63287'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10637539'&amp;EntityType='LinearSchedule'&amp;EntityId='9ec77c2d-cd13-47bf-a013-5344cce63287'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251210110000 +0000" stop="20251210130000 +0000">
 		<title>Swimming - 33rd SEA Games Thailand 2025 Men's &amp; Women's Finals - 10 Dec 2025</title>
 		<desc>Men's 100m Backstroke Final | Men's 100m Freestyle Final | Women's 200m Butterfly Final | Men's 200m Individual Medley Final | Women's 4x100m Freestyle Relay Final | Women's 50m Breaststroke Final</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487262'&amp;EntityType='LinearSchedule'&amp;EntityId='e8480a90-cdc7-497b-a8a7-db83a1486c27'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10637552'&amp;EntityType='LinearSchedule'&amp;EntityId='e8480a90-cdc7-497b-a8a7-db83a1486c27'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251210130000 +0000" stop="20251210133000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -3963,8 +3908,8 @@
 	</programme>
 	<programme channel="576060" start="20251210113000 +0000" stop="20251210133000 +0000">
 		<title>Football - 33rd SEA Games Thailand 2025 Women's Group Stage - THA vs SGP</title>
-		<desc>Women's Group Stage - Group A - Thailand bs Singapore</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10622721'&amp;EntityType='LinearSchedule'&amp;EntityId='31e724a3-19c1-4f12-9198-57ec775fe8ba'&amp;Width=1280&amp;Height=720" />
+		<desc>Women's Group Stage - Group A - Thailand vs Singapore</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10637560'&amp;EntityType='LinearSchedule'&amp;EntityId='31e724a3-19c1-4f12-9198-57ec775fe8ba'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576060" start="20251210133000 +0000" stop="20251210155900 +0000">
 		<title>End Of Transmission</title>
@@ -3979,7 +3924,7 @@
 	<programme channel="576061" start="20251210030000 +0000" stop="20251210053000 +0000">
 		<title>Artistic Gymnastics - 33rd SEA Games Thailand 2025 Men's &amp; Women's Preliminary Round</title>
 		<desc>Men's &amp; Women's Preliminary Round</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487461'&amp;EntityType='LinearSchedule'&amp;EntityId='c855ec70-461e-44c6-b81c-0a91e7e5c583'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10637531'&amp;EntityType='LinearSchedule'&amp;EntityId='c855ec70-461e-44c6-b81c-0a91e7e5c583'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576061" start="20251210053000 +0000" stop="20251210080000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -3994,12 +3939,12 @@
 	<programme channel="576061" start="20251210103000 +0000" stop="20251210123000 +0000">
 		<title>Volleyball - 33rd SEA Games Thailand 2025 Women's Group Stage - THA vs SGP</title>
 		<desc>Women's Group Stage - Thailand vs Singapore</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487428'&amp;EntityType='LinearSchedule'&amp;EntityId='b3006202-7087-4798-81f4-a438321eb7e9'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10637564'&amp;EntityType='LinearSchedule'&amp;EntityId='b3006202-7087-4798-81f4-a438321eb7e9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576061" start="20251210123000 +0000" stop="20251210133000 +0000">
-		<title>Artistic Swimming - 33rd SEA Games Thailand 2025 Women's Duet - Preliminary Round</title>
-		<desc>Women's Duet - Preliminary Round</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10571004'&amp;EntityType='LinearSchedule'&amp;EntityId='13b4bc00-fcd1-42ae-a436-1ad870f7b1d7'&amp;Width=1280&amp;Height=720" />
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10637535'&amp;EntityType='LinearSchedule'&amp;EntityId='e3a9dd76-d8e5-4536-9331-e33c69a50465'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576061" start="20251210133000 +0000" stop="20251210155900 +0000">
 		<title>End Of Transmission</title>
@@ -4014,7 +3959,7 @@
 	<programme channel="580750" start="20251210040000 +0000" stop="20251210064500 +0000">
 		<title>Basketball 3x3 - 33rd SEA Games Thailand 2025 Men's &amp; Women's Group Stage - 10 Dec 2025</title>
 		<desc>Women's Group Stage - Group B - Singapore vs Laos | Men's Group Stage - Group A - Singapore vs Myanmar</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10533560'&amp;EntityType='LinearSchedule'&amp;EntityId='4b3921d0-7b74-442f-b622-37981538e583'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10637568'&amp;EntityType='LinearSchedule'&amp;EntityId='4b3921d0-7b74-442f-b622-37981538e583'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="580750" start="20251210064500 +0000" stop="20251210095500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -4024,7 +3969,7 @@
 	<programme channel="580750" start="20251210095500 +0000" stop="20251210123000 +0000">
 		<title>Basketball 3x3 - 33rd SEA Games Thailand 2025 Men's &amp; Women's Group Stage - 10 Dec 2025</title>
 		<desc>Women's Group Stage - Group B - Singapore vs Thailand | Men's Group Stage - Group A - Singapore vs Thailand | Women's Group Stage - Group B - Vietnam vs Singapore</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572279'&amp;EntityType='LinearSchedule'&amp;EntityId='33001113-51d7-49a3-b7fd-58ae3f77aa52'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10637572'&amp;EntityType='LinearSchedule'&amp;EntityId='33001113-51d7-49a3-b7fd-58ae3f77aa52'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="580750" start="20251210123000 +0000" stop="20251210130000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -4040,6 +3985,36 @@
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10533592'&amp;EntityType='LinearSchedule'&amp;EntityId='7bdf8ced-66fb-4618-a6ff-5ca46eceda88'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="580751" start="20251210080000 +0000" stop="20251210130000 +0000">
+		<title>Badminton - 33rd SEA Games Thailand 2025 Men's Team Final</title>
+		<desc>Men's Team Final</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10533632'&amp;EntityType='LinearSchedule'&amp;EntityId='12fe5631-cf5d-4592-a797-cb49ab9f7fba'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="580751" start="20251210130000 +0000" stop="20251210155900 +0000">
+		<title>End Of Transmission</title>
+		<desc>End Of Transmission</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10533636'&amp;EntityType='LinearSchedule'&amp;EntityId='0bef90ca-094e-4f1e-8cec-ccbb4dd92933'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="580751" start="20251210160000 +0000" stop="20251211033000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10533640'&amp;EntityType='LinearSchedule'&amp;EntityId='0ec31538-3178-45f6-b4f7-eea02d878abf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="580752" start="20251210110000 +0000" stop="20251210120000 +0000">
+		<title>Artistic Swimming - 33rd SEA Games Thailand 2025 Mixed Team - Preliminary Round</title>
+		<desc>Mixed Team - Preliminary Round</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10637576'&amp;EntityType='LinearSchedule'&amp;EntityId='3bae64b2-462a-4ac3-bd36-115007255fa7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="580752" start="20251210120000 +0000" stop="20251210155900 +0000">
+		<title>End Of Transmission</title>
+		<desc>End Of Transmission</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10637556'&amp;EntityType='LinearSchedule'&amp;EntityId='a15d71ed-67c8-4c58-972c-ee512ef02945'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="580752" start="20251210160000 +0000" stop="20251211113000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10553674'&amp;EntityType='LinearSchedule'&amp;EntityId='169107e1-07c0-4738-acbe-4925469b1bb2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20251210160000 +0000" stop="20251211160000 +0000">
 		<title>No Programme available now. Next Broadcast on 14th December, Sunday 7.20pm. Singapore Cup 2025/2026 </title>
@@ -4205,11 +4180,6 @@
 		<title>No Programme available now. Next Broadcast on 11th December, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
 		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Pathum United vs BG Tampines Rovers FC on 11th December, Thursday 8.05pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10529701'&amp;EntityType='LinearSchedule'&amp;EntityId='5ed96adf-10cb-48b0-8d2e-8c95d60d654a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20251210160000 +0000" stop="20251211160000 +0000">
-		<title>No Programme available now. Next Broadcast on 18th December, Thursday 4.05am. Carabao Cup 2025/26</title>
-		<desc>LIVE 6 will commence broadcast of the Carabao Cup 2025/26: Newcastle United vs Fulham on 18th December, Thursday 4.05am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10519573'&amp;EntityType='LinearSchedule'&amp;EntityId='ef9dbe88-0d45-43ec-9284-0021f60efbff'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20251209161348 +0000" stop="20251209170633 +0000">
 		<title>River Monsters - Silent Assassin</title>
@@ -4648,7 +4618,7 @@
 	</programme>
 	<programme channel="557763" start="20251209191620 +0000" stop="20251209210154 +0000">
 		<title>England v Mexico | Group Matches | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Mexico played at Wembley Stadium, London.</desc>
+		<desc>Watch the full match replay between England and Mexico played at Wembley Stadium, London on Saturday, 16 July 1966.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572847'&amp;EntityType='LinearSchedule'&amp;EntityId='1e9d0c44-6833-4e58-a522-bc46a55c2e82'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251209210154 +0000" stop="20251209212718 +0000">
@@ -4658,12 +4628,12 @@
 	</programme>
 	<programme channel="557763" start="20251209212718 +0000" stop="20251209231129 +0000">
 		<title>LIVE - Fiji v Argentina | FIFA U-17 World Cup Qatar 2025™</title>
-		<desc>Watch the match between Fiji and Argentina played at Aspire Zone - Pitch 3.</desc>
+		<desc>Watch the match between Fiji and Argentina played at Aspire Zone - Pitch 3, Doha on Sunday, 9 November 2025 at 15:30 (local time).</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572835'&amp;EntityType='LinearSchedule'&amp;EntityId='61b0f875-de10-4068-88c0-1db71145e3d7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251209231129 +0000" stop="20251210005541 +0000">
 		<title>England v Portugal | Semi-finals | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Portugal played in London.</desc>
+		<desc>Watch the full match replay between England and Portugal played at Wembley Stadium, London on Tuesday, 26 July 1966.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10572839'&amp;EntityType='LinearSchedule'&amp;EntityId='477edf04-d02d-4e6c-a9af-d1db7248b9e1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251210005541 +0000" stop="20251210013501 +0000">
@@ -4683,7 +4653,7 @@
 	</programme>
 	<programme channel="557763" start="20251210025416 +0000" stop="20251210043922 +0000">
 		<title>Portugal v Korea DPR | Quarter-finals | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Portugal and Korea DPR played in Liverpool on 23 July 1966.</desc>
+		<desc>Watch the full match replay between Portugal and Korea DPR played at Goodison Park, Liverpool on Saturday, 23 July 1966.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10624370'&amp;EntityType='LinearSchedule'&amp;EntityId='d2fdc7dc-ee8b-43a6-95db-3fb179142c37'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251210043922 +0000" stop="20251210051931 +0000">
@@ -4693,7 +4663,7 @@
 	</programme>
 	<programme channel="557763" start="20251210051931 +0000" stop="20251210070443 +0000">
 		<title>Portugal v Soviet Union | Play-off for third place | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Portugal and Soviet Union</desc>
+		<desc>Watch the full match replay between Portugal and Soviet Union played at Wembley Stadium, London on Thursday, 28 July 1966.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10624390'&amp;EntityType='LinearSchedule'&amp;EntityId='6a147853-af8e-41c5-b65e-812e1488c469'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251210070443 +0000" stop="20251210072000 +0000">
@@ -4703,37 +4673,37 @@
 	</programme>
 	<programme channel="557763" start="20251210072000 +0000" stop="20251210090547 +0000">
 		<title>Soviet Union v Hungary | Quarter-finals | 1966 FIFA World Cup England™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Soviet Union and Hungary played in Sunderland on 23 July 1966.</desc>
+		<desc>Watch the full match replay between Soviet Union and Hungary played at Roker Park Ground, Sunderland on Saturday, 23 July 1966.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10624358'&amp;EntityType='LinearSchedule'&amp;EntityId='bc2cc0db-7553-44ee-8e22-89b3c4d986d4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251210090547 +0000" stop="20251210092423 +0000">
 		<title>All-Time Top-10s: Women’s World Cup Goals &amp; Moments</title>
-		<desc>Nieve Pegg &amp; Jack Downer: top 10 goals &amp; moments from FIFA Women's World Cups.</desc>
+		<desc>Nieve Pegg and Jack Downer countdown through their ten favourite goals and ten most memorable moments from the FIFA Women’s World Cups. A tribute to the brilliance, drama, and history of the women’s game.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10624338'&amp;EntityType='LinearSchedule'&amp;EntityId='91186ada-14aa-45ef-aec6-df6a4302fa4c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251210092423 +0000" stop="20251210111535 +0000">
 		<title>Brazil v England | Group Matches | 1970 FIFA World Cup Mexico™️ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and England played at Estadio Jalisco, Guadalajara.</desc>
+		<desc>Watch the full match replay between Brazil and England played at Estadio Jalisco, Guadalajara on Sunday, 07 June 1970.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10624394'&amp;EntityType='LinearSchedule'&amp;EntityId='15c77f11-aa9d-4f81-9dfa-2d00cb86264c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251210111535 +0000" stop="20251210113927 +0000">
 		<title>Sergio Goycochea | Discovering</title>
-		<desc>Goycochea's importance in Argentina's 1990 World Cup campaign cannot be understated.</desc>
+		<desc>He came on as a substitute and was never taken off. Goycochea's importance in Argentina's 1990 World Cup campaign cannot be understated.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10624342'&amp;EntityType='LinearSchedule'&amp;EntityId='568002a8-e96c-4c86-b8cb-dcc4c2ec6791'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251210113927 +0000" stop="20251210132712 +0000">
 		<title>Brazil v Italy | Final | 1970 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full replay from the match between Brazil and Italy</desc>
+		<desc>Watch the full replay from the match between Brazil and Italy played at Estadio Azteca, Mexico City on Sunday, 21 June 1970.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10624346'&amp;EntityType='LinearSchedule'&amp;EntityId='5ca4023b-d3fa-4ad8-9767-81f99e3336d7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251210132712 +0000" stop="20251210134424 +0000">
 		<title>Joy: Marco Tardelli | Eyes of the World</title>
-		<desc>A final, a goal, and "a shout I've waited my whole life to make."</desc>
+		<desc>As the 2026 World Cup draws closer and the growth of Major League Soccer continues, an array of unique supporter cultures have evolved in the United States, redefining experiences for the country’s football fans.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10624382'&amp;EntityType='LinearSchedule'&amp;EntityId='cd1a0e91-3d8f-4027-bded-195bf441a03a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251210134424 +0000" stop="20251210153212 +0000">
 		<title>Brazil v Uruguay | Semi-finals | 1970 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and Uruguay played at Estadio Jalisco, Guadalajara.</desc>
+		<desc>Watch the full match replay between Brazil and Uruguay played at Estadio Jalisco, Guadalajara on Wednesday, 17 June 1970.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10624362'&amp;EntityType='LinearSchedule'&amp;EntityId='a178ccef-de60-40c7-afa8-17e814bec5d2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251210153212 +0000" stop="20251210161132 +0000">
@@ -5550,65 +5520,5 @@
 		<title>Talking Tom and Friends Minis</title>
 		<desc>Get ready to watch Talking Tom and Friends at their cutest! Mini in size, but massive in fun, the Minis check out the day-to-day world of the friends we all know and love where they do the most ordinary things in the most extraordinary ways.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10521988'&amp;EntityType='LinearSchedule'&amp;EntityId='9360f9c3-c0a3-4827-87d8-099d8ab91383'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209175000 +0000" stop="20251209195000 +0000">
-		<title>The Hit</title>
-		<desc>Ex-gangster Willie Parker has betrayed his former 'colleagues' and now lives in Spain, where he thinks he can hide from their vengeance. But one day, ten years later, two hitmen show up and he must face the music.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487380'&amp;EntityType='LinearSchedule'&amp;EntityId='896cedf5-7a7d-4363-9681-53e32bf5b72e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209195000 +0000" stop="20251209220000 +0000">
-		<title>Beyond the Law</title>
-		<desc>A trio of thieves plot to steal a town's silver shipment but a turn of events makes them the town's heroes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487388'&amp;EntityType='LinearSchedule'&amp;EntityId='e9dc73c8-45f7-46d1-80bc-e63efad257b1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209220000 +0000" stop="20251209235000 +0000">
-		<title>The Mad Bomber</title>
-		<desc>William Dorn decides to get back at all the people he blames for the overdose death of his daughter and the break up of his marriage, so he decides to go on a bombing spree.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487284'&amp;EntityType='LinearSchedule'&amp;EntityId='b80c2534-519b-44ea-ba00-c5802faf1a67'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251209235000 +0000" stop="20251210015000 +0000">
-		<title>The Hit</title>
-		<desc>Ex-gangster Willie Parker has betrayed his former 'colleagues' and now lives in Spain, where he thinks he can hide from their vengeance. But one day, ten years later, two hitmen show up and he must face the music.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487297'&amp;EntityType='LinearSchedule'&amp;EntityId='535dae80-fab8-4815-8129-0ed746206daf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251210015000 +0000" stop="20251210040000 +0000">
-		<title>Beyond the Law</title>
-		<desc>A trio of thieves plot to steal a town's silver shipment but a turn of events makes them the town's heroes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487347'&amp;EntityType='LinearSchedule'&amp;EntityId='8cdf379e-4eab-4761-8397-7eb2e13bddb9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251210040000 +0000" stop="20251210055000 +0000">
-		<title>The Mad Bomber</title>
-		<desc>William Dorn decides to get back at all the people he blames for the overdose death of his daughter and the break up of his marriage, so he decides to go on a bombing spree.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487312'&amp;EntityType='LinearSchedule'&amp;EntityId='cbc087b5-7a56-420a-bea6-7eee30fc8dce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251210055000 +0000" stop="20251210075000 +0000">
-		<title>The Hit</title>
-		<desc>Ex-gangster Willie Parker has betrayed his former 'colleagues' and now lives in Spain, where he thinks he can hide from their vengeance. But one day, ten years later, two hitmen show up and he must face the music.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487357'&amp;EntityType='LinearSchedule'&amp;EntityId='8cc61a52-6f6a-478b-93a2-141e5871f784'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251210075000 +0000" stop="20251210100000 +0000">
-		<title>Beyond the Law</title>
-		<desc>A trio of thieves plot to steal a town's silver shipment but a turn of events makes them the town's heroes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487324'&amp;EntityType='LinearSchedule'&amp;EntityId='46af3c03-cb49-420d-809c-9f944bcb5375'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251210100000 +0000" stop="20251210115500 +0000">
-		<title>Ghost Keeper</title>
-		<desc>Three friends on a New Year's Eve snowmobiling excursion find themselves stranded at an abandoned lodge where the elderly female innkeeper is concealing a sinister secret.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487245'&amp;EntityType='LinearSchedule'&amp;EntityId='6548005a-8b0f-406e-8043-46d73c06ec7f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251210115500 +0000" stop="20251210135000 +0000">
-		<title>Iron Finger</title>
-		<desc>Tough cop Bruce Li arrives back in town in time to investigate a series of odd murders. Victims have two pierce marks on their necks. The killer is an expert in the Iron Finger strike. The fights are fantastic with the two Bruce's and Ku Feng going at it and all are excellent.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487367'&amp;EntityType='LinearSchedule'&amp;EntityId='93c3c079-19ad-48b1-bc94-bfeef8ed04f5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251210135000 +0000" stop="20251210160000 +0000">
-		<title>Charro!</title>
-		<desc>Jess Wade is innocently accused of having stolen a cannon from the Mexican revolutionary forces. He tries to find the real culprits, a gang of criminals.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10487263'&amp;EntityType='LinearSchedule'&amp;EntityId='99dbc384-a268-42d9-ac6b-62c3bd04af36'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20251210160000 +0000" stop="20251210175500 +0000">
-		<title>Ghost Keeper</title>
-		<desc>Three friends on a New Year's Eve snowmobiling excursion find themselves stranded at an abandoned lodge where the elderly female innkeeper is concealing a sinister secret.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10533508'&amp;EntityType='LinearSchedule'&amp;EntityId='ef5cd47f-7b15-42bb-9603-5ef8c78f8407'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
