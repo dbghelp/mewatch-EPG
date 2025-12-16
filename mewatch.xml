@@ -72,6 +72,10 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
 	<channel id="558241">
 		<display-name>River Monsters</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089297'&amp;EntityType='Item'&amp;EntityId='558241'&amp;Width=150&amp;Height=59" />
@@ -91,10 +95,6 @@
 	<channel id="556888">
 		<display-name>TRACE Sport Stars</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358846'&amp;EntityType='Item'&amp;EntityId='556888'&amp;Width=350&amp;Height=250" />
-	</channel>
-	<channel id="556893">
-		<display-name>Kartoon Channel!</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358834'&amp;EntityType='Item'&amp;EntityId='556893'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20251215160000 +0000" stop="20251215163000 +0000">
 		<title>Kumar Vs The World - EP 3</title>
@@ -1141,35 +1141,45 @@
 		<desc>Mixed Doubles Preliminary Round - Singapore vs Indonesia</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10770718'&amp;EntityType='LinearSchedule'&amp;EntityId='76d10d8b-006d-4062-ad49-4dda653ae2f2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20251216042400 +0000" stop="20251216060000 +0000">
-		<title>Table Tennis - 33rd SEA Games Thailand 2025 Mixed Doubles Round of 16 &amp; Quarter-finals</title>
-		<desc>Mixed Doubles Preliminary Round - Malaysia vs Myanmar | Mixed Doubles Quarter-finals - Indonesia vs Singapore | Mixed Doubles Quarter-finals - Vietnam vs Malaysia</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10690495'&amp;EntityType='LinearSchedule'&amp;EntityId='123d1bf8-b242-434e-b373-26c48ef912d1'&amp;Width=1280&amp;Height=720" />
+	<programme channel="576059" start="20251216042400 +0000" stop="20251216042700 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10772215'&amp;EntityType='LinearSchedule'&amp;EntityId='8a2abd45-9026-46a7-a153-2a7ecf93a2ee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20251216042700 +0000" stop="20251216044200 +0000">
+		<title>Table Tennis - 33rd SEA Games Thailand 2025 Mixed Doubles Preliminary Round - MAS vs MYA</title>
+		<desc>Mixed Doubles Preliminary Round - Malaysia vs Myanmar</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10772219'&amp;EntityType='LinearSchedule'&amp;EntityId='65a78eeb-d461-4869-8c6f-a24a8122968c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20251216044200 +0000" stop="20251216060000 +0000">
+		<title>Table Tennis - 33rd SEA Games Thailand 2025 Mixed Doubles Quarter-finals - INA vs SGP</title>
+		<desc>Mixed Doubles Quarter-finals - Indonesia vs Singapore</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10755104'&amp;EntityType='LinearSchedule'&amp;EntityId='123d1bf8-b242-434e-b373-26c48ef912d1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251216060000 +0000" stop="20251216080000 +0000">
 		<title>Weightlifting - 33rd SEA Games Thailand 2025 Men's 88kg Final</title>
 		<desc>Men's 88kg Final</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10704470'&amp;EntityType='LinearSchedule'&amp;EntityId='1587c079-482f-40fd-a528-ce2165d57b37'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20251216080000 +0000" stop="20251216100000 +0000">
+	<programme channel="576059" start="20251216080000 +0000" stop="20251216093700 +0000">
 		<title>Volleyball - 33rd SEA Games Thailand 2025 Men's Group Stage - LAO vs SGP</title>
 		<desc>Men's Group Stage - Laos vs Singapore</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10769659'&amp;EntityType='LinearSchedule'&amp;EntityId='55ff6701-a0ff-4289-8d00-c04ce5c93e5b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20251216100000 +0000" stop="20251216120000 +0000">
-		<title>Athletics - 33rd SEA Games Thailand 2025 Men's &amp; Women's Finals - 16 Dec 2025</title>
-		<desc>Women's High Jump Final | Men's Pole Vault Final | Men's Discus Throw Final | Women's 3000m SC Final | Women's Long Jump Final | Men's 10,000m Final | Women's Heptathlon Final | Women's 800m (Heptathlon) | Men's &amp; Women's 4x400m Relay Finals</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10756508'&amp;EntityType='LinearSchedule'&amp;EntityId='38b4eb31-8ddc-4d06-bb93-d74b477ace63'&amp;Width=1280&amp;Height=720" />
+	<programme channel="576059" start="20251216093700 +0000" stop="20251216100000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10772211'&amp;EntityType='LinearSchedule'&amp;EntityId='c6aadf73-d98b-42b6-b46c-44dc3be1e8b0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20251216120000 +0000" stop="20251216130000 +0000">
-		<title>Weightlifting - 33rd SEA Games Thailand 2025 Men's 94kg Final</title>
-		<desc>(Delayed) Men's 94kg Final</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10704474'&amp;EntityType='LinearSchedule'&amp;EntityId='83ea2b94-1060-4ab4-905a-6a774e2658a9'&amp;Width=1280&amp;Height=720" />
+	<programme channel="576059" start="20251216100000 +0000" stop="20251216130000 +0000">
+		<title>Athletics - 33rd SEA Games Thailand 2025 Men's &amp; Women's Finals - 16 Dec 2025</title>
+		<desc>Women's 3000m Steeplechase Final | Men's 10,000m Final | Women's 800m (Heptathlon) Final | Men's 4x400m Relay Final | Women's 4x400m Relay Final | Men's Pole Vault Final</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10756508'&amp;EntityType='LinearSchedule'&amp;EntityId='38b4eb31-8ddc-4d06-bb93-d74b477ace63'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251216130000 +0000" stop="20251216133000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10609699'&amp;EntityType='LinearSchedule'&amp;EntityId='cfbbd108-4ee4-49ca-a4cb-1f9f1bcf78ab'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773282'&amp;EntityType='LinearSchedule'&amp;EntityId='3a505af4-9ee6-41c4-9451-91f927a468ff'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251216133000 +0000" stop="20251216140000 +0000">
 		<title>Today at the Games - 33rd SEA Games Thailand 2025 Day 7</title>
@@ -1231,17 +1241,17 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10609782'&amp;EntityType='LinearSchedule'&amp;EntityId='ecc54640-c9ba-4d50-be1a-3dd970029fe3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576061" start="20251216044900 +0000" stop="20251216090000 +0000">
+	<programme channel="576061" start="20251216044900 +0000" stop="20251216091900 +0000">
 		<title>Fencing - 33rd SEA Games Thailand 2025 Men's Foil | Women's Epee &amp; Sabre Preliminary Round</title>
 		<desc>Men's Foil Preliminary Round | Women's Epee Preliminary Round | Women's Sabre Preliminary Round</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10757778'&amp;EntityType='LinearSchedule'&amp;EntityId='ec060ef9-7d88-48db-a2fe-b4691249f72a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576061" start="20251216090000 +0000" stop="20251216120000 +0000">
+	<programme channel="576061" start="20251216091900 +0000" stop="20251216130000 +0000">
 		<title>Fencing - 33rd SEA Games Thailand 2025 Men's Foil | Women's Epee &amp; Sabre Semi-finals &amp; Finals</title>
 		<desc>Men's Foil | Women's Epee &amp; Sabre Semi-finals &amp; Finals</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10755917'&amp;EntityType='LinearSchedule'&amp;EntityId='376856ea-85fd-4e26-b87d-a5b1431ee5ab'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576061" start="20251216120000 +0000" stop="20251216155900 +0000">
+	<programme channel="576061" start="20251216130000 +0000" stop="20251216155900 +0000">
 		<title>End Of Transmission</title>
 		<desc>End Of Transmission</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10609824'&amp;EntityType='LinearSchedule'&amp;EntityId='b3e1a2a4-22e5-42c0-a561-7e9740606930'&amp;Width=1280&amp;Height=720" />
@@ -1266,12 +1276,12 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10755921'&amp;EntityType='LinearSchedule'&amp;EntityId='6fb63cd7-5ad3-4320-8c48-e530ceb8d726'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="580750" start="20251216100000 +0000" stop="20251216120000 +0000">
+	<programme channel="580750" start="20251216100000 +0000" stop="20251216112500 +0000">
 		<title>Netball - 33rd SEA Games Thailand 2025 Women's Preliminary Round - BRU vs SGP</title>
 		<desc>Women's Preliminary Round - Brunei vs Singapore</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10756605'&amp;EntityType='LinearSchedule'&amp;EntityId='13ee813d-8483-4280-9725-29383a868b6c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="580750" start="20251216120000 +0000" stop="20251216155900 +0000">
+	<programme channel="580750" start="20251216112500 +0000" stop="20251216155900 +0000">
 		<title>End Of Transmission</title>
 		<desc>End Of Transmission</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10609886'&amp;EntityType='LinearSchedule'&amp;EntityId='b9eb5f69-eafd-4419-b2fa-2d869c3e6e0a'&amp;Width=1280&amp;Height=720" />
@@ -1291,25 +1301,30 @@
 		<desc>Men's Doubles Round of 16 - Singapore vs Myanmar</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771991'&amp;EntityType='LinearSchedule'&amp;EntityId='62454088-5e50-44f5-ae77-5c763b7932c4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="580751" start="20251216071500 +0000" stop="20251216080500 +0000">
+	<programme channel="580751" start="20251216071500 +0000" stop="20251216074000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771995'&amp;EntityType='LinearSchedule'&amp;EntityId='9588e1b9-04e6-44ea-b076-dc664a52e4bd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="580751" start="20251216080500 +0000" stop="20251216090000 +0000">
-		<title>Table Tennis - 33rd SEA Games Thailand 2025 Men's &amp; Women's Doubles Round of 16</title>
-		<desc>Women's Doubles Round of 16 - Indonesia vs Singapore</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10756573'&amp;EntityType='LinearSchedule'&amp;EntityId='d172c3f7-fbd4-4b3c-bcb8-b9dc927f2059'&amp;Width=1280&amp;Height=720" />
+	<programme channel="580751" start="20251216074000 +0000" stop="20251216080500 +0000">
+		<title>Table Tennis - 33rd SEA Games Thailand 2025 Men's Doubles Round of 16 - SGP vs MYA</title>
+		<desc>Men's Doubles Round of 16 - Singapore vs Myanmar</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10772450'&amp;EntityType='LinearSchedule'&amp;EntityId='de1fd0df-68ae-4936-936c-b815e4a7b9d1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="580751" start="20251216090000 +0000" stop="20251216120000 +0000">
+	<programme channel="580751" start="20251216080500 +0000" stop="20251216091000 +0000">
+		<title>Table Tennis - 33rd SEA Games Thailand 2025 Women's Doubles Round of 16 - INA vs SGP</title>
+		<desc>Women's Doubles Round of 16 - Indonesia vs Singapore</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10755933'&amp;EntityType='LinearSchedule'&amp;EntityId='d172c3f7-fbd4-4b3c-bcb8-b9dc927f2059'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="580751" start="20251216091000 +0000" stop="20251216115600 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10755925'&amp;EntityType='LinearSchedule'&amp;EntityId='24218b23-8913-4128-b7cb-6215b8f90d53'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10772163'&amp;EntityType='LinearSchedule'&amp;EntityId='f43c4a26-4632-4172-a922-204a50a9a79d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="580751" start="20251216120000 +0000" stop="20251216140000 +0000">
+	<programme channel="580751" start="20251216115600 +0000" stop="20251216140000 +0000">
 		<title>Table Tennis - 33rd SEA Games Thailand 2025 Men's &amp; Women's Doubles Quarter-finals</title>
-		<desc>Men's &amp; Women's Doubles Quarter-finals</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10755929'&amp;EntityType='LinearSchedule'&amp;EntityId='ca5e37b9-6a88-4f08-b0f2-adbd5ab3d786'&amp;Width=1280&amp;Height=720" />
+		<desc>Men's Doubles Quarter-final - Singapore vs Indonesia | Men's Doubles Quarter-final - Singapore vs Thailand | Women's Doubles Quarter-final - Singapore vs Vietnam</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773179'&amp;EntityType='LinearSchedule'&amp;EntityId='ca5e37b9-6a88-4f08-b0f2-adbd5ab3d786'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="580751" start="20251216140000 +0000" stop="20251216155900 +0000">
 		<title>End Of Transmission</title>
@@ -1545,6 +1560,16 @@
 		<title>No Programme available now. Next Broadcast on 17th December, Wednesday 3.50am. Carabao Cup 2025/26</title>
 		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26: Cardiff City vs Chelsea on 17th December, Wednesday 3.50am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10626911'&amp;EntityType='LinearSchedule'&amp;EntityId='fab0cb67-ac11-4629-9563-102fff00ac34'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251215160000 +0000" stop="20251216160000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th December, Thursday 4.05am. Carabao Cup 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the Carabao Cup 2025/26: Newcastle United vs Fulham on 18th December, Thursday 4.05am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10608600'&amp;EntityType='LinearSchedule'&amp;EntityId='1b5e69b8-c445-4f7a-ba45-fb94465eadfb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20251216160000 +0000" stop="20251217160000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th December, Thursday 4.05am. Carabao Cup 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the Carabao Cup 2025/26: Newcastle United vs Fulham on 18th December, Thursday 4.05am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10626923'&amp;EntityType='LinearSchedule'&amp;EntityId='f3a430e5-5678-4bfb-9ce9-37b13bdf20c7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20251215153715 +0000" stop="20251215163010 +0000">
 		<title>River Monsters - Secrets of the Sea</title>
@@ -2003,7 +2028,7 @@
 	</programme>
 	<programme channel="557763" start="20251216003312 +0000" stop="20251216022424 +0000">
 		<title>Brazil v England | Group Matches | 1970 FIFA World Cup Mexico™️ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and England played at Estadio Jalisco, Guadalajara.</desc>
+		<desc>Watch the full match replay between Brazil and England played at Estadio Jalisco, Guadalajara on Sunday, 07 June 1970.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684652'&amp;EntityType='LinearSchedule'&amp;EntityId='3c15bab7-669e-42d0-bf4a-739e1a5df9ec'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251216022424 +0000" stop="20251216030548 +0000">
@@ -2013,63 +2038,63 @@
 	</programme>
 	<programme channel="557763" start="20251216030548 +0000" stop="20251216053022 +0000">
 		<title>Italy v Germany FR | Semi-finals | 1970 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Italy and Germany FR played in Mexico City.</desc>
+		<desc>Watch the full match replay between Italy and Germany FR played at Estadio Azteca, Mexico City on Wednesday, 17 June 1970 at 16:00 (local time).</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684600'&amp;EntityType='LinearSchedule'&amp;EntityId='fd52f0b9-8f90-479c-9ddd-c69d6bfabca3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251216053022 +0000" stop="20251216062530 +0000">
 		<title>Brazil v Netherlands | Final | FIFA Futsal World Championship Netherlands 1989™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and Netherlands played in FIFA Futsal World Championship 1989.</desc>
+		<desc>Watch the full match replay between Brazil and Netherlands played in FIFA Futsal World Championship Netherlands 1989™.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684668'&amp;EntityType='LinearSchedule'&amp;EntityId='645f11e5-9f60-484c-9c8c-3601066a0e7d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251216062530 +0000" stop="20251216070254 +0000">
 		<title>Africa Stories</title>
-		<desc>In this exclusive series discover five unique and touching stories, each showcasing the impact football.</desc>
+		<desc>In this exclusive series discover five unique and touching stories, each showcasing the impact football has on a continent obsessed with the beautiful game. One continent, five stories... Discover why in Africa, football is more than just a game.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684672'&amp;EntityType='LinearSchedule'&amp;EntityId='2c85a601-1ec1-4cf4-8ae5-f666f09207e1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251216070254 +0000" stop="20251216073126 +0000">
 		<title>Lucy Bronze | Icons</title>
-		<desc>The inspirational tale of England defender Lucy Bronze.</desc>
+		<desc>Stronger, fitter, faster". No injury was going to stop Lucy Bronze from achieving greatness.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684676'&amp;EntityType='LinearSchedule'&amp;EntityId='fd1cb825-4f1c-43e0-b78c-31c8e5faf739'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251216073126 +0000" stop="20251216091814 +0000">
 		<title>Argentina v England | Quarter-finals | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and England played at Estadio Azteca, Mexico City.</desc>
+		<desc>Watch the full match replay between Argentina and England played at Estadio Azteca, Mexico City on Sunday, 22 June 1986.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684680'&amp;EntityType='LinearSchedule'&amp;EntityId='fe1a76f8-c8dc-41c4-82c0-a1219bc3800f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251216091814 +0000" stop="20251216113213 +0000">
 		<title>Argentina v South Africa | Group G | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and South Africa at Dunedin Stadium, Dunedin.</desc>
+		<desc>Watch the full match replay between Argentina and South Africa played at Dunedin Stadium, Dunedin / Ōtepoti on Friday, July 28, 2023 at 12:00 PM (local time).</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684608'&amp;EntityType='LinearSchedule'&amp;EntityId='584871ce-914d-4443-9f07-95a47667e08d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251216113213 +0000" stop="20251216115318 +0000">
+	<programme channel="557763" start="20251216113213 +0000" stop="20251216115322 +0000">
 		<title>Nation’s Eleven – Brazil</title>
 		<desc>Remembering some of the greatest players of Brazilian football.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684648'&amp;EntityType='LinearSchedule'&amp;EntityId='dc6f1062-0c92-4e3e-a102-59ec542b1368'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251216115318 +0000" stop="20251216124004 +0000">
+	<programme channel="557763" start="20251216115322 +0000" stop="20251216124008 +0000">
 		<title>A Look Back: The Fifa Beach Soccer World™ Cup Finals</title>
 		<desc>Relive the thrilling finals of past FIFA Beach Soccer World Cup™ tournaments.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684644'&amp;EntityType='LinearSchedule'&amp;EntityId='2a894f70-fc51-4349-a00c-06a6d9c757c8'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251216124004 +0000" stop="20251216131857 +0000">
+	<programme channel="557763" start="20251216124008 +0000" stop="20251216131901 +0000">
 		<title>⁠All Penalty shootouts from ⁠FIFA World Cup Brazil 2014™</title>
 		<desc>Relive the thrill of the matches that ended in a penalty shootout</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684632'&amp;EntityType='LinearSchedule'&amp;EntityId='abdb65a7-cd9d-4d64-b5fd-2e32cdb8e86d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251216131857 +0000" stop="20251216151009 +0000">
+	<programme channel="557763" start="20251216131901 +0000" stop="20251216151013 +0000">
 		<title>Brazil v England | Group Matches | 1970 FIFA World Cup Mexico™️ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and England played at Estadio Jalisco, Guadalajara.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771717'&amp;EntityType='LinearSchedule'&amp;EntityId='228fd482-34e4-4562-a36e-7bb5ea15c511'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay between Brazil and England played at Estadio Jalisco, Guadalajara on Sunday, 07 June 1970.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773286'&amp;EntityType='LinearSchedule'&amp;EntityId='0a9a94f5-fb21-440c-a4bf-fa59b1d4b8d4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251216151009 +0000" stop="20251216155133 +0000">
+	<programme channel="557763" start="20251216151013 +0000" stop="20251216155137 +0000">
 		<title>A LOOK BACK: 1970 FIFA World Cup Mexico™</title>
 		<desc>Brazil Highlights in the1970 FIFA World Cup Mexico™</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684616'&amp;EntityType='LinearSchedule'&amp;EntityId='5a01ec2a-f006-4cb8-a32a-c782992c8652'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251216155133 +0000" stop="20251216181608 +0000">
-		<title>Italy v Germany FR | Semi-finals | 1970 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Italy and Germany FR played in Mexico City.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10684624'&amp;EntityType='LinearSchedule'&amp;EntityId='9f7b931b-cb5a-428b-bd8c-da1c6b035d9d'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251216155137 +0000" stop="20251216164034 +0000">
+		<title>World Champions: Italy 2006</title>
+		<desc>The unforgettable triumph of Italy at the 2006 FIFA World Cup in Germany.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10756897'&amp;EntityType='LinearSchedule'&amp;EntityId='9f7b931b-cb5a-428b-bd8c-da1c6b035d9d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251215150000 +0000" stop="20251215165500 +0000">
 		<title>Women's Cup '25: Final: Juventus v Inter Milan</title>
@@ -2390,251 +2415,6 @@
 		<title>Fight Stars - Anthony Joshua - EP2</title>
 		<desc>In this episode of Fight Stars, find out about the British boxer Anthony Joshua, Ronda Rousey's crush, the richest fighters of 2016 and a footballer who has become a WWE star.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10628074'&amp;EntityType='LinearSchedule'&amp;EntityId='a13efe52-272f-4443-a42f-47449a3d400b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215160000 +0000" stop="20251215163000 +0000">
-		<title>Superhero Kindergarten - Lost In A Space Odyssey Trek - EP109</title>
-		<desc>A trip to the Greenville Science Museum leads to an out of this world adventure.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10639982'&amp;EntityType='LinearSchedule'&amp;EntityId='8b59a8f3-a71a-432f-933f-0f10c3b176e0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215163000 +0000" stop="20251215170000 +0000">
-		<title>Shaq's Garage - The Eggs and I - EP121</title>
-		<desc>Bates and Dawkins give Himari a BIG surprise.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10609940'&amp;EntityType='LinearSchedule'&amp;EntityId='e8873f85-3564-4dd6-b133-bf783b3da724'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215170000 +0000" stop="20251215173000 +0000">
-		<title>Yu-Gi-Oh! Zexal - Training Days, Part 1 - EP15</title>
-		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10609944'&amp;EntityType='LinearSchedule'&amp;EntityId='718912fd-ff25-4398-861f-f383b1066a39'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215173000 +0000" stop="20251215180000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep2 - EP2</title>
-		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610152'&amp;EntityType='LinearSchedule'&amp;EntityId='780bcf6d-92e2-49ea-ae4b-608f663f3f55'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215180000 +0000" stop="20251215183500 +0000">
-		<title>Baby Einstein - Baby Einstein: Numbers Nursery</title>
-		<desc>Between 12 and 24 months, little ones become increasingly interested in more complex ideas and begin to explore numbers and counting. Numbers Nursery™ introduces little ones to numerals 1 through 5 in a captivating, interactive way that invites them to join in, clap their hands and count out loud.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610115'&amp;EntityType='LinearSchedule'&amp;EntityId='c3bbe035-f4b4-4424-b4c0-1cb1b34c675f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215183500 +0000" stop="20251215190500 +0000">
-		<title>Kids' Planet - Behaviors at School - EP103</title>
-		<desc>In this episode of Kids' Planet, Nova will invite the children to a new expedition, this time they will leave for school. Together, they will discover how they should behave in this space that is so important for their development. The children will also learn about their favourite part of the day: recess!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610048'&amp;EntityType='LinearSchedule'&amp;EntityId='ec4e3c0b-1fdf-4387-85ee-bee2a49377fa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215190500 +0000" stop="20251215193000 +0000">
-		<title>Mellodees - Hush Little Baby - EP16</title>
-		<desc>Shhh it's nap time in Dee's room. Help Dee and Treble sing a lullaby to Teddy so he can get a good night's sleep.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610008'&amp;EntityType='LinearSchedule'&amp;EntityId='d02831e0-eb35-43c2-ab3d-d70d3938cdd0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215193000 +0000" stop="20251215200000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep15 - EP115</title>
-		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610056'&amp;EntityType='LinearSchedule'&amp;EntityId='dc063373-e1be-4b93-b45d-bbaeea60c032'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215200000 +0000" stop="20251215203000 +0000">
-		<title>Giselle and the Green Team - The Case of the Plundered Paradise - EP102</title>
-		<desc>Gisele and the Green Team help to save a shipment of endangered plants and animals.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610012'&amp;EntityType='LinearSchedule'&amp;EntityId='045d2eac-bcd4-4788-ab73-0133b236be5f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215203000 +0000" stop="20251215210000 +0000">
-		<title>Rainbow Rangers S2 - Bunny-20 - EP226</title>
-		<desc>Kalia sends all The Rainbow Rangers to find a cure for all the sick bunnies.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610156'&amp;EntityType='LinearSchedule'&amp;EntityId='336f166a-ef1a-4dc9-b560-652a089e5760'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215210000 +0000" stop="20251215213000 +0000">
-		<title>Thomas Edison's Secret Lab - No Volts for Von Bolt / Dunkin’ Zombies - EP104</title>
-		<desc>During a sailing trip, Von Bolt begins to malfunction, endangering ALVA and Edison, so the Secret Lab Kids investigate elements, compounds and alloys to diagnose the problem. / When a virus turns JD into a donut-craving zombie, Angie has to come up with not only a cure, but an inoculation against the virus. Fortunately, Jonas Salk can help.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10639986'&amp;EntityType='LinearSchedule'&amp;EntityId='c7c7ede3-20a2-40ab-aab4-9c17e420354a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215213000 +0000" stop="20251215220000 +0000">
-		<title>Secret Millionaires Club - Sing Between the Lines - EP121</title>
-		<desc>The Secret Millionaires Club search for a young singer named Lucinda who hides following a great audition at a performing arts school established by Kelly Rowland. They must try to persuade her to confront her biggest fear. Meanwhile, Radley tries to help Elena ace her chemistry assignment.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10639990'&amp;EntityType='LinearSchedule'&amp;EntityId='2ee036e9-9f65-4bc4-9635-084578e5bb32'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215220000 +0000" stop="20251215223000 +0000">
-		<title>Superhero Kindergarten - Lost In A Space Odyssey Trek - EP109</title>
-		<desc>A trip to the Greenville Science Museum leads to an out of this world adventure.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10639994'&amp;EntityType='LinearSchedule'&amp;EntityId='588e0485-dd4a-4cd0-8334-ea66a02e9343'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215223000 +0000" stop="20251215230000 +0000">
-		<title>Shaq's Garage - The Eggs and I - EP121</title>
-		<desc>Bates and Dawkins give Himari a BIG surprise.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610164'&amp;EntityType='LinearSchedule'&amp;EntityId='b3ad549a-9685-4807-a928-26810fe6b463'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215230000 +0000" stop="20251215233000 +0000">
-		<title>Yu-Gi-Oh! Zexal - Training Days, Part 1 - EP15</title>
-		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610168'&amp;EntityType='LinearSchedule'&amp;EntityId='dc7b7abf-cf13-4dc7-825c-376e22e02460'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251215233000 +0000" stop="20251216000000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep2 - EP2</title>
-		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10609952'&amp;EntityType='LinearSchedule'&amp;EntityId='9efb6ce5-64e7-4973-add0-6cb7602f0131'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216000000 +0000" stop="20251216003500 +0000">
-		<title>Baby Einstein - Baby Einstein: Numbers Nursery</title>
-		<desc>Between 12 and 24 months, little ones become increasingly interested in more complex ideas and begin to explore numbers and counting. Numbers Nursery™ introduces little ones to numerals 1 through 5 in a captivating, interactive way that invites them to join in, clap their hands and count out loud.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610000'&amp;EntityType='LinearSchedule'&amp;EntityId='86b0e7cd-26bc-4330-b613-8aebaeef94a4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216003500 +0000" stop="20251216010500 +0000">
-		<title>Kids' Planet - Behaviors at School - EP103</title>
-		<desc>In this episode of Kids' Planet, Nova will invite the children to a new expedition, this time they will leave for school. Together, they will discover how they should behave in this space that is so important for their development. The children will also learn about their favourite part of the day: recess!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610004'&amp;EntityType='LinearSchedule'&amp;EntityId='9cfb4c50-7c6d-4241-bb31-a2aeed7ab9ba'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216010500 +0000" stop="20251216013000 +0000">
-		<title>Mellodees - Hush Little Baby - EP16</title>
-		<desc>Shhh it's nap time in Dee's room. Help Dee and Treble sing a lullaby to Teddy so he can get a good night's sleep.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610172'&amp;EntityType='LinearSchedule'&amp;EntityId='fc291f29-c8f1-4bd7-92d4-f500be40d9a4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216013000 +0000" stop="20251216020000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep15 - EP115</title>
-		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10609956'&amp;EntityType='LinearSchedule'&amp;EntityId='c0a8da22-4057-4128-a875-72499b0e471c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216020000 +0000" stop="20251216023000 +0000">
-		<title>Giselle and the Green Team - The Case of the Plundered Paradise - EP102</title>
-		<desc>Gisele and the Green Team help to save a shipment of endangered plants and animals.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610016'&amp;EntityType='LinearSchedule'&amp;EntityId='c7cdd34c-9329-465e-b5bc-6b783d540fee'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216023000 +0000" stop="20251216030000 +0000">
-		<title>Rainbow Rangers S2 - Bunny-20 - EP226</title>
-		<desc>Kalia sends all The Rainbow Rangers to find a cure for all the sick bunnies.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610176'&amp;EntityType='LinearSchedule'&amp;EntityId='b4e74b5b-232a-45d2-953d-20da5ad9a55c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216030000 +0000" stop="20251216033500 +0000">
-		<title>Thomas Edison's Secret Lab - No Volts for Von Bolt / Dunkin’ Zombies - EP104</title>
-		<desc>During a sailing trip, Von Bolt begins to malfunction, endangering ALVA and Edison, so the Secret Lab Kids investigate elements, compounds and alloys to diagnose the problem. / When a virus turns JD into a donut-craving zombie, Angie has to come up with not only a cure, but an inoculation against the virus. Fortunately, Jonas Salk can help.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10639998'&amp;EntityType='LinearSchedule'&amp;EntityId='a994c02d-ed4b-4f77-b1ac-62ddad6b54ce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216033500 +0000" stop="20251216040000 +0000">
-		<title>Secret Millionaires Club - Sing Between the Lines - EP121</title>
-		<desc>The Secret Millionaires Club search for a young singer named Lucinda who hides following a great audition at a performing arts school established by Kelly Rowland. They must try to persuade her to confront her biggest fear. Meanwhile, Radley tries to help Elena ace her chemistry assignment.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10640002'&amp;EntityType='LinearSchedule'&amp;EntityId='ac5cb497-2e39-4378-a79e-1e062c8a158e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216040000 +0000" stop="20251216043000 +0000">
-		<title>Superhero Kindergarten - Lost In A Space Odyssey Trek - EP109</title>
-		<desc>A trip to the Greenville Science Museum leads to an out of this world adventure.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10640006'&amp;EntityType='LinearSchedule'&amp;EntityId='bf083135-2735-4b28-b062-e69f40c84dc2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216043000 +0000" stop="20251216050000 +0000">
-		<title>Shaq's Garage - The Eggs and I - EP121</title>
-		<desc>Bates and Dawkins give Himari a BIG surprise.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10609964'&amp;EntityType='LinearSchedule'&amp;EntityId='d2d0a200-963e-4fc9-aae9-7c3a73c304d8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216050000 +0000" stop="20251216053000 +0000">
-		<title>Yu-Gi-Oh! Zexal - Training Days, Part 1 - EP15</title>
-		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10609968'&amp;EntityType='LinearSchedule'&amp;EntityId='4c7677cb-7f5f-493a-82ca-fa58ca0f04f8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216053000 +0000" stop="20251216060000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep2 - EP2</title>
-		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10609972'&amp;EntityType='LinearSchedule'&amp;EntityId='ec111eab-2e28-45d1-8ce2-06f311626d75'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216060000 +0000" stop="20251216063500 +0000">
-		<title>Baby Einstein - Baby Einstein: Numbers Nursery</title>
-		<desc>Between 12 and 24 months, little ones become increasingly interested in more complex ideas and begin to explore numbers and counting. Numbers Nursery™ introduces little ones to numerals 1 through 5 in a captivating, interactive way that invites them to join in, clap their hands and count out loud.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610032'&amp;EntityType='LinearSchedule'&amp;EntityId='39728e7e-6e4b-44ff-bb50-fb18388da17b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216063500 +0000" stop="20251216070500 +0000">
-		<title>Kids' Planet - Behaviors at School - EP103</title>
-		<desc>In this episode of Kids' Planet, Nova will invite the children to a new expedition, this time they will leave for school. Together, they will discover how they should behave in this space that is so important for their development. The children will also learn about their favourite part of the day: recess!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610128'&amp;EntityType='LinearSchedule'&amp;EntityId='665b9a42-e005-41c5-a0ee-f65474d790d6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216070500 +0000" stop="20251216073000 +0000">
-		<title>Mellodees - Hush Little Baby - EP16</title>
-		<desc>Shhh it's nap time in Dee's room. Help Dee and Treble sing a lullaby to Teddy so he can get a good night's sleep.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610089'&amp;EntityType='LinearSchedule'&amp;EntityId='7e6ad531-06aa-4795-9d77-2b6cbe9174d2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216073000 +0000" stop="20251216080000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep15 - EP115</title>
-		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10609976'&amp;EntityType='LinearSchedule'&amp;EntityId='8771ee0e-bb45-45d3-b10c-778b6db1f5fd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216080000 +0000" stop="20251216083000 +0000">
-		<title>Giselle and the Green Team - The Case of the Plundered Paradise - EP102</title>
-		<desc>Gisele and the Green Team help to save a shipment of endangered plants and animals.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610097'&amp;EntityType='LinearSchedule'&amp;EntityId='046e714c-f398-498a-8439-edadd83fc31a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216083000 +0000" stop="20251216090000 +0000">
-		<title>Rainbow Rangers S2 - Bunny-20 - EP226</title>
-		<desc>Kalia sends all The Rainbow Rangers to find a cure for all the sick bunnies.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610064'&amp;EntityType='LinearSchedule'&amp;EntityId='7009292e-c221-4330-9a27-faece260790b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216090000 +0000" stop="20251216093000 +0000">
-		<title>Thomas Edison's Secret Lab - No Volts for Von Bolt / Dunkin’ Zombies - EP104</title>
-		<desc>During a sailing trip, Von Bolt begins to malfunction, endangering ALVA and Edison, so the Secret Lab Kids investigate elements, compounds and alloys to diagnose the problem. / When a virus turns JD into a donut-craving zombie, Angie has to come up with not only a cure, but an inoculation against the virus. Fortunately, Jonas Salk can help.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10640010'&amp;EntityType='LinearSchedule'&amp;EntityId='10824a0a-0f4b-491f-8d26-a9ee9332e4bc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216093000 +0000" stop="20251216100000 +0000">
-		<title>Secret Millionaires Club - Sing Between the Lines - EP121</title>
-		<desc>The Secret Millionaires Club search for a young singer named Lucinda who hides following a great audition at a performing arts school established by Kelly Rowland. They must try to persuade her to confront her biggest fear. Meanwhile, Radley tries to help Elena ace her chemistry assignment.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10640014'&amp;EntityType='LinearSchedule'&amp;EntityId='e6d79e38-511f-4a9d-ae75-c82694c8e95e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216100000 +0000" stop="20251216103000 +0000">
-		<title>Superhero Kindergarten - Bessie We Hardly Knew Ye - EP110</title>
-		<desc>Vik's quest to find Bessie the lake monster teaches everyone that just because you can't see something doesn't mean it isn't real.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10640018'&amp;EntityType='LinearSchedule'&amp;EntityId='1425fc75-8117-43e1-831a-6f72df2743ce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216103000 +0000" stop="20251216110000 +0000">
-		<title>Shaq's Garage - Babysitters - EP122</title>
-		<desc>The Shaq Paq has their work cut out for them this time as a routine babysitting gig turns into a search and rescue.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610020'&amp;EntityType='LinearSchedule'&amp;EntityId='37871520-71af-43dd-a484-25343569b2ba'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216110000 +0000" stop="20251216113000 +0000">
-		<title>Yu-Gi-Oh! Zexal - Training Days, Part 2 - EP16</title>
-		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10609980'&amp;EntityType='LinearSchedule'&amp;EntityId='6c64365b-298d-4b8a-a6dc-ba2a864185eb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216113000 +0000" stop="20251216120000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep3 - EP3</title>
-		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610148'&amp;EntityType='LinearSchedule'&amp;EntityId='7c54df36-4326-4287-9b9d-5aa0835c30a6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216120000 +0000" stop="20251216123500 +0000">
-		<title>Baby Einstein - Baby Monet: Discovering the Seasons</title>
-		<desc>As babies grow and change, so does the landscape around them. From fiery red leaves to falling snowflakes; from flowers in bloom to fireworks in July, every season of the year has its own magic just waiting to be discovered. BABY MONET takes little ones on a sight-and-sound-filled journey through spring, summer, fall and winter using puppet shows, images of nature, children, toys, and masterpieces by Claude Monet set to excerpts from composer Antonio Vivaldi's timeless "The Four Seasons."</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610024'&amp;EntityType='LinearSchedule'&amp;EntityId='3a938995-0709-489e-b1c7-c2e05f7b2ed9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216123500 +0000" stop="20251216131000 +0000">
-		<title>Kids' Planet - Behaving on the Street and Minding Traffic Signs - EP104</title>
-		<desc>Nova will invite children to a new expedition to become super pedestrians. Together, they will discover how they should behave in public spaces or streets. Curious will teach us the correct way to cross the street, know the traffic lights and traffic signals. They will also learn that the car is a very fun place that has rules to follow to enjoy and stay safe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610081'&amp;EntityType='LinearSchedule'&amp;EntityId='0c813584-6107-4b02-a21d-e0dd19d8dfde'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216131000 +0000" stop="20251216133000 +0000">
-		<title>Mellodees - Rain Rain Go Away - EP17</title>
-		<desc>Oh no! It started raining on Dee’s cookout with his friends! Can you help Dee save the party?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610132'&amp;EntityType='LinearSchedule'&amp;EntityId='946f6e80-fcfb-4d18-a05c-c9b1926c337f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216133000 +0000" stop="20251216140000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep16 - EP116</title>
-		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610136'&amp;EntityType='LinearSchedule'&amp;EntityId='25bed7d0-6bc3-4950-9277-dbd9458162f9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216140000 +0000" stop="20251216143000 +0000">
-		<title>Giselle and the Green Team - The Case of the Lawless Loggers - EP103</title>
-		<desc>Gisele and the Green team once again fight Nick slick as he tries to clear cut a forest.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10610140'&amp;EntityType='LinearSchedule'&amp;EntityId='eb14023b-9953-4a03-ba6f-c6727fd362c5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216143000 +0000" stop="20251216150000 +0000">
-		<title>Rainbow Rangers S1 - Go with the Rainbow Floe / Northern Lights - EP101</title>
-		<desc>The Rangers save a baby polar bear stranded on an ice floe. / The Rangers lose their Spectra Scooters while helping a seal family and discover the Northern Lights.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10609984'&amp;EntityType='LinearSchedule'&amp;EntityId='9ef7b826-fc80-4e62-97c1-1c3e74f14d33'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216150000 +0000" stop="20251216153000 +0000">
-		<title>Thomas Edison's Secret Lab - Murphy’s Law of Gravity / The Mystery of Pirate Woods - EP105</title>
-		<desc>The SECRET LAB KIDS are ready to demo their new science song for web entrepreneur Mook Zookerboom when he learns that a satellite is coming down out of orbit, panics and heads for the airport. So the team must gather some data on gravity to convince him to return. / Angie’s great-uncle Thaddeus and JD are sure a local nautical antique shop has the missing treasure chest of Greybeard the Pirate – but Angie, Nicky and Kent suspect the shop owner is the true pirate here.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10640022'&amp;EntityType='LinearSchedule'&amp;EntityId='b66139d2-9edb-4fe6-be42-d7ba41479917'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216153000 +0000" stop="20251216160000 +0000">
-		<title>Secret Millionaires Club - The Gift - EP122</title>
-		<desc>The SMC Kids visit an African village with a challenge from Bill Gates to be inventive and problem solve the lack of electricity so the locals can take advantage of computers and the internet or just be able to read a ook at night. In their efforts, the kids learn the true value of giving.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10640026'&amp;EntityType='LinearSchedule'&amp;EntityId='99f571e7-7e97-44b0-986a-f482cddab35f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216160000 +0000" stop="20251216163000 +0000">
-		<title>Superhero Kindergarten - Bessie We Hardly Knew Ye - EP110</title>
-		<desc>Vik's quest to find Bessie the lake monster teaches everyone that just because you can't see something doesn't mean it isn't real.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647800'&amp;EntityType='LinearSchedule'&amp;EntityId='79cfbe97-3da7-4c48-b333-f7c7cab287e5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20251216163000 +0000" stop="20251216173000 +0000">
 		<title>FBI: Most Wanted S4 - EP 19</title>
@@ -3921,6 +3701,11 @@
 		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26: Manchester City vs Brentford on 18th December, Thursday 3.20am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10646021'&amp;EntityType='LinearSchedule'&amp;EntityId='072ca431-c615-460b-861b-325bf2242fb4'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="204746" start="20251217160000 +0000" stop="20251217200500 +0000">
+		<title>No Programme available now. Next Broadcast on 18th December, Thursday 4.05am. Carabao Cup 2025/26</title>
+		<desc>LIVE 6 will commence broadcast of the Carabao Cup 2025/26: Newcastle United vs Fulham on 18th December, Thursday 4.05am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10646048'&amp;EntityType='LinearSchedule'&amp;EntityId='1b76b1f7-3302-466c-8e63-a42a11d1709c'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="558241" start="20251216161856 +0000" stop="20251216171141 +0000">
 		<title>River Monsters - Silent Assassin</title>
 		<desc>Jeremy Wade travels to the Parana River in Argentina.</desc>
@@ -4336,95 +4121,100 @@
 		<desc>Top secret recipes from Korean master chefs!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10703242'&amp;EntityType='LinearSchedule'&amp;EntityId='9af69737-b996-4c7b-8c05-afe29f91da9e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251216181608 +0000" stop="20251216191115 +0000">
-		<title>Brazil v Netherlands | Final | FIFA Futsal World Championship Netherlands 1989™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and Netherlands played in FIFA Futsal World Championship 1989.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771731'&amp;EntityType='LinearSchedule'&amp;EntityId='fa474a03-be0c-404b-a826-5c6c0b81ca4e'&amp;Width=1280&amp;Height=720" />
+	<programme channel="557763" start="20251216164034 +0000" stop="20251216172508 +0000">
+		<title>LIVE - The Best FIFA Football Awards™ 2025</title>
+		<desc>Ousmane Dembele, Lamine Yamal, Aitana Bonmati and Kadidiatou Diani are amongst the stars nominated to receive awards at the ceremony taking place in Doha on December 16th.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773302'&amp;EntityType='LinearSchedule'&amp;EntityId='915a3e90-e49b-4f1f-9f5f-438377920ec6'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251216191115 +0000" stop="20251216194840 +0000">
+	<programme channel="557763" start="20251216172508 +0000" stop="20251216174352 +0000">
+		<title>FIFA Futsal Women’s World Cup Philippines 2025™: Highlights Bundle</title>
+		<desc>Watch the latest highlights from the FIFA Futsal Women’s World Cup Philippines 2025™.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773350'&amp;EntityType='LinearSchedule'&amp;EntityId='79783e2e-25c5-4a16-8c2b-a7e541f12f02'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251216174352 +0000" stop="20251216200827 +0000">
+		<title>Italy v Germany FR | Semi-finals | 1970 FIFA World Cup Mexico™ | Full Match Replay</title>
+		<desc>Watch the full match replay between Italy and Germany FR played at Estadio Azteca, Mexico City on Wednesday, 17 June 1970 at 16:00 (local time).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773290'&amp;EntityType='LinearSchedule'&amp;EntityId='e48ac623-1c88-4e2f-8ab5-da2cdb78d0d1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="557763" start="20251216200827 +0000" stop="20251216204551 +0000">
 		<title>Africa Stories</title>
-		<desc>In this exclusive series discover five unique and touching stories, each showcasing the impact football.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771739'&amp;EntityType='LinearSchedule'&amp;EntityId='21076403-2a06-455c-88ed-7b75ae09b3c7'&amp;Width=1280&amp;Height=720" />
+		<desc>In this exclusive series discover five unique and touching stories, each showcasing the impact football has on a continent obsessed with the beautiful game. One continent, five stories... Discover why in Africa, football is more than just a game.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773354'&amp;EntityType='LinearSchedule'&amp;EntityId='39e981c2-9c5c-48e5-9800-7cefe989fdde'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251216194840 +0000" stop="20251216201711 +0000">
+	<programme channel="557763" start="20251216204551 +0000" stop="20251216211423 +0000">
 		<title>Lucy Bronze | Icons</title>
-		<desc>The inspirational tale of England defender Lucy Bronze.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771797'&amp;EntityType='LinearSchedule'&amp;EntityId='0b0f5f2f-96c8-485e-b85f-0e999cb5b4c1'&amp;Width=1280&amp;Height=720" />
+		<desc>Stronger, fitter, faster". No injury was going to stop Lucy Bronze from achieving greatness.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773358'&amp;EntityType='LinearSchedule'&amp;EntityId='b8e84248-c8d4-49a3-ac04-61792a7928ee'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251216201711 +0000" stop="20251216220400 +0000">
+	<programme channel="557763" start="20251216211423 +0000" stop="20251216230111 +0000">
 		<title>Argentina v England | Quarter-finals | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and England played at Estadio Azteca, Mexico City.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771801'&amp;EntityType='LinearSchedule'&amp;EntityId='57d5b06c-0ad0-4c49-b1f4-17d8ca97ae22'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay between Argentina and England played at Estadio Azteca, Mexico City on Sunday, 22 June 1986.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773326'&amp;EntityType='LinearSchedule'&amp;EntityId='16051acd-2fde-4d3b-b51d-538aa530b0c1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251216220400 +0000" stop="20251217001758 +0000">
+	<programme channel="557763" start="20251216230111 +0000" stop="20251217011510 +0000">
 		<title>Argentina v South Africa | Group G | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and South Africa at Dunedin Stadium, Dunedin.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771809'&amp;EntityType='LinearSchedule'&amp;EntityId='fa06c03e-0055-4a45-84a2-33b3973af49b'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay between Argentina and South Africa played at Dunedin Stadium, Dunedin / Ōtepoti on Friday, July 28, 2023 at 12:00 PM (local time).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773330'&amp;EntityType='LinearSchedule'&amp;EntityId='4b7c735e-0b67-40fa-b80b-9e4b1ddc51f2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217001758 +0000" stop="20251217025345 +0000">
+	<programme channel="557763" start="20251217011510 +0000" stop="20251217035057 +0000">
 		<title>Brazil v Italy | Final | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>The full replay of the match between Brazil and Italy played at Rose Bowl, Pasadena.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771747'&amp;EntityType='LinearSchedule'&amp;EntityId='ffd97abc-49b9-4d3f-96ef-bbea11f4caf2'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full replay from the match between Brazil and Italy played at Rose Bowl, Pasadena on Sunday, 17 July 1994.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773322'&amp;EntityType='LinearSchedule'&amp;EntityId='455a141b-6695-43f1-b75c-e49beff37747'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217025345 +0000" stop="20251217033527 +0000">
-		<title>A LOOK BACK: 1994 FIFA World Cup USA™</title>
-		<desc>Brazil Highlights in the 1994 FIFA World Cup USA™</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771805'&amp;EntityType='LinearSchedule'&amp;EntityId='5f303958-d1c6-4db1-a875-836a5f7ff539'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20251217033527 +0000" stop="20251217052557 +0000">
+	<programme channel="557763" start="20251217035057 +0000" stop="20251217054127 +0000">
 		<title>Brazil v USA | Round of 16 | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and USA played at Stanford Stadium, San Francisco.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771754'&amp;EntityType='LinearSchedule'&amp;EntityId='e14a5b05-6ee0-4ebe-8bfe-e81d4354e738'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay between Brazil and USA played at Stanford Stadium, San Francisco on Monday, 04 July 1994.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773334'&amp;EntityType='LinearSchedule'&amp;EntityId='b19e0675-628a-492c-81a5-50f416081ca1'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217052557 +0000" stop="20251217070511 +0000">
+	<programme channel="557763" start="20251217054127 +0000" stop="20251217072042 +0000">
 		<title>Brazil v USA | Final | FIFA Futsal World Championship Hong Kong 1992™ | Full Match Replay</title>
 		<desc>Watch the full match replay between Brazil and USA played in FIFA Futsal World Championship Hong Kong 1992™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771769'&amp;EntityType='LinearSchedule'&amp;EntityId='d8c9e029-9120-464a-94fc-2b91401af715'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773294'&amp;EntityType='LinearSchedule'&amp;EntityId='07220fac-4d49-4402-a7a3-ad1eee7bf885'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217070511 +0000" stop="20251217072615 +0000">
+	<programme channel="557763" start="20251217072042 +0000" stop="20251217074145 +0000">
 		<title>Roger Milla | Discovering</title>
 		<desc>Before Weah, before Drogba, before Eto'o. A World Cup legend and one of the best African strikers of all time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771777'&amp;EntityType='LinearSchedule'&amp;EntityId='99666baf-c538-4dac-9669-99e949cc1a77'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773306'&amp;EntityType='LinearSchedule'&amp;EntityId='d91a46d6-34a1-4768-87a6-179b410e1586'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217072615 +0000" stop="20251217082625 +0000">
+	<programme channel="557763" start="20251217074145 +0000" stop="20251217084155 +0000">
 		<title>Asia Stories</title>
-		<desc>Asia Stories brings together passionate football people from six different nations across the continent.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771813'&amp;EntityType='LinearSchedule'&amp;EntityId='3c6a47d3-0d10-4fb4-beb3-55d5bf543d27'&amp;Width=1280&amp;Height=720" />
+		<desc>Asia Stories brings together passionate football people from six different nations across the continent. Inspiring human tales that celebrate football from China, Japan, Saudi Arabia, Korea, India and Indonesia. EP 6: Saudi Arabia. EP 4 : Japan EP 5: Korea EP 1: China EP 2: India</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773310'&amp;EntityType='LinearSchedule'&amp;EntityId='ea2cb7e3-78c5-461c-b646-8e96fe0fb63c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217082625 +0000" stop="20251217085511 +0000">
+	<programme channel="557763" start="20251217084155 +0000" stop="20251217091041 +0000">
 		<title>Asisat Oshoala | Icons</title>
 		<desc>From Lagos to the biggest stages in women's football, this is Asisat Oshoala's incredible story.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771781'&amp;EntityType='LinearSchedule'&amp;EntityId='a6273f43-fa53-4b03-abf3-cc9a55fb5edc'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773298'&amp;EntityType='LinearSchedule'&amp;EntityId='c488d243-1ec7-49da-8b79-e4683848a3f9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217085511 +0000" stop="20251217104156 +0000">
+	<programme channel="557763" start="20251217091041 +0000" stop="20251217105726 +0000">
 		<title>Argentina v Belgium | Semi-finals | 1986 FIFA World Cup Mexico™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and Belgium played at Estadio Azteca, Mexico City.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771761'&amp;EntityType='LinearSchedule'&amp;EntityId='b1e9f9c5-b7b8-48f3-bc7b-4ef136a7fb9f'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay between Argentina and Belgium played at Estadio Azteca, Mexico City on Wednesday, 25 June 1986.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773314'&amp;EntityType='LinearSchedule'&amp;EntityId='66c38fc4-89a6-4661-a897-928c1c5fdd15'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217104156 +0000" stop="20251217123644 +0000">
+	<programme channel="557763" start="20251217105726 +0000" stop="20251217125214 +0000">
 		<title>Argentina v Belgium | Quarter-finals | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Argentina and Belgium</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771773'&amp;EntityType='LinearSchedule'&amp;EntityId='78e329bb-57e1-4730-ab8e-85ec7961feae'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full match replay from the match between Argentina and Belgium played at Estadio Nacional, Brasilia on Saturday, 05 July 2014.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773318'&amp;EntityType='LinearSchedule'&amp;EntityId='2fb4c0ee-8990-4a87-8d93-ba4014ced6ae'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217123644 +0000" stop="20251217125752 +0000">
+	<programme channel="557763" start="20251217125214 +0000" stop="20251217131323 +0000">
 		<title>Nation’s Eleven – France</title>
 		<desc>Remembering some of the greatest players of French football.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771785'&amp;EntityType='LinearSchedule'&amp;EntityId='508d60fb-2f3d-45bf-819d-adf50cc736e2'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773362'&amp;EntityType='LinearSchedule'&amp;EntityId='77a942a7-83e3-4aa7-a78d-aa3aa72aacfd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217125752 +0000" stop="20251217132316 +0000">
+	<programme channel="557763" start="20251217131323 +0000" stop="20251217133846 +0000">
 		<title>All Penalty shootouts from ⁠FIFA World Cup France 1998™</title>
 		<desc>Relive the thrill of the matches that ended in a penalty shootout</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771789'&amp;EntityType='LinearSchedule'&amp;EntityId='f6d74d77-2bf5-46d0-b01e-f08b47d90057'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773338'&amp;EntityType='LinearSchedule'&amp;EntityId='d785bf6f-5c08-4bfe-9aa2-438c6b290871'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217132316 +0000" stop="20251217135735 +0000">
+	<programme channel="557763" start="20251217133846 +0000" stop="20251217141305 +0000">
 		<title>⁠All Penalty shootouts from ⁠FIFA World Cup Germany 2006™</title>
 		<desc>Relive the thrill of the matches that ended in a penalty shootout</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771793'&amp;EntityType='LinearSchedule'&amp;EntityId='096e901f-8df1-4aad-b45b-84a7615123a2'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773342'&amp;EntityType='LinearSchedule'&amp;EntityId='dd59f353-21c0-4cde-b819-03b64f1c1cad'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20251217135735 +0000" stop="20251217163322 +0000">
+	<programme channel="557763" start="20251217141305 +0000" stop="20251217164852 +0000">
 		<title>Brazil v Italy | Final | 1994 FIFA World Cup USA™ | Full Match Replay</title>
-		<desc>The full replay of the match between Brazil and Italy played at Rose Bowl, Pasadena.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10771765'&amp;EntityType='LinearSchedule'&amp;EntityId='f0756937-6a90-4489-8f65-83afbe4ef0d2'&amp;Width=1280&amp;Height=720" />
+		<desc>Watch the full replay from the match between Brazil and Italy played at Rose Bowl, Pasadena on Sunday, 17 July 1994.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773346'&amp;EntityType='LinearSchedule'&amp;EntityId='7a320af2-aa0d-4d07-9bf3-4c33719589e6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251216181500 +0000" stop="20251216184500 +0000">
 		<title>Heroines (S1): Heroines (S1E12)</title>
@@ -4765,245 +4555,5 @@
 		<title>Fight Stars - Nicola Adams - EP6</title>
 		<desc>In Fight Stars, meet the best champions of combat sports, including Nicola Adams and Marlen Esparza, two women who dominate their sport. We look back at Ronda Rousey's difficult year. Finally, Wayne Rooney tries his hand at wrestling.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10647500'&amp;EntityType='LinearSchedule'&amp;EntityId='354c195f-7a22-48aa-a1ec-383b4395a682'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216163000 +0000" stop="20251216170000 +0000">
-		<title>Shaq's Garage - Babysitters - EP122</title>
-		<desc>The Shaq Paq has their work cut out for them this time as a routine babysitting gig turns into a search and rescue.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628510'&amp;EntityType='LinearSchedule'&amp;EntityId='6a74afb9-b985-4408-94b3-05c6c9094b66'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216170000 +0000" stop="20251216173000 +0000">
-		<title>Yu-Gi-Oh! Zexal - Training Days, Part 2 - EP16</title>
-		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628265'&amp;EntityType='LinearSchedule'&amp;EntityId='c6169e5a-3087-4d64-86ca-f1e86975fd2c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216173000 +0000" stop="20251216180000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep3 - EP3</title>
-		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628558'&amp;EntityType='LinearSchedule'&amp;EntityId='5e98bc45-5f96-40ca-a347-fb546b887d64'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216180000 +0000" stop="20251216183500 +0000">
-		<title>Baby Einstein - Baby Monet: Discovering the Seasons</title>
-		<desc>As babies grow and change, so does the landscape around them. From fiery red leaves to falling snowflakes; from flowers in bloom to fireworks in July, every season of the year has its own magic just waiting to be discovered. BABY MONET takes little ones on a sight-and-sound-filled journey through spring, summer, fall and winter using puppet shows, images of nature, children, toys, and masterpieces by Claude Monet set to excerpts from composer Antonio Vivaldi's timeless "The Four Seasons."</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628274'&amp;EntityType='LinearSchedule'&amp;EntityId='438a9b66-07e9-416b-acd8-851a8243b90b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216183500 +0000" stop="20251216191000 +0000">
-		<title>Kids' Planet - Behaving on the Street and Minding Traffic Signs - EP104</title>
-		<desc>Nova will invite children to a new expedition to become super pedestrians. Together, they will discover how they should behave in public spaces or streets. Curious will teach us the correct way to cross the street, know the traffic lights and traffic signals. They will also learn that the car is a very fun place that has rules to follow to enjoy and stay safe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628514'&amp;EntityType='LinearSchedule'&amp;EntityId='fde8c2c1-7e2d-45ae-bd17-3a152780a3c8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216191000 +0000" stop="20251216193000 +0000">
-		<title>Mellodees - Rain Rain Go Away - EP17</title>
-		<desc>Oh no! It started raining on Dee’s cookout with his friends! Can you help Dee save the party?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628418'&amp;EntityType='LinearSchedule'&amp;EntityId='dfecc199-8739-4417-a005-942d25b770be'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216193000 +0000" stop="20251216200000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep16 - EP116</title>
-		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628518'&amp;EntityType='LinearSchedule'&amp;EntityId='eebc55d9-c364-414c-a20f-d0db07e207c8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216200000 +0000" stop="20251216203000 +0000">
-		<title>Giselle and the Green Team - The Case of the Lawless Loggers - EP103</title>
-		<desc>Gisele and the Green team once again fight Nick slick as he tries to clear cut a forest.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628283'&amp;EntityType='LinearSchedule'&amp;EntityId='4487f6d3-f136-4926-810d-c1a2cb43fb02'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216203000 +0000" stop="20251216210000 +0000">
-		<title>Rainbow Rangers S1 - Go with the Rainbow Floe / Northern Lights - EP101</title>
-		<desc>The Rangers save a baby polar bear stranded on an ice floe. / The Rangers lose their Spectra Scooters while helping a seal family and discover the Northern Lights.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628599'&amp;EntityType='LinearSchedule'&amp;EntityId='75ddca12-37d0-45f2-bfdc-f80faff84b55'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216210000 +0000" stop="20251216213000 +0000">
-		<title>Thomas Edison's Secret Lab - Murphy’s Law of Gravity / The Mystery of Pirate Woods - EP105</title>
-		<desc>The SECRET LAB KIDS are ready to demo their new science song for web entrepreneur Mook Zookerboom when he learns that a satellite is coming down out of orbit, panics and heads for the airport. So the team must gather some data on gravity to convince him to return. / Angie’s great-uncle Thaddeus and JD are sure a local nautical antique shop has the missing treasure chest of Greybeard the Pirate – but Angie, Nicky and Kent suspect the shop owner is the true pirate here.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647804'&amp;EntityType='LinearSchedule'&amp;EntityId='5652a557-56c2-4549-aaa4-078a7b4eaca3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216213000 +0000" stop="20251216220000 +0000">
-		<title>Secret Millionaires Club - The Gift - EP122</title>
-		<desc>The SMC Kids visit an African village with a challenge from Bill Gates to be inventive and problem solve the lack of electricity so the locals can take advantage of computers and the internet or just be able to read a ook at night. In their efforts, the kids learn the true value of giving.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647808'&amp;EntityType='LinearSchedule'&amp;EntityId='385ad734-c756-42b3-a192-b0e59705282c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216220000 +0000" stop="20251216223000 +0000">
-		<title>Superhero Kindergarten - Bessie We Hardly Knew Ye - EP110</title>
-		<desc>Vik's quest to find Bessie the lake monster teaches everyone that just because you can't see something doesn't mean it isn't real.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647812'&amp;EntityType='LinearSchedule'&amp;EntityId='d8b20155-ec28-4fd9-91c2-62e0ddcb435b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216223000 +0000" stop="20251216230000 +0000">
-		<title>Shaq's Garage - Babysitters - EP122</title>
-		<desc>The Shaq Paq has their work cut out for them this time as a routine babysitting gig turns into a search and rescue.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628382'&amp;EntityType='LinearSchedule'&amp;EntityId='c142534c-757d-435b-afa9-fcdda9fe0ab8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216230000 +0000" stop="20251216233000 +0000">
-		<title>Yu-Gi-Oh! Zexal - Training Days, Part 2 - EP16</title>
-		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628293'&amp;EntityType='LinearSchedule'&amp;EntityId='c4022ed0-8519-4de1-8451-a92b7bc13450'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251216233000 +0000" stop="20251217000000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep3 - EP3</title>
-		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628396'&amp;EntityType='LinearSchedule'&amp;EntityId='0bef132b-4628-47d1-ba08-f82538b58206'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217000000 +0000" stop="20251217003500 +0000">
-		<title>Baby Einstein - Baby Monet: Discovering the Seasons</title>
-		<desc>As babies grow and change, so does the landscape around them. From fiery red leaves to falling snowflakes; from flowers in bloom to fireworks in July, every season of the year has its own magic just waiting to be discovered. BABY MONET takes little ones on a sight-and-sound-filled journey through spring, summer, fall and winter using puppet shows, images of nature, children, toys, and masterpieces by Claude Monet set to excerpts from composer Antonio Vivaldi's timeless "The Four Seasons."</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628614'&amp;EntityType='LinearSchedule'&amp;EntityId='16b32209-d0e8-435f-93ed-4fb09bc121cc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217003500 +0000" stop="20251217011000 +0000">
-		<title>Kids' Planet - Behaving on the Street and Minding Traffic Signs - EP104</title>
-		<desc>Nova will invite children to a new expedition to become super pedestrians. Together, they will discover how they should behave in public spaces or streets. Curious will teach us the correct way to cross the street, know the traffic lights and traffic signals. They will also learn that the car is a very fun place that has rules to follow to enjoy and stay safe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628408'&amp;EntityType='LinearSchedule'&amp;EntityId='afbb4cf6-4967-4d99-8a01-bb473036d73f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217011000 +0000" stop="20251217013000 +0000">
-		<title>Mellodees - Rain Rain Go Away - EP17</title>
-		<desc>Oh no! It started raining on Dee’s cookout with his friends! Can you help Dee save the party?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628622'&amp;EntityType='LinearSchedule'&amp;EntityId='a7e3be3c-fd1d-4f9b-9667-706729a04590'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217013000 +0000" stop="20251217020000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep16 - EP116</title>
-		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628566'&amp;EntityType='LinearSchedule'&amp;EntityId='5fcf8175-d1b4-4a8c-aab9-c0e24c52ada6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217020000 +0000" stop="20251217023000 +0000">
-		<title>Giselle and the Green Team - The Case of the Lawless Loggers - EP103</title>
-		<desc>Gisele and the Green team once again fight Nick slick as he tries to clear cut a forest.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628630'&amp;EntityType='LinearSchedule'&amp;EntityId='3a0e269c-a1c1-4865-92e3-0cfcb8001aa6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217023000 +0000" stop="20251217030000 +0000">
-		<title>Rainbow Rangers S1 - Go with the Rainbow Floe / Northern Lights - EP101</title>
-		<desc>The Rangers save a baby polar bear stranded on an ice floe. / The Rangers lose their Spectra Scooters while helping a seal family and discover the Northern Lights.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628471'&amp;EntityType='LinearSchedule'&amp;EntityId='adae4e27-87f8-49e3-a433-77f07ac319bf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217030000 +0000" stop="20251217033500 +0000">
-		<title>Thomas Edison's Secret Lab - Murphy’s Law of Gravity / The Mystery of Pirate Woods - EP105</title>
-		<desc>The SECRET LAB KIDS are ready to demo their new science song for web entrepreneur Mook Zookerboom when he learns that a satellite is coming down out of orbit, panics and heads for the airport. So the team must gather some data on gravity to convince him to return. / Angie’s great-uncle Thaddeus and JD are sure a local nautical antique shop has the missing treasure chest of Greybeard the Pirate – but Angie, Nicky and Kent suspect the shop owner is the true pirate here.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647820'&amp;EntityType='LinearSchedule'&amp;EntityId='32e400d3-713b-4492-bc43-85a6a3b8872d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217033500 +0000" stop="20251217040000 +0000">
-		<title>Secret Millionaires Club - The Gift - EP122</title>
-		<desc>The SMC Kids visit an African village with a challenge from Bill Gates to be inventive and problem solve the lack of electricity so the locals can take advantage of computers and the internet or just be able to read a ook at night. In their efforts, the kids learn the true value of giving.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647824'&amp;EntityType='LinearSchedule'&amp;EntityId='68d9356d-7be4-4f7b-be09-3907b8eaf342'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217040000 +0000" stop="20251217043000 +0000">
-		<title>Superhero Kindergarten - Bessie We Hardly Knew Ye - EP110</title>
-		<desc>Vik's quest to find Bessie the lake monster teaches everyone that just because you can't see something doesn't mean it isn't real.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647828'&amp;EntityType='LinearSchedule'&amp;EntityId='1544ac1f-974e-4cf0-afdb-4ddc128b9818'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217043000 +0000" stop="20251217050000 +0000">
-		<title>Shaq's Garage - Babysitters - EP122</title>
-		<desc>The Shaq Paq has their work cut out for them this time as a routine babysitting gig turns into a search and rescue.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628492'&amp;EntityType='LinearSchedule'&amp;EntityId='6f63308e-f337-441a-847d-1753e77c1e35'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217050000 +0000" stop="20251217053000 +0000">
-		<title>Yu-Gi-Oh! Zexal - Training Days, Part 2 - EP16</title>
-		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628306'&amp;EntityType='LinearSchedule'&amp;EntityId='3a6c1750-a13c-4101-a5d9-bc488c1fad40'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217053000 +0000" stop="20251217060000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep3 - EP3</title>
-		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628502'&amp;EntityType='LinearSchedule'&amp;EntityId='9505b68c-9329-4b1a-b7d6-c76b4ffe519e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217060000 +0000" stop="20251217063500 +0000">
-		<title>Baby Einstein - Baby Monet: Discovering the Seasons</title>
-		<desc>As babies grow and change, so does the landscape around them. From fiery red leaves to falling snowflakes; from flowers in bloom to fireworks in July, every season of the year has its own magic just waiting to be discovered. BABY MONET takes little ones on a sight-and-sound-filled journey through spring, summer, fall and winter using puppet shows, images of nature, children, toys, and masterpieces by Claude Monet set to excerpts from composer Antonio Vivaldi's timeless "The Four Seasons."</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628310'&amp;EntityType='LinearSchedule'&amp;EntityId='941eac3d-d770-438e-9b69-3c6038c27292'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217063500 +0000" stop="20251217071500 +0000">
-		<title>Kids' Planet - Behaving on the Street and Minding Traffic Signs - EP104</title>
-		<desc>Nova will invite children to a new expedition to become super pedestrians. Together, they will discover how they should behave in public spaces or streets. Curious will teach us the correct way to cross the street, know the traffic lights and traffic signals. They will also learn that the car is a very fun place that has rules to follow to enjoy and stay safe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628576'&amp;EntityType='LinearSchedule'&amp;EntityId='51796273-8fd0-49ae-aebe-9523436e5af6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217071500 +0000" stop="20251217073000 +0000">
-		<title>Mellodees - Rain Rain Go Away - EP17</title>
-		<desc>Oh no! It started raining on Dee’s cookout with his friends! Can you help Dee save the party?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628320'&amp;EntityType='LinearSchedule'&amp;EntityId='9a69b2fb-e278-4396-998f-7eb97399ef95'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217073000 +0000" stop="20251217080000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep16 - EP116</title>
-		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628634'&amp;EntityType='LinearSchedule'&amp;EntityId='cc4c0fad-2fab-4e57-baad-39f6bfef4e0e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217080000 +0000" stop="20251217083000 +0000">
-		<title>Giselle and the Green Team - The Case of the Lawless Loggers - EP103</title>
-		<desc>Gisele and the Green team once again fight Nick slick as he tries to clear cut a forest.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628526'&amp;EntityType='LinearSchedule'&amp;EntityId='70df26e1-002f-401a-bace-ea723ddb17f5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217083000 +0000" stop="20251217090000 +0000">
-		<title>Rainbow Rangers S1 - Go with the Rainbow Floe / Northern Lights - EP101</title>
-		<desc>The Rangers save a baby polar bear stranded on an ice floe. / The Rangers lose their Spectra Scooters while helping a seal family and discover the Northern Lights.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628638'&amp;EntityType='LinearSchedule'&amp;EntityId='2da95545-0450-4aa4-ac9f-83c690cf8bd3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217090000 +0000" stop="20251217093000 +0000">
-		<title>Thomas Edison's Secret Lab - Murphy’s Law of Gravity / The Mystery of Pirate Woods - EP105</title>
-		<desc>The SECRET LAB KIDS are ready to demo their new science song for web entrepreneur Mook Zookerboom when he learns that a satellite is coming down out of orbit, panics and heads for the airport. So the team must gather some data on gravity to convince him to return. / Angie’s great-uncle Thaddeus and JD are sure a local nautical antique shop has the missing treasure chest of Greybeard the Pirate – but Angie, Nicky and Kent suspect the shop owner is the true pirate here.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647840'&amp;EntityType='LinearSchedule'&amp;EntityId='8dc83a38-2966-402d-aa7e-46ab1842ace6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217093000 +0000" stop="20251217100000 +0000">
-		<title>Secret Millionaires Club - The Gift - EP122</title>
-		<desc>The SMC Kids visit an African village with a challenge from Bill Gates to be inventive and problem solve the lack of electricity so the locals can take advantage of computers and the internet or just be able to read a ook at night. In their efforts, the kids learn the true value of giving.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647848'&amp;EntityType='LinearSchedule'&amp;EntityId='c8570001-df89-47ab-b043-fe8b4b542d73'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217100000 +0000" stop="20251217103000 +0000">
-		<title>Superhero Kindergarten - Super Ks Gone Bad - EP111</title>
-		<desc>The Super K's are doing horrible, no good, super bad things all over Greenville, but… is it really them? When Nigel Danforth is involved, all bets are off!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647858'&amp;EntityType='LinearSchedule'&amp;EntityId='151082a2-6fd0-45e0-a800-ce154bd9ae63'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217103000 +0000" stop="20251217110000 +0000">
-		<title>Shaq's Garage - Win Klaus Win! - EP123</title>
-		<desc>Klaus may have finally met his match as his rival, Niccolo Tessio, beats him in an official race, but Klaus has an ace up his sleeve: magic tires.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628335'&amp;EntityType='LinearSchedule'&amp;EntityId='dce3b47b-2c74-4945-9810-75456f9a61b5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217110000 +0000" stop="20251217113000 +0000">
-		<title>Yu-Gi-Oh! Zexal - It's In the Cards, Part 1 - EP17</title>
-		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628550'&amp;EntityType='LinearSchedule'&amp;EntityId='58e508a1-17ac-4e31-805c-2e94d25d2fa4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217113000 +0000" stop="20251217120000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep4 - EP4</title>
-		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628444'&amp;EntityType='LinearSchedule'&amp;EntityId='d527baad-d5d6-41f9-9c87-702c12650ce8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217120000 +0000" stop="20251217123000 +0000">
-		<title>Baby Einstein - Baby Newton: All About Shapes</title>
-		<desc>With the Dolittle, and other Baby programs under their belts, the tots who follow Julie Aigner-Clark's Baby Einstein series will sidle up to Baby Newton expecting a similar exploration of building blocks to brilliance, but this time there's a wrinkle or two. Animation makes its first appearance, and parents steeped in keep-it-simple culture may object to the springy "I Know My Shapes" song, a departure from classical-only video predecessors.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628530'&amp;EntityType='LinearSchedule'&amp;EntityId='98c62ac0-9845-431b-868a-4340ccb03044'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217123000 +0000" stop="20251217131500 +0000">
-		<title>Kids' Planet - Generosity and Friendship - EP105</title>
-		<desc>In this new episode of Kids' Planet, Nova will invite the children on a new expedition towards friendship. Together, they will learn about loyalty, respect and understanding. Curious will help us to know how generous people behave, discover empathy, and something very important: how to share with people who need it.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628586'&amp;EntityType='LinearSchedule'&amp;EntityId='b6592580-e9af-4448-b421-5d204804070d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217131500 +0000" stop="20251217133000 +0000">
-		<title>Mellodees - The Grand Old Duke Of York - EP27</title>
-		<desc>What a great day! It’s time for an outdoor stretch. Can you sing ‘The Grand Duke of York’? Then join the march with Dee on the streets!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628593'&amp;EntityType='LinearSchedule'&amp;EntityId='a1f02fe2-e932-4876-b8c1-b8d10f4988a8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217133000 +0000" stop="20251217142000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep17 - EP117</title>
-		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628345'&amp;EntityType='LinearSchedule'&amp;EntityId='73b7980a-be8d-4815-9a1c-246015c63ff7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217142000 +0000" stop="20251217143000 +0000">
-		<title>Giselle and the Green Team - The Case of the Illicit Arsenic - EP104</title>
-		<desc>Gisele and her Green Team fight Nick Slick from reopening a enviormentally dangerous Gold Mine.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628454'&amp;EntityType='LinearSchedule'&amp;EntityId='cf5bec29-17a6-4e90-9466-ab16b1e3fa3f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217143000 +0000" stop="20251217150000 +0000">
-		<title>Rainbow Rangers S1 - Tree Hugger / Turtle in a Net - EP102</title>
-		<desc>The Rangers have to save a forest from destruction. / The Rangers have to save a turtle caught in a fishing net.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10628361'&amp;EntityType='LinearSchedule'&amp;EntityId='418ec1ad-e524-4962-8555-0125078d6ef0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217150000 +0000" stop="20251217153000 +0000">
-		<title>Thomas Edison's Secret Lab - Electri-Kent / Fashion Genes - EP106</title>
-		<desc>Kent discovers one of Edison’s secret inventions – an exo-bodysuit: a steampunk Ironman device that turns him into a klutzy superhero. / Ever-confident Nicky finds herself competing with Sheila in a “Project Runway”-type show, and, needing the perfect model to show off her designs on the runway, she decides to clone herself.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647875'&amp;EntityType='LinearSchedule'&amp;EntityId='e0a96744-103f-4c0d-a3db-de806135f114'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217153000 +0000" stop="20251217160000 +0000">
-		<title>Secret Millionaires Club - Far Out Future - EP123</title>
-		<desc>The SMC travels to the future to help save the world’s first Time Machine Company but they find they may not even have time to save themselves!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10647883'&amp;EntityType='LinearSchedule'&amp;EntityId='d31ddfd0-3a19-4f63-bb93-ab434f8fb197'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20251217160000 +0000" stop="20251217163000 +0000">
-		<title>Superhero Kindergarten - Super Ks Gone Bad - EP111</title>
-		<desc>The Super K's are doing horrible, no good, super bad things all over Greenville, but… is it really them? When Nigel Danforth is involved, all bets are off!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10682066'&amp;EntityType='LinearSchedule'&amp;EntityId='d6362890-5b6a-441f-a85c-d29104f99f37'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
