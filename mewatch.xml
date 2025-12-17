@@ -203,7 +203,7 @@
 	</programme>
 	<programme channel="97098" start="20251217060000 +0000" stop="20251217070000 +0000">
 		<title>Fencing - 33rd SEA Games Thailand 2025: Women's Epee &amp; Men's Foil Finals</title>
-		<desc>(Repeat) Women's Epee Finals | Men's Foil Finals</desc>
+		<desc>(Encore) Women's Epee Finals | Men's Foil Finals</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10788138'&amp;EntityType='LinearSchedule'&amp;EntityId='c1d7cca5-586c-4bad-85bf-977c1b55a9b3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20251217070000 +0000" stop="20251217080000 +0000">
@@ -218,12 +218,12 @@
 	</programme>
 	<programme channel="97098" start="20251217110000 +0000" stop="20251217120000 +0000">
 		<title>Diving - 33rd SEA Games Thailand 2025: Men's 1m Springboard Final</title>
-		<desc>(Repeat) Men's Synchronized 1m Springboard Final</desc>
+		<desc>(Delayed) Men's Synchronized 1m Springboard Final</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776746'&amp;EntityType='LinearSchedule'&amp;EntityId='92578e32-1a64-485b-881f-4918fcfe84f6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20251217120000 +0000" stop="20251217130000 +0000">
 		<title>Pencak Silat - 33rd SEA Games Thailand 2025: Men's Tanding Final</title>
-		<desc>(Repeat) Men's Tanding Final</desc>
+		<desc>(Delayed) Men's Tanding Final</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776730'&amp;EntityType='LinearSchedule'&amp;EntityId='fc86a55c-63c4-4e48-9654-036ef255ad8d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20251217130000 +0000" stop="20251217133000 +0000">
@@ -1126,14 +1126,24 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10628351'&amp;EntityType='LinearSchedule'&amp;EntityId='2cb84ebc-d456-4f2d-b00d-54ce9b620a74'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20251217030000 +0000" stop="20251217060000 +0000">
-		<title>Table Tennis - 33rd SEA Games Thailand 2025 Men's, Women's &amp; Mixed Doubles Semi-finals</title>
-		<desc>Mixed Doubles - Semi-finals - Singapore vs Malaysia | Women's Doubles Semi-final - Singapore vs Thailand | Men's Doubles Semi-final - Singapore vs Vietnam</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10788010'&amp;EntityType='LinearSchedule'&amp;EntityId='1170be8f-3256-45c4-8fc7-ac88a4f72073'&amp;Width=1280&amp;Height=720" />
+	<programme channel="576059" start="20251217030000 +0000" stop="20251217032300 +0000">
+		<title>Table Tennis - 33rd SEA Games Thailand 2025 Mixed Doubles - Semi-finals - SGP vs MAS</title>
+		<desc>Mixed Doubles - Semi-finals - Singapore vs Malaysia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10788174'&amp;EntityType='LinearSchedule'&amp;EntityId='1c76db51-3262-4ac4-875f-2636f6e530bd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20251217032300 +0000" stop="20251217043100 +0000">
+		<title>Table Tennis - 33rd SEA Games Thailand 2025 Women's Doubles Semi-final - SGP vs THA</title>
+		<desc>Women's Doubles Semi-final - Singapore vs Thailand</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10789080'&amp;EntityType='LinearSchedule'&amp;EntityId='fd55b9ff-a07b-45d2-9fc3-9f6b8dfa276f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20251217043100 +0000" stop="20251217060000 +0000">
+		<title>Table Tennis - 33rd SEA Games Thailand 2025 Men's Doubles Semi-final - SGP vs VIE</title>
+		<desc>Men's Doubles Semi-final - Singapore vs Vietnam</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10773936'&amp;EntityType='LinearSchedule'&amp;EntityId='1170be8f-3256-45c4-8fc7-ac88a4f72073'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251217060000 +0000" stop="20251217070000 +0000">
 		<title>Fencing - 33rd SEA Games Thailand 2025 Women's Epee &amp; Men's Foil Finals</title>
-		<desc>(Repeat) Women's Epee Finals | Men's Foil Finals</desc>
+		<desc>(Encore) Women's Epee Finals | Men's Foil Finals</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10788077'&amp;EntityType='LinearSchedule'&amp;EntityId='5d04fb45-e2f6-4e05-9673-e3bda875b551'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251217070000 +0000" stop="20251217080000 +0000">
@@ -1144,16 +1154,16 @@
 	<programme channel="576059" start="20251217080000 +0000" stop="20251217110000 +0000">
 		<title>Netball - 33rd SEA Games Thailand 2025 Women's Final - SGP vs MAS</title>
 		<desc>Women's Final - Singapore vs Malaysia</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10688113'&amp;EntityType='LinearSchedule'&amp;EntityId='ecfb24f2-e01e-4479-b2c3-e385a741d5b1'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10789076'&amp;EntityType='LinearSchedule'&amp;EntityId='ecfb24f2-e01e-4479-b2c3-e385a741d5b1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251217110000 +0000" stop="20251217120000 +0000">
 		<title>Diving - 33rd SEA Games Thailand 2025 Men's 1m Springboard Final</title>
-		<desc>(Repeat) Men's Synchronized 1m Springboard Final</desc>
+		<desc>(Delayed) Men's Synchronized 1m Springboard Final</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10775703'&amp;EntityType='LinearSchedule'&amp;EntityId='27ca7f06-9772-45b4-8e45-79312bb928fb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251217120000 +0000" stop="20251217130000 +0000">
 		<title>Pencak Silat - 33rd SEA Games Thailand 2025 Men's Tanding Final</title>
-		<desc>(Repeat) Men's Tanding Final</desc>
+		<desc>(Delayed) Men's Tanding Final</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776607'&amp;EntityType='LinearSchedule'&amp;EntityId='093beca5-06ce-4a4f-8470-ee21c7222965'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251217130000 +0000" stop="20251217133000 +0000">
@@ -1201,20 +1211,20 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10647796'&amp;EntityType='LinearSchedule'&amp;EntityId='69b1b1b3-a1f8-4ba6-bff6-4fdca9e283d3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576061" start="20251216160000 +0000" stop="20251217043000 +0000">
+	<programme channel="576061" start="20251216160000 +0000" stop="20251217041900 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10628338'&amp;EntityType='LinearSchedule'&amp;EntityId='52b2ceb5-444f-43cd-84cb-06446b4121f9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576061" start="20251217043000 +0000" stop="20251217063000 +0000">
+	<programme channel="576061" start="20251217041900 +0000" stop="20251217062200 +0000">
 		<title>Basketball - 33rd SEA Games Thailand 2025 Women's Quarter-final - INA vs SGP</title>
 		<desc>Women's Quarter-final - Indonesia vs Singapore</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10774060'&amp;EntityType='LinearSchedule'&amp;EntityId='4d5acb68-f4cb-4fd3-a746-0145cd9b782d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576061" start="20251217063000 +0000" stop="20251217070000 +0000">
+	<programme channel="576061" start="20251217062200 +0000" stop="20251217070000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10774064'&amp;EntityType='LinearSchedule'&amp;EntityId='9fe87130-daa8-4780-9e27-4d4b6b0abda5'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10789084'&amp;EntityType='LinearSchedule'&amp;EntityId='ada1ff45-f3f4-46ca-8f4e-1d2a734809fe'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576061" start="20251217070000 +0000" stop="20251217080000 +0000">
 		<title>Diving - 33rd SEA Games Thailand 2025 Men's 1m Springboard Final</title>
@@ -1286,12 +1296,12 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10647604'&amp;EntityType='LinearSchedule'&amp;EntityId='5db497dc-90f2-4bb3-bbba-3baab270f4ed'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="580751" start="20251216160000 +0000" stop="20251217050000 +0000">
+	<programme channel="580751" start="20251216160000 +0000" stop="20251217045000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10628474'&amp;EntityType='LinearSchedule'&amp;EntityId='6e2a73f8-d2ca-425f-b16c-27819c876428'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="580751" start="20251217050000 +0000" stop="20251217070000 +0000">
+	<programme channel="580751" start="20251217045000 +0000" stop="20251217070000 +0000">
 		<title>Floorball - 33rd SEA Games Thailand 2025 Women's Round Robin - SGP vs PHI</title>
 		<desc>Women's Round Robin - Singapore vs Philippines</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10774188'&amp;EntityType='LinearSchedule'&amp;EntityId='163cc3e0-4e08-4a15-8e44-409098acd3ea'&amp;Width=1280&amp;Height=720" />
