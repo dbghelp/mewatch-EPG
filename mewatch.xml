@@ -64,10 +64,6 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="97078">
-		<display-name>LIVE 2</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
-	</channel>
 	<channel id="98202">
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
@@ -95,6 +91,10 @@
 	<channel id="556888">
 		<display-name>TRACE Sport Stars</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358846'&amp;EntityType='Item'&amp;EntityId='556888'&amp;Width=350&amp;Height=250" />
+	</channel>
+	<channel id="556893">
+		<display-name>Kartoon Channel!</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358834'&amp;EntityType='Item'&amp;EntityId='556893'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20251219143000 +0000" stop="20251219170000 +0000">
 		<title>Die Hard 2</title>
@@ -1141,20 +1141,10 @@
 		<desc>Dylan's Playtime Adventures/Wishes 许愿泡泡茶/Lil Wild/Syber Surfer Sam</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10690155'&amp;EntityType='LinearSchedule'&amp;EntityId='29dfe7a7-2a1d-4e25-aa14-ed837bdf0c68'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20251219160000 +0000" stop="20251220020000 +0000">
+	<programme channel="576059" start="20251219160000 +0000" stop="20251220111500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10690595'&amp;EntityType='LinearSchedule'&amp;EntityId='a7ced35e-230b-4586-95f7-28c81a336e7e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="576059" start="20251220020000 +0000" stop="20251220070000 +0000">
-		<title>Sepak Takraw - 33rd SEA Games Thailand 2025 Men's &amp; Women's Regu Semi-finals &amp; Finals</title>
-		<desc>Men's Regu Semi-finals | Women's Regu Semi-finals | Men's Regu Finals | Women's Regu Finals | </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10690616'&amp;EntityType='LinearSchedule'&amp;EntityId='6d96cdc7-6df4-4cdf-bd15-690bed3f9ce5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="576059" start="20251220070000 +0000" stop="20251220111500 +0000">
-		<title>No programme streaming LIVE at this moment</title>
-		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10690587'&amp;EntityType='LinearSchedule'&amp;EntityId='6f3b5c5a-fd5c-4ae3-97f6-4e1ae0ca9cd9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20251220111500 +0000" stop="20251220120000 +0000">
 		<title>Summary of the Games - 33rd SEA Games Thailand 2025 Summary of the Games - 33rd SEA Games Thailand 2025</title>
@@ -1340,21 +1330,6 @@
 		<title>No programme available now. Next broadcast on 21st December, Sunday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 21st December, Sunday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10708630'&amp;EntityType='LinearSchedule'&amp;EntityId='0e50383e-4bd5-4270-abc3-e560ce952bf0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20251219123000 +0000" stop="20251219163000 +0000">
-		<title>ONE Friday Fights 137</title>
-		<desc>Get ready for a spectacular finale to 2025 from the world's largest martial arts organization. ONE Friday Fights 137 comes to Lumpinee Stadium in Bangkok on December 19 with one of the most stacked cards of the year! In the main event, the reigning ONE Featherweight Muay Thai World Champion, Tawanchai, returns to kickboxing to face "Spirit Dragon" Liu Mengyang, a man who has made his name on the global stage by beating big stars. Plus, expect action from a galaxy of stars – Sam-A versus Jaosuayai, Yod-IQ versus Elbrus Osmanov, Suablack versus Pakorn, Jo Nattawut versus Mohammad Siasarani, Zhang Peimian versus Thongpoon and much, much more.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10704451'&amp;EntityType='LinearSchedule'&amp;EntityId='3efdb1d6-ecc1-4436-a9c6-ff9669e6d332'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20251219163000 +0000" stop="20251220160000 +0000">
-		<title>No programme streaming LIVE at this moment</title>
-		<desc>There is currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10688654'&amp;EntityType='LinearSchedule'&amp;EntityId='7e887e1a-05f5-4bc6-9381-1a28d4bd00b7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20251220160000 +0000" stop="20251221160000 +0000">
-		<title>No programme streaming LIVE at this moment</title>
-		<desc>There is currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10708651'&amp;EntityType='LinearSchedule'&amp;EntityId='3796c635-4e8d-404a-bbf2-233c9ec573fb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98202" start="20251219160000 +0000" stop="20251220160000 +0000">
 		<title>No Programme available now. Next Broadcast on 24th December, Wednesday 3.50am. Carabao Cup 2025/26</title>
@@ -2235,6 +2210,251 @@
 		<title>Fight Stars - Joshua VS Klitschko - EP18</title>
 		<desc>In Fight Stars, find out about the world's best fighters, including heavyweight boxers Anthony Joshua and Wladimir Klitschko, as well as Ricky Hatton's big comeback and the greatest trash talker of all time, Muhammad Ali.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10710071'&amp;EntityType='LinearSchedule'&amp;EntityId='85e6d167-6e4a-481a-ae69-2112ff8a0072'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219160000 +0000" stop="20251219163000 +0000">
+		<title>Superhero Kindergarten - The Experiment - EP113</title>
+		<desc>Billy and Jackson get into a tricky situation when Nigel Danforth hatches a plan to get his evil superpowers back.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769667'&amp;EntityType='LinearSchedule'&amp;EntityId='c8ddf192-95f0-4d23-ac71-c193f518d763'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219163000 +0000" stop="20251219170000 +0000">
+		<title>Shaq's Garage - The Rescue - EP125</title>
+		<desc>The Orlanta Zoo needs help transferring some of their animals, but Gronk's carelessness causes problems.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690631'&amp;EntityType='LinearSchedule'&amp;EntityId='c7fa1992-35c3-4ddf-80f6-a78501faf720'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219170000 +0000" stop="20251219173000 +0000">
+		<title>Yu-Gi-Oh! Zexal - The Edge of the World - EP19</title>
+		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690751'&amp;EntityType='LinearSchedule'&amp;EntityId='ac1d83c0-cf2d-4cfa-912a-7ed25a19900a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219173000 +0000" stop="20251219180000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep6 - EP6</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690635'&amp;EntityType='LinearSchedule'&amp;EntityId='13602241-be60-4a8e-801a-567f88561626'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219180000 +0000" stop="20251219183500 +0000">
+		<title>Baby Einstein - Baby's Favorite Places: First Words Around Town</title>
+		<desc>As babies turn one year old, they continue to develop their communication skills. Meanwhile, with you as their guide, they also begin to explore the world beyond their front door. Baby's Favorite Places presents them with a playful introduction to 20 words for the names of familiar locations from the market, to the library, to the local park.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690973'&amp;EntityType='LinearSchedule'&amp;EntityId='d8fe1e92-436d-4b78-8df0-70ac9927002e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219183500 +0000" stop="20251219191000 +0000">
+		<title>Kids' Planet - Gratefulness - EP107</title>
+		<desc>In this episode, Nova will invite the children to a new expedition to the world of values. Together, they will learn about gratitude, the importance of giving "thanks" and appreciating what we have to always see the positive side of life. Curious will teach us about gifts such as love and friendship which are invisible but very valuable and we should be grateful to have them.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690683'&amp;EntityType='LinearSchedule'&amp;EntityId='af8a819c-15a3-46a6-88f0-55ae56412279'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219191000 +0000" stop="20251219195000 +0000">
+		<title>Mellodees - Pop Goes The Weasel - EP29</title>
+		<desc>Do you know “Pop Goes the Weasel”? Join me and my pals as we play a game!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690987'&amp;EntityType='LinearSchedule'&amp;EntityId='b1fa198f-51a8-45e8-a26a-54735e6abc54'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219195000 +0000" stop="20251219201500 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep19 - EP119</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690639'&amp;EntityType='LinearSchedule'&amp;EntityId='054901d4-08b8-4294-8c97-0222380189a1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219201500 +0000" stop="20251219203000 +0000">
+		<title>Giselle and the Green Team - The Case of the Stripmined Mountain - EP106</title>
+		<desc>Gisele and her Green Team fight Nick Slick from strip minning and destorying a beautiful mountain.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10691002'&amp;EntityType='LinearSchedule'&amp;EntityId='ed77bc1f-fdf5-4e56-a40b-8811535478b1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219203000 +0000" stop="20251219210000 +0000">
+		<title>Rainbow Rangers S1 - Monarch Migration / That Sinking Feeling - EP104</title>
+		<desc>The Rangers help a kaleidoscope of butterflies migrate to their new home in Mexico. / The Rangers try to save a mother horse from a sinkhole... but end up falling in themselves.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690760'&amp;EntityType='LinearSchedule'&amp;EntityId='8eb87d11-9c18-4c1e-9a3a-79c25fe018f6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219210000 +0000" stop="20251219213000 +0000">
+		<title>Thomas Edison's Secret Lab - Monster Smash / A Monster of a Mystery - EP108</title>
+		<desc>When JD and Kent's battle bot, Monster Smash, escapes from the lab, the Secret Lab Kids must navigate a maze to find it. / When JD and Kent believe that the dreaded Whomper is lurking outside the lab, Kent is terrified. JD hopes to become famous for discovering an unknown creature. The team must use science to determine if it's really a monster or if they can correctly classify it as some other animal.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769671'&amp;EntityType='LinearSchedule'&amp;EntityId='444b008e-aa91-498a-b833-9a2f3e282978'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219213000 +0000" stop="20251219220000 +0000">
+		<title>Secret Millionaires Club - Bing Things Come in Micro Packages - EP125</title>
+		<desc>The SMC must fight for Girl Empowerment when they're in Africa with Oprah Winfrey and aid a struggling all woman family banana business the banks won't give a loan to because there's no "man of the house" around.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769675'&amp;EntityType='LinearSchedule'&amp;EntityId='7dca5552-4b76-40b0-b3a5-477d1954ebaf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219220000 +0000" stop="20251219223000 +0000">
+		<title>Superhero Kindergarten - The Experiment - EP113</title>
+		<desc>Billy and Jackson get into a tricky situation when Nigel Danforth hatches a plan to get his evil superpowers back.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769679'&amp;EntityType='LinearSchedule'&amp;EntityId='fbc9d806-2f47-4243-9877-83db3562ba1f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219223000 +0000" stop="20251219230000 +0000">
+		<title>Shaq's Garage - The Rescue - EP125</title>
+		<desc>The Orlanta Zoo needs help transferring some of their animals, but Gronk's carelessness causes problems.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690851'&amp;EntityType='LinearSchedule'&amp;EntityId='2ffe5b4a-156b-4f62-9d3a-65c1723a849c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219230000 +0000" stop="20251219233000 +0000">
+		<title>Yu-Gi-Oh! Zexal - The Edge of the World - EP19</title>
+		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690866'&amp;EntityType='LinearSchedule'&amp;EntityId='be55d678-71c5-46c2-a7d8-a3c47e282bfc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251219233000 +0000" stop="20251220000000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep6 - EP6</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690643'&amp;EntityType='LinearSchedule'&amp;EntityId='f2997b4c-140e-40c0-ad4e-1055b92c270f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220000000 +0000" stop="20251220004000 +0000">
+		<title>Baby Einstein - Baby's Favorite Places: First Words Around Town</title>
+		<desc>As babies turn one year old, they continue to develop their communication skills. Meanwhile, with you as their guide, they also begin to explore the world beyond their front door. Baby's Favorite Places presents them with a playful introduction to 20 words for the names of familiar locations from the market, to the library, to the local park.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690675'&amp;EntityType='LinearSchedule'&amp;EntityId='95c34321-7310-45e4-acfa-ab18d18d4ed5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220004000 +0000" stop="20251220011000 +0000">
+		<title>Kids' Planet - Gratefulness - EP107</title>
+		<desc>In this episode, Nova will invite the children to a new expedition to the world of values. Together, they will learn about gratitude, the importance of giving "thanks" and appreciating what we have to always see the positive side of life. Curious will teach us about gifts such as love and friendship which are invisible but very valuable and we should be grateful to have them.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690679'&amp;EntityType='LinearSchedule'&amp;EntityId='934f4903-2ec4-4a7c-98c9-41088181d0a1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220011000 +0000" stop="20251220015000 +0000">
+		<title>Mellodees - Pop Goes The Weasel - EP29</title>
+		<desc>Do you know “Pop Goes the Weasel”? Join me and my pals as we play a game!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690647'&amp;EntityType='LinearSchedule'&amp;EntityId='1278f257-a428-4866-9e7e-d00d3651cb56'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220015000 +0000" stop="20251220021500 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep19 - EP119</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10691033'&amp;EntityType='LinearSchedule'&amp;EntityId='1c6ddbc5-eede-4781-a219-0953863682a5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220021500 +0000" stop="20251220023000 +0000">
+		<title>Giselle and the Green Team - The Case of the Stripmined Mountain - EP106</title>
+		<desc>Gisele and her Green Team fight Nick Slick from strip minning and destorying a beautiful mountain.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690739'&amp;EntityType='LinearSchedule'&amp;EntityId='10e95768-1e55-4e09-991f-1221c3cf800c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220023000 +0000" stop="20251220030000 +0000">
+		<title>Rainbow Rangers S1 - Monarch Migration / That Sinking Feeling - EP104</title>
+		<desc>The Rangers help a kaleidoscope of butterflies migrate to their new home in Mexico. / The Rangers try to save a mother horse from a sinkhole... but end up falling in themselves.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690882'&amp;EntityType='LinearSchedule'&amp;EntityId='80c13a85-a779-4e9b-a0e4-ac51c8d6eb28'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220030000 +0000" stop="20251220033500 +0000">
+		<title>Thomas Edison's Secret Lab - Monster Smash / A Monster of a Mystery - EP108</title>
+		<desc>When JD and Kent's battle bot, Monster Smash, escapes from the lab, the Secret Lab Kids must navigate a maze to find it. / When JD and Kent believe that the dreaded Whomper is lurking outside the lab, Kent is terrified. JD hopes to become famous for discovering an unknown creature. The team must use science to determine if it's really a monster or if they can correctly classify it as some other animal.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769683'&amp;EntityType='LinearSchedule'&amp;EntityId='a74ec292-dba6-46fd-a3c2-6f613f5347e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220033500 +0000" stop="20251220040000 +0000">
+		<title>Secret Millionaires Club - Bing Things Come in Micro Packages - EP125</title>
+		<desc>The SMC must fight for Girl Empowerment when they're in Africa with Oprah Winfrey and aid a struggling all woman family banana business the banks won't give a loan to because there's no "man of the house" around.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769687'&amp;EntityType='LinearSchedule'&amp;EntityId='6fa5d83a-69fa-4320-991f-eaf51238eae8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220040000 +0000" stop="20251220043000 +0000">
+		<title>Superhero Kindergarten - The Experiment - EP113</title>
+		<desc>Billy and Jackson get into a tricky situation when Nigel Danforth hatches a plan to get his evil superpowers back.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769691'&amp;EntityType='LinearSchedule'&amp;EntityId='5a257cd3-bc6b-4368-b4a4-5ed8a3d54f69'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220043000 +0000" stop="20251220050000 +0000">
+		<title>Shaq's Garage - The Rescue - EP125</title>
+		<desc>The Orlanta Zoo needs help transferring some of their animals, but Gronk's carelessness causes problems.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690897'&amp;EntityType='LinearSchedule'&amp;EntityId='7aacc8e2-91b2-4109-a5fe-c1a1454fd428'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220050000 +0000" stop="20251220053000 +0000">
+		<title>Yu-Gi-Oh! Zexal - The Edge of the World - EP19</title>
+		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690915'&amp;EntityType='LinearSchedule'&amp;EntityId='f7026650-ad70-4c77-86f5-9c8998034fae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220053000 +0000" stop="20251220060000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep6 - EP6</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690743'&amp;EntityType='LinearSchedule'&amp;EntityId='57f46952-dce8-44df-a3e4-f27b3f67c503'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220060000 +0000" stop="20251220063500 +0000">
+		<title>Baby Einstein - Baby's Favorite Places: First Words Around Town</title>
+		<desc>As babies turn one year old, they continue to develop their communication skills. Meanwhile, with you as their guide, they also begin to explore the world beyond their front door. Baby's Favorite Places presents them with a playful introduction to 20 words for the names of familiar locations from the market, to the library, to the local park.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690929'&amp;EntityType='LinearSchedule'&amp;EntityId='f1bd3e20-9909-41bd-b52a-52894d0d8463'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220063500 +0000" stop="20251220071000 +0000">
+		<title>Kids' Planet - Gratefulness - EP107</title>
+		<desc>In this episode, Nova will invite the children to a new expedition to the world of values. Together, they will learn about gratitude, the importance of giving "thanks" and appreciating what we have to always see the positive side of life. Curious will teach us about gifts such as love and friendship which are invisible but very valuable and we should be grateful to have them.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10691051'&amp;EntityType='LinearSchedule'&amp;EntityId='867f0691-0b11-4009-bdce-4ed3b3409ed8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220071000 +0000" stop="20251220075000 +0000">
+		<title>Mellodees - Pop Goes The Weasel - EP29</title>
+		<desc>Do you know “Pop Goes the Weasel”? Join me and my pals as we play a game!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10691066'&amp;EntityType='LinearSchedule'&amp;EntityId='bb028859-7ec5-4b86-a3e8-06bc8a16c5c0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220075000 +0000" stop="20251220081500 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep19 - EP119</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690769'&amp;EntityType='LinearSchedule'&amp;EntityId='02e9d415-ecfc-467a-810f-b067399eb75a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220081500 +0000" stop="20251220083000 +0000">
+		<title>Giselle and the Green Team - The Case of the Stripmined Mountain - EP106</title>
+		<desc>Gisele and her Green Team fight Nick Slick from strip minning and destorying a beautiful mountain.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690778'&amp;EntityType='LinearSchedule'&amp;EntityId='d4a8f870-2d31-4fc8-b505-ecf8e1de9219'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220083000 +0000" stop="20251220090000 +0000">
+		<title>Rainbow Rangers S1 - Monarch Migration / That Sinking Feeling - EP104</title>
+		<desc>The Rangers help a kaleidoscope of butterflies migrate to their new home in Mexico. / The Rangers try to save a mother horse from a sinkhole... but end up falling in themselves.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690791'&amp;EntityType='LinearSchedule'&amp;EntityId='c30254d8-99be-4da1-9a1b-5cef16247fc5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220090000 +0000" stop="20251220093000 +0000">
+		<title>Thomas Edison's Secret Lab - Monster Smash / A Monster of a Mystery - EP108</title>
+		<desc>When JD and Kent's battle bot, Monster Smash, escapes from the lab, the Secret Lab Kids must navigate a maze to find it. / When JD and Kent believe that the dreaded Whomper is lurking outside the lab, Kent is terrified. JD hopes to become famous for discovering an unknown creature. The team must use science to determine if it's really a monster or if they can correctly classify it as some other animal.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769695'&amp;EntityType='LinearSchedule'&amp;EntityId='32528cc5-37d8-4f42-bcbd-29797acbc35f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220093000 +0000" stop="20251220100000 +0000">
+		<title>Secret Millionaires Club - Bing Things Come in Micro Packages - EP125</title>
+		<desc>The SMC must fight for Girl Empowerment when they're in Africa with Oprah Winfrey and aid a struggling all woman family banana business the banks won't give a loan to because there's no "man of the house" around.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769699'&amp;EntityType='LinearSchedule'&amp;EntityId='25979b4c-c7c6-43cf-8c4a-08c7b8c85c58'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220100000 +0000" stop="20251220103000 +0000">
+		<title>Superhero Kindergarten - Castaways - EP114</title>
+		<desc>Stranded! The Super K’s accidentally took off in a hot air balloon without Mr. Arnold and crashed onto a deserted island. If they want to make it out of there, they have to band together to find food, water, shelter, and — hey, what are those mysterious footprints?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769703'&amp;EntityType='LinearSchedule'&amp;EntityId='47d69466-eafd-41ca-bb3f-0f1084151eb2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220103000 +0000" stop="20251220110000 +0000">
+		<title>Shaq's Garage - Shaq's Secret Birthday - EP126</title>
+		<desc>Nothing goes right when planning for Shaq's secret birthday surprise.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690715'&amp;EntityType='LinearSchedule'&amp;EntityId='8c9212de-5da6-4ee4-9dcd-1e87e5ca2dc3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220110000 +0000" stop="20251220113000 +0000">
+		<title>Yu-Gi-Oh! Zexal - Roots of the Problem - EP20</title>
+		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690809'&amp;EntityType='LinearSchedule'&amp;EntityId='24f14b90-6121-416e-88bc-83afbaae60b0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220113000 +0000" stop="20251220120000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep3 - EP103</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10690719'&amp;EntityType='LinearSchedule'&amp;EntityId='1a91cba9-9210-43ec-afcb-cd46645803bc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220120000 +0000" stop="20251220123500 +0000">
+		<title>Baby Einstein - Baby's First Moves: Get Up and Go</title>
+		<desc>Within the first year of babies' lives, their physical development begins to kick into high gear as they explore ways to physically interact with the world around them. BABY'S FIRST MOVES is a joyful celebration of their movement milestones -- including first steps, clapping, jumping, dancing and more.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690659'&amp;EntityType='LinearSchedule'&amp;EntityId='7f2d3108-dada-4d67-abff-9fdf8e5b7888'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220123500 +0000" stop="20251220131000 +0000">
+		<title>Kids' Planet - Peace and Harmony - EP108</title>
+		<desc>In this episode of Kids' Planet, we will make a trip to discover what two important words mean: "Peace" and "Harmony". Our friend Curious who knows everything will guide us through the universe of values, teaching us a very important quality in "Kindness", and we will learn to reject violence, manage anger, make good decisions, and have self-control.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690943'&amp;EntityType='LinearSchedule'&amp;EntityId='379f5c83-5774-4c08-8077-b010f2c69332'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220131000 +0000" stop="20251220134500 +0000">
+		<title>Mellodees - Jingle Bells - EP18</title>
+		<desc>Is that Santa Claus I see? Come join the fun and help Santa deliver presents!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690663'&amp;EntityType='LinearSchedule'&amp;EntityId='707c615a-d7ce-4309-8789-db185024b087'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220134500 +0000" stop="20251220141000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep20 - EP120</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690667'&amp;EntityType='LinearSchedule'&amp;EntityId='0c5da118-16c1-4a28-9b82-96a201e09b81'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220141000 +0000" stop="20251220143000 +0000">
+		<title>Giselle and the Green Team - The Case of the Missing Marsh - EP107</title>
+		<desc>Gisele and her Green Team fight Nick Slick from draining and destroying a marsh to build a palm oil plantation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690723'&amp;EntityType='LinearSchedule'&amp;EntityId='853430e3-dcd9-49e3-bc47-320e9705418b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220143000 +0000" stop="20251220150000 +0000">
+		<title>Rainbow Rangers S1 - Rabbit Roundup / Uninvited Guest - EP105</title>
+		<desc>The Rangers have to help remove invasive rabbits from a farm in Australia. / The Rangers have to help an Alligator who has lost its home environment.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10690732'&amp;EntityType='LinearSchedule'&amp;EntityId='06ba9d1a-0826-4739-b119-25265fe76eb3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220150000 +0000" stop="20251220153000 +0000">
+		<title>Thomas Edison's Secret Lab - Slime Time / It’s Always Sharkest - EP109</title>
+		<desc>When JD uses Angie’s ‘oil slick dissolver’ formula for a slime fight, a wrong ingredient creates a gelatinous Blob monster that threatens to devour the city. / While visiting one of Kent’s relatives, the kids come up with a great idea for attracting more tourists to his restaurant - the only catch is that it also attracts a very big shark with very big teeth!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769707'&amp;EntityType='LinearSchedule'&amp;EntityId='9ebd06c0-a394-4531-905f-94a846731d23'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220153000 +0000" stop="20251220160000 +0000">
+		<title>Secret Millionaires Club - Camp Big Foot - EP126</title>
+		<desc>At Camp Big Foot, the SMC Kids and TWIN COUNSELORS search for BIG FOOT to raise money for the camp, only to get trapped on an island with two counselors that won't stop squabbling and what about Big Foot?!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769711'&amp;EntityType='LinearSchedule'&amp;EntityId='f1082a65-dd79-477a-907d-882c5ba21c61'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220160000 +0000" stop="20251220163000 +0000">
+		<title>Superhero Kindergarten - Castaways - EP114</title>
+		<desc>Stranded! The Super K’s accidentally took off in a hot air balloon without Mr. Arnold and crashed onto a deserted island. If they want to make it out of there, they have to band together to find food, water, shelter, and — hey, what are those mysterious footprints?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769715'&amp;EntityType='LinearSchedule'&amp;EntityId='e7471e9e-2fbd-42a7-8b56-73046940b4fe'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20251220161000 +0000" stop="20251220163000 +0000">
 		<title>Just For Laughs Gags S24 - EP 6</title>
@@ -3401,11 +3621,6 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 22nd December, Monday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10724286'&amp;EntityType='LinearSchedule'&amp;EntityId='214766ff-6840-409d-8c08-a2efd36198ce'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20251221160000 +0000" stop="20251222160000 +0000">
-		<title>No programme streaming LIVE at this moment</title>
-		<desc>There is currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10724304'&amp;EntityType='LinearSchedule'&amp;EntityId='76e03763-89a0-432f-8ee0-cf008d66f37a'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="98202" start="20251221160000 +0000" stop="20251222160000 +0000">
 		<title>No Programme available now. Next Broadcast on 24th December, Wednesday 3.50am. Carabao Cup 2025/26</title>
 		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26: Arsenal vs Crystal Palace on 24th December, Wednesday 3.50am. Please stay tuned!</desc>
@@ -3818,42 +4033,42 @@
 	</programme>
 	<programme channel="557763" start="20251220163726 +0000" stop="20251220181447 +0000">
 		<title>Germany v USA | Semi-finals | FIFA Women's World Cup China PR 1991™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany and USA played at Guangdong Provincial Stadium, Guangzhou.</desc>
+		<desc>Watch the full match replay between Germany and USA played at Guangdong Provincial Stadium, Guangzhou on Wednesday, 27 November 1991 at 19:45.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776304'&amp;EntityType='LinearSchedule'&amp;EntityId='b1d8fb27-c1d1-4c78-9bdf-1c4eb283bca9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251220181447 +0000" stop="20251220194642 +0000">
 		<title>Spain v Italy | Final | FIFA Futsal World Championship Chinese Taipei 2004™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Spain and Italy played in Futsal World Championship Chinese Taipei 2004™.</desc>
+		<desc>Watch the full match replay between Spain and Italy played in FIFA Futsal World Championship Chinese Taipei 2004™.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776316'&amp;EntityType='LinearSchedule'&amp;EntityId='6c8f34df-7f8f-4449-8484-e82cbfed017b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251220194642 +0000" stop="20251220200354 +0000">
 		<title>Joy: Marco Tardelli | Eyes of the World</title>
-		<desc>A final, a goal, and "a shout I've waited my whole life to make."</desc>
+		<desc>As the 2026 World Cup draws closer and the growth of Major League Soccer continues, an array of unique supporter cultures have evolved in the United States, redefining experiences for the country’s football fans.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776320'&amp;EntityType='LinearSchedule'&amp;EntityId='193f548b-f445-4f0d-8687-9c72f7d5d575'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251220200354 +0000" stop="20251220215556 +0000">
 		<title>Goal! | The Official Film of the 1966 FIFA World Cup™</title>
-		<desc>Enjoy a unique view of England’s 1966 triumph with its stars and thrilling FIFA World Cup moments.</desc>
+		<desc>Enjoy a unique perspective on England’s 1966 triumph by getting up close to its stars and enjoying atmospheric footage of some thrilling FIFA World Cup™ action.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776280'&amp;EntityType='LinearSchedule'&amp;EntityId='0805089b-3808-4222-bdbb-98bb1b9204d3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251220215556 +0000" stop="20251220222128 +0000">
 		<title>Hwang Hee-Chan | Life in GB</title>
-		<desc>Hwang Hee-Chan for a day, as he learns to adjust to a new life in Wolverhampton, England.</desc>
+		<desc>In this intimate film, we go behind the scenes with South Korean international Hwang Hee-Chan for a day, as he learns to adjust to a new life in Wolverhampton, England.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776296'&amp;EntityType='LinearSchedule'&amp;EntityId='2e86c9d6-85bf-4207-a087-7fa1eb044bcd'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251220222128 +0000" stop="20251221001440 +0000">
 		<title>Argentina v Croatia | Group D | 2018 FIFA World Cup Russia™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Argentina and Croatia played at Nizhny Novgorod Stadium.</desc>
+		<desc>Watch the full match replay from the match between Argentina and Croatia played at Nizhny Novgorod Stadium, Nizhny Novgorod on Thursday, 21 June 2018.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776336'&amp;EntityType='LinearSchedule'&amp;EntityId='49fb3128-1251-4aaa-895a-2fd62461b29e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251221001440 +0000" stop="20251221021155 +0000">
 		<title>Argentina v Croatia | Semi-finals | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and Croatia played at Lusail Stadium, Al Daayen.</desc>
+		<desc>Watch the full match replay between Argentina and Croatia played at Lusail Stadium, Al Daayen on Tuesday, 13 December 2022 at 22:00.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776300'&amp;EntityType='LinearSchedule'&amp;EntityId='81db2480-0f19-44fd-9b82-82a6ce34a9f4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251221021155 +0000" stop="20251221040116 +0000">
 		<title>USA v Germany | Quarter-finals | FIFA Women's World Cup USA 1999™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Germany played on 1 July 1999 in Washington.</desc>
+		<desc>Watch the full match replay between USA and Germany played at Jack Kent Cooke Stadium, Washington on Thursday, 01 July 1999 at 19:00.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776340'&amp;EntityType='LinearSchedule'&amp;EntityId='137a9e60-2574-47e3-99ac-e7cd14b686d2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251221040116 +0000" stop="20251221043033 +0000">
@@ -3863,7 +4078,7 @@
 	</programme>
 	<programme channel="557763" start="20251221043033 +0000" stop="20251221070731 +0000">
 		<title>USA v Australia | Semi-finals | FIFA U-17 World Championship New Zealand 1999™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Australia played at QE II Stadium, Christchurch.</desc>
+		<desc>Watch the full match replay between USA and Australia played at QE II Stadium, Christchurch on Wednesday, 24 November 1999 at 16:00 (local time).</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776284'&amp;EntityType='LinearSchedule'&amp;EntityId='a9e904ec-5622-4ec8-a816-95b055168ada'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251221070731 +0000" stop="20251221092006 +0000">
@@ -3873,7 +4088,7 @@
 	</programme>
 	<programme channel="557763" start="20251221092006 +0000" stop="20251221093904 +0000">
 		<title>Misfit: Luis Suárez | Eyes of the World</title>
-		<desc>When Ghana and Uruguay met in the quarter,final of the 2010 FIFA World Cup in South Africa</desc>
+		<desc>Red cards, penalties and one of the most infamous handball in World Cup history. The 2010 match between Ghana and Uruguay was one for the ages.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776312'&amp;EntityType='LinearSchedule'&amp;EntityId='3b75503e-15fa-4fef-8ddc-4fa0c241ebb4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251221093904 +0000" stop="20251221102025 +0000">
@@ -3893,17 +4108,17 @@
 	</programme>
 	<programme channel="557763" start="20251221111401 +0000" stop="20251221134912 +0000">
 		<title>Argentina v England | Round of 16 | 1998 FIFA World Cup France™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and England played at Stade Geoffroy Guichard, Saint-Etienne.</desc>
+		<desc>Watch the full match replay from the match between Argentina and England played at Stade Geoffroy Guichard, Saint-Etienne on Tuesday, 30 June 1998.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776328'&amp;EntityType='LinearSchedule'&amp;EntityId='e6863965-3a31-484b-b551-45cb532c0019'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251221134912 +0000" stop="20251221142635 +0000">
 		<title>Voices II</title>
-		<desc>More unfiltered stories of football journeys at the FIFA World Cup™, told by those who lived them.</desc>
+		<desc>More unfiltered stories of football journeys at the FIFA World Cup™, told by those who lived them. Their words, their emotions, their legacy.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776292'&amp;EntityType='LinearSchedule'&amp;EntityId='96a2a993-5a10-469a-99b2-962d7b28bf81'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251221142635 +0000" stop="20251221144653 +0000">
 		<title>Falcão | Voices</title>
-		<desc>The king of futsal relives his epic FIFA Futsal World Cup journey with intimate reflections.</desc>
+		<desc>The King of Futsal recounts his epic FIFA Futsal World Cup saga with deeply personal reflections.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776348'&amp;EntityType='LinearSchedule'&amp;EntityId='1a443b43-35b0-4a71-9721-d7fafdb76ae0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20251221144653 +0000" stop="20251221150435 +0000">
@@ -3918,7 +4133,7 @@
 	</programme>
 	<programme channel="557763" start="20251221153144 +0000" stop="20251221172105 +0000">
 		<title>USA v Germany | Quarter-finals | FIFA Women's World Cup USA 1999™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Germany played on 1 July 1999 in Washington.</desc>
+		<desc>Watch the full match replay between USA and Germany played at Jack Kent Cooke Stadium, Washington on Thursday, 01 July 1999 at 19:00.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10776308'&amp;EntityType='LinearSchedule'&amp;EntityId='50b6bce6-be08-4e9c-b3e9-25393281289d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20251220161500 +0000" stop="20251220171500 +0000">
@@ -4265,5 +4480,245 @@
 		<title>Fight Stars - Amir Khan - EP22</title>
 		<desc>They're big, they're audacious, they're the stars of combat - the best fighters in the ring as well as in their personal lives.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10725814'&amp;EntityType='LinearSchedule'&amp;EntityId='1f67218e-9380-4d9b-af57-6cf3c3c2661d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220163000 +0000" stop="20251220170000 +0000">
+		<title>Shaq's Garage - Shaq's Secret Birthday - EP126</title>
+		<desc>Nothing goes right when planning for Shaq's secret birthday surprise.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710287'&amp;EntityType='LinearSchedule'&amp;EntityId='82aa0d37-59f9-458b-904c-9d205891bd6d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220170000 +0000" stop="20251220173000 +0000">
+		<title>Yu-Gi-Oh! Zexal - Roots of the Problem - EP20</title>
+		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710471'&amp;EntityType='LinearSchedule'&amp;EntityId='dcb6bd5c-931a-4504-88ed-4c794adfb17d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220173000 +0000" stop="20251220180000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep3 - EP103</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10710479'&amp;EntityType='LinearSchedule'&amp;EntityId='9ec902af-da77-4602-bbb3-25e32de3c520'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220180000 +0000" stop="20251220183500 +0000">
+		<title>Baby Einstein - Baby's First Moves: Get Up and Go</title>
+		<desc>Within the first year of babies' lives, their physical development begins to kick into high gear as they explore ways to physically interact with the world around them. BABY'S FIRST MOVES is a joyful celebration of their movement milestones -- including first steps, clapping, jumping, dancing and more.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710593'&amp;EntityType='LinearSchedule'&amp;EntityId='121499dd-d95a-456f-8958-c18a05a97752'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220183500 +0000" stop="20251220191000 +0000">
+		<title>Kids' Planet - Peace and Harmony - EP108</title>
+		<desc>In this episode of Kids' Planet, we will make a trip to discover what two important words mean: "Peace" and "Harmony". Our friend Curious who knows everything will guide us through the universe of values, teaching us a very important quality in "Kindness", and we will learn to reject violence, manage anger, make good decisions, and have self-control.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710386'&amp;EntityType='LinearSchedule'&amp;EntityId='eebb1623-adae-4b97-8864-5a0357104fae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220191000 +0000" stop="20251220194500 +0000">
+		<title>Mellodees - Jingle Bells - EP18</title>
+		<desc>Is that Santa Claus I see? Come join the fun and help Santa deliver presents!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710488'&amp;EntityType='LinearSchedule'&amp;EntityId='1b3282a9-1280-45e4-ac7e-973a8bb3cbcd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220194500 +0000" stop="20251220201000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep20 - EP120</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710395'&amp;EntityType='LinearSchedule'&amp;EntityId='792487a7-dc8c-4f0b-a1a2-a96114c09763'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220201000 +0000" stop="20251220203000 +0000">
+		<title>Giselle and the Green Team - The Case of the Missing Marsh - EP107</title>
+		<desc>Gisele and her Green Team fight Nick Slick from draining and destroying a marsh to build a palm oil plantation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710339'&amp;EntityType='LinearSchedule'&amp;EntityId='edd54874-3481-425f-9f2a-67d4c0377d44'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220203000 +0000" stop="20251220210000 +0000">
+		<title>Rainbow Rangers S1 - Rabbit Roundup / Uninvited Guest - EP105</title>
+		<desc>The Rangers have to help remove invasive rabbits from a farm in Australia. / The Rangers have to help an Alligator who has lost its home environment.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710405'&amp;EntityType='LinearSchedule'&amp;EntityId='b153f4fa-9270-438e-b7ff-58ce7a511634'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220210000 +0000" stop="20251220213000 +0000">
+		<title>Thomas Edison's Secret Lab - Slime Time / It’s Always Sharkest - EP109</title>
+		<desc>When JD uses Angie’s ‘oil slick dissolver’ formula for a slime fight, a wrong ingredient creates a gelatinous Blob monster that threatens to devour the city. / While visiting one of Kent’s relatives, the kids come up with a great idea for attracting more tourists to his restaurant - the only catch is that it also attracts a very big shark with very big teeth!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769719'&amp;EntityType='LinearSchedule'&amp;EntityId='bf113a39-4c55-4414-86f0-2d1bf8f1417e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220213000 +0000" stop="20251220220000 +0000">
+		<title>Secret Millionaires Club - Camp Big Foot - EP126</title>
+		<desc>At Camp Big Foot, the SMC Kids and TWIN COUNSELORS search for BIG FOOT to raise money for the camp, only to get trapped on an island with two counselors that won't stop squabbling and what about Big Foot?!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769723'&amp;EntityType='LinearSchedule'&amp;EntityId='f2729bc4-f52a-472e-946b-4ce636e735a4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220220000 +0000" stop="20251220223000 +0000">
+		<title>Superhero Kindergarten - Castaways - EP114</title>
+		<desc>Stranded! The Super K’s accidentally took off in a hot air balloon without Mr. Arnold and crashed onto a deserted island. If they want to make it out of there, they have to band together to find food, water, shelter, and — hey, what are those mysterious footprints?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769727'&amp;EntityType='LinearSchedule'&amp;EntityId='3b2070da-eaa1-4a90-83b9-03aabc24a316'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220223000 +0000" stop="20251220230000 +0000">
+		<title>Shaq's Garage - Shaq's Secret Birthday - EP126</title>
+		<desc>Nothing goes right when planning for Shaq's secret birthday surprise.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710295'&amp;EntityType='LinearSchedule'&amp;EntityId='06b841eb-4542-4772-9b9c-8bddc83ea0a8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220230000 +0000" stop="20251220233000 +0000">
+		<title>Yu-Gi-Oh! Zexal - Roots of the Problem - EP20</title>
+		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710299'&amp;EntityType='LinearSchedule'&amp;EntityId='5b2f9edf-903c-4526-a801-c94b15b80816'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251220233000 +0000" stop="20251221000000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep3 - EP103</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10710603'&amp;EntityType='LinearSchedule'&amp;EntityId='0e4e7d77-c886-4575-8acc-ad4c01326989'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221000000 +0000" stop="20251221003500 +0000">
+		<title>Baby Einstein - Baby's First Moves: Get Up and Go</title>
+		<desc>Within the first year of babies' lives, their physical development begins to kick into high gear as they explore ways to physically interact with the world around them. BABY'S FIRST MOVES is a joyful celebration of their movement milestones -- including first steps, clapping, jumping, dancing and more.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710614'&amp;EntityType='LinearSchedule'&amp;EntityId='bd82050e-59c5-4871-b8f7-cdef5c7dd00c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221003500 +0000" stop="20251221011000 +0000">
+		<title>Kids' Planet - Peace and Harmony - EP108</title>
+		<desc>In this episode of Kids' Planet, we will make a trip to discover what two important words mean: "Peace" and "Harmony". Our friend Curious who knows everything will guide us through the universe of values, teaching us a very important quality in "Kindness", and we will learn to reject violence, manage anger, make good decisions, and have self-control.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710303'&amp;EntityType='LinearSchedule'&amp;EntityId='62710395-2648-48e1-ac27-4396dbe0751d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221011000 +0000" stop="20251221015000 +0000">
+		<title>Mellodees - Jingle Bells - EP18</title>
+		<desc>Is that Santa Claus I see? Come join the fun and help Santa deliver presents!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710496'&amp;EntityType='LinearSchedule'&amp;EntityId='09d7f6b0-6fe1-4cc1-808d-3c2a0e169868'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221015000 +0000" stop="20251221021000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep20 - EP120</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710331'&amp;EntityType='LinearSchedule'&amp;EntityId='0b6f738c-4ae9-459c-a987-5ba28fb9c737'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221021000 +0000" stop="20251221023000 +0000">
+		<title>Giselle and the Green Team - The Case of the Missing Marsh - EP107</title>
+		<desc>Gisele and her Green Team fight Nick Slick from draining and destroying a marsh to build a palm oil plantation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710343'&amp;EntityType='LinearSchedule'&amp;EntityId='20398aa8-2c71-4649-84fa-62ea0adf11b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221023000 +0000" stop="20251221030000 +0000">
+		<title>Rainbow Rangers S1 - Rabbit Roundup / Uninvited Guest - EP105</title>
+		<desc>The Rangers have to help remove invasive rabbits from a farm in Australia. / The Rangers have to help an Alligator who has lost its home environment.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710507'&amp;EntityType='LinearSchedule'&amp;EntityId='8b57a153-3738-4d90-9404-63963493b3dc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221030000 +0000" stop="20251221033500 +0000">
+		<title>Thomas Edison's Secret Lab - Slime Time / It’s Always Sharkest - EP109</title>
+		<desc>When JD uses Angie’s ‘oil slick dissolver’ formula for a slime fight, a wrong ingredient creates a gelatinous Blob monster that threatens to devour the city. / While visiting one of Kent’s relatives, the kids come up with a great idea for attracting more tourists to his restaurant - the only catch is that it also attracts a very big shark with very big teeth!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769731'&amp;EntityType='LinearSchedule'&amp;EntityId='a4d88f04-e85b-4dec-834e-152a96e41f03'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221033500 +0000" stop="20251221040000 +0000">
+		<title>Secret Millionaires Club - Camp Big Foot - EP126</title>
+		<desc>At Camp Big Foot, the SMC Kids and TWIN COUNSELORS search for BIG FOOT to raise money for the camp, only to get trapped on an island with two counselors that won't stop squabbling and what about Big Foot?!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769735'&amp;EntityType='LinearSchedule'&amp;EntityId='1def278f-df1e-4e07-9e32-592099a817db'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221040000 +0000" stop="20251221043000 +0000">
+		<title>Superhero Kindergarten - Castaways - EP114</title>
+		<desc>Stranded! The Super K’s accidentally took off in a hot air balloon without Mr. Arnold and crashed onto a deserted island. If they want to make it out of there, they have to band together to find food, water, shelter, and — hey, what are those mysterious footprints?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769739'&amp;EntityType='LinearSchedule'&amp;EntityId='64c83b69-38e6-4175-aa78-18489f035796'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221043000 +0000" stop="20251221050000 +0000">
+		<title>Shaq's Garage - Shaq's Secret Birthday - EP126</title>
+		<desc>Nothing goes right when planning for Shaq's secret birthday surprise.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710527'&amp;EntityType='LinearSchedule'&amp;EntityId='2263f48f-545a-40f0-a2a8-387618671656'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221050000 +0000" stop="20251221053000 +0000">
+		<title>Yu-Gi-Oh! Zexal - Roots of the Problem - EP20</title>
+		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710351'&amp;EntityType='LinearSchedule'&amp;EntityId='d1c76078-7d43-4890-b5d1-0a3b3001c665'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221053000 +0000" stop="20251221060000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep3 - EP103</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10710371'&amp;EntityType='LinearSchedule'&amp;EntityId='5dbc6286-3e6e-41f4-bf19-07a42afaeef0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221060000 +0000" stop="20251221063500 +0000">
+		<title>Baby Einstein - Baby's First Moves: Get Up and Go</title>
+		<desc>Within the first year of babies' lives, their physical development begins to kick into high gear as they explore ways to physically interact with the world around them. BABY'S FIRST MOVES is a joyful celebration of their movement milestones -- including first steps, clapping, jumping, dancing and more.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710355'&amp;EntityType='LinearSchedule'&amp;EntityId='f33075d6-7dec-49e9-af9f-bda95e9f2181'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221063500 +0000" stop="20251221071000 +0000">
+		<title>Kids' Planet - Peace and Harmony - EP108</title>
+		<desc>In this episode of Kids' Planet, we will make a trip to discover what two important words mean: "Peace" and "Harmony". Our friend Curious who knows everything will guide us through the universe of values, teaching us a very important quality in "Kindness", and we will learn to reject violence, manage anger, make good decisions, and have self-control.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710359'&amp;EntityType='LinearSchedule'&amp;EntityId='1b866ebe-aaa6-433a-9605-41dad09d9b37'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221071000 +0000" stop="20251221075000 +0000">
+		<title>Mellodees - Jingle Bells - EP18</title>
+		<desc>Is that Santa Claus I see? Come join the fun and help Santa deliver presents!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710363'&amp;EntityType='LinearSchedule'&amp;EntityId='a6bdc2fc-a3aa-49fe-96fc-cfd48d9604b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221075000 +0000" stop="20251221081000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep20 - EP120</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710625'&amp;EntityType='LinearSchedule'&amp;EntityId='a83972ac-f6d7-4949-b6a1-cddf140222a0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221081000 +0000" stop="20251221083000 +0000">
+		<title>Giselle and the Green Team - The Case of the Missing Marsh - EP107</title>
+		<desc>Gisele and her Green Team fight Nick Slick from draining and destroying a marsh to build a palm oil plantation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710425'&amp;EntityType='LinearSchedule'&amp;EntityId='28ad6306-eb3e-4bf4-afcd-308f8e6be8f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221083000 +0000" stop="20251221085500 +0000">
+		<title>Rainbow Rangers S1 - Rabbit Roundup / Uninvited Guest - EP105</title>
+		<desc>The Rangers have to help remove invasive rabbits from a farm in Australia. / The Rangers have to help an Alligator who has lost its home environment.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710451'&amp;EntityType='LinearSchedule'&amp;EntityId='9a625037-0863-4aa6-8c1c-09ffb4337e17'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221085500 +0000" stop="20251221093000 +0000">
+		<title>Thomas Edison's Secret Lab - Slime Time / It’s Always Sharkest - EP109</title>
+		<desc>When JD uses Angie’s ‘oil slick dissolver’ formula for a slime fight, a wrong ingredient creates a gelatinous Blob monster that threatens to devour the city. / While visiting one of Kent’s relatives, the kids come up with a great idea for attracting more tourists to his restaurant - the only catch is that it also attracts a very big shark with very big teeth!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769743'&amp;EntityType='LinearSchedule'&amp;EntityId='3591b870-8fde-4b4e-97ef-75ca8f5712fc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221093000 +0000" stop="20251221100000 +0000">
+		<title>Secret Millionaires Club - Camp Big Foot - EP126</title>
+		<desc>At Camp Big Foot, the SMC Kids and TWIN COUNSELORS search for BIG FOOT to raise money for the camp, only to get trapped on an island with two counselors that won't stop squabbling and what about Big Foot?!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769747'&amp;EntityType='LinearSchedule'&amp;EntityId='6b303003-9e36-4a82-b2dd-34f83507af24'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221100000 +0000" stop="20251221103000 +0000">
+		<title>Superhero Kindergarten - The Magic Ring - EP115</title>
+		<desc>A trip to meet Mr. Arnold's friends Penn and Teller leads to a magical mystery that only the Super K's can solve: what happened to Houdini's Ring?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769751'&amp;EntityType='LinearSchedule'&amp;EntityId='742e9fc8-6927-4472-a5be-fe79a78c2f44'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221103000 +0000" stop="20251221110000 +0000">
+		<title>Shaq's Garage - Pilot - EP101</title>
+		<desc>When a mother loses control of her baby stroller, the Shaq Paq works together to return her baby safe and sound.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710319'&amp;EntityType='LinearSchedule'&amp;EntityId='a2e5f60a-cf1a-4629-9459-c9c214f65e2a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221110000 +0000" stop="20251221113000 +0000">
+		<title>Yu-Gi-Oh! Zexal - Battle with the Bot - EP21</title>
+		<desc>The story takes place in the distant future and focuses on a boy named Yuma Tsukumo, the number one bad boy at his school. Something unexpected happens when Ryoga challenges him to a Duel as the mysterious ghost of Astral appears before them, a new legend begins.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710463'&amp;EntityType='LinearSchedule'&amp;EntityId='1518fa0d-395a-4617-accb-e46574fcf41f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221113000 +0000" stop="20251221120000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep4 - EP104</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10710543'&amp;EntityType='LinearSchedule'&amp;EntityId='9d1c18d8-c6f0-49d4-8b81-ed866eaca90e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221120000 +0000" stop="20251221123500 +0000">
+		<title>Baby Einstein - Baby's First Sounds: Discoveries for Little Ears</title>
+		<desc>Perhaps the sweetest sounds you'll ever hear are the babbles and coos that one day become ma-ma, da-da and I love you. Besides being music to your ears, these baby steps of language change everything as your little one discovers an exciting, powerful new way of relating to the world! Baby's First Sounds invites both of you to share these memorable moments: those precious ''firsts'' that come around once in your baby's lifetime.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710434'&amp;EntityType='LinearSchedule'&amp;EntityId='7d143dc6-6a6a-4a1a-9041-816e822db636'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221123500 +0000" stop="20251221130500 +0000">
+		<title>Kids' Planet - Habits - EP109</title>
+		<desc>In this episode, we will discover that habits are the result of repeating good action until it becomes part of our routine. All of our activities are very important! That's why you should give a very special place for rest, for having fun, and for sharing with your friends and family. We will also learn about the importance of punctuality!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710323'&amp;EntityType='LinearSchedule'&amp;EntityId='1a29f38a-9171-4cd2-8858-e6bc98669711'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221130500 +0000" stop="20251221134500 +0000">
+		<title>Mellodees - Deck The Halls - EP19</title>
+		<desc>It’s that time of year again! Grab some hot chocolate and your best dancing shoes to help Dee decorate the house!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710535'&amp;EntityType='LinearSchedule'&amp;EntityId='cc4cd407-120a-4ce6-8a10-ed6b56c18486'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221134500 +0000" stop="20251221140500 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep21 - EP121</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710443'&amp;EntityType='LinearSchedule'&amp;EntityId='55a0e7f8-06f0-4999-beb0-a10d49098b7e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221140500 +0000" stop="20251221143000 +0000">
+		<title>Giselle and the Green Team - The Case of the Leopard Elixir - EP108</title>
+		<desc>Nick slick and a bunch of poachers are out hunting leopards in Africa. Now it's time for Gisele and the Green Team to stop them.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710553'&amp;EntityType='LinearSchedule'&amp;EntityId='33798587-0c24-4e3c-a1ae-1bd5562aab46'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221143000 +0000" stop="20251221150000 +0000">
+		<title>Rainbow Rangers S1 - Sludge Stream / The Tsunami - EP106</title>
+		<desc>The Rangers have to stop a factory owner from polluting a local stream. / The Rangers have to save Preston and Patty from a tsunami.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10710569'&amp;EntityType='LinearSchedule'&amp;EntityId='82e543f7-8196-43e7-946e-c1c9e3a57225'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221150000 +0000" stop="20251221153000 +0000">
+		<title>Thomas Edison's Secret Lab - Zero Chemistry / Von Dropout - EP110</title>
+		<desc>When the kids catch Von Bolts "crying," they build a robot girlfriend to keep him company, but the robot is too advanced and the kids have to play cupid if they're going to get them together. / Von Bolt, feeling underappreciated and overused, quits the team to find himself and a lot of trouble.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769755'&amp;EntityType='LinearSchedule'&amp;EntityId='8b1777ff-7c3b-444b-ab68-23b8e28c57fe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221153000 +0000" stop="20251221160000 +0000">
+		<title>Secret Millionaires Club - Be Cool To Your School - EP101</title>
+		<desc>When the kids suffer a series of setbacks to their goal of raising money for a school field trip, Warren shows them that in business, and in life, there are no failures. He encourages the kids not to just learn from their mistakes, but to embrace them. Each misstep is an opportunity to eliminate what didn’t work, and focus on what did, until the best path ahead is uncovered.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769759'&amp;EntityType='LinearSchedule'&amp;EntityId='a1968f57-45bd-44b4-88f9-dcf2ffcefe38'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20251221160000 +0000" stop="20251221163000 +0000">
+		<title>Superhero Kindergarten - The Magic Ring - EP115</title>
+		<desc>A trip to meet Mr. Arnold's friends Penn and Teller leads to a magical mystery that only the Super K's can solve: what happened to Houdini's Ring?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10769763'&amp;EntityType='LinearSchedule'&amp;EntityId='8394198d-a2dd-4257-a090-139f60446907'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
