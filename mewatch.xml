@@ -24,10 +24,6 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
-	<channel id="186574">
-		<display-name>Oktolidays</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9467885'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=945&amp;Height=250" />
-	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -1122,76 +1118,6 @@
 		<title>Headline News</title>
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10928659'&amp;EntityType='LinearSchedule'&amp;EntityId='910023c6-ad35-43cd-91e2-e90df2705304'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260101155934 +0000" stop="20260101165942 +0000">
-		<title>Dylan's Playtime Adventures/Wishes 许愿泡泡茶/Lil Wild/Syber Surfer Sam</title>
-		<desc>Dylan's Playtime Adventures/Wishes 许愿泡泡茶/Lil Wild/Syber Surfer Sam</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10904386'&amp;EntityType='LinearSchedule'&amp;EntityId='15b877a6-bc7a-4fa7-8846-29464c7a9938'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260101165942 +0000" stop="20260101175944 +0000">
-		<title>The Little Prince and His Friends/Enna Nadakkuthu Junior/Our Story House 故事小金屋</title>
-		<desc>The Little Prince and His Friends/Enna Nadakkuthu Junior/Our Story House 故事小金屋</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915569'&amp;EntityType='LinearSchedule'&amp;EntityId='3889f08f-bf77-4224-93a2-fe9d950d1577'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260101175944 +0000" stop="20260101185935 +0000">
-		<title>Open Season: Call of Nature/The Cheer Team 无敌啦啦队/Paula &amp; Pals/The Adventures of Luggy</title>
-		<desc>Open Season: Call of Nature/The Cheer Team 无敌啦啦队/Paula &amp; Pals/The Adventures of Luggy</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915541'&amp;EntityType='LinearSchedule'&amp;EntityId='8bd5ab72-26b8-40a9-9846-ecab1b8b8cc3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260101185935 +0000" stop="20260101195929 +0000">
-		<title>Wild Kratts/Ai, Ai, Cef!/What on Earth</title>
-		<desc>Wild Kratts/Ai, Ai, Cef!/What on Earth</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915553'&amp;EntityType='LinearSchedule'&amp;EntityId='c6f811dc-7b78-4aee-a27f-d5e59a158f99'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260101195929 +0000" stop="20260101205952 +0000">
-		<title>Dr. Panda/ Vasantham Junior Chef/Giganto Club SG </title>
-		<desc>Dr. Panda/ Vasantham Junior Chef/Giganto Club SG </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915545'&amp;EntityType='LinearSchedule'&amp;EntityId='90549d23-9860-47f8-8b0b-9fe6d4a60879'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260101205952 +0000" stop="20260101215954 +0000">
-		<title>Beyblade X/Biogirl MJ's Treasure Hunt/The Adventures of Luggy</title>
-		<desc>Beyblade X/Biogirl MJ's Treasure Hunt/The Adventures of Luggy</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915529'&amp;EntityType='LinearSchedule'&amp;EntityId='fd44acc0-f7db-447e-b387-21398893e74b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260101215954 +0000" stop="20260101230027 +0000">
-		<title>Ultraman Omega/Ayalaan/5x5</title>
-		<desc>Ultraman Omega/Ayalaan/5x5</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915557'&amp;EntityType='LinearSchedule'&amp;EntityId='fa57832b-38bd-44ee-985a-199294ca3465'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260101230027 +0000" stop="20260102000038 +0000">
-		<title>Dylan's Playtime Adventures/Diary of Amos Lee S2 阿莫的日记/Our Story House 故事小金屋/Busy Bodies</title>
-		<desc>Dylan's Playtime Adventures/Diary of Amos Lee S2 阿莫的日记/Our Story House 故事小金屋/Busy Bodies</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915533'&amp;EntityType='LinearSchedule'&amp;EntityId='de5efc5d-5a64-4c74-8bf1-93fff7ca3eb7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260102000038 +0000" stop="20260102010027 +0000">
-		<title>The Little Prince and His Friends/Kaathu Karuppu/Leo the Wildlife Ranger:S6 Spin Off/The Adventures of Luggy</title>
-		<desc>The Little Prince and His Friends/Kaathu Karuppu/Leo the Wildlife Ranger:S6 Spin Off/The Adventures of Luggy</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915537'&amp;EntityType='LinearSchedule'&amp;EntityId='1cfbaac1-0526-40a4-89ab-6e2eea6653bf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260102010027 +0000" stop="20260102020029 +0000">
-		<title>Open Season: Call of Nature/Kelab JMJ/Lil Wild/5x5</title>
-		<desc>Open Season: Call of Nature/Kelab JMJ/Lil Wild/5x5</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915549'&amp;EntityType='LinearSchedule'&amp;EntityId='54404605-e070-472b-81a3-cad3d9d3e92d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260102020029 +0000" stop="20260102030033 +0000">
-		<title>Wild Kratts/Ubin Boy/Blippi Singapore Adventures</title>
-		<desc>Wild Kratts/Ubin Boy/Blippi Singapore Adventures</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915573'&amp;EntityType='LinearSchedule'&amp;EntityId='e4d368b0-a9d2-4f44-a283-4eae8bf0e159'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260102030033 +0000" stop="20260102040000 +0000">
-		<title>Dr. Panda/Lingo Bingo 华研巧语/Fables From Oot's World/Syber Surfer Sam/The Misadventures of Cube Melt</title>
-		<desc>Dr. Panda/Lingo Bingo 华研巧语/Fables From Oot's World/Syber Surfer Sam/The Misadventures of Cube Melt</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915561'&amp;EntityType='LinearSchedule'&amp;EntityId='1043d731-9df0-493a-842b-56c1a6e58859'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260102040000 +0000" stop="20260102160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10915565'&amp;EntityType='LinearSchedule'&amp;EntityId='0a74c2b7-4b3c-472e-baa7-4923bc7fefaa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260102160000 +0000" stop="20260103160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10929421'&amp;EntityType='LinearSchedule'&amp;EntityId='d77e0cab-50b0-432d-bed3-510318a5983a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260101160000 +0000" stop="20260102160000 +0000">
 		<title>No Programme available now. Next Broadcast on 10th January, Saturday 7.20pm. Singapore Cup 2025/2026 </title>
@@ -3922,11 +3848,6 @@
 		<title>Headline News</title>
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10948868'&amp;EntityType='LinearSchedule'&amp;EntityId='69bc50ae-a2a7-4dbf-aae3-083f4572fc70'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260103160000 +0000" stop="20260104160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='10949542'&amp;EntityType='LinearSchedule'&amp;EntityId='c60b79ad-eb67-41c2-af8b-9298933923fc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260103160000 +0000" stop="20260104160000 +0000">
 		<title>No Programme available now. Next Broadcast on 10th January, Saturday 7.20pm. Singapore Cup 2025/2026 </title>
