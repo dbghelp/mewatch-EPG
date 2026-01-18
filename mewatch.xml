@@ -28,13 +28,13 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
+	<channel id="98201">
+		<display-name>SPL CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
-	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
 	<channel id="558241">
 		<display-name>River Monsters</display-name>
@@ -1074,6 +1074,26 @@
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Geylang International FC vs BG Tampines Rovers FC on 23rd January, Friday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11207831'&amp;EntityType='LinearSchedule'&amp;EntityId='0a55e1e8-a877-4d36-8db1-7cdd253890f4'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98201" start="20260117160000 +0000" stop="20260118112000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th January, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Balestier Khalsa FC vs Hougang United FC on 18th January, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11192709'&amp;EntityType='LinearSchedule'&amp;EntityId='6c661abc-0a1f-4553-8480-ebe497dfdaf1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260118112000 +0000" stop="20260118133000 +0000">
+		<title>Singapore Premier League 2025/2026: Balestier Khalsa FC vs Hougang United FC</title>
+		<desc>The Singapore Premier League 2025-2026 is the 8th season of the Singapore Premier League. A total of eight teams are taking part in a triple round-robin format. Will Lion City Sailors continue to defend their champion title, having won the 2024 edition or will another club be crowned as the new champion?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252471'&amp;EntityType='LinearSchedule'&amp;EntityId='3ee0be10-d706-4a46-b9bf-4e9253430100'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260118133000 +0000" stop="20260118160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11192692'&amp;EntityType='LinearSchedule'&amp;EntityId='134bfc02-bdcc-4225-aaef-967a5e55144f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260118160000 +0000" stop="20260119160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11207859'&amp;EntityType='LinearSchedule'&amp;EntityId='095e231f-8e31-4a5e-a657-26d565e1c6f2'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97073" start="20260117160000 +0000" stop="20260118110000 +0000">
 		<title>No programme available now. Next broadcast on 18th January, Sunday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 18th January, Sunday 7pm. Please stay tuned!</desc>
@@ -1153,16 +1173,6 @@
 		<title>No programme available now. Next broadcast on 19th January, Monday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 19th January, Monday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11207508'&amp;EntityType='LinearSchedule'&amp;EntityId='8a19c8a0-4cd2-4550-87b1-d5d6c5a324b6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260117160000 +0000" stop="20260118160000 +0000">
-		<title>No Programme available now. Next Broadcast on 28th January, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
-		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs Buriram United FC on 28th January, Wednesday 7.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11192744'&amp;EntityType='LinearSchedule'&amp;EntityId='cdadf2f8-c875-4495-8674-00b53c90b5f9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260118160000 +0000" stop="20260119160000 +0000">
-		<title>No Programme available now. Next Broadcast on 28th January, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
-		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs Buriram United FC on 28th January, Wednesday 7.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11207918'&amp;EntityType='LinearSchedule'&amp;EntityId='4686ebab-71cd-49c8-a3f9-253a1dfc2d71'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20260117154458 +0000" stop="20260117163846 +0000">
 		<title>River Monsters Compilations - Killer Weapons</title>
@@ -3744,6 +3754,11 @@
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Geylang International FC vs BG Tampines Rovers FC on 23rd January, Friday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11221604'&amp;EntityType='LinearSchedule'&amp;EntityId='9de4c69e-a4de-45a5-9e8d-703cf8652f02'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98201" start="20260119160000 +0000" stop="20260120160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11221616'&amp;EntityType='LinearSchedule'&amp;EntityId='60d6c8cc-990e-48f2-acf8-f41bf516ef80'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97073" start="20260119110000 +0000" stop="20260119111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - [24 Bottles] Kinohimitsu Bird's Nest Red Dates &amp; Wolfberry + Bird's Nest Chinese Ginseng</title>
 		<desc>Kinohimitsu Bird’s Nest is hand-picked and traditionally brewed to enhance beauty, boost vitality, and restore energy. The Ginseng Bird’s Nest relieves fatigue, while the Red Date &amp; Goji Berry version promotes a radiant complexion Kinohimitsu燕窝采用纯手工挑毛与古法炖煮，营养丰富，助美容养颜、增强体质、恢复活力。长白山人参燕窝饮补气强身、缓解疲劳；红枣枸杞燕窝饮促进气血循环，令肌肤红润透亮.</desc>
@@ -3878,11 +3893,6 @@
 		<title>No programme available now. Next broadcast on 20th January, Tuesday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 20th January, Tuesday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11221221'&amp;EntityType='LinearSchedule'&amp;EntityId='9faadec2-faaf-42b0-a745-dc7e9029ec45'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260119160000 +0000" stop="20260120160000 +0000">
-		<title>No Programme available now. Next Broadcast on 28th January, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
-		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs Buriram United FC on 28th January, Wednesday 7.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11221608'&amp;EntityType='LinearSchedule'&amp;EntityId='63d93d37-e7c5-4263-b726-66cf407fd1c6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20260118162212 +0000" stop="20260118171438 +0000">
 		<title>River Monsters: Best of Series 1-5 - US River Monsters</title>
