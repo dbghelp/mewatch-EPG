@@ -24,6 +24,14 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
+	<channel id="576059">
+		<display-name>ASEAN Para Games CH01</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11369750'&amp;EntityType='Item'&amp;EntityId='576059'&amp;Width=429&amp;Height=250" />
+	</channel>
+	<channel id="576060">
+		<display-name>ASEAN Para Games CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11369744'&amp;EntityType='Item'&amp;EntityId='576060'&amp;Width=429&amp;Height=250" />
+	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -1020,6 +1028,36 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11241225'&amp;EntityType='LinearSchedule'&amp;EntityId='dd84d87f-d820-464a-a480-6f4357a6dc8b'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="576059" start="20260119160000 +0000" stop="20260120122000 +0000">
+		<title>No Programme available now.</title>
+		<desc>No Programme available now. Next Broadcast on 20th January, Tuesday 8.20pm. 13th ASEAN Para Games Thailand 2025 - Opening Ceremony</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11372487'&amp;EntityType='LinearSchedule'&amp;EntityId='ef07b9d1-919a-4794-9082-6b8135a54ca6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20260120122000 +0000" stop="20260120140000 +0000">
+		<title>13th ASEAN Para Games Thailand 2025 - Opening Ceremony</title>
+		<desc>13th ASEAN Para Games Thailand 2025 - Opening Ceremony</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11370375'&amp;EntityType='LinearSchedule'&amp;EntityId='251a0b9a-87d7-418f-8a18-16faf577f0e2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20260120140000 +0000" stop="20260120160000 +0000">
+		<title>No Programme available now.</title>
+		<desc>No Programme available now.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11370371'&amp;EntityType='LinearSchedule'&amp;EntityId='f0d793eb-850c-4439-a572-b38b34359018'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20260120160000 +0000" stop="20260121160000 +0000">
+		<title>No Programme available now.</title>
+		<desc>No Programme available now.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11370387'&amp;EntityType='LinearSchedule'&amp;EntityId='6500953b-d145-4632-9dbf-6fae7ad88a0b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576060" start="20260119160000 +0000" stop="20260120160000 +0000">
+		<title>No programme available now.</title>
+		<desc>No programme available now.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11371154'&amp;EntityType='LinearSchedule'&amp;EntityId='c30b2280-be27-4b6f-8165-880688f55422'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576060" start="20260120160000 +0000" stop="20260121160000 +0000">
+		<title>No programme available now.</title>
+		<desc>No programme available now.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11371504'&amp;EntityType='LinearSchedule'&amp;EntityId='f4ad1448-6777-4302-aae0-e5b004386a17'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="98200" start="20260119160000 +0000" stop="20260120160000 +0000">
 		<title>No Programme available now. Next Broadcast on 23rd January, Friday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Geylang International FC vs BG Tampines Rovers FC on 23rd January, Friday 7.20pm. Please stay tuned!</desc>
@@ -1527,32 +1565,32 @@
 	</programme>
 	<programme channel="557763" start="20260119154750 +0000" stop="20260119174722 +0000">
 		<title>France v Morocco | Semi-finals | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
-		<desc>Watch the full match replay between France and Morocco played at Al Bayt Stadium, Al Khor.</desc>
+		<desc>Watch the full match replay between France and Morocco played at Al Bayt Stadium, Al Khor on Wednesday, 14 December 2022 at 22:00.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340131'&amp;EntityType='LinearSchedule'&amp;EntityId='35710ada-60e3-4a2c-90d5-de34624610e0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260119174722 +0000" stop="20260119194144 +0000">
 		<title>Sweden v England | Quarter-finals | 2018 FIFA World Cup Russia™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Sweden and England played at Samara Arena, Samara.</desc>
+		<desc>Watch the full match replay between Sweden and England played at Samara Arena, Samara on Saturday, 07 July 2018.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340203'&amp;EntityType='LinearSchedule'&amp;EntityId='69a15b74-7117-4c52-98b2-6afa78934453'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260119194144 +0000" stop="20260119222057 +0000">
 		<title>Netherlands v Argentina | Semi-finals | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Netherlands and Argentina at Arena de São Paulo, São Paulo.</desc>
+		<desc>Watch the full match replay between Netherlands and Argentina played at Arena de São Paulo, São Paulo on Wednesday, 09 July 2014.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340207'&amp;EntityType='LinearSchedule'&amp;EntityId='2d7be650-0a9c-4215-bb6c-cfe0a475e9dd'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260119222057 +0000" stop="20260120001324 +0000">
 		<title>Paraguay v Spain | Quarter-finals | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Paraguay and Spain played in Johannesburg.</desc>
+		<desc>Watch the full match replay from the match between Paraguay and Spain played at Ellis Park Stadium, Johannesburg on Saturday, 03 July 2010.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340223'&amp;EntityType='LinearSchedule'&amp;EntityId='3b792053-0ecb-4326-9e64-eac58c71258a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260120001324 +0000" stop="20260120020155 +0000">
 		<title>Brazil v Norway | Group A | 1998 FIFA World Cup France™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and Norway played at Stade Vélodrome, Marseille.</desc>
+		<desc>Watch the full match replay between Brazil and Norway played at Stade Vélodrome, Marseille on Tuesday, 23 June 1998.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340167'&amp;EntityType='LinearSchedule'&amp;EntityId='f0075856-75f1-48b7-96a1-1d2912213b54'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260120020155 +0000" stop="20260120035209 +0000">
 		<title>Germany FR v Argentina | Final | 1990 FIFA World Cup Italy™ | Full Match Replay</title>
-		<desc>Watch the full replay from the match between Germany FR and Argentina</desc>
+		<desc>Watch the full replay from the match between Germany FR and Argentina played at Stadio Olimpico, Rome on Sunday, 08 July 1990.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340175'&amp;EntityType='LinearSchedule'&amp;EntityId='3b9141ac-8d3c-4025-b4a3-6c3810a611bb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260120035209 +0000" stop="20260120053802 +0000">
@@ -1562,37 +1600,37 @@
 	</programme>
 	<programme channel="557763" start="20260120053802 +0000" stop="20260120072923 +0000">
 		<title>Argentina v England | Group F | 2002 FIFA World Cup Korea/Japan™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and England played at Sapporo Dome, Sapporo.</desc>
+		<desc>Watch the full match replay between Argentina and England played at Sapporo Dome, Sapporo on Friday, 07 June 2002.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340191'&amp;EntityType='LinearSchedule'&amp;EntityId='938a31b7-6814-4a2c-8f96-bc00e2478fae'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260120072923 +0000" stop="20260120092637 +0000">
 		<title>Argentina v Croatia | Semi-finals | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and Croatia played at Lusail Stadium, Al Daayen.</desc>
+		<desc>Watch the full match replay between Argentina and Croatia played at Lusail Stadium, Al Daayen on Tuesday, 13 December 2022 at 22:00.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340187'&amp;EntityType='LinearSchedule'&amp;EntityId='b224774a-04e3-4834-a1d7-e89ee187beba'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260120092637 +0000" stop="20260120112032 +0000">
 		<title>Brazil v Colombia | Quarter-finals | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Brazil and Colombia</desc>
+		<desc>Watch the full match replay from the match between Brazil and Colombia played at Estádio Castelão, Fortaleza on Friday, 04 July 2014.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340227'&amp;EntityType='LinearSchedule'&amp;EntityId='aaf4845c-c362-4a60-bc41-fff55465ae74'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260120112032 +0000" stop="20260120131114 +0000">
 		<title>Germany v Spain | Semi-finals | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the match between Germany and Spain</desc>
+		<desc>Watch the full match replay from the match between Germany and Spain played at Durban Stadium, Durban on Wednesday, 07 July 2010.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340179'&amp;EntityType='LinearSchedule'&amp;EntityId='5cf6e919-3993-49ae-a213-2c99a5074ba3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260120131114 +0000" stop="20260120133459 +0000">
 		<title>Antonio Rüdiger and Timothy Weah | HD Cutz</title>
-		<desc>The old friend Antonio Rüdiger, before jetting off to France to meet a new customer.</desc>
+		<desc>HD Cutz is joined in the shop by old friend Antonio Rüdiger, before jetting off to France to meet a new customer.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340195'&amp;EntityType='LinearSchedule'&amp;EntityId='6585827d-bf8d-4e5e-8ecc-5c1a6eebdc05'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260120133459 +0000" stop="20260120140557 +0000">
 		<title>Iceland | The Debut</title>
-		<desc>The captivating story of how Iceland reached their historic qualification to the 2018 FIFA World Cup.</desc>
+		<desc>There is a first time for everything and a nation's first World Cup experience is hardly a forgettable one.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340171'&amp;EntityType='LinearSchedule'&amp;EntityId='ef2be2ea-edc7-4eeb-9071-2dc0525f7597'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260120140557 +0000" stop="20260120144321 +0000">
 		<title>Africa Stories</title>
-		<desc>In this exclusive series discover five unique and touching stories, each showcasing the impact football.</desc>
+		<desc>In this exclusive series discover five unique and touching stories, each showcasing the impact football has on a continent obsessed with the beautiful game. One continent, five stories... Discover why in Africa, football is more than just a game.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340199'&amp;EntityType='LinearSchedule'&amp;EntityId='33c12f2b-df52-4dd5-a6d6-9c458db35fe7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260120144321 +0000" stop="20260120152253 +0000">
@@ -1602,7 +1640,7 @@
 	</programme>
 	<programme channel="557763" start="20260120152253 +0000" stop="20260120154053 +0000">
 		<title>2014 FIFA World Cup Brazil™ | The Final</title>
-		<desc>Through the eyes of those present, revisit the 2014 Germany vs Argentina final at Maracanã.</desc>
+		<desc>Through the stories of those present at the Maracanã, revisit the nail-biting 2014 final between Germany and Argentina.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11340183'&amp;EntityType='LinearSchedule'&amp;EntityId='8c67234a-5a42-477f-bd6f-ab496d14fb50'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="557763" start="20260120154053 +0000" stop="20260120161931 +0000">
@@ -3774,6 +3812,16 @@
 		<title>Headline News 2025/2026</title>
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11259262'&amp;EntityType='LinearSchedule'&amp;EntityId='2f8c0a8a-992f-46c7-9390-3100c022ee53'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576059" start="20260121160000 +0000" stop="20260122160000 +0000">
+		<title>No Programme available now.</title>
+		<desc>No Programme available now.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11370391'&amp;EntityType='LinearSchedule'&amp;EntityId='39b0b7a3-c3e2-4be0-8725-63581fcbf9a0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576060" start="20260121160000 +0000" stop="20260122170000 +0000">
+		<title>No programme available now.</title>
+		<desc>No programme available now.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11371508'&amp;EntityType='LinearSchedule'&amp;EntityId='51728ac8-cb49-47a7-80e3-0ad70dc9bea9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260121160000 +0000" stop="20260122160000 +0000">
 		<title>No Programme available now. Next Broadcast on 23rd January, Friday 7.20pm. Singapore Premier League 2025/2026</title>
