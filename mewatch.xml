@@ -40,6 +40,14 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
+	<channel id="570813">
+		<display-name>Deal or No Deal</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089317'&amp;EntityType='Item'&amp;EntityId='570813'&amp;Width=127&amp;Height=59" />
+	</channel>
+	<channel id="558258">
+		<display-name>Fear Factor</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089337'&amp;EntityType='Item'&amp;EntityId='558258'&amp;Width=150&amp;Height=59" />
+	</channel>
 	<channel id="558241">
 		<display-name>River Monsters</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089297'&amp;EntityType='Item'&amp;EntityId='558241'&amp;Width=150&amp;Height=59" />
@@ -1058,45 +1066,50 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11259262'&amp;EntityType='LinearSchedule'&amp;EntityId='2f8c0a8a-992f-46c7-9390-3100c022ee53'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20260120160000 +0000" stop="20260121013000 +0000">
+	<programme channel="576059" start="20260120160000 +0000" stop="20260121024500 +0000">
 		<title>No Programme available now.</title>
-		<desc>No Programme available now. Next Broadcast on 21st January, Wednesday 9.30am. 13th ASEAN Para Games Thailand 2025 : Para Swimming - Men's &amp; Women's Finals</desc>
+		<desc>No Programme available now. Next Broadcast on 21st January, Wednesday 10.45am. 13th ASEAN Para Games Thailand 2025 : Para Swimming - Men's &amp; Women's Finals</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11370387'&amp;EntityType='LinearSchedule'&amp;EntityId='6500953b-d145-4632-9dbf-6fae7ad88a0b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20260121013000 +0000" stop="20260121054000 +0000">
+	<programme channel="576059" start="20260121024500 +0000" stop="20260121073000 +0000">
 		<title>13th ASEAN Para Games Thailand 2025 : Para Swimming - Men's &amp; Women's Finals</title>
 		<desc>13th ASEAN Para Games Thailand 2025 : Para Swimming - Men's &amp; Women's Finals</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11384879'&amp;EntityType='LinearSchedule'&amp;EntityId='3a9ad7b2-512a-4f0c-bc1d-9559fd6a1295'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11417526'&amp;EntityType='LinearSchedule'&amp;EntityId='dfc89993-ae84-4dd5-b71f-cc32c854dcd0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20260121054000 +0000" stop="20260121091500 +0000">
+	<programme channel="576059" start="20260121073000 +0000" stop="20260121090000 +0000">
 		<title>No Programme available now.</title>
-		<desc>No Programme available now. Next Broadcast on 21st January, Wednesday 5.15pm. 13th ASEAN Para Games Thailand 2025 : Para Athletics - Men's &amp; Women's Heats &amp; Finals</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11386215'&amp;EntityType='LinearSchedule'&amp;EntityId='7159a0d7-ccc1-4372-a28a-2617583b37d0'&amp;Width=1280&amp;Height=720" />
+		<desc>No Programme available now. Next Broadcast on 21st January, Wednesday 5.00pm. 13th ASEAN Para Games Thailand 2025 : Para Athletics - Men's &amp; Women's Heats &amp; Finals</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11418787'&amp;EntityType='LinearSchedule'&amp;EntityId='36fd750e-3512-46d5-a059-e19d34b2ca05'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20260121091500 +0000" stop="20260121133000 +0000">
+	<programme channel="576059" start="20260121090000 +0000" stop="20260121140000 +0000">
 		<title>13th ASEAN Para Games Thailand 2025 : Para Athletics - Men's &amp; Women's Heats &amp; Finals</title>
 		<desc>13th ASEAN Para Games Thailand 2025 : Para Athletics - Men's &amp; Women's Heats &amp; Finals</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11386219'&amp;EntityType='LinearSchedule'&amp;EntityId='dbb6f092-47c0-4408-a609-c5facc360aad'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11417530'&amp;EntityType='LinearSchedule'&amp;EntityId='07a91f88-9cea-46fd-bd1d-ff3dfeec8836'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20260121133000 +0000" stop="20260121134500 +0000">
-		<title>13th ASEAN Para Games Thailand 2025 : Today at the Games</title>
-		<desc>13th ASEAN Para Games Thailand 2025 : Today at the Games</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11384895'&amp;EntityType='LinearSchedule'&amp;EntityId='2a5e52aa-a2b7-4f85-bc3a-7aad50eed424'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="576059" start="20260121134500 +0000" stop="20260121160000 +0000">
+	<programme channel="576059" start="20260121140000 +0000" stop="20260121160000 +0000">
 		<title>No Programme available now.</title>
 		<desc>No Programme available now. Next Broadcast on 22nd January, Thursday 9.30am. 13th ASEAN Para Games Thailand 2025 : Para Swimming - Men's &amp; Women's Finals</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11384891'&amp;EntityType='LinearSchedule'&amp;EntityId='a6c47697-7935-4e0b-bde3-eabceec32bfc'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11417522'&amp;EntityType='LinearSchedule'&amp;EntityId='12eebf89-08f3-40de-9a28-358ef33efbea'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576059" start="20260121160000 +0000" stop="20260122013000 +0000">
 		<title>No Programme available now.</title>
 		<desc>No Programme available now. Next Broadcast on 22nd January, Thursday 9.30am. 13th ASEAN Para Games Thailand 2025 : Para Swimming - Men's &amp; Women's Finals</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11370391'&amp;EntityType='LinearSchedule'&amp;EntityId='39b0b7a3-c3e2-4be0-8725-63581fcbf9a0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576060" start="20260120160000 +0000" stop="20260121160000 +0000">
+	<programme channel="576060" start="20260120160000 +0000" stop="20260121133000 +0000">
+		<title>No Programme available now.</title>
+		<desc>No Programme available now. Next Broadcast on 21st January, Wednesday 9.30pm. 13th ASEAN Para Games Thailand 2025 : Today at the Games</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11371504'&amp;EntityType='LinearSchedule'&amp;EntityId='f4ad1448-6777-4302-aae0-e5b004386a17'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576060" start="20260121133000 +0000" stop="20260121134500 +0000">
+		<title>13th ASEAN Para Games Thailand 2025 : Today at the Games</title>
+		<desc>13th ASEAN Para Games Thailand 2025 : Today at the Games</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11417744'&amp;EntityType='LinearSchedule'&amp;EntityId='0350483e-db96-427a-ab3e-7188b0b21c04'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="576060" start="20260121134500 +0000" stop="20260121160000 +0000">
 		<title>No Programme available now.</title>
 		<desc>No Programme available now. Next Broadcast on 22nd January, Thursday 11.00am. 13th ASEAN Para Games Thailand 2025: Boccia - Men's Individual BC1 Preliminary Round</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11371504'&amp;EntityType='LinearSchedule'&amp;EntityId='f4ad1448-6777-4302-aae0-e5b004386a17'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11417758'&amp;EntityType='LinearSchedule'&amp;EntityId='7a1ca47a-8b45-46f2-a3e5-1eeee870a97a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="576060" start="20260121160000 +0000" stop="20260122030000 +0000">
 		<title>No Programme available now.</title>
@@ -1252,6 +1265,276 @@
 		<title>No programme available now. Next broadcast on 22nd January, Thursday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 22nd January, Thursday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11259176'&amp;EntityType='LinearSchedule'&amp;EntityId='89c72b2c-d75a-473b-9957-c5bc4f4380b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260120155405 +0000" stop="20260120164249 +0000">
+		<title>Deal or No Deal USA - EP30</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252955'&amp;EntityType='LinearSchedule'&amp;EntityId='ebb2538b-ebc5-4924-ba10-433e6c7a25ac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260120164249 +0000" stop="20260120173050 +0000">
+		<title>Deal or No Deal USA - EP31</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11253015'&amp;EntityType='LinearSchedule'&amp;EntityId='be3bc00a-81ec-451c-9321-11406c00acef'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260120173050 +0000" stop="20260120181936 +0000">
+		<title>Deal or No Deal USA - EP32</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252987'&amp;EntityType='LinearSchedule'&amp;EntityId='41230da1-67a4-4741-9eb3-84203cba979d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260120181936 +0000" stop="20260120195325 +0000">
+		<title>Deal or No Deal USA - EP35</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11253031'&amp;EntityType='LinearSchedule'&amp;EntityId='e0e67d82-f37f-49f5-9a6b-c239280a8c1b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260120195325 +0000" stop="20260120204033 +0000">
+		<title>Deal or No Deal USA - EP37</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252967'&amp;EntityType='LinearSchedule'&amp;EntityId='daf40225-9ffb-4240-ae9f-a7e558e3ebd0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260120204033 +0000" stop="20260120212740 +0000">
+		<title>Deal or No Deal USA - EP38</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252979'&amp;EntityType='LinearSchedule'&amp;EntityId='9d9afd81-28a4-4ae9-87c3-9e2033df154b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260120212740 +0000" stop="20260120221656 +0000">
+		<title>Deal or No Deal USA - EP39</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11253035'&amp;EntityType='LinearSchedule'&amp;EntityId='4a8b8730-5ae6-4655-99c4-7365a228789f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260120221656 +0000" stop="20260120230918 +0000">
+		<title>Deal or No Deal USA - EP43</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252983'&amp;EntityType='LinearSchedule'&amp;EntityId='5aaf560c-bfe8-4daa-8f65-97153a6fb3c0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260120230918 +0000" stop="20260120235825 +0000">
+		<title>Deal or No Deal USA - EP44</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11253007'&amp;EntityType='LinearSchedule'&amp;EntityId='a542f71b-f469-4242-8747-46e99cfcbcdd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260120235825 +0000" stop="20260121004701 +0000">
+		<title>Deal or No Deal USA - EP45</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11253039'&amp;EntityType='LinearSchedule'&amp;EntityId='48009c5c-59fe-42f0-8050-700c22270d2a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121004701 +0000" stop="20260121013401 +0000">
+		<title>Deal or No Deal USA - EP49</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252971'&amp;EntityType='LinearSchedule'&amp;EntityId='3369103c-4c69-4396-ae3d-31587971eb6d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121013401 +0000" stop="20260121022059 +0000">
+		<title>Deal or No Deal USA - EP50</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11253003'&amp;EntityType='LinearSchedule'&amp;EntityId='b5a06729-a68c-4e23-9da4-ddcf54410f38'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121022059 +0000" stop="20260121030757 +0000">
+		<title>Deal or No Deal USA - EP54</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252991'&amp;EntityType='LinearSchedule'&amp;EntityId='963ff93a-ea3a-47a3-b459-7ecee678c852'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121030757 +0000" stop="20260121035640 +0000">
+		<title>Deal or No Deal USA - EP63</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252975'&amp;EntityType='LinearSchedule'&amp;EntityId='b2b173c6-0dc4-42d1-9259-cc1e4fc47000'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121035640 +0000" stop="20260121044456 +0000">
+		<title>Deal or No Deal USA - EP2</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252995'&amp;EntityType='LinearSchedule'&amp;EntityId='12252c6f-0df0-4af6-a4d9-36f23d2b5d6c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121044456 +0000" stop="20260121052832 +0000">
+		<title>Deal or No Deal USA - EP3</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11253011'&amp;EntityType='LinearSchedule'&amp;EntityId='a6e24f80-ad43-4d75-a4ee-4b08d9f9982a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121052832 +0000" stop="20260121061514 +0000">
+		<title>Deal or No Deal USA - EP4</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11253043'&amp;EntityType='LinearSchedule'&amp;EntityId='bd33f0dc-9cc2-4b85-83e8-8e2a303341f5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121061514 +0000" stop="20260121070516 +0000">
+		<title>Deal or No Deal USA - EP5</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11253019'&amp;EntityType='LinearSchedule'&amp;EntityId='5c34b1d4-e5fd-4333-be9b-9e366a3f7ee9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121070516 +0000" stop="20260121075458 +0000">
+		<title>Deal or No Deal USA - EP6</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11253023'&amp;EntityType='LinearSchedule'&amp;EntityId='78a431cf-5c09-4a19-ab62-ee1af3f353f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121075458 +0000" stop="20260121080000 +0000">
+		<title>Deal or No Deal USA - EP12</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11253027'&amp;EntityType='LinearSchedule'&amp;EntityId='6cf1ee82-3b99-4a9d-9021-e26d474fe604'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121080000 +0000" stop="20260121084326 +0000">
+		<title>Deal or No Deal USA - EP12</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272498'&amp;EntityType='LinearSchedule'&amp;EntityId='3ce6892a-ae00-49b8-a3ba-38ddfc2205d4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121084326 +0000" stop="20260121101828 +0000">
+		<title>Deal or No Deal USA - EP14</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272510'&amp;EntityType='LinearSchedule'&amp;EntityId='bc292064-975c-44eb-afcd-234428855050'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121101828 +0000" stop="20260121115305 +0000">
+		<title>Deal or No Deal USA - EP21</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272514'&amp;EntityType='LinearSchedule'&amp;EntityId='1104abb0-eaef-4621-bc2c-e2df38e8c3fd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121115305 +0000" stop="20260121132627 +0000">
+		<title>Deal or No Deal USA - EP26</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272502'&amp;EntityType='LinearSchedule'&amp;EntityId='bda1a4eb-750e-42ed-84a9-544f0562b065'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121132627 +0000" stop="20260121141457 +0000">
+		<title>Deal or No Deal USA - EP27</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272518'&amp;EntityType='LinearSchedule'&amp;EntityId='e40d8048-d4b1-402a-85ab-cef788d3fa0d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121141457 +0000" stop="20260121150131 +0000">
+		<title>Deal or No Deal USA - EP29</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272522'&amp;EntityType='LinearSchedule'&amp;EntityId='be20c6cc-ffa5-413c-ac73-a19b54b2bb02'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121150131 +0000" stop="20260121154811 +0000">
+		<title>Deal or No Deal USA - EP30</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272526'&amp;EntityType='LinearSchedule'&amp;EntityId='3c1b932d-a5a8-406e-a4ca-74308df8cde2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121154811 +0000" stop="20260121163649 +0000">
+		<title>Deal or No Deal USA - EP33</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272506'&amp;EntityType='LinearSchedule'&amp;EntityId='e528ddae-d6e8-4a42-9b92-916399fb259a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260120153654 +0000" stop="20260120163117 +0000">
+		<title>Fear Factor USA - EP2</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252791'&amp;EntityType='LinearSchedule'&amp;EntityId='0428a6c5-1934-4e89-81d2-bc0335e5cfd1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260120163117 +0000" stop="20260120172436 +0000">
+		<title>Fear Factor USA - EP6</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252811'&amp;EntityType='LinearSchedule'&amp;EntityId='50790921-ab34-4a06-865d-eedd9d413c3f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260120172436 +0000" stop="20260120181752 +0000">
+		<title>Fear Factor USA - EP7</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252815'&amp;EntityType='LinearSchedule'&amp;EntityId='4f52b05a-2fe1-4afd-84da-351e6d5d8ea7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260120181752 +0000" stop="20260120191109 +0000">
+		<title>Fear Factor USA - EP8</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252819'&amp;EntityType='LinearSchedule'&amp;EntityId='86d0eab0-05f9-4e45-9975-01b105d75cbd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260120191109 +0000" stop="20260120200428 +0000">
+		<title>Fear Factor USA - EP9</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252795'&amp;EntityType='LinearSchedule'&amp;EntityId='e760e90f-d42d-4c2b-a29f-1e3ef1ca5516'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260120200428 +0000" stop="20260120212347 +0000">
+		<title>Fear Factor USA - EP3</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252799'&amp;EntityType='LinearSchedule'&amp;EntityId='99c81a08-2dff-4f2a-8ef7-15220074b93e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260120212347 +0000" stop="20260120221811 +0000">
+		<title>Fear Factor USA - EP4</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252803'&amp;EntityType='LinearSchedule'&amp;EntityId='4540031a-7880-4729-9f2f-90c2851c43cc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260120221811 +0000" stop="20260120231233 +0000">
+		<title>Fear Factor USA - EP5</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252807'&amp;EntityType='LinearSchedule'&amp;EntityId='39353d5d-5028-4969-8512-f43f45d698ea'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260120231233 +0000" stop="20260121000656 +0000">
+		<title>Fear Factor USA - EP6</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11252823'&amp;EntityType='LinearSchedule'&amp;EntityId='8aa1cd09-e271-43d2-bdf7-fc28cdc70edc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121000656 +0000" stop="20260121012026 +0000">
+		<title>Fear Factor USA - EP7</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271466'&amp;EntityType='LinearSchedule'&amp;EntityId='c3ae45f2-f713-4fd4-a5b5-03817d91bc7a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121012026 +0000" stop="20260121021451 +0000">
+		<title>Fear Factor USA - EP8</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271539'&amp;EntityType='LinearSchedule'&amp;EntityId='10c4ac3f-20a5-45b7-ab54-c71958059001'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121021451 +0000" stop="20260121033412 +0000">
+		<title>Fear Factor USA - EP9</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271517'&amp;EntityType='LinearSchedule'&amp;EntityId='15cc39e7-da9b-4912-aa37-3576ae54bd1c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121033412 +0000" stop="20260121042815 +0000">
+		<title>Fear Factor USA - EP10</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271503'&amp;EntityType='LinearSchedule'&amp;EntityId='fdd32f85-2b7e-4dc4-88fa-923a69c65b9a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121042815 +0000" stop="20260121052235 +0000">
+		<title>Fear Factor USA - EP11</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271473'&amp;EntityType='LinearSchedule'&amp;EntityId='ae91d4fc-f1a9-42d3-b5cd-a437733e6bdd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121052235 +0000" stop="20260121061654 +0000">
+		<title>Fear Factor USA - EP12</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271547'&amp;EntityType='LinearSchedule'&amp;EntityId='98a0f5fd-8036-4752-831d-0d6456b3d5ee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121061654 +0000" stop="20260121071044 +0000">
+		<title>Fear Factor USA - EP16</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271571'&amp;EntityType='LinearSchedule'&amp;EntityId='6433589c-73af-4792-a2c0-7779e5937000'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121071044 +0000" stop="20260121080437 +0000">
+		<title>Fear Factor USA - EP17</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271577'&amp;EntityType='LinearSchedule'&amp;EntityId='e8b0b3b9-ce69-4179-912c-0d04414b9b7d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121080437 +0000" stop="20260121085830 +0000">
+		<title>Fear Factor USA - EP18</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271585'&amp;EntityType='LinearSchedule'&amp;EntityId='7799e0a9-ac7e-41ce-85ec-875ef833d0ca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121085830 +0000" stop="20260121095225 +0000">
+		<title>Fear Factor USA - EP19</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271511'&amp;EntityType='LinearSchedule'&amp;EntityId='ca8dd8d0-74b7-446c-824f-213d2747cc76'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121095225 +0000" stop="20260121104427 +0000">
+		<title>Fear Factor USA - EP1</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271481'&amp;EntityType='LinearSchedule'&amp;EntityId='07d4a31b-24a0-4ec1-8d2c-f99b281d8a85'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121104427 +0000" stop="20260121113631 +0000">
+		<title>Fear Factor USA - EP2</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271488'&amp;EntityType='LinearSchedule'&amp;EntityId='27c45215-173f-4705-b177-738eefbff6f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121113631 +0000" stop="20260121122833 +0000">
+		<title>Fear Factor USA - EP3</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271525'&amp;EntityType='LinearSchedule'&amp;EntityId='0a42ea02-ac94-4fb9-88ad-93ff619163db'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121122833 +0000" stop="20260121132034 +0000">
+		<title>Fear Factor USA - EP4</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271495'&amp;EntityType='LinearSchedule'&amp;EntityId='7eb9ccd9-7455-4a80-bfbf-1dbf8ae41cf7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121132034 +0000" stop="20260121141237 +0000">
+		<title>Fear Factor USA - EP5</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271531'&amp;EntityType='LinearSchedule'&amp;EntityId='70ad85b6-81e8-41be-962f-f602f5ad9862'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121141237 +0000" stop="20260121150440 +0000">
+		<title>Fear Factor USA - EP6</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271555'&amp;EntityType='LinearSchedule'&amp;EntityId='3724b911-c010-496f-ab04-82e30e1e3395'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121150440 +0000" stop="20260121164814 +0000">
+		<title>Fear Factor USA - EP7</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271562'&amp;EntityType='LinearSchedule'&amp;EntityId='62491446-1c7c-43a5-8b9c-912bfac570f7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20260120155310 +0000" stop="20260120164541 +0000">
 		<title>River Monsters - Phantom Assassin</title>
@@ -4077,6 +4360,256 @@
 		<title>No programme available now. Next broadcast on 23rd January, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 23rd January, Friday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11281928'&amp;EntityType='LinearSchedule'&amp;EntityId='f1dc5e9e-e5ed-4fdc-bc02-36197bbd2822'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121163649 +0000" stop="20260121172611 +0000">
+		<title>Deal or No Deal USA - EP34</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272598'&amp;EntityType='LinearSchedule'&amp;EntityId='32e9823a-68b2-40ec-b318-5e98b8fc7beb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121172611 +0000" stop="20260121181603 +0000">
+		<title>Deal or No Deal USA - EP37</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272570'&amp;EntityType='LinearSchedule'&amp;EntityId='f29e4d66-7d71-450a-a57c-9b615a0c4c5f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121181603 +0000" stop="20260121190400 +0000">
+		<title>Deal or No Deal USA - EP38</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272574'&amp;EntityType='LinearSchedule'&amp;EntityId='27ec4b6b-c9fe-47b1-bc16-dce818586a71'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121190400 +0000" stop="20260121195411 +0000">
+		<title>Deal or No Deal USA - EP39</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272554'&amp;EntityType='LinearSchedule'&amp;EntityId='0a41b6f2-ed2e-40a7-8665-fb581eb6d6dc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121195411 +0000" stop="20260121204211 +0000">
+		<title>Deal or No Deal USA - EP40</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272578'&amp;EntityType='LinearSchedule'&amp;EntityId='49f3d3d5-908c-444d-9282-4b06139fe4fd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121204211 +0000" stop="20260121213004 +0000">
+		<title>Deal or No Deal USA - EP41</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272602'&amp;EntityType='LinearSchedule'&amp;EntityId='83566108-7700-425c-9b02-2a215a959c5d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121213004 +0000" stop="20260121221807 +0000">
+		<title>Deal or No Deal USA - EP42</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272546'&amp;EntityType='LinearSchedule'&amp;EntityId='1b8065d8-72f4-4b9c-850a-ddb27213fe30'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121221807 +0000" stop="20260121230818 +0000">
+		<title>Deal or No Deal USA - EP43</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272550'&amp;EntityType='LinearSchedule'&amp;EntityId='d0d38c34-30b0-4977-887e-2f91eade92c6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260121230818 +0000" stop="20260122000057 +0000">
+		<title>Deal or No Deal USA - EP45</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272562'&amp;EntityType='LinearSchedule'&amp;EntityId='5cd873b6-71df-4ce0-998c-35b7e557b819'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122000057 +0000" stop="20260122011226 +0000">
+		<title>Deal or No Deal USA - EP47</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272566'&amp;EntityType='LinearSchedule'&amp;EntityId='d427bd15-8f75-4156-8e20-6f2fff17fd35'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122011226 +0000" stop="20260122022250 +0000">
+		<title>Deal or No Deal USA - EP48</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272530'&amp;EntityType='LinearSchedule'&amp;EntityId='283d7f21-28e5-4edc-9ec1-139bfc73fe8c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122022250 +0000" stop="20260122031250 +0000">
+		<title>Deal or No Deal USA - EP49</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272534'&amp;EntityType='LinearSchedule'&amp;EntityId='af8f5bd0-ee2c-4cf8-b4c7-9acec7d00f58'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122031250 +0000" stop="20260122040306 +0000">
+		<title>Deal or No Deal USA - EP52</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272606'&amp;EntityType='LinearSchedule'&amp;EntityId='b4a54246-da71-40b9-a5ba-ebf90344f149'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122040306 +0000" stop="20260122045315 +0000">
+		<title>Deal or No Deal USA - EP54</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272585'&amp;EntityType='LinearSchedule'&amp;EntityId='eec142e3-5307-4d39-8c13-8e79361710cc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122045315 +0000" stop="20260122054127 +0000">
+		<title>Deal or No Deal USA - EP56</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272538'&amp;EntityType='LinearSchedule'&amp;EntityId='9eb1ed7f-7cde-4bc2-b90f-2f4c88691ff7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122054127 +0000" stop="20260122062850 +0000">
+		<title>Deal or No Deal USA - EP58</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272542'&amp;EntityType='LinearSchedule'&amp;EntityId='cef6b8e3-5a67-47ca-adbc-87c304967067'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122062850 +0000" stop="20260122071859 +0000">
+		<title>Deal or No Deal USA - EP59</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272590'&amp;EntityType='LinearSchedule'&amp;EntityId='c93dead7-f58c-4ac3-b705-5d9de04a79f8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122071859 +0000" stop="20260122082631 +0000">
+		<title>Deal or No Deal USA - EP63</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11272594'&amp;EntityType='LinearSchedule'&amp;EntityId='c99a780e-9b43-4719-bccc-f2b905614ee6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122082631 +0000" stop="20260122095629 +0000">
+		<title>Deal or No Deal USA - EP64</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297906'&amp;EntityType='LinearSchedule'&amp;EntityId='6715cd56-01b3-4408-9f21-72251e6a5598'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122095629 +0000" stop="20260122112633 +0000">
+		<title>Deal or No Deal USA - EP65</title>
+		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297947'&amp;EntityType='LinearSchedule'&amp;EntityId='3d499729-3420-4dc8-8d36-d3e13ee7b5e4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122112633 +0000" stop="20260122121643 +0000">
+		<title>Deal or No Deal USA - EP18</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (18 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297927'&amp;EntityType='LinearSchedule'&amp;EntityId='723776d7-8ba4-41ee-96c6-729518debb02'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122121643 +0000" stop="20260122130551 +0000">
+		<title>Deal or No Deal USA - EP27</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (27 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297966'&amp;EntityType='LinearSchedule'&amp;EntityId='36fddfaf-effc-44d1-ba27-2e034a5a6a7d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122130551 +0000" stop="20260122135323 +0000">
+		<title>Deal or No Deal USA - EP31</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (31 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297938'&amp;EntityType='LinearSchedule'&amp;EntityId='db8b8689-75a6-4dd6-9273-7f02bf5239e3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122135323 +0000" stop="20260122144056 +0000">
+		<title>Deal or No Deal USA - EP28</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (28 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297973'&amp;EntityType='LinearSchedule'&amp;EntityId='51b8c438-ec76-4f67-b67d-77f415c30f55'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122144056 +0000" stop="20260122152858 +0000">
+		<title>Deal or No Deal USA - EP29</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (29 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297956'&amp;EntityType='LinearSchedule'&amp;EntityId='09b19738-33e4-4f0d-9494-0484f2de0b3b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="570813" start="20260122152858 +0000" stop="20260122161841 +0000">
+		<title>Deal or No Deal USA - EP30</title>
+		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (30 out of 39)</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297917'&amp;EntityType='LinearSchedule'&amp;EntityId='27d2f14e-9518-4072-b92c-84ca3f7c799d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121164814 +0000" stop="20260121180833 +0000">
+		<title>Fear Factor USA - EP10</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271599'&amp;EntityType='LinearSchedule'&amp;EntityId='ac6c08a8-6ccf-4a96-800d-bc5393a59dc0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121180833 +0000" stop="20260121190150 +0000">
+		<title>Fear Factor USA - EP11</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271631'&amp;EntityType='LinearSchedule'&amp;EntityId='45413274-dcee-4e8f-8430-a075d196e4ed'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121190150 +0000" stop="20260121195609 +0000">
+		<title>Fear Factor USA - EP12</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271635'&amp;EntityType='LinearSchedule'&amp;EntityId='b7409e50-392b-407a-9fe4-a81338245be4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121195609 +0000" stop="20260121204929 +0000">
+		<title>Fear Factor USA - EP13</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271639'&amp;EntityType='LinearSchedule'&amp;EntityId='b7a35293-f969-4cbb-ae0e-2a7f6ca59f4c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121204929 +0000" stop="20260121214132 +0000">
+		<title>Fear Factor USA - EP8</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271607'&amp;EntityType='LinearSchedule'&amp;EntityId='f96bd0cf-2a6a-46c2-af39-db6ada3ca609'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121214132 +0000" stop="20260121223336 +0000">
+		<title>Fear Factor USA - EP9</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271619'&amp;EntityType='LinearSchedule'&amp;EntityId='6780b69b-7439-4aef-aab1-8df58cb82d9b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121223336 +0000" stop="20260121235118 +0000">
+		<title>Fear Factor USA - EP10</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271613'&amp;EntityType='LinearSchedule'&amp;EntityId='a0b9178b-61a4-4aad-b590-842cf6e4bc04'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260121235118 +0000" stop="20260122005410 +0000">
+		<title>Fear Factor USA - EP11</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11271623'&amp;EntityType='LinearSchedule'&amp;EntityId='3dd229ad-b40d-4497-92de-c03f68b5c22f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122005410 +0000" stop="20260122014611 +0000">
+		<title>Fear Factor USA - EP12</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297533'&amp;EntityType='LinearSchedule'&amp;EntityId='44ffe2b2-9727-4285-b908-d07d76acb241'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122014611 +0000" stop="20260122024032 +0000">
+		<title>Fear Factor USA - EP13</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297545'&amp;EntityType='LinearSchedule'&amp;EntityId='bf4be5d0-4801-4fd1-a9d1-67b9fedcc5bd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122024032 +0000" stop="20260122033450 +0000">
+		<title>Fear Factor USA - EP14</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297549'&amp;EntityType='LinearSchedule'&amp;EntityId='152c0670-7db3-4658-979d-72a6c472bcf6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122033450 +0000" stop="20260122042905 +0000">
+		<title>Fear Factor USA - EP15</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297573'&amp;EntityType='LinearSchedule'&amp;EntityId='25e4c2ed-f439-468b-997b-4b8fc58546a6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122042905 +0000" stop="20260122052319 +0000">
+		<title>Fear Factor USA - EP16</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297592'&amp;EntityType='LinearSchedule'&amp;EntityId='6e528291-a1e8-4dd4-b290-33fc9b3002b3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122052319 +0000" stop="20260122061734 +0000">
+		<title>Fear Factor USA - EP17</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297577'&amp;EntityType='LinearSchedule'&amp;EntityId='9066444e-9bef-416c-8cc2-06cb881fdba8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122061734 +0000" stop="20260122071147 +0000">
+		<title>Fear Factor USA - EP18</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297537'&amp;EntityType='LinearSchedule'&amp;EntityId='fd42ebb8-f773-4039-9984-dbfab6de417d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122071147 +0000" stop="20260122080500 +0000">
+		<title>Fear Factor USA - EP19</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297553'&amp;EntityType='LinearSchedule'&amp;EntityId='75f48498-0c29-42f5-846d-875d8da03c24'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122080500 +0000" stop="20260122085904 +0000">
+		<title>Fear Factor USA - EP20</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297557'&amp;EntityType='LinearSchedule'&amp;EntityId='d0591a19-e953-43e4-b140-7a3b73dadce0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122085904 +0000" stop="20260122095313 +0000">
+		<title>Fear Factor USA - EP21</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297541'&amp;EntityType='LinearSchedule'&amp;EntityId='f7d6e3d0-2adc-4cc6-a48d-763deee73b6a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122095313 +0000" stop="20260122104715 +0000">
+		<title>Fear Factor USA - EP22</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297561'&amp;EntityType='LinearSchedule'&amp;EntityId='9668e866-aef0-4ef7-8b57-18959bc1dac7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122104715 +0000" stop="20260122120704 +0000">
+		<title>Fear Factor USA - EP23</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297565'&amp;EntityType='LinearSchedule'&amp;EntityId='b9f3f9b9-3a72-490e-ab48-0878602d1136'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122120704 +0000" stop="20260122130522 +0000">
+		<title>Fear Factor USA - EP24</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297597'&amp;EntityType='LinearSchedule'&amp;EntityId='dcadf619-0675-4e08-aa0d-5f88060cabc6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122130522 +0000" stop="20260122144751 +0000">
+		<title>Fear Factor USA - EP25</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297583'&amp;EntityType='LinearSchedule'&amp;EntityId='d22bfc7c-ecf3-4f6f-a706-65013ea94009'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122144751 +0000" stop="20260122154207 +0000">
+		<title>Fear Factor USA - EP26</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297569'&amp;EntityType='LinearSchedule'&amp;EntityId='34dad82a-8cc5-4d76-93ec-11326a6790e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260122154207 +0000" stop="20260122170156 +0000">
+		<title>Fear Factor USA - EP14</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11297601'&amp;EntityType='LinearSchedule'&amp;EntityId='c0c84cab-01aa-458d-8bd4-a9c20e146baf'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20260121163353 +0000" stop="20260121172645 +0000">
 		<title>River Monsters - Devil of the Deep</title>
