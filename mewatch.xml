@@ -24,14 +24,6 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
-	<channel id="576059">
-		<display-name>ASEAN Para Games CH01</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11369750'&amp;EntityType='Item'&amp;EntityId='576059'&amp;Width=429&amp;Height=250" />
-	</channel>
-	<channel id="576060">
-		<display-name>ASEAN Para Games CH02</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11369744'&amp;EntityType='Item'&amp;EntityId='576060'&amp;Width=429&amp;Height=250" />
-	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -39,6 +31,10 @@
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
+	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
 	<channel id="570813">
 		<display-name>Deal or No Deal</display-name>
@@ -1046,26 +1042,6 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11374436'&amp;EntityType='LinearSchedule'&amp;EntityId='24f33975-8a66-4f0a-a038-d4b41a69cac3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20260126160000 +0000" stop="20260127160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11370411'&amp;EntityType='LinearSchedule'&amp;EntityId='0a9f8f9d-f369-42e3-8abc-c6a0009dd299'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="576059" start="20260127160000 +0000" stop="20260128160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11375567'&amp;EntityType='LinearSchedule'&amp;EntityId='6f8c6eb4-375a-4ea6-8e7e-54dbfbaa1a5d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="576060" start="20260126160000 +0000" stop="20260127160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11386436'&amp;EntityType='LinearSchedule'&amp;EntityId='20767509-6e67-47d1-9709-9deffd733020'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="576060" start="20260127160000 +0000" stop="20260128160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11386440'&amp;EntityType='LinearSchedule'&amp;EntityId='b6043b5e-9000-46f0-9352-687d339db6b0'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="98200" start="20260126160000 +0000" stop="20260127160000 +0000">
 		<title>No Programme available now. Next Broadcast on 30th January, Friday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Hougang United FC vs Young Lions on 30th January, Friday 7.20pm. Please stay tuned!</desc>
@@ -1210,6 +1186,16 @@
 		<title>No programme available now. Next broadcast on 28th January, Wednesday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 28th January, Wednesday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11374151'&amp;EntityType='LinearSchedule'&amp;EntityId='2d720164-38d7-4a81-a69a-471677500e9f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260126160000 +0000" stop="20260127160000 +0000">
+		<title>No Programme available now. Next Broadcast on 28th January, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs Buriram United FC on 28th January, Wednesday 7.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11358448'&amp;EntityType='LinearSchedule'&amp;EntityId='6a201eb0-027b-4415-83c3-f3e7a885fab4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260127160000 +0000" stop="20260128113000 +0000">
+		<title>No Programme available now. Next Broadcast on 28th January, Wednesday 7.30pm. ASEAN Shopee Cup 2025/2026</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs Buriram United FC on 28th January, Wednesday 7.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11374531'&amp;EntityType='LinearSchedule'&amp;EntityId='c8285b7a-f306-4d07-8ac4-3b41c056e8fa'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="570813" start="20260126154851 +0000" stop="20260126163851 +0000">
 		<title>Deal or No Deal USA - EP49</title>
@@ -4086,16 +4072,6 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11407351'&amp;EntityType='LinearSchedule'&amp;EntityId='c11c4b22-b9e8-43fc-82f4-f4cd9c90760a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="576059" start="20260128160000 +0000" stop="20260129160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11408521'&amp;EntityType='LinearSchedule'&amp;EntityId='4aae59ad-5450-4b4a-8a0c-91728b9109c2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="576060" start="20260128160000 +0000" stop="20260129160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11408525'&amp;EntityType='LinearSchedule'&amp;EntityId='ef8a7e3f-4052-4ab4-b0ed-95fa21395a66'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="98200" start="20260128160000 +0000" stop="20260129160000 +0000">
 		<title>No Programme available now. Next Broadcast on 30th January, Friday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Hougang United FC vs Young Lions on 30th January, Friday 7.20pm. Please stay tuned!</desc>
@@ -4235,6 +4211,21 @@
 		<title>No programme available now. Next broadcast on 29th January, Thursday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 29th January, Thursday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11407128'&amp;EntityType='LinearSchedule'&amp;EntityId='ceff31f3-17f2-4f3c-abfd-47b452bafd46'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260128113000 +0000" stop="20260128133000 +0000">
+		<title>ASEAN Shopee Cup 2025/2026: BG Tampines Rovers FC vs Buriram United FC</title>
+		<desc>Southeast Asia’s top teams and players will battle each other for regional supremacy their quest for a slice of the US$3 million prize fund in the ASEAN Club Championship Shopee Cup™ season 2025/26 as the group stage matches of the inaugural tournament gets underway with from 20 Aug. 10 teams will feature in the group stage as they compete to be crowned ASEAN’s top club team.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11374543'&amp;EntityType='LinearSchedule'&amp;EntityId='fd2bda04-d8ef-4909-91b9-fd61834e7248'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260128133000 +0000" stop="20260128160000 +0000">
+		<title>No Programme available now. Next Broadcast on 29th January, Thursday 8.30pm. ASEAN Shopee Cup 2025/2026</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: Nam Dinh FC vs Lion City Sailors FC on 29th January, Thursday 8.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11374535'&amp;EntityType='LinearSchedule'&amp;EntityId='adec47a2-9edc-4a6f-ae10-4e5a225827b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260128160000 +0000" stop="20260129123000 +0000">
+		<title>No Programme available now. Next Broadcast on 29th January, Thursday 8.30pm. ASEAN Shopee Cup 2025/2026</title>
+		<desc>LIVE 5 will commence broadcast of the ASEAN Shopee Cup 2025/2026: Nam Dinh FC vs Lion City Sailors FC on 29th January, Thursday 8.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11407497'&amp;EntityType='LinearSchedule'&amp;EntityId='4011ffff-d855-459e-a32d-c2a5270d6db3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="570813" start="20260127161909 +0000" stop="20260127170834 +0000">
 		<title>Deal or No Deal USA - Hoop Dreams</title>
