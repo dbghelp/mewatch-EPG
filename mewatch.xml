@@ -32,6 +32,10 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
+	<channel id="97078">
+		<display-name>LIVE 2</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
+	</channel>
 	<channel id="98202">
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
@@ -1171,6 +1175,16 @@
 		<title>No programme available now. Next broadcast on 4th February, Wednesday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 4th February, Wednesday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11710695'&amp;EntityType='LinearSchedule'&amp;EntityId='8d72fcff-6b6d-4716-9d49-876e1f5d1ba0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260202160000 +0000" stop="20260203160000 +0000">
+		<title>No Programme available now. Next Broadcast on 4th February, Wednesday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team: China vs Malaysia</title>
+		<desc>LIVE 2 will commence broadcast of the TSINGTAO Badminton Asia Team Championships 2026: Women's Team: China vs Malaysia on 4th February, Wednesday 10.55am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11659674'&amp;EntityType='LinearSchedule'&amp;EntityId='20ae91e5-efce-4602-8448-404adf6b9a87'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260203160000 +0000" stop="20260204025500 +0000">
+		<title>No Programme available now. Next Broadcast on 4th February, Wednesday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women’s Team: China vs Malaysia</title>
+		<desc>LIVE 2 will commence broadcast of the TSINGTAO Badminton Asia Team Championships 2026: Women's Team: China vs Malaysia on 4th February, Wednesday 10.55am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11711177'&amp;EntityType='LinearSchedule'&amp;EntityId='5e806805-6ab4-4398-8cb9-dd3cfed25951'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98202" start="20260202160000 +0000" stop="20260203160000 +0000">
 		<title>No Programme available now. Next Broadcast on 4th February, Wednesday 3.52am. Carabao Cup 2025/26</title>
@@ -4272,20 +4286,45 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 5th February, Thursday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11761332'&amp;EntityType='LinearSchedule'&amp;EntityId='c982b48f-950a-4ea0-b2aa-c10cb7a215ad'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="97078" start="20260204025500 +0000" stop="20260204080000 +0000">
+		<title>TSINGTAO Badminton Asia Team Championships 2026: Women’s Team: China vs Malaysia</title>
+		<desc>The Badminton Asia Mixed Team Championships 2026 is the sixth edition of the Championships, a continental badminton tournament to crown the best mixed national badminton teams in Asia. The tournament will be held with Tsingtao, China, from 4 to 8 Feb 2026. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12073329'&amp;EntityType='LinearSchedule'&amp;EntityId='a918ff13-4b75-4ec9-8bcd-e86853d1bbd9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260204080000 +0000" stop="20260204085500 +0000">
+		<title>No Programme available now. Next Broadcast on 4th February, Wednesday 04.55pm. TSINGTAO Badminton Asia Team Championships 2026: Men's Team: India vs Singapore</title>
+		<desc>LIVE 2 will commence broadcast of the TSINGTAO Badminton Asia Team Championships 2026: Men’s Team: India vs Singapore on 4th February, Wednesday 04.55pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11878380'&amp;EntityType='LinearSchedule'&amp;EntityId='082d529e-09c3-4399-9cef-2e180dd1ac99'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260204085500 +0000" stop="20260204140000 +0000">
+		<title>TSINGTAO Badminton Asia Team Championships 2026: Men’s Team: India vs Singapore</title>
+		<desc>The Badminton Asia Mixed Team Championships 2026 is the sixth edition of the Championships, a continental badminton tournament to crown the best mixed national badminton teams in Asia. The tournament will be held with Tsingtao, China, from 4 to 8 Feb 2026. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12073333'&amp;EntityType='LinearSchedule'&amp;EntityId='c847dda8-5b75-417b-89d9-acd289f9fc33'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260204140000 +0000" stop="20260204160000 +0000">
+		<title>No Programme available now. Next Broadcast on 5th February, Thursday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women's Team: Korea vs Taipei</title>
+		<desc>LIVE 2 will commence broadcast of the TSINGTAO Badminton Asia Team Championships 2026: Women’s Team: Korea vs Taipei on 5th February, Thursday 10.55am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11878388'&amp;EntityType='LinearSchedule'&amp;EntityId='40e7f5a7-b2bb-4fe9-b77b-12b185491d69'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260204160000 +0000" stop="20260205025500 +0000">
+		<title>No Programme available now. Next Broadcast on 5th February, Thursday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women's Team: Korea vs Taipei</title>
+		<desc>LIVE 2 will commence broadcast of the TSINGTAO Badminton Asia Team Championships 2026: Women’s Team: Korea vs Taipei on 5th February, Thursday 10.55am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11760744'&amp;EntityType='LinearSchedule'&amp;EntityId='d0d4a24c-fa8a-4779-8396-c2e71a5509eb'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="98202" start="20260203195200 +0000" stop="20260203220000 +0000">
 		<title>Carabao Cup 2025/26: Arsenal vs Chelsea</title>
 		<desc>The Carabao Cup is the showpiece cup competition of the English Football League (EFL) and an annual knockout competition in men's domestic football in England featuring all clubs from the EFL and Premier League. Catch selected matches from Round 4, the Quarter-finals, Semi-finals and Final ‘live’ on mewatch! </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11710972'&amp;EntityType='LinearSchedule'&amp;EntityId='8e482b79-3d90-42bb-8509-42a3de2a77c3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20260203220000 +0000" stop="20260204030000 +0000">
-		<title>No Programme available now. Next Broadcast on 4th February, Wednesday 11am. TSINGTAO Badminton Asia Team Championships 2026</title>
-		<desc>LIVE 5 will commence broadcast of the TSINGTAO Badminton Asia Team Championships 2026 on 4th February, Wednesday 11am. Please stay tuned!</desc>
+	<programme channel="98202" start="20260203220000 +0000" stop="20260204025500 +0000">
+		<title>No Programme available now. Next Broadcast on 4th February, Wednesday 10.55am. TSINGTAO Badminton Asia Team Championships 2026: Women's Team: Taipei vs Singapore</title>
+		<desc>LIVE 5 will commence broadcast of the TSINGTAO Badminton Asia Team Championships 2026: Women's Team: Taipei vs Singapore on 4th February, Wednesday 10.55am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11710951'&amp;EntityType='LinearSchedule'&amp;EntityId='e9b36b3c-bf3d-469b-adfd-fce06abb3083'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20260204030000 +0000" stop="20260204080000 +0000">
-		<title>TSINGTAO Badminton Asia Team Championships 2026</title>
+	<programme channel="98202" start="20260204025500 +0000" stop="20260204080000 +0000">
+		<title>TSINGTAO Badminton Asia Team Championships 2026: Women's Team: Taipei vs Singapore</title>
 		<desc>The Badminton Asia Mixed Team Championships 2026 is the sixth edition of the Championships, a continental badminton tournament to crown the best mixed national badminton teams in Asia. The tournament will be held with Tsingtao, China, from 4 to 8 Feb 2026. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='11878368'&amp;EntityType='LinearSchedule'&amp;EntityId='1635f925-421b-4bc8-9c20-65f99a32253d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12073337'&amp;EntityType='LinearSchedule'&amp;EntityId='8e962c9e-572c-47e7-a759-c1fb223936b7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98202" start="20260204080000 +0000" stop="20260204123000 +0000">
 		<title>No Programme available now. Next Broadcast on 4th February, Wednesday 8.30pm. ASEAN Shopee Cup 2025/2026</title>
