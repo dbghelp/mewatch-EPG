@@ -36,6 +36,10 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
 	<channel id="570813">
 		<display-name>Deal or No Deal</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089317'&amp;EntityType='Item'&amp;EntityId='570813'&amp;Width=127&amp;Height=59" />
@@ -1211,6 +1215,16 @@
 		<title>No programmes streaming LIVE at this moment</title>
 		<desc>There are currently no programmes on this channel.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12130618'&amp;EntityType='LinearSchedule'&amp;EntityId='6939c535-5f99-425f-869c-23e7d6b3f022'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260209160000 +0000" stop="20260210160000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th February, Wednesday 8.15pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Cong An Ha Noi FC vs BG Tampines Rovers FC on 11th February, Wednesday 8.15pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12007708'&amp;EntityType='LinearSchedule'&amp;EntityId='22ddca2a-b2c3-4afd-a274-abf56a916256'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260210160000 +0000" stop="20260211121500 +0000">
+		<title>No Programme available now. Next Broadcast on 11th February, Wednesday 8.15pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Cong An Ha Noi FC vs BG Tampines Rovers FC on 11th February, Wednesday 8.15pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12105868'&amp;EntityType='LinearSchedule'&amp;EntityId='f8f15087-4024-4ad6-8c12-43d191e6d697'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="570813" start="20260209154313 +0000" stop="20260209162950 +0000">
 		<title>Deal or No Deal USA - EP11</title>
@@ -4396,6 +4410,11 @@
 		<title>No programmes streaming LIVE at this moment</title>
 		<desc>There are currently no programmes on this channel.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12130622'&amp;EntityType='LinearSchedule'&amp;EntityId='6b3e179e-3117-47ca-be13-793359d3dd36'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260211121500 +0000" stop="20260212141500 +0000">
+		<title>AFC Champions League Two 2025/26: Cong An Ha Noi FC vs BG Tampines Rovers FC</title>
+		<desc>AFC Champions League Two 2025/26 will be the 22nd edition of Asia’s second-tier club football tournament. This season features 32 teams competing in a round-robin group stage format from September to December 2025 and the knock-out stage from February to May 2025, with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2026/27. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12105864'&amp;EntityType='LinearSchedule'&amp;EntityId='380993c8-07b1-4c87-a9ce-670c925472cc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="570813" start="20260210163150 +0000" stop="20260210171922 +0000">
 		<title>Deal or No Deal USA - EP7</title>
