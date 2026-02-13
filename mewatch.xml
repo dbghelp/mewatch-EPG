@@ -32,14 +32,6 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="97078">
-		<display-name>LIVE 2</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
-	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -95,6 +87,10 @@
 	<channel id="158963">
 		<display-name>NOW Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510610'&amp;EntityType='Item'&amp;EntityId='158963'&amp;Width=193&amp;Height=187" />
+	</channel>
+	<channel id="382872">
+		<display-name>CinemaWorld</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260212160000 +0000" stop="20260212163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 15</title>
@@ -1225,26 +1221,6 @@
 		<title>No programme available now. Next broadcast on 14th February, Saturday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 14th February, Saturday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12411979'&amp;EntityType='LinearSchedule'&amp;EntityId='5a4b382d-a4c0-464c-89c4-c445b1205457'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20260212160000 +0000" stop="20260213160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12154746'&amp;EntityType='LinearSchedule'&amp;EntityId='6a104352-4f08-4041-977c-81c0da06f8d2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20260213160000 +0000" stop="20260214160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12204863'&amp;EntityType='LinearSchedule'&amp;EntityId='2b98086e-2fd6-4137-af82-06c0cc0141a6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260212160000 +0000" stop="20260213160000 +0000">
-		<title>No Programme available now. Next Broadcast on 18th February, Wednesday 8.05pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Cong An Ha Noi FC on 18th February, Wednesday 8.05pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12418252'&amp;EntityType='LinearSchedule'&amp;EntityId='19ab64eb-7ca7-4bb0-939f-d21ad0590598'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260213160000 +0000" stop="20260214160000 +0000">
-		<title>No Programme available now. Next Broadcast on 18th February, Wednesday 8.05pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Cong An Ha Noi FC on 18th February, Wednesday 8.05pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12418256'&amp;EntityType='LinearSchedule'&amp;EntityId='27633887-e4d7-4d03-aad0-36d5f23f1654'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260212151945 +0000" stop="20260212161329 +0000">
 		<title>MasterChef New Zealand Season 04 - Dessert and Cocktail</title>
@@ -3471,6 +3447,81 @@
 		<desc>Rock &amp; Roll started as a rebellion and Nicky Horne brings you the 25 people who pushed all the boundaries &amp; refused to conform! These are greatest Rock Rebels of all time!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12167452'&amp;EntityType='LinearSchedule'&amp;EntityId='ab45f295-3ab0-470d-a441-a1de0dcf1faf'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="382872" start="20260212151000 +0000" stop="20260212164500 +0000">
+		<title>Mammal</title>
+		<desc>Margaret (Rachel Griffiths), a silently grieving divorcee forms an intense bond with Joe (Barry Keoghan), a homeless youth. Their oedipal relationship is threatened by the wrath of Margaret’s ex-husband and Joe’s involvement with a gang of violent youths. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12110486'&amp;EntityType='LinearSchedule'&amp;EntityId='053e7c9f-5d51-4d1a-967e-b2d2f55563f9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260212164500 +0000" stop="20260212183500 +0000">
+		<title>SAF</title>
+		<desc>Desperate, Kamil takes a low wage job in Istanbul's urbanization project. In so doing, he displaces a Syrian refugee and partakes in his neighborhood’s destruction, while also needing to pay for the required permits. One day, Kamil suddenly disappears. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166937'&amp;EntityType='LinearSchedule'&amp;EntityId='c7ad9b04-547a-4e35-8cdd-6f2003a95019'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260212183500 +0000" stop="20260212200500 +0000">
+		<title>180 Degree Rule</title>
+		<desc>Sara, a schoolteacher from Tehran, is preparing to attend a wedding in northern Iran with her family. When her husband suddenly forbids her from going, she hatches a plan to go in secret. But her choice soon places her on a painful path to atonement.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166960'&amp;EntityType='LinearSchedule'&amp;EntityId='1ed745cd-d7c0-4503-9f7c-aabf8606c397'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260212200500 +0000" stop="20260212220000 +0000">
+		<title>Copperman</title>
+		<desc>Anselmo, an adult with the mental age of a child, fights evil and the criminals who threaten his country as Copperman, thanks to the special armor given to him by the local blacksmith.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166964'&amp;EntityType='LinearSchedule'&amp;EntityId='50e08808-7ebd-4e87-8f2f-8ca0efa0c270'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260212220000 +0000" stop="20260212234000 +0000">
+		<title>Latin For All</title>
+		<desc>Delphine, a disillusioned Latin teacher, made a deal with her class of 5 lazy students: if they keep quiet, they’ll all receive A grades without having to learn anything. Unfortunately, this qualifies them for a Latin competition taking place in Naples.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166928'&amp;EntityType='LinearSchedule'&amp;EntityId='fa183867-cfed-45a6-b86b-43f92b689f36'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260212234000 +0000" stop="20260213011500 +0000">
+		<title>Dad Got Grounded</title>
+		<desc>Paul is a great pilot, but after breaking his promise to retire early to care for their son, his wife leaves him. Faced with having to take care of their son and his two other children by himself, Paul must show that he is a good father to win her back.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166968'&amp;EntityType='LinearSchedule'&amp;EntityId='7719f0b2-5bfe-41bf-981a-28dd55d87ed2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213011500 +0000" stop="20260213025500 +0000">
+		<title>The Daval Mystery</title>
+		<desc>Jonathann Daval reports the disappearance of his wife Alexia after she fails to return from her morning jog. Over the next three months, the police will launch the most relentless investigation into a media saga that will shake the whole of France.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166972'&amp;EntityType='LinearSchedule'&amp;EntityId='66e61df1-7da3-46d6-ba88-06017b7533d7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213025500 +0000" stop="20260213042500 +0000">
+		<title>The Return (2018)</title>
+		<desc>Two Danish-Korean adoptees, Karoline and Thomas, return to their birth country for the first time. The pair meet in Seoul where they encounter fellow adoptees, sparking an emotional journey that challenges their destiny and identity. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166948'&amp;EntityType='LinearSchedule'&amp;EntityId='c6d0e04b-0021-484d-b8be-93f7c18b83fc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213042500 +0000" stop="20260213063500 +0000">
+		<title>Paralympian</title>
+		<desc>Inspired by true stories. The one leg athlete sinks into a deep depression, until one day he is offered to try his luck at the Paralympic games. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166976'&amp;EntityType='LinearSchedule'&amp;EntityId='1222abed-7a31-43e9-9df8-c25c175ab958'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213063500 +0000" stop="20260213084000 +0000">
+		<title>I Was, I Am, I Will Be</title>
+		<desc>Baran, a Kurdish gigolo seeking a better life in Europe meets Marion, a German pilot struggling with her cancer diagnosis. Entering into what was initially a sham marriage, the pair's relationship develops into something deeper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166952'&amp;EntityType='LinearSchedule'&amp;EntityId='e3180993-f5c6-469a-84bd-1174e5dd0ec2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213084000 +0000" stop="20260213101500 +0000">
+		<title>Mammal</title>
+		<desc>Margaret (Rachel Griffiths), a silently grieving divorcee forms an intense bond with Joe (Barry Keoghan), a homeless youth. Their oedipal relationship is threatened by the wrath of Margaret’s ex-husband and Joe’s involvement with a gang of violent youths. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166919'&amp;EntityType='LinearSchedule'&amp;EntityId='ad403e93-d471-4938-b614-d08bc97c2d23'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213101500 +0000" stop="20260213115500 +0000">
+		<title>Codename Holec</title>
+		<desc>Honza films the Russian invasion of 1968 in Prague and takes the politically charged movie and actress Eva, the love of his life, on a secret trip to Vienna. There they meet a director who knows Eva very well and the Czech Secret Service even better. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166944'&amp;EntityType='LinearSchedule'&amp;EntityId='2ea876f6-c0c4-46d0-ae15-b30f325b3df7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213115500 +0000" stop="20260213140000 +0000">
+		<title>Winners</title>
+		<desc>11-year-old Mona, a Syrian refugee in Berlin, struggles to adapt to her new life. When she joins a competitive girls' football team, she faces the challenge of being an outsider. Soon she realizes the value of teamwork for success.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166980'&amp;EntityType='LinearSchedule'&amp;EntityId='985bc4f1-1785-4759-b2c0-58d55b73f983'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213140000 +0000" stop="20260213153500 +0000">
+		<title>In His Hands</title>
+		<desc>Clara, a lawyer, leads a serene but monotonous life alongside her husband Damien and their two children. One evening, she succumbs to the charm of a mysterious sculptor. This one scorching night will have dramatic repercussions for her and her family.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166923'&amp;EntityType='LinearSchedule'&amp;EntityId='cdbcb14d-cf23-4af8-9482-33f3f3c6e213'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213153500 +0000" stop="20260213170500 +0000">
+		<title>Running To The Sky</title>
+		<desc>Twelve-year-old Jekshen is an exceptional runner living in a beautiful mountain village in Kyrgyzstan. Struggling to live with his divorced alcoholic father, Jeksen sees an upcoming big race as an opportunity to change his life for the better.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12166956'&amp;EntityType='LinearSchedule'&amp;EntityId='f2142d09-e394-47ae-a28e-83180d2b4b32'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260213163000 +0000" stop="20260213173000 +0000">
 		<title>Great Continental Railway Journeys - Series 7 - EP 4</title>
 		<desc>Michael Portillo travels through Europe to understand life during the First and Second World Wars. On his travels, he visits Spain, France, Germany, Italy, Sweden, Austria and the Czech Republic, learning about the old empires of Europe swept away by revolution and a dozen new nations that embarked optimistically upon independence.</desc>
@@ -4475,16 +4526,6 @@
 		<title>No programme available now. Next broadcast on 15th February, Sunday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 15th February, Sunday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12411991'&amp;EntityType='LinearSchedule'&amp;EntityId='fa0ee165-261a-424f-99d0-9289bc9b2331'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20260214160000 +0000" stop="20260215160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12253309'&amp;EntityType='LinearSchedule'&amp;EntityId='6565853c-c667-4b17-834e-5d8eefb90c80'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260214160000 +0000" stop="20260215160000 +0000">
-		<title>No Programme available now. Next Broadcast on 18th February, Wednesday 8.05pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Cong An Ha Noi FC on 18th February, Wednesday 8.05pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12418260'&amp;EntityType='LinearSchedule'&amp;EntityId='07d7b7ef-ce27-4df5-a1ba-3a1d899d4b1b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260213164449 +0000" stop="20260213174048 +0000">
 		<title>MasterChef Australia Season 05 - Western Australia Team Challenge 1</title>
@@ -6520,5 +6561,75 @@
 		<title>Maxed Out On Anthems! - EP1</title>
 		<desc>Live it loud and Max out on the finest rock anthems! Featuring Paramore, Imagine Dragons, Linkin Park, Evanescense &amp; The Arctic Monkeys. This is Now Rock!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12219213'&amp;EntityType='LinearSchedule'&amp;EntityId='3eac41dd-b353-473c-851b-3a0662531111'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213170500 +0000" stop="20260213183500 +0000">
+		<title>Dad Got Grounded</title>
+		<desc>Paul is a great pilot, but after breaking his promise to retire early to care for their son, his wife leaves him. Faced with having to take care of their son and his two other children by himself, Paul must show that he is a good father to win her back.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217700'&amp;EntityType='LinearSchedule'&amp;EntityId='9c7cac09-e093-477b-82a1-9cec2128dd14'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213183500 +0000" stop="20260213200000 +0000">
+		<title>The Return (2018)</title>
+		<desc>Two Danish-Korean adoptees, Karoline and Thomas, return to their birth country for the first time. The pair meet in Seoul where they encounter fellow adoptees, sparking an emotional journey that challenges their destiny and identity. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217704'&amp;EntityType='LinearSchedule'&amp;EntityId='d70b1245-b1c5-45b1-af7f-081d9f4a6a3f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213200000 +0000" stop="20260213220000 +0000">
+		<title>I Was, I Am, I Will Be</title>
+		<desc>Baran, a Kurdish gigolo seeking a better life in Europe meets Marion, a German pilot struggling with her cancer diagnosis. Entering into what was initially a sham marriage, the pair's relationship develops into something deeper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217708'&amp;EntityType='LinearSchedule'&amp;EntityId='0b2ef185-f9ae-4d4e-a3e2-714276d8887b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260213220000 +0000" stop="20260214000000 +0000">
+		<title>Winners</title>
+		<desc>11-year-old Mona, a Syrian refugee in Berlin, struggles to adapt to her new life. When she joins a competitive girls' football team, she faces the challenge of being an outsider. Soon she realizes the value of teamwork for success.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217724'&amp;EntityType='LinearSchedule'&amp;EntityId='229d8f98-3c95-49d1-b896-fed88917bd14'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260214000000 +0000" stop="20260214014000 +0000">
+		<title>Birth of a Champion</title>
+		<desc>In 1984 Germany, a hot-headed teenage Boris Becker has but one goal: to play tennis in the big leagues, and to be the best at it. Despite his temper, he is scouted by coach Günther Bosch, who sees the future Wimbledon champion for what he is.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217712'&amp;EntityType='LinearSchedule'&amp;EntityId='f3874bd6-bd85-4e68-a56c-784299b02922'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260214014000 +0000" stop="20260214031500 +0000">
+		<title>In His Hands</title>
+		<desc>Clara, a lawyer, leads a serene but monotonous life alongside her husband Damien and their two children. One evening, she succumbs to the charm of a mysterious sculptor. This one scorching night will have dramatic repercussions for her and her family.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217716'&amp;EntityType='LinearSchedule'&amp;EntityId='5ffb405e-43ca-480d-a603-0bb069dac87f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260214031500 +0000" stop="20260214050000 +0000">
+		<title>The Takeover</title>
+		<desc>Cédric works in a company specialized in precision mechanics. Its management, run by an investment fund, is disastrous. As another fund is about to buy it again, Cédric decides to take the company over, giving it to the employees.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217684'&amp;EntityType='LinearSchedule'&amp;EntityId='6a58736b-a5a8-4773-ace9-e45e8de715d4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260214050000 +0000" stop="20260214063500 +0000">
+		<title>Codename Holec</title>
+		<desc>Honza films the Russian invasion of 1968 in Prague and takes the politically charged movie and actress Eva, the love of his life, on a secret trip to Vienna. There they meet a director who knows Eva very well and the Czech Secret Service even better. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217696'&amp;EntityType='LinearSchedule'&amp;EntityId='fc270b8a-9e67-40b2-8b13-c00f048c3b23'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260214063500 +0000" stop="20260214080500 +0000">
+		<title>Black As The Snow</title>
+		<desc>A serial killer is on the rampage in the ski resort of Morzine-Avoriaz. Vivier, French police officer teams up with the Swiss policeman Meyer to investigate the suspicious deaths of teenagers. They must find the killer before the victim list grows.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217728'&amp;EntityType='LinearSchedule'&amp;EntityId='dbdda7dc-2d45-49bb-a9ac-3c45eae45520'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260214080500 +0000" stop="20260214093500 +0000">
+		<title>Running To The Sky</title>
+		<desc>Twelve-year-old Jekshen is an exceptional runner living in a beautiful mountain village in Kyrgyzstan. Struggling to live with his divorced alcoholic father, Jeksen sees an upcoming big race as an opportunity to change his life for the better.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217732'&amp;EntityType='LinearSchedule'&amp;EntityId='385c1593-674f-4e5c-877c-bea5822e0f90'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260214093500 +0000" stop="20260214111000 +0000">
+		<title>Lilly's Disappearance (1)</title>
+		<desc>A family vacation turns into a nightmare when 5-year-old Lilly disappears without a trace. As her frantic parents desperately search for her, friends become suspects. Could her parents themselves also be hiding something?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217688'&amp;EntityType='LinearSchedule'&amp;EntityId='f01dd38c-0f9a-4f1b-99c6-9125e8aa16b2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260214111000 +0000" stop="20260214130000 +0000">
+		<title>Alpha.</title>
+		<desc>Seeking solitude after his mother’s death, Rein retreats to the Alps as a snowboard instructor. But when his boisterous father Gijs visits, tensions erupt on a treacherous mountain hike—until nature turns their rivalry into a desperate fight for survival.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217680'&amp;EntityType='LinearSchedule'&amp;EntityId='8d0d7993-fe07-4a4d-bc05-257543993772'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260214130000 +0000" stop="20260214150000 +0000">
+		<title>The Kiss</title>
+		<desc>In 1913 Denmark, young officer Anton grapples with duty and love when he befriends Baron von Løvenskjold's daughter, Edith, confined to a wheelchair. As their bond deepens, Anton is ensnared in a web of promises and lies, torn between pity and true love.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217720'&amp;EntityType='LinearSchedule'&amp;EntityId='056f4c3c-5a6f-4d5d-a947-c2a551b4fe0f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260214150000 +0000" stop="20260214165500 +0000">
+		<title>Remember To Blink</title>
+		<desc>Jacqueline adopts two children from a foreign country with her husband. To help with translation, the kids are accompanied by Gabriele, a twenty-year old who is just starting to taste the sweetness of feeling power. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12217692'&amp;EntityType='LinearSchedule'&amp;EntityId='5d824181-3ea0-43ad-9f14-104a7093acb2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
