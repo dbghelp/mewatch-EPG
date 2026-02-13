@@ -28,6 +28,10 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
+	<channel id="98201">
+		<display-name>SPL CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -1061,6 +1065,16 @@
 		<title>No Programme available now. Next Broadcast on 15th February, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs Tanjong Pagar United FC on 15th February, Sunday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12254033'&amp;EntityType='LinearSchedule'&amp;EntityId='d1602a3f-fc42-4853-bff4-ae4d55b17b5d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260213160000 +0000" stop="20260214160000 +0000">
+		<title>No Programme available now. Next Broadcast on 15th February, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Geylang International FC vs Hougang United FC on 15th February, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12205264'&amp;EntityType='LinearSchedule'&amp;EntityId='ed9b3225-1855-4d1f-8438-c9b55033cc07'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260214160000 +0000" stop="20260215112000 +0000">
+		<title>No Programme available now. Next Broadcast on 15th February, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Geylang International FC vs Hougang United FC on 15th February, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12253706'&amp;EntityType='LinearSchedule'&amp;EntityId='81f1af0f-93c3-4b3c-a99a-7257c42c43b1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260213160000 +0000" stop="20260214110000 +0000">
 		<title>No programme available now. Next broadcast on 14th February, Saturday 7pm. The Wonder Shop Home Shopping</title>
@@ -4276,6 +4290,21 @@
 		<title>No Programme available now. Next Broadcast on 20th February, Friday 8.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Balestier Khalsa FC vs Geylang International FC on 20th February, Friday 8.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12302912'&amp;EntityType='LinearSchedule'&amp;EntityId='ecac11fc-4243-4d25-a9d1-89847fb27118'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260215112000 +0000" stop="20260215133000 +0000">
+		<title>Singapore Premier League 2025/2026: Geylang International FC vs Hougang United FC</title>
+		<desc>The Singapore Premier League 2025-2026 is the 8th season of the Singapore Premier League. A total of eight teams are taking part in a triple round-robin format. Will Lion City Sailors continue to defend their champion title, having won the 2024 edition or will another club be crowned as the new champion?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12253696'&amp;EntityType='LinearSchedule'&amp;EntityId='9a57e54b-d479-482f-b183-48fca56fe0d1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260215133000 +0000" stop="20260215160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12253673'&amp;EntityType='LinearSchedule'&amp;EntityId='743c74ae-7f43-42b3-9331-27b42d11851b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260215160000 +0000" stop="20260216160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12302946'&amp;EntityType='LinearSchedule'&amp;EntityId='1f133034-9be5-46dc-90d7-4fb466900d50'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260215110000 +0000" stop="20260215111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Omron Knee TENS</title>
