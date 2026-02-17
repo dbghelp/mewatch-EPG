@@ -28,13 +28,13 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
-	<channel id="98201">
-		<display-name>SPL CH02</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
-	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
+	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
@@ -866,16 +866,6 @@
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Balestier Khalsa FC vs Geylang International FC on 20th February, Friday 8.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12441132'&amp;EntityType='LinearSchedule'&amp;EntityId='d77c63ca-2bb6-4016-87c5-9077b7c9b812'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98201" start="20260217160000 +0000" stop="20260218160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12391877'&amp;EntityType='LinearSchedule'&amp;EntityId='b51f2a9a-b005-42c8-bcd2-6ca1165dd7b2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20260218160000 +0000" stop="20260219160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12441156'&amp;EntityType='LinearSchedule'&amp;EntityId='6b0c293d-8d6f-4ffa-bc77-d844eb9f44c3'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97073" start="20260217160000 +0000" stop="20260218110000 +0000">
 		<title>No programme available now. Next broadcast on 18th February, Wednesday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 18th February, Wednesday 7pm. Please stay tuned!</desc>
@@ -1020,6 +1010,26 @@
 		<title>No programme available now. Next broadcast on 19th February, Thursday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 19th February, Thursday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12440602'&amp;EntityType='LinearSchedule'&amp;EntityId='98b8ed8b-91cb-413c-8de5-7342d17ea982'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260217160000 +0000" stop="20260218120500 +0000">
+		<title>No Programme available now. Next Broadcast on 18th February, Wednesday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Cong An Ha Noi FC on 18th February, Wednesday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12418272'&amp;EntityType='LinearSchedule'&amp;EntityId='6da7b59b-b31d-4abf-ad83-e4963fff6fa5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260218120500 +0000" stop="20260218141500 +0000">
+		<title>AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Cong An Ha Noi FC</title>
+		<desc>AFC Champions League Two 2025/26 will be the 22nd edition of Asia’s second-tier club football tournament. This season features 32 teams competing in a round-robin group stage format from September to December 2025 and the knock-out stage from February to May 2025, with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2026/27. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12468062'&amp;EntityType='LinearSchedule'&amp;EntityId='67bbb0a2-bde0-4826-834f-ec457c1eee7c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260218141500 +0000" stop="20260218160000 +0000">
+		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
+		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12418280'&amp;EntityType='LinearSchedule'&amp;EntityId='f997c251-37bb-4b70-9d34-f80734302978'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260218160000 +0000" stop="20260219160000 +0000">
+		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
+		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441169'&amp;EntityType='LinearSchedule'&amp;EntityId='9c1f64e3-6093-4cf9-b132-9a6a1ef848b1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260217155116 +0000" stop="20260217161803 +0000">
 		<title>MasterChef Australia Season 02 - EP44</title>
@@ -4146,11 +4156,6 @@
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Balestier Khalsa FC vs Geylang International FC on 20th February, Friday 8.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12489070'&amp;EntityType='LinearSchedule'&amp;EntityId='883d5a64-5409-4f69-a25e-1ea3d01e0e08'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98201" start="20260219160000 +0000" stop="20260220160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12488646'&amp;EntityType='LinearSchedule'&amp;EntityId='9833bdaf-9d8c-4e49-977c-749131bc9c33'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97073" start="20260219110000 +0000" stop="20260219111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - HQ Ling Zhi</title>
 		<desc>HQ Lingzhi Cracked Spores Powder is formulated and manufactured in Singapore. It enhances the body’s immune system, reduces fatigue, promotes blood circulation, protects the liver, and improves metabolism. HQ 灵芝破壁孢子粉由新加坡配制和生产。它能够增强身体的免疫系统，减少疲劳，促进血液循环，保护肝脏，并改善新陈代谢。</desc>
@@ -4290,6 +4295,11 @@
 		<title>No programme available now. Next broadcast on 20th February, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 20th February, Friday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12488290'&amp;EntityType='LinearSchedule'&amp;EntityId='c6c44430-fadf-46e4-a667-57cc423db039'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260219160000 +0000" stop="20260220160000 +0000">
+		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
+		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12488654'&amp;EntityType='LinearSchedule'&amp;EntityId='5b516301-9c8a-4057-84b9-8ed7b859c118'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260218165349 +0000" stop="20260218175037 +0000">
 		<title>MasterChef Australia Season 02 - EP73</title>
