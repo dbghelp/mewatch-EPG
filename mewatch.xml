@@ -36,6 +36,10 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
+	<channel id="558278">
+		<display-name>MasterChef</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
+	</channel>
 	<channel id="570813">
 		<display-name>Deal or No Deal</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089317'&amp;EntityType='Item'&amp;EntityId='570813'&amp;Width=127&amp;Height=59" />
@@ -1166,6 +1170,131 @@
 		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
 		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12488654'&amp;EntityType='LinearSchedule'&amp;EntityId='5b516301-9c8a-4057-84b9-8ed7b859c118'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260218155333 +0000" stop="20260218165349 +0000">
+		<title>MasterChef Australia Season 02 - EP72</title>
+		<desc>With only 1 week left until the finals the final 8 have to excel to stay in the competition.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12504924'&amp;EntityType='LinearSchedule'&amp;EntityId='890c7d2c-3ca4-4656-b72f-9f6d845d5d7b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260218165349 +0000" stop="20260218175037 +0000">
+		<title>MasterChef Australia Season 02 - EP73</title>
+		<desc>The bottom 3 from the 7 Deadly Sins invention test face off in the Pressure test.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12504996'&amp;EntityType='LinearSchedule'&amp;EntityId='7ec38216-1159-4664-be59-06a91cc28920'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260218175037 +0000" stop="20260218181802 +0000">
+		<title>MasterChef Australia Season 02 - EP74</title>
+		<desc>For the second week in a row Claire faces the Celebrity Chef Challenge, the last one of the series.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12505028'&amp;EntityType='LinearSchedule'&amp;EntityId='0ebb08d4-ac69-4dd7-8687-cc3d89ea6bb3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260218181802 +0000" stop="20260218191740 +0000">
+		<title>MasterChef Australia Season 02 - EP75</title>
+		<desc>This week each Contestant will have to cook 5 identical signature dishes for some of their Culinary heroes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12504984'&amp;EntityType='LinearSchedule'&amp;EntityId='8ce2b868-bf42-4566-bf0d-eb873a83b1ee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260218191740 +0000" stop="20260218200950 +0000">
+		<title>MasterChef Australia Season 02 - EP76</title>
+		<desc>The bottom 3 will need to fight to stay in the competition and make it through to the finals.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12504988'&amp;EntityType='LinearSchedule'&amp;EntityId='02c28bcc-180e-45f4-8358-489c94e76509'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260218200950 +0000" stop="20260218213017 +0000">
+		<title>MasterChef Australia Season 02 - EP77</title>
+		<desc>After a stressful week the contestants relax and enjoy a MasterClass with George &amp; Gary.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12505016'&amp;EntityType='LinearSchedule'&amp;EntityId='61c7c648-fcf8-47d8-b9e3-8378ae83681e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260218213017 +0000" stop="20260218222359 +0000">
+		<title>MasterChef Australia Season 02 - EP78</title>
+		<desc>It's Finals week and after today 1 contestant will be eliminated each day.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12504992'&amp;EntityType='LinearSchedule'&amp;EntityId='e4eaad6c-4f75-4bb2-8b2f-da6ccc6d08ab'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260218222359 +0000" stop="20260218232408 +0000">
+		<title>MasterChef Australia Season 02 - EP79</title>
+		<desc>The Final 6 will all cook off in a pressure test.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12505000'&amp;EntityType='LinearSchedule'&amp;EntityId='fcb86495-b005-487e-aebc-703f14ff368d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260218232408 +0000" stop="20260219001901 +0000">
+		<title>MasterChef Australia Season 02 - EP80</title>
+		<desc>The Final 5 have 90mins to cook 1 sweet and 1 savoury dish using 12 ingredients in a Mystery Box.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12505004'&amp;EntityType='LinearSchedule'&amp;EntityId='163fafd1-3495-4a97-90d0-577132c9aeb0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219001901 +0000" stop="20260219011642 +0000">
+		<title>MasterChef Australia Season 02 - EP81</title>
+		<desc>Tonight the final 4 have 2.5 hours to come up with a 3 course meal that they would put in their cook books.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12551995'&amp;EntityType='LinearSchedule'&amp;EntityId='139bb4bc-36a3-4b6a-937b-3ac97951e76a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219011642 +0000" stop="20260219021141 +0000">
+		<title>MasterChef Australia Season 02 - EP82</title>
+		<desc>The Final 3 head to Canberra to cook at a function for the Governor General.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552019'&amp;EntityType='LinearSchedule'&amp;EntityId='20d99f60-0e5f-4e5a-aaa7-377018164660'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219021141 +0000" stop="20260219033337 +0000">
+		<title>MasterChef Australia Season 02 - EP83</title>
+		<desc>It's time to have a bit of fun, todays MasterClass sees all the eliminated contestants return.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552034'&amp;EntityType='LinearSchedule'&amp;EntityId='5b4741fe-9a7d-40e0-98b2-28a4cb92c9bd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219033337 +0000" stop="20260219053627 +0000">
+		<title>MasterChef Australia Season 02 - EP84</title>
+		<desc>The final 2 will have to compete in 3 rounds to prove that they are worthy of the MasterChef title.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552059'&amp;EntityType='LinearSchedule'&amp;EntityId='2a7833b9-554d-47e0-9ef1-f67271cc8654'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219053627 +0000" stop="20260219062820 +0000">
+		<title>MasterChef New Zealand Season 03 - Auditions</title>
+		<desc>The hit local cooking competition is back, bigger and better than ever before.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552015'&amp;EntityType='LinearSchedule'&amp;EntityId='2630a6ea-aa8b-4ad7-b1bd-74ceb612c2cb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219062820 +0000" stop="20260219072247 +0000">
+		<title>MasterChef New Zealand Season 03 - Whole Chicken</title>
+		<desc>The Top 24 contestants face a sudden death challenge to find who will go through to the Top 16.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552063'&amp;EntityType='LinearSchedule'&amp;EntityId='8b1ceab7-b68a-40a8-9d44-d4bc6c857c58'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219072247 +0000" stop="20260219081738 +0000">
+		<title>MasterChef New Zealand Season 03 - Loaf</title>
+		<desc>The Top 16 contestants move into the MasterChef mansion on Auckland's North Shore.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552043'&amp;EntityType='LinearSchedule'&amp;EntityId='5ebaf6ae-660d-406a-b814-9326aa12c56c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219081738 +0000" stop="20260219091126 +0000">
+		<title>MasterChef New Zealand Season 03 - Takeaways</title>
+		<desc>The Top 15 contestants must cook three classic takeaway dishes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552069'&amp;EntityType='LinearSchedule'&amp;EntityId='ddf6b7fa-cf0a-4ec6-a92c-bf141ad487ae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219091126 +0000" stop="20260219100544 +0000">
+		<title>MasterChef New Zealand Season 03 - The Navy</title>
+		<desc>The Top 14 contestants make canapés for 130 guests on board the HMNZS Canterbury.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12551987'&amp;EntityType='LinearSchedule'&amp;EntityId='5f01d916-1cfb-4583-9b0b-a7b1270196d4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219100544 +0000" stop="20260219105737 +0000">
+		<title>MasterChef New Zealand Season 03 - Moo Chow Chow</title>
+		<desc>The Top 13 face their spiciest challenge yet: to cook two dishes for guest chef Che Barrington.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12551991'&amp;EntityType='LinearSchedule'&amp;EntityId='4827207f-64a4-4bd8-883d-84d97650e186'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219105737 +0000" stop="20260219115230 +0000">
+		<title>MasterChef New Zealand Season 03 - La Cigale</title>
+		<desc>A Mystery Box Challenge has the cooks baking from the heart.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552078'&amp;EntityType='LinearSchedule'&amp;EntityId='f947aa00-233e-4045-a261-85bdf3f5f174'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219115230 +0000" stop="20260219124435 +0000">
+		<title>MasterChef New Zealand Season 03 - MasterClass #1</title>
+		<desc>MasterClass turns the tables and puts the MasterChef judges in the spotlight.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552023'&amp;EntityType='LinearSchedule'&amp;EntityId='596466fa-ec61-42a9-b5bb-82c1f02d7113'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219124435 +0000" stop="20260219133627 +0000">
+		<title>MasterChef New Zealand Season 03 - Frozen, Canned &amp; Packaged</title>
+		<desc>The remaining cooks compete in teams for a gourmet sausage challenge in celebration of Oktoberfest.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12551999'&amp;EntityType='LinearSchedule'&amp;EntityId='dba314f4-6214-44d6-a1fb-d26666e4dddd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219133627 +0000" stop="20260219142458 +0000">
+		<title>MasterChef New Zealand Season 03 - MasterClass #2</title>
+		<desc>MasterChef judges Josh, Simon and Ray cook three simple but tasty dishes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552051'&amp;EntityType='LinearSchedule'&amp;EntityId='53bff1a7-f3dc-471e-9c34-9b199002974f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219142458 +0000" stop="20260219151706 +0000">
+		<title>MasterChef New Zealand Season 03 - Hawkes Bay</title>
+		<desc>The Top Nine contestants travel to Hawkes Bay for an invention test using spring lamb and fresh local produce.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552027'&amp;EntityType='LinearSchedule'&amp;EntityId='688a0da0-eb23-4333-92c8-ca47d0a15133'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219151706 +0000" stop="20260219160554 +0000">
+		<title>MasterChef New Zealand Season 03 - MasterClass #3</title>
+		<desc>MasterClass turns the tables and puts the MasterChef judges in the spotlight.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552007'&amp;EntityType='LinearSchedule'&amp;EntityId='d6199a55-b303-496c-b149-7a3463088d64'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="570813" start="20260218155512 +0000" stop="20260218164514 +0000">
 		<title>Deal Or No Deal USA - EP5</title>
@@ -4486,6 +4615,166 @@
 		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
 		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12531050'&amp;EntityType='LinearSchedule'&amp;EntityId='5112db39-bd41-4f49-9be0-e86943e1e647'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219160554 +0000" stop="20260219165956 +0000">
+		<title>MasterChef New Zealand Season 03 - Super Cake</title>
+		<desc>The Top Eight contestants make a hamburger cake and a milkshake for baking maestro Mathew Metcalfe</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552133'&amp;EntityType='LinearSchedule'&amp;EntityId='d6cd025c-9078-4785-97ab-89de16240167'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219165956 +0000" stop="20260219175058 +0000">
+		<title>MasterChef New Zealand Season 03 - MasterClass #4</title>
+		<desc>Guest chef Mathew Metcalfe joins Josh Emett and Ray McVinnie to make three delectable desserts.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552200'&amp;EntityType='LinearSchedule'&amp;EntityId='570a6202-f3a8-42dd-a6e2-6cab55e5df86'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219175058 +0000" stop="20260219184305 +0000">
+		<title>MasterChef New Zealand Season 03 - Young Guns</title>
+		<desc>The top seven contestants cook fine dining dishes for three guest chefs.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552171'&amp;EntityType='LinearSchedule'&amp;EntityId='e8263d89-fdfb-4bdb-a76f-a052242930ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219184305 +0000" stop="20260219193323 +0000">
+		<title>MasterChef New Zealand Season 03 - MasterClass #5</title>
+		<desc>Guest chef Nick Honeyman cooks three very different examples of modern New Zealand cuisine.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552206'&amp;EntityType='LinearSchedule'&amp;EntityId='8c4f69ce-ab6d-4b93-ba21-017407121901'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219193323 +0000" stop="20260219202548 +0000">
+		<title>MasterChef New Zealand Season 03 - Huka Lodge</title>
+		<desc>The top six contestants cook a course each from the gourmet dinner menu at iconic Huka Lodge.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552125'&amp;EntityType='LinearSchedule'&amp;EntityId='d3f6e986-feec-440e-821c-591ae817340c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219202548 +0000" stop="20260219211600 +0000">
+		<title>MasterChef New Zealand Season 03 - MasterClass #6</title>
+		<desc>Guest chef Michel Louws from Huka Lodge joins Josh Emett and Simon Gault to cook three hearty meat dishes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552219'&amp;EntityType='LinearSchedule'&amp;EntityId='a7ed3ea3-2057-4dec-b5e1-d7a3a504cd91'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219211600 +0000" stop="20260219220934 +0000">
+		<title>MasterChef New Zealand Season 03 - Super Dessert</title>
+		<desc>The top five contestants must replicate a challenging dessert created by award-winning chef, Michael Meredith.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552188'&amp;EntityType='LinearSchedule'&amp;EntityId='a1938aff-47b4-4169-8233-c72ff11ee781'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219220934 +0000" stop="20260219230129 +0000">
+		<title>MasterChef New Zealand Season 03 - MasterClass #7</title>
+		<desc>Josh Emett, Simon Gault and Ray McVinnie cook their favourite desserts.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552155'&amp;EntityType='LinearSchedule'&amp;EntityId='144cdb9a-92b9-4362-adb7-7c4f753791d2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219230129 +0000" stop="20260219235341 +0000">
+		<title>MasterChef New Zealand Season 03 - Business Class</title>
+		<desc>The Top Four contestants cook Business Class in-flight meals for Jetstar.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552163'&amp;EntityType='LinearSchedule'&amp;EntityId='ea2b1f3e-8d5f-4603-925a-1dcf9cd6ecfd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260219235341 +0000" stop="20260220000000 +0000">
+		<title>MasterChef New Zealand Season 03 - MasterClass #8</title>
+		<desc>Josh Emett, Simon Gault and Ray McVinnie cook three different cuts of beef.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552196'&amp;EntityType='LinearSchedule'&amp;EntityId='a0766430-9a29-466d-a50a-05de954468cf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220000000 +0000" stop="20260220004622 +0000">
+		<title>MasterChef New Zealand Season 03 - MasterClass #8</title>
+		<desc>Josh Emett, Simon Gault and Ray McVinnie cook three different cuts of beef.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592057'&amp;EntityType='LinearSchedule'&amp;EntityId='29aeedbb-ed2f-4c9f-992b-3fa62ffd9187'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220004622 +0000" stop="20260220014101 +0000">
+		<title>MasterChef New Zealand Season 03 - Singapore</title>
+		<desc>The Top Four contestants face two epic challenges in the culinary capital of Asia, Singapore.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592068'&amp;EntityType='LinearSchedule'&amp;EntityId='150c680c-c983-4c82-8d2d-4c67cf20c6f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220014101 +0000" stop="20260220023329 +0000">
+		<title>MasterChef New Zealand Season 03 - MasterClass #9</title>
+		<desc>Street food master K.F. Seetoh and Eric Bost, join Ray McVinnie for a Masterclass in Singapore.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592186'&amp;EntityType='LinearSchedule'&amp;EntityId='2ec1eac9-aa50-488e-a456-70f7456dd8b5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220023329 +0000" stop="20260220032713 +0000">
+		<title>MasterChef New Zealand Season 03 - Cookbook</title>
+		<desc>The three semi-finalists try to impress cookbook queen Annabel Langbein.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592138'&amp;EntityType='LinearSchedule'&amp;EntityId='94b43b95-19ec-4037-b5cc-04258ca3d6eb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220032713 +0000" stop="20260220041629 +0000">
+		<title>MasterChef New Zealand Season 03 - MasterClass #10</title>
+		<desc>In the last Masterclass of the Season, the judge give us a taster of their signature dishes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592158'&amp;EntityType='LinearSchedule'&amp;EntityId='14bb51a7-96d7-4c02-bff9-f2e2e4c4fa24'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220041629 +0000" stop="20260220060114 +0000">
+		<title>MasterChef New Zealand Season 03 - The Final</title>
+		<desc>The final two contestants take on four challenges in their bid to become New Zealand's next MasterChef.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592083'&amp;EntityType='LinearSchedule'&amp;EntityId='c4d7a0f7-c970-4b3f-b8c9-bad143fb9e60'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220060114 +0000" stop="20260220063532 +0000">
+		<title>MasterChef UK Junior Season 01 - EP1</title>
+		<desc>After a Toad in the Hole Masterclass from top chef John Torode, the four cooks try their hand.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592146'&amp;EntityType='LinearSchedule'&amp;EntityId='c6188b2b-b1c2-4cb6-b8d1-e8366d708f73'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220063532 +0000" stop="20260220070951 +0000">
+		<title>MasterChef UK Junior Season 01 - EP2</title>
+		<desc>After a Masterclass in Thai chicken cakes from top chef John Torode, the four cooks try their hand.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592190'&amp;EntityType='LinearSchedule'&amp;EntityId='a9031e2d-2b1f-46a6-9596-da44a0b05edf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220070951 +0000" stop="20260220074405 +0000">
+		<title>MasterChef UK Junior Season 01 - EP3</title>
+		<desc>Whose dessert will launch presenters John and Nadia in to sweet orbit?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592094'&amp;EntityType='LinearSchedule'&amp;EntityId='f320d0a8-23d0-4e2f-9d1a-1ca007852959'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220074405 +0000" stop="20260220081818 +0000">
+		<title>MasterChef UK Junior Season 01 - EP4</title>
+		<desc>After a scrummy Berry pudding Masterclass from top chef John Torode, the four cooks have a bash.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592102'&amp;EntityType='LinearSchedule'&amp;EntityId='b83e4d4b-d6d6-4408-b4ec-d062c6cf00b2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220081818 +0000" stop="20260220085218 +0000">
+		<title>MasterChef UK Junior Season 01 - EP5</title>
+		<desc>With only two semi final places up for grabs, the competition gets serious.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592166'&amp;EntityType='LinearSchedule'&amp;EntityId='1ddcf2f7-98fa-420f-b37c-6f2833a63f72'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220085218 +0000" stop="20260220092627 +0000">
+		<title>MasterChef UK Junior Season 01 - EP6</title>
+		<desc>Four aspiring chefs compete for a place in the quarter-final.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592162'&amp;EntityType='LinearSchedule'&amp;EntityId='099ae4de-5075-4cb4-ab99-0481098a1cef'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220092627 +0000" stop="20260220100027 +0000">
+		<title>MasterChef UK Junior Season 01 - EP7</title>
+		<desc>After a scrummy Masterclass in scotch pancakes from top chef John Torode, it's the four cooks' turn.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592150'&amp;EntityType='LinearSchedule'&amp;EntityId='5bf11eb2-3241-483e-a6a6-2989076c37b3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220100027 +0000" stop="20260220103443 +0000">
+		<title>MasterChef UK Junior Season 01 - EP8</title>
+		<desc>With a quarter final place to win, the competition heats up further as they make their tastiest food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592110'&amp;EntityType='LinearSchedule'&amp;EntityId='c69eb7f2-14fd-4e3a-bb28-c7a67f8777d3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220103443 +0000" stop="20260220110859 +0000">
+		<title>MasterChef UK Junior Season 01 - EP9</title>
+		<desc>With a quarter final place up for grabs, the competition reaches boiling point as they go all out to impress.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592154'&amp;EntityType='LinearSchedule'&amp;EntityId='33f88330-8ed9-4605-9871-6465aec1c2b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220110859 +0000" stop="20260220114315 +0000">
+		<title>MasterChef UK Junior Season 01 - EP10</title>
+		<desc>In the second quarter-final, four heat winners compete to be the best cook in the country.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592118'&amp;EntityType='LinearSchedule'&amp;EntityId='ad3fc86f-2beb-4769-91bc-159c8b87d3c8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220114315 +0000" stop="20260220121737 +0000">
+		<title>MasterChef UK Junior Season 01 - EP11</title>
+		<desc>The four remaining chefs must cook lunch for Doctor Who and his companion.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592170'&amp;EntityType='LinearSchedule'&amp;EntityId='f4f7ab1f-cb56-4202-9e74-c493047a299a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220121737 +0000" stop="20260220125138 +0000">
+		<title>MasterChef UK Junior Season 01 - EP12</title>
+		<desc>They must prepare lunch for pop band JLS. Will their food be a hit with the boys?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592127'&amp;EntityType='LinearSchedule'&amp;EntityId='8a6a675d-d5ec-463e-ae5b-37e1cbaf4fbe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220125138 +0000" stop="20260220132556 +0000">
+		<title>MasterChef UK Junior Season 01 - EP13</title>
+		<desc>The four best chefs battle it out to become crowned Junior Masterchef Champion 2010.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592178'&amp;EntityType='LinearSchedule'&amp;EntityId='096704dc-1232-45b8-bc05-685b0ed2b95b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220132556 +0000" stop="20260220142359 +0000">
+		<title>MasterChef Australia Celebrity Season 01 - EP1</title>
+		<desc>Heat 1 of Celebrity MasterChef puts three celebrities against each other to win a place in the semi-finals.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592182'&amp;EntityType='LinearSchedule'&amp;EntityId='0345a2ae-fa10-438b-ba6c-b49356f14bf8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220142359 +0000" stop="20260220152116 +0000">
+		<title>MasterChef Australia Celebrity Season 01 - EP2</title>
+		<desc>Three new celebrities cook off against each other for their chance to be Australia's Celebrity MasterChef.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592174'&amp;EntityType='LinearSchedule'&amp;EntityId='ba29c590-da2a-4f62-a42b-e16636f74c85'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558278" start="20260220152116 +0000" stop="20260220161848 +0000">
+		<title>MasterChef Australia Celebrity Season 01 - EP3</title>
+		<desc>In Round one they each have to cook their signature dishes, with the winner getting an advantage in round two.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592134'&amp;EntityType='LinearSchedule'&amp;EntityId='90f380b0-0798-4ae1-adf0-37979aec6ee7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="570813" start="20260219163157 +0000" stop="20260219172150 +0000">
 		<title>Deal Or No Deal USA - Cheering For A Lucky Strike</title>
