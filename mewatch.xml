@@ -36,10 +36,6 @@
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
-	<channel id="558278">
-		<display-name>MasterChef</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
-	</channel>
 	<channel id="570813">
 		<display-name>Deal or No Deal</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089317'&amp;EntityType='Item'&amp;EntityId='570813'&amp;Width=127&amp;Height=59" />
@@ -1170,131 +1166,6 @@
 		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
 		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12488654'&amp;EntityType='LinearSchedule'&amp;EntityId='5b516301-9c8a-4057-84b9-8ed7b859c118'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260218155333 +0000" stop="20260218165349 +0000">
-		<title>MasterChef Australia Season 02 - EP72</title>
-		<desc>With only 1 week left until the finals the final 8 have to excel to stay in the competition.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12504924'&amp;EntityType='LinearSchedule'&amp;EntityId='890c7d2c-3ca4-4656-b72f-9f6d845d5d7b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260218165349 +0000" stop="20260218175037 +0000">
-		<title>MasterChef Australia Season 02 - EP73</title>
-		<desc>The bottom 3 from the 7 Deadly Sins invention test face off in the Pressure test.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12504996'&amp;EntityType='LinearSchedule'&amp;EntityId='7ec38216-1159-4664-be59-06a91cc28920'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260218175037 +0000" stop="20260218181802 +0000">
-		<title>MasterChef Australia Season 02 - EP74</title>
-		<desc>For the second week in a row Claire faces the Celebrity Chef Challenge, the last one of the series.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12505028'&amp;EntityType='LinearSchedule'&amp;EntityId='0ebb08d4-ac69-4dd7-8687-cc3d89ea6bb3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260218181802 +0000" stop="20260218191740 +0000">
-		<title>MasterChef Australia Season 02 - EP75</title>
-		<desc>This week each Contestant will have to cook 5 identical signature dishes for some of their Culinary heroes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12504984'&amp;EntityType='LinearSchedule'&amp;EntityId='8ce2b868-bf42-4566-bf0d-eb873a83b1ee'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260218191740 +0000" stop="20260218200950 +0000">
-		<title>MasterChef Australia Season 02 - EP76</title>
-		<desc>The bottom 3 will need to fight to stay in the competition and make it through to the finals.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12504988'&amp;EntityType='LinearSchedule'&amp;EntityId='02c28bcc-180e-45f4-8358-489c94e76509'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260218200950 +0000" stop="20260218213017 +0000">
-		<title>MasterChef Australia Season 02 - EP77</title>
-		<desc>After a stressful week the contestants relax and enjoy a MasterClass with George &amp; Gary.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12505016'&amp;EntityType='LinearSchedule'&amp;EntityId='61c7c648-fcf8-47d8-b9e3-8378ae83681e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260218213017 +0000" stop="20260218222359 +0000">
-		<title>MasterChef Australia Season 02 - EP78</title>
-		<desc>It's Finals week and after today 1 contestant will be eliminated each day.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12504992'&amp;EntityType='LinearSchedule'&amp;EntityId='e4eaad6c-4f75-4bb2-8b2f-da6ccc6d08ab'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260218222359 +0000" stop="20260218232408 +0000">
-		<title>MasterChef Australia Season 02 - EP79</title>
-		<desc>The Final 6 will all cook off in a pressure test.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12505000'&amp;EntityType='LinearSchedule'&amp;EntityId='fcb86495-b005-487e-aebc-703f14ff368d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260218232408 +0000" stop="20260219001901 +0000">
-		<title>MasterChef Australia Season 02 - EP80</title>
-		<desc>The Final 5 have 90mins to cook 1 sweet and 1 savoury dish using 12 ingredients in a Mystery Box.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12505004'&amp;EntityType='LinearSchedule'&amp;EntityId='163fafd1-3495-4a97-90d0-577132c9aeb0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219001901 +0000" stop="20260219011642 +0000">
-		<title>MasterChef Australia Season 02 - EP81</title>
-		<desc>Tonight the final 4 have 2.5 hours to come up with a 3 course meal that they would put in their cook books.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12551995'&amp;EntityType='LinearSchedule'&amp;EntityId='139bb4bc-36a3-4b6a-937b-3ac97951e76a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219011642 +0000" stop="20260219021141 +0000">
-		<title>MasterChef Australia Season 02 - EP82</title>
-		<desc>The Final 3 head to Canberra to cook at a function for the Governor General.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552019'&amp;EntityType='LinearSchedule'&amp;EntityId='20d99f60-0e5f-4e5a-aaa7-377018164660'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219021141 +0000" stop="20260219033337 +0000">
-		<title>MasterChef Australia Season 02 - EP83</title>
-		<desc>It's time to have a bit of fun, todays MasterClass sees all the eliminated contestants return.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552034'&amp;EntityType='LinearSchedule'&amp;EntityId='5b4741fe-9a7d-40e0-98b2-28a4cb92c9bd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219033337 +0000" stop="20260219053627 +0000">
-		<title>MasterChef Australia Season 02 - EP84</title>
-		<desc>The final 2 will have to compete in 3 rounds to prove that they are worthy of the MasterChef title.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552059'&amp;EntityType='LinearSchedule'&amp;EntityId='2a7833b9-554d-47e0-9ef1-f67271cc8654'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219053627 +0000" stop="20260219062820 +0000">
-		<title>MasterChef New Zealand Season 03 - Auditions</title>
-		<desc>The hit local cooking competition is back, bigger and better than ever before.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552015'&amp;EntityType='LinearSchedule'&amp;EntityId='2630a6ea-aa8b-4ad7-b1bd-74ceb612c2cb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219062820 +0000" stop="20260219072247 +0000">
-		<title>MasterChef New Zealand Season 03 - Whole Chicken</title>
-		<desc>The Top 24 contestants face a sudden death challenge to find who will go through to the Top 16.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552063'&amp;EntityType='LinearSchedule'&amp;EntityId='8b1ceab7-b68a-40a8-9d44-d4bc6c857c58'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219072247 +0000" stop="20260219081738 +0000">
-		<title>MasterChef New Zealand Season 03 - Loaf</title>
-		<desc>The Top 16 contestants move into the MasterChef mansion on Auckland's North Shore.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552043'&amp;EntityType='LinearSchedule'&amp;EntityId='5ebaf6ae-660d-406a-b814-9326aa12c56c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219081738 +0000" stop="20260219091126 +0000">
-		<title>MasterChef New Zealand Season 03 - Takeaways</title>
-		<desc>The Top 15 contestants must cook three classic takeaway dishes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552069'&amp;EntityType='LinearSchedule'&amp;EntityId='ddf6b7fa-cf0a-4ec6-a92c-bf141ad487ae'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219091126 +0000" stop="20260219100544 +0000">
-		<title>MasterChef New Zealand Season 03 - The Navy</title>
-		<desc>The Top 14 contestants make canapés for 130 guests on board the HMNZS Canterbury.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12551987'&amp;EntityType='LinearSchedule'&amp;EntityId='5f01d916-1cfb-4583-9b0b-a7b1270196d4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219100544 +0000" stop="20260219105737 +0000">
-		<title>MasterChef New Zealand Season 03 - Moo Chow Chow</title>
-		<desc>The Top 13 face their spiciest challenge yet: to cook two dishes for guest chef Che Barrington.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12551991'&amp;EntityType='LinearSchedule'&amp;EntityId='4827207f-64a4-4bd8-883d-84d97650e186'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219105737 +0000" stop="20260219115230 +0000">
-		<title>MasterChef New Zealand Season 03 - La Cigale</title>
-		<desc>A Mystery Box Challenge has the cooks baking from the heart.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552078'&amp;EntityType='LinearSchedule'&amp;EntityId='f947aa00-233e-4045-a261-85bdf3f5f174'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219115230 +0000" stop="20260219124435 +0000">
-		<title>MasterChef New Zealand Season 03 - MasterClass #1</title>
-		<desc>MasterClass turns the tables and puts the MasterChef judges in the spotlight.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552023'&amp;EntityType='LinearSchedule'&amp;EntityId='596466fa-ec61-42a9-b5bb-82c1f02d7113'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219124435 +0000" stop="20260219133627 +0000">
-		<title>MasterChef New Zealand Season 03 - Frozen, Canned &amp; Packaged</title>
-		<desc>The remaining cooks compete in teams for a gourmet sausage challenge in celebration of Oktoberfest.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12551999'&amp;EntityType='LinearSchedule'&amp;EntityId='dba314f4-6214-44d6-a1fb-d26666e4dddd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219133627 +0000" stop="20260219142458 +0000">
-		<title>MasterChef New Zealand Season 03 - MasterClass #2</title>
-		<desc>MasterChef judges Josh, Simon and Ray cook three simple but tasty dishes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552051'&amp;EntityType='LinearSchedule'&amp;EntityId='53bff1a7-f3dc-471e-9c34-9b199002974f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219142458 +0000" stop="20260219151706 +0000">
-		<title>MasterChef New Zealand Season 03 - Hawkes Bay</title>
-		<desc>The Top Nine contestants travel to Hawkes Bay for an invention test using spring lamb and fresh local produce.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552027'&amp;EntityType='LinearSchedule'&amp;EntityId='688a0da0-eb23-4333-92c8-ca47d0a15133'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219151706 +0000" stop="20260219160554 +0000">
-		<title>MasterChef New Zealand Season 03 - MasterClass #3</title>
-		<desc>MasterClass turns the tables and puts the MasterChef judges in the spotlight.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552007'&amp;EntityType='LinearSchedule'&amp;EntityId='d6199a55-b303-496c-b149-7a3463088d64'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="570813" start="20260218155512 +0000" stop="20260218164514 +0000">
 		<title>Deal Or No Deal USA - EP5</title>
@@ -3411,85 +3282,75 @@
 		<desc>Bruno Brookes with the biggest UK rock tracks of the 90s. Expect a decent slice of Stereophonics, Bon Jovi, Nirvana &amp; RHCP. But you might be surprised at the No.1!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12392291'&amp;EntityType='LinearSchedule'&amp;EntityId='2bbf527f-cfc7-4c3c-9023-c9fe385ab247'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260218164000 +0000" stop="20260218170000 +0000">
-		<title>90s Rock Anthems! - EP1</title>
-		<desc>All 90s rock hits &amp; power ballads! From Aerosmith, KISS &amp; The Foo Fighters to The Stone Roses, Garbage &amp; The Stereophonics. This is NOW Rock!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441446'&amp;EntityType='LinearSchedule'&amp;EntityId='34161760-dd24-4e25-a970-f189e2476067'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260218160000 +0000" stop="20260218170000 +0000">
+		<title>Excess All Areas with Rick Wakeman - EP1</title>
+		<desc>Rick's seen and heard it all when it comes to rock excess. He's been part of few legendary stories himself, so let him guide you through decades of debauchery from the wilder side!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738804'&amp;EntityType='LinearSchedule'&amp;EntityId='a93a4c8b-81d6-4c54-a311-5f5317198cdd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260218170000 +0000" stop="20260218195000 +0000">
-		<title>The Classic Rock 101! - EP1</title>
-		<desc>We've compiled a brand new classic 101, celebrating 5 decades of rock - from the 60s to the 00s. Which guitar legends will be at number 1?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441422'&amp;EntityType='LinearSchedule'&amp;EntityId='326606b6-d0a6-49ea-ac22-bedd35e659ab'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260218170000 +0000" stop="20260218182500 +0000">
+		<title>Rock Chick Revolution! - EP1</title>
+		<desc>These are power ladies who really rock! From Kate Bush, Pat Benatar &amp; Alannah Miles to Amy Lee, Pink &amp; Alanis Morissette!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738784'&amp;EntityType='LinearSchedule'&amp;EntityId='326606b6-d0a6-49ea-ac22-bedd35e659ab'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260218195000 +0000" stop="20260218200000 +0000">
-		<title>Sunday Rock Classics - EP1</title>
-		<desc>Rounding off the week with rock classics and anthems! We guarantee AC/DC, Nirvana, Queen, Meat Loaf, Bon Jovi &amp; much more!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441390'&amp;EntityType='LinearSchedule'&amp;EntityId='807cf80f-d3b5-4b4b-82e1-36856ae898ad'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260218182500 +0000" stop="20260218190000 +0000">
+		<title>Blazing Rock Ballads! - EP1</title>
+		<desc>The Biggest Ballads from the royals of rock! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Nickleback &amp; Evanescence.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738808'&amp;EntityType='LinearSchedule'&amp;EntityId='7fb3f972-acd4-4335-aeb0-597520043c73'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260218200000 +0000" stop="20260218220000 +0000">
-		<title>30 Big Selling Rock Songs of 90s! - EP1</title>
-		<desc>Bruno Brookes with the biggest UK rock tracks of the 90s. Expect a decent slice of Stereophonics, Bon Jovi, Nirvana &amp; RHCP. But you might be surprised at the No.1!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441394'&amp;EntityType='LinearSchedule'&amp;EntityId='0c082261-9d21-4cb3-a5d1-43833c4acff4'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260218190000 +0000" stop="20260218210000 +0000">
+		<title>Love Bites! With Nicky Horne - EP1</title>
+		<desc>Nicky brings a masterclass in the most popular (&amp; dangerous) subject in rock history! 20 songs loaded with lust, desire, breakups &amp; despair - this is how love really does bite!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738812'&amp;EntityType='LinearSchedule'&amp;EntityId='81bdcca8-5ac3-4599-a727-ddb32047334b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260218220000 +0000" stop="20260218235000 +0000">
-		<title>Rock 'n' Roll Top 3s: 1990-1999 - EP1</title>
-		<desc>A 2 hour run through, in order, of top 3 hits from the 90s - all with that rock n roll swagger! Expect plenty of U2, Def Leppard, Meat Loaf &amp; Brit Pop!.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441450'&amp;EntityType='LinearSchedule'&amp;EntityId='3a445a01-df96-49cd-85ce-1c0fe19df7b5'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260218210000 +0000" stop="20260218220000 +0000">
+		<title>Rated Rock! The No.1s - EP1</title>
+		<desc>Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738820'&amp;EntityType='LinearSchedule'&amp;EntityId='8c2007f3-d1cb-410a-9a8d-37f488f41095'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260218235000 +0000" stop="20260219000000 +0000">
-		<title>Rock No.1s - EP1</title>
-		<desc>Number 1 rock songs from the last 50 years! From the Beatles and the Stones in the 60s right through to One Republic and Kings Of Leon in the 10s.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441398'&amp;EntityType='LinearSchedule'&amp;EntityId='30e74dde-2e1c-4181-b47e-109c8daad449'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260218220000 +0000" stop="20260218230000 +0000">
+		<title>Monsters of Rock! 1990-1999 - EP1</title>
+		<desc>A definitive 6 hour marathon of 90s guitar anthems! From U2 to INXS, Blur to Bon Jovi, Skunk Anansie to Green Day, Metallica to Iron Maiden - 70 rock classics are here, in order!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738788'&amp;EntityType='LinearSchedule'&amp;EntityId='3a445a01-df96-49cd-85ce-1c0fe19df7b5'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219000000 +0000" stop="20260219044500 +0000">
-		<title>Overblown Rock Epics! 1975-2010 - EP1</title>
-		<desc>35 years of raucous rock operas with over-the-top videos to match. Kicking off with the biggest drama of all - Bohemian Rhapsody - and with plenty of Meat Loaf along the way!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441418'&amp;EntityType='LinearSchedule'&amp;EntityId='2695ab8a-782b-4abc-bf53-9a978b98a6f6'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260218230000 +0000" stop="20260219062000 +0000">
+		<title>99 Reasons The 00s Rocked! - EP1</title>
+		<desc>99 anthems of rock from the noughties! With Green Day, Linkin Park, The Strokes, Paramore, Blink-182, The Killers &amp; much more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738824'&amp;EntityType='LinearSchedule'&amp;EntityId='45f43add-5a77-42d9-bcbf-78660a9ef5c8'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219044500 +0000" stop="20260219050000 +0000">
-		<title>90s Rock Anthems! - EP1</title>
-		<desc>All 90s rock hits &amp; power ballads! From Aerosmith, KISS &amp; The Foo Fighters to The Stone Roses, Garbage &amp; The Stereophonics. This is NOW Rock!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441402'&amp;EntityType='LinearSchedule'&amp;EntityId='0ff1e06c-3e7b-401a-90df-7763c4f38ae0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260219050000 +0000" stop="20260219071000 +0000">
-		<title>Nicky Horne's 25 Greatest Riffs! - EP1</title>
-		<desc>Nicky brings you rock gods &amp; goddesses who unleash pure power delivering 25 of the most amazing riffs that are firmly etched into rock DNA forever!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441406'&amp;EntityType='LinearSchedule'&amp;EntityId='09cf1e76-431e-4043-8481-2b130b2b5e0c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260219071000 +0000" stop="20260219080000 +0000">
+	<programme channel="158963" start="20260219062000 +0000" stop="20260219070000 +0000">
 		<title>The Anthems! - EP1</title>
 		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441430'&amp;EntityType='LinearSchedule'&amp;EntityId='9a136553-ef48-4f92-a5e7-8311e0c13db3'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738816'&amp;EntityType='LinearSchedule'&amp;EntityId='c359ee4f-0a01-425e-8695-a6d31bc7c6de'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219080000 +0000" stop="20260219093000 +0000">
-		<title>Alex Baker's Biggest 00s Anthems! - EP1</title>
-		<desc>Alex Baker brings you his 50 biggest 00s anthems! Expect everything from Green Day to Muse, Linkin Park to the Arctic Monkeys with the tunes getting bigger and louder as we go!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441434'&amp;EntityType='LinearSchedule'&amp;EntityId='ef3ebaa5-9e9f-405b-85e2-f305e14a74b0'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219070000 +0000" stop="20260219080000 +0000">
+		<title>All Killer: 00s Emo Anthems! - EP1</title>
+		<desc>An hour of the greatest Emo tracks the noughties had to offer featuring Linkin Park, Fall Out Boy, Thirty Seconds To Mars and My Chemical Romance.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738828'&amp;EntityType='LinearSchedule'&amp;EntityId='f0523dfa-2ef0-47c4-9c65-e435af646341'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219093000 +0000" stop="20260219103000 +0000">
-		<title>The Classic Rock 101! - EP1</title>
-		<desc>We've compiled a brand new classic 101, celebrating 5 decades of rock - from the 60s to the 00s. Which guitar legends will be at number 1?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441438'&amp;EntityType='LinearSchedule'&amp;EntityId='294cc891-58ef-4553-96f0-8e167601de3b'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219080000 +0000" stop="20260219111500 +0000">
+		<title>90s v 00s Rock Anthems! - EP1</title>
+		<desc>40 classic rock anthems back to back - one from the 90s followed by another from the 00s. Simple!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738792'&amp;EntityType='LinearSchedule'&amp;EntityId='ef3ebaa5-9e9f-405b-85e2-f305e14a74b0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219103000 +0000" stop="20260219120000 +0000">
-		<title>Alex Baker's Biggest 00s Anthems! - EP1</title>
-		<desc>Alex Baker brings you his 50 biggest 00s anthems! Expect everything from Green Day to Muse, Linkin Park to the Arctic Monkeys with the tunes getting bigger and louder as we go!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441410'&amp;EntityType='LinearSchedule'&amp;EntityId='795d568d-0f5c-471a-85be-9fc265cb6287'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219111500 +0000" stop="20260219120000 +0000">
+		<title>Rated Rock! The No.1s - EP1</title>
+		<desc>Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738832'&amp;EntityType='LinearSchedule'&amp;EntityId='0a80fa4b-613d-4998-b989-86895c121500'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219120000 +0000" stop="20260219130000 +0000">
-		<title>Linkin Park: Fan Favourites - EP1</title>
-		<desc>Starting in 2001, here are the biggest rock songs from Linkin Park!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441414'&amp;EntityType='LinearSchedule'&amp;EntityId='c2311cf9-b2d3-4a76-af56-acc241f19519'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219120000 +0000" stop="20260219145000 +0000">
+		<title>Nicky Horne's 30 Greatest Albums - EP1</title>
+		<desc>Nicky Horne presents his favourite songs behind 30 of the greatest rock album covers ever! Featuring The Beatles &amp; Queen, The Stones &amp; Pink Floyd.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738796'&amp;EntityType='LinearSchedule'&amp;EntityId='c2311cf9-b2d3-4a76-af56-acc241f19519'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219130000 +0000" stop="20260219150000 +0000">
-		<title>Feelgood Rock n Roll! 1990-1999 - EP1</title>
-		<desc>From INXS &amp; James at the start of the decade to U2 &amp; Blondie at the end - these are 2 hours of feelgood rock n roll anthems from the 1990s.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441442'&amp;EntityType='LinearSchedule'&amp;EntityId='f4927ef2-9495-4618-89e8-1f76fa335c2f'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219145000 +0000" stop="20260219150000 +0000">
+		<title>Legendary Rock: 1980-1989 - EP1</title>
+		<desc>These are the legendary rock stars that made the 80s! Expect Meat Loaf, Bonnie Tyler, Queen, Bon Jovi, AC/DC, Iron Maiden &amp; loads more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738836'&amp;EntityType='LinearSchedule'&amp;EntityId='bdb18c15-e707-432a-bf55-1a8997220f53'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219150000 +0000" stop="20260219170000 +0000">
-		<title>The Wild Ones with Suzi Quatro! - EP1</title>
-		<desc>Our godmother of Rock, Suzi Quatro is here with the wildest Rock Stars of the 70's! But who is the craziest and most outlandish? Bowie, Meatloaf, Queen or even Suzi herself?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12441426'&amp;EntityType='LinearSchedule'&amp;EntityId='d1576f97-69dc-4c13-b75a-e72d1c5e20c8'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219150000 +0000" stop="20260219164000 +0000">
+		<title>25 Years of The Stones! 1964-1989 - EP1</title>
+		<desc>20 famous songs from The Rolling Stones' golden period - in order. Including classics like Jumpin' Jack Flash, Harlem Shuffle, It's All Over Now &amp; Sympathy for the Devil.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738800'&amp;EntityType='LinearSchedule'&amp;EntityId='d1576f97-69dc-4c13-b75a-e72d1c5e20c8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="382872" start="20260218151000 +0000" stop="20260218165000 +0000">
 		<title>A Wedding</title>
@@ -3923,7 +3784,7 @@
 	</programme>
 	<programme channel="97104" start="20260220123000 +0000" stop="20260220130000 +0000">
 		<title>Frontline - EP 40 前线追踪</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>In multicultural Singapore, Malay and Indian youths pursue lion dance, gaining discipline and resilience through rigorous training. Veteran craftsman Henry Ng works to sustain his fading lion head art, while retired racehorses retrain for riding and therapy after Kranji’s closure.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12488928'&amp;EntityType='LinearSchedule'&amp;EntityId='9442c0ed-b19e-43db-820c-734247e0bf30'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20260220130000 +0000" stop="20260220140000 +0000">
@@ -4625,166 +4486,6 @@
 		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
 		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12531050'&amp;EntityType='LinearSchedule'&amp;EntityId='5112db39-bd41-4f49-9be0-e86943e1e647'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219160554 +0000" stop="20260219165956 +0000">
-		<title>MasterChef New Zealand Season 03 - Super Cake</title>
-		<desc>The Top Eight contestants make a hamburger cake and a milkshake for baking maestro Mathew Metcalfe</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552133'&amp;EntityType='LinearSchedule'&amp;EntityId='d6cd025c-9078-4785-97ab-89de16240167'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219165956 +0000" stop="20260219175058 +0000">
-		<title>MasterChef New Zealand Season 03 - MasterClass #4</title>
-		<desc>Guest chef Mathew Metcalfe joins Josh Emett and Ray McVinnie to make three delectable desserts.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552200'&amp;EntityType='LinearSchedule'&amp;EntityId='570a6202-f3a8-42dd-a6e2-6cab55e5df86'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219175058 +0000" stop="20260219184305 +0000">
-		<title>MasterChef New Zealand Season 03 - Young Guns</title>
-		<desc>The top seven contestants cook fine dining dishes for three guest chefs.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552171'&amp;EntityType='LinearSchedule'&amp;EntityId='e8263d89-fdfb-4bdb-a76f-a052242930ce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219184305 +0000" stop="20260219193323 +0000">
-		<title>MasterChef New Zealand Season 03 - MasterClass #5</title>
-		<desc>Guest chef Nick Honeyman cooks three very different examples of modern New Zealand cuisine.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552206'&amp;EntityType='LinearSchedule'&amp;EntityId='8c4f69ce-ab6d-4b93-ba21-017407121901'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219193323 +0000" stop="20260219202548 +0000">
-		<title>MasterChef New Zealand Season 03 - Huka Lodge</title>
-		<desc>The top six contestants cook a course each from the gourmet dinner menu at iconic Huka Lodge.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552125'&amp;EntityType='LinearSchedule'&amp;EntityId='d3f6e986-feec-440e-821c-591ae817340c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219202548 +0000" stop="20260219211600 +0000">
-		<title>MasterChef New Zealand Season 03 - MasterClass #6</title>
-		<desc>Guest chef Michel Louws from Huka Lodge joins Josh Emett and Simon Gault to cook three hearty meat dishes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552219'&amp;EntityType='LinearSchedule'&amp;EntityId='a7ed3ea3-2057-4dec-b5e1-d7a3a504cd91'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219211600 +0000" stop="20260219220934 +0000">
-		<title>MasterChef New Zealand Season 03 - Super Dessert</title>
-		<desc>The top five contestants must replicate a challenging dessert created by award-winning chef, Michael Meredith.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552188'&amp;EntityType='LinearSchedule'&amp;EntityId='a1938aff-47b4-4169-8233-c72ff11ee781'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219220934 +0000" stop="20260219230129 +0000">
-		<title>MasterChef New Zealand Season 03 - MasterClass #7</title>
-		<desc>Josh Emett, Simon Gault and Ray McVinnie cook their favourite desserts.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552155'&amp;EntityType='LinearSchedule'&amp;EntityId='144cdb9a-92b9-4362-adb7-7c4f753791d2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219230129 +0000" stop="20260219235341 +0000">
-		<title>MasterChef New Zealand Season 03 - Business Class</title>
-		<desc>The Top Four contestants cook Business Class in-flight meals for Jetstar.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552163'&amp;EntityType='LinearSchedule'&amp;EntityId='ea2b1f3e-8d5f-4603-925a-1dcf9cd6ecfd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260219235341 +0000" stop="20260220000000 +0000">
-		<title>MasterChef New Zealand Season 03 - MasterClass #8</title>
-		<desc>Josh Emett, Simon Gault and Ray McVinnie cook three different cuts of beef.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12552196'&amp;EntityType='LinearSchedule'&amp;EntityId='a0766430-9a29-466d-a50a-05de954468cf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220000000 +0000" stop="20260220004622 +0000">
-		<title>MasterChef New Zealand Season 03 - MasterClass #8</title>
-		<desc>Josh Emett, Simon Gault and Ray McVinnie cook three different cuts of beef.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592057'&amp;EntityType='LinearSchedule'&amp;EntityId='29aeedbb-ed2f-4c9f-992b-3fa62ffd9187'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220004622 +0000" stop="20260220014101 +0000">
-		<title>MasterChef New Zealand Season 03 - Singapore</title>
-		<desc>The Top Four contestants face two epic challenges in the culinary capital of Asia, Singapore.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592068'&amp;EntityType='LinearSchedule'&amp;EntityId='150c680c-c983-4c82-8d2d-4c67cf20c6f1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220014101 +0000" stop="20260220023329 +0000">
-		<title>MasterChef New Zealand Season 03 - MasterClass #9</title>
-		<desc>Street food master K.F. Seetoh and Eric Bost, join Ray McVinnie for a Masterclass in Singapore.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592186'&amp;EntityType='LinearSchedule'&amp;EntityId='2ec1eac9-aa50-488e-a456-70f7456dd8b5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220023329 +0000" stop="20260220032713 +0000">
-		<title>MasterChef New Zealand Season 03 - Cookbook</title>
-		<desc>The three semi-finalists try to impress cookbook queen Annabel Langbein.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592138'&amp;EntityType='LinearSchedule'&amp;EntityId='94b43b95-19ec-4037-b5cc-04258ca3d6eb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220032713 +0000" stop="20260220041629 +0000">
-		<title>MasterChef New Zealand Season 03 - MasterClass #10</title>
-		<desc>In the last Masterclass of the Season, the judge give us a taster of their signature dishes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592158'&amp;EntityType='LinearSchedule'&amp;EntityId='14bb51a7-96d7-4c02-bff9-f2e2e4c4fa24'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220041629 +0000" stop="20260220060114 +0000">
-		<title>MasterChef New Zealand Season 03 - The Final</title>
-		<desc>The final two contestants take on four challenges in their bid to become New Zealand's next MasterChef.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592083'&amp;EntityType='LinearSchedule'&amp;EntityId='c4d7a0f7-c970-4b3f-b8c9-bad143fb9e60'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220060114 +0000" stop="20260220063532 +0000">
-		<title>MasterChef UK Junior Season 01 - EP1</title>
-		<desc>After a Toad in the Hole Masterclass from top chef John Torode, the four cooks try their hand.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592146'&amp;EntityType='LinearSchedule'&amp;EntityId='c6188b2b-b1c2-4cb6-b8d1-e8366d708f73'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220063532 +0000" stop="20260220070951 +0000">
-		<title>MasterChef UK Junior Season 01 - EP2</title>
-		<desc>After a Masterclass in Thai chicken cakes from top chef John Torode, the four cooks try their hand.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592190'&amp;EntityType='LinearSchedule'&amp;EntityId='a9031e2d-2b1f-46a6-9596-da44a0b05edf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220070951 +0000" stop="20260220074405 +0000">
-		<title>MasterChef UK Junior Season 01 - EP3</title>
-		<desc>Whose dessert will launch presenters John and Nadia in to sweet orbit?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592094'&amp;EntityType='LinearSchedule'&amp;EntityId='f320d0a8-23d0-4e2f-9d1a-1ca007852959'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220074405 +0000" stop="20260220081818 +0000">
-		<title>MasterChef UK Junior Season 01 - EP4</title>
-		<desc>After a scrummy Berry pudding Masterclass from top chef John Torode, the four cooks have a bash.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592102'&amp;EntityType='LinearSchedule'&amp;EntityId='b83e4d4b-d6d6-4408-b4ec-d062c6cf00b2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220081818 +0000" stop="20260220085218 +0000">
-		<title>MasterChef UK Junior Season 01 - EP5</title>
-		<desc>With only two semi final places up for grabs, the competition gets serious.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592166'&amp;EntityType='LinearSchedule'&amp;EntityId='1ddcf2f7-98fa-420f-b37c-6f2833a63f72'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220085218 +0000" stop="20260220092627 +0000">
-		<title>MasterChef UK Junior Season 01 - EP6</title>
-		<desc>Four aspiring chefs compete for a place in the quarter-final.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592162'&amp;EntityType='LinearSchedule'&amp;EntityId='099ae4de-5075-4cb4-ab99-0481098a1cef'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220092627 +0000" stop="20260220100027 +0000">
-		<title>MasterChef UK Junior Season 01 - EP7</title>
-		<desc>After a scrummy Masterclass in scotch pancakes from top chef John Torode, it's the four cooks' turn.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592150'&amp;EntityType='LinearSchedule'&amp;EntityId='5bf11eb2-3241-483e-a6a6-2989076c37b3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220100027 +0000" stop="20260220103443 +0000">
-		<title>MasterChef UK Junior Season 01 - EP8</title>
-		<desc>With a quarter final place to win, the competition heats up further as they make their tastiest food.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592110'&amp;EntityType='LinearSchedule'&amp;EntityId='c69eb7f2-14fd-4e3a-bb28-c7a67f8777d3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220103443 +0000" stop="20260220110859 +0000">
-		<title>MasterChef UK Junior Season 01 - EP9</title>
-		<desc>With a quarter final place up for grabs, the competition reaches boiling point as they go all out to impress.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592154'&amp;EntityType='LinearSchedule'&amp;EntityId='33f88330-8ed9-4605-9871-6465aec1c2b6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220110859 +0000" stop="20260220114315 +0000">
-		<title>MasterChef UK Junior Season 01 - EP10</title>
-		<desc>In the second quarter-final, four heat winners compete to be the best cook in the country.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592118'&amp;EntityType='LinearSchedule'&amp;EntityId='ad3fc86f-2beb-4769-91bc-159c8b87d3c8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220114315 +0000" stop="20260220121737 +0000">
-		<title>MasterChef UK Junior Season 01 - EP11</title>
-		<desc>The four remaining chefs must cook lunch for Doctor Who and his companion.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592170'&amp;EntityType='LinearSchedule'&amp;EntityId='f4f7ab1f-cb56-4202-9e74-c493047a299a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220121737 +0000" stop="20260220125138 +0000">
-		<title>MasterChef UK Junior Season 01 - EP12</title>
-		<desc>They must prepare lunch for pop band JLS. Will their food be a hit with the boys?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592127'&amp;EntityType='LinearSchedule'&amp;EntityId='8a6a675d-d5ec-463e-ae5b-37e1cbaf4fbe'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220125138 +0000" stop="20260220132556 +0000">
-		<title>MasterChef UK Junior Season 01 - EP13</title>
-		<desc>The four best chefs battle it out to become crowned Junior Masterchef Champion 2010.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592178'&amp;EntityType='LinearSchedule'&amp;EntityId='096704dc-1232-45b8-bc05-685b0ed2b95b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220132556 +0000" stop="20260220142359 +0000">
-		<title>MasterChef Australia Celebrity Season 01 - EP1</title>
-		<desc>Heat 1 of Celebrity MasterChef puts three celebrities against each other to win a place in the semi-finals.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592182'&amp;EntityType='LinearSchedule'&amp;EntityId='0345a2ae-fa10-438b-ba6c-b49356f14bf8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220142359 +0000" stop="20260220152116 +0000">
-		<title>MasterChef Australia Celebrity Season 01 - EP2</title>
-		<desc>Three new celebrities cook off against each other for their chance to be Australia's Celebrity MasterChef.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592174'&amp;EntityType='LinearSchedule'&amp;EntityId='ba29c590-da2a-4f62-a42b-e16636f74c85'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260220152116 +0000" stop="20260220161848 +0000">
-		<title>MasterChef Australia Celebrity Season 01 - EP3</title>
-		<desc>In Round one they each have to cook their signature dishes, with the winner getting an advantage in round two.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12592134'&amp;EntityType='LinearSchedule'&amp;EntityId='90f380b0-0798-4ae1-adf0-37979aec6ee7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="570813" start="20260219163157 +0000" stop="20260219172150 +0000">
 		<title>Deal Or No Deal USA - Cheering For A Lucky Strike</title>
@@ -5712,8 +5413,8 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12490300'&amp;EntityType='LinearSchedule'&amp;EntityId='99c6356c-4f07-40c2-8edd-344d4f780879'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558112" start="20260220151500 +0000" stop="20260220171500 +0000">
-		<title>Frauen Bundesliga '25/26: Werder Bremen v Bayern Munich</title>
-		<desc>The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Werder Bremen v Bayern Munich.</desc>
+		<title>Frauen Bundesliga '25/26: Carl Zeiss Jena v Bayern Munich</title>
+		<desc>The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Carl Zeiss Jena v Bayern Munich.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12490315'&amp;EntityType='LinearSchedule'&amp;EntityId='f441004a-1928-4016-9168-0a2c86471b79'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556888" start="20260219163000 +0000" stop="20260219170000 +0000">
@@ -6786,65 +6487,90 @@
 		<desc>Songs you really like but are a bit too embarrassed to admit. Don't worry, we're all in the same boat here &amp; Pat urges you to try to have a little less shame in your musical game!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12531332'&amp;EntityType='LinearSchedule'&amp;EntityId='ecb9d2d1-260d-487b-bd72-564425f96f47'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219170000 +0000" stop="20260219180000 +0000">
-		<title>Alex Baker's Biggest 00s Anthems! - EP1</title>
-		<desc>Alex Baker brings you his 50 biggest 00s anthems! Expect everything from Green Day to Muse, Linkin Park to the Arctic Monkeys with the tunes getting bigger and louder as we go!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12489555'&amp;EntityType='LinearSchedule'&amp;EntityId='7693d0e6-40a4-4588-aad3-8a9c70e9d0a0'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219164000 +0000" stop="20260219170000 +0000">
+		<title>Legendary Rock: 1980-1989 - EP1</title>
+		<desc>These are the legendary rock stars that made the 80s! Expect Meat Loaf, Bonnie Tyler, Queen, Bon Jovi, AC/DC, Iron Maiden &amp; loads more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738860'&amp;EntityType='LinearSchedule'&amp;EntityId='e2649fd0-3abd-4ca6-b714-cf8d07ddd0f0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219180000 +0000" stop="20260219190000 +0000">
-		<title>Linkin Park: Fan Favourites - EP1</title>
-		<desc>Starting in 2001, here are the biggest rock songs from Linkin Park!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12489563'&amp;EntityType='LinearSchedule'&amp;EntityId='c2d483e0-c0f2-4ab1-8852-2459279aefc5'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219170000 +0000" stop="20260219182000 +0000">
+		<title>99 Reasons The 00s Rocked! - EP1</title>
+		<desc>99 anthems of rock from the noughties! With Green Day, Linkin Park, The Strokes, Paramore, Blink-182, The Killers &amp; much more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738840'&amp;EntityType='LinearSchedule'&amp;EntityId='7693d0e6-40a4-4588-aad3-8a9c70e9d0a0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219190000 +0000" stop="20260219210000 +0000">
-		<title>Feelgood Rock n Roll! 1990-1999 - EP1</title>
-		<desc>From INXS &amp; James at the start of the decade to U2 &amp; Blondie at the end - these are 2 hours of feelgood rock n roll anthems from the 1990s.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12489619'&amp;EntityType='LinearSchedule'&amp;EntityId='52becc8b-0188-4064-9573-62229d75b92e'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219182000 +0000" stop="20260219190000 +0000">
+		<title>The Anthems! - EP1</title>
+		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738884'&amp;EntityType='LinearSchedule'&amp;EntityId='1215a11b-0c07-4c18-8b4c-8a1e60dd6f76'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219210000 +0000" stop="20260219220000 +0000">
-		<title>The Wild Ones with Suzi Quatro! - EP1</title>
-		<desc>Our godmother of Rock, Suzi Quatro is here with the wildest Rock Stars of the 70's! But who is the craziest and most outlandish? Bowie, Meatloaf, Queen or even Suzi herself?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12489628'&amp;EntityType='LinearSchedule'&amp;EntityId='178c289f-dc00-434e-8dbf-5204a4a9a4f4'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219190000 +0000" stop="20260219200000 +0000">
+		<title>All Killer: 00s Emo Anthems! - EP1</title>
+		<desc>An hour of the greatest Emo tracks the noughties had to offer featuring Linkin Park, Fall Out Boy, Thirty Seconds To Mars and My Chemical Romance.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738844'&amp;EntityType='LinearSchedule'&amp;EntityId='52becc8b-0188-4064-9573-62229d75b92e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260219220000 +0000" stop="20260220000000 +0000">
-		<title>The 70s Rock Jukebox! - EP1</title>
-		<desc>Put another dime in the jukebox as we crank the volume up to 11! These are 25 sing out loud 70s rock anthems, including Queen, T.Rex, Alice Cooper &amp; Led Zeppelin.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12489575'&amp;EntityType='LinearSchedule'&amp;EntityId='1b0ea1cb-3fb5-4db9-b3fd-842eb467c4fa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260220000000 +0000" stop="20260220040000 +0000">
-		<title>Rock Chick Revolution! - EP1</title>
-		<desc>These are power ladies who really rock! From Blondie, Pat Benatar &amp; Suzi Quatro to Alanis Morissette, Amy Lee &amp; Pink!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12489585'&amp;EntityType='LinearSchedule'&amp;EntityId='c02ba2d5-d445-469c-9ad0-95569ade4adb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260220040000 +0000" stop="20260220071500 +0000">
+	<programme channel="158963" start="20260219200000 +0000" stop="20260219230000 +0000">
 		<title>90s v 00s Rock Anthems! - EP1</title>
 		<desc>40 classic rock anthems back to back - one from the 90s followed by another from the 00s. Simple!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12489567'&amp;EntityType='LinearSchedule'&amp;EntityId='9ab4bd21-9f2a-4d09-b576-c1286b7b711d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738888'&amp;EntityType='LinearSchedule'&amp;EntityId='8b2b4698-8782-4ec4-9074-5a72b6ad054b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260220071500 +0000" stop="20260220080000 +0000">
-		<title>Maxed Out On 2003 Anthems! - EP1</title>
-		<desc>Live it loud and Max out on the finest rock anthems! Featuring The White Stripes, Iron Maiden, Evanescense &amp; The Foo Fighters. This is Now Rock!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12489603'&amp;EntityType='LinearSchedule'&amp;EntityId='8958f1cb-b141-444a-a991-39bbec5d1d43'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219230000 +0000" stop="20260219235000 +0000">
+		<title>Paramore: Fan Favourites - EP1</title>
+		<desc>Starting in 2007 - 45 minutes of the biggest rock songs from Paramore!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738896'&amp;EntityType='LinearSchedule'&amp;EntityId='53b64e08-b55b-49ef-81d2-2398f331303a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260220080000 +0000" stop="20260220093000 +0000">
-		<title>50 Rock Heroes of the 00s! - EP1</title>
-		<desc>Claire Sturgess relives her 50 greatest heroes with the rock music that defined the 00s! Blink, MCR, Razorlight &amp; Kings of Leon are all in the top 10 - but who's at number 1?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12489644'&amp;EntityType='LinearSchedule'&amp;EntityId='05c60c65-005a-441b-a1f5-f4807204c252'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260219235000 +0000" stop="20260220000000 +0000">
+		<title>The Anthems! - EP1</title>
+		<desc>Turn it up to 11 for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738900'&amp;EntityType='LinearSchedule'&amp;EntityId='32de5c52-9e44-4545-9716-e828af77d609'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260220093000 +0000" stop="20260220103000 +0000">
-		<title>Alex Baker's Biggest 00s Anthems! - EP1</title>
-		<desc>Alex Baker brings you his 50 biggest 00s anthems! Expect everything from Green Day to Muse, Linkin Park to the Arctic Monkeys with the tunes getting bigger and louder as we go!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12489595'&amp;EntityType='LinearSchedule'&amp;EntityId='76026113-31a2-49e5-887b-b8ed3975c825'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260220000000 +0000" stop="20260220021500 +0000">
+		<title>Carol Decker's 90s Rock Chicks! - EP1</title>
+		<desc>A decade of girls &amp; guitars - from Republica &amp; Catatonia to Cher &amp; Debbie Harry.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738848'&amp;EntityType='LinearSchedule'&amp;EntityId='c02ba2d5-d445-469c-9ad0-95569ade4adb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260220103000 +0000" stop="20260220120000 +0000">
-		<title>50 Rock Heroes of the 00s! - EP1</title>
-		<desc>Claire Sturgess relives her 50 greatest heroes with the rock music that defined the 00s! Blink, MCR, Razorlight &amp; Kings of Leon are all in the top 10 - but who's at number 1?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12489607'&amp;EntityType='LinearSchedule'&amp;EntityId='312199b5-63ac-4c19-b1f3-7b2920b31e9f'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260220021500 +0000" stop="20260220030000 +0000">
+		<title>Rated Rock! The No.1s - EP1</title>
+		<desc>Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738892'&amp;EntityType='LinearSchedule'&amp;EntityId='4c76588c-5ed2-42e0-b8ac-c9c225ee31bf'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260220120000 +0000" stop="20260220161000 +0000">
-		<title>No Intro Needed: 50 Rock Classics - EP1</title>
-		<desc>50 legendary rock tracks you absolutely know - but how fast can you name them? One thing's for sure: after the first riff, they'll be stuck in your head all night long!</desc>
-		<icon src="N/A" />
+	<programme channel="158963" start="20260220030000 +0000" stop="20260220060000 +0000">
+		<title>Feelgood Rock Songs 1980-1989 - EP1</title>
+		<desc>From Journey &amp; The Jam at the start of the decade to Guns N' Roses &amp; Billy Joel at the end - these are 3 hours of feelgood rock n roll anthems from the 80s.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738864'&amp;EntityType='LinearSchedule'&amp;EntityId='49214789-8d60-4913-9e55-3cbb3fb3e483'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260220060000 +0000" stop="20260220074000 +0000">
+		<title>Loud &amp; Legendary: The 20 Greatest! - EP1</title>
+		<desc>The most iconic &amp; ear-shattering rock songs that shaped the genre! Including Led Zeppelin's timeless Whole Lotta Love &amp; AC/DC's rebellious Highway to Hell. Crank it up &amp; enjoy!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738904'&amp;EntityType='LinearSchedule'&amp;EntityId='42d612c1-c74a-4e45-adce-cab865794efb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260220074000 +0000" stop="20260220080000 +0000">
+		<title>Rated Rock! The No.1s - EP1</title>
+		<desc>Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738876'&amp;EntityType='LinearSchedule'&amp;EntityId='2c0c6bae-e07d-455d-b6b2-36114d218841'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260220080000 +0000" stop="20260220110000 +0000">
+		<title>Nicky Horne's 30 Bad Ass Videos! - EP1</title>
+		<desc>Nicky Horne presents his favourite 30 Kick Ass Videos which, need to sit in the hall of fame for Rock Video Greatness featuring Bon Jovi, David Bowie, Kate Bush, Nirvana and Ozzy!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738852'&amp;EntityType='LinearSchedule'&amp;EntityId='05c60c65-005a-441b-a1f5-f4807204c252'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260220110000 +0000" stop="20260220120000 +0000">
+		<title>Turn Up The Pop Punk Anthems! - EP1</title>
+		<desc>Turn up your spreakers to 11 and live life even louder! 1 hour of 00s Pop Punk Anthems in order, featurng Green Day, Blink-182, Sum 41, Bowling For Soup &amp; The All-American Rejects</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738872'&amp;EntityType='LinearSchedule'&amp;EntityId='cc3c120b-8f0c-426e-87fe-2c3b56516154'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260220120000 +0000" stop="20260220141000 +0000">
+		<title>Glam Squad with Claire Sturgess - EP1</title>
+		<desc>The most fabulous glam rock icons from the satin &amp; glitter of 70s through to the bold new look of today. Glam Rock never left us, it just changed outfits!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738856'&amp;EntityType='LinearSchedule'&amp;EntityId='2045dabc-8c32-4a3c-a595-144092fd6efc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260220141000 +0000" stop="20260220150000 +0000">
+		<title>Weekend Anthems! - EP1</title>
+		<desc>Turn it up to 11 all weekend for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738880'&amp;EntityType='LinearSchedule'&amp;EntityId='366554e1-6341-4c99-9e4d-93fe47d7acb7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260220150000 +0000" stop="20260220170000 +0000">
+		<title>30 Freakishly Awesome Anthems! - EP1</title>
+		<desc>These monsters were created for your enjoyment! 30 of the biggest, spine tingling anthems from legends like Meatloaf &amp; Kiss through to My Chemical Romance &amp; YungBlud!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738868'&amp;EntityType='LinearSchedule'&amp;EntityId='ec8451a2-3f1e-47d4-8e50-19027c845ee3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="382872" start="20260219165500 +0000" stop="20260219183000 +0000">
 		<title>One Floor Below</title>
