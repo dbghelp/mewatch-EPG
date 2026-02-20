@@ -32,9 +32,13 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	<channel id="97078">
+		<display-name>LIVE 2</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
+	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
 	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
@@ -91,10 +95,6 @@
 	<channel id="158963">
 		<display-name>NOW Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510610'&amp;EntityType='Item'&amp;EntityId='158963'&amp;Width=193&amp;Height=187" />
-	</channel>
-	<channel id="382872">
-		<display-name>CinemaWorld</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260220140000 +0000" stop="20260220164000 +0000">
 		<title>The Woman King</title>
@@ -1141,15 +1141,20 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 22nd February, Sunday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12576563'&amp;EntityType='LinearSchedule'&amp;EntityId='b9ba4bbd-eb4c-4679-bff6-d96df4ba9798'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20260220160000 +0000" stop="20260221160000 +0000">
-		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
-		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12531050'&amp;EntityType='LinearSchedule'&amp;EntityId='5112db39-bd41-4f49-9be0-e86943e1e647'&amp;Width=1280&amp;Height=720" />
+	<programme channel="97078" start="20260220160000 +0000" stop="20260222040000 +0000">
+		<title>No Programme available now. Next Broadcast on 22nd February, Sunday 12.00pm. WTT Singapore Smash 2026</title>
+		<desc>LIVE 2 will commence broadcast of the WTT Singapore Smash 2026 on 22nd February, Sunday 12.00pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12530624'&amp;EntityType='LinearSchedule'&amp;EntityId='c65d844b-9472-4423-86c1-eec0a9e2acbf'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20260221160000 +0000" stop="20260222160000 +0000">
-		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
-		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12576890'&amp;EntityType='LinearSchedule'&amp;EntityId='2a3e7662-e9b6-4431-8255-f276e7bb4576'&amp;Width=1280&amp;Height=720" />
+	<programme channel="204746" start="20260220160000 +0000" stop="20260221160000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd February, Monday 2.45am. Milano Cortina 2026 Winter Olympic Games</title>
+		<desc>LIVE 6 will commence broadcast of the Milano Cortina 2026 Winter Olympic Games: Closing Ceremony on 23rd February, Monday 2.45am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12531068'&amp;EntityType='LinearSchedule'&amp;EntityId='a5193fbf-d866-4645-bcf1-037c3033e741'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20260221160000 +0000" stop="20260222160000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd February, Monday 2.45am. Milano Cortina 2026 Winter Olympic Games</title>
+		<desc>LIVE 6 will commence broadcast of the Milano Cortina 2026 Winter Olympic Games: Closing Ceremony on 23rd February, Monday 2.45am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12576921'&amp;EntityType='LinearSchedule'&amp;EntityId='aa90dbcf-8c8f-4b86-aea3-8a370f5662b8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260220152116 +0000" stop="20260220161848 +0000">
 		<title>MasterChef Australia Celebrity Season 01 - EP3</title>
@@ -3451,81 +3456,6 @@
 		<desc>30 years &amp; 4 hours of classic rock bands, in order from 1965-1995! Expect to see The Stones, The Who, Joan Jett, Aerosmith, AC/DC, Queen, Genesis &amp; The Beatles.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12739733'&amp;EntityType='LinearSchedule'&amp;EntityId='2e322dbd-a507-446b-9a78-2b7d90e1160d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="382872" start="20260220153000 +0000" stop="20260220171500 +0000">
-		<title>The Hunt</title>
-		<desc>After the death of their father and mother, four siblings reunite to come to terms with the tragedy. They decide to participate in a hunting challenge which will determine their inheritance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12488254'&amp;EntityType='LinearSchedule'&amp;EntityId='4240abb3-23da-42e0-93db-0ead71fe88cc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260220171500 +0000" stop="20260220185500 +0000">
-		<title>Deal At The Border</title>
-		<desc>Aza and Samat, two drug runners navigating the secret routes in the mountains of Central Asia, stumble upon Nazik, a young girl fleeing from slavery. When Nazik is recaptured by a criminal, facing a grim return to captivity, Aza resolves to save her.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530616'&amp;EntityType='LinearSchedule'&amp;EntityId='52b50eec-27c5-4cc6-9899-90f2641247be'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260220185500 +0000" stop="20260220202000 +0000">
-		<title>Diana's Wedding</title>
-		<desc>Through the eyes of Diana, we witness the rollercoaster ride of both her parent’s and Irene’s marriages. To both girls, they have the worst parents in the world. But at the end of the day, which of the couples remain strong and which fall apart ?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530578'&amp;EntityType='LinearSchedule'&amp;EntityId='32fcf422-11aa-45d7-82de-0ebab2241cbc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260220202000 +0000" stop="20260220222500 +0000">
-		<title>Bad Investigate</title>
-		<desc>A corrupt cop sets out to hunt down a dangerous drug dealer who is seeking revenge for the death of his brother. Also trying to catch the same criminal is an FBI agent.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530571'&amp;EntityType='LinearSchedule'&amp;EntityId='3d4b7058-11c5-45a3-856e-3dde8601b362'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260220222500 +0000" stop="20260221000500 +0000">
-		<title>Murder in Charente</title>
-		<desc>When 38-year-old Cyril is found murdered on the grounds of a grand estate, pregnant detective Maud Arthuis teams up with private investigator Lucien Labeguerri. As secrets unravel and another murder occurs, the case becomes deeply personal for them both.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530593'&amp;EntityType='LinearSchedule'&amp;EntityId='5fa8e738-de13-4828-b0bb-7e07670627ba'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221000500 +0000" stop="20260221014000 +0000">
-		<title>Mammal</title>
-		<desc>Margaret (Rachel Griffiths), a silently grieving divorcee forms an intense bond with Joe (Barry Keoghan), a homeless youth. Their oedipal relationship is threatened by the wrath of Margaret’s ex-husband and Joe’s involvement with a gang of violent youths. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530620'&amp;EntityType='LinearSchedule'&amp;EntityId='2ee60597-58e0-4280-9071-a88b3a849664'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221014000 +0000" stop="20260221032500 +0000">
-		<title>Hard Shell, Soft Shell</title>
-		<desc>Loved-up oyster farmer Az thinks he’s made it. But when an elaborate proposal goes awry and his girlfriend Jess breaks his heart, Az is forced to confront his understanding of what happiness really looks like – both hers and his own.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530601'&amp;EntityType='LinearSchedule'&amp;EntityId='17a06ce1-383a-4fc6-bf63-d936a5636090'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221032500 +0000" stop="20260221051500 +0000">
-		<title>Unsinkable</title>
-		<desc>In 1981, the newly built and unsinkable rescue boat RF2 sinks on an early mission, killing nine. Henrik, son of the captain blamed for the disaster, must investigate amidst resistance from fishermen fearing job losses and authorities dreading scandal.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530628'&amp;EntityType='LinearSchedule'&amp;EntityId='bb56b3ea-e7c9-405c-90bb-984f926c7fd2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221051500 +0000" stop="20260221064500 +0000">
-		<title>Black As The Snow</title>
-		<desc>A serial killer is on the rampage in the ski resort of Morzine-Avoriaz. Vivier, French police officer teams up with the Swiss policeman Meyer to investigate the suspicious deaths of teenagers. They must find the killer before the victim list grows.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530640'&amp;EntityType='LinearSchedule'&amp;EntityId='fc1cdf3b-b374-4353-a709-798f8de90d71'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221064500 +0000" stop="20260221081500 +0000">
-		<title>Under the Fig Trees</title>
-		<desc>Fig pickers – young and old, men and women - flirt, conspire and exchange snatches of gossip while toiling in the gorgeous Tunisian sunlight.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530586'&amp;EntityType='LinearSchedule'&amp;EntityId='95c6f8ca-ecb6-42db-b54a-2b1bedf86ad8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221081500 +0000" stop="20260221100000 +0000">
-		<title>The Hunt</title>
-		<desc>After the death of their father and mother, four siblings reunite to come to terms with the tragedy. They decide to participate in a hunting challenge which will determine their inheritance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530610'&amp;EntityType='LinearSchedule'&amp;EntityId='a5f823d9-9baf-407d-822a-22fb2ee0c82e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221100000 +0000" stop="20260221113000 +0000">
-		<title>Black As The Snow 2: Dead At The Summit</title>
-		<desc>An SUV races over the cliffs into the depths - the driver is killed instantly. The dead man was apparently involved in a robbery but there is no trace of the loot. French Officer Vivier and Swiss Captain Meyer once again team up to solve the mystery.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530644'&amp;EntityType='LinearSchedule'&amp;EntityId='4f89ee51-dd35-4a97-9104-75f2195714f8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221113000 +0000" stop="20260221130000 +0000">
-		<title>A Minute's Silence</title>
-		<desc>In a small Baltic town, 18-year-old Christian and his teacher Stella fall for one another and begin a secret affair. However, the intensity of their feelings soon overwhelm them. When tragedy befalls Stella, Christian is forced to confront his first love. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530648'&amp;EntityType='LinearSchedule'&amp;EntityId='a0925825-b5d6-420d-9036-3e718c9a097f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221130000 +0000" stop="20260221144500 +0000">
-		<title>Latin For All</title>
-		<desc>Delphine, a disillusioned Latin teacher, made a deal with her class of 5 lazy students: if they keep quiet, they’ll all receive A grades without having to learn anything. Unfortunately, this qualifies them for a Latin competition taking place in Naples.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530636'&amp;EntityType='LinearSchedule'&amp;EntityId='b686208c-181d-4808-9c59-b4f1b560b1c3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221144500 +0000" stop="20260221162500 +0000">
-		<title>The Return (2018)</title>
-		<desc>Two Danish-Korean adoptees, Karoline and Thomas, return to their birth country for the first time. The pair meet in Seoul where they encounter fellow adoptees, sparking an emotional journey that challenges their destiny and identity. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12530632'&amp;EntityType='LinearSchedule'&amp;EntityId='3fdd2569-605c-4a06-bb8a-cc3e4b057df6'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260221163000 +0000" stop="20260221173000 +0000">
 		<title>The Ark S1 - EP 6</title>
 		<desc>Follows the remaining crew of a spacecraft known as Ark One, who must become the best versions of themselves to stay on course and survive after experiencing a catastrophic event that caused massive destruction and loss of life.</desc>
@@ -4511,10 +4441,35 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 23rd February, Monday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12620432'&amp;EntityType='LinearSchedule'&amp;EntityId='5db5ccef-8cab-4401-a2a0-cc164f57f414'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20260222160000 +0000" stop="20260223160000 +0000">
-		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
-		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12620890'&amp;EntityType='LinearSchedule'&amp;EntityId='a0ebe5ae-f27b-46b9-a6d6-05e3999875a9'&amp;Width=1280&amp;Height=720" />
+	<programme channel="97078" start="20260222040000 +0000" stop="20260222080000 +0000">
+		<title>WTT Singapore Smash 2026</title>
+		<desc>WTT Singapore Smash is the world's premier table tennis event in Singapore happening from 19 Feb to 1 Mar 2026 at the Kallang. In this fifth edition, watch the biggest stars in the sport like Wang Chuqin, Tomokazu Harimoto and Felix Lebrun, light up the spectacular Infinity ∞ Arena with high-octane table tennis. The stakes are high with USD 1,500,000 in prize money and 2000 world ranking points up for grabs in this premier WTT Series event.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12694008'&amp;EntityType='LinearSchedule'&amp;EntityId='5daf2c7b-e0aa-4931-81f7-6b5dcf446c17'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260222080000 +0000" stop="20260222100000 +0000">
+		<title>No Programme available now. Next Broadcast on 22nd February, Sunday 06.00pm. WTT Singapore Smash 2026</title>
+		<desc>LIVE 2 will commence broadcast of the WTT Singapore Smash 2026 on 23rd February, Monday 06.00pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12757327'&amp;EntityType='LinearSchedule'&amp;EntityId='b9ed4ea3-faff-455e-9c11-4387bb63a80d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260222100000 +0000" stop="20260222140000 +0000">
+		<title>WTT Singapore Smash 2026</title>
+		<desc>WTT Singapore Smash is the world's premier table tennis event in Singapore happening from 19 Feb to 1 Mar 2026 at the Kallang. In this fifth edition, watch the biggest stars in the sport like Wang Chuqin, Tomokazu Harimoto and Felix Lebrun, light up the spectacular Infinity ∞ Arena with high-octane table tennis. The stakes are high with USD 1,500,000 in prize money and 2000 world ranking points up for grabs in this premier WTT Series event.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12757335'&amp;EntityType='LinearSchedule'&amp;EntityId='de208aee-0d3e-4856-bd3d-923b88b494e3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260222140000 +0000" stop="20260222160000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd February, Monday 12.00pm. WTT Singapore Smash 2026</title>
+		<desc>LIVE 2 will commence broadcast of the WTT Singapore Smash 2026 on 23rd February, Monday 12.00pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12757331'&amp;EntityType='LinearSchedule'&amp;EntityId='edb2763f-c190-4786-9426-cb9398a74fff'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260222160000 +0000" stop="20260223040000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd February, Monday 12.00pm. WTT Singapore Smash 2026</title>
+		<desc>LIVE 2 will commence broadcast of the WTT Singapore Smash 2026 on 23rd February, Monday 12.00pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12620448'&amp;EntityType='LinearSchedule'&amp;EntityId='a8e15e5b-af10-45af-bf79-cb8439473ebf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20260222160000 +0000" stop="20260222184500 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd February, Monday 2.45am. Milano Cortina 2026 Winter Olympic Games</title>
+		<desc>LIVE 6 will commence broadcast of the Milano Cortina 2026 Winter Olympic Games: Closing Ceremony on 23rd February, Monday 2.45am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12620931'&amp;EntityType='LinearSchedule'&amp;EntityId='eb449187-8e2d-401a-9474-d44f0e87975d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260221161727 +0000" stop="20260221170919 +0000">
 		<title>MasterChef New Zealand Season 04 - Just Dessert</title>
@@ -6670,80 +6625,5 @@
 		<title>Rated Rock! The No.1s - EP1</title>
 		<desc>Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12758305'&amp;EntityType='LinearSchedule'&amp;EntityId='ad234f81-eb57-4709-a5b2-73816c95f21a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221162500 +0000" stop="20260221181000 +0000">
-		<title>Under the Fig Trees</title>
-		<desc>Fig pickers – young and old, men and women - flirt, conspire and exchange snatches of gossip while toiling in the gorgeous Tunisian sunlight.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576476'&amp;EntityType='LinearSchedule'&amp;EntityId='a990fea9-83fa-4cfb-a96a-bbf2bced39e8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221181000 +0000" stop="20260221201500 +0000">
-		<title>Unsinkable</title>
-		<desc>In 1981, the newly built and unsinkable rescue boat RF2 sinks on an early mission, killing nine. Henrik, son of the captain blamed for the disaster, must investigate amidst resistance from fishermen fearing job losses and authorities dreading scandal.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576523'&amp;EntityType='LinearSchedule'&amp;EntityId='48532a03-f29c-465c-af19-7c7e815afa0a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221201500 +0000" stop="20260221220000 +0000">
-		<title>Mammal</title>
-		<desc>Margaret (Rachel Griffiths), a silently grieving divorcee forms an intense bond with Joe (Barry Keoghan), a homeless youth. Their oedipal relationship is threatened by the wrath of Margaret’s ex-husband and Joe’s involvement with a gang of violent youths. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576493'&amp;EntityType='LinearSchedule'&amp;EntityId='da1167f9-4d63-4f4d-8408-f3da9cf6fc0c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221220000 +0000" stop="20260221234000 +0000">
-		<title>Black As The Snow 2: Dead At The Summit</title>
-		<desc>An SUV races over the cliffs into the depths - the driver is killed instantly. The dead man was apparently involved in a robbery but there is no trace of the loot. French Officer Vivier and Swiss Captain Meyer once again team up to solve the mystery.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576501'&amp;EntityType='LinearSchedule'&amp;EntityId='64cd1c1a-2e31-41b0-849e-9fb80b53f61f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260221234000 +0000" stop="20260222013500 +0000">
-		<title>Murder Party</title>
-		<desc>Jeanne, a brilliant architect, is appointed to restore the sumptuous Daguerre mansion owned by an eccentric family. When the patriarch is found dead during a murder party, Jeanne finds herself caught up in a real-life investigation to unmask the killer.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576455'&amp;EntityType='LinearSchedule'&amp;EntityId='a6110898-3c2f-4ded-af55-d718d11d3357'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260222013500 +0000" stop="20260222031000 +0000">
-		<title>A Minute's Silence</title>
-		<desc>In a small Baltic town, 18-year-old Christian and his teacher Stella fall for one another and begin a secret affair. However, the intensity of their feelings soon overwhelm them. When tragedy befalls Stella, Christian is forced to confront his first love. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576459'&amp;EntityType='LinearSchedule'&amp;EntityId='0eb7b89a-b328-4a43-93b7-0f623ad25b3e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260222031000 +0000" stop="20260222044500 +0000">
-		<title>Ricky</title>
-		<desc>When Katie, an ordinary woman, meets Paco, an ordinary man, something magical and miraculous happens: a love story. From this union will be born an extraordinary baby: Ricky. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576463'&amp;EntityType='LinearSchedule'&amp;EntityId='3b177d67-960a-458a-9151-581a3c3e8c0b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260222044500 +0000" stop="20260222062500 +0000">
-		<title>Latin For All</title>
-		<desc>Delphine, a disillusioned Latin teacher, made a deal with her class of 5 lazy students: if they keep quiet, they’ll all receive A grades without having to learn anything. Unfortunately, this qualifies them for a Latin competition taking place in Naples.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576530'&amp;EntityType='LinearSchedule'&amp;EntityId='dab676ce-a1fd-4d60-a307-f276ca4bfa2d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260222062500 +0000" stop="20260222075500 +0000">
-		<title>Running To The Sky</title>
-		<desc>Twelve-year-old Jekshen is an exceptional runner living in a beautiful mountain village in Kyrgyzstan. Struggling to live with his divorced alcoholic father, Jeksen sees an upcoming big race as an opportunity to change his life for the better.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576537'&amp;EntityType='LinearSchedule'&amp;EntityId='854562a3-4f1c-48fa-b3bf-329544285f8e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260222075500 +0000" stop="20260222092500 +0000">
-		<title>The Return (2018)</title>
-		<desc>Two Danish-Korean adoptees, Karoline and Thomas, return to their birth country for the first time. The pair meet in Seoul where they encounter fellow adoptees, sparking an emotional journey that challenges their destiny and identity. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576507'&amp;EntityType='LinearSchedule'&amp;EntityId='1dc490b0-9eb1-458f-9e4f-eb37c7944b80'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260222092500 +0000" stop="20260222110000 +0000">
-		<title>Black As The Snow 3: Off Limits</title>
-		<desc>A senior executive of a multinational company is murdered on a ski lift in the French Alps. Captain Meyer decides to investigate after learning that his ex-lover is a suspect. Accompanied by French Officer Vivier, he is determined to unravel the mystery.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576515'&amp;EntityType='LinearSchedule'&amp;EntityId='6d455105-78de-4858-8af9-fd939bbf36e8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260222110000 +0000" stop="20260222124000 +0000">
-		<title>In His Hands</title>
-		<desc>Clara, a lawyer, leads a serene but monotonous life alongside her husband Damien and their two children. One evening, she succumbs to the charm of a mysterious sculptor. This one scorching night will have dramatic repercussions for her and her family.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576467'&amp;EntityType='LinearSchedule'&amp;EntityId='6049bebc-33c0-4d56-9373-ee43cd819e39'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260222124000 +0000" stop="20260222130000 +0000">
-		<title>The Rising Tide</title>
-		<desc>When her father fails to return home, the sound of his boat’s engine is the only thing a daughter has to remember of him. Learning from an elderly mechanic, she wishes to repair her father’s boat in hope of his return.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12576552'&amp;EntityType='LinearSchedule'&amp;EntityId='4b7b2f44-fdba-4c91-bd04-68d15fdade0e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260222130000 +0000" stop="20260222145500 +0000">
-		<title>Cortina Express</title>
-		<desc>During the Christmas holidays in Cortina, a colorful cast of characters cross paths among the snow-capped Ampezzo mountains. Between love, redemption, and second-chances, their lives collide in a series of hilarious and heartfelt quests for a happy ending</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576471'&amp;EntityType='LinearSchedule'&amp;EntityId='247160b5-2957-4c57-855a-0d877c20ae2f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260222145500 +0000" stop="20260222165000 +0000">
-		<title>The Takeover</title>
-		<desc>Cédric works in a company specialized in precision mechanics. Its management, run by an investment fund, is disastrous. As another fund is about to buy it again, Cédric decides to take the company over, giving it to the employees.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12576487'&amp;EntityType='LinearSchedule'&amp;EntityId='139b2984-44a5-4cf9-826d-4da7971c5713'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
