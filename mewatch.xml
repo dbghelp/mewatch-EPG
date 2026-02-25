@@ -36,10 +36,6 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
-	<channel id="204746">
-		<display-name>LIVE 6</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
-	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -95,6 +91,10 @@
 	<channel id="158963">
 		<display-name>NOW Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510610'&amp;EntityType='Item'&amp;EntityId='158963'&amp;Width=193&amp;Height=187" />
+	</channel>
+	<channel id="382872">
+		<display-name>CinemaWorld</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260224160000 +0000" stop="20260224163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 21</title>
@@ -1216,15 +1216,15 @@
 		<desc>LIVE 2 will commence broadcast of the WTT Singapore Smash 2026 on 25th February, Wednesday 12.00pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12695790'&amp;EntityType='LinearSchedule'&amp;EntityId='596fa18e-bfdf-4867-af04-53997b7ad463'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20260225040000 +0000" stop="20260225090000 +0000">
+	<programme channel="97078" start="20260225040000 +0000" stop="20260225083700 +0000">
 		<title>WTT Singapore Smash 2026</title>
 		<desc>WTT Singapore Smash is the world's premier table tennis event in Singapore happening from 19 Feb to 1 Mar 2026 at the Kallang. In this fifth edition, watch the biggest stars in the sport like Wang Chuqin, Tomokazu Harimoto and Felix Lebrun, light up the spectacular Infinity ∞ Arena with high-octane table tennis. The stakes are high with USD 1,500,000 in prize money and 2000 world ranking points up for grabs in this premier WTT Series event.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695797'&amp;EntityType='LinearSchedule'&amp;EntityId='66229a19-638a-4825-94bd-473098ffe836'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20260225090000 +0000" stop="20260225100000 +0000">
+	<programme channel="97078" start="20260225083700 +0000" stop="20260225100000 +0000">
 		<title>No Programme available now. Next Broadcast on 25th February, Wednesday 06.00pm. WTT Singapore Smash 2026</title>
 		<desc>LIVE 2 will commence broadcast of the WTT Singapore Smash 2026 on 25th February, Wednesday 06.00pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12819897'&amp;EntityType='LinearSchedule'&amp;EntityId='3424a191-ace8-4eea-9a48-f34c52bdb177'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836437'&amp;EntityType='LinearSchedule'&amp;EntityId='c188e1f4-7e0d-461c-b674-184305f44d17'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97078" start="20260225100000 +0000" stop="20260225150000 +0000">
 		<title>WTT Singapore Smash 2026</title>
@@ -1240,16 +1240,6 @@
 		<title>No Programme available now. Next Broadcast on 26th February, Thursday 12.00pm. WTT Singapore Smash 2026</title>
 		<desc>LIVE 2 will commence broadcast of the WTT Singapore Smash 2026 on 26th February, Thursday 12.00pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12710868'&amp;EntityType='LinearSchedule'&amp;EntityId='ac339ebe-bfa1-4ef2-aba4-7c2d030cc5f1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20260224160000 +0000" stop="20260225160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12696278'&amp;EntityType='LinearSchedule'&amp;EntityId='b8ebb952-8e98-48ae-b1b7-46b2998f0bf9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20260225160000 +0000" stop="20260226160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711295'&amp;EntityType='LinearSchedule'&amp;EntityId='a454f909-a03d-4b29-a75c-7823a2c71533'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260224152846 +0000" stop="20260224161958 +0000">
 		<title>MasterChef Australia Season 03 - Pressure Test 9</title>
@@ -1824,7 +1814,7 @@
 	<programme channel="558273" start="20260224205533 +0000" stop="20260224210130 +0000">
 		<title>Ms.Lee's Seasonal Vegetable - Yangji Lee’s Seasonal Vegetable Dishes: Water Parsley</title>
 		<desc>Water Parsley Rice Pancakes</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12799284'&amp;EntityType='LinearSchedule'&amp;EntityId='e060c023-1578-47b8-aa88-fa1c611e9635'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12737902'&amp;EntityType='LinearSchedule'&amp;EntityId='e060c023-1578-47b8-aa88-fa1c611e9635'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558273" start="20260224210130 +0000" stop="20260224211134 +0000">
 		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Tomato</title>
@@ -1889,7 +1879,7 @@
 	<programme channel="558273" start="20260224231740 +0000" stop="20260224232336 +0000">
 		<title>Ms.Lee's Seasonal Vegetable - Yangji Lee’s Seasonal Vegetable Dishes: Water Parsley</title>
 		<desc>Water Parsley Rice Pancakes</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12799288'&amp;EntityType='LinearSchedule'&amp;EntityId='53f8b35c-57ae-4996-966d-74d8b99da178'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12738046'&amp;EntityType='LinearSchedule'&amp;EntityId='53f8b35c-57ae-4996-966d-74d8b99da178'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558273" start="20260224232336 +0000" stop="20260224232610 +0000">
 		<title>A royal culinary class - A royal culinary class Lesson 6. "Sogogi Soondae"</title>
@@ -1944,7 +1934,7 @@
 	<programme channel="558273" start="20260225051500 +0000" stop="20260225052057 +0000">
 		<title>Ms.Lee's Seasonal Vegetable - Yangji Lee’s Seasonal Vegetable Dishes: Water Parsley</title>
 		<desc>Water Parsley Rice Pancakes</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12799292'&amp;EntityType='LinearSchedule'&amp;EntityId='72336fe3-95c9-4190-93a3-9f12699c0b98'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12737714'&amp;EntityType='LinearSchedule'&amp;EntityId='72336fe3-95c9-4190-93a3-9f12699c0b98'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558273" start="20260225052057 +0000" stop="20260225053101 +0000">
 		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Tomato</title>
@@ -2009,7 +1999,7 @@
 	<programme channel="558273" start="20260225073706 +0000" stop="20260225074303 +0000">
 		<title>Ms.Lee's Seasonal Vegetable - Yangji Lee’s Seasonal Vegetable Dishes: Water Parsley</title>
 		<desc>Water Parsley Rice Pancakes</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12799296'&amp;EntityType='LinearSchedule'&amp;EntityId='e61054f2-4629-4aef-82a7-be122725432a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12737935'&amp;EntityType='LinearSchedule'&amp;EntityId='e61054f2-4629-4aef-82a7-be122725432a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558273" start="20260225074303 +0000" stop="20260225074537 +0000">
 		<title>A royal culinary class - A royal culinary class Lesson 6. "Sogogi Soondae"</title>
@@ -3201,10 +3191,10 @@
 		<desc>Blimey, what a year! Get ready to turn your telly up LOUD, with the greatest party anthems from '78 including Grease, Saturday Night Fever, Blondie, Ian Dury, Dan Hartman &amp; Chic.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12799100'&amp;EntityType='LinearSchedule'&amp;EntityId='c61bd8f6-fc6d-46e8-910c-de23d26f86e9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260225160000 +0000" stop="20260225161000 +0000">
-		<title>Bruno Brookes-Never Even A Top 10? - EP1</title>
-		<desc>Bruno Brookes guides you through the stats in disbelief! Three hours of top tunes from superstars like Bowie, Abba, Bob Marley, Queen, The Who and more. But why didn't we buy 'em?!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711403'&amp;EntityType='LinearSchedule'&amp;EntityId='5ff949b7-a15d-492e-b344-3ea307fc4dc0'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260225160000 +0000" stop="20260225202500 +0000">
+		<title>Essential 70s - The No 2s - EP1</title>
+		<desc>Can you believe none of these songs reached no.1? Enjoy 6 hours of runners-up, in order, that didn't quite have what it takes. From Elvis in 1970 to Abba in 1979.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836497'&amp;EntityType='LinearSchedule'&amp;EntityId='5ff949b7-a15d-492e-b344-3ea307fc4dc0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158963" start="20260224160000 +0000" stop="20260224180000 +0000">
 		<title>Turn it Up! Rock Anthems</title>
@@ -3280,6 +3270,86 @@
 		<title>Rock n Roll Rewind: 2000 - 2009</title>
 		<desc>The Biggest Hits that rocked the 00s including Skater Anthems, Nu Metal and everything in between</desc>
 		<icon src="N/A" />
+	</programme>
+	<programme channel="382872" start="20260224143500 +0000" stop="20260224162000 +0000">
+		<title>The Daval Mystery</title>
+		<desc>Jonathann Daval reports the disappearance of his wife Alexia after she fails to return from her morning jog. Over the next three months, the police will launch the most relentless investigation into a media saga that will shake the whole of France.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12663670'&amp;EntityType='LinearSchedule'&amp;EntityId='b47edc79-c9bf-4ff2-a319-9a02335f426e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260224162000 +0000" stop="20260224182500 +0000">
+		<title>Here And There</title>
+		<desc>Returning from the US, Pedro comes home to his family in Mexico. With the money he has made, he hopes to secure a better life with his family, mend his relationship with them, and hopes to achieve his lifelong dream of starting a band.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695838'&amp;EntityType='LinearSchedule'&amp;EntityId='9c94081e-a383-4805-8c91-858702b9ada6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260224182500 +0000" stop="20260224201500 +0000">
+		<title>Pari</title>
+		<desc>Pari, an Iranian mother, goes to Athens with her husband to meet their son studying abroad. When their son is nowhere to be seen, she embarks on a journey in the unfamiliar city where she will uncover more than just her son’s whereabouts.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695822'&amp;EntityType='LinearSchedule'&amp;EntityId='2c24990f-b465-4593-b2fd-d8434393f068'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260224201500 +0000" stop="20260224220000 +0000">
+		<title>Lilly's Disappearance (1)</title>
+		<desc>A family vacation turns into a nightmare when 5-year-old Lilly disappears without a trace. As her frantic parents desperately search for her, friends become suspects. Could her parents themselves also be hiding something?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695826'&amp;EntityType='LinearSchedule'&amp;EntityId='0bfada74-35f2-4661-8af5-802f655d38f6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260224220000 +0000" stop="20260224233500 +0000">
+		<title>Victim</title>
+		<desc>Ukrainian immigrant Irina lives with her son Igor in a small Czech border town. When she discovers that Igor has been assaulted by three Romas her whole world comes crashing down. As times goes on, Irina begins to spot inconsistencies in his story.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695806'&amp;EntityType='LinearSchedule'&amp;EntityId='94a0ea5b-e00a-45dd-8bac-c9bf251c5218'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260224233500 +0000" stop="20260225011500 +0000">
+		<title>From The Vine</title>
+		<desc>A burnt-out executive experiences an ethical crisis and travels back to his hometown in rural Italy to recalibrate his moral compass.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695830'&amp;EntityType='LinearSchedule'&amp;EntityId='6a550a2f-c7d0-4261-a205-ec37a51bb5f0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225011500 +0000" stop="20260225031000 +0000">
+		<title>Abu Omar</title>
+		<desc>Under a strict military curfew Salah, a grieving father, sets out on the road to cross the Israeli border carrying his dead son Omar in a duffel bag. Miri, a pregnant single woman, decides to help him out at all costs while fending off the terrible heat. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695796'&amp;EntityType='LinearSchedule'&amp;EntityId='298c26fe-deec-4135-b336-952b0d5b8678'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225031000 +0000" stop="20260225045500 +0000">
+		<title>Sleepless Night</title>
+		<desc>A cop with a connection to the criminal underworld finds his secret life exposed when he and his partner are caught stealing cocaine from a powerful drug dealer, a move that puts his son's life in jeopardy.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695850'&amp;EntityType='LinearSchedule'&amp;EntityId='e0b47504-4d85-4e42-b196-413631546435'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225045500 +0000" stop="20260225062500 +0000">
+		<title>Through Rocks and Clouds</title>
+		<desc>8-year-old alpaca herder Feliciano is ecstatic: Peru has a chance to qualify for the World Cup. However, the scheming of a mining company is jeopardizing his village.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695810'&amp;EntityType='LinearSchedule'&amp;EntityId='520e7c9f-d194-43d7-965b-ec782a0181cb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225062500 +0000" stop="20260225080000 +0000">
+		<title>Lilly's Disappearance (2)</title>
+		<desc>Lilly has now been missing for days without a trace. A journalist convinces Anna and Robert that the media could help. Meanwhile, the police unexpectedly focus the investigation on Lilly’s own parents. And the evidence against them is mounting.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695814'&amp;EntityType='LinearSchedule'&amp;EntityId='b01037dc-e578-4070-86f7-a96dd9082d8e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225080000 +0000" stop="20260225094500 +0000">
+		<title>Deal At The Border</title>
+		<desc>Aza and Samat, two drug runners navigating the secret routes in the mountains of Central Asia, stumble upon Nazik, a young girl fleeing from slavery. When Nazik is recaptured by a criminal, facing a grim return to captivity, Aza resolves to save her.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695854'&amp;EntityType='LinearSchedule'&amp;EntityId='48f2956e-352e-495d-a17e-24e3146b2359'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225094500 +0000" stop="20260225112500 +0000">
+		<title>The Daval Mystery</title>
+		<desc>Jonathann Daval reports the disappearance of his wife Alexia after she fails to return from her morning jog. Over the next three months, the police will launch the most relentless investigation into a media saga that will shake the whole of France.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695818'&amp;EntityType='LinearSchedule'&amp;EntityId='5fcc43cb-1391-45b8-9312-88e52797d69f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225112500 +0000" stop="20260225130000 +0000">
+		<title>Vera Dreams of the Sea</title>
+		<desc>Vera, a devoted wife, mother, and grandmother, has her serene life turned upside down by her husband's sudden suicide. As greedy relatives and an underworld scheme threaten their family’s home, she must confront danger and take control of her own fate.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695834'&amp;EntityType='LinearSchedule'&amp;EntityId='86b1e9b9-4d0c-4de7-b69d-2a9932f42ac1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225130000 +0000" stop="20260225144500 +0000">
+		<title>Goodnight Mommy</title>
+		<desc>In a secluded countryside home, ten-year-old twins grow suspicious when their mother returns from plastic surgery distant and unrecognizable. Isolated from the world, they embark on a quest to find out whether this woman is their mother.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695842'&amp;EntityType='LinearSchedule'&amp;EntityId='de4ae9b1-5963-4e4d-8abd-4a2b8dcb7e82'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225144500 +0000" stop="20260225151500 +0000">
+		<title>The Rising Tide</title>
+		<desc>When her father fails to return home, the sound of his boat’s engine is the only thing a daughter has to remember of him. Learning from an elderly mechanic, she wishes to repair her father’s boat in hope of his return.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12695802'&amp;EntityType='LinearSchedule'&amp;EntityId='22ce9631-03cc-4c2a-afef-1558c22017e2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225151500 +0000" stop="20260225164500 +0000">
+		<title>Just Like A Woman</title>
+		<desc>Two women travel from Chicago to Santa Fe to escape their suffocating lives. Marilyn dreams of winning a contest held by a famous belly dancing company, while her friend, Mona, has a darker secret. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12695846'&amp;EntityType='LinearSchedule'&amp;EntityId='97b8171f-99b7-4bc8-9130-a8c630597bf9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260225163000 +0000" stop="20260225173000 +0000">
 		<title>Fire Country S1 - EP 2</title>
@@ -4350,11 +4420,6 @@
 		<title>No Programme available now. Next Broadcast on 27th February, Friday 12.00pm. WTT Singapore Smash 2026</title>
 		<desc>LIVE 2 will commence broadcast of the WTT Singapore Smash 2026 on 27th February, Friday 12.00pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12724919'&amp;EntityType='LinearSchedule'&amp;EntityId='4988a61b-c5b8-41fe-952b-528c116b577b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20260226160000 +0000" stop="20260227160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12725307'&amp;EntityType='LinearSchedule'&amp;EntityId='9fbc5256-6069-4770-85c4-3a6c4cf6a22e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260225162901 +0000" stop="20260225172019 +0000">
 		<title>MasterChef New Zealand Season 05 - 1 Fish, 2 Dish</title>
@@ -6246,135 +6311,70 @@
 		<desc>Some broke up acrimoniously, while others went briefly solo before returning to the warm bosom of their bands! Here are 20 massive solo hits of the 80s.</desc>
 		<icon src="N/A" />
 	</programme>
-	<programme channel="158964" start="20260225161000 +0000" stop="20260225162500 +0000">
-		<title>1970 Unleashed! - EP1</title>
-		<desc>Classic hits from just 1 year - 1970!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711455'&amp;EntityType='LinearSchedule'&amp;EntityId='a8992ec9-56e8-48e0-b191-289ec6f2ae6e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260225162500 +0000" stop="20260225192500 +0000">
-		<title>Around The World! 1970-1979 - EP1</title>
-		<desc>From the Top Of The World to Argentina, via Bangor, Babylon, Barbados, Cuba, Copacabana &amp; Hong Kong - this is our wander round the world in song titles!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711407'&amp;EntityType='LinearSchedule'&amp;EntityId='9114f8d8-845a-4b2a-a12b-2e7fb3b3d949'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260225192500 +0000" stop="20260225202500 +0000">
-		<title>Suzi Quatro's Wild Ones! - EP1</title>
-		<desc>Celebrating pioneers and mavericks from Elvis to Aerosmith. Suzi presents her hand picked list along with personal stories of the many legendary rock n rollers she's encountered!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711423'&amp;EntityType='LinearSchedule'&amp;EntityId='1ce8e7de-0bff-454b-9b04-869820058338'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="158964" start="20260225202500 +0000" stop="20260225210000 +0000">
-		<title>Suzi Quatro's Wild Ones! - EP1</title>
-		<desc>Celebrating pioneers and mavericks from Elvis to Aerosmith. Suzi presents her hand picked list along with personal stories of the many legendary rock n rollers she's encountered!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711391'&amp;EntityType='LinearSchedule'&amp;EntityId='a60464d5-716f-4242-9644-28bfed770316'&amp;Width=1280&amp;Height=720" />
+		<title>The 5 O'Clock Groovy Zone! - EP1</title>
+		<desc>Over-bearded men &amp; leftfield ladies - all with fabulous tunes! These are alternative hits from the west coast, the underground &amp; the counter culture of the 1970s.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836501'&amp;EntityType='LinearSchedule'&amp;EntityId='a60464d5-716f-4242-9644-28bfed770316'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260225210000 +0000" stop="20260225225000 +0000">
-		<title>Tony Blackburn's 70s Glam Pop! - EP1</title>
-		<desc>Big singalong choruses and outrageous outfits &amp; make-up - these were the guys &amp; gals that set the style of the 70s - and our man with the musical plan Tony Blackburn was there!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711427'&amp;EntityType='LinearSchedule'&amp;EntityId='423a5b8e-2210-421b-8fa9-e828219fe730'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260225210000 +0000" stop="20260225220000 +0000">
+		<title>What Fresh Hell Is This? 1970-1979 - EP1</title>
+		<desc>Another batch of silly songs, dodgy videos &amp; novelty hits from the 70s. Yes every one of these was a huge hit!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836505'&amp;EntityType='LinearSchedule'&amp;EntityId='423a5b8e-2210-421b-8fa9-e828219fe730'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260225225000 +0000" stop="20260226000000 +0000">
-		<title>Glam Rock Day! - EP1</title>
-		<desc>All day - rewind to a time of big hair, outrageous makeup and platform shoes. The greatest gems of glam pop &amp; rock, including Alvin Stardust, Abba, Slade &amp; Wizzard.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711367'&amp;EntityType='LinearSchedule'&amp;EntityId='0a691a65-23b2-446d-86f0-0ad358e888f1'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260225220000 +0000" stop="20260226010000 +0000">
+		<title>Tony Blackburn's SingerSongwriters - EP1</title>
+		<desc>From Joni Mitchell to Judie Tzuke, Al Green to Elton John - the 70s was a classic decade for singer-songwriters who have stood the test of time. Tony Blackburn chooses the tunes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836541'&amp;EntityType='LinearSchedule'&amp;EntityId='9f5d3ae2-bd9d-4316-965b-8d2e7a965fb3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260226000000 +0000" stop="20260226024500 +0000">
-		<title>Glam Slam! Top 40 - EP1</title>
-		<desc>Platform shoes, wild hair &amp; lots of glitter - yes it's the early 70s! Getting all glammed up are Slade, Sweet, Bowie, Suzi Q, T.Rex, Sparks, Wizzard &amp; Roxy Music.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711431'&amp;EntityType='LinearSchedule'&amp;EntityId='8e6b3faa-d89b-43ee-b2a3-653754cd43c9'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260226010000 +0000" stop="20260226054000 +0000">
+		<title>Drifting Away! Top 60 - EP1</title>
+		<desc>60 laid-back &amp; relaxing songs from the 70s... time to Drift Away with Dobie Gray, Safe Cafe, Ralph McTell, The Eagles &amp; Roberta Flack.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836546'&amp;EntityType='LinearSchedule'&amp;EntityId='64181201-fa9f-415b-975d-46a687147147'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260226024500 +0000" stop="20260226030000 +0000">
-		<title>Glam Rock Day! - EP1</title>
-		<desc>All day - rewind to a time of big hair, outrageous makeup and platform shoes. The greatest gems of glam pop &amp; rock, including Alvin Stardust, Abba, Slade &amp; Wizzard.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711435'&amp;EntityType='LinearSchedule'&amp;EntityId='7227fb77-9e7a-4fc0-b423-c5364017b0e3'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260226054000 +0000" stop="20260226060000 +0000">
+		<title>70s Glam Slam! - EP1</title>
+		<desc>Rewind to a time of big hair, outrageous makeup and platform shoes. The greatest gems of glam pop &amp; rock, including Queen, Abba &amp; Wizzard.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836559'&amp;EntityType='LinearSchedule'&amp;EntityId='325c8de6-34cf-4579-bb0c-0831f317666d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260226030000 +0000" stop="20260226033000 +0000">
-		<title>David Essex v Alvin Stardust - EP1</title>
-		<desc>A 30 minute battle of the mid-seventies rock n roll sex gods!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711387'&amp;EntityType='LinearSchedule'&amp;EntityId='7f498e70-a1bf-4048-bd53-12db6fb7d579'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260226060000 +0000" stop="20260226070000 +0000">
+		<title>Bowie v Bolan! 1970-1974 - EP1</title>
+		<desc>Cool icons of 70s glam go into battle! But who can be the most outrageous?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836585'&amp;EntityType='LinearSchedule'&amp;EntityId='9739dc6f-d1d0-4d25-bddb-07a4c0b55f16'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260226033000 +0000" stop="20260226040000 +0000">
-		<title>Glam Rock Day! - EP1</title>
-		<desc>All day - rewind to a time of big hair, outrageous makeup and platform shoes. The greatest gems of glam pop &amp; rock, including Alvin Stardust, Abba, Slade &amp; Wizzard.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711371'&amp;EntityType='LinearSchedule'&amp;EntityId='4f4b444f-5e74-4e8b-a332-17bcbf225b83'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260226070000 +0000" stop="20260226095000 +0000">
+		<title>Derek Griffiths: Playschool Disco! - EP1</title>
+		<desc>The voice of your childhood Derek Griffiths with 40 of those tunes you pestered your parents to buy - all top pop moments that still bring a smile &amp; happy memories of school days!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836515'&amp;EntityType='LinearSchedule'&amp;EntityId='c3a98b50-7234-484d-a99d-55b6b45899eb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260226040000 +0000" stop="20260226062500 +0000">
-		<title>Rosko's Glam Rock! 1971-1974 - EP1</title>
-		<desc>Wham bam glam craziness with The Emperor spreading the love from Los Angeles! 3 years of music - 1971 to 1974 - that defined a decade and forged our fabulous fashions!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711395'&amp;EntityType='LinearSchedule'&amp;EntityId='0109ec97-0f07-4282-b714-2034bf4b06c0'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260226095000 +0000" stop="20260226100000 +0000">
+		<title>The 5 O'Clock Groovy Zone! - EP1</title>
+		<desc>Over-bearded men &amp; leftfield ladies - all with fabulous tunes! These are alternative hits from the west coast, the underground &amp; the counter culture of the 1970s.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836566'&amp;EntityType='LinearSchedule'&amp;EntityId='a96770ad-4df3-4aed-93e8-e39670f32121'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260226062500 +0000" stop="20260226070000 +0000">
-		<title>Glam Rock Day! - EP1</title>
-		<desc>All day - rewind to a time of big hair, outrageous makeup and platform shoes. The greatest gems of glam pop &amp; rock, including Alvin Stardust, Abba, Slade &amp; Wizzard.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711439'&amp;EntityType='LinearSchedule'&amp;EntityId='9031fc75-5bc8-49c0-bd8e-0cac9d1f5116'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260226100000 +0000" stop="20260226120000 +0000">
+		<title>One For The Dads! 1975-1979 - EP1</title>
+		<desc>2 hours of disco babes who ruled the dancefloors! From Labelle &amp; Lipps Inc to Tina Charles &amp; Sister Sledge - it's all girl singers, all the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836574'&amp;EntityType='LinearSchedule'&amp;EntityId='7a9560e1-c413-4ae7-bae7-0d5167f49258'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260226070000 +0000" stop="20260226080000 +0000">
-		<title>The 1973 POWER Hour with Bam! - EP1</title>
-		<desc>Seventies music power to play loud! Work out your speakers with some pure power pop and rock including Pink Floyd, T.Rex, and Led Zepp!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711459'&amp;EntityType='LinearSchedule'&amp;EntityId='c3a98b50-7234-484d-a99d-55b6b45899eb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260226080000 +0000" stop="20260226084500 +0000">
-		<title>Slade! Cum On Feel The Noize! - EP1</title>
-		<desc>11 banging songs - in order- from the biggest glam rockers of them all! Nine are from their early 70s pomp, plus a couple of glorious comeback singles from the 1980s.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711443'&amp;EntityType='LinearSchedule'&amp;EntityId='b90247ff-d6c6-4d34-9ed5-05b50fa765ea'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260226084500 +0000" stop="20260226090000 +0000">
-		<title>Glam Rock Day! - EP1</title>
-		<desc>All day - rewind to a time of big hair, outrageous makeup and platform shoes. The greatest gems of glam pop &amp; rock, including Alvin Stardust, Abba, Slade &amp; Wizzard.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711463'&amp;EntityType='LinearSchedule'&amp;EntityId='d85d7ed9-28f4-4bee-a126-0d7a5a044530'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260226090000 +0000" stop="20260226093000 +0000">
-		<title>Blockbusters! 50 Stomping Hits - EP1</title>
-		<desc>From disco to glam pop to stadium rock, these are 50 songs with 100% energy - every single one is a hell raiser!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711467'&amp;EntityType='LinearSchedule'&amp;EntityId='3c362986-0b04-44c6-ba11-416e3c1fe8f7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260226093000 +0000" stop="20260226094000 +0000">
-		<title>Bruno Brookes-Never Even A Top 10? - EP1</title>
-		<desc>Bruno Brookes guides you through the stats in disbelief! Three hours of top tunes from superstars like Bowie, Abba, Bob Marley, Queen, The Who and more. But why didn't we buy 'em?!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711375'&amp;EntityType='LinearSchedule'&amp;EntityId='fe621728-2b27-4e42-b02d-0064d126b191'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260226094000 +0000" stop="20260226095500 +0000">
-		<title>1970 Unleashed! - EP1</title>
-		<desc>Classic hits from just 1 year - 1970!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711411'&amp;EntityType='LinearSchedule'&amp;EntityId='53a4c38f-7960-4d5e-8bc2-4a6146b0750d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260226095500 +0000" stop="20260226103000 +0000">
-		<title>Around The World! 1970-1979 - EP1</title>
-		<desc>From the Top Of The World to Argentina, via Bangor, Babylon, Barbados, Cuba, Copacabana &amp; Hong Kong - this is our wander round the world in song titles!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711415'&amp;EntityType='LinearSchedule'&amp;EntityId='7b505e58-d899-433a-8871-4b876f65fe4c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260226103000 +0000" stop="20260226123000 +0000">
-		<title>Blockbusters! 50 Stomping Hits - EP1</title>
-		<desc>From disco to glam pop to stadium rock, these are 50 songs with 100% energy - every single one is a hell raiser!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711419'&amp;EntityType='LinearSchedule'&amp;EntityId='92984129-7586-48d8-a85c-51675dfb0613'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260226123000 +0000" stop="20260226130000 +0000">
-		<title>Glam Rock Day! - EP1</title>
-		<desc>All day - rewind to a time of big hair, outrageous makeup and platform shoes. The greatest gems of glam pop &amp; rock, including Alvin Stardust, Abba, Slade &amp; Wizzard.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711447'&amp;EntityType='LinearSchedule'&amp;EntityId='3212c4f6-d338-4fc9-acd9-92d55702567b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260226130000 +0000" stop="20260226145000 +0000">
-		<title>Tony Blackburn's 70s Glam Pop! - EP1</title>
-		<desc>Big singalong choruses and outrageous outfits &amp; make-up - these were the guys &amp; gals that set the style of the 70s - and our man with the musical plan Tony Blackburn was there!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711399'&amp;EntityType='LinearSchedule'&amp;EntityId='8a5e777b-f37d-41bb-bb0a-db7e371e7d23'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260226120000 +0000" stop="20260226145000 +0000">
+		<title>The NOW Yearbook 1978 - EP1</title>
+		<desc>1978 was another top year in music, as rock stars sang disco, everyone caught a bit of Saturday Night Fever and "Grease" was the word! Simon Bates has the story - month by month.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836553'&amp;EntityType='LinearSchedule'&amp;EntityId='2f15253e-a20c-42b8-a338-35946e205fab'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158964" start="20260226145000 +0000" stop="20260226150000 +0000">
-		<title>Glam Rock Day! - EP1</title>
-		<desc>All day - rewind to a time of big hair, outrageous makeup and platform shoes. The greatest gems of glam pop &amp; rock, including Alvin Stardust, Abba, Slade &amp; Wizzard.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711451'&amp;EntityType='LinearSchedule'&amp;EntityId='b6b70952-092b-4f9d-a905-044bbfeeee39'&amp;Width=1280&amp;Height=720" />
+		<title>1978 Unleashed! - EP1</title>
+		<desc>Classic hits from just 1 year - 1978!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836523'&amp;EntityType='LinearSchedule'&amp;EntityId='b6b70952-092b-4f9d-a905-044bbfeeee39'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260226150000 +0000" stop="20260226155000 +0000">
-		<title>Who Won Wot in 1972? - EP1</title>
-		<desc>Mark Goodier with 1972's big music award winners. Find out which Welsh lady was TV Times' Best Female Singer, and which new band had 'Best Album Cover of the Year'.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711379'&amp;EntityType='LinearSchedule'&amp;EntityId='ec99e533-e4f9-482f-973a-472e77e1fbe3'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260226150000 +0000" stop="20260226160000 +0000">
+		<title>The Best 1979 Party...Ever! - EP1</title>
+		<desc>Blimey, what a year! Get ready to turn your telly up LOUD, with the greatest party anthems from '79 including Blondie, Queen, Abba, ELO, Roxy Music, Chic, Squeeze and more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836530'&amp;EntityType='LinearSchedule'&amp;EntityId='ec99e533-e4f9-482f-973a-472e77e1fbe3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158964" start="20260226155000 +0000" stop="20260226160000 +0000">
-		<title>Glam Rock Night! - EP1</title>
-		<desc>All night - rewind to a time of big hair, outrageous makeup and platform shoes. The greatest gems of glam pop &amp; rock, including Alvin Stardust, Abba, Slade &amp; Wizzard.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12711383'&amp;EntityType='LinearSchedule'&amp;EntityId='09dc1ac9-8710-4c6f-bb39-013ab7e8927d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158964" start="20260226160000 +0000" stop="20260226175500 +0000">
-		<title>Blockbusters! 50 Stomping Hits - EP1</title>
-		<desc>From disco to glam pop to stadium rock, these are 50 songs with 100% energy - every single one is a hell raiser!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12725962'&amp;EntityType='LinearSchedule'&amp;EntityId='f4fdcec5-fdff-44d6-947f-700a395578db'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158964" start="20260226160000 +0000" stop="20260226164000 +0000">
+		<title>Drifting Away! Top 60 - EP1</title>
+		<desc>60 laid-back &amp; relaxing songs from the 70s... time to Drift Away with Dobie Gray, Safe Cafe, Ralph McTell, The Eagles &amp; Roberta Flack.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12836861'&amp;EntityType='LinearSchedule'&amp;EntityId='f4fdcec5-fdff-44d6-947f-700a395578db'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158963" start="20260225180000 +0000" stop="20260225200000 +0000">
 		<title>Classic Rock Non stop!</title>
@@ -6445,5 +6445,75 @@
 		<title>Big Fat Rock Hits</title>
 		<desc>Big fat rock hits from 1970 - 2009</desc>
 		<icon src="N/A" />
+	</programme>
+	<programme channel="382872" start="20260225164500 +0000" stop="20260225183000 +0000">
+		<title>From The Vine</title>
+		<desc>A burnt-out executive experiences an ethical crisis and travels back to his hometown in rural Italy to recalibrate his moral compass.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710887'&amp;EntityType='LinearSchedule'&amp;EntityId='ad7af54c-686b-40d9-9843-8002c61babef'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225183000 +0000" stop="20260225202000 +0000">
+		<title>Sleepless Night</title>
+		<desc>A cop with a connection to the criminal underworld finds his secret life exposed when he and his partner are caught stealing cocaine from a powerful drug dealer, a move that puts his son's life in jeopardy.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710831'&amp;EntityType='LinearSchedule'&amp;EntityId='3cf49430-5e32-47e9-97bb-7eda1fe6e9a4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225202000 +0000" stop="20260225220000 +0000">
+		<title>Lilly's Disappearance (2)</title>
+		<desc>Lilly has now been missing for days without a trace. A journalist convinces Anna and Robert that the media could help. Meanwhile, the police unexpectedly focus the investigation on Lilly’s own parents. And the evidence against them is mounting.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710899'&amp;EntityType='LinearSchedule'&amp;EntityId='3bc46b11-d012-494e-bbd9-b92ff83b762e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225220000 +0000" stop="20260225234000 +0000">
+		<title>Deal At The Border</title>
+		<desc>Aza and Samat, two drug runners navigating the secret routes in the mountains of Central Asia, stumble upon Nazik, a young girl fleeing from slavery. When Nazik is recaptured by a criminal, facing a grim return to captivity, Aza resolves to save her.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710891'&amp;EntityType='LinearSchedule'&amp;EntityId='ada92428-0395-472e-9ef0-f199f2f5f64f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260225234000 +0000" stop="20260226010500 +0000">
+		<title>Light Years (2021)</title>
+		<desc>Three siblings that have grown apart, find themselves forcibly reunited as they need to sell off their childhood home. They embark on a journey to their hometown in their father’s old car, and the road home forces them to confront their buried conflicts.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710844'&amp;EntityType='LinearSchedule'&amp;EntityId='e2a55520-7d26-4ad0-a1f2-09f769057d4b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260226010500 +0000" stop="20260226023500 +0000">
+		<title>Vera Dreams of the Sea</title>
+		<desc>Vera, a devoted wife, mother, and grandmother, has her serene life turned upside down by her husband's sudden suicide. As greedy relatives and an underworld scheme threaten their family’s home, she must confront danger and take control of her own fate.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710903'&amp;EntityType='LinearSchedule'&amp;EntityId='757aa543-ec45-4446-b2c2-763558f25caf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260226023500 +0000" stop="20260226041500 +0000">
+		<title>Tuesday Club</title>
+		<desc>Karin's world crumbles on her 40th anniversary when she discovers her husband’s infidelity. Seeking solace in a cooking class with renowned chef Henrik, she rediscovers her lifelong passions and learns that it is never too late to follow her dreams.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710871'&amp;EntityType='LinearSchedule'&amp;EntityId='249dd82e-78b3-4a95-9d31-135a523d739a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260226041500 +0000" stop="20260226060000 +0000">
+		<title>Goodnight Mommy</title>
+		<desc>In a secluded countryside home, ten-year-old twins grow suspicious when their mother returns from plastic surgery distant and unrecognizable. Isolated from the world, they embark on a quest to find out whether this woman is their mother.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710907'&amp;EntityType='LinearSchedule'&amp;EntityId='bee26b2c-2544-425e-8a62-2665a623c972'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260226060000 +0000" stop="20260226073000 +0000">
+		<title>A Minute's Silence</title>
+		<desc>In a small Baltic town, 18-year-old Christian and his teacher Stella fall for one another and begin a secret affair. However, the intensity of their feelings soon overwhelm them. When tragedy befalls Stella, Christian is forced to confront his first love. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710879'&amp;EntityType='LinearSchedule'&amp;EntityId='79afdca4-f0ee-4d43-b367-fd18bfae9770'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260226073000 +0000" stop="20260226090000 +0000">
+		<title>Just Like A Woman</title>
+		<desc>Two women travel from Chicago to Santa Fe to escape their suffocating lives. Marilyn dreams of winning a contest held by a famous belly dancing company, while her friend, Mona, has a darker secret. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710895'&amp;EntityType='LinearSchedule'&amp;EntityId='666f8442-4e56-4160-9dd6-a46993b3e89d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260226090000 +0000" stop="20260226111000 +0000">
+		<title>Manta Manta: Legacy</title>
+		<desc>Ex-racer Bertie is facing financial issues with his car repair shop and go-kart track. He plans to participate in an upcoming 90’s race to solve his money problems, but he is suddenly asked by his ex-wife to take care of their son.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710855'&amp;EntityType='LinearSchedule'&amp;EntityId='074bc2a2-94f5-4214-9f1b-ee29d3d3cbe3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260226111000 +0000" stop="20260226130000 +0000">
+		<title>Unsinkable</title>
+		<desc>In 1981, the newly built and unsinkable rescue boat RF2 sinks on an early mission, killing nine. Henrik, son of the captain blamed for the disaster, must investigate amidst resistance from fishermen fearing job losses and authorities dreading scandal.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710859'&amp;EntityType='LinearSchedule'&amp;EntityId='9f9e0a54-1123-44b7-9289-7a8426fdfdcb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260226130000 +0000" stop="20260226144000 +0000">
+		<title>Young Tiger</title>
+		<desc>Illegally smuggled into France to work, 15-year-old Many is unexpectedly placed in school and a foster home. Years later, thriving in the French Sikh community, Many faces a moral dilemma arising from his ties to his family in his home country.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710863'&amp;EntityType='LinearSchedule'&amp;EntityId='1645e31a-a977-44e3-957a-9cc1c578b431'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260226144000 +0000" stop="20260226164000 +0000">
+		<title>Hard Shell, Soft Shell</title>
+		<desc>Loved-up oyster farmer Az thinks he’s made it. But when an elaborate proposal goes awry and his girlfriend Jess breaks his heart, Az is forced to confront his understanding of what happiness really looks like – both hers and his own.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710851'&amp;EntityType='LinearSchedule'&amp;EntityId='d2938f46-cf22-4d4b-97f7-4f23a1eac41e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
