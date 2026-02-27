@@ -36,6 +36,10 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -91,10 +95,6 @@
 	<channel id="158963">
 		<display-name>NOW Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510610'&amp;EntityType='Item'&amp;EntityId='158963'&amp;Width=193&amp;Height=187" />
-	</channel>
-	<channel id="382872">
-		<display-name>CinemaWorld</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260226160000 +0000" stop="20260226163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 23</title>
@@ -1178,7 +1178,7 @@
 	</programme>
 	<programme channel="97078" start="20260227040000 +0000" stop="20260227083000 +0000">
 		<title>WTT Singapore Smash 2026</title>
-		<desc>WTT Singapore Smash is the world's premier table tennis event in Singapore happening from 19 Feb to 1 Mar 2026 at the Kallang. In this fifth edition, watch the biggest stars in the sport like Wang Chuqin, Tomokazu Harimoto and Felix Lebrun, light up the spectacular Infinity ∞ Arena with high-octane table tennis. The stakes are high with USD 1,500,000 in prize money and 2000 world ranking points up for grabs in this premier WTT Series event.</desc>
+		<desc>Men's Doubles Semi-final - Thakkar Manav /Shah Manush (IND) vs Lebrun Felix/Lebrun Alexis (FRA) | Women's Singles Round of 16 - Hashimoto Honoka (JPN) vs Chen Yi (CHN) | Men's SIngles Round of 16 - Chen Yuanyu (CHN) vs Calderano Hugo (BRA) |Women's SIngles Round of 16 - Hayata Hina (JPN) vs Kuai Man (CHN) | Men's Doubles Semi-final - Lin Shidong/Huang Youzheng (CHN) vs Dorr Esteban/Bourrassaud Florian (FRA) </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12724903'&amp;EntityType='LinearSchedule'&amp;EntityId='574f446f-ae69-43d2-8000-4f17bf8ae07d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97078" start="20260227083000 +0000" stop="20260227100000 +0000">
@@ -1188,7 +1188,7 @@
 	</programme>
 	<programme channel="97078" start="20260227100000 +0000" stop="20260227140000 +0000">
 		<title>WTT Singapore Smash 2026</title>
-		<desc>WTT Singapore Smash is the world's premier table tennis event in Singapore happening from 19 Feb to 1 Mar 2026 at the Kallang. In this fifth edition, watch the biggest stars in the sport like Wang Chuqin, Tomokazu Harimoto and Felix Lebrun, light up the spectacular Infinity ∞ Arena with high-octane table tennis. The stakes are high with USD 1,500,000 in prize money and 2000 world ranking points up for grabs in this premier WTT Series event.</desc>
+		<desc>Men's Singles Round of 16 - Moregard Truls (SWE) vs Poret Thibault (FRA) | Women's Singles Round of 16 - Sun Yingsha (CHN) vs Shi Xunyao (CHN) | Men's Singles Round of 16 - Franziska Patrick (GER) vs Harimoto Tomokazu (JPN) | Mixed Doubles Final - Lim Jonghoon/Shin Yubin (KOR) vs Calderano Hugo/Takahashi Bruna (BRA) </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12757410'&amp;EntityType='LinearSchedule'&amp;EntityId='db7d4be6-01ec-491d-9a80-b71e467580c0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97078" start="20260227140000 +0000" stop="20260227160000 +0000">
@@ -1200,6 +1200,26 @@
 		<title>No Programme available now. Next Broadcast on 28th February, Saturday 12.00pm. WTT Singapore Smash 2026</title>
 		<desc>LIVE 2 will commence broadcast of the WTT Singapore Smash 2026 on 28th February, Saturday 12.00pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12744543'&amp;EntityType='LinearSchedule'&amp;EntityId='848278db-67f5-45af-8f0a-85b2f15f6855'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260226160000 +0000" stop="20260227120000 +0000">
+		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
+		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12725303'&amp;EntityType='LinearSchedule'&amp;EntityId='c691ac7c-6c1a-432d-9fd6-f78764cabaa9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260227120000 +0000" stop="20260227133000 +0000">
+		<title>Chingay 2026 - Wish</title>
+		<desc>Experience the magic as we celebrate collective aspirations and unity under the theme "WISH", turning Singapore’s imagination into the most dazzling display! This year, witness the communities unite through the power of our wishes. Be greeted by awe-inspiring Parade of multicultural heritage with modern creativity through illuminated costumes and props, dynamic artistic performances, and show-stopping floats. Experience Chingay's first-ever circular parade route and a transformable multi-tier stage, featuring special effects that light up the night. More than just a parade, Chingay 2026 is our nation's grandest cultural celebration – an explosion of joy and creativity you won't want to miss.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12725295'&amp;EntityType='LinearSchedule'&amp;EntityId='53cf7c51-01f9-4083-9e90-fd70cdd1f097'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260227133000 +0000" stop="20260227160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12725299'&amp;EntityType='LinearSchedule'&amp;EntityId='e00a79c6-0d20-4955-8269-cdcf76c57752'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260227160000 +0000" stop="20260228160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12745013'&amp;EntityType='LinearSchedule'&amp;EntityId='4af1b09a-9eb0-4069-b2e7-723471839c45'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260226151953 +0000" stop="20260226161149 +0000">
 		<title>MasterChef New Zealand Season 05 - Michel Louws</title>
@@ -3281,81 +3301,6 @@
 		<desc>Grab your mic and get ready to belt out your best vocals! You better warn the neighbours!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839207'&amp;EntityType='LinearSchedule'&amp;EntityId='91551a3d-3e05-487b-b1b5-fef2255a5353'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="382872" start="20260226144000 +0000" stop="20260226164000 +0000">
-		<title>Hard Shell, Soft Shell</title>
-		<desc>Loved-up oyster farmer Az thinks he’s made it. But when an elaborate proposal goes awry and his girlfriend Jess breaks his heart, Az is forced to confront his understanding of what happiness really looks like – both hers and his own.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12710851'&amp;EntityType='LinearSchedule'&amp;EntityId='d2938f46-cf22-4d4b-97f7-4f23a1eac41e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260226164000 +0000" stop="20260226182000 +0000">
-		<title>Light Years (2021)</title>
-		<desc>Three siblings that have grown apart, find themselves forcibly reunited as they need to sell off their childhood home. They embark on a journey to their hometown in their father’s old car, and the road home forces them to confront their buried conflicts.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734355'&amp;EntityType='LinearSchedule'&amp;EntityId='6c54f524-1708-40b5-b902-a986f4d74d51'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260226182000 +0000" stop="20260226201500 +0000">
-		<title>Tuesday Club</title>
-		<desc>Karin's world crumbles on her 40th anniversary when she discovers her husband’s infidelity. Seeking solace in a cooking class with renowned chef Henrik, she rediscovers her lifelong passions and learns that it is never too late to follow her dreams.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734347'&amp;EntityType='LinearSchedule'&amp;EntityId='bc9b3d69-f681-4dbe-8cb7-0642f309d4c0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260226201500 +0000" stop="20260226220000 +0000">
-		<title>A Minute's Silence</title>
-		<desc>In a small Baltic town, 18-year-old Christian and his teacher Stella fall for one another and begin a secret affair. However, the intensity of their feelings soon overwhelm them. When tragedy befalls Stella, Christian is forced to confront his first love. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734335'&amp;EntityType='LinearSchedule'&amp;EntityId='3b7f0b1e-c0d2-4f35-ab8d-20f39025e7aa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260226220000 +0000" stop="20260227002000 +0000">
-		<title>Manta Manta: Legacy</title>
-		<desc>Ex-racer Bertie is facing financial issues with his car repair shop and go-kart track. He plans to participate in an upcoming 90’s race to solve his money problems, but he is suddenly asked by his ex-wife to take care of their son.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734303'&amp;EntityType='LinearSchedule'&amp;EntityId='cb9e5c00-6a4f-424e-ab38-6d109d23d4fd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227002000 +0000" stop="20260227020500 +0000">
-		<title>Toubab</title>
-		<desc>Soon after being released from prison, Babtou gets in trouble with the law again. Facing deportation to his foreign birthplace he’s never been to, he and his friend Dennis are willing to do anything to stay in the only home they've ever known: Frankfurt.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734315'&amp;EntityType='LinearSchedule'&amp;EntityId='927ac73e-cbd9-4059-bd65-e6a904959318'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227020500 +0000" stop="20260227040500 +0000">
-		<title>Unsinkable</title>
-		<desc>In 1981, the newly built and unsinkable rescue boat RF2 sinks on an early mission, killing nine. Henrik, son of the captain blamed for the disaster, must investigate amidst resistance from fishermen fearing job losses and authorities dreading scandal.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734351'&amp;EntityType='LinearSchedule'&amp;EntityId='2d7d0eaf-8357-4847-b827-e5850dc20a87'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227040500 +0000" stop="20260227054000 +0000">
-		<title>Six Points About Emma</title>
-		<desc>Blind and almost thirty, Emma is desperate to become a mother. She breaks up with her infertile boyfriend and sets out to find the perfect sperm donor without love or emotion, but soon discovers that it is not just her eyes which are blind. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734307'&amp;EntityType='LinearSchedule'&amp;EntityId='d6077bab-b014-44a0-8281-bd3316b06fc6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227054000 +0000" stop="20260227073000 +0000">
-		<title>Hard Shell, Soft Shell</title>
-		<desc>Loved-up oyster farmer Az thinks he’s made it. But when an elaborate proposal goes awry and his girlfriend Jess breaks his heart, Az is forced to confront his understanding of what happiness really looks like – both hers and his own.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734319'&amp;EntityType='LinearSchedule'&amp;EntityId='b7167e64-6a54-4071-874e-cc5034950a00'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227073000 +0000" stop="20260227090000 +0000">
-		<title>Keep Going</title>
-		<desc>Sybille is a divorced mother seeking to reconnect with her violent drifting son, Samuel. As a last resort, she takes him on a horse trip across Kyrgyzstan, facing its magnificent yet hostile natural environment, its people… and above all each other.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734331'&amp;EntityType='LinearSchedule'&amp;EntityId='c2f55cbd-4c9a-4c24-bee2-56f247ba166f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227090000 +0000" stop="20260227103000 +0000">
-		<title>Young Tiger</title>
-		<desc>Illegally smuggled into France to work, 15-year-old Many is unexpectedly placed in school and a foster home. Years later, thriving in the French Sikh community, Many faces a moral dilemma arising from his ties to his family in his home country.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734339'&amp;EntityType='LinearSchedule'&amp;EntityId='5144c044-7f84-46b6-8471-7b91bd58960c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227103000 +0000" stop="20260227121000 +0000">
-		<title>The Pont D'Arc Murders</title>
-		<desc>Two investigators with a painfully linked past are forced to team up to solve a mysterious murder which involves a carved stone dating back more than 40,000 years. They soon discover that the very thing that connects them might just solve the case.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734343'&amp;EntityType='LinearSchedule'&amp;EntityId='f7ff1733-5a2d-483f-ab3c-3d30609ea848'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227121000 +0000" stop="20260227140000 +0000">
-		<title>Cortina Express</title>
-		<desc>During the Christmas holidays in Cortina, a colorful cast of characters cross paths among the snow-capped Ampezzo mountains. Between love, redemption, and second-chances, their lives collide in a series of hilarious and heartfelt quests for a happy ending</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734323'&amp;EntityType='LinearSchedule'&amp;EntityId='08b7c480-73be-4a45-9d49-7a75fb25f9f0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227140000 +0000" stop="20260227153500 +0000">
-		<title>Black As The Snow 2: Dead At The Summit</title>
-		<desc>An SUV races over the cliffs into the depths - the driver is killed instantly. The dead man was apparently involved in a robbery but there is no trace of the loot. French Officer Vivier and Swiss Captain Meyer once again team up to solve the mystery.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734327'&amp;EntityType='LinearSchedule'&amp;EntityId='d5e45402-86d2-4b57-8c75-4959e5577e64'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227153500 +0000" stop="20260227171000 +0000">
-		<title>Governance</title>
-		<desc>Renzo, a brilliant and unscrupulous manager is forced to quit his position as general manager of an oil group after an investigation for corruption. Convinced that a young colleague betrayed him, he plots his revenge, but the situation gets out of hand.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12734311'&amp;EntityType='LinearSchedule'&amp;EntityId='ce7341b9-c993-4cc6-806e-1f9ccfd52ebd'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260227162000 +0000" stop="20260227173000 +0000">
 		<title>Great Continental Railway Journeys - Series 7 - EP 6</title>
 		<desc>Michael Portillo travels through Europe to understand life during the First and Second World Wars. On his travels, he visits Spain, France, Germany, Italy, Sweden, Austria and the Czech Republic, learning about the old empires of Europe swept away by revolution and a dozen new nations that embarked optimistically upon independence.</desc>
@@ -4343,7 +4288,7 @@
 	</programme>
 	<programme channel="97078" start="20260228040000 +0000" stop="20260228080000 +0000">
 		<title>WTT Singapore Smash 2026</title>
-		<desc>WTT Singapore Smash is the world's premier table tennis event in Singapore happening from 19 Feb to 1 Mar 2026 at the Kallang. In this fifth edition, watch the biggest stars in the sport like Wang Chuqin, Tomokazu Harimoto and Felix Lebrun, light up the spectacular Infinity ∞ Arena with high-octane table tennis. The stakes are high with USD 1,500,000 in prize money and 2000 world ranking points up for grabs in this premier WTT Series event.</desc>
+		<desc>Women's Singles Quarter-final - Harimoto Miwa (JPN) vs Wang Manyu (CHN) | Men's Singles Quarter-final - Lin Shidong (CHN) vs Lebrun Felix (FRA) | Women's Singles Quarter-final - Wang Yidi (CHN) vs Winter Sabine (GER) | Men's Singles Quarter-final - Wang Chuqin (CHN) vs Jang Woojin (KOR) | Women's Doubles Final - Harimoto Miwa/Hayata Hina (JPN) vs Nagasaki Miyu/Shin Yubin (KOR) </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744562'&amp;EntityType='LinearSchedule'&amp;EntityId='1849ae3e-3cea-4c7c-9ace-a00b92cb9df8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97078" start="20260228080000 +0000" stop="20260228100000 +0000">
@@ -6445,75 +6390,5 @@
 		<title>Rock n Roll Rewind: 1970 - 1979</title>
 		<desc>The Biggest Hits that rocked the 70s including Punk, Glam Rock and everything in between</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839219'&amp;EntityType='LinearSchedule'&amp;EntityId='a2e81705-1f2a-498a-959b-82b0004663fc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227171000 +0000" stop="20260227185000 +0000">
-		<title>Toubab</title>
-		<desc>Soon after being released from prison, Babtou gets in trouble with the law again. Facing deportation to his foreign birthplace he’s never been to, he and his friend Dennis are willing to do anything to stay in the only home they've ever known: Frankfurt.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744550'&amp;EntityType='LinearSchedule'&amp;EntityId='fc3bb5a1-74d9-4259-87c4-10deeba6fdb5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227185000 +0000" stop="20260227202500 +0000">
-		<title>Six Points About Emma</title>
-		<desc>Blind and almost thirty, Emma is desperate to become a mother. She breaks up with her infertile boyfriend and sets out to find the perfect sperm donor without love or emotion, but soon discovers that it is not just her eyes which are blind. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744521'&amp;EntityType='LinearSchedule'&amp;EntityId='671e1c1a-8dc8-45ab-9e96-77a22a847b71'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227202500 +0000" stop="20260227220000 +0000">
-		<title>Keep Going</title>
-		<desc>Sybille is a divorced mother seeking to reconnect with her violent drifting son, Samuel. As a last resort, she takes him on a horse trip across Kyrgyzstan, facing its magnificent yet hostile natural environment, its people… and above all each other.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744575'&amp;EntityType='LinearSchedule'&amp;EntityId='e61810bd-ec35-445e-bcfe-b83e49a5c19d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227220000 +0000" stop="20260227233000 +0000">
-		<title>Diana's Wedding</title>
-		<desc>Through the eyes of Diana, we witness the rollercoaster ride of both her parent’s and Irene’s marriages. To both girls, they have the worst parents in the world. But at the end of the day, which of the couples remain strong and which fall apart ?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744668'&amp;EntityType='LinearSchedule'&amp;EntityId='777628cc-54da-43d6-b691-e8ac75349c31'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260227233000 +0000" stop="20260228011000 +0000">
-		<title>The Pont D'Arc Murders</title>
-		<desc>Two investigators with a painfully linked past are forced to team up to solve a mysterious murder which involves a carved stone dating back more than 40,000 years. They soon discover that the very thing that connects them might just solve the case.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744603'&amp;EntityType='LinearSchedule'&amp;EntityId='8bbd0cef-14ee-409f-bacb-f54fe6532c78'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260228011000 +0000" stop="20260228023500 +0000">
-		<title>Wajma, An Afghan Love Story</title>
-		<desc>In conservative Kabul, young Wajma discovers she is pregnant out of wedlock. Her boyfriend denies paternity and her father locks her up for being a disgrace. Driven by desperation, Wajma takes extreme measures forcing everyone to re-think their actions. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744684'&amp;EntityType='LinearSchedule'&amp;EntityId='6e6a8d8f-df19-46a1-96fe-27442726a0cc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260228023500 +0000" stop="20260228042500 +0000">
-		<title>Cortina Express</title>
-		<desc>During the Christmas holidays in Cortina, a colorful cast of characters cross paths among the snow-capped Ampezzo mountains. Between love, redemption, and second-chances, their lives collide in a series of hilarious and heartfelt quests for a happy ending</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744625'&amp;EntityType='LinearSchedule'&amp;EntityId='02434f2a-043e-4dfe-806b-debcb697453c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260228042500 +0000" stop="20260228063500 +0000">
-		<title>Bad Investigate</title>
-		<desc>A corrupt cop sets out to hunt down a dangerous drug dealer who is seeking revenge for the death of his brother. Also trying to catch the same criminal is an FBI agent.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744532'&amp;EntityType='LinearSchedule'&amp;EntityId='64578a92-38bc-4ef7-8789-c054a399b3bc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260228063500 +0000" stop="20260228081000 +0000">
-		<title>Governance</title>
-		<desc>Renzo, a brilliant and unscrupulous manager is forced to quit his position as general manager of an oil group after an investigation for corruption. Convinced that a young colleague betrayed him, he plots his revenge, but the situation gets out of hand.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744536'&amp;EntityType='LinearSchedule'&amp;EntityId='186295c4-572f-45e2-bc04-1eabb3b95598'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260228081000 +0000" stop="20260228094000 +0000">
-		<title>Black As The Snow</title>
-		<desc>A serial killer is on the rampage in the ski resort of Morzine-Avoriaz. Vivier, French police officer teams up with the Swiss policeman Meyer to investigate the suspicious deaths of teenagers. They must find the killer before the victim list grows.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744481'&amp;EntityType='LinearSchedule'&amp;EntityId='938d2683-3c90-491c-9395-690a87166d54'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260228094000 +0000" stop="20260228111500 +0000">
-		<title>Black As The Snow 2: Dead At The Summit</title>
-		<desc>An SUV races over the cliffs into the depths - the driver is killed instantly. The dead man was apparently involved in a robbery but there is no trace of the loot. French Officer Vivier and Swiss Captain Meyer once again team up to solve the mystery.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744495'&amp;EntityType='LinearSchedule'&amp;EntityId='7eb37e4c-805f-4486-8fef-7be952ef0d75'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260228111500 +0000" stop="20260228130000 +0000">
-		<title>Romancing The Jungle</title>
-		<desc>Eva is a rookie journalist keen on investigating sea piracy. When she is really kidnapped by pirates in Thailand, she is forced to fight for her life. With her is a hunky smuggler called Nik, and together, the comedic duo band together to survive. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744705'&amp;EntityType='LinearSchedule'&amp;EntityId='fd50c999-5042-4361-8400-64525ed2c125'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260228130000 +0000" stop="20260228143500 +0000">
-		<title>180 Degree Rule</title>
-		<desc>Sara, a schoolteacher from Tehran, is preparing to attend a wedding in northern Iran with her family. When her husband suddenly forbids her from going, she hatches a plan to go in secret. But her choice soon places her on a painful path to atonement.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744647'&amp;EntityType='LinearSchedule'&amp;EntityId='e8069e26-ef40-4af8-b644-192ce52ee1b9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260228143500 +0000" stop="20260228163000 +0000">
-		<title>SAF</title>
-		<desc>Desperate, Kamil takes a low wage job in Istanbul's urbanization project. In so doing, he displaces a Syrian refugee and partakes in his neighborhood’s destruction, while also needing to pay for the required permits. One day, Kamil suddenly disappears. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12744508'&amp;EntityType='LinearSchedule'&amp;EntityId='b7d8f9eb-9e2f-4e5b-8085-1616dccd3ae6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
