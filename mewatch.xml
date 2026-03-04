@@ -32,9 +32,9 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="97078">
-		<display-name>LIVE 2</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
@@ -1226,15 +1226,15 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 5th February, Thursday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12823114'&amp;EntityType='LinearSchedule'&amp;EntityId='14b68bf6-0f94-4d5f-a1ec-40b3947ef1fa'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20260303160000 +0000" stop="20260304160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12805916'&amp;EntityType='LinearSchedule'&amp;EntityId='de2238f6-13d6-4eda-889f-5b3f8ba9610d'&amp;Width=1280&amp;Height=720" />
+	<programme channel="98202" start="20260303160000 +0000" stop="20260304160000 +0000">
+		<title>No Programme available now. Next Broadcast on 5th March, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Bangkok United vs BG Tampines Rovers FC on 5th March, Thursday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961131'&amp;EntityType='LinearSchedule'&amp;EntityId='b06d6b41-01c2-4c24-a3ea-e1a030e2ef18'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20260304160000 +0000" stop="20260305160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12823143'&amp;EntityType='LinearSchedule'&amp;EntityId='5d5999e9-aa16-4978-bd83-b2f747adf94c'&amp;Width=1280&amp;Height=720" />
+	<programme channel="98202" start="20260304160000 +0000" stop="20260305120500 +0000">
+		<title>No Programme available now. Next Broadcast on 5th March, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: Bangkok United vs BG Tampines Rovers FC on 5th March, Thursday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961139'&amp;EntityType='LinearSchedule'&amp;EntityId='22ba9006-d662-4ccf-ab24-838199bc59f8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260303154423 +0000" stop="20260303163630 +0000">
 		<title>MasterChef New Zealand Season 03 - Young Guns</title>
@@ -2594,7 +2594,7 @@
 	<programme channel="556893" start="20260303160000 +0000" stop="20260303163000 +0000">
 		<title>Superhero Kindergarten - The Substitute - EP112</title>
 		<desc>When Mr. Arnold misses class to attend a Retired Superhero meeting, the new substitute teaches the Super K's a lesson on trusting their instincts.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12837497'&amp;EntityType='LinearSchedule'&amp;EntityId='e54f705b-8f27-47cb-8cd6-ccf4a8dd98a4'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960943'&amp;EntityType='LinearSchedule'&amp;EntityId='e54f705b-8f27-47cb-8cd6-ccf4a8dd98a4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260303163000 +0000" stop="20260303170000 +0000">
 		<title>Shaq's Garage - The Rescue - EP125</title>
@@ -2609,7 +2609,7 @@
 	<programme channel="556893" start="20260303173000 +0000" stop="20260303180000 +0000">
 		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep8 - EP8</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12837517'&amp;EntityType='LinearSchedule'&amp;EntityId='520e9058-ce4e-44ae-b313-b624fd55d21e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960947'&amp;EntityType='LinearSchedule'&amp;EntityId='520e9058-ce4e-44ae-b313-b624fd55d21e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260303180000 +0000" stop="20260303183000 +0000">
 		<title>Baby Einstein - Baby Galileo: Discovering the Sky</title>
@@ -2644,17 +2644,17 @@
 	<programme channel="556893" start="20260303210000 +0000" stop="20260303213000 +0000">
 		<title>Thomas Edison's Secret Lab - Fungal Bungle / Water Friends For? - EP114</title>
 		<desc>Kent’s extreme attempts to cure his toe fungus in time for a pool party cause the fungus to mutate and grow into a fungus-based replica of Kent himself. The Secret Lab Kids have to stop the replicant before it turns the whole lab into a stinky, sticky fungus-farm. / When Kent manages to contact aliens, they land at the Edison complex and demand that the Secret Lab kids help them find a very valuable "treasure" that their planet needs. The trouble is, they don't know the earth word for this treasure - sending our kids scrambling to solve this mystery before they get turned into "shrablitz”!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12837557'&amp;EntityType='LinearSchedule'&amp;EntityId='391b04c7-e63d-4676-8de3-def8e411063f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960951'&amp;EntityType='LinearSchedule'&amp;EntityId='391b04c7-e63d-4676-8de3-def8e411063f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260303213000 +0000" stop="20260303220000 +0000">
 		<title>Secret Millionaires Club - Bing Things Come in Micro Packages - EP125</title>
 		<desc>The SMC must fight for Girl Empowerment when they're in Africa with Oprah Winfrey and aid a struggling all woman family banana business the banks won't give a loan to because there's no "man of the house" around.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12837505'&amp;EntityType='LinearSchedule'&amp;EntityId='dd549c3b-ac11-48ad-bc94-9bf6d376319e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960955'&amp;EntityType='LinearSchedule'&amp;EntityId='dd549c3b-ac11-48ad-bc94-9bf6d376319e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260303220000 +0000" stop="20260303223000 +0000">
 		<title>Superhero Kindergarten - The Substitute - EP112</title>
 		<desc>When Mr. Arnold misses class to attend a Retired Superhero meeting, the new substitute teaches the Super K's a lesson on trusting their instincts.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12837509'&amp;EntityType='LinearSchedule'&amp;EntityId='61750481-1c4b-4e46-bda2-6a0f0078cd25'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960959'&amp;EntityType='LinearSchedule'&amp;EntityId='61750481-1c4b-4e46-bda2-6a0f0078cd25'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260303223000 +0000" stop="20260303230000 +0000">
 		<title>Shaq's Garage - The Rescue - EP125</title>
@@ -2669,7 +2669,7 @@
 	<programme channel="556893" start="20260303233000 +0000" stop="20260304000000 +0000">
 		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep8 - EP8</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12837513'&amp;EntityType='LinearSchedule'&amp;EntityId='41311979-6528-4cc2-8d52-2ac3da6ca42e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960963'&amp;EntityType='LinearSchedule'&amp;EntityId='41311979-6528-4cc2-8d52-2ac3da6ca42e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304000000 +0000" stop="20260304003500 +0000">
 		<title>Baby Einstein - Baby Galileo: Discovering the Sky</title>
@@ -2704,17 +2704,17 @@
 	<programme channel="556893" start="20260304030000 +0000" stop="20260304033500 +0000">
 		<title>Thomas Edison's Secret Lab - Fungal Bungle / Water Friends For? - EP114</title>
 		<desc>Kent’s extreme attempts to cure his toe fungus in time for a pool party cause the fungus to mutate and grow into a fungus-based replica of Kent himself. The Secret Lab Kids have to stop the replicant before it turns the whole lab into a stinky, sticky fungus-farm. / When Kent manages to contact aliens, they land at the Edison complex and demand that the Secret Lab kids help them find a very valuable "treasure" that their planet needs. The trouble is, they don't know the earth word for this treasure - sending our kids scrambling to solve this mystery before they get turned into "shrablitz”!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12926919'&amp;EntityType='LinearSchedule'&amp;EntityId='ccd512f6-1c80-427a-abf0-28dc706688aa'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960967'&amp;EntityType='LinearSchedule'&amp;EntityId='ccd512f6-1c80-427a-abf0-28dc706688aa'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304033500 +0000" stop="20260304040000 +0000">
 		<title>Secret Millionaires Club - Bing Things Come in Micro Packages - EP125</title>
 		<desc>The SMC must fight for Girl Empowerment when they're in Africa with Oprah Winfrey and aid a struggling all woman family banana business the banks won't give a loan to because there's no "man of the house" around.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12926847'&amp;EntityType='LinearSchedule'&amp;EntityId='29c45f3f-f973-46f6-b91f-8510b28a3050'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960971'&amp;EntityType='LinearSchedule'&amp;EntityId='29c45f3f-f973-46f6-b91f-8510b28a3050'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304040000 +0000" stop="20260304043000 +0000">
 		<title>Superhero Kindergarten - The Substitute - EP112</title>
 		<desc>When Mr. Arnold misses class to attend a Retired Superhero meeting, the new substitute teaches the Super K's a lesson on trusting their instincts.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12926851'&amp;EntityType='LinearSchedule'&amp;EntityId='1d016099-f210-43f7-85a7-2aaef5ed21e0'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960975'&amp;EntityType='LinearSchedule'&amp;EntityId='1d016099-f210-43f7-85a7-2aaef5ed21e0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304043000 +0000" stop="20260304050000 +0000">
 		<title>Shaq's Garage - The Rescue - EP125</title>
@@ -2729,7 +2729,7 @@
 	<programme channel="556893" start="20260304053000 +0000" stop="20260304060000 +0000">
 		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep8 - EP8</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12926923'&amp;EntityType='LinearSchedule'&amp;EntityId='03a2cf70-8a17-482b-b101-d8464d43aea6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960979'&amp;EntityType='LinearSchedule'&amp;EntityId='03a2cf70-8a17-482b-b101-d8464d43aea6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304060000 +0000" stop="20260304063500 +0000">
 		<title>Baby Einstein - Baby Galileo: Discovering the Sky</title>
@@ -2764,17 +2764,17 @@
 	<programme channel="556893" start="20260304090000 +0000" stop="20260304093000 +0000">
 		<title>Thomas Edison's Secret Lab - Fungal Bungle / Water Friends For? - EP114</title>
 		<desc>Kent’s extreme attempts to cure his toe fungus in time for a pool party cause the fungus to mutate and grow into a fungus-based replica of Kent himself. The Secret Lab Kids have to stop the replicant before it turns the whole lab into a stinky, sticky fungus-farm. / When Kent manages to contact aliens, they land at the Edison complex and demand that the Secret Lab kids help them find a very valuable "treasure" that their planet needs. The trouble is, they don't know the earth word for this treasure - sending our kids scrambling to solve this mystery before they get turned into "shrablitz”!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12926839'&amp;EntityType='LinearSchedule'&amp;EntityId='60557781-4f82-4af7-b8b6-a3387034e6b5'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960983'&amp;EntityType='LinearSchedule'&amp;EntityId='60557781-4f82-4af7-b8b6-a3387034e6b5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304093000 +0000" stop="20260304100000 +0000">
 		<title>Secret Millionaires Club - Bing Things Come in Micro Packages - EP125</title>
 		<desc>The SMC must fight for Girl Empowerment when they're in Africa with Oprah Winfrey and aid a struggling all woman family banana business the banks won't give a loan to because there's no "man of the house" around.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12926855'&amp;EntityType='LinearSchedule'&amp;EntityId='a7ebf7e1-91eb-4a7e-9660-648187b61f69'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960987'&amp;EntityType='LinearSchedule'&amp;EntityId='a7ebf7e1-91eb-4a7e-9660-648187b61f69'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304100000 +0000" stop="20260304103000 +0000">
 		<title>Superhero Kindergarten - The Experiment - EP113</title>
 		<desc>Billy and Jackson get into a tricky situation when Nigel Danforth hatches a plan to get his evil superpowers back.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12926871'&amp;EntityType='LinearSchedule'&amp;EntityId='f322e932-e524-48b9-9be8-776c00a0af22'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960991'&amp;EntityType='LinearSchedule'&amp;EntityId='f322e932-e524-48b9-9be8-776c00a0af22'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304103000 +0000" stop="20260304110000 +0000">
 		<title>Shaq's Garage - Shaq's Secret Birthday - EP126</title>
@@ -2789,7 +2789,7 @@
 	<programme channel="556893" start="20260304113000 +0000" stop="20260304120000 +0000">
 		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep9 - EP9</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12926891'&amp;EntityType='LinearSchedule'&amp;EntityId='8be76462-616e-476a-9f31-3e035b075cc8'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960995'&amp;EntityType='LinearSchedule'&amp;EntityId='8be76462-616e-476a-9f31-3e035b075cc8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304120000 +0000" stop="20260304123000 +0000">
 		<title>Baby Einstein - Baby Neptune: Discovering Water</title>
@@ -2824,17 +2824,17 @@
 	<programme channel="556893" start="20260304150000 +0000" stop="20260304153000 +0000">
 		<title>Thomas Edison's Secret Lab - Dancing Machine / Ape Escape - EP115</title>
 		<desc>Hoping to get on a dance show, Von Bolt wears a remote-control dance outfit! But if he lets someone else dance for him, is he really a winner? / When the kids are responsible for a female gorilla breaking out of the zoo, they need to figure out how to do some heavy lifting to return her.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12926903'&amp;EntityType='LinearSchedule'&amp;EntityId='11fe3540-440f-40ca-9a00-c436899de007'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12960999'&amp;EntityType='LinearSchedule'&amp;EntityId='11fe3540-440f-40ca-9a00-c436899de007'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304153000 +0000" stop="20260304160000 +0000">
 		<title>Secret Millionaires Club - Camp Big Foot - EP126</title>
 		<desc>At Camp Big Foot, the SMC Kids and TWIN COUNSELORS search for BIG FOOT to raise money for the camp, only to get trapped on an island with two counselors that won't stop squabbling and what about Big Foot?!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12926915'&amp;EntityType='LinearSchedule'&amp;EntityId='121dd675-dfff-4432-b63b-57e04930e479'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961003'&amp;EntityType='LinearSchedule'&amp;EntityId='121dd675-dfff-4432-b63b-57e04930e479'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304160000 +0000" stop="20260304163000 +0000">
 		<title>Superhero Kindergarten - The Experiment - EP113</title>
 		<desc>Billy and Jackson get into a tricky situation when Nigel Danforth hatches a plan to get his evil superpowers back.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12926960'&amp;EntityType='LinearSchedule'&amp;EntityId='5eb09b5a-9f35-4e29-8ccc-2e1153242f58'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961007'&amp;EntityType='LinearSchedule'&amp;EntityId='5eb09b5a-9f35-4e29-8ccc-2e1153242f58'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260303160000 +0000" stop="20260303163000 +0000">
 		<title>Talking Tom and Friends Minis</title>
@@ -3166,50 +3166,80 @@
 		<desc>Story of a young woman's murder and the people who become involved with it.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12824463'&amp;EntityType='LinearSchedule'&amp;EntityId='26eafb7b-3c84-451f-8e16-e2cf6eed4c99'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260303160000 +0000" stop="20260303210000 +0000">
-		<title>Every Song A Number 1! - EP1</title>
-		<desc>A choice selection of the 191 singles that reached the top of the UK charts in the 1980s!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12806292'&amp;EntityType='LinearSchedule'&amp;EntityId='6af31542-3f22-4e1f-ae7b-0bf6cf100af0'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260303170000 +0000" stop="20260303190000 +0000">
+		<title>Addicted to 80s Love Songs</title>
+		<desc>Get lost in love right now with a huge mix of tracks that will take you back in time.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960641'&amp;EntityType='LinearSchedule'&amp;EntityId='8d97bdf2-7e6b-432f-84c6-04f91bf43c08'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260303210000 +0000" stop="20260303220000 +0000">
-		<title>80s - To The Max! - EP1</title>
-		<desc>All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12806315'&amp;EntityType='LinearSchedule'&amp;EntityId='9e4ab9ef-2101-4c13-9fa5-ba3ad7edb533'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260303190000 +0000" stop="20260303200000 +0000">
+		<title>80s Pop Pin Ups</title>
+		<desc>Get ready for the pop prince and princesses that sole our hearts and minds in the 1980s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960670'&amp;EntityType='LinearSchedule'&amp;EntityId='3837539a-69c9-455c-b004-550e065cd8be'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260303200000 +0000" stop="20260303220000 +0000">
+		<title>Groovy Kind of Love: 80s Ballads</title>
+		<desc>Larger than life 80s ballads to get you in the mood for love.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960690'&amp;EntityType='LinearSchedule'&amp;EntityId='54a0b32e-85f6-498b-8e0e-2d48e3addcc7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20260303220000 +0000" stop="20260304000000 +0000">
-		<title>Wake Me Up Before You Go Go! - EP1</title>
-		<desc>Your eighties party channel - 24/7. Expect synth pop, soft rock, leg warmers, lycra and lots of big hair! Classic pop that has stood the test of time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12806348'&amp;EntityType='LinearSchedule'&amp;EntityId='b555410a-0c8d-4885-8418-edf25a81bf4a'&amp;Width=1280&amp;Height=720" />
+		<title>The Very Best 80s Pop Hits</title>
+		<desc>The Pop don't stop right now as we bring you the biggest 80s chart hits</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960610'&amp;EntityType='LinearSchedule'&amp;EntityId='b555410a-0c8d-4885-8418-edf25a81bf4a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260304000000 +0000" stop="20260304040000 +0000">
-		<title>Only the Biggest 80s Anthems! - EP1</title>
-		<desc>All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12806297'&amp;EntityType='LinearSchedule'&amp;EntityId='05996773-f024-4877-b4a9-46f09427b0d0'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260304000000 +0000" stop="20260304020000 +0000">
+		<title>Groovy Kind of Love: 80s Ballads</title>
+		<desc>Larger than life 80s ballads to get you in the mood for love.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960615'&amp;EntityType='LinearSchedule'&amp;EntityId='05996773-f024-4877-b4a9-46f09427b0d0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260304040000 +0000" stop="20260304050000 +0000">
-		<title>The 80s (What A Feeling!) - EP1</title>
-		<desc>All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12806306'&amp;EntityType='LinearSchedule'&amp;EntityId='1f9445a7-f4d0-492c-bc09-9fcb816d05ef'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260304020000 +0000" stop="20260304030000 +0000">
+		<title>Girls of the 80s!</title>
+		<desc>Style, Sass and songs that defined a decade. These are the girls that ruled the 80s.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960678'&amp;EntityType='LinearSchedule'&amp;EntityId='6201fd75-6353-4e7d-96af-e4d4a6118eeb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260304050000 +0000" stop="20260304100000 +0000">
-		<title>Only the Biggest 80s Anthems! - EP1</title>
-		<desc>All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12806330'&amp;EntityType='LinearSchedule'&amp;EntityId='87bff9fd-b4d8-4005-8118-f4a8e0177dae'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260304030000 +0000" stop="20260304050000 +0000">
+		<title>Supermassive 80s Rock Hits</title>
+		<desc>Big Choruses, big hair and big riffs! Check out these supermassive Rock hits from the 80s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960699'&amp;EntityType='LinearSchedule'&amp;EntityId='ad92ec19-9c19-4634-8c09-eafd4de4821f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260304100000 +0000" stop="20260304110000 +0000">
-		<title>Bring Out The 80s! - EP1</title>
-		<desc>Non-stop 80s -24/7. With synth pop, soft rock, leg warmers, lycra and big hair! Classic pop that has stood the test of time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12806322'&amp;EntityType='LinearSchedule'&amp;EntityId='91193c7f-4105-48ff-9fd8-32a633731134'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260304050000 +0000" stop="20260304060000 +0000">
+		<title>80s Workout Anthems</title>
+		<desc>Legwarmers and headbands at the ready! It's time for non stop 80s hits that will work up a sweat!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960622'&amp;EntityType='LinearSchedule'&amp;EntityId='87bff9fd-b4d8-4005-8118-f4a8e0177dae'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260304110000 +0000" stop="20260304160000 +0000">
-		<title>80s Hit After 80s Hit! - EP1</title>
-		<desc>Your 80s channel - 24/7!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12806340'&amp;EntityType='LinearSchedule'&amp;EntityId='ef8b35b7-5c31-4f7a-9ff6-82426866de9e'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260304060000 +0000" stop="20260304080000 +0000">
+		<title>Addicted to 80s Love Songs</title>
+		<desc>Get lost in love right now with a huge mix of tracks that will take you back in time.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960634'&amp;EntityType='LinearSchedule'&amp;EntityId='de9078fe-64f5-46f3-9d7c-b140c13c8a5d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260304160000 +0000" stop="20260304210000 +0000">
-		<title>80s Rock Anthems Night! - EP1</title>
-		<desc>Non-stop 80s rock &amp; power ballads - all night! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Bonnie Tyler &amp; Tina Turner.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12824154'&amp;EntityType='LinearSchedule'&amp;EntityId='41001eed-1073-4983-af7c-83465b328826'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260304080000 +0000" stop="20260304100000 +0000">
+		<title>Hottest Hits of the 80s</title>
+		<desc>Chart toppers, dance floor fillers and guitar anthems, this chart has it all! Stay with us to find out who makes it to the top.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960649'&amp;EntityType='LinearSchedule'&amp;EntityId='a3159a43-edd4-4c7e-80c3-b52ca2e410db'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260304100000 +0000" stop="20260304120000 +0000">
+		<title>Cheesy 80s Tunes</title>
+		<desc>The 80s was full of cheese and we loved it! Here are the biggest full fat anthems.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960629'&amp;EntityType='LinearSchedule'&amp;EntityId='91193c7f-4105-48ff-9fd8-32a633731134'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260304120000 +0000" stop="20260304130000 +0000">
+		<title>Hits from the 80s Flicks</title>
+		<desc>It's 80s Move Magic right now as we bring you the hits from iconic movies from Top Gun to Ghostbusters!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960655'&amp;EntityType='LinearSchedule'&amp;EntityId='de739b09-8105-4d1c-80db-a0bffa84ae04'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260304130000 +0000" stop="20260304140000 +0000">
+		<title>80s Pop Pin Ups</title>
+		<desc>Get ready for the pop prince and princesses that sole our hearts and minds in the 1980s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960684'&amp;EntityType='LinearSchedule'&amp;EntityId='39da931c-63f4-4140-b289-0e852d372c7f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260304140000 +0000" stop="20260304160000 +0000">
+		<title>Get into the 80s Groove</title>
+		<desc>Get into the groove as we play you the biggest club classis from 1980 - 1989</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960663'&amp;EntityType='LinearSchedule'&amp;EntityId='6a5163d0-791d-4488-87c0-c87e1136a994'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260304160000 +0000" stop="20260304180000 +0000">
+		<title>80s Girls just wanna have fun!</title>
+		<desc>The very best Pop Queens of the 1980s for your viewing pleasure</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960732'&amp;EntityType='LinearSchedule'&amp;EntityId='41001eed-1073-4983-af7c-83465b328826'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158964" start="20260303100000 +0000" stop="20260303200000 +0000">
 		<title>Sensational 70s! - EP1</title>
@@ -3246,49 +3276,84 @@
 		<desc>Schedule To Be Announced</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12824058'&amp;EntityType='LinearSchedule'&amp;EntityId='931a4d2a-4574-4b99-a235-3ebbed6b21fa'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260303160000 +0000" stop="20260303190000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260303160000 +0000" stop="20260303180000 +0000">
+		<title>Big Fat Rock Hits</title>
+		<desc>Big fat rock hits from 1970 - 2009</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12806409'&amp;EntityType='LinearSchedule'&amp;EntityId='0efff55c-9bed-46e5-9450-f5c4f54796db'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260303190000 +0000" stop="20260303220000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260303180000 +0000" stop="20260303190000 +0000">
+		<title>Rock n Roll Rewind: 1980 - 1989</title>
+		<desc>The Biggest Hits that rocked the 80s including power ballads, big hair and everything in between</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960648'&amp;EntityType='LinearSchedule'&amp;EntityId='34fbcd76-bcaa-42f7-b1a2-1b189279429e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260303190000 +0000" stop="20260303210000 +0000">
+		<title>High Voltage Hits!</title>
+		<desc>Big ones only! Crank it up to the max for the biggest hits ever!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839303'&amp;EntityType='LinearSchedule'&amp;EntityId='7fd0bd07-898c-44cc-873d-cc45305ebc76'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260303220000 +0000" stop="20260304010000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260303210000 +0000" stop="20260303220000 +0000">
+		<title>Fully Loaded: Rock Hits</title>
+		<desc>Huge rock hits right now from 80s power ballads to 00s pop punk, this playlist has it all!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960640'&amp;EntityType='LinearSchedule'&amp;EntityId='64f0847a-3cfe-4a39-9b54-c29ea784dff5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260303220000 +0000" stop="20260304000000 +0000">
+		<title>Global Megastars thru the decades</title>
+		<desc>Icons only! These are the legends that rocked the decades.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839307'&amp;EntityType='LinearSchedule'&amp;EntityId='0bc9ea90-94f2-4afc-b5e5-c106deb2b17b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260304010000 +0000" stop="20260304040000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839311'&amp;EntityType='LinearSchedule'&amp;EntityId='f2edf2eb-b4f3-4062-b737-b1b2463c05b1'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260304000000 +0000" stop="20260304020000 +0000">
+		<title>The Ultimate Rock Mixtape</title>
+		<desc>Rock, Metal, Grunge, Pop Punk, this playlist has it all and more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960618'&amp;EntityType='LinearSchedule'&amp;EntityId='c81e0048-6ace-4cfc-9c51-0938f5646649'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260304040000 +0000" stop="20260304070000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260304020000 +0000" stop="20260304040000 +0000">
+		<title>High Voltage Hits!</title>
+		<desc>Big ones only! Crank it up to the max for the biggest hits ever!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960626'&amp;EntityType='LinearSchedule'&amp;EntityId='7347a8dc-7c3f-47a7-b89b-fd6e81010701'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260304040000 +0000" stop="20260304050000 +0000">
+		<title>Ultimate Rock workout</title>
+		<desc>Hits and riffs perfect for a maximum high energy workout!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839315'&amp;EntityType='LinearSchedule'&amp;EntityId='f6de0d79-7206-43e1-9cbe-54d7cc9cf0fd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260304070000 +0000" stop="20260304100000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260304050000 +0000" stop="20260304070000 +0000">
+		<title>Legends of Rock 1970 - 2009</title>
+		<desc>These are the acts that shaped the sound of Rock music forever! Legends only!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960666'&amp;EntityType='LinearSchedule'&amp;EntityId='1c3be1c1-a46f-4d8e-bdf1-8a09689c84df'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260304070000 +0000" stop="20260304080000 +0000">
+		<title>Movie soundtracks that Rocked!</title>
+		<desc>Grab the popcorn! It's time for huge hits from the most inconic movies ever!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839319'&amp;EntityType='LinearSchedule'&amp;EntityId='c4602eba-bd21-4de8-8d76-4d3455295ebe'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260304100000 +0000" stop="20260304130000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260304080000 +0000" stop="20260304100000 +0000">
+		<title>Monster Rock Hits of the 80s</title>
+		<desc>The biggest Rock hits that defined the 80s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960685'&amp;EntityType='LinearSchedule'&amp;EntityId='474ffb96-32c2-4c5e-8f72-80320f654c31'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260304100000 +0000" stop="20260304110000 +0000">
+		<title>Rock Rewind: The best of 1991</title>
+		<desc>The Biggest Rock Hits from the year 1991</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839323'&amp;EntityType='LinearSchedule'&amp;EntityId='953a55a3-e424-48ea-a45c-349977f3e2fb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260304130000 +0000" stop="20260304160000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260304110000 +0000" stop="20260304130000 +0000">
+		<title>Warning! Maximum Rock Overdrive</title>
+		<desc>The playlist is so huge it comes with a warning! Mega rock hits only from the 70s to 00s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960675'&amp;EntityType='LinearSchedule'&amp;EntityId='79ad83a2-56e0-43cb-ae39-237a4473064f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260304130000 +0000" stop="20260304150000 +0000">
+		<title>Biggest Rock Bands Ever!</title>
+		<desc>Big songs and big atitude! It's time to celebrate the biggest rock bands in the world, ever!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839327'&amp;EntityType='LinearSchedule'&amp;EntityId='6d51a42f-e1d2-4ca3-a8eb-810086a88fd4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260304160000 +0000" stop="20260304190000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260304150000 +0000" stop="20260304160000 +0000">
+		<title>Rock n Roll Rewind: 1970 - 1979</title>
+		<desc>The Biggest Hits that rocked the 70s including Punk, Glam Rock and everything in between</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960658'&amp;EntityType='LinearSchedule'&amp;EntityId='328594ab-7589-45f1-8171-8d75c5dc2167'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260304160000 +0000" stop="20260304180000 +0000">
+		<title>Turn on, Tune in and Rock out!</title>
+		<desc>Rock out to our playlist packed with everything from seventies stadium fillers to noughties Nu Metal.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839331'&amp;EntityType='LinearSchedule'&amp;EntityId='b5dfa286-3ca0-4a3a-9b34-cb3605b6afc7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="382872" start="20260303143500 +0000" stop="20260303163500 +0000">
@@ -4471,10 +4536,15 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 6th February, Friday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12840975'&amp;EntityType='LinearSchedule'&amp;EntityId='7c4ea1f1-9088-415d-80a5-ecc56e603646'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20260305160000 +0000" stop="20260306160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12840906'&amp;EntityType='LinearSchedule'&amp;EntityId='aa832db7-e376-4675-8967-ea257efb2f0e'&amp;Width=1280&amp;Height=720" />
+	<programme channel="98202" start="20260305120500 +0000" stop="20260305141500 +0000">
+		<title>AFC Champions League Two 2025/26: Bangkok United vs BG Tampines Rovers FC</title>
+		<desc>AFC Champions League Two 2025/26 will be the 22nd edition of Asia’s second-tier club football tournament. This season features 32 teams competing in a round-robin group stage format from September to December 2025 and the knock-out stage from February to May 2025, with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2026/27. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12961143'&amp;EntityType='LinearSchedule'&amp;EntityId='22151aae-84fc-496a-a396-c94a46d284ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260305141500 +0000" stop="20260305160000 +0000">
+		<title>No Programme available now. Next Broadcast on 12th March, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Bangkok United on 12th March, Thursday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961135'&amp;EntityType='LinearSchedule'&amp;EntityId='185eb1f8-4570-4af5-b56b-06e71eaa031a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260304160548 +0000" stop="20260304163450 +0000">
 		<title>MasterChef Australia Season 02 - EP14</title>
@@ -5804,7 +5874,7 @@
 	<programme channel="556893" start="20260304173000 +0000" stop="20260304180000 +0000">
 		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep9 - EP9</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12927089'&amp;EntityType='LinearSchedule'&amp;EntityId='e4193007-4981-4f68-8871-621ced0b1046'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961011'&amp;EntityType='LinearSchedule'&amp;EntityId='e4193007-4981-4f68-8871-621ced0b1046'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304180000 +0000" stop="20260304183000 +0000">
 		<title>Baby Einstein - Baby Neptune: Discovering Water</title>
@@ -5839,17 +5909,17 @@
 	<programme channel="556893" start="20260304210000 +0000" stop="20260304213000 +0000">
 		<title>Thomas Edison's Secret Lab - Dancing Machine / Ape Escape - EP115</title>
 		<desc>Hoping to get on a dance show, Von Bolt wears a remote-control dance outfit! But if he lets someone else dance for him, is he really a winner? / When the kids are responsible for a female gorilla breaking out of the zoo, they need to figure out how to do some heavy lifting to return her.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12927135'&amp;EntityType='LinearSchedule'&amp;EntityId='18f98f43-6e4a-43cc-8109-a78ad98c69ac'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961015'&amp;EntityType='LinearSchedule'&amp;EntityId='18f98f43-6e4a-43cc-8109-a78ad98c69ac'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304213000 +0000" stop="20260304220000 +0000">
 		<title>Secret Millionaires Club - Camp Big Foot - EP126</title>
 		<desc>At Camp Big Foot, the SMC Kids and TWIN COUNSELORS search for BIG FOOT to raise money for the camp, only to get trapped on an island with two counselors that won't stop squabbling and what about Big Foot?!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12927035'&amp;EntityType='LinearSchedule'&amp;EntityId='a7baecef-33a6-4f71-9312-0360367d2294'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961019'&amp;EntityType='LinearSchedule'&amp;EntityId='a7baecef-33a6-4f71-9312-0360367d2294'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304220000 +0000" stop="20260304223000 +0000">
 		<title>Superhero Kindergarten - The Experiment - EP113</title>
 		<desc>Billy and Jackson get into a tricky situation when Nigel Danforth hatches a plan to get his evil superpowers back.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12927139'&amp;EntityType='LinearSchedule'&amp;EntityId='6a6d4406-e6a8-4725-abe5-de097e230dcc'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961023'&amp;EntityType='LinearSchedule'&amp;EntityId='6a6d4406-e6a8-4725-abe5-de097e230dcc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260304223000 +0000" stop="20260304230000 +0000">
 		<title>Shaq's Garage - Shaq's Secret Birthday - EP126</title>
@@ -5864,7 +5934,7 @@
 	<programme channel="556893" start="20260304233000 +0000" stop="20260305000000 +0000">
 		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep9 - EP9</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12927095'&amp;EntityType='LinearSchedule'&amp;EntityId='331c4b60-2321-4a77-bdb2-28e3fd10047b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961027'&amp;EntityType='LinearSchedule'&amp;EntityId='331c4b60-2321-4a77-bdb2-28e3fd10047b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260305000000 +0000" stop="20260305003000 +0000">
 		<title>Baby Einstein - Baby Neptune: Discovering Water</title>
@@ -5899,17 +5969,17 @@
 	<programme channel="556893" start="20260305030000 +0000" stop="20260305033500 +0000">
 		<title>Thomas Edison's Secret Lab - Dancing Machine / Ape Escape - EP115</title>
 		<desc>Hoping to get on a dance show, Von Bolt wears a remote-control dance outfit! But if he lets someone else dance for him, is he really a winner? / When the kids are responsible for a female gorilla breaking out of the zoo, they need to figure out how to do some heavy lifting to return her.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12927111'&amp;EntityType='LinearSchedule'&amp;EntityId='1b4aaa49-6f01-4774-8edf-a4dbf7f93355'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961031'&amp;EntityType='LinearSchedule'&amp;EntityId='1b4aaa49-6f01-4774-8edf-a4dbf7f93355'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260305033500 +0000" stop="20260305040000 +0000">
 		<title>Secret Millionaires Club - Camp Big Foot - EP126</title>
 		<desc>At Camp Big Foot, the SMC Kids and TWIN COUNSELORS search for BIG FOOT to raise money for the camp, only to get trapped on an island with two counselors that won't stop squabbling and what about Big Foot?!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12927003'&amp;EntityType='LinearSchedule'&amp;EntityId='88705534-62f4-42d9-bc91-d027af1e9b22'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961035'&amp;EntityType='LinearSchedule'&amp;EntityId='88705534-62f4-42d9-bc91-d027af1e9b22'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260305040000 +0000" stop="20260305043000 +0000">
 		<title>Superhero Kindergarten - The Experiment - EP113</title>
 		<desc>Billy and Jackson get into a tricky situation when Nigel Danforth hatches a plan to get his evil superpowers back.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12927015'&amp;EntityType='LinearSchedule'&amp;EntityId='922490c0-9c9c-4dc1-87ac-745e87c7cc29'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961039'&amp;EntityType='LinearSchedule'&amp;EntityId='922490c0-9c9c-4dc1-87ac-745e87c7cc29'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260305043000 +0000" stop="20260305050000 +0000">
 		<title>Shaq's Garage - Shaq's Secret Birthday - EP126</title>
@@ -5924,7 +5994,7 @@
 	<programme channel="556893" start="20260305053000 +0000" stop="20260305060000 +0000">
 		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep9 - EP9</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12927151'&amp;EntityType='LinearSchedule'&amp;EntityId='c13850a8-7048-403a-bbfd-19d2cf707f26'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961043'&amp;EntityType='LinearSchedule'&amp;EntityId='c13850a8-7048-403a-bbfd-19d2cf707f26'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260305060000 +0000" stop="20260305063000 +0000">
 		<title>Baby Einstein - Baby Neptune: Discovering Water</title>
@@ -5959,17 +6029,17 @@
 	<programme channel="556893" start="20260305085500 +0000" stop="20260305093000 +0000">
 		<title>Thomas Edison's Secret Lab - Dancing Machine / Ape Escape - EP115</title>
 		<desc>Hoping to get on a dance show, Von Bolt wears a remote-control dance outfit! But if he lets someone else dance for him, is he really a winner? / When the kids are responsible for a female gorilla breaking out of the zoo, they need to figure out how to do some heavy lifting to return her.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12927044'&amp;EntityType='LinearSchedule'&amp;EntityId='d3beaaed-7276-4c8e-8d06-7a3b0e4261cf'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961047'&amp;EntityType='LinearSchedule'&amp;EntityId='d3beaaed-7276-4c8e-8d06-7a3b0e4261cf'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260305093000 +0000" stop="20260305100000 +0000">
 		<title>Secret Millionaires Club - Camp Big Foot - EP126</title>
 		<desc>At Camp Big Foot, the SMC Kids and TWIN COUNSELORS search for BIG FOOT to raise money for the camp, only to get trapped on an island with two counselors that won't stop squabbling and what about Big Foot?!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12927167'&amp;EntityType='LinearSchedule'&amp;EntityId='d81985ed-eb92-47ce-a151-ae122c35495f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961051'&amp;EntityType='LinearSchedule'&amp;EntityId='d81985ed-eb92-47ce-a151-ae122c35495f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260305100000 +0000" stop="20260305103000 +0000">
 		<title>Superhero Kindergarten - Castaways - EP114</title>
 		<desc>Stranded! The Super K’s accidentally took off in a hot air balloon without Mr. Arnold and crashed onto a deserted island. If they want to make it out of there, they have to band together to find food, water, shelter, and — hey, what are those mysterious footprints?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12927171'&amp;EntityType='LinearSchedule'&amp;EntityId='f9ad3204-ed76-449c-a01d-9bc216781b1e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961055'&amp;EntityType='LinearSchedule'&amp;EntityId='f9ad3204-ed76-449c-a01d-9bc216781b1e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260305103000 +0000" stop="20260305110000 +0000">
 		<title>Shaq's Garage - Pilot - EP101</title>
@@ -5984,7 +6054,7 @@
 	<programme channel="556893" start="20260305113000 +0000" stop="20260305114500 +0000">
 		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep10 - EP10</title>
 		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12927052'&amp;EntityType='LinearSchedule'&amp;EntityId='4b0154a0-c4fb-420a-8f12-6945479addfc'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961059'&amp;EntityType='LinearSchedule'&amp;EntityId='4b0154a0-c4fb-420a-8f12-6945479addfc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260305114500 +0000" stop="20260305121500 +0000">
 		<title>Baby Einstein - Neptune's Oceans</title>
@@ -6019,12 +6089,12 @@
 	<programme channel="556893" start="20260305150000 +0000" stop="20260305153000 +0000">
 		<title>Thomas Edison's Secret Lab - M for Mayhem / Act Your Stone Age - EP116</title>
 		<desc>JD creates a mini-universe to store his stuff but it grows wildly out of control and starts consuming everything - and everyone - in the lab. / Having wrought destruction on the Lab’s indoor greenhouse, JD seeks refuge from the consequences of his actions by escaping through the VR Window to the Stone Age.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12926983'&amp;EntityType='LinearSchedule'&amp;EntityId='a4532936-bc27-49c2-9039-75f3d3f4e938'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961063'&amp;EntityType='LinearSchedule'&amp;EntityId='a4532936-bc27-49c2-9039-75f3d3f4e938'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260305153000 +0000" stop="20260305160000 +0000">
 		<title>Secret Millionaires Club - Be Cool To Your School - EP101</title>
 		<desc>When the kids suffer a series of setbacks to their goal of raising money for a school field trip, Warren shows them that in business, and in life, there are no failures. He encourages the kids not to just learn from their mistakes, but to embrace them. Each misstep is an opportunity to eliminate what didn’t work, and focus on what did, until the best path ahead is uncovered.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12927127'&amp;EntityType='LinearSchedule'&amp;EntityId='dddcf3fb-a61a-49e4-a68d-fc56b68150e2'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961067'&amp;EntityType='LinearSchedule'&amp;EntityId='dddcf3fb-a61a-49e4-a68d-fc56b68150e2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556893" start="20260305160000 +0000" stop="20260305163000 +0000">
 		<title>Superhero Kindergarten - Castaways - EP114</title>
@@ -6351,40 +6421,80 @@
 		<desc>The true story of Irish outlaw Daniel Morgan, who is wanted, dead or alive, in Australia during the 1850s.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841407'&amp;EntityType='LinearSchedule'&amp;EntityId='7fc9dd65-8bf2-4cad-b8c6-2ad97623666c'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="158965" start="20260304180000 +0000" stop="20260304190000 +0000">
+		<title>Strike a pose: 80s Fashion icons</title>
+		<desc>The trendsetters that defined the decade! Unforgettable outfits, hair and music videos!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960776'&amp;EntityType='LinearSchedule'&amp;EntityId='6b06682e-132f-4e60-90b5-f86099d39146'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260304190000 +0000" stop="20260304210000 +0000">
+		<title>Gold! The Biggest Hits 1980 - 1989</title>
+		<desc>Every single track in this playlist is guarenteed to bring you a rush of pure solid gold nostalgia!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960772'&amp;EntityType='LinearSchedule'&amp;EntityId='19ce48a6-0811-43fb-a6f9-95aacd5c00e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="158965" start="20260304210000 +0000" stop="20260304220000 +0000">
-		<title>80s - To The Max! - EP1</title>
-		<desc>All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12824183'&amp;EntityType='LinearSchedule'&amp;EntityId='e79a9c08-45b7-41c5-9959-2088e73eb38c'&amp;Width=1280&amp;Height=720" />
+		<title>80s Power Anthems!</title>
+		<desc>Huge vocals, Check! Huge guitars, Check! Huge attitude, Check! These are the biggest power anthems of the decade</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960740'&amp;EntityType='LinearSchedule'&amp;EntityId='e79a9c08-45b7-41c5-9959-2088e73eb38c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20260304220000 +0000" stop="20260305000000 +0000">
-		<title>Wake Me Up Before You Go Go! - EP1</title>
-		<desc>Your eighties party channel - 24/7. Expect synth pop, soft rock, leg warmers, lycra and lots of big hair! Classic pop that has stood the test of time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12824158'&amp;EntityType='LinearSchedule'&amp;EntityId='4c831255-9609-4997-8f3f-9b485dd5f304'&amp;Width=1280&amp;Height=720" />
+		<title>Monster Rock Hits of the 80s</title>
+		<desc>Big riffs and even bigger hair! These are the biggest rock hits of the 80s.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960748'&amp;EntityType='LinearSchedule'&amp;EntityId='4c831255-9609-4997-8f3f-9b485dd5f304'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260305000000 +0000" stop="20260305040000 +0000">
-		<title>Only the Biggest 80s Anthems! - EP1</title>
-		<desc>All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12824162'&amp;EntityType='LinearSchedule'&amp;EntityId='4026a8af-aa49-436b-81db-29d6f0bf47dd'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260305000000 +0000" stop="20260305010000 +0000">
+		<title>Lets hear it for the boys!</title>
+		<desc>Non stop swagger from all the boys that ruled the hearts and the charts in the 80s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960752'&amp;EntityType='LinearSchedule'&amp;EntityId='4026a8af-aa49-436b-81db-29d6f0bf47dd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260305040000 +0000" stop="20260305050000 +0000">
-		<title>The 80s (What A Feeling!) - EP1</title>
-		<desc>All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12824193'&amp;EntityType='LinearSchedule'&amp;EntityId='4229f446-9450-4714-ae74-9571a0b2de2b'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260305010000 +0000" stop="20260305030000 +0000">
+		<title>Addicted to 80s Love Songs</title>
+		<desc>Get lost in love right now with a huge mix of tracks that will take you back in time.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960792'&amp;EntityType='LinearSchedule'&amp;EntityId='71ed9b67-9e48-47ea-809b-f9689a0d64f9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260305050000 +0000" stop="20260305100000 +0000">
-		<title>Only the Biggest 80s Anthems! - EP1</title>
-		<desc>All killer - no filler! The anthems that made a decade - from Madonna to Prince, Michael to George, Duran Duran to Pet Shop Boys.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12824150'&amp;EntityType='LinearSchedule'&amp;EntityId='a5d93b93-c7bf-41a2-9bc0-d805ae026f96'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260305030000 +0000" stop="20260305040000 +0000">
+		<title>80s Mega-stars</title>
+		<desc>They ruled the charts and graced every magazine cover across the globe! These are the Megastars of the 80s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960764'&amp;EntityType='LinearSchedule'&amp;EntityId='43635e83-2f9b-43d0-ac87-7a8eece977dd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260305100000 +0000" stop="20260305110000 +0000">
-		<title>Bring Out The 80s! - EP1</title>
-		<desc>Non-stop 80s -24/7. With synth pop, soft rock, leg warmers, lycra and big hair! Classic pop that has stood the test of time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12824166'&amp;EntityType='LinearSchedule'&amp;EntityId='1bd88511-3968-49b3-9cd5-922db75fe7ed'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260305040000 +0000" stop="20260305060000 +0000">
+		<title>Straight Up 80s Hits</title>
+		<desc>No nonsense, just straight up 80s hits from the most iconic decade in music</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960756'&amp;EntityType='LinearSchedule'&amp;EntityId='4229f446-9450-4714-ae74-9571a0b2de2b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158965" start="20260305110000 +0000" stop="20260305160000 +0000">
-		<title>80s Hit After 80s Hit! - EP1</title>
-		<desc>Your 80s channel - 24/7!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12824172'&amp;EntityType='LinearSchedule'&amp;EntityId='24d8235f-6b69-4a0d-b7a0-ab6fdaf31d19'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158965" start="20260305060000 +0000" stop="20260305070000 +0000">
+		<title>Big Hair, Big Hits!</title>
+		<desc>The biggest hits from the most iconic hairstyles of the 80s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960768'&amp;EntityType='LinearSchedule'&amp;EntityId='a78d2109-6cff-4445-9a59-f78914e263ae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260305070000 +0000" stop="20260305090000 +0000">
+		<title>Cheesy 80s Classics</title>
+		<desc>Cheesy sing a long tunes to take you back to the 80s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960780'&amp;EntityType='LinearSchedule'&amp;EntityId='b0c00def-9b29-4228-8197-c504345abf1f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260305090000 +0000" stop="20260305100000 +0000">
+		<title>Girls of the 80s!</title>
+		<desc>Style, Sass and songs that defined a decade. These are the girls that ruled the 80s.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960788'&amp;EntityType='LinearSchedule'&amp;EntityId='150c8dcd-d858-4d74-8ec4-561bcafce24a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260305100000 +0000" stop="20260305120000 +0000">
+		<title>80s Karaoke Party!</title>
+		<desc>Grab your hairbrush cos its time to belt out some iconic 80s lyrics!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960760'&amp;EntityType='LinearSchedule'&amp;EntityId='1bd88511-3968-49b3-9cd5-922db75fe7ed'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260305120000 +0000" stop="20260305130000 +0000">
+		<title>Crush on You! 80s Hearthrobs</title>
+		<desc>These are the ones that stole our hearts and gave us sweet dreams in the 80s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960796'&amp;EntityType='LinearSchedule'&amp;EntityId='ae97bc1c-1eb2-4444-8409-7e130f7dd94b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260305130000 +0000" stop="20260305150000 +0000">
+		<title>I want my 80s Hits</title>
+		<desc>All the big hits to take you back to the best decade in music</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960800'&amp;EntityType='LinearSchedule'&amp;EntityId='fdf267d9-bd7d-4e1e-b4ef-3ab01b1bcf44'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158965" start="20260305150000 +0000" stop="20260305160000 +0000">
+		<title>Kings &amp; Queens of the Decade</title>
+		<desc>This is your pure pop royalty playlist right now, as we bring you the Kings and Queens of the 80s!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960784'&amp;EntityType='LinearSchedule'&amp;EntityId='50e10253-2a45-455c-9c6a-a420d2d9ae06'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158965" start="20260305160000 +0000" stop="20260305210000 +0000">
 		<title>80s Dance Party Night! - EP1</title>
@@ -6396,40 +6506,70 @@
 		<desc>Schedule To Be Announced</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841327'&amp;EntityType='LinearSchedule'&amp;EntityId='db4cf590-f98b-4fe7-ae5c-4982f21b97b2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260304190000 +0000" stop="20260304220000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839335'&amp;EntityType='LinearSchedule'&amp;EntityId='feff1249-b7c0-407c-9c33-90b5c3ba2ac8'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260304180000 +0000" stop="20260304200000 +0000">
+		<title>Biggest Rock Hits of the 00s</title>
+		<desc>Turn up the speakers cos these are the biggest Rock hits from the 00s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960724'&amp;EntityType='LinearSchedule'&amp;EntityId='f06bae18-f89c-46d9-b9b2-793d335236a3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260304220000 +0000" stop="20260305010000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260304200000 +0000" stop="20260304220000 +0000">
+		<title>The Rock n Roll Hall of Fame</title>
+		<desc>Iconic fashion, huge hits, and massive attitude. These are the Rock n Roll stars that defined generations.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960716'&amp;EntityType='LinearSchedule'&amp;EntityId='817b3092-65bd-49e7-8dde-23af9918c1ee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260304220000 +0000" stop="20260305000000 +0000">
+		<title>Biggest Rock Bands Ever!</title>
+		<desc>Big songs and big atitude! It's time to celebrate the biggest rock bands in the world, ever!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839339'&amp;EntityType='LinearSchedule'&amp;EntityId='dea4ba55-e965-4b52-833d-6c428cbdd7e4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260305010000 +0000" stop="20260305040000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260305000000 +0000" stop="20260305010000 +0000">
+		<title>Ultimate Rock workout</title>
+		<desc>Hits and riffs perfect for a maximum high energy workout!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960712'&amp;EntityType='LinearSchedule'&amp;EntityId='e042f78b-fb48-4b22-8516-5a71ee282a61'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260305010000 +0000" stop="20260305020000 +0000">
+		<title>Girls that Rock!</title>
+		<desc>Absolute rock queens are brining the noise for the next hour, so crank it up!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839343'&amp;EntityType='LinearSchedule'&amp;EntityId='429aff2f-80aa-4edf-8c44-a8a31758811a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260305040000 +0000" stop="20260305070000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260305020000 +0000" stop="20260305040000 +0000">
+		<title>Turn on, Tune in and Rock out!</title>
+		<desc>Rock out to our playlist packed with everything from seventies stadium fillers to noughties Nu Metal.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960737'&amp;EntityType='LinearSchedule'&amp;EntityId='75ad50df-c2b6-44ee-ba5e-a805aaafc326'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260305040000 +0000" stop="20260305060000 +0000">
+		<title>The Rock n Roll Hall of Fame</title>
+		<desc>Iconic fashion, huge hits, and massive attitude. These are the Rock n Roll stars that defined generations.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839347'&amp;EntityType='LinearSchedule'&amp;EntityId='a6cfa236-b483-443a-8df7-b1e263d1da82'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260305070000 +0000" stop="20260305100000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839351'&amp;EntityType='LinearSchedule'&amp;EntityId='4bc2b1cf-650d-4c79-a197-f114b4bb90ef'&amp;Width=1280&amp;Height=720" />
+	<programme channel="158963" start="20260305060000 +0000" stop="20260305080000 +0000">
+		<title>Epic Rock Hits: 1970 - 2009</title>
+		<desc>The biggest rock hits that were on everyones playlists from 1970 - 2009</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960708'&amp;EntityType='LinearSchedule'&amp;EntityId='9f299943-7cab-4884-85e5-a9b12c2b49dc'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260305100000 +0000" stop="20260305130000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260305080000 +0000" stop="20260305100000 +0000">
+		<title>Warning! Maximum Rock Overdrive</title>
+		<desc>The playlist is so huge it comes with a warning! Mega rock hits only from the 70s to 00s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960720'&amp;EntityType='LinearSchedule'&amp;EntityId='ccb8ef40-daa5-45eb-a7fe-708c80f2563a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260305100000 +0000" stop="20260305120000 +0000">
+		<title>Monster Rock Hits of the 80s</title>
+		<desc>The biggest Rock hits that defined the 80s</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839355'&amp;EntityType='LinearSchedule'&amp;EntityId='99963829-cc2b-470b-bdb1-09e2a52c1f56'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260305130000 +0000" stop="20260305160000 +0000">
-		<title>To Be Announced</title>
-		<desc>Program information is not yet available</desc>
+	<programme channel="158963" start="20260305120000 +0000" stop="20260305130000 +0000">
+		<title>Rock Rewind: The best of 1996</title>
+		<desc>The Biggest Rock Hits from the year 1996</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960728'&amp;EntityType='LinearSchedule'&amp;EntityId='8df81eed-3a29-4925-a329-3dd81a13a652'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260305130000 +0000" stop="20260305140000 +0000">
+		<title>Movie soundtracks that Rocked!</title>
+		<desc>Grab the popcorn! It's time for huge hits from the most inconic movies ever!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12839359'&amp;EntityType='LinearSchedule'&amp;EntityId='04fbb83e-24ca-48bd-a75f-6f7d5398dd8a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="158963" start="20260305140000 +0000" stop="20260305160000 +0000">
+		<title>Legends of Rock 1970 - 2009</title>
+		<desc>These are the acts that shaped the sound of Rock music forever! Legends only!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12960744'&amp;EntityType='LinearSchedule'&amp;EntityId='a99bb38c-8f52-49fe-9bd1-b59a79570750'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="158963" start="20260305160000 +0000" stop="20260305190000 +0000">
 		<title>To Be Announced</title>
