@@ -24,6 +24,10 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
+	<channel id="186574">
+		<display-name>Oktolidays</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9467885'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=945&amp;Height=250" />
+	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -91,10 +95,6 @@
 	<channel id="158963">
 		<display-name>NOW Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510610'&amp;EntityType='Item'&amp;EntityId='158963'&amp;Width=193&amp;Height=187" />
-	</channel>
-	<channel id="382872">
-		<display-name>CinemaWorld</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260304160000 +0000" stop="20260304163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 26</title>
@@ -1090,6 +1090,16 @@
 		<title>Headline News</title>
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841154'&amp;EntityType='LinearSchedule'&amp;EntityId='a38edcae-c424-465b-85b0-59943900b8a0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260304160000 +0000" stop="20260305160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12824148'&amp;EntityType='LinearSchedule'&amp;EntityId='1a84eb25-0d63-4e55-a015-222f7f72ccd0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260305160000 +0000" stop="20260306040000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841404'&amp;EntityType='LinearSchedule'&amp;EntityId='40fa0e5f-2103-42c7-b830-4d5eb428354b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260304160000 +0000" stop="20260305160000 +0000">
 		<title>No Programme available now. Next Broadcast on 6th March, Friday 8.20pm. Singapore Premier League 2025/2026</title>
@@ -3356,81 +3366,6 @@
 		<desc>Big fat rock hits from 1970 - 2009</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841331'&amp;EntityType='LinearSchedule'&amp;EntityId='9d2fc235-71cb-4ce6-8834-cfd109e7cd64'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="382872" start="20260304152500 +0000" stop="20260304171000 +0000">
-		<title>Martinez</title>
-		<desc>Martinez, an embittered Chilean in his sixties who has lived in Mexico for the past 40 years, is being forced to retire from his job. As he struggles with life changes, things change as a neighbour suddenly dies.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12815775'&amp;EntityType='LinearSchedule'&amp;EntityId='786dce70-063b-4a17-bb15-f03150935c69'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260304171000 +0000" stop="20260304184000 +0000">
-		<title>Train Driver's Diary</title>
-		<desc>As Ilija nears retirement, his record of unintentional deaths as a train driver weighs heavy. His adopted son, Sima, fears following in his footsteps. But as days pass without incident, Ilija's determination to ensure Sima's success takes a dark turn.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832470'&amp;EntityType='LinearSchedule'&amp;EntityId='eadf0355-f98b-47fc-8f06-df9dfa150b21'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260304184000 +0000" stop="20260304202000 +0000">
-		<title>Risks And Side Effects</title>
-		<desc>When Pilates trainer Kathrin needs a new kidney, her husband’s hesitation to be her donor results in a crisis in their marriage. Faced with issues of life and death, the fragility of the couple’s relationship is laid bare.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832474'&amp;EntityType='LinearSchedule'&amp;EntityId='9cc167be-9371-4485-b7a4-c8ea608a1b6e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260304202000 +0000" stop="20260304220000 +0000">
-		<title>The Black Minutes</title>
-		<desc>Vicente Rangel, a musician turned detective, embarks on a police case to catch a murderer of girls in a corrupt oil town on the Gulf of Mexico.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832490'&amp;EntityType='LinearSchedule'&amp;EntityId='ef7f0628-1ab8-4844-be8c-11e56464d78c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260304220000 +0000" stop="20260304233500 +0000">
-		<title>Sarah Kohr: Ghost Lights</title>
-		<desc>In a post-pandemic Europe, conspiracy theorist Felix Morgenroth becomes obsessed with exposing the "coronavirus lie." Convinced that physicians Carsten and Lisa Kippmann were behind the conspiracy, Felix seeks retribution through a devastating explosion.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832454'&amp;EntityType='LinearSchedule'&amp;EntityId='7f1f7d40-9040-4c57-a2cf-ebe57499a267'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260304233500 +0000" stop="20260305010500 +0000">
-		<title>Hard Luck</title>
-		<desc>A family comes to the funeral of their beloved grandfather. After the burial it turns out that the numbers grandfather always bet at the lottery just won big, but the winning ticket was buried with him. The race for the buried ticket begins. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832478'&amp;EntityType='LinearSchedule'&amp;EntityId='59db28c1-7c4d-4607-8982-e4860376aba9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305010500 +0000" stop="20260305031000 +0000">
-		<title>A Tale of Samurai Cooking - A True Love Story</title>
-		<desc>Great cook Haru has married into the legendary “Kitchen Samurai” family. But her husband who is the successor of the Funaki family cannot cook at all. Haru makes a vow to make him a superb samurai chef and starts teaching her new husband how to cook.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832446'&amp;EntityType='LinearSchedule'&amp;EntityId='e5721cb6-1431-484a-8efb-15b49e5ca6f0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305031000 +0000" stop="20260305044000 +0000">
-		<title>Room 514</title>
-		<desc>When Anna, a young, idealistic Israeli military investigator, confronts an elite officer with accusations of unnecessary violence against a Palestinian man in the Occupied Territories, her integrity and determination are challenged.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832458'&amp;EntityType='LinearSchedule'&amp;EntityId='00f94c3d-810d-4a91-ab8c-9a2c9a477c0e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305044000 +0000" stop="20260305063500 +0000">
-		<title>A Thousand Times Good Night</title>
-		<desc>Rebecca is one of the world's top war photographers. She must weather a major emotional storm when her husband and young daughters refuse to put up with her dangerous life any longer. They need Rebecca, who, however, loves both her family and her work.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832494'&amp;EntityType='LinearSchedule'&amp;EntityId='c9e9e9fa-2207-46fd-b6df-74e0bcfce7ed'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305063500 +0000" stop="20260305080500 +0000">
-		<title>Good Luck Sam</title>
-		<desc>Sam and Stéphane, childhood friends and ski equipment designers, embark on a wild quest to save their struggling business. They hatch a plan to enter Sam into the Winter Olympics, and have him compete under his father’s home country of Algeria.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832462'&amp;EntityType='LinearSchedule'&amp;EntityId='b6baee72-753c-4a31-b431-957ef0c53c88'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305080500 +0000" stop="20260305094500 +0000">
-		<title>Martinez</title>
-		<desc>Martinez, an embittered Chilean in his sixties who has lived in Mexico for the past 40 years, is being forced to retire from his job. As he struggles with life changes, things change as a neighbour suddenly dies.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832450'&amp;EntityType='LinearSchedule'&amp;EntityId='8b80f18d-e2c2-4318-97ef-94f597c53f16'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305094500 +0000" stop="20260305111500 +0000">
-		<title>Baltic Files I - The Body On The Beach</title>
-		<desc>After being transferred to the German-Danish border, Chief Inspector Svenja is tasked with a case involving a body on a beach. With her new colleague Antione, she investigates a case which involves a liquor dealer and a tragedy that goes back decades.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832482'&amp;EntityType='LinearSchedule'&amp;EntityId='239622dd-0b02-4f51-94bc-97b837ff84e0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305111500 +0000" stop="20260305130000 +0000">
-		<title>Hunters On A White Field</title>
-		<desc>Deep in the Swedish woods, three friends go on an extended weekend hunting trip. After an initial spell of success, the animals suddenly vanish without a trace. Despite being in a forest without animals, the men decide that the hunt must continue.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832486'&amp;EntityType='LinearSchedule'&amp;EntityId='0a902e74-c06f-4bde-b7ba-95062f0eb420'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305130000 +0000" stop="20260305150500 +0000">
-		<title>All The Songs We Never Sang</title>
-		<desc>Rebellious teen Natsumi ventures from Tokyo to a small island to meet her aunt and learn the art of pearl diving (but secretly to find a treasure she was told about as a child).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832498'&amp;EntityType='LinearSchedule'&amp;EntityId='6bcc1224-54ea-42d5-bc95-54cd54f7d1e5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305150500 +0000" stop="20260305170000 +0000">
-		<title>Cortina Express</title>
-		<desc>During the Christmas holidays in Cortina, a colorful cast of characters cross paths among the snow-capped Ampezzo mountains. Between love, redemption, and second-chances, their lives collide in a series of hilarious and heartfelt quests for a happy ending</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832466'&amp;EntityType='LinearSchedule'&amp;EntityId='c80c7f7e-8b08-4ec4-ab9b-838f3028b52a'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260305163000 +0000" stop="20260305173000 +0000">
 		<title>Fire Country S1 - EP 7</title>
 		<desc>Bode's crew is accused of stealing a designer watch from a fire mop up, and the crew responds to a high-stakes call about an extremely dangerous gas leak.</desc>
@@ -4350,6 +4285,66 @@
 		<title>Headline News</title>
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862677'&amp;EntityType='LinearSchedule'&amp;EntityId='65bcce28-f70e-4930-94de-abb5d59ce5e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306040000 +0000" stop="20260306045936 +0000">
+		<title>What on Earth S2/X,Y,&amp; Zain/Beyblade X S2/Our Story House 故事小金屋</title>
+		<desc>What on Earth S2/X,Y,&amp; Zain/Beyblade X S2/Our Story House 故事小金屋</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841383'&amp;EntityType='LinearSchedule'&amp;EntityId='7a1f151e-0641-4347-b38f-8841cf545e6d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306045936 +0000" stop="20260306055936 +0000">
+		<title>Word Whiz 华文“浆”好玩 - S5/Open Season: Call of Nature S1/One Page At A Time Pada Suatu Hari/Ubin Boy Sr 3</title>
+		<desc>Word Whiz 华文“浆”好玩 - S5/Open Season: Call of Nature S1/One Page At A Time Pada Suatu Hari/Ubin Boy Sr 3</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841387'&amp;EntityType='LinearSchedule'&amp;EntityId='44e6110c-ede7-4f81-a1a1-60b8b9785d63'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306055936 +0000" stop="20260306065911 +0000">
+		<title>My Superstar Kudumbam S2/The Adventures of Luggy</title>
+		<desc>My Superstar Kudumbam S2/The Adventures of Luggy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841367'&amp;EntityType='LinearSchedule'&amp;EntityId='5daa8bc3-771a-467d-9d32-279c3ff2715c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306065911 +0000" stop="20260306075929 +0000">
+		<title>Kelab JMJ S5/5x5/One Page At A Time Oru Oorilae/Wild Kratts S7</title>
+		<desc>Kelab JMJ S5/5x5/One Page At A Time Oru Oorilae/Wild Kratts S7</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841379'&amp;EntityType='LinearSchedule'&amp;EntityId='194848f4-308e-46a3-9a5f-9fdfc20b048f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306075929 +0000" stop="20260306090022 +0000">
+		<title>Blippi Singapore Adventures/One Page At A Time 伟人不见了!/What on Earth/Dr. Panda S1 &amp; S2</title>
+		<desc>Blippi Singapore Adventures/One Page At A Time 伟人不见了!/What on Earth/Dr. Panda S1 &amp; S2</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841415'&amp;EntityType='LinearSchedule'&amp;EntityId='730992e5-6836-469d-a590-784ed2267d14'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306090022 +0000" stop="20260306095936 +0000">
+		<title>Train Your Brain 脑力大考验/Puberteens/One Page At A Time Pada Suatu Hari/Beyblade X S2</title>
+		<desc>Train Your Brain 脑力大考验/Puberteens/One Page At A Time Pada Suatu Hari/Beyblade X S2</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841391'&amp;EntityType='LinearSchedule'&amp;EntityId='d1cb763a-8b92-4eb1-be77-7348d3be40e9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306095936 +0000" stop="20260306110012 +0000">
+		<title>My Superstar Kudumbam S2/What on Earth</title>
+		<desc>My Superstar Kudumbam S2/What on Earth</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841399'&amp;EntityType='LinearSchedule'&amp;EntityId='b8540464-ccc1-43e3-9113-9aebe6d40038'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306110012 +0000" stop="20260306115954 +0000">
+		<title>Kelab JMJ S5/Ok-to-Try/Our Story House 故事小金屋/Ultraman Omega</title>
+		<desc>Kelab JMJ S5/Ok-to-Try/Our Story House 故事小金屋/Ultraman Omega</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841419'&amp;EntityType='LinearSchedule'&amp;EntityId='07e8fbc4-d8e7-4c7c-8bfc-1016374b8a4c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306115954 +0000" stop="20260306125929 +0000">
+		<title>Biogirl MJ's Treasure Hunt /One Page At A Time Pada Suatu Hari/Ayalaan/Dylan's Playtime Adventures</title>
+		<desc>Biogirl MJ's Treasure Hunt /One Page At A Time Pada Suatu Hari/Ayalaan/Dylan's Playtime Adventures</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841371'&amp;EntityType='LinearSchedule'&amp;EntityId='26869ff2-657d-4711-95ac-1c6da1307f90'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306125929 +0000" stop="20260306135934 +0000">
+		<title>Word Whiz 华文“浆”好玩 - S5/One Page At A Time Oru Oorilae/The Little Prince and His Friends/Before I was Awesome</title>
+		<desc>Word Whiz 华文“浆”好玩 - S5/One Page At A Time Oru Oorilae/The Little Prince and His Friends/Before I was Awesome</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841395'&amp;EntityType='LinearSchedule'&amp;EntityId='ad3b7192-eb8b-40b6-bd6c-86ce432618f8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306135934 +0000" stop="20260306145945 +0000">
+		<title>My Superstar Kudumbam S2/The Misadventures of Cube Melt/5x5</title>
+		<desc>My Superstar Kudumbam S2/The Misadventures of Cube Melt/5x5</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841411'&amp;EntityType='LinearSchedule'&amp;EntityId='4ada1baa-629c-4c48-8f34-ef671a98c77d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260306145945 +0000" stop="20260306160035 +0000">
+		<title>Kelab JMJ S5/Paula &amp; Pals S2/Our Story House 故事小金屋/Beyblade X S2</title>
+		<desc>Kelab JMJ S5/Paula &amp; Pals S2/Our Story House 故事小金屋/Beyblade X S2</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841375'&amp;EntityType='LinearSchedule'&amp;EntityId='57458efc-8707-476c-a16b-d83f8fcf7f76'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260306122000 +0000" stop="20260306143000 +0000">
 		<title>Singapore Premier League 2025/2026: Tanjong Pagar United FC vs Albirex Niigata FC S</title>
@@ -6420,70 +6415,5 @@
 		<title>Karaoke Crushers!</title>
 		<desc>Grab your mic and get ready to belt out your best vocals! You better warn the neighbours!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12863157'&amp;EntityType='LinearSchedule'&amp;EntityId='fc4e6b65-7d0e-4286-8488-014755f4653f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305170000 +0000" stop="20260305184000 +0000">
-		<title>Hard Luck</title>
-		<desc>A family comes to the funeral of their beloved grandfather. After the burial it turns out that the numbers grandfather always bet at the lottery just won big, but the winning ticket was buried with him. The race for the buried ticket begins. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848046'&amp;EntityType='LinearSchedule'&amp;EntityId='89fb8b88-a396-47da-b411-8e94d45f8413'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305184000 +0000" stop="20260305202000 +0000">
-		<title>Room 514</title>
-		<desc>When Anna, a young, idealistic Israeli military investigator, confronts an elite officer with accusations of unnecessary violence against a Palestinian man in the Occupied Territories, her integrity and determination are challenged.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848063'&amp;EntityType='LinearSchedule'&amp;EntityId='1eb29861-953f-4da9-92fd-5bbdec18e76a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305202000 +0000" stop="20260305220000 +0000">
-		<title>Good Luck Sam</title>
-		<desc>Sam and Stéphane, childhood friends and ski equipment designers, embark on a wild quest to save their struggling business. They hatch a plan to enter Sam into the Winter Olympics, and have him compete under his father’s home country of Algeria.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848076'&amp;EntityType='LinearSchedule'&amp;EntityId='dc53af17-7085-4ea3-b4cd-1cb623241c54'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305220000 +0000" stop="20260305233500 +0000">
-		<title>Baltic Files I - The Body On The Beach</title>
-		<desc>After being transferred to the German-Danish border, Chief Inspector Svenja is tasked with a case involving a body on a beach. With her new colleague Antione, she investigates a case which involves a liquor dealer and a tragedy that goes back decades.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848015'&amp;EntityType='LinearSchedule'&amp;EntityId='d9dffdcb-dc74-4951-bea7-133236758176'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260305233500 +0000" stop="20260306014000 +0000">
-		<title>Games People Play</title>
-		<desc>An old group of friends gathers to celebrate Mitzi’s surprise birthday party over a nostalgic weekend at an idyllic seaside villa – just like they used to do as teenagers. Mitzi sets off a game that brings old feelings and power dynamics to the surface.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12848035'&amp;EntityType='LinearSchedule'&amp;EntityId='364a3a82-916f-4cf3-9682-336680b9bb73'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260306014000 +0000" stop="20260306032500 +0000">
-		<title>Hunters On A White Field</title>
-		<desc>Deep in the Swedish woods, three friends go on an extended weekend hunting trip. After an initial spell of success, the animals suddenly vanish without a trace. Despite being in a forest without animals, the men decide that the hunt must continue.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848039'&amp;EntityType='LinearSchedule'&amp;EntityId='cc5b1702-9978-4036-b456-b5dac79920bc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260306032500 +0000" stop="20260306051500 +0000">
-		<title>Hippocrates</title>
-		<desc>Benjamin dreams of being a great doctor, but his internship at his father’s ward doesn’t turn out the way he hoped. His experience as a junior doctor, with its overwhelming responsibility and stiff competition, forces him to confront his limits and fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848056'&amp;EntityType='LinearSchedule'&amp;EntityId='4bc50b9c-72be-494f-a18b-7ee559a085b8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260306051500 +0000" stop="20260306072000 +0000">
-		<title>All The Songs We Never Sang</title>
-		<desc>Rebellious teen Natsumi ventures from Tokyo to a small island to meet her aunt and learn the art of pearl diving (but secretly to find a treasure she was told about as a child).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848098'&amp;EntityType='LinearSchedule'&amp;EntityId='bd40a372-78b8-4ca6-92c9-2316d458abe8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260306072000 +0000" stop="20260306101000 +0000">
-		<title>Stormskerry Maja</title>
-		<desc>At 17, Maja marries humble fisherman Janne and starts a family on the remote island of Stormskerry, where survival is a constant challenge. Amidst the hardships, Maja awakens to her potential, finding resilience and a love that transcends life and death.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12847991'&amp;EntityType='LinearSchedule'&amp;EntityId='1a458d2f-e06b-484f-914a-4f8d8bd0e95f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260306101000 +0000" stop="20260306120000 +0000">
-		<title>Cortina Express</title>
-		<desc>During the Christmas holidays in Cortina, a colorful cast of characters cross paths among the snow-capped Ampezzo mountains. Between love, redemption, and second-chances, their lives collide in a series of hilarious and heartfelt quests for a happy ending</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848087'&amp;EntityType='LinearSchedule'&amp;EntityId='bf4894a6-bb94-4dbd-b71e-31be37ddda40'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260306120000 +0000" stop="20260306140000 +0000">
-		<title>Like Crazy</title>
-		<desc>Two mental patients, a motor-mouthed fantasist and a tattooed introvert, who met at a community hospital, fled the hospital to embark on a road trip from Tuscany to Rome, in search of love and happiness in the open-air nuthouse - the world of sane people.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12847995'&amp;EntityType='LinearSchedule'&amp;EntityId='fd98d571-7446-47d4-9b0d-9ed898b5e417'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260306140000 +0000" stop="20260306154500 +0000">
-		<title>The Traveller: The Temptation of Evil</title>
-		<desc>Captain Kandinsky is called upon to investigate the death of a dentist whose body was found charred. Kandinsky doubts the official verdict of suicide when he discovers two other victims whose bodies were also found charred in the same region.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12847999'&amp;EntityType='LinearSchedule'&amp;EntityId='35a4d438-66b7-4134-b28a-e78f1d99f00f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260306154500 +0000" stop="20260306175000 +0000">
-		<title>El Alamein – The Line of Fire</title>
-		<desc>Against a backdrop of searing daytime heat and chilling nighttime cold, three-time Italian Academy Awards winner Enzo Monteleone paints a gritty, powerful WW II epic of the Italian army’s battle with the Germans to drive Allied Forces from North Africa.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848008'&amp;EntityType='LinearSchedule'&amp;EntityId='2b6477d7-2fb6-4fb2-9612-bae2fcd9afd8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
