@@ -36,10 +36,6 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -95,6 +91,10 @@
 	<channel id="158963">
 		<display-name>NOW Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510610'&amp;EntityType='Item'&amp;EntityId='158963'&amp;Width=193&amp;Height=187" />
+	</channel>
+	<channel id="382872">
+		<display-name>CinemaWorld</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260305160000 +0000" stop="20260305163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 27</title>
@@ -1123,12 +1123,12 @@
 	</programme>
 	<programme channel="98200" start="20260306143000 +0000" stop="20260306160000 +0000">
 		<title>No Programme available now. Next Broadcast on 7th March, Saturday 8.20pm. Singapore Premier League 2025/2026</title>
-		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Young Lions vs BG Tampines Rovers FC on 7th March, Saturday 8.20pm. Please stay tuned!</desc>
+		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs Geylang International FC on 7th March, Saturday 8.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12841283'&amp;EntityType='LinearSchedule'&amp;EntityId='85e7fe5e-5bc9-44a2-abab-70f1054793d1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260306160000 +0000" stop="20260307122000 +0000">
 		<title>No Programme available now. Next Broadcast on 7th March, Saturday 8.20pm. Singapore Premier League 2025/2026</title>
-		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Young Lions vs BG Tampines Rovers FC on 7th March, Saturday 8.20pm. Please stay tuned!</desc>
+		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs Geylang International FC on 7th March, Saturday 8.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12863235'&amp;EntityType='LinearSchedule'&amp;EntityId='7c309de8-bc19-43df-9281-3dceb1121fd0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260305160000 +0000" stop="20260306110000 +0000">
@@ -1270,16 +1270,6 @@
 		<title>No programme available now. Next broadcast on 7th February, Saturday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 7th February, Saturday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12862321'&amp;EntityType='LinearSchedule'&amp;EntityId='cae13454-29a1-4c64-8d0b-1a4b75162386'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260305160000 +0000" stop="20260306160000 +0000">
-		<title>No Programme available now. Next Broadcast on 12th March, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Bangkok United on 12th March, Thursday 8.05pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961329'&amp;EntityType='LinearSchedule'&amp;EntityId='ff265701-ad7f-4bdd-b91e-165ec245a98f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260306160000 +0000" stop="20260307160000 +0000">
-		<title>No Programme available now. Next Broadcast on 12th March, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Bangkok United on 12th March, Thursday 8.05pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961333'&amp;EntityType='LinearSchedule'&amp;EntityId='40521e82-d559-4902-acac-83213a02393c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260305152040 +0000" stop="20260305161508 +0000">
 		<title>MasterChef Australia Season 02 - EP43</title>
@@ -3331,6 +3321,76 @@
 		<desc>Grab your mic and get ready to belt out your best vocals! You better warn the neighbours!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12863157'&amp;EntityType='LinearSchedule'&amp;EntityId='fc4e6b65-7d0e-4286-8488-014755f4653f'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="382872" start="20260305150500 +0000" stop="20260305170000 +0000">
+		<title>Cortina Express</title>
+		<desc>During the Christmas holidays in Cortina, a colorful cast of characters cross paths among the snow-capped Ampezzo mountains. Between love, redemption, and second-chances, their lives collide in a series of hilarious and heartfelt quests for a happy ending</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12832466'&amp;EntityType='LinearSchedule'&amp;EntityId='c80c7f7e-8b08-4ec4-ab9b-838f3028b52a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260305170000 +0000" stop="20260305184000 +0000">
+		<title>Hard Luck</title>
+		<desc>A family comes to the funeral of their beloved grandfather. After the burial it turns out that the numbers grandfather always bet at the lottery just won big, but the winning ticket was buried with him. The race for the buried ticket begins. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848046'&amp;EntityType='LinearSchedule'&amp;EntityId='89fb8b88-a396-47da-b411-8e94d45f8413'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260305184000 +0000" stop="20260305202000 +0000">
+		<title>Room 514</title>
+		<desc>When Anna, a young, idealistic Israeli military investigator, confronts an elite officer with accusations of unnecessary violence against a Palestinian man in the Occupied Territories, her integrity and determination are challenged.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848063'&amp;EntityType='LinearSchedule'&amp;EntityId='1eb29861-953f-4da9-92fd-5bbdec18e76a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260305202000 +0000" stop="20260305220000 +0000">
+		<title>Good Luck Sam</title>
+		<desc>Sam and Stéphane, childhood friends and ski equipment designers, embark on a wild quest to save their struggling business. They hatch a plan to enter Sam into the Winter Olympics, and have him compete under his father’s home country of Algeria.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848076'&amp;EntityType='LinearSchedule'&amp;EntityId='dc53af17-7085-4ea3-b4cd-1cb623241c54'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260305220000 +0000" stop="20260305233500 +0000">
+		<title>Baltic Files I - The Body On The Beach</title>
+		<desc>After being transferred to the German-Danish border, Chief Inspector Svenja is tasked with a case involving a body on a beach. With her new colleague Antione, she investigates a case which involves a liquor dealer and a tragedy that goes back decades.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848015'&amp;EntityType='LinearSchedule'&amp;EntityId='d9dffdcb-dc74-4951-bea7-133236758176'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260305233500 +0000" stop="20260306014000 +0000">
+		<title>Games People Play</title>
+		<desc>An old group of friends gathers to celebrate Mitzi’s surprise birthday party over a nostalgic weekend at an idyllic seaside villa – just like they used to do as teenagers. Mitzi sets off a game that brings old feelings and power dynamics to the surface.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12848035'&amp;EntityType='LinearSchedule'&amp;EntityId='364a3a82-916f-4cf3-9682-336680b9bb73'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260306014000 +0000" stop="20260306032500 +0000">
+		<title>Hunters On A White Field</title>
+		<desc>Deep in the Swedish woods, three friends go on an extended weekend hunting trip. After an initial spell of success, the animals suddenly vanish without a trace. Despite being in a forest without animals, the men decide that the hunt must continue.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848039'&amp;EntityType='LinearSchedule'&amp;EntityId='cc5b1702-9978-4036-b456-b5dac79920bc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260306032500 +0000" stop="20260306051500 +0000">
+		<title>Hippocrates</title>
+		<desc>Benjamin dreams of being a great doctor, but his internship at his father’s ward doesn’t turn out the way he hoped. His experience as a junior doctor, with its overwhelming responsibility and stiff competition, forces him to confront his limits and fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848056'&amp;EntityType='LinearSchedule'&amp;EntityId='4bc50b9c-72be-494f-a18b-7ee559a085b8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260306051500 +0000" stop="20260306072000 +0000">
+		<title>All The Songs We Never Sang</title>
+		<desc>Rebellious teen Natsumi ventures from Tokyo to a small island to meet her aunt and learn the art of pearl diving (but secretly to find a treasure she was told about as a child).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848098'&amp;EntityType='LinearSchedule'&amp;EntityId='bd40a372-78b8-4ca6-92c9-2316d458abe8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260306072000 +0000" stop="20260306101000 +0000">
+		<title>Stormskerry Maja</title>
+		<desc>At 17, Maja marries humble fisherman Janne and starts a family on the remote island of Stormskerry, where survival is a constant challenge. Amidst the hardships, Maja awakens to her potential, finding resilience and a love that transcends life and death.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12847991'&amp;EntityType='LinearSchedule'&amp;EntityId='1a458d2f-e06b-484f-914a-4f8d8bd0e95f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260306101000 +0000" stop="20260306120000 +0000">
+		<title>Cortina Express</title>
+		<desc>During the Christmas holidays in Cortina, a colorful cast of characters cross paths among the snow-capped Ampezzo mountains. Between love, redemption, and second-chances, their lives collide in a series of hilarious and heartfelt quests for a happy ending</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848087'&amp;EntityType='LinearSchedule'&amp;EntityId='bf4894a6-bb94-4dbd-b71e-31be37ddda40'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260306120000 +0000" stop="20260306140000 +0000">
+		<title>Like Crazy</title>
+		<desc>Two mental patients, a motor-mouthed fantasist and a tattooed introvert, who met at a community hospital, fled the hospital to embark on a road trip from Tuscany to Rome, in search of love and happiness in the open-air nuthouse - the world of sane people.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12847995'&amp;EntityType='LinearSchedule'&amp;EntityId='fd98d571-7446-47d4-9b0d-9ed898b5e417'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260306140000 +0000" stop="20260306154500 +0000">
+		<title>The Traveller: The Temptation of Evil</title>
+		<desc>Captain Kandinsky is called upon to investigate the death of a dentist whose body was found charred. Kandinsky doubts the official verdict of suicide when he discovers two other victims whose bodies were also found charred in the same region.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12847999'&amp;EntityType='LinearSchedule'&amp;EntityId='35a4d438-66b7-4134-b28a-e78f1d99f00f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260306154500 +0000" stop="20260306175000 +0000">
+		<title>El Alamein – The Line of Fire</title>
+		<desc>Against a backdrop of searing daytime heat and chilling nighttime cold, three-time Italian Academy Awards winner Enzo Monteleone paints a gritty, powerful WW II epic of the Italian army’s battle with the Germans to drive Allied Forces from North Africa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12848008'&amp;EntityType='LinearSchedule'&amp;EntityId='2b6477d7-2fb6-4fb2-9612-bae2fcd9afd8'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260306161500 +0000" stop="20260306173000 +0000">
 		<title>Survivor 50 - EP 1</title>
 		<desc>A record 24 castaways return to Fiji for this milestone 50th anniversary season, ranging from multi-season legends to New Era standouts.</desc>
@@ -4367,13 +4427,13 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12863336'&amp;EntityType='LinearSchedule'&amp;EntityId='483a40e1-4b61-4729-8cbe-27e9de31bb53'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260307122000 +0000" stop="20260307143000 +0000">
-		<title>Singapore Premier League 2025/2026: Young Lions vs BG Tampines Rovers FC</title>
+		<title>Singapore Premier League 2025/2026: Lion City Sailors FC vs Geylang International FC</title>
 		<desc>The Singapore Cup 2025/26 kicks off on 1 November, with clubs set to face off in a single round-robin group stage for a place in the semi-finals. The tournament will culminate in the final at the newly re-turfed Jalan Besar Stadium on 10 January 2026.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12928720'&amp;EntityType='LinearSchedule'&amp;EntityId='82b01c48-a79a-4d8e-8e7d-63e81cae77e7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13012111'&amp;EntityType='LinearSchedule'&amp;EntityId='82b01c48-a79a-4d8e-8e7d-63e81cae77e7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260307143000 +0000" stop="20260307160000 +0000">
 		<title>No Programme available now. Next Broadcast on 8th March, Sunday 8.20pm. Singapore Premier League 2025/2026</title>
-		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs Geylang International FC on 8th March, Sunday 8.20pm. Please stay tuned!</desc>
+		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Young Lions vs BG Tampines Rovers FC on 8th March, Sunday 8.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12863243'&amp;EntityType='LinearSchedule'&amp;EntityId='49cf26a6-511f-4acb-9dcb-b7973f3cb701'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260307160000 +0000" stop="20260308122000 +0000">
@@ -4450,11 +4510,6 @@
 		<title>No programme available now. Next broadcast on 8th February, Sunday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 8th February, Sunday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12881159'&amp;EntityType='LinearSchedule'&amp;EntityId='9c8ce309-a6e8-4535-bec9-a7991bd55655'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260307160000 +0000" stop="20260308160000 +0000">
-		<title>No Programme available now. Next Broadcast on 12th March, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Bangkok United on 12th March, Thursday 8.05pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961337'&amp;EntityType='LinearSchedule'&amp;EntityId='9323ba74-d558-44dc-b555-9481b39061f9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260306161725 +0000" stop="20260306171742 +0000">
 		<title>MasterChef Australia Season 02 - EP72</title>
@@ -6545,5 +6600,65 @@
 		<title>Karaoke Crushers!</title>
 		<desc>Grab your mic and get ready to belt out your best vocals! You better warn the neighbours!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12961433'&amp;EntityType='LinearSchedule'&amp;EntityId='4d4f6904-ded0-431b-915b-4180ddc719c5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260306175000 +0000" stop="20260306200000 +0000">
+		<title>Games People Play</title>
+		<desc>An old group of friends gathers to celebrate Mitzi’s surprise birthday party over a nostalgic weekend at an idyllic seaside villa – just like they used to do as teenagers. Mitzi sets off a game that brings old feelings and power dynamics to the surface.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12862317'&amp;EntityType='LinearSchedule'&amp;EntityId='b53fa7b1-42fd-4cdc-b021-fa54502079e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260306200000 +0000" stop="20260306220000 +0000">
+		<title>Hippocrates</title>
+		<desc>Benjamin dreams of being a great doctor, but his internship at his father’s ward doesn’t turn out the way he hoped. His experience as a junior doctor, with its overwhelming responsibility and stiff competition, forces him to confront his limits and fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862357'&amp;EntityType='LinearSchedule'&amp;EntityId='9b34ce51-1a26-4033-930e-712a916920fa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260306220000 +0000" stop="20260307000000 +0000">
+		<title>Like Crazy</title>
+		<desc>Two mental patients, a motor-mouthed fantasist and a tattooed introvert, who met at a community hospital, fled the hospital to embark on a road trip from Tuscany to Rome, in search of love and happiness in the open-air nuthouse - the world of sane people.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862396'&amp;EntityType='LinearSchedule'&amp;EntityId='c06c775d-5c39-4506-8fe4-cb4025cb23e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260307000000 +0000" stop="20260307015500 +0000">
+		<title>Our Children</title>
+		<desc>A doctor brings a boy to Belgium and raises him as his own. When the boy reaches manhood, he gets married and starts his own family, but he still relies on the doctor, his adoptive father. When trouble strikes his family, dependence turns into domination.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862405'&amp;EntityType='LinearSchedule'&amp;EntityId='9ee2f001-0ed5-49d5-9ddf-cedcea7ca9df'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260307015500 +0000" stop="20260307044500 +0000">
+		<title>Stormskerry Maja</title>
+		<desc>At 17, Maja marries humble fisherman Janne and starts a family on the remote island of Stormskerry, where survival is a constant challenge. Amidst the hardships, Maja awakens to her potential, finding resilience and a love that transcends life and death.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862309'&amp;EntityType='LinearSchedule'&amp;EntityId='d3661686-62e6-451f-a770-b82fb5c50fb4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260307044500 +0000" stop="20260307062500 +0000">
+		<title>Oddball</title>
+		<desc>An eccentric chicken farmer, with the help of his granddaughter, trains his mischievous dog Oddball to protect a penguin sanctuary from fox attacks in an attempt to reunite his family and save their seaside town.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862365'&amp;EntityType='LinearSchedule'&amp;EntityId='8b4baa2c-bfb0-4840-b4cd-4d744cace4a1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260307062500 +0000" stop="20260307080500 +0000">
+		<title>The Traveller: The Temptation of Evil</title>
+		<desc>Captain Kandinsky is called upon to investigate the death of a dentist whose body was found charred. Kandinsky doubts the official verdict of suicide when he discovers two other victims whose bodies were also found charred in the same region.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862349'&amp;EntityType='LinearSchedule'&amp;EntityId='410c3199-75bf-4ca9-871e-579b784590b8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260307080500 +0000" stop="20260307093500 +0000">
+		<title>Top Dogs</title>
+		<desc>A dramedy about two estranged brothers from Normandy. Antoine is happily married with two kids and a successful boat driver, whereas Christian is a globe-trotting hustler. When Antoine becomes involved in sleazy activities, Christian comes to his rescue. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862305'&amp;EntityType='LinearSchedule'&amp;EntityId='db1957b8-5311-42e3-8ba1-42badc4eafaa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260307093500 +0000" stop="20260307113500 +0000">
+		<title>El Alamein – The Line of Fire</title>
+		<desc>Against a backdrop of searing daytime heat and chilling nighttime cold, three-time Italian Academy Awards winner Enzo Monteleone paints a gritty, powerful WW II epic of the Italian army’s battle with the Germans to drive Allied Forces from North Africa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862328'&amp;EntityType='LinearSchedule'&amp;EntityId='9a922412-9f2b-4559-ad21-cf53d6922fa0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260307113500 +0000" stop="20260307130000 +0000">
+		<title>Heavenly Nomadic</title>
+		<desc>A family of nomads dwelling high in the mountains of Kyrgyzstan doesn't need any of the conveniences of modern civilization in order to be happy. But progress is creeping into their lives regardless, destroying legends and traditions as it comes. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862341'&amp;EntityType='LinearSchedule'&amp;EntityId='da637a62-7229-4359-9959-effb33adb8aa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260307130000 +0000" stop="20260307144500 +0000">
+		<title>Sima's Song</title>
+		<desc>In 1970s Afghanistan, best friends Suraya and Sima are torn apart by political upheaval. Suraya is a wealthy communist and Sima is a traditional singer, and though their paths diverge, their enduring bond proves stronger than ideology.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862389'&amp;EntityType='LinearSchedule'&amp;EntityId='ca2e3d03-8d38-4250-82bd-0d64fe5d08bd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260307144500 +0000" stop="20260307163000 +0000">
+		<title>Empty Nets</title>
+		<desc>Amir loves Narges and Narges loves Amir. But their hopes and dreams for a life together collide head on with the web of tradition, corruption, and social hierarchy that continues to rule over the lives of a new generation in Iran. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12862376'&amp;EntityType='LinearSchedule'&amp;EntityId='d64b03df-7a60-4a21-9cb9-75fcf00d507e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
