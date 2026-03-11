@@ -36,6 +36,10 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -91,10 +95,6 @@
 	<channel id="158963">
 		<display-name>NOW Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510610'&amp;EntityType='Item'&amp;EntityId='158963'&amp;Width=193&amp;Height=187" />
-	</channel>
-	<channel id="382872">
-		<display-name>CinemaWorld</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260311160000 +0000" stop="20260311163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 30</title>
@@ -1370,6 +1370,26 @@
 		<title>No programme available now. Next broadcast on 13th February, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 13th February, Friday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12969665'&amp;EntityType='LinearSchedule'&amp;EntityId='568a8436-8db0-417d-b441-eb6fc3a457e2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260311160000 +0000" stop="20260312120500 +0000">
+		<title>No Programme available now. Next Broadcast on 12th March, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Bangkok United on 12th March, Thursday 8.05pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961357'&amp;EntityType='LinearSchedule'&amp;EntityId='7f6d4637-fd19-44ae-a478-d97660db5954'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260312120500 +0000" stop="20260312141500 +0000">
+		<title>AFC Champions League Two 2025/26: BG Tampines Rovers FC vs Bangkok United</title>
+		<desc>AFC Champions League Two 2025/26 will be the 22nd edition of Asia’s second-tier club football tournament. This season features 32 teams competing in a round-robin group stage format from September to December 2025 and the knock-out stage from February to May 2025, with the winner given an indirect preliminary stage slot for the AFC Champions League Elite 2026/27. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12961361'&amp;EntityType='LinearSchedule'&amp;EntityId='ae3c5bee-a60e-48f5-9cb0-f8d0cc5ccbf6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260312141500 +0000" stop="20260312160000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd March, Monday 12.22am. Carabao Cup 2025/26 Final</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26 Final: Arsenal vs Manchester City on 23rd March, Monday 12.22am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12961353'&amp;EntityType='LinearSchedule'&amp;EntityId='c8e95369-4ea4-42bf-827d-442271f4649a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260312160000 +0000" stop="20260313160000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd March, Monday 12.22am. Carabao Cup 2025/26 Final</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26 Final: Arsenal vs Manchester City on 23rd March, Monday 12.22am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12970357'&amp;EntityType='LinearSchedule'&amp;EntityId='442f2370-d8c8-4a92-a833-9b0e79201ab7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260311150605 +0000" stop="20260311162633 +0000">
 		<title>MasterChef Australia Season 03 - MasterClass 10</title>
@@ -3441,86 +3461,6 @@
 		<desc>Big songs and big atitude! It's time to celebrate the biggest rock bands in the world, ever!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12970397'&amp;EntityType='LinearSchedule'&amp;EntityId='72f94678-9ab0-43f1-9118-24ea9768cc38'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="382872" start="20260311145500 +0000" stop="20260311163500 +0000">
-		<title>Helen Dorn: A Little Bit Of Freedom</title>
-		<desc>Haunted by a missing boy's case from 14 years ago, Helen Dorn recently discovers a lead linking to the alleged perpetrator, Ron Faber. Dorn immediately heads for Hamburg when she learns that Faber was apprehended with a deceased Chinese boy in his van.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12932847'&amp;EntityType='LinearSchedule'&amp;EntityId='a8c70308-1284-4245-94dc-6ce7c5da6cac'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260311163500 +0000" stop="20260311183500 +0000">
-		<title>Life Feels Good</title>
-		<desc>The true story of Mateusz, a man suffering from cerebral palsy, who in his early childhood had been diagnosed as a retard with no contact with the outside world. After twenty-five years it turned out that he was a perfectly normal and intelligent person.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12957960'&amp;EntityType='LinearSchedule'&amp;EntityId='a21c34e6-ac75-4386-be48-6a853849bd10'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260311183500 +0000" stop="20260311201000 +0000">
-		<title>Black Snow</title>
-		<desc>Gosha is a trucker in northern Yakutia, who supplies his community with food, alongside low quality vodka which contributes to their alcoholism. When his truck breaks down during one of his trips, he finds himself alone in the wilderness. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12957980'&amp;EntityType='LinearSchedule'&amp;EntityId='8860afa0-c494-45ac-8a6c-dd3b4c594635'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260311201000 +0000" stop="20260311220000 +0000">
-		<title>Hunters On A White Field</title>
-		<desc>Deep in the Swedish woods, three friends go on an extended weekend hunting trip. After an initial spell of success, the animals suddenly vanish without a trace. Despite being in a forest without animals, the men decide that the hunt must continue.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12958008'&amp;EntityType='LinearSchedule'&amp;EntityId='c403f371-c306-404d-a833-8193dded5f48'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260311220000 +0000" stop="20260311233000 +0000">
-		<title>Until Tomorrow</title>
-		<desc>A single mother's courage is tested when she resorts to desperate measures to hide her illegitimate child from her parents.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12958000'&amp;EntityType='LinearSchedule'&amp;EntityId='3bd3aa6c-aab2-4c75-99aa-46999932f91e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260311233000 +0000" stop="20260312010000 +0000">
-		<title>Train Driver's Diary</title>
-		<desc>As Ilija nears retirement, his record of unintentional deaths as a train driver weighs heavy. His adopted son, Sima, fears following in his footsteps. But as days pass without incident, Ilija's determination to ensure Sima's success takes a dark turn.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12958012'&amp;EntityType='LinearSchedule'&amp;EntityId='6eb7939a-ec64-4e5f-a534-1ef10e36206e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312010000 +0000" stop="20260312023500 +0000">
-		<title>The Traveller: The Temptation of Evil</title>
-		<desc>Captain Kandinsky is called upon to investigate the death of a dentist whose body was found charred. Kandinsky doubts the official verdict of suicide when he discovers two other victims whose bodies were also found charred in the same region.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12957992'&amp;EntityType='LinearSchedule'&amp;EntityId='03aa95ee-fd5d-4bc0-89cd-f37c4e704d82'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312023500 +0000" stop="20260312042500 +0000">
-		<title>A Dose Of Happiness</title>
-		<desc>Vesala’s search for happiness led her into an early marriage and a 3-year-old daughter. After her marriage fails, she and her daughter are brought down a path that leads to hell and back, one which brings her through drugs, fall, fear and redemption.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12957964'&amp;EntityType='LinearSchedule'&amp;EntityId='4cdaefd2-796e-4a91-b055-cf185a81e5a3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312042500 +0000" stop="20260312055500 +0000">
-		<title>Just Like A Woman</title>
-		<desc>Two women travel from Chicago to Santa Fe to escape their suffocating lives. Marilyn dreams of winning a contest held by a famous belly dancing company, while her friend, Mona, has a darker secret. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12957988'&amp;EntityType='LinearSchedule'&amp;EntityId='e18734b5-51e8-4dbf-9f43-69f21a22b767'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312055500 +0000" stop="20260312075000 +0000">
-		<title>A Thousand Times Good Night</title>
-		<desc>Rebecca is one of the world's top war photographers. She must weather a major emotional storm when her husband and young daughters refuse to put up with her dangerous life any longer. They need Rebecca, who, however, loves both her family and her work.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12957968'&amp;EntityType='LinearSchedule'&amp;EntityId='523f0f4a-f785-4b00-9d89-de49cbd3e189'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312075000 +0000" stop="20260312081000 +0000">
-		<title>Confession</title>
-		<desc>Laras was pressured to express his decision to live without children when his in-laws asked him to adopt a child because he was deemed unable to produce offspring.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12957984'&amp;EntityType='LinearSchedule'&amp;EntityId='25b26ac5-a665-48f3-b34b-74050037841e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312081000 +0000" stop="20260312094500 +0000">
-		<title>Helen Dorn: A Little Bit Of Freedom</title>
-		<desc>Haunted by a missing boy's case from 14 years ago, Helen Dorn recently discovers a lead linking to the alleged perpetrator, Ron Faber. Dorn immediately heads for Hamburg when she learns that Faber was apprehended with a deceased Chinese boy in his van.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12958016'&amp;EntityType='LinearSchedule'&amp;EntityId='5e8c6f51-c53d-41e1-8218-f5468835cb52'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312094500 +0000" stop="20260312112000 +0000">
-		<title>The Black Minutes</title>
-		<desc>Vicente Rangel, a musician turned detective, embarks on a police case to catch a murderer of girls in a corrupt oil town on the Gulf of Mexico.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12957996'&amp;EntityType='LinearSchedule'&amp;EntityId='e25c9f15-97a7-4a15-97a0-a5dee919258a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312112000 +0000" stop="20260312130000 +0000">
-		<title>Tokyo Fianc ée</title>
-		<desc>A charming and tender tale of young love and cultural discovery. Amélie, a Japanophile young Belgian woman in Tokyo falls into a whirlwind romance with Rinri, a Francophile Japanese student.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12958004'&amp;EntityType='LinearSchedule'&amp;EntityId='56af112f-1d43-4c2f-ab50-47f659942485'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312130000 +0000" stop="20260312150000 +0000">
-		<title>Like Crazy</title>
-		<desc>Two mental patients, a motor-mouthed fantasist and a tattooed introvert, who met at a community hospital, fled the hospital to embark on a road trip from Tuscany to Rome, in search of love and happiness in the open-air nuthouse - the world of sane people.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12957972'&amp;EntityType='LinearSchedule'&amp;EntityId='b27f162d-bbda-442e-b470-fbd8817f7431'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312150000 +0000" stop="20260312163500 +0000">
-		<title>Helen Dorn: The Seeds Of Violence</title>
-		<desc>At the Hamburg DOM festival, Helen Dorn and forensic scientist Weyer witness a paramedic's brutal assault. When a high-society boy is later found dead, unravelling a dark secret linking the two cases.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12957976'&amp;EntityType='LinearSchedule'&amp;EntityId='59fa2eb9-7d71-4f26-a3e1-77205386fb79'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260312163000 +0000" stop="20260312173000 +0000">
 		<title>Fire Country S1 - EP 11</title>
 		<desc>A former inmate firefighter harboring a grudge against Sharon returns to carry out his revenge.</desc>
@@ -4681,6 +4621,11 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 14th February, Saturday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12998102'&amp;EntityType='LinearSchedule'&amp;EntityId='feb42ddb-0051-46b2-98cc-466e991d2880'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98202" start="20260313160000 +0000" stop="20260314160000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd March, Monday 12.22am. Carabao Cup 2025/26 Final</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26 Final: Arsenal vs Manchester City on 23rd March, Monday 12.22am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12998696'&amp;EntityType='LinearSchedule'&amp;EntityId='8cb63149-30ac-449d-bb17-cf10015811cf'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="558278" start="20260312171118 +0000" stop="20260312180558 +0000">
 		<title>MasterChef Australia Season 03 - Grand Finale</title>
 		<desc>Kate and Michael facee off in the Grand Finale, which consists of three challenges.</desc>
@@ -5239,7 +5184,7 @@
 	<programme channel="558273" start="20260312200601 +0000" stop="20260312201546 +0000">
 		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Cucumber</title>
 		<desc>Cucumber Sandwich</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13028965'&amp;EntityType='LinearSchedule'&amp;EntityId='0bfc57c0-9341-4d82-bb94-4f039838322a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13099055'&amp;EntityType='LinearSchedule'&amp;EntityId='0bfc57c0-9341-4d82-bb94-4f039838322a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558273" start="20260312201546 +0000" stop="20260312202431 +0000">
 		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Lettuce</title>
@@ -5329,7 +5274,7 @@
 	<programme channel="558273" start="20260313025140 +0000" stop="20260313030125 +0000">
 		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Cucumber</title>
 		<desc>Cucumber Sandwich</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13028925'&amp;EntityType='LinearSchedule'&amp;EntityId='967ce33f-4711-4aa7-a191-2a7f85395dab'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13099076'&amp;EntityType='LinearSchedule'&amp;EntityId='967ce33f-4711-4aa7-a191-2a7f85395dab'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558273" start="20260313030125 +0000" stop="20260313031010 +0000">
 		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Lettuce</title>
@@ -5404,7 +5349,7 @@
 	<programme channel="558273" start="20260313062353 +0000" stop="20260313063339 +0000">
 		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Cucumber</title>
 		<desc>Cucumber Sandwich</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13028949'&amp;EntityType='LinearSchedule'&amp;EntityId='4339a39e-b4bb-46af-b7c3-b413ecff9936'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13099080'&amp;EntityType='LinearSchedule'&amp;EntityId='4339a39e-b4bb-46af-b7c3-b413ecff9936'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558273" start="20260313063339 +0000" stop="20260313064224 +0000">
 		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Lettuce</title>
@@ -5499,7 +5444,7 @@
 	<programme channel="558273" start="20260313140026 +0000" stop="20260313141011 +0000">
 		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Cucumber</title>
 		<desc>Cucumber Sandwich</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13029001'&amp;EntityType='LinearSchedule'&amp;EntityId='b043f7c3-592c-440b-ad63-1a51d52d8d37'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13099084'&amp;EntityType='LinearSchedule'&amp;EntityId='b043f7c3-592c-440b-ad63-1a51d52d8d37'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558273" start="20260313141011 +0000" stop="20260313141856 +0000">
 		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Lettuce</title>
@@ -6710,75 +6655,5 @@
 		<title>Whole Lotta Anthems</title>
 		<desc>No filler, just huge Rock anthems from the very best!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12999219'&amp;EntityType='LinearSchedule'&amp;EntityId='7ff7353e-9b01-4912-884c-abfa67c013c4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312163500 +0000" stop="20260312180500 +0000">
-		<title>Train Driver's Diary</title>
-		<desc>As Ilija nears retirement, his record of unintentional deaths as a train driver weighs heavy. His adopted son, Sima, fears following in his footsteps. But as days pass without incident, Ilija's determination to ensure Sima's success takes a dark turn.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969649'&amp;EntityType='LinearSchedule'&amp;EntityId='7599fbfa-718d-46cf-afae-3ed16458058c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312180500 +0000" stop="20260312195500 +0000">
-		<title>A Dose Of Happiness</title>
-		<desc>Vesala’s search for happiness led her into an early marriage and a 3-year-old daughter. After her marriage fails, she and her daughter are brought down a path that leads to hell and back, one which brings her through drugs, fall, fear and redemption.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969603'&amp;EntityType='LinearSchedule'&amp;EntityId='718a7009-0897-4b87-8f19-31c4f81391a3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312195500 +0000" stop="20260312220000 +0000">
-		<title>A Thousand Times Good Night</title>
-		<desc>Rebecca is one of the world's top war photographers. She must weather a major emotional storm when her husband and young daughters refuse to put up with her dangerous life any longer. They need Rebecca, who, however, loves both her family and her work.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969611'&amp;EntityType='LinearSchedule'&amp;EntityId='81cbea0b-ab88-4328-b2e8-2a024cce2fc1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312220000 +0000" stop="20260312233000 +0000">
-		<title>The Black Minutes</title>
-		<desc>Vicente Rangel, a musician turned detective, embarks on a police case to catch a murderer of girls in a corrupt oil town on the Gulf of Mexico.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969618'&amp;EntityType='LinearSchedule'&amp;EntityId='d87594be-308a-4ad5-8c60-4e9a2e6666c2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260312233000 +0000" stop="20260313011500 +0000">
-		<title>Martinez</title>
-		<desc>Martinez, an embittered Chilean in his sixties who has lived in Mexico for the past 40 years, is being forced to retire from his job. As he struggles with life changes, things change as a neighbour suddenly dies.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969701'&amp;EntityType='LinearSchedule'&amp;EntityId='08b9e059-ea11-4994-80d0-383bc4f5bdeb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260313011500 +0000" stop="20260313030000 +0000">
-		<title>Tokyo Fianc ée</title>
-		<desc>A charming and tender tale of young love and cultural discovery. Amélie, a Japanophile young Belgian woman in Tokyo falls into a whirlwind romance with Rinri, a Francophile Japanese student.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969709'&amp;EntityType='LinearSchedule'&amp;EntityId='7c6091d1-3bb6-4efd-8096-a22d1babce99'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260313030000 +0000" stop="20260313050000 +0000">
-		<title>Submission</title>
-		<desc>Lúcia is raped by her husband and presses charges against him. In her quest for justice, she must battle her husband who is the son of the State's Vice Attorney, and the Portuguese legal system with its patriarchal beliefs. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969683'&amp;EntityType='LinearSchedule'&amp;EntityId='d5e24969-86ca-48d5-8d22-b6cf72594469'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260313050000 +0000" stop="20260313070000 +0000">
-		<title>Like Crazy</title>
-		<desc>Two mental patients, a motor-mouthed fantasist and a tattooed introvert, who met at a community hospital, fled the hospital to embark on a road trip from Tuscany to Rome, in search of love and happiness in the open-air nuthouse - the world of sane people.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969625'&amp;EntityType='LinearSchedule'&amp;EntityId='ae6e3d86-d040-43b1-8eb5-368503cd5f9a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260313070000 +0000" stop="20260313083000 +0000">
-		<title>Victoria Must Go</title>
-		<desc>Hedvig and Henrik's new stepmother Victoria is annoying and constantly introducing new rules. They decide to hire a hitman to get rid of her, and end up persuading a very reluctant immigrant, Carl, to do the job.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969663'&amp;EntityType='LinearSchedule'&amp;EntityId='8ee5ca4f-8a34-45d2-866c-af4cf952d67a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260313083000 +0000" stop="20260313100500 +0000">
-		<title>Helen Dorn: The Seeds Of Violence</title>
-		<desc>At the Hamburg DOM festival, Helen Dorn and forensic scientist Weyer witness a paramedic's brutal assault. When a high-society boy is later found dead, unravelling a dark secret linking the two cases.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969633'&amp;EntityType='LinearSchedule'&amp;EntityId='8862c937-a360-4309-8dec-e432da59aa1e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260313100500 +0000" stop="20260313121500 +0000">
-		<title>A Tale of Samurai Cooking - A True Love Story</title>
-		<desc>Great cook Haru has married into the legendary “Kitchen Samurai” family. But her husband who is the successor of the Funaki family cannot cook at all. Haru makes a vow to make him a superb samurai chef and starts teaching her new husband how to cook.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969717'&amp;EntityType='LinearSchedule'&amp;EntityId='0199147e-2d60-4cf3-abe1-ce630a7e4080'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260313121500 +0000" stop="20260313140000 +0000">
-		<title>Breathing Underwater</title>
-		<desc>When Emma has to leave her picture-perfect life for a women's shelter, covered in bruises and unexpectedly pregnant, her unlikely friendship with a ragtag group of women pushes them all into a fight to take back their power.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969640'&amp;EntityType='LinearSchedule'&amp;EntityId='6258a239-a10c-4b0d-b491-d83e1b552bc8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260313140000 +0000" stop="20260313153500 +0000">
-		<title>The Traveller: The Perched Forest</title>
-		<desc>Commissioner Macéna shows Captain Kandinsky a letter from a ten-year-old boy who claims that a monster in his village forest is behind a string of disappearances. Kandinsky begins the investigation when the boy threatens to confront the culprit himself.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969694'&amp;EntityType='LinearSchedule'&amp;EntityId='423ea0a6-6a69-4acd-928b-ecfddc5620b0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260313153500 +0000" stop="20260313170500 +0000">
-		<title>Helen Dorn: The Last Resort</title>
-		<desc>Haunted by a colleague's suicide and grappling with guilt, Helen Dorn confronts the unspoken accusations of her fellow officers. At the same time, she is assigned to solve a medical student's murder, where she soon uncovers their double life.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969674'&amp;EntityType='LinearSchedule'&amp;EntityId='e26da3b0-dc50-4c4b-8320-b213349e12cc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
