@@ -36,10 +36,6 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -95,6 +91,10 @@
 	<channel id="158963">
 		<display-name>NOW Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510610'&amp;EntityType='Item'&amp;EntityId='158963'&amp;Width=193&amp;Height=187" />
+	</channel>
+	<channel id="382872">
+		<display-name>CinemaWorld</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260313140000 +0000" stop="20260313161500 +0000">
 		<title>Rampage</title>
@@ -1245,16 +1245,6 @@
 		<title>No programme available now. Next broadcast on 15th February, Sunday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 15th February, Sunday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13016693'&amp;EntityType='LinearSchedule'&amp;EntityId='a0c0ac76-87d3-4fe2-a0d4-8227fbb092be'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260313160000 +0000" stop="20260314160000 +0000">
-		<title>No Programme available now. Next Broadcast on 23rd March, Monday 12.22am. Carabao Cup 2025/26 Final</title>
-		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26 Final: Arsenal vs Manchester City on 23rd March, Monday 12.22am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='12998696'&amp;EntityType='LinearSchedule'&amp;EntityId='8cb63149-30ac-449d-bb17-cf10015811cf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260314160000 +0000" stop="20260315160000 +0000">
-		<title>No Programme available now. Next Broadcast on 23rd March, Monday 12.22am. Carabao Cup 2025/26 Final</title>
-		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26 Final: Arsenal vs Manchester City on 23rd March, Monday 12.22am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13017343'&amp;EntityType='LinearSchedule'&amp;EntityId='64933a44-a676-4689-8931-4da1724cfa13'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260313154952 +0000" stop="20260313163958 +0000">
 		<title>MasterChef New Zealand Season 05 - Mystery Box Risotto</title>
@@ -3496,6 +3486,81 @@
 		<desc>Rock, Metal, Grunge, Pop Punk, this playlist has it all and more!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13017469'&amp;EntityType='LinearSchedule'&amp;EntityId='d81e5d9f-71df-4ad6-832e-5191c1eb76cd'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="382872" start="20260313153500 +0000" stop="20260313170500 +0000">
+		<title>Helen Dorn: The Last Resort</title>
+		<desc>Haunted by a colleague's suicide and grappling with guilt, Helen Dorn confronts the unspoken accusations of her fellow officers. At the same time, she is assigned to solve a medical student's murder, where she soon uncovers their double life.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12969674'&amp;EntityType='LinearSchedule'&amp;EntityId='e26da3b0-dc50-4c4b-8320-b213349e12cc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260313170500 +0000" stop="20260313184500 +0000">
+		<title>Martinez</title>
+		<desc>Martinez, an embittered Chilean in his sixties who has lived in Mexico for the past 40 years, is being forced to retire from his job. As he struggles with life changes, things change as a neighbour suddenly dies.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998172'&amp;EntityType='LinearSchedule'&amp;EntityId='8a52ae26-e270-4fce-8454-3698d2427d21'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260313184500 +0000" stop="20260313201000 +0000">
+		<title>Victoria Must Go</title>
+		<desc>Hedvig and Henrik's new stepmother Victoria is annoying and constantly introducing new rules. They decide to hire a hitman to get rid of her, and end up persuading a very reluctant immigrant, Carl, to do the job.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998103'&amp;EntityType='LinearSchedule'&amp;EntityId='81a3aa77-9a65-4ad9-a977-ba3f4e81a463'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260313201000 +0000" stop="20260313220500 +0000">
+		<title>Submission</title>
+		<desc>Lúcia is raped by her husband and presses charges against him. In her quest for justice, she must battle her husband who is the son of the State's Vice Attorney, and the Portuguese legal system with its patriarchal beliefs. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998176'&amp;EntityType='LinearSchedule'&amp;EntityId='bc04fac4-b585-48ec-b879-5a6419f8c662'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260313220500 +0000" stop="20260314001000 +0000">
+		<title>A Tale of Samurai Cooking - A True Love Story</title>
+		<desc>Great cook Haru has married into the legendary “Kitchen Samurai” family. But her husband who is the successor of the Funaki family cannot cook at all. Haru makes a vow to make him a superb samurai chef and starts teaching her new husband how to cook.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998127'&amp;EntityType='LinearSchedule'&amp;EntityId='02863998-d365-44fb-a3d9-10e9dfe66c64'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314001000 +0000" stop="20260314014000 +0000">
+		<title>Djam</title>
+		<desc>Djam, a bold young Greek woman, travels to Istanbul to look for an engine part for her uncle’s boat. She meets a stranded and penniless Avril, who is a volunteer for Syrian refugees. Together, they embark on a lively, music-filled journey to Mytilene.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998112'&amp;EntityType='LinearSchedule'&amp;EntityId='b1911084-fc43-4521-a0fb-018d158ed81c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314014000 +0000" stop="20260314032000 +0000">
+		<title>Breathing Underwater</title>
+		<desc>When Emma has to leave her picture-perfect life for a women's shelter, covered in bruises and unexpectedly pregnant, her unlikely friendship with a ragtag group of women pushes them all into a fight to take back their power.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998180'&amp;EntityType='LinearSchedule'&amp;EntityId='9ceb4b4c-593a-4031-adc6-c93eea61c36b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314032000 +0000" stop="20260314051500 +0000">
+		<title>El Alamein – The Line of Fire</title>
+		<desc>Against a backdrop of searing daytime heat and chilling nighttime cold, three-time Italian Academy Awards winner Enzo Monteleone paints a gritty, powerful WW II epic of the Italian army’s battle with the Germans to drive Allied Forces from North Africa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998119'&amp;EntityType='LinearSchedule'&amp;EntityId='3dabf910-f849-4cda-aa98-c34f7f09b599'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314051500 +0000" stop="20260314065000 +0000">
+		<title>The Traveller: The Perched Forest</title>
+		<desc>Commissioner Macéna shows Captain Kandinsky a letter from a ten-year-old boy who claims that a monster in his village forest is behind a string of disappearances. Kandinsky begins the investigation when the boy threatens to confront the culprit himself.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998163'&amp;EntityType='LinearSchedule'&amp;EntityId='04532998-dc47-44ce-8f61-4416308c983f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314065000 +0000" stop="20260314082000 +0000">
+		<title>Sarah Kohr: Ghosts Of The Past</title>
+		<desc>Ex-gang leader Degen escapes prison after 19 years, putting inspector Sarah Kohr and prosecutor Anton Mehringer in danger. Unable to count on the authorities without risking their secrets, they must confront their pasts when Degen kidnaps Anton's son.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998196'&amp;EntityType='LinearSchedule'&amp;EntityId='60dfd1fb-ecc3-4118-ab0b-b0a0e6e041dd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314082000 +0000" stop="20260314095000 +0000">
+		<title>Helen Dorn: The Last Resort</title>
+		<desc>Haunted by a colleague's suicide and grappling with guilt, Helen Dorn confronts the unspoken accusations of her fellow officers. At the same time, she is assigned to solve a medical student's murder, where she soon uncovers their double life.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998135'&amp;EntityType='LinearSchedule'&amp;EntityId='55eaa70b-f7a3-46eb-b75c-9eff05669f94'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314095000 +0000" stop="20260314112000 +0000">
+		<title>My Son</title>
+		<desc>When photographer Marlene's son Jason faces a life-altering skateboarding accident, their journey to healing takes unexpected turns. As they travel from Berlin to Switzerland, Jason slowly convinces his mother that life takes detours.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998145'&amp;EntityType='LinearSchedule'&amp;EntityId='d029a2ee-f155-4bb2-b464-6eea619bb8a6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314112000 +0000" stop="20260314130000 +0000">
+		<title>Ghost Mountaineer</title>
+		<desc>In the former Soviet Union, a group of Estonian students go hiking in Siberia. After their unpopular leader Olle vanishes, his rival Eero leads the group to seek help, and a series of bizarre and terrifying events unfold.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998154'&amp;EntityType='LinearSchedule'&amp;EntityId='206cfb48-9373-48c2-963c-d6431e841c27'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314130000 +0000" stop="20260314152000 +0000">
+		<title>They Say Nothing Stays The Same</title>
+		<desc>Toichi, a solitary river boatman, watches his quiet world shift as a bridge across the river threatens to upend his livelihood. When he takes in a mysterious young girl with nowhere to go, her presence leads him toward unexpected change.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998188'&amp;EntityType='LinearSchedule'&amp;EntityId='a64b5705-6ba5-4996-b6dd-a75549652914'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314152000 +0000" stop="20260314165500 +0000">
+		<title>Helen Dorn: The Red Cloth</title>
+		<desc>A fatal arson incident draws Helen Dorn into a far-left extremist community, who has targeted wealthy real estate agent Ralph Wagner. While they deny any involvement in the crime, it is indeed suspicious that they were previously almost ousted by Wagner.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='12998192'&amp;EntityType='LinearSchedule'&amp;EntityId='756727d2-796d-4c33-a7b4-5d247612840b'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260314163000 +0000" stop="20260314173000 +0000">
 		<title>The Ark S1 - EP 9</title>
 		<desc>Follows the remaining crew of a spacecraft known as Ark One, who must become the best versions of themselves to stay on course and survive after experiencing a catastrophic event that caused massive destruction and loss of life.</desc>
@@ -4610,11 +4675,6 @@
 		<title>No programme available now. Next broadcast on 16th February, Monday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 16th February, Monday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13031269'&amp;EntityType='LinearSchedule'&amp;EntityId='c83099e4-d79f-4ae6-9e31-b9211ce5abe6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260315160000 +0000" stop="20260316160000 +0000">
-		<title>No Programme available now. Next Broadcast on 23rd March, Monday 12.22am. Carabao Cup 2025/26 Final</title>
-		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26 Final: Arsenal vs Manchester City on 23rd March, Monday 12.22am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13031725'&amp;EntityType='LinearSchedule'&amp;EntityId='e8cf8a6f-1fe5-42b6-8f10-40089aa451d0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260314164257 +0000" stop="20260314173547 +0000">
 		<title>MasterChef New Zealand Season 06 - EP13</title>
@@ -6790,5 +6850,75 @@
 		<title>Crank it to the max! Anthems that Rock!</title>
 		<desc>The most epic playlist of the biggest Rock n Roll anthems we have moshed to over the decades</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13032109'&amp;EntityType='LinearSchedule'&amp;EntityId='d94654d4-bbf0-4c00-a0e3-7ba93dc2c430'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314165500 +0000" stop="20260314183000 +0000">
+		<title>Djam</title>
+		<desc>Djam, a bold young Greek woman, travels to Istanbul to look for an engine part for her uncle’s boat. She meets a stranded and penniless Avril, who is a volunteer for Syrian refugees. Together, they embark on a lively, music-filled journey to Mytilene.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016707'&amp;EntityType='LinearSchedule'&amp;EntityId='2d89309b-e07e-46af-9aaf-cfe4d35a174c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314183000 +0000" stop="20260314202500 +0000">
+		<title>El Alamein – The Line of Fire</title>
+		<desc>Against a backdrop of searing daytime heat and chilling nighttime cold, three-time Italian Academy Awards winner Enzo Monteleone paints a gritty, powerful WW II epic of the Italian army’s battle with the Germans to drive Allied Forces from North Africa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016715'&amp;EntityType='LinearSchedule'&amp;EntityId='cc41da5e-8e01-4f16-89df-d97465346afa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314202500 +0000" stop="20260314220000 +0000">
+		<title>Sarah Kohr: Ghosts Of The Past</title>
+		<desc>Ex-gang leader Degen escapes prison after 19 years, putting inspector Sarah Kohr and prosecutor Anton Mehringer in danger. Unable to count on the authorities without risking their secrets, they must confront their pasts when Degen kidnaps Anton's son.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016772'&amp;EntityType='LinearSchedule'&amp;EntityId='f2d2cdf0-972d-409e-b539-d1da76227c22'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314220000 +0000" stop="20260314233000 +0000">
+		<title>My Son</title>
+		<desc>When photographer Marlene's son Jason faces a life-altering skateboarding accident, their journey to healing takes unexpected turns. As they travel from Berlin to Switzerland, Jason slowly convinces his mother that life takes detours.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016797'&amp;EntityType='LinearSchedule'&amp;EntityId='9ab4a693-636b-498c-8ecc-3db9a43a742b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260314233000 +0000" stop="20260315010500 +0000">
+		<title>Oddball</title>
+		<desc>An eccentric chicken farmer, with the help of his granddaughter, trains his mischievous dog Oddball to protect a penguin sanctuary from fox attacks in an attempt to reunite his family and save their seaside town.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016781'&amp;EntityType='LinearSchedule'&amp;EntityId='1682b8a9-0faa-4d3e-a6d9-b305a7846430'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260315010500 +0000" stop="20260315025000 +0000">
+		<title>Ghost Mountaineer</title>
+		<desc>In the former Soviet Union, a group of Estonian students go hiking in Siberia. After their unpopular leader Olle vanishes, his rival Eero leads the group to seek help, and a series of bizarre and terrifying events unfold.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016789'&amp;EntityType='LinearSchedule'&amp;EntityId='37e61413-63e6-49e0-acf0-5daf76232202'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260315025000 +0000" stop="20260315043500 +0000">
+		<title>Cortina Express</title>
+		<desc>During the Christmas holidays in Cortina, a colorful cast of characters cross paths among the snow-capped Ampezzo mountains. Between love, redemption, and second-chances, their lives collide in a series of hilarious and heartfelt quests for a happy ending</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016748'&amp;EntityType='LinearSchedule'&amp;EntityId='b86032eb-009a-4d3e-8541-ea3de8f29613'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260315043500 +0000" stop="20260315065500 +0000">
+		<title>They Say Nothing Stays The Same</title>
+		<desc>Toichi, a solitary river boatman, watches his quiet world shift as a bridge across the river threatens to upend his livelihood. When he takes in a mysterious young girl with nowhere to go, her presence leads him toward unexpected change.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016805'&amp;EntityType='LinearSchedule'&amp;EntityId='8d012fe6-024a-4e13-8791-b3ad6342a887'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260315065500 +0000" stop="20260315082500 +0000">
+		<title>Sarah Kohr: Ghost Lights</title>
+		<desc>In a post-pandemic Europe, conspiracy theorist Felix Morgenroth becomes obsessed with exposing the "coronavirus lie." Convinced that physicians Carsten and Lisa Kippmann were behind the conspiracy, Felix seeks retribution through a devastating explosion.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016756'&amp;EntityType='LinearSchedule'&amp;EntityId='357d2fb5-a4b5-4b01-90c9-77f48d324242'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260315082500 +0000" stop="20260315095500 +0000">
+		<title>Helen Dorn: The Red Cloth</title>
+		<desc>A fatal arson incident draws Helen Dorn into a far-left extremist community, who has targeted wealthy real estate agent Ralph Wagner. While they deny any involvement in the crime, it is indeed suspicious that they were previously almost ousted by Wagner.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016722'&amp;EntityType='LinearSchedule'&amp;EntityId='2cc29b62-4f49-4637-a760-521864082940'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260315095500 +0000" stop="20260315124000 +0000">
+		<title>Stormskerry Maja</title>
+		<desc>At 17, Maja marries humble fisherman Janne and starts a family on the remote island of Stormskerry, where survival is a constant challenge. Amidst the hardships, Maja awakens to her potential, finding resilience and a love that transcends life and death.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016729'&amp;EntityType='LinearSchedule'&amp;EntityId='5cdc78b5-b5ba-453b-857c-5b1633a17112'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260315124000 +0000" stop="20260315130000 +0000">
+		<title>Sweet Squad</title>
+		<desc>In Kalimantan Barat, teenager Rizal faces a daunting choice to become a sugar courier across the Indonesian-Malaysian border to fund his mother's medical bills. With friends Iwan and Ajung, they risk it all for a chance at saving his mother’s life.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016764'&amp;EntityType='LinearSchedule'&amp;EntityId='5910bcc9-1def-450d-b735-5c36f8efa883'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260315130000 +0000" stop="20260315144500 +0000">
+		<title>Moon's Walking</title>
+		<desc>On the day of her grandmother’s memorial, 16-year-old Jung-hee escapes a volatile home and goes on a journey in search for the truth behind her grandfather’s disappearance.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016740'&amp;EntityType='LinearSchedule'&amp;EntityId='df54b897-7265-4ff2-b498-c61214fdeec0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260315144500 +0000" stop="20260315162500 +0000">
+		<title>Helen Dorn: The Right To Remain Silent</title>
+		<desc>During a hunting trip, Rolf Kanther, director of a military tech manufacturer, is shot right next to his daughter. Inspector Helen Dorn is sent to investigate the suspicious death, and needs to find out if it's an accident or a calculated murder.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13016793'&amp;EntityType='LinearSchedule'&amp;EntityId='2087fcbe-919b-41c2-8d83-d6a5701da75b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
