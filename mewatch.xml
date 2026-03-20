@@ -56,6 +56,10 @@
 		<display-name>FoodON</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089305'&amp;EntityType='Item'&amp;EntityId='558273'&amp;Width=150&amp;Height=59" />
 	</channel>
+	<channel id="558279">
+		<display-name>Vijay Takkar</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13200785'&amp;EntityType='Item'&amp;EntityId='558279'&amp;Width=157&amp;Height=250" />
+	</channel>
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
@@ -91,10 +95,6 @@
 	<channel id="158963">
 		<display-name>NOW Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510610'&amp;EntityType='Item'&amp;EntityId='158963'&amp;Width=193&amp;Height=187" />
-	</channel>
-	<channel id="382872">
-		<display-name>CinemaWorld</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260319160000 +0000" stop="20260319163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 35</title>
@@ -2216,6 +2216,121 @@
 		<desc>Comedy idol Lee Jin-ho joins the show. Did Lee Yong-jin actually debut thanks to him?! What meal should Lee Jin-ho treat Lee Yong-jin to as payback?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13200782'&amp;EntityType='LinearSchedule'&amp;EntityId='b3ed800d-c0ce-43e7-8db7-0e11c034d7e7'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="558279" start="20260319160000 +0000" stop="20260319170000 +0000">
+		<title>Neeya Naana - EP614</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222338'&amp;EntityType='LinearSchedule'&amp;EntityId='0c8e5bd2-afdf-4dbe-8a19-0868a205ca2c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260319170000 +0000" stop="20260319180000 +0000">
+		<title>Neeya Naana - EP615</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222342'&amp;EntityType='LinearSchedule'&amp;EntityId='575ad4f2-b746-4937-b93d-5ecf93e81259'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260319180000 +0000" stop="20260319190000 +0000">
+		<title>Neeya Naana - EP616</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222346'&amp;EntityType='LinearSchedule'&amp;EntityId='e8a0ea76-6d83-4d45-b8b4-23940728bc06'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260319190000 +0000" stop="20260319200000 +0000">
+		<title>Neeya Naana - EP617</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222350'&amp;EntityType='LinearSchedule'&amp;EntityId='4b4045a3-cccb-4c80-b7a2-05744baa777e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260319200000 +0000" stop="20260319210000 +0000">
+		<title>Neeya Naana - EP618</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222354'&amp;EntityType='LinearSchedule'&amp;EntityId='8c2f4110-f232-4e68-bfa8-d4085904e279'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260319210000 +0000" stop="20260319220000 +0000">
+		<title>Neeya Naana - EP619</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222358'&amp;EntityType='LinearSchedule'&amp;EntityId='17f09485-7dab-47e0-a083-3d2c5cf7dfac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260319220000 +0000" stop="20260319230000 +0000">
+		<title>Neeya Naana - EP620</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222362'&amp;EntityType='LinearSchedule'&amp;EntityId='c5e6f56f-e8f9-4b71-b69c-0e06a83dd724'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260319230000 +0000" stop="20260320000000 +0000">
+		<title>Neeya Naana - EP621</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222366'&amp;EntityType='LinearSchedule'&amp;EntityId='4f97b6b3-0eed-4cd6-9f02-0411e5da8e50'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320000000 +0000" stop="20260320010000 +0000">
+		<title>Neeya Naana - EP622</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222370'&amp;EntityType='LinearSchedule'&amp;EntityId='d60196ce-bd8b-4f0d-88c4-530525e81e90'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320010000 +0000" stop="20260320020000 +0000">
+		<title>Neeya Naana - EP623</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222374'&amp;EntityType='LinearSchedule'&amp;EntityId='b3384249-588c-4823-9160-96f9240bba48'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320020000 +0000" stop="20260320030000 +0000">
+		<title>Neeya Naana - EP624</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222378'&amp;EntityType='LinearSchedule'&amp;EntityId='bc54cf2b-9a9e-4ada-a68f-95271800dd39'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320030000 +0000" stop="20260320040000 +0000">
+		<title>Neeya Naana - EP625</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222382'&amp;EntityType='LinearSchedule'&amp;EntityId='be3b2c7e-72fb-462c-ac66-8067fd8579e2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320040000 +0000" stop="20260320050000 +0000">
+		<title>Neeya Naana - EP708</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222386'&amp;EntityType='LinearSchedule'&amp;EntityId='8ef4ebca-856b-4f8e-983b-aa01476c6286'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320050000 +0000" stop="20260320060000 +0000">
+		<title>Neeya Naana - EP709</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222390'&amp;EntityType='LinearSchedule'&amp;EntityId='0c382d7f-b20d-49be-abd2-522454033e00'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320060000 +0000" stop="20260320070000 +0000">
+		<title>Neeya Naana - EP617</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222394'&amp;EntityType='LinearSchedule'&amp;EntityId='dc8a5a59-709d-4567-81c0-1279aba6b184'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320070000 +0000" stop="20260320080000 +0000">
+		<title>Neeya Naana - EP618</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222398'&amp;EntityType='LinearSchedule'&amp;EntityId='bb865d42-93a0-4fb9-b517-19a81ad239df'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320080000 +0000" stop="20260320090000 +0000">
+		<title>Neeya Naana - EP710</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222402'&amp;EntityType='LinearSchedule'&amp;EntityId='db5977ee-d9a9-47bd-878b-3d23de6a569c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320090000 +0000" stop="20260320100000 +0000">
+		<title>Neeya Naana - EP711</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222406'&amp;EntityType='LinearSchedule'&amp;EntityId='13d41e38-0999-4e79-8f24-a80ed556d5f9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320100000 +0000" stop="20260320110000 +0000">
+		<title>Neeya Naana - EP806</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222410'&amp;EntityType='LinearSchedule'&amp;EntityId='45a15941-6465-46c1-875d-52c4a0d861f2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320110000 +0000" stop="20260320140000 +0000">
+		<title>Sangili Bungili Kathava Thora</title>
+		<desc>A young man who vows to buy a mansion of his own, moves his extended family into it without knowing that it is haunted.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222414'&amp;EntityType='LinearSchedule'&amp;EntityId='136d5e65-3943-4d95-93e4-68024ab1c278'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320140000 +0000" stop="20260320150000 +0000">
+		<title>Neeya Naana - EP807</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222418'&amp;EntityType='LinearSchedule'&amp;EntityId='a943a641-3409-4e17-953e-a00d9f207a27'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320150000 +0000" stop="20260320160000 +0000">
+		<title>Neeya Naana - EP808</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222422'&amp;EntityType='LinearSchedule'&amp;EntityId='b4bed317-3b32-4949-b31d-024d8b97a621'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320160000 +0000" stop="20260320170000 +0000">
+		<title>Neeya Naana - EP626</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222426'&amp;EntityType='LinearSchedule'&amp;EntityId='580b8f6a-f626-416f-a9ff-49334c5511f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="557763" start="20260319141919 +0000" stop="20260319161309 +0000">
 		<title>Uruguay v Netherlands | Semi-finals | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
 		<desc>Watch the full match replay from the match between Uruguay and Netherlands</desc>
@@ -3159,7 +3274,7 @@
 	<programme channel="556877" start="20260320160000 +0000" stop="20260320163000 +0000">
 		<title>Timmy Time</title>
 		<desc>Being an ‘only lamb in the flock’ Timmy has been used to getting his own way. Now for the first time Timmy is going to have to learn to get along with other little animals. Timmy is going to Nursery! Self-willed and naughty Timmy is going to have to learn how to share things with other youngsters and think about their feelings – not just his. Timmy is a gifted little footballer who needs to learn that it’s not enough to kick the ball – you have to pass it too. Harriet Heron and Osbourne Owl, who run the Nursery are going to have their hands full, but Timmy gets it right in the end with a little help from his friends of the furry, feathery and spikey type.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243306'&amp;EntityType='LinearSchedule'&amp;EntityId='25667a3c-f849-42fb-8485-11d24876fca4'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251559'&amp;EntityType='LinearSchedule'&amp;EntityId='25667a3c-f849-42fb-8485-11d24876fca4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556894" start="20260319160000 +0000" stop="20260319180000 +0000">
 		<title>The Legend Of Hillbilly John</title>
@@ -3455,86 +3570,6 @@
 		<title>Karaoke Crushers!</title>
 		<desc>Grab your mic and get ready to belt out your best vocals! You better warn the neighbours!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219383'&amp;EntityType='LinearSchedule'&amp;EntityId='af9bca3a-4ece-47a2-8b3f-dd33a8592fda'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260319144000 +0000" stop="20260319162500 +0000">
-		<title>Breathing Underwater</title>
-		<desc>When Emma has to leave her picture-perfect life for a women's shelter, covered in bruises and unexpectedly pregnant, her unlikely friendship with a ragtag group of women pushes them all into a fight to take back their power.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13081071'&amp;EntityType='LinearSchedule'&amp;EntityId='6e9ea490-0e14-4414-9c24-eb7aeb417849'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260319162500 +0000" stop="20260319181000 +0000">
-		<title>Passed by Censor</title>
-		<desc>In an Istanbul prison, Zakir is tasked with reading and censoring the letters inmates receive. Tasked with a writing assignment for his night class, Zakir uses a photograph of an inmate's wife for inspiration, but fantasy soon morphs into delusion.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13102971'&amp;EntityType='LinearSchedule'&amp;EntityId='38b16f68-01e7-46b3-9527-b74075c3864f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260319181000 +0000" stop="20260319195500 +0000">
-		<title>The Vanishing Soldier</title>
-		<desc>An 18-year-old Israeli soldier flees the Gaza battlefield and heads back to his girlfriend in Tel Aviv only to discover that the military elite is convinced he was kidnapped in the fog of war.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13103007'&amp;EntityType='LinearSchedule'&amp;EntityId='a44f46dd-4ad3-43bb-b490-e20565dffc1f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260319195500 +0000" stop="20260319220000 +0000">
-		<title>To My Beloved</title>
-		<desc>Fernando is a good man who takes care of his only child, Daniel. Following the death of his wife Ana, every night Fernando recalls their love as he sorts out his beloved dead spouse’s belongings. One day he finds a VHS tape that will change everything. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13103011'&amp;EntityType='LinearSchedule'&amp;EntityId='4d62e06e-8938-40fa-932b-972773850672'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260319220000 +0000" stop="20260319234500 +0000">
-		<title>Hard Shell, Soft Shell</title>
-		<desc>Loved-up oyster farmer Az thinks he’s made it. But when an elaborate proposal goes awry and his girlfriend Jess breaks his heart, Az is forced to confront his understanding of what happiness really looks like – both hers and his own.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13103019'&amp;EntityType='LinearSchedule'&amp;EntityId='89907f0b-a1ba-415e-a1db-0e6d452976dc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260319234500 +0000" stop="20260320011500 +0000">
-		<title>Room 514</title>
-		<desc>When Anna, a young, idealistic Israeli military investigator, confronts an elite officer with accusations of unnecessary violence against a Palestinian man in the Occupied Territories, her integrity and determination are challenged.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13102995'&amp;EntityType='LinearSchedule'&amp;EntityId='fcd9961a-f2aa-4ba9-a2c8-1713dd8b4a75'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320011500 +0000" stop="20260320024500 +0000">
-		<title>You Are Not Alone</title>
-		<desc>When Eva returns to her house on the day of her divorce, she finds a bouquet of red roses outside the door. Attached is the note: "You are not alone." The sender is anonymous.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13103027'&amp;EntityType='LinearSchedule'&amp;EntityId='07a9c17f-93fd-4ceb-b35f-e0b2d5b8ee9f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320024500 +0000" stop="20260320042000 +0000">
-		<title>Future is a Lonely Place</title>
-		<desc>Seeking revenge for his family’s death, Frank stages a crime and turns himself in to infiltrate a prison drug ring. Frank aims to get close to the man responsible for their death, and forms a dangerous bond with a guard along the way.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13102999'&amp;EntityType='LinearSchedule'&amp;EntityId='c482e963-e830-4a12-92b8-18096ecea81b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320042000 +0000" stop="20260320055500 +0000">
-		<title>The Traveller: The Temptation of Evil</title>
-		<desc>Captain Kandinsky is called upon to investigate the death of a dentist whose body was found charred. Kandinsky doubts the official verdict of suicide when he discovers two other victims whose bodies were also found charred in the same region.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13102975'&amp;EntityType='LinearSchedule'&amp;EntityId='5972e0d4-dec6-4183-a4a0-e02962c52fad'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320055500 +0000" stop="20260320072500 +0000">
-		<title>Risks And Side Effects</title>
-		<desc>When Pilates trainer Kathrin needs a new kidney, her husband’s hesitation to be her donor results in a crisis in their marriage. Faced with issues of life and death, the fragility of the couple’s relationship is laid bare.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13103003'&amp;EntityType='LinearSchedule'&amp;EntityId='4c4694fd-94e7-46c5-bdc0-0cc40210fe42'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320072500 +0000" stop="20260320090500 +0000">
-		<title>Breathing Underwater</title>
-		<desc>When Emma has to leave her picture-perfect life for a women's shelter, covered in bruises and unexpectedly pregnant, her unlikely friendship with a ragtag group of women pushes them all into a fight to take back their power.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13102979'&amp;EntityType='LinearSchedule'&amp;EntityId='353af0a9-f27e-476e-b66a-b19025aa3e37'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320090500 +0000" stop="20260320105000 +0000">
-		<title>Hunters On A White Field</title>
-		<desc>Deep in the Swedish woods, three friends go on an extended weekend hunting trip. After an initial spell of success, the animals suddenly vanish without a trace. Despite being in a forest without animals, the men decide that the hunt must continue.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13103015'&amp;EntityType='LinearSchedule'&amp;EntityId='2ab452fd-ec93-462f-a7a8-532a29bc5e5d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320105000 +0000" stop="20260320122500 +0000">
-		<title>In His Hands</title>
-		<desc>Clara, a lawyer, leads a serene but monotonous life alongside her husband Damien and their two children. One evening, she succumbs to the charm of a mysterious sculptor. This one scorching night will have dramatic repercussions for her and her family.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13102983'&amp;EntityType='LinearSchedule'&amp;EntityId='1f25e9eb-b686-4887-8182-3de999db5e50'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320122500 +0000" stop="20260320140000 +0000">
-		<title>Moon's Walking</title>
-		<desc>On the day of her grandmother’s memorial, 16-year-old Jung-hee escapes a volatile home and goes on a journey in search for the truth behind her grandfather’s disappearance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13102987'&amp;EntityType='LinearSchedule'&amp;EntityId='730e2a87-b5a0-4a53-a139-daea637a0a88'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320140000 +0000" stop="20260320153500 +0000">
-		<title>A Murder Of Crows The Detective And The Fear</title>
-		<desc>When Inspector Martin Brühl awakens in the morning, he is alarmed by partner Susanne Koch’s absence. Unbeknownst to him, Susanne witnessed a crime on her nightly walk home. Critically injured in an ATM explosion, she was kidnapped by the perpetrators.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13103023'&amp;EntityType='LinearSchedule'&amp;EntityId='2f1a51ae-a37d-4a0d-8857-5382fd037f38'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320153500 +0000" stop="20260320171500 +0000">
-		<title>Ghost Mountaineer</title>
-		<desc>In the former Soviet Union, a group of Estonian students go hiking in Siberia. After their unpopular leader Olle vanishes, his rival Eero leads the group to seek help, and a series of bizarre and terrifying events unfold.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13102991'&amp;EntityType='LinearSchedule'&amp;EntityId='c6203f06-6703-4f22-b7da-c4b11e0480e0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260320180000 +0000" stop="20260320183000 +0000">
 		<title>Talking Point - EP 36</title>
@@ -4159,12 +4194,12 @@
 	<programme channel="97096" start="20260321000000 +0000" stop="20260321003000 +0000">
 		<title>Detik Semasa - EP 1</title>
 		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13120801'&amp;EntityType='LinearSchedule'&amp;EntityId='0196823f-f119-440b-a87a-61a063c9cb8f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13261964'&amp;EntityType='LinearSchedule'&amp;EntityId='0196823f-f119-440b-a87a-61a063c9cb8f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20260321003000 +0000" stop="20260321010000 +0000">
 		<title>Detik Semasa - EP 2</title>
 		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13120717'&amp;EntityType='LinearSchedule'&amp;EntityId='ccf3c33d-2679-4641-adc5-7a1a1cc309ef'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13261968'&amp;EntityType='LinearSchedule'&amp;EntityId='ccf3c33d-2679-4641-adc5-7a1a1cc309ef'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20260321010000 +0000" stop="20260321040000 +0000">
 		<title>Alibabavum 40 Thirudargalum (1956)</title>
@@ -5481,6 +5516,116 @@
 		<desc>Actor Kim Min-seok, a close friend of youngest MC Xiumin, makes an appearance. And a “killer menu” emerges?one that sends all three MCs into a rage!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13200800'&amp;EntityType='LinearSchedule'&amp;EntityId='cb18f79f-2676-4375-8213-25f64e822c69'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="558279" start="20260320170000 +0000" stop="20260320180000 +0000">
+		<title>Neeya Naana - EP627</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222430'&amp;EntityType='LinearSchedule'&amp;EntityId='98a00bf9-bfb2-4591-80dc-ba6781d56639'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320180000 +0000" stop="20260320190000 +0000">
+		<title>Neeya Naana - EP628</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222434'&amp;EntityType='LinearSchedule'&amp;EntityId='48581bac-68c3-468c-a9f7-80a846b39b21'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320190000 +0000" stop="20260320200000 +0000">
+		<title>Neeya Naana - EP629</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222438'&amp;EntityType='LinearSchedule'&amp;EntityId='5d17adaf-94d0-4c00-ae56-7e280d9fc1ae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320200000 +0000" stop="20260320210000 +0000">
+		<title>Neeya Naana - EP630</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222442'&amp;EntityType='LinearSchedule'&amp;EntityId='3914ce3b-353e-4e4e-a5bd-9b7a90016693'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320210000 +0000" stop="20260320220000 +0000">
+		<title>Neeya Naana - EP631</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222446'&amp;EntityType='LinearSchedule'&amp;EntityId='6cceafd7-0fac-4317-99de-95695961661b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320220000 +0000" stop="20260320230000 +0000">
+		<title>Neeya Naana - EP632</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222450'&amp;EntityType='LinearSchedule'&amp;EntityId='157328aa-4792-4a81-85c5-cb384e314436'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260320230000 +0000" stop="20260321000000 +0000">
+		<title>Neeya Naana - EP633</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222454'&amp;EntityType='LinearSchedule'&amp;EntityId='ee873f59-7aee-4476-bba5-5f722ea29bab'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321000000 +0000" stop="20260321010000 +0000">
+		<title>Neeya Naana - EP634</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222458'&amp;EntityType='LinearSchedule'&amp;EntityId='8b44dda2-8687-453d-a5a5-bf5467f458b0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321010000 +0000" stop="20260321020000 +0000">
+		<title>Neeya Naana - EP635</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222462'&amp;EntityType='LinearSchedule'&amp;EntityId='30d07a53-a678-4f33-b4d5-b6d5fe7ea1a1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321020000 +0000" stop="20260321030000 +0000">
+		<title>Neeya Naana - EP636</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222466'&amp;EntityType='LinearSchedule'&amp;EntityId='c533e955-da41-4d51-a958-6eeffabb0f0f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321030000 +0000" stop="20260321040000 +0000">
+		<title>Neeya Naana - EP637</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222470'&amp;EntityType='LinearSchedule'&amp;EntityId='02f6b411-4cae-4ccd-8b01-2237cb36c6a1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321040000 +0000" stop="20260321050000 +0000">
+		<title>Neeya Naana - EP712</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222474'&amp;EntityType='LinearSchedule'&amp;EntityId='fbd8d368-4b6e-466a-9f9a-648804e40aa6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321050000 +0000" stop="20260321060000 +0000">
+		<title>Neeya Naana - EP713</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222478'&amp;EntityType='LinearSchedule'&amp;EntityId='250358ea-1321-48c9-b17a-802b4448ddbc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321060000 +0000" stop="20260321070000 +0000">
+		<title>Neeya Naana - EP629</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222482'&amp;EntityType='LinearSchedule'&amp;EntityId='eb2ebba3-08f8-417f-b311-0d54029eeba4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321070000 +0000" stop="20260321080000 +0000">
+		<title>Neeya Naana - EP630</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222486'&amp;EntityType='LinearSchedule'&amp;EntityId='8de53312-0421-4c9d-a3f1-9b76886d9fcb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321080000 +0000" stop="20260321090000 +0000">
+		<title>Neeya Naana - EP714</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222490'&amp;EntityType='LinearSchedule'&amp;EntityId='b6b7a51d-3e5d-4f3c-883d-62c9625c5f4b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321090000 +0000" stop="20260321100000 +0000">
+		<title>Neeya Naana - EP715</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222494'&amp;EntityType='LinearSchedule'&amp;EntityId='3d1968fe-c2ff-40a3-be77-f038062240eb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321100000 +0000" stop="20260321110000 +0000">
+		<title>Neeya Naana - EP809</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222498'&amp;EntityType='LinearSchedule'&amp;EntityId='77cf3c07-59a6-475b-8246-b06e21bcaa91'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321110000 +0000" stop="20260321140000 +0000">
+		<title>Saravanan Irukka Bayamaen</title>
+		<desc>Saravanan, a jobless youth, becomes the head of a national party. Things get unnerving for him when he beats his politically ambitious uncle.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222502'&amp;EntityType='LinearSchedule'&amp;EntityId='f6a18d75-1786-4831-a4db-380046be151c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321140000 +0000" stop="20260321150000 +0000">
+		<title>Neeya Naana - EP810</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222506'&amp;EntityType='LinearSchedule'&amp;EntityId='52a939b1-199b-42ee-9826-4b354a147da8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321150000 +0000" stop="20260321160000 +0000">
+		<title>Neeya Naana - EP811</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222510'&amp;EntityType='LinearSchedule'&amp;EntityId='5a4c3ae6-5879-4710-9eb6-bec507688507'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20260321160000 +0000" stop="20260321170000 +0000">
+		<title>Neeya Naana - EP638</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13222514'&amp;EntityType='LinearSchedule'&amp;EntityId='313c7874-dbb2-4a67-8e38-3f166048ae1b'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="557763" start="20260320163217 +0000" stop="20260320170015 +0000">
 		<title>Episode 1 | Kariobangi</title>
 		<desc>Meet the Kariobangi Sharks, a team in the slums of Nairobi</desc>
@@ -6129,262 +6274,262 @@
 	<programme channel="556877" start="20260320163000 +0000" stop="20260320170000 +0000">
 		<title>Misha, the Purple Cat </title>
 		<desc>Misha is a very lively, alert cat. She is very interested in investigating everything going on around her, which means she has some very entertaining adventures with her friends. Many things can happen in Misha’s world; especially exciting adventures, mysterious investigations, hilarious competitions... all with a feeling of close friendship.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243370'&amp;EntityType='LinearSchedule'&amp;EntityId='16e715ca-17c8-469f-bc9d-1d4a767f718e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251563'&amp;EntityType='LinearSchedule'&amp;EntityId='16e715ca-17c8-469f-bc9d-1d4a767f718e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260320170000 +0000" stop="20260320180000 +0000">
 		<title>Music Box</title>
 		<desc>Get ready to dance and sing-along to music-filled episodes</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243494'&amp;EntityType='LinearSchedule'&amp;EntityId='69738935-3b46-4514-83d0-c663684a4b99'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251567'&amp;EntityType='LinearSchedule'&amp;EntityId='69738935-3b46-4514-83d0-c663684a4b99'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260320180000 +0000" stop="20260320190000 +0000">
 		<title>LOL Block </title>
 		<desc>A crazy collection of hilarious comedy series featuring shows like, Jelly Jam, Crazy Candies, Karim &amp; Noor, and Talking Tom.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243310'&amp;EntityType='LinearSchedule'&amp;EntityId='f7d52c69-e2c5-4f4a-8f48-1ff4014cd490'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251571'&amp;EntityType='LinearSchedule'&amp;EntityId='f7d52c69-e2c5-4f4a-8f48-1ff4014cd490'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260320190000 +0000" stop="20260320193000 +0000">
 		<title>Baby Riki </title>
 		<desc>The show covers all aspects of a child’s life from physical well-being to cognitive and soft skills. The musical stories are based around age-appropriate experiences with educational concepts introduced in familiar surroundings and context for infants.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243374'&amp;EntityType='LinearSchedule'&amp;EntityId='554ea1d7-ef9f-4050-ab16-6340f70d02ce'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251575'&amp;EntityType='LinearSchedule'&amp;EntityId='554ea1d7-ef9f-4050-ab16-6340f70d02ce'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260320193000 +0000" stop="20260320200000 +0000">
 		<title>Talking Tom and Friends Minis</title>
 		<desc>Get ready to watch Talking Tom and Friends at their cutest! Mini in size, but massive in fun, the Minis check out the day-to-day world of the friends we all know and love where they do the most ordinary things in the most extraordinary ways.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243498'&amp;EntityType='LinearSchedule'&amp;EntityId='e5d70041-f8ce-4708-8f01-52e40af7aebc'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251579'&amp;EntityType='LinearSchedule'&amp;EntityId='e5d70041-f8ce-4708-8f01-52e40af7aebc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260320200000 +0000" stop="20260320203000 +0000">
 		<title>Leo the Wildlife Ranger</title>
 		<desc>Leo the Wildlife Ranger introduces the secrets and wonders of nature and wildlife around us and kickstarts a curiosity and passion for nature in kids. With engaging missions and adventures, kids have fun while learning positive lessons!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243378'&amp;EntityType='LinearSchedule'&amp;EntityId='9bf7cb59-4d98-44c3-ad93-4b9a7e56d505'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251583'&amp;EntityType='LinearSchedule'&amp;EntityId='9bf7cb59-4d98-44c3-ad93-4b9a7e56d505'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260320203000 +0000" stop="20260320210000 +0000">
 		<title>Counting With Paula</title>
 		<desc>The show features Paula and her friends, Tim, Billy, Chalky, Calc, and the Numbers as they go on exciting adventures in colorful and exotic places. From the Amazon jungles to the deepest oceans, and to the hottest deserts, Paula and friends solve problems, have fun and make more friends along the way!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243382'&amp;EntityType='LinearSchedule'&amp;EntityId='1205c083-e3e0-4d74-88c2-2e7d855d710e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251587'&amp;EntityType='LinearSchedule'&amp;EntityId='1205c083-e3e0-4d74-88c2-2e7d855d710e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260320210000 +0000" stop="20260320213000 +0000">
 		<title>Angry Birds Toons</title>
 		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243458'&amp;EntityType='LinearSchedule'&amp;EntityId='650ef598-a715-4ad6-8cf6-d5da570d5b03'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251591'&amp;EntityType='LinearSchedule'&amp;EntityId='650ef598-a715-4ad6-8cf6-d5da570d5b03'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260320213000 +0000" stop="20260320220000 +0000">
 		<title>Angry Birds Toons</title>
 		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243422'&amp;EntityType='LinearSchedule'&amp;EntityId='e346d4d3-7868-43cf-b8b3-1e678276662f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251595'&amp;EntityType='LinearSchedule'&amp;EntityId='e346d4d3-7868-43cf-b8b3-1e678276662f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260320220000 +0000" stop="20260320230000 +0000">
 		<title>Bino &amp; Fino</title>
 		<desc>Bino &amp; Fino is about a brother and sister named Bino and Fino who live with their grandparents 'Mama' and 'Papa' in a modern day city in Africa. Bino and Fino have many adventures where, with the help of their friend Zeena the Magic Butterfly, they discover and learn things about the world.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243426'&amp;EntityType='LinearSchedule'&amp;EntityId='66a7858d-ac71-459a-ab93-d800913cb8b3'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251599'&amp;EntityType='LinearSchedule'&amp;EntityId='66a7858d-ac71-459a-ab93-d800913cb8b3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260320230000 +0000" stop="20260320233000 +0000">
 		<title>Horaci the Inuit</title>
 		<desc>Packed with adventure, fun and excitement, HORACI THE INUIT will transport you to the Lands of the North where, together with his best friend Sedna, he will have to solve all kinds of mysteries! Horaci the Inuit takes place in a remote village and talks about universal values such as caring for nature, being intuitive and open-minded and, above all, having a loving respect for family and friends!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243462'&amp;EntityType='LinearSchedule'&amp;EntityId='17bd83c3-7fe9-45a1-838c-ad3275ee3d6d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251603'&amp;EntityType='LinearSchedule'&amp;EntityId='17bd83c3-7fe9-45a1-838c-ad3275ee3d6d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260320233000 +0000" stop="20260321000000 +0000">
 		<title>Nutri Ventures </title>
 		<desc>Protecting Healthy Foods At All Costs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243466'&amp;EntityType='LinearSchedule'&amp;EntityId='f7d99eb2-ea44-460b-9362-e7710ff01bb0'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251607'&amp;EntityType='LinearSchedule'&amp;EntityId='f7d99eb2-ea44-460b-9362-e7710ff01bb0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321000000 +0000" stop="20260321003000 +0000">
 		<title>Chefclub Kids</title>
 		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243430'&amp;EntityType='LinearSchedule'&amp;EntityId='88f4ec42-0207-408b-ac0d-825cba6cc1ef'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251611'&amp;EntityType='LinearSchedule'&amp;EntityId='88f4ec42-0207-408b-ac0d-825cba6cc1ef'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321003000 +0000" stop="20260321013000 +0000">
 		<title>Hogie the Globehopper</title>
 		<desc>Hogie the Globehopper is a fun tv show that will inspire a curiosity and fascination about the world and its people. Hogie and his friends Lorna, Bernie and Floaty travel the world, making lots of friends along the way.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243470'&amp;EntityType='LinearSchedule'&amp;EntityId='e12e9ac4-65c8-498a-816d-916532b923e5'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251615'&amp;EntityType='LinearSchedule'&amp;EntityId='e12e9ac4-65c8-498a-816d-916532b923e5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321013000 +0000" stop="20260321013330 +0000">
 		<title>Bernard - Bernard - At The North Pole</title>
 		<desc>Bernard gets bored trekking across the frozen Arctic wastes. Some abandoned equipment becomes a source of great entertainment, but not for long.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243350'&amp;EntityType='LinearSchedule'&amp;EntityId='0dda34ba-046c-4aad-8ff6-6bd0b098df99'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251619'&amp;EntityType='LinearSchedule'&amp;EntityId='0dda34ba-046c-4aad-8ff6-6bd0b098df99'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321013330 +0000" stop="20260321013659 +0000">
 		<title>Bernard - Bernard - The Package</title>
 		<desc>Zack tries to steal a parcel which Bernard is carrying. At first he succeeds, but Bernard doesn't give up that easily.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243354'&amp;EntityType='LinearSchedule'&amp;EntityId='c6c2dfed-7e50-45d7-8aaa-4ce170ad903d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251623'&amp;EntityType='LinearSchedule'&amp;EntityId='c6c2dfed-7e50-45d7-8aaa-4ce170ad903d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321013659 +0000" stop="20260321014233 +0000">
 		<title>Bernard - Bernard - Sleepwalker</title>
 		<desc>Even when he's asleep, Bernard is capable of anything – as he finds out when he wakes up in the morning.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243434'&amp;EntityType='LinearSchedule'&amp;EntityId='74a85a3f-2707-45ad-affa-64ef6381038d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251627'&amp;EntityType='LinearSchedule'&amp;EntityId='74a85a3f-2707-45ad-affa-64ef6381038d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321014233 +0000" stop="20260321014607 +0000">
 		<title>Bernard - Bernard - The Pizza</title>
 		<desc>Bernard</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243358'&amp;EntityType='LinearSchedule'&amp;EntityId='5b14ba15-30b2-46ab-8bba-06dbee433bc7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251631'&amp;EntityType='LinearSchedule'&amp;EntityId='5b14ba15-30b2-46ab-8bba-06dbee433bc7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321014607 +0000" stop="20260321015133 +0000">
 		<title>Bernard - Bernard - The Unicycle</title>
 		<desc>To the amazement of Zack, Bernard discovers he has some performing skills which he never knew he had.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243362'&amp;EntityType='LinearSchedule'&amp;EntityId='f50662e4-6f6c-4b37-8e11-fbfe0316ccde'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251635'&amp;EntityType='LinearSchedule'&amp;EntityId='f50662e4-6f6c-4b37-8e11-fbfe0316ccde'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321015133 +0000" stop="20260321015500 +0000">
 		<title>Bernard - Bernard - The Motorboat</title>
 		<desc>Although Bernard has been shipwrecked, his real problems begin when he finds an abandoned motorboat which could get him back to shore.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243366'&amp;EntityType='LinearSchedule'&amp;EntityId='4f94ae78-df1d-4eae-b763-d8a87f776428'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251639'&amp;EntityType='LinearSchedule'&amp;EntityId='4f94ae78-df1d-4eae-b763-d8a87f776428'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321015500 +0000" stop="20260321020000 +0000">
 		<title>Bernard - Bernard - The Prisoner</title>
 		<desc>Bernard makes a daring escape from prison, but once he's out, he realises that perhaps life inside wasn't so bad after all.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243314'&amp;EntityType='LinearSchedule'&amp;EntityId='a650e81b-2cbf-4bf9-a935-dddbcdc1e5d6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251643'&amp;EntityType='LinearSchedule'&amp;EntityId='a650e81b-2cbf-4bf9-a935-dddbcdc1e5d6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321020000 +0000" stop="20260321023000 +0000">
 		<title>The Fixies</title>
 		<desc>The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There’s just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243386'&amp;EntityType='LinearSchedule'&amp;EntityId='860e62a5-e87d-47fa-83fd-b9d30bc42a2a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251647'&amp;EntityType='LinearSchedule'&amp;EntityId='860e62a5-e87d-47fa-83fd-b9d30bc42a2a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321023000 +0000" stop="20260321030000 +0000">
 		<title>Brain Candy TV</title>
 		<desc>Early learning for a brighter future! Your children will love to learn their ABCs, numbers, colors and even some math and science with the help of our action-packed vehicles including monster trucks, dump trucks, trains and more, plus our cute dog Lizzy.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243474'&amp;EntityType='LinearSchedule'&amp;EntityId='b2204695-00c9-4ab3-983d-a11ce91be82a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251651'&amp;EntityType='LinearSchedule'&amp;EntityId='b2204695-00c9-4ab3-983d-a11ce91be82a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321030000 +0000" stop="20260321033000 +0000">
 		<title>Nutri Ventures </title>
 		<desc>Protecting Healthy Foods At All Costs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243406'&amp;EntityType='LinearSchedule'&amp;EntityId='1e5ca3b2-d992-4c4f-9298-87580bdfe6c6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251655'&amp;EntityType='LinearSchedule'&amp;EntityId='1e5ca3b2-d992-4c4f-9298-87580bdfe6c6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321033000 +0000" stop="20260321040000 +0000">
 		<title>Chefclub Kids</title>
 		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243478'&amp;EntityType='LinearSchedule'&amp;EntityId='03de3778-6a56-40aa-8047-fb04982132d9'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251659'&amp;EntityType='LinearSchedule'&amp;EntityId='03de3778-6a56-40aa-8047-fb04982132d9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321040000 +0000" stop="20260321043000 +0000">
 		<title>Timmy Time</title>
 		<desc>Being an ‘only lamb in the flock’ Timmy has been used to getting his own way. Now for the first time Timmy is going to have to learn to get along with other little animals. Timmy is going to Nursery! Self-willed and naughty Timmy is going to have to learn how to share things with other youngsters and think about their feelings – not just his. Timmy is a gifted little footballer who needs to learn that it’s not enough to kick the ball – you have to pass it too. Harriet Heron and Osbourne Owl, who run the Nursery are going to have their hands full, but Timmy gets it right in the end with a little help from his friends of the furry, feathery and spikey type.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243410'&amp;EntityType='LinearSchedule'&amp;EntityId='92ae58a2-cb9f-4e94-b61f-c43acd7aab0b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251663'&amp;EntityType='LinearSchedule'&amp;EntityId='92ae58a2-cb9f-4e94-b61f-c43acd7aab0b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321043000 +0000" stop="20260321050000 +0000">
 		<title>Misha, the Purple Cat </title>
 		<desc>Misha is a very lively, alert cat. She is very interested in investigating everything going on around her, which means she has some very entertaining adventures with her friends. Many things can happen in Misha’s world; especially exciting adventures, mysterious investigations, hilarious competitions... all with a feeling of close friendship.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243414'&amp;EntityType='LinearSchedule'&amp;EntityId='42d0a7ec-71ce-4c7d-b763-bdf8a4efcddc'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251667'&amp;EntityType='LinearSchedule'&amp;EntityId='42d0a7ec-71ce-4c7d-b763-bdf8a4efcddc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321050000 +0000" stop="20260321060000 +0000">
 		<title>LOL Block </title>
 		<desc>A crazy collection of hilarious comedy series featuring shows like, Jelly Jam, Crazy Candies, Karim &amp; Noor, and Talking Tom.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243418'&amp;EntityType='LinearSchedule'&amp;EntityId='694fd480-ddd5-4032-8a20-d48a97ab36c7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251671'&amp;EntityType='LinearSchedule'&amp;EntityId='694fd480-ddd5-4032-8a20-d48a97ab36c7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321060000 +0000" stop="20260321070000 +0000">
 		<title>LOL Block </title>
 		<desc>A crazy collection of hilarious comedy series featuring shows like, Jelly Jam, Crazy Candies, Karim &amp; Noor, and Talking Tom.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243318'&amp;EntityType='LinearSchedule'&amp;EntityId='ab875bfd-c1bc-47f1-b36a-72acaf44889f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251675'&amp;EntityType='LinearSchedule'&amp;EntityId='ab875bfd-c1bc-47f1-b36a-72acaf44889f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321070000 +0000" stop="20260321073000 +0000">
 		<title>Baby Riki </title>
 		<desc>The show covers all aspects of a child’s life from physical well-being to cognitive and soft skills. The musical stories are based around age-appropriate experiences with educational concepts introduced in familiar surroundings and context for infants.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243322'&amp;EntityType='LinearSchedule'&amp;EntityId='47e3fc64-161f-4b23-9d22-94ba8310c383'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251679'&amp;EntityType='LinearSchedule'&amp;EntityId='47e3fc64-161f-4b23-9d22-94ba8310c383'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321073000 +0000" stop="20260321080000 +0000">
 		<title>Talking Tom and Friends Minis</title>
 		<desc>Get ready to watch Talking Tom and Friends at their cutest! Mini in size, but massive in fun, the Minis check out the day-to-day world of the friends we all know and love where they do the most ordinary things in the most extraordinary ways.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243326'&amp;EntityType='LinearSchedule'&amp;EntityId='89cf2be9-1e5f-466d-b692-544120edd41b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251683'&amp;EntityType='LinearSchedule'&amp;EntityId='89cf2be9-1e5f-466d-b692-544120edd41b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321080000 +0000" stop="20260321083000 +0000">
 		<title>Leo the Wildlife Ranger</title>
 		<desc>Leo the Wildlife Ranger introduces the secrets and wonders of nature and wildlife around us and kickstarts a curiosity and passion for nature in kids. With engaging missions and adventures, kids have fun while learning positive lessons!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243502'&amp;EntityType='LinearSchedule'&amp;EntityId='f1309b54-bbee-4ccb-9998-6a263da2e834'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251687'&amp;EntityType='LinearSchedule'&amp;EntityId='f1309b54-bbee-4ccb-9998-6a263da2e834'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321083000 +0000" stop="20260321090000 +0000">
 		<title>Counting With Paula</title>
 		<desc>The show features Paula and her friends, Tim, Billy, Chalky, Calc, and the Numbers as they go on exciting adventures in colorful and exotic places. From the Amazon jungles to the deepest oceans, and to the hottest deserts, Paula and friends solve problems, have fun and make more friends along the way!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243330'&amp;EntityType='LinearSchedule'&amp;EntityId='12fbaa24-f960-4e17-874d-0c6361196520'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251691'&amp;EntityType='LinearSchedule'&amp;EntityId='12fbaa24-f960-4e17-874d-0c6361196520'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321090000 +0000" stop="20260321093000 +0000">
 		<title>Angry Birds Toons</title>
 		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243334'&amp;EntityType='LinearSchedule'&amp;EntityId='e8737b37-b36a-4a06-b2ec-49390e7e0adb'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251695'&amp;EntityType='LinearSchedule'&amp;EntityId='e8737b37-b36a-4a06-b2ec-49390e7e0adb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321093000 +0000" stop="20260321100000 +0000">
 		<title>Angry Birds Toons</title>
 		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243390'&amp;EntityType='LinearSchedule'&amp;EntityId='d6506275-2cfe-47e2-81fd-ca27a8e1bc79'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251699'&amp;EntityType='LinearSchedule'&amp;EntityId='d6506275-2cfe-47e2-81fd-ca27a8e1bc79'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321100000 +0000" stop="20260321110000 +0000">
 		<title>Bino &amp; Fino</title>
 		<desc>Bino &amp; Fino is about a brother and sister named Bino and Fino who live with their grandparents 'Mama' and 'Papa' in a modern day city in Africa. Bino and Fino have many adventures where, with the help of their friend Zeena the Magic Butterfly, they discover and learn things about the world.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243394'&amp;EntityType='LinearSchedule'&amp;EntityId='8a909f1d-8e10-4334-8753-4e31b1e06325'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251703'&amp;EntityType='LinearSchedule'&amp;EntityId='8a909f1d-8e10-4334-8753-4e31b1e06325'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321110000 +0000" stop="20260321113000 +0000">
 		<title>Horaci the Inuit</title>
 		<desc>Packed with adventure, fun and excitement, HORACI THE INUIT will transport you to the Lands of the North where, together with his best friend Sedna, he will have to solve all kinds of mysteries! Horaci the Inuit takes place in a remote village and talks about universal values such as caring for nature, being intuitive and open-minded and, above all, having a loving respect for family and friends!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243338'&amp;EntityType='LinearSchedule'&amp;EntityId='07823027-f51f-47c7-bb69-202ef0783a7c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251707'&amp;EntityType='LinearSchedule'&amp;EntityId='07823027-f51f-47c7-bb69-202ef0783a7c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321113000 +0000" stop="20260321120000 +0000">
 		<title>Leo the Wildlife Ranger</title>
 		<desc>Leo the Wildlife Ranger introduces the secrets and wonders of nature and wildlife around us and kickstarts a curiosity and passion for nature in kids. With engaging missions and adventures, kids have fun while learning positive lessons!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243438'&amp;EntityType='LinearSchedule'&amp;EntityId='e1868924-31a0-4e04-b1d6-796d307d1a4f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251711'&amp;EntityType='LinearSchedule'&amp;EntityId='e1868924-31a0-4e04-b1d6-796d307d1a4f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321120000 +0000" stop="20260321123000 +0000">
 		<title>Chefclub Kids</title>
 		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243442'&amp;EntityType='LinearSchedule'&amp;EntityId='9c0d7623-cc9d-44fa-acd7-6b54d420a583'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251715'&amp;EntityType='LinearSchedule'&amp;EntityId='9c0d7623-cc9d-44fa-acd7-6b54d420a583'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321123000 +0000" stop="20260321133000 +0000">
 		<title>Hogie the Globehopper</title>
 		<desc>Hogie the Globehopper is a fun tv show that will inspire a curiosity and fascination about the world and its people. Hogie and his friends Lorna, Bernie and Floaty travel the world, making lots of friends along the way.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243506'&amp;EntityType='LinearSchedule'&amp;EntityId='5f9ed81c-8070-4e0a-aa8e-ed5a625367f9'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251719'&amp;EntityType='LinearSchedule'&amp;EntityId='5f9ed81c-8070-4e0a-aa8e-ed5a625367f9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321133000 +0000" stop="20260321133330 +0000">
 		<title>Bernard - Bernard - At The North Pole</title>
 		<desc>Bernard gets bored trekking across the frozen Arctic wastes. Some abandoned equipment becomes a source of great entertainment, but not for long.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243510'&amp;EntityType='LinearSchedule'&amp;EntityId='fce9cd60-bdb7-43af-aed8-a7c1f980d6e9'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251723'&amp;EntityType='LinearSchedule'&amp;EntityId='fce9cd60-bdb7-43af-aed8-a7c1f980d6e9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321133330 +0000" stop="20260321133659 +0000">
 		<title>Bernard - Bernard - The Package</title>
 		<desc>Zack tries to steal a parcel which Bernard is carrying. At first he succeeds, but Bernard doesn't give up that easily.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243342'&amp;EntityType='LinearSchedule'&amp;EntityId='0f6c79d0-6b8c-4a18-a99e-932a2277c0b4'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251727'&amp;EntityType='LinearSchedule'&amp;EntityId='0f6c79d0-6b8c-4a18-a99e-932a2277c0b4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321133659 +0000" stop="20260321134233 +0000">
 		<title>Bernard - Bernard - Sleepwalker</title>
 		<desc>Even when he's asleep, Bernard is capable of anything – as he finds out when he wakes up in the morning.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243482'&amp;EntityType='LinearSchedule'&amp;EntityId='75696fba-1e00-482d-bd8d-7eb91ecb7f80'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251731'&amp;EntityType='LinearSchedule'&amp;EntityId='75696fba-1e00-482d-bd8d-7eb91ecb7f80'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321134233 +0000" stop="20260321134607 +0000">
 		<title>Bernard - Bernard - The Pizza</title>
 		<desc>Bernard</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243398'&amp;EntityType='LinearSchedule'&amp;EntityId='09f1f6c3-fa41-4a84-b056-53056856c8a2'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251735'&amp;EntityType='LinearSchedule'&amp;EntityId='09f1f6c3-fa41-4a84-b056-53056856c8a2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321134607 +0000" stop="20260321135133 +0000">
 		<title>Bernard - Bernard - The Unicycle</title>
 		<desc>To the amazement of Zack, Bernard discovers he has some performing skills which he never knew he had.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243402'&amp;EntityType='LinearSchedule'&amp;EntityId='3f4c39a3-c173-45ea-978b-22ddec21f2c3'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251739'&amp;EntityType='LinearSchedule'&amp;EntityId='3f4c39a3-c173-45ea-978b-22ddec21f2c3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321135133 +0000" stop="20260321135500 +0000">
 		<title>Bernard - Bernard - The Motorboat</title>
 		<desc>Although Bernard has been shipwrecked, his real problems begin when he finds an abandoned motorboat which could get him back to shore.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243446'&amp;EntityType='LinearSchedule'&amp;EntityId='4bac3bda-9b82-42bb-a6b3-d2310485057a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251743'&amp;EntityType='LinearSchedule'&amp;EntityId='4bac3bda-9b82-42bb-a6b3-d2310485057a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321135500 +0000" stop="20260321140000 +0000">
 		<title>Bernard - Bernard - The Prisoner</title>
 		<desc>Bernard makes a daring escape from prison, but once he's out, he realises that perhaps life inside wasn't so bad after all.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243450'&amp;EntityType='LinearSchedule'&amp;EntityId='5a3c130c-c71c-4afc-8eea-094a2a6bf3cb'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251747'&amp;EntityType='LinearSchedule'&amp;EntityId='5a3c130c-c71c-4afc-8eea-094a2a6bf3cb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321140000 +0000" stop="20260321143000 +0000">
 		<title>The Fixies</title>
 		<desc>The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There’s just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243486'&amp;EntityType='LinearSchedule'&amp;EntityId='44dadcd4-a0dc-45df-96f8-f70e3b0bf019'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251751'&amp;EntityType='LinearSchedule'&amp;EntityId='44dadcd4-a0dc-45df-96f8-f70e3b0bf019'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321143000 +0000" stop="20260321150000 +0000">
 		<title>Brain Candy TV</title>
 		<desc>Early learning for a brighter future! Your children will love to learn their ABCs, numbers, colors and even some math and science with the help of our action-packed vehicles including monster trucks, dump trucks, trains and more, plus our cute dog Lizzy.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243490'&amp;EntityType='LinearSchedule'&amp;EntityId='da454e6b-d51f-4ad5-84b2-2e71789ea7fb'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251755'&amp;EntityType='LinearSchedule'&amp;EntityId='da454e6b-d51f-4ad5-84b2-2e71789ea7fb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321150000 +0000" stop="20260321153000 +0000">
 		<title>Talking Tom and Friends Minis</title>
 		<desc>Get ready to watch Talking Tom and Friends at their cutest! Mini in size, but massive in fun, the Minis check out the day-to-day world of the friends we all know and love where they do the most ordinary things in the most extraordinary ways.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243346'&amp;EntityType='LinearSchedule'&amp;EntityId='59cff017-23c2-4abc-9ef7-fea4c442d773'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251759'&amp;EntityType='LinearSchedule'&amp;EntityId='59cff017-23c2-4abc-9ef7-fea4c442d773'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321153000 +0000" stop="20260321160000 +0000">
 		<title>Yeti Tales</title>
 		<desc>Join Us in Yeti Tales !</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243454'&amp;EntityType='LinearSchedule'&amp;EntityId='5fb7d633-7a60-415b-83df-b9a4ab7fe6b1'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13251763'&amp;EntityType='LinearSchedule'&amp;EntityId='5fb7d633-7a60-415b-83df-b9a4ab7fe6b1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556877" start="20260321160000 +0000" stop="20260321163000 +0000">
 		<title>Timmy Time</title>
 		<desc>Being an ‘only lamb in the flock’ Timmy has been used to getting his own way. Now for the first time Timmy is going to have to learn to get along with other little animals. Timmy is going to Nursery! Self-willed and naughty Timmy is going to have to learn how to share things with other youngsters and think about their feelings – not just his. Timmy is a gifted little footballer who needs to learn that it’s not enough to kick the ball – you have to pass it too. Harriet Heron and Osbourne Owl, who run the Nursery are going to have their hands full, but Timmy gets it right in the end with a little help from his friends of the furry, feathery and spikey type.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13243690'&amp;EntityType='LinearSchedule'&amp;EntityId='8ee0082a-48d3-4431-80ef-391c15be94b6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13253128'&amp;EntityType='LinearSchedule'&amp;EntityId='8ee0082a-48d3-4431-80ef-391c15be94b6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="556894" start="20260320180000 +0000" stop="20260320200000 +0000">
 		<title>Cry Of The Penguins</title>
@@ -6635,80 +6780,5 @@
 		<title>Eat, Sleep, Rock, Repeat</title>
 		<desc>Non stop riffs and anthems that will have you rockin' all day long!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219435'&amp;EntityType='LinearSchedule'&amp;EntityId='cdd86e17-92c4-43e6-a49e-859c3cc849a1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320171500 +0000" stop="20260320184500 +0000">
-		<title>Room 514</title>
-		<desc>When Anna, a young, idealistic Israeli military investigator, confronts an elite officer with accusations of unnecessary violence against a Palestinian man in the Occupied Territories, her integrity and determination are challenged.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120399'&amp;EntityType='LinearSchedule'&amp;EntityId='826f54b5-f35e-42e5-b3b3-16442fb6f368'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320184500 +0000" stop="20260320202500 +0000">
-		<title>Future is a Lonely Place</title>
-		<desc>Seeking revenge for his family’s death, Frank stages a crime and turns himself in to infiltrate a prison drug ring. Frank aims to get close to the man responsible for their death, and forms a dangerous bond with a guard along the way.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120403'&amp;EntityType='LinearSchedule'&amp;EntityId='5ad2dc80-590b-4c65-bd12-a0bda0592491'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320202500 +0000" stop="20260320220000 +0000">
-		<title>Risks And Side Effects</title>
-		<desc>When Pilates trainer Kathrin needs a new kidney, her husband’s hesitation to be her donor results in a crisis in their marriage. Faced with issues of life and death, the fragility of the couple’s relationship is laid bare.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120419'&amp;EntityType='LinearSchedule'&amp;EntityId='2c2daaf9-6c32-4ec3-9f11-c42b700e8292'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320220000 +0000" stop="20260320233500 +0000">
-		<title>In His Hands</title>
-		<desc>Clara, a lawyer, leads a serene but monotonous life alongside her husband Damien and their two children. One evening, she succumbs to the charm of a mysterious sculptor. This one scorching night will have dramatic repercussions for her and her family.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120371'&amp;EntityType='LinearSchedule'&amp;EntityId='48859146-5802-4269-8710-3bacb858fa15'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260320233500 +0000" stop="20260321011500 +0000">
-		<title>Midnight At The Paradise</title>
-		<desc>Over the course of one evening, three couples are pulled into a collision course of sexual chemistry, delusion, forgiveness and hope as they explore what love, death, desire and the magic of the movies mean to them.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120407'&amp;EntityType='LinearSchedule'&amp;EntityId='daf428b7-de2e-4e2d-9287-dc8f04df3882'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260321011500 +0000" stop="20260321025000 +0000">
-		<title>Moon's Walking</title>
-		<desc>On the day of her grandmother’s memorial, 16-year-old Jung-hee escapes a volatile home and goes on a journey in search for the truth behind her grandfather’s disappearance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120411'&amp;EntityType='LinearSchedule'&amp;EntityId='52a6e4a6-250d-4ed4-9bc7-1ca37df7c51b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260321025000 +0000" stop="20260321042500 +0000">
-		<title>The Breach</title>
-		<desc>A fatal car crash shudders a crisis-torn family. Completely lost and shaken to the core by his wife’s death, the husband undertakes his own investigation and learns the shattering truth about his spouse’s genuine woes and longings.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120363'&amp;EntityType='LinearSchedule'&amp;EntityId='b0925d8b-b31d-4658-8105-95b9a1216a98'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260321042500 +0000" stop="20260321055500 +0000">
-		<title>A Murder Of Crows The Detective And The Fear</title>
-		<desc>When Inspector Martin Brühl awakens in the morning, he is alarmed by partner Susanne Koch’s absence. Unbeknownst to him, Susanne witnessed a crime on her nightly walk home. Critically injured in an ATM explosion, she was kidnapped by the perpetrators.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120375'&amp;EntityType='LinearSchedule'&amp;EntityId='e5cd4552-d616-46a0-860d-0579962582ba'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260321055500 +0000" stop="20260321074500 +0000">
-		<title>Hunting Season</title>
-		<desc>Enersto, a hunting guide in Patagonia, is left to take care of his teenage son he hasn’t seen for years. An intense father-son relationship is played out amidst the hostility of nature.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120423'&amp;EntityType='LinearSchedule'&amp;EntityId='c9a5a668-0d77-4c6d-b6e9-d1b8303c86a5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260321074500 +0000" stop="20260321080500 +0000">
-		<title>Confession</title>
-		<desc>Laras was pressured to express his decision to live without children when his in-laws asked him to adopt a child because he was deemed unable to produce offspring.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120427'&amp;EntityType='LinearSchedule'&amp;EntityId='b8451761-06e0-435e-8963-02f22b6cb0e4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260321080500 +0000" stop="20260321094500 +0000">
-		<title>Ghost Mountaineer</title>
-		<desc>In the former Soviet Union, a group of Estonian students go hiking in Siberia. After their unpopular leader Olle vanishes, his rival Eero leads the group to seek help, and a series of bizarre and terrifying events unfold.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120380'&amp;EntityType='LinearSchedule'&amp;EntityId='b343f6c6-9613-4aad-825f-2dcbd321ad86'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260321094500 +0000" stop="20260321112500 +0000">
-		<title>Tokyo Fianc ée</title>
-		<desc>A charming and tender tale of young love and cultural discovery. Amélie, a Japanophile young Belgian woman in Tokyo falls into a whirlwind romance with Rinri, a Francophile Japanese student.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120387'&amp;EntityType='LinearSchedule'&amp;EntityId='1004a732-7c62-4418-9394-22554b468db3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260321112500 +0000" stop="20260321130000 +0000">
-		<title>The Daval Mystery</title>
-		<desc>Jonathann Daval reports the disappearance of his wife Alexia after she fails to return from her morning jog. Over the next three months, the police will launch the most relentless investigation into a media saga that will shake the whole of France.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120415'&amp;EntityType='LinearSchedule'&amp;EntityId='93da1fcb-378e-49bc-b449-e03d72ec09cd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260321130000 +0000" stop="20260321143500 +0000">
-		<title>Victoria Must Go</title>
-		<desc>Hedvig and Henrik's new stepmother Victoria is annoying and constantly introducing new rules. They decide to hire a hitman to get rid of her, and end up persuading a very reluctant immigrant, Carl, to do the job.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120391'&amp;EntityType='LinearSchedule'&amp;EntityId='5cd5265d-48dd-46cf-9300-b26b1a7b2d82'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260321143500 +0000" stop="20260321160500 +0000">
-		<title>Train Driver's Diary</title>
-		<desc>As Ilija nears retirement, his record of unintentional deaths as a train driver weighs heavy. His adopted son, Sima, fears following in his footsteps. But as days pass without incident, Ilija's determination to ensure Sima's success takes a dark turn.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13120395'&amp;EntityType='LinearSchedule'&amp;EntityId='3311a109-f2bc-42b4-8e9f-e9c0647f4057'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
