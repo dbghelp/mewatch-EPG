@@ -36,6 +36,10 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -91,10 +95,6 @@
 	<channel id="158964">
 		<display-name>NOW 70s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510620'&amp;EntityType='Item'&amp;EntityId='158964'&amp;Width=193&amp;Height=187" />
-	</channel>
-	<channel id="158963">
-		<display-name>NOW Rock</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='7510610'&amp;EntityType='Item'&amp;EntityId='158963'&amp;Width=193&amp;Height=187" />
 	</channel>
 	<programme channel="97098" start="20260321140000 +0000" stop="20260321161500 +0000">
 		<title>A Haunting in Venice</title>
@@ -1250,6 +1250,16 @@
 		<title>No programme available now. Next broadcast on 23rd March, Monday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 23rd March, Monday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13214092'&amp;EntityType='LinearSchedule'&amp;EntityId='86caf571-8e1c-42f6-9932-4f1ab8697035'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260321160000 +0000" stop="20260322160000 +0000">
+		<title>No Programme available now. Next Broadcast on 23rd March, Monday 12.22am. Carabao Cup 2025/26 Final</title>
+		<desc>LIVE 5 will commence broadcast of the Carabao Cup 2025/26 Final: Arsenal vs Manchester City on 23rd March, Monday 12.22am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13139468'&amp;EntityType='LinearSchedule'&amp;EntityId='f84817f1-fb02-4d3e-9aea-e53340e22145'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260322160000 +0000" stop="20260322162200 +0000">
+		<title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
+		<desc>LIVE 5 will commence broadcast of the Chingay 2026 - Wish on 27th February, Friday 8pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13154756'&amp;EntityType='LinearSchedule'&amp;EntityId='ec813c7c-536e-43f0-8632-629ed4a84c0a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260321141201 +0000" stop="20260321161125 +0000">
 		<title>MasterChef Australia Season 05 - Grand Finale</title>
@@ -3376,81 +3386,6 @@
 		<desc>Remember when rock was WILD? From '64 to '74 the pioneering heroes presented by a man who was at the centre of it all - from The Kinks to The Beatles to Black Sabbath to Queen!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13229618'&amp;EntityType='LinearSchedule'&amp;EntityId='ac5ab928-7d9e-46e3-b266-6fcfb90e6168'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="158963" start="20260321160000 +0000" stop="20260321180000 +0000">
-		<title>Eat, Sleep, Rock, Repeat</title>
-		<desc>Non stop riffs and anthems that will have you rockin' all day long!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219435'&amp;EntityType='LinearSchedule'&amp;EntityId='cdd86e17-92c4-43e6-a49e-859c3cc849a1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260321180000 +0000" stop="20260321200000 +0000">
-		<title>Whole Lotta Anthems</title>
-		<desc>No filler, just huge Rock anthems from the very best!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219439'&amp;EntityType='LinearSchedule'&amp;EntityId='75f18de2-bc72-4727-bb50-b0f3e86d67ca'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260321200000 +0000" stop="20260321220000 +0000">
-		<title>Rock n Roll Bangers!</title>
-		<desc>Big riffs, huge hooks and pure chaos! These are the biggest Rock n Roll bangers through the decades.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219443'&amp;EntityType='LinearSchedule'&amp;EntityId='816a102a-0b6e-449f-8307-88ba50e26c8f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260321220000 +0000" stop="20260322000000 +0000">
-		<title>Global Megastars thru the decades</title>
-		<desc>Icons only! These are the legends that rocked the decades.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219447'&amp;EntityType='LinearSchedule'&amp;EntityId='64eeaa32-a280-4f4a-a2c5-52f264229fed'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322000000 +0000" stop="20260322010000 +0000">
-		<title>Ultimate Rock workout</title>
-		<desc>Hits and riffs perfect for a maximum high energy workout!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219451'&amp;EntityType='LinearSchedule'&amp;EntityId='f3b0f349-c674-4016-9ab6-ecbdeae7b54d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322010000 +0000" stop="20260322020000 +0000">
-		<title>Greatest Frontwomen in music</title>
-		<desc>The voice, the talent and the style! We are celebrating the greatest frontwomen in music.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219455'&amp;EntityType='LinearSchedule'&amp;EntityId='360fdbd5-7183-4518-aeab-7a44cab76ade'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322020000 +0000" stop="20260322040000 +0000">
-		<title>Turn on, Tune in and Rock out!</title>
-		<desc>Rock out to our playlist packed with everything from seventies stadium fillers to noughties Nu Metal.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219459'&amp;EntityType='LinearSchedule'&amp;EntityId='87256019-5cd9-4d25-b6fa-101055972f3c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322040000 +0000" stop="20260322060000 +0000">
-		<title>The Rock n Roll Hall of Fame</title>
-		<desc>Iconic fashion, huge hits, and massive attitude. These are the Rock n Roll stars that defined generations.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219463'&amp;EntityType='LinearSchedule'&amp;EntityId='a69cebba-43dd-475f-8653-cb12ba914376'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322060000 +0000" stop="20260322080000 +0000">
-		<title>Epic Rock Hits: 1970 - 2009</title>
-		<desc>The biggest rock hits that were on everyones playlists from 1970 - 2009</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219467'&amp;EntityType='LinearSchedule'&amp;EntityId='a26b6f15-9804-4cad-b043-8633a5e0ab80'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322080000 +0000" stop="20260322100000 +0000">
-		<title>Warning! Maximum Rock Overdrive</title>
-		<desc>The playlist is so huge it comes with a warning! Mega rock hits only from the 70s to 00s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219471'&amp;EntityType='LinearSchedule'&amp;EntityId='c05cba32-d6cb-4acc-a66a-b5e844d084b9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322100000 +0000" stop="20260322120000 +0000">
-		<title>Monster Rock Hits of the 80s</title>
-		<desc>The biggest Rock hits that defined the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219475'&amp;EntityType='LinearSchedule'&amp;EntityId='34e3c748-128d-49c7-8392-56f129f20ed9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322120000 +0000" stop="20260322130000 +0000">
-		<title>Rock Rewind: The best of 1996</title>
-		<desc>The Biggest Rock Hits from the year 1996</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219479'&amp;EntityType='LinearSchedule'&amp;EntityId='f454e214-d2e3-44b9-894c-ad9ef1bcca79'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322130000 +0000" stop="20260322140000 +0000">
-		<title>Movie soundtracks that Rocked!</title>
-		<desc>Grab the popcorn! It's time for huge hits from the most inconic movies ever!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219483'&amp;EntityType='LinearSchedule'&amp;EntityId='68d4a260-9d67-48d0-987c-ddaaca59b3de'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322140000 +0000" stop="20260322160000 +0000">
-		<title>Legends of Rock 1970 - 2009</title>
-		<desc>These are the acts that shaped the sound of Rock music forever! Legends only!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219487'&amp;EntityType='LinearSchedule'&amp;EntityId='580634b2-3095-4cba-8b1b-ac8da0a09801'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322160000 +0000" stop="20260322180000 +0000">
-		<title>Big Fat Rock Hits</title>
-		<desc>Big fat rock hits from 1970 - 2009</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219491'&amp;EntityType='LinearSchedule'&amp;EntityId='af8b1cc1-9b10-4517-8a84-1d0aa28fda88'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260322162100 +0000" stop="20260322183000 +0000">
 		<title>(Live) Carabao Cup 25/26 - EP 13</title>
 		<desc>Arsenal face Manchester City at Wembley in a high-stakes clash between two Premier League heavyweights. With the first major domestic trophy of the season on the line, expect elite talent, tactical intrigue and plenty of drama as both sides battle for cup glory.</desc>
@@ -4655,6 +4590,21 @@
 		<title>No programme available now. Next broadcast on 24th March, Tuesday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 24th March, Tuesday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13214200'&amp;EntityType='LinearSchedule'&amp;EntityId='45f1a519-69ed-4a50-8abd-f51118b6bde6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260322162200 +0000" stop="20260322183000 +0000">
+		<title>Carabao Cup 2025/26: Arsenal vs Manchester City</title>
+		<desc>The Carabao Cup is the showpiece cup competition of the English Football League (EFL) and an annual knockout competition in men's domestic football in England featuring all clubs from the EFL and Premier League. Catch selected matches from Round 4, the Quarter-finals, Semi-finals and Final ‘live’ on mewatch! </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13154748'&amp;EntityType='LinearSchedule'&amp;EntityId='b9afef2f-d759-49de-8f6e-0a3b071c4353'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260322183000 +0000" stop="20260323160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13154752'&amp;EntityType='LinearSchedule'&amp;EntityId='24d20fae-25cf-4bed-8fa8-b4ab6b8e17a9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260323160000 +0000" stop="20260324160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13168393'&amp;EntityType='LinearSchedule'&amp;EntityId='fb5e79dc-94d6-4f44-9ad7-c8f09936ae09'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260322163612 +0000" stop="20260322175521 +0000">
 		<title>MasterChef Australia Season 02 - EP1</title>
@@ -6830,75 +6780,5 @@
 		<title>Sensational 70s! - EP1</title>
 		<desc>From the era of Glam Rock, New Wave &amp; Disco - it's all the hits from just 1 decade - the 1970s! Platform boots &amp; flares at the ready?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13229626'&amp;EntityType='LinearSchedule'&amp;EntityId='9dd07b02-6761-4d51-88d7-b9015cba8889'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322180000 +0000" stop="20260322190000 +0000">
-		<title>Rock n Roll Rewind: 2000 - 2009</title>
-		<desc>The Biggest Hits that rocked the 00s including Skater Anthems, Nu Metal and everything in between</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219495'&amp;EntityType='LinearSchedule'&amp;EntityId='8c9f70ae-59bf-40a4-9b41-aebe8f4ea1f2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322190000 +0000" stop="20260322200000 +0000">
-		<title>Girls that Rock!</title>
-		<desc>Absolute rock queens are brining the noise for the next hour, so crank it up!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219499'&amp;EntityType='LinearSchedule'&amp;EntityId='d2bbbf82-b075-41c5-aead-83b2beda185b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322200000 +0000" stop="20260322220000 +0000">
-		<title>Rock Superstars thru the Decades</title>
-		<desc>The artists and tracks that defined generations! These are your superstars of rock!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219503'&amp;EntityType='LinearSchedule'&amp;EntityId='4f098c19-ea62-49d1-8770-8106912dbc66'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260322220000 +0000" stop="20260323000000 +0000">
-		<title>Classic Rock Non stop!</title>
-		<desc>Back to back Rock hits from through the decades, so expect big guitars and even bigger hair!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219507'&amp;EntityType='LinearSchedule'&amp;EntityId='fece1df0-15a7-4d2e-88f2-635c3e975a43'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260323000000 +0000" stop="20260323020000 +0000">
-		<title>Biggest Rock Bands Ever!</title>
-		<desc>Big songs and big atitude! It's time to celebrate the biggest rock bands in the world, ever!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219511'&amp;EntityType='LinearSchedule'&amp;EntityId='8d724a69-c26b-4de8-ac40-f9cb493b83e5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260323020000 +0000" stop="20260323040000 +0000">
-		<title>Legends of Rock 1970 - 2009</title>
-		<desc>These are the acts that shaped the sound of Rock music forever! Legends only!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219515'&amp;EntityType='LinearSchedule'&amp;EntityId='e4c227d2-923a-4835-ae37-812730406c7f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260323040000 +0000" stop="20260323050000 +0000">
-		<title>Girls that Rock!</title>
-		<desc>Absolute rock queens are brining the noise for the next hour, so crank it up!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219519'&amp;EntityType='LinearSchedule'&amp;EntityId='cd3b0572-13eb-4bb6-95a3-35134aca7862'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260323050000 +0000" stop="20260323070000 +0000">
-		<title>Turn it Up! Rock Anthems</title>
-		<desc>Rock hits that are just too hot to handle! Turn it up for maximum rock overdrive!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219523'&amp;EntityType='LinearSchedule'&amp;EntityId='6fcd3f34-71e6-4347-973e-3d219b9c2f5a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260323070000 +0000" stop="20260323090000 +0000">
-		<title>Smells like the 90s! Rock Anthems</title>
-		<desc>The 90s was one of the most iconic decades for Rock, so here are some of the very best anthems to take you back.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219527'&amp;EntityType='LinearSchedule'&amp;EntityId='642b4386-1734-448c-be3e-ef7d8d21f0d3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260323090000 +0000" stop="20260323110000 +0000">
-		<title>Warning! Maximum Rock Overdrive</title>
-		<desc>The playlist is so huge it comes with a warning! Mega rock hits only from the 70s to 00s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219531'&amp;EntityType='LinearSchedule'&amp;EntityId='f7d2857f-2562-4e2c-bb39-db8a42aadcac'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260323110000 +0000" stop="20260323120000 +0000">
-		<title>Rock Rewind: The best of 1993</title>
-		<desc>The Biggest Rock Hits from the year 1993</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219535'&amp;EntityType='LinearSchedule'&amp;EntityId='09874e41-7454-437a-9e1f-e1dfc6cf974e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260323120000 +0000" stop="20260323140000 +0000">
-		<title>The Rock n Roll Hall of Fame</title>
-		<desc>Iconic fashion, huge hits, and massive attitude. These are the Rock n Roll stars that defined generations.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219539'&amp;EntityType='LinearSchedule'&amp;EntityId='481829ac-7d93-4e7d-bcaa-08d3888295db'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260323140000 +0000" stop="20260323160000 +0000">
-		<title>Sing it Loud: Karaoke Hits</title>
-		<desc>Grab your mic and get ready to sing your heart out to the biggest rock vocals of all time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219543'&amp;EntityType='LinearSchedule'&amp;EntityId='0ed88fa4-6531-481d-a73f-4f4c0d4a4ab1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="158963" start="20260323160000 +0000" stop="20260323180000 +0000">
-		<title>Big Fat Rock Hits</title>
-		<desc>Big fat rock hits from 1970 - 2009</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13219547'&amp;EntityType='LinearSchedule'&amp;EntityId='f7a8c647-0f57-425d-a8ea-00fb3082636c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
