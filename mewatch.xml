@@ -56,10 +56,6 @@
 		<display-name>FoodON</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089305'&amp;EntityType='Item'&amp;EntityId='558273'&amp;Width=150&amp;Height=59" />
 	</channel>
-	<channel id="773721">
-		<display-name>That's 80s</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13362956'&amp;EntityType='Item'&amp;EntityId='773721'&amp;Width=264&amp;Height=250" />
-	</channel>
 	<channel id="773723">
 		<display-name>That's 70s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13362982'&amp;EntityType='Item'&amp;EntityId='773723'&amp;Width=205&amp;Height=250" />
@@ -95,6 +91,10 @@
 	<channel id="556877">
 		<display-name>TG Junior</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358838'&amp;EntityType='Item'&amp;EntityId='556877'&amp;Width=264&amp;Height=250" />
+	</channel>
+	<channel id="382872">
+		<display-name>CinemaWorld</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260331160000 +0000" stop="20260331163000 +0000">
 		<title>Journey To Dream</title>
@@ -2156,15 +2156,35 @@
 		<desc>Legendary radio host Yang Hee-eun. What dish would she recommend to enjoy with the writers of Women’s Era?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13388166'&amp;EntityType='LinearSchedule'&amp;EntityId='1b37faa6-7294-483b-afa8-6a280e880e9b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="773721" start="20260331150000 +0000" stop="20260331170000 +0000">
-		<title>80s Chart Rewind</title>
-		<desc>This playlist is packed with all the hits that made the 80s cool!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13347095'&amp;EntityType='LinearSchedule'&amp;EntityId='52481f13-efbf-4ab4-b663-4b6f991e5226'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260331160000 +0000" stop="20260401050000 +0000">
-		<title>Schedule To Be Announced</title>
-		<desc>Schedule To Be Announced</desc>
+	<programme channel="773723" start="20260331160000 +0000" stop="20260331180000 +0000">
+		<title>Blockbuster Hits of the 70s</title>
+		<desc>The most powerful hits that stormed the charts in the 70s</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13346811'&amp;EntityType='LinearSchedule'&amp;EntityId='e55c8fe9-ef91-42c9-9775-31fccb0d85e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="773723" start="20260331180000 +0000" stop="20260331200000 +0000">
+		<title>Non-Stop 70s Pop!</title>
+		<desc>It's all about the catchy hooks and sing along songs right now as we bring you non stop 70s pop</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13460368'&amp;EntityType='LinearSchedule'&amp;EntityId='cd01544e-eedd-4285-9016-f28933c0a5e4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="773723" start="20260331200000 +0000" stop="20260331220000 +0000">
+		<title>Play that Funky 70s Music!</title>
+		<desc>Funky beats and grooves that will take you righ back to the 70s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13460364'&amp;EntityType='LinearSchedule'&amp;EntityId='52ebb6cd-d7c6-469e-a5c8-f4d8ecffbc79'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="773723" start="20260331220000 +0000" stop="20260401000000 +0000">
+		<title>Smooth Sounds of the Seventies</title>
+		<desc>Soft tunes and soulful melodies to take you on a trip down memory lane</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13460380'&amp;EntityType='LinearSchedule'&amp;EntityId='96b1af9f-51db-4bc5-9a36-143cfc14eefa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="773723" start="20260401000000 +0000" stop="20260401020000 +0000">
+		<title>The 70s Hall Of Fame</title>
+		<desc>Rock rebels, disco queens and everything in between. Check out these icons of the 70s</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13460372'&amp;EntityType='LinearSchedule'&amp;EntityId='d2c73495-ff2d-44f6-b03f-006263d014ad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="773723" start="20260401020000 +0000" stop="20260401050000 +0000">
+		<title>Born to Rock! 70s anthems</title>
+		<desc>Pure 70s Rock anthems that will shake your speakers!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13460376'&amp;EntityType='LinearSchedule'&amp;EntityId='59366bf1-f883-4888-8cfc-5a1ae001dd59'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="773723" start="20260401050000 +0000" stop="20260401070000 +0000">
 		<title>The Golden Years 1970 - 1979</title>
@@ -2196,10 +2216,35 @@
 		<desc>It's all about the catchy hooks and sing along songs right now as we bring you non stop 70s pop</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348694'&amp;EntityType='LinearSchedule'&amp;EntityId='1cd3f3ef-6957-4126-b2d9-f795c84cae88'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="773722" start="20260331160000 +0000" stop="20260401050000 +0000">
-		<title>Schedule To Be Announced</title>
-		<desc>Schedule To Be Announced</desc>
+	<programme channel="773722" start="20260331160000 +0000" stop="20260331180000 +0000">
+		<title>Global Megastars thru the decades</title>
+		<desc>Icons only! These are the legends that rocked the decades.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13347383'&amp;EntityType='LinearSchedule'&amp;EntityId='920dba8f-5e6c-430c-8ceb-e3e7d426124d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="773722" start="20260331180000 +0000" stop="20260331200000 +0000">
+		<title>The Ultimate Rock Mixtape</title>
+		<desc>Rock, Metal, Grunge, Pop Punk, this playlist has it all and more!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13460396'&amp;EntityType='LinearSchedule'&amp;EntityId='124e3c87-2746-4b12-8cee-049fb649541f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="773722" start="20260331200000 +0000" stop="20260331220000 +0000">
+		<title>High Voltage Hits!</title>
+		<desc>Big ones only! Crank it up to the max for the biggest hits ever!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13460392'&amp;EntityType='LinearSchedule'&amp;EntityId='a9de7db2-17ab-40eb-a259-d7b33b9ccd52'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="773722" start="20260331220000 +0000" stop="20260401000000 +0000">
+		<title>Ultimate Rock workout</title>
+		<desc>Hits and riffs perfect for a maximum high energy workout!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13460384'&amp;EntityType='LinearSchedule'&amp;EntityId='5036ab67-c50b-4f26-9992-f0cd2ffaf60b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="773722" start="20260401000000 +0000" stop="20260401020000 +0000">
+		<title>Biggest Rock Bands Ever!</title>
+		<desc>Big songs and big atitude! It's time to celebrate the biggest rock bands in the world, ever!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13460400'&amp;EntityType='LinearSchedule'&amp;EntityId='6a1cf7e9-9a57-4ed0-9453-2a0fc8c6009e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="773722" start="20260401020000 +0000" stop="20260401050000 +0000">
+		<title>Turn on, Tune in and Rock out!</title>
+		<desc>Rock out to our playlist packed with everything from seventies stadium fillers to noughties Nu Metal.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13460388'&amp;EntityType='LinearSchedule'&amp;EntityId='72e8fa31-2092-4171-b525-21038807c844'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="773722" start="20260401050000 +0000" stop="20260401070000 +0000">
 		<title>Global Megastars thru the decades</title>
@@ -3220,6 +3265,76 @@
 		<title>Argo's World</title>
 		<desc>Join Marie and Argo in this exciting STEM edutainment mixed-media series as they venture through Cyberspace and make discoveries about the world through historical figures and notable real-world personalities! Special guests include a founding father of</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13335458'&amp;EntityType='LinearSchedule'&amp;EntityId='910ab036-a1e3-4d6b-b3f5-58cf41e9e79c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260331152500 +0000" stop="20260331171000 +0000">
+		<title>Carte Blanche</title>
+		<desc>An uplifting tale of Kacper, a charismatic high school history teacher who hides his progressing blindness from everyone around him to fulfil his educational duties. His methods are unorthodox, sometimes hilarious, and devilishly effective.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13310323'&amp;EntityType='LinearSchedule'&amp;EntityId='4f4262a3-3a07-4cc5-a87c-e7ea6ddef295'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260331171000 +0000" stop="20260331184000 +0000">
+		<title>Av é</title>
+		<desc>While hitchhiking from Sofia to Ruse, Kamen meets Avé, a 17-year-old runaway girl. A compulsive liar, Avé keeps inventing new identities and backstories, which threaten to get Kamen deeper and deeper into trouble.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314565'&amp;EntityType='LinearSchedule'&amp;EntityId='869bf5fe-a77a-4e75-b72e-66794423950b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260331184000 +0000" stop="20260331202000 +0000">
+		<title>Suso's Tower</title>
+		<desc>When his best friend, Suso, dies, Cundo returns home for the first time in 10 years to say good-bye. He discovers Suso had a dream to build a tower so that he could see life from a different perspective. Cundo resolves to realise his friend’s wish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314599'&amp;EntityType='LinearSchedule'&amp;EntityId='7ab8d34e-1b93-4e75-98d6-a16e5ad3d0ac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260331202000 +0000" stop="20260331220000 +0000">
+		<title>The Breach</title>
+		<desc>A fatal car crash shudders a crisis-torn family. Completely lost and shaken to the core by his wife’s death, the husband undertakes his own investigation and learns the shattering truth about his spouse’s genuine woes and longings.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314609'&amp;EntityType='LinearSchedule'&amp;EntityId='9c878396-a372-4a81-9a4a-0d498d8e094b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260331220000 +0000" stop="20260331234000 +0000">
+		<title>Bluebird</title>
+		<desc>In small town Maine, a school bus driver becomes distracted during her end-of-day inspection and fails to notice a sleeping boy in the back of the bus. What happens next shatters the tranquillity of her small logging town.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314613'&amp;EntityType='LinearSchedule'&amp;EntityId='8fd05a89-8661-4cd5-a983-f7dfab7f154c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260331234000 +0000" stop="20260401012000 +0000">
+		<title>Helen Dorn: The Right To Remain Silent</title>
+		<desc>During a hunting trip, Rolf Kanther, director of a military tech manufacturer, is shot right next to his daughter. Inspector Helen Dorn is sent to investigate the suspicious death, and needs to find out if it's an accident or a calculated murder.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314581'&amp;EntityType='LinearSchedule'&amp;EntityId='e7319bdc-931f-4dec-b2a6-6cffe55c210e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401012000 +0000" stop="20260401031000 +0000">
+		<title>Catch The Wind</title>
+		<desc>Edith is a middle-aged woman, estranged from her son and now about to lose her job as a textile factory worker. With nothing to hold her to her hometown, she decides to move to Morocco where her factory has relocated instead of facing unemployment. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314585'&amp;EntityType='LinearSchedule'&amp;EntityId='9d6bf1f6-af38-4cf2-a1c4-e77ac03ebb91'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401031000 +0000" stop="20260401053500 +0000">
+		<title>They Say Nothing Stays The Same</title>
+		<desc>Toichi, a solitary river boatman, watches his quiet world shift as a bridge across the river threatens to upend his livelihood. When he takes in a mysterious young girl with nowhere to go, her presence leads him toward unexpected change.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314617'&amp;EntityType='LinearSchedule'&amp;EntityId='c915148d-daa9-4a19-9bff-1242aae80380'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401053500 +0000" stop="20260401074000 +0000">
+		<title>Passenger 23</title>
+		<desc>Martin, a police psychologist who lost his wife and his son during a vacation, receives a call that brings new clues about the disappearance of his family and returns to the same cruise ship to discover the truth.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314577'&amp;EntityType='LinearSchedule'&amp;EntityId='294c0854-d954-4abf-9d88-be027f7d9299'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401074000 +0000" stop="20260401093000 +0000">
+		<title>Carte Blanche</title>
+		<desc>An uplifting tale of Kacper, a charismatic high school history teacher who hides his progressing blindness from everyone around him to fulfil his educational duties. His methods are unorthodox, sometimes hilarious, and devilishly effective.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314621'&amp;EntityType='LinearSchedule'&amp;EntityId='8a74ecc5-7db6-4387-89cb-dcf38e00b594'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401093000 +0000" stop="20260401112000 +0000">
+		<title>Blizzard of Souls</title>
+		<desc>After losing his mother and his home, Arturs finds some consolation in joining the army. However, war is nothing like he imagined.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314569'&amp;EntityType='LinearSchedule'&amp;EntityId='929b26dd-945d-4cb9-affd-c9d2d205a72b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401112000 +0000" stop="20260401130000 +0000">
+		<title>Intimate Stranger</title>
+		<desc>In post-COVID Tokyo, single mother Megumi is desperate to find her missing son Shinpei. After a shady young man claims to know her son’s whereabouts, he is invited into Megumi’s home where he soon uncovers a shocking secret.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314625'&amp;EntityType='LinearSchedule'&amp;EntityId='1d942842-65fc-4f17-85fe-b757e8119789'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401130000 +0000" stop="20260401143500 +0000">
+		<title>Hotel Barcelona (1)</title>
+		<desc>Laura Santos returns with her troubled son Pedro to her parents’ grand hotel in Barcelona, hoping to guide him back on track. But her homecoming rekindles old family conflicts, as buried tensions resurface within the walls of Hotel Barcelona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314590'&amp;EntityType='LinearSchedule'&amp;EntityId='32e332c3-dea5-474e-a19c-34b7fb64e3a3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401143500 +0000" stop="20260401162000 +0000">
+		<title>Deserted</title>
+		<desc>While on assignment to the Sinai coast, Swedish photojournalist Ingrid is kidnapped by a group of Palestinian men and hidden in the desert. An unlikely love affair arises between Ingrid and one of her captors, Ali.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13314573'&amp;EntityType='LinearSchedule'&amp;EntityId='0815b320-1ac7-4965-bf99-7cb49a8061db'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260401163000 +0000" stop="20260401173000 +0000">
 		<title>Fire Country S1 - EP 22</title>
@@ -5186,81 +5301,6 @@
 		<desc>Comedy’s favorite foodie siblings, Yoo Min-sang and Kim Min-kyung, arrive! From legendary mukbang moments to nostalgic skits, laughter fills the tavern.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13388486'&amp;EntityType='LinearSchedule'&amp;EntityId='6e678a5c-424a-4e66-a7d1-7b5d624bd393'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="773721" start="20260401190000 +0000" stop="20260401200000 +0000">
-		<title>Hits from the 80s Flicks</title>
-		<desc>It's 80s Move Magic right now as we bring you the hits from iconic movies from Top Gun to Ghostbusters!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348801'&amp;EntityType='LinearSchedule'&amp;EntityId='038becbd-bd06-4bad-a83f-edd3edd778e2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260401200000 +0000" stop="20260401210000 +0000">
-		<title>80s Pop Pin Ups</title>
-		<desc>Get ready for the pop prince and princesses that sole our hearts and minds in the 1980s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348805'&amp;EntityType='LinearSchedule'&amp;EntityId='a6eff0e9-7d71-4b42-ac72-efdf690811e6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260401210000 +0000" stop="20260401230000 +0000">
-		<title>Get into the 80s Groove</title>
-		<desc>Get into the groove as we play you the biggest club classis from 1980 - 1989</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348750'&amp;EntityType='LinearSchedule'&amp;EntityId='ca0f5daf-f35e-4858-a092-adae74c800f9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260401230000 +0000" stop="20260402010000 +0000">
-		<title>80s Girls just wanna have fun!</title>
-		<desc>The very best Pop Queens of the 1980s for your viewing pleasure</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348809'&amp;EntityType='LinearSchedule'&amp;EntityId='e0a432a8-9d56-4b9f-8db2-5ad14b6db037'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260402010000 +0000" stop="20260402020000 +0000">
-		<title>Strike a pose: 80s Fashion icons</title>
-		<desc>The trendsetters that defined the decade! Unforgettable outfits, hair and music videos!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348813'&amp;EntityType='LinearSchedule'&amp;EntityId='d33a4f01-ae68-495b-8683-fed2352ef737'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260402020000 +0000" stop="20260402040000 +0000">
-		<title>Gold! The Biggest Hits 1980 - 1989</title>
-		<desc>Every single track in this playlist is guarenteed to bring you a rush of pure solid gold nostalgia!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348788'&amp;EntityType='LinearSchedule'&amp;EntityId='4144ca30-62da-42c0-adbb-2b5fbd94a1ef'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260402040000 +0000" stop="20260402050000 +0000">
-		<title>80s Power Anthems!</title>
-		<desc>Huge vocals, Check! Huge guitars, Check! Huge attitude, Check! These are the biggest power anthems of the decade</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348793'&amp;EntityType='LinearSchedule'&amp;EntityId='5a666fca-1c62-458b-ba84-6603d9e76087'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260402050000 +0000" stop="20260402070000 +0000">
-		<title>Monster Rock Hits of the 80s</title>
-		<desc>Big riffs and even bigger hair! These are the biggest rock hits of the 80s.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348772'&amp;EntityType='LinearSchedule'&amp;EntityId='25b15cc9-eb51-4adb-8ec4-6a091d225bab'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260402070000 +0000" stop="20260402080000 +0000">
-		<title>Lets hear it for the boys!</title>
-		<desc>Non stop swagger from all the boys that ruled the hearts and the charts in the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348754'&amp;EntityType='LinearSchedule'&amp;EntityId='43d295d9-1a7a-450b-84f5-6867dec5a8d5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260402080000 +0000" stop="20260402100000 +0000">
-		<title>Addicted to 80s Love Songs</title>
-		<desc>Get lost in love right now with a huge mix of tracks that will take you back in time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348817'&amp;EntityType='LinearSchedule'&amp;EntityId='b81a9d8f-9754-49f2-954a-668da09ac6bf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260402100000 +0000" stop="20260402110000 +0000">
-		<title>80s Mega-stars</title>
-		<desc>They ruled the charts and graced every magazine cover across the globe! These are the Megastars of the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348821'&amp;EntityType='LinearSchedule'&amp;EntityId='040849c7-2bc9-4d5c-933b-1d9c1b409299'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260402110000 +0000" stop="20260402130000 +0000">
-		<title>Straight Up 80s Hits</title>
-		<desc>No nonsense, just straight up 80s hits from the most iconic decade in music</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348758'&amp;EntityType='LinearSchedule'&amp;EntityId='6956b3da-700d-4e76-a93a-aa0710e14b07'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260402130000 +0000" stop="20260402140000 +0000">
-		<title>Big Hair, Big Hits!</title>
-		<desc>The biggest hits from the most iconic hairstyles of the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348825'&amp;EntityType='LinearSchedule'&amp;EntityId='c98631fb-6de6-40ba-a1a0-6ba4bf832994'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260402140000 +0000" stop="20260402160000 +0000">
-		<title>Cheesy 80s Classics</title>
-		<desc>Cheesy sing a long tunes to take you back to the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13348782'&amp;EntityType='LinearSchedule'&amp;EntityId='4b644ff3-f026-4d07-9b0e-465a98b0d4ce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260402160000 +0000" stop="20260402170000 +0000">
-		<title>Girls of the 80s!</title>
-		<desc>Style, Sass and songs that defined a decade. These are the girls that ruled the 80s.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13362671'&amp;EntityType='LinearSchedule'&amp;EntityId='a73803ad-9a32-4fe6-a398-45fef13a0605'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="773723" start="20260401170000 +0000" stop="20260401190000 +0000">
 		<title>Play that Funky 70s Music!</title>
 		<desc>Funky beats and grooves that will take you righ back to the 70s</desc>
@@ -6515,5 +6555,80 @@
 		<title>Timmy Time</title>
 		<desc>Being an ‘only lamb in the flock’ Timmy has been used to getting his own way. Now for the first time Timmy is going to have to learn to get along with other little animals. Timmy is going to Nursery! Self-willed and naughty Timmy is going to have to learn how to share things with other youngsters and think about their feelings – not just his. Timmy is a gifted little footballer who needs to learn that it’s not enough to kick the ball – you have to pass it too. Harriet Heron and Osbourne Owl, who run the Nursery are going to have their hands full, but Timmy gets it right in the end with a little help from his friends of the furry, feathery and spikey type.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13354719'&amp;EntityType='LinearSchedule'&amp;EntityId='246e7120-84bc-485c-88d9-c6c2e7266849'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401162000 +0000" stop="20260401180000 +0000">
+		<title>Bluebird</title>
+		<desc>In small town Maine, a school bus driver becomes distracted during her end-of-day inspection and fails to notice a sleeping boy in the back of the bus. What happens next shatters the tranquillity of her small logging town.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333654'&amp;EntityType='LinearSchedule'&amp;EntityId='692c798f-bc80-4f81-8938-0bbd77e49ba9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401180000 +0000" stop="20260401201000 +0000">
+		<title>Passenger 23</title>
+		<desc>Martin, a police psychologist who lost his wife and his son during a vacation, receives a call that brings new clues about the disappearance of his family and returns to the same cruise ship to discover the truth.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333658'&amp;EntityType='LinearSchedule'&amp;EntityId='3a5fc193-1862-4ceb-b3ed-208f2cd4f48f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401201000 +0000" stop="20260401220000 +0000">
+		<title>Catch The Wind</title>
+		<desc>Edith is a middle-aged woman, estranged from her son and now about to lose her job as a textile factory worker. With nothing to hold her to her hometown, she decides to move to Morocco where her factory has relocated instead of facing unemployment. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333662'&amp;EntityType='LinearSchedule'&amp;EntityId='ce72dbad-4d6e-4ef4-bea2-1fd4ff343915'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401220000 +0000" stop="20260401234000 +0000">
+		<title>Intimate Stranger</title>
+		<desc>In post-COVID Tokyo, single mother Megumi is desperate to find her missing son Shinpei. After a shady young man claims to know her son’s whereabouts, he is invited into Megumi’s home where he soon uncovers a shocking secret.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333694'&amp;EntityType='LinearSchedule'&amp;EntityId='f15c8856-ccf0-4803-ad1e-1be48352ebe4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260401234000 +0000" stop="20260402013000 +0000">
+		<title>The Cuban</title>
+		<desc>An unexpected friendship begins between an elderly Cuban musician with dementia who is brought out of his shell by his care worker, and a disillusioned young pre-med Afghan student named Mina. Through a shared love of music, both their lives are changed.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333666'&amp;EntityType='LinearSchedule'&amp;EntityId='8b2c4518-c4a7-44f8-8122-919e4555517d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260402013000 +0000" stop="20260402031500 +0000">
+		<title>Blizzard of Souls</title>
+		<desc>After losing his mother and his home, Arturs finds some consolation in joining the army. However, war is nothing like he imagined.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333642'&amp;EntityType='LinearSchedule'&amp;EntityId='ede995c4-c3c7-4cd8-843b-1ea912d8639c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260402031500 +0000" stop="20260402044500 +0000">
+		<title>Amerika Square</title>
+		<desc>In modern-day Athens, a racist local disrupts the escape plans of a Syrian doctor and an African Singer who both want to smuggle out of Greece. As time runs out, tattoo artist Billy steps in to organize their desperate escape.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333699'&amp;EntityType='LinearSchedule'&amp;EntityId='5b7e98d3-91f4-4d52-858f-3567a73094fe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260402044500 +0000" stop="20260402061500 +0000">
+		<title>Hotel Barcelona (1)</title>
+		<desc>Laura Santos returns with her troubled son Pedro to her parents’ grand hotel in Barcelona, hoping to guide him back on track. But her homecoming rekindles old family conflicts, as buried tensions resurface within the walls of Hotel Barcelona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333722'&amp;EntityType='LinearSchedule'&amp;EntityId='ee982d19-a13b-40dc-baaa-27bf5890c867'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260402061500 +0000" stop="20260402074500 +0000">
+		<title>The Beautiful Spark</title>
+		<desc>After losing his job in a scandal, Michelin-starred chef Philippe gets a second chance at La Belle Étincelle - a unique restaurant run by Virginie, and staffed by her autistic son Noé alongside other young people with disabilities.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333650'&amp;EntityType='LinearSchedule'&amp;EntityId='bc6d78e2-a5bf-43b5-8f2c-f84944376502'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260402074500 +0000" stop="20260402092000 +0000">
+		<title>Deserted</title>
+		<desc>While on assignment to the Sinai coast, Swedish photojournalist Ingrid is kidnapped by a group of Palestinian men and hidden in the desert. An unlikely love affair arises between Ingrid and one of her captors, Ali.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333685'&amp;EntityType='LinearSchedule'&amp;EntityId='acf37839-4fb9-49de-aea7-c3b1dd9f43f7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260402092000 +0000" stop="20260402112000 +0000">
+		<title>The Kiss</title>
+		<desc>In 1913 Denmark, young officer Anton grapples with duty and love when he befriends Baron von Løvenskjold's daughter, Edith, confined to a wheelchair. As their bond deepens, Anton is ensnared in a web of promises and lies, torn between pity and true love.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333676'&amp;EntityType='LinearSchedule'&amp;EntityId='b1787ff9-2bdd-48c8-8542-679ca0a43b91'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260402112000 +0000" stop="20260402130000 +0000">
+		<title>Love At First Fight</title>
+		<desc>Between his friends and the family business, Arnaud's summer looks set to be a peaceful one. Peaceful until he runs into Madeleine, as beautiful as she is brusque, a concrete block of tensed muscles and doomsday prophecies.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333690'&amp;EntityType='LinearSchedule'&amp;EntityId='1c451fd1-a8cd-4844-b904-d85b5810fd1c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260402130000 +0000" stop="20260402143000 +0000">
+		<title>Hotel Barcelona (2)</title>
+		<desc>After returning to her parents’ hotel in Barcelona, Laura spends a romantic night with deputy manager Mateo. Though drawn to him, she must stay professional - especially as her troubled son Pedro drifts further away and family conflicts resurface.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333709'&amp;EntityType='LinearSchedule'&amp;EntityId='e4d3366f-8c8c-4753-bcf7-0e2a68fb2313'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260402143000 +0000" stop="20260402155500 +0000">
+		<title>Time For Love</title>
+		<desc>Mikolaj jumps on a train smitten by a beautiful woman. But he is without a ticket. With the aid of charming Edyta, he tries to control the chaos on the train and in his life. Will this journey be enough to find love before Christmas?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333646'&amp;EntityType='LinearSchedule'&amp;EntityId='976539d9-29f1-4820-983f-260c5a688d02'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260402155500 +0000" stop="20260402172500 +0000">
+		<title>Temporaries</title>
+		<desc>Ariane gets a job as an interpreter at a food plant after moving back to the Richelieu Valley following a breakup. There, she finds herself torn between obeying the harsh demands of her boss and standing up for the exploited migrant workers she befriends.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13333718'&amp;EntityType='LinearSchedule'&amp;EntityId='45d3e32c-bba8-4592-9839-d5a59f67d82d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
