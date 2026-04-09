@@ -40,6 +40,10 @@
 		<display-name>LIVE 6</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
 	</channel>
+	<channel id="497989">
+		<display-name>LIVE 7</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
+	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -91,10 +95,6 @@
 	<channel id="556888">
 		<display-name>TRACE Sport Stars</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358846'&amp;EntityType='Item'&amp;EntityId='556888'&amp;Width=350&amp;Height=250" />
-	</channel>
-	<channel id="556893">
-		<display-name>Kartoon Channel!</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358834'&amp;EntityType='Item'&amp;EntityId='556893'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260408160000 +0000" stop="20260408163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 44</title>
@@ -1267,13 +1267,13 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13482342'&amp;EntityType='LinearSchedule'&amp;EntityId='c65417aa-c57f-4e5d-afd4-6c07dd0e7f84'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97078" start="20260408160000 +0000" stop="20260409025500 +0000">
-		<title>No Programme available now. Next Broadcast on 9th April, Thursday 10.55am. Bank of Ningbo Badminton Asia Championships 2026</title>
-		<desc>LIVE 2 will commence broadcast of the Bank of Ningbo Badminton Asia Championships 2026 on 9th April, Thursday 10.55am. Please stay tuned!</desc>
+		<title>No Programme available now. Next Broadcast on 9th April, Thursday 10.55am. Bank of Ningbo Badminton Asia Championships 2026 : Round of 16</title>
+		<desc>LIVE 2 will commence broadcast of the Bank of Ningbo Badminton Asia Championships 2026 : Round of 16 on 9th April, Thursday 10.55am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13461867'&amp;EntityType='LinearSchedule'&amp;EntityId='d5ff7557-5892-465e-b0f3-d0c05d1ef141'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97078" start="20260409025500 +0000" stop="20260409150000 +0000">
-		<title>Bank of Ningbo Badminton Asia Championships 2026</title>
-		<desc>The Badminton Asia Championships 2026 is a premier continental badminton tournament that brings together top shuttlers in Asia as they vie for top spots in the world rankings ahead of major global competitions. The tournament will be held from 7 to 12 April 2026 in Ningbo, China. </desc>
+		<title>Bank of Ningbo Badminton Asia Championships 2026 : Round of 16</title>
+		<desc>Mixed Doubles - Dechapol PUAVARANUKROH / Supissara PAEWSAMPRAN (THA) vs Yuichi SHIMOGAMI / Sayaka HOBARA (JPN) | Women’s Singles - SIM Yu Jin (KOR) vs Karupathevan LETSHANAA (MAS) | Mixed Doubles - Dhruv KAPILA / Tanisha CRASTO (IND) vs CHEN Tang Jie / TOH Ee Wei (MAS) | Men’s Singles - Kunlavut VITIDSARN (THA) vs Yushi TANAKA (JPN) | Women's Doubles - BAEK Ha Na / LEE So Hee (KOR) vs Amallia Cahaya PRATIWI / Siti Fadia Silva RAMADHANTI (INA) | Men’s Doubles - Chaloempon CHAROENKITAMORN / Worrapol THONGSA-NGA (THA) vs Ali Faathir RAYHAN / Devin Artha WAHYUDI (INA) | Women’s Singles - GAO Fang Jie (CHN) vs Putri Kusuma WARDANI (INA) | Men’s Singles - LU Guang Zu (CHN) vs CHOU Tien Chen (TPE) | Women's Doubles - Rachel Allessya ROSE / Febi SETIANINGRUM (INA) vs JIA Yi Fan / ZHANG Shu Xian (CHN) | Men’s Doubles - LIANG Wei Keng / WANG Chang (CHN) vs Kakeru KUMAGAI / Hiroki NISHI (JPN) | </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13593606'&amp;EntityType='LinearSchedule'&amp;EntityId='dd4f063e-2bb5-4588-baf2-0b95c7d09087'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97078" start="20260409150000 +0000" stop="20260409160000 +0000">
@@ -1291,15 +1291,45 @@
 		<desc>Mixed Doubles - Yuta WATANABE (JPN) / Maya TAGUCHI (JPN) vs HUNG Kuei Chun (HKG) / TSANG Hiu Yan (HKG) | Men’s Singles - Yudai OKIMOTO (JPN) vs Jia Heng Jason TEH (SGP) | Women’s Singles - Malvika BANSOD (IND) vs Busanan ONGBAMRUNGPHAN (THA) | Men’s Doubles - Fang-Chih LEE (TPE) / Fang-Jen LEE (TPE) vs Junaidi ARIF (MAS) / Roy King YAP (MAS) | Women’s Doubles - Kavipriya SELVAM (IND) / Simran SINGHI (IND) vs LI Yi Jing (CHN) / LUO Xu Min (CHN) | Women’s Doubles - HSU Yin-Hui (TPE) / LIN Jhih Yun (TPE) vs Ornnicha JONGSATHAPORNPARN (THA) / Sukitta SUWACHAI (THA) | Men’s Singles - LEE Cheuk Yiu (HKG) vs Lakshya SEN (IND) | Men’s Doubles - KANG Min Hyuk (KOR) / KI Dong Ju (KOR) vs Raymond INDRA (INA) / Nikolaus JOAQUIN (INA) | Women’s Doubles - Rachel Allessya ROSE (INA) / Febi SETIANINGRUM (INA) vs CHANG Ching Hui (TPE) / YANG Ching Tun (TPE) | Women’s Singles - Pornpawee CHOCHUWONG (THA) vs LIN Hsiang Ti (TPE) | Women’s Singles - AN Se Young (KOR) vs YEO Jia Min (SGP) | Women's Doubl...</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13593610'&amp;EntityType='LinearSchedule'&amp;EntityId='6e9ae306-9c98-4721-bbc9-f0b334a50bb2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20260408161600 +0000" stop="20260409160000 +0000">
+	<programme channel="204746" start="20260408161600 +0000" stop="20260409025500 +0000">
+		<title>No Programme available now. Next Broadcast on 9th April, Thursday 10.55am. Bank of Ningbo Badminton Asia Championships 2026 : Round of 16</title>
+		<desc>LIVE 6 will commence broadcast of the Bank of Ningbo Badminton Asia Championships 2026 : Round of 16 on 9th April, Thursday 10.55am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13599365'&amp;EntityType='LinearSchedule'&amp;EntityId='32f0ddb1-5a4a-4a37-98a0-ceaa1c40c0fe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20260409025500 +0000" stop="20260409150000 +0000">
+		<title>Bank of Ningbo Badminton Asia Championships 2026 : Round of 16</title>
+		<desc>Mixed Doubles - GOH Soon Huat / LAI Shevon Jemie (MAS) vs CHEN Cheng Kuan / HSU Yin-Hui (TPE) | Men’s Singles - Jonatan CHRISTIE (INA) vs Yudai OKIMOTO (JPN) | Mixed Doubles - Yuta WATANABE / Maya TAGUCHI (JPN) vs YE Hong Wei / Nicole Gonzales CHAN (TPE) | Women’s Singles - Riko GUNJI (JPN) vs KIM Ga Eun (KOR) | Men’s Singles - Koki WATANABE (JPN) vs LOH Kean Yew (SGP) | Men’s Singles - Alwi FARHAN (INA) vs Kodai NARAOKA (JPN) | Women’s Singles - Tomoka MIYAZAKI (JPN) vs Unnati HOODA (IND) | Men’s Doubles - KANG Min Hyuk / KI Dong Ju (KOR) vs Takuro HOKI / Yugo KOBAYASHI (JPN) | Men’s Doubles - HE Ji Ting / REN Xiang Yu (CHN) vs Donovan Willard WEE / Jia Hao Howin WONG (SGP) </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13602879'&amp;EntityType='LinearSchedule'&amp;EntityId='fa24fe92-4319-46e8-9f3e-87931bef0d76'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20260409150000 +0000" stop="20260409160000 +0000">
 		<title>No programmes streaming LIVE at this moment</title>
 		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13599365'&amp;EntityType='LinearSchedule'&amp;EntityId='32f0ddb1-5a4a-4a37-98a0-ceaa1c40c0fe'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13602883'&amp;EntityType='LinearSchedule'&amp;EntityId='d260144f-136a-4c8c-820b-307eb12f3c2a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="204746" start="20260409160000 +0000" stop="20260410160000 +0000">
 		<title>No programmes streaming LIVE at this moment</title>
 		<desc>There are currently no programmes on this channel.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13498142'&amp;EntityType='LinearSchedule'&amp;EntityId='5359857d-377c-4cab-90ae-9514f83cc324'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20260408160000 +0000" stop="20260409080000 +0000">
+		<title>No Programme available now. Next Broadcast on 9th April, Thursday 04.00pm. Bank of Ningbo Badminton Asia Championships 2026 : Round of 16</title>
+		<desc>LIVE 7 will commence broadcast of the Bank of Ningbo Badminton Asia Championships 2026 : Round of 16 on 9th April, Thursday 04.00pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13498166'&amp;EntityType='LinearSchedule'&amp;EntityId='87afe8fb-b6a9-4476-9e9e-cef4a11b8f9f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20260409080000 +0000" stop="20260409120000 +0000">
+		<title>Bank of Ningbo Badminton Asia Championships 2026 : Round of 16</title>
+		<desc>Women's Doubles - Rin IWANAGA (JPN) / Kie NAKANISHI (JPN) vs ONG Xin Yee (MAS) / Carmen TING (MAS) | Men’s Doubles - KIM Won Ho (KOR) / SEO Seung Jae (KOR) vs Eng Keat Wesley KOH (SGP) / Junsuke KUBO (SGP) |</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13602887'&amp;EntityType='LinearSchedule'&amp;EntityId='eda5411b-8e30-4717-af69-4021ec46ab46'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20260409120000 +0000" stop="20260409160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13602891'&amp;EntityType='LinearSchedule'&amp;EntityId='30c0031d-c268-4af9-83c6-7b708775c43f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20260409160000 +0000" stop="20260410160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13498170'&amp;EntityType='LinearSchedule'&amp;EntityId='69990c6f-c5fd-4195-86e0-1c37804dcc6f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260408152411 +0000" stop="20260408163928 +0000">
 		<title>MasterChef Australia Season 03 - MasterClass 9</title>
@@ -2961,91 +2991,6 @@
 		<desc>Who is the greatest rugby player of all time?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13483531'&amp;EntityType='LinearSchedule'&amp;EntityId='f1c73de4-460e-4357-bb90-b008bba43ca7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="556893" start="20260408160000 +0000" stop="20260408163000 +0000">
-		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep4 - EP104</title>
-		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13495667'&amp;EntityType='LinearSchedule'&amp;EntityId='56907dc6-9923-4c8f-a125-96a79107908e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408163000 +0000" stop="20260408170000 +0000">
-		<title>Shaq's Garage - Pizza! Pizza! Pizza! - EP115</title>
-		<desc>Shaq's favourite pizzeria is swamped with orders, luckily the Shaq Paq has nothing better to do that day, so they sign up to help deliver.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495717'&amp;EntityType='LinearSchedule'&amp;EntityId='5bb4bbc9-ac0e-4fb3-aca4-1b0b1e21df3a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408170000 +0000" stop="20260408173000 +0000">
-		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep8 - EP108</title>
-		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13495689'&amp;EntityType='LinearSchedule'&amp;EntityId='d01c75a1-4b40-4697-a045-8ad7ba962c7f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408173000 +0000" stop="20260408180000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep8 - EP8</title>
-		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495708'&amp;EntityType='LinearSchedule'&amp;EntityId='517dc4e5-2439-461e-a509-95f9ae7e524b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408180000 +0000" stop="20260408183000 +0000">
-		<title>Kids' Planet - Communication - EP116</title>
-		<desc>In this episode, we will discover the value and importance of communication. We will learn the correct ways to communicate and the main rules of the good listener. We will know in which sites we can raise our voice and when we should respect the silence of others. We will talk about rumours and how harmful they are for effective communication.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495721'&amp;EntityType='LinearSchedule'&amp;EntityId='5633a575-adf5-4c4d-a964-519ae31e1bd4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408183000 +0000" stop="20260408190500 +0000">
-		<title>Kids' Planet - Dignity - EP117</title>
-		<desc>In this episode we will discover the value of dignity, finding that it goes hand in hand with self-love and self-esteem. We must value ourselves and respect ourselves first and then others. Being respectful is a rule to be able to live in harmony and dignity. It takes dignity to ask for forgiveness and to forgive!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495725'&amp;EntityType='LinearSchedule'&amp;EntityId='3f2e1c6d-3986-4bc9-87ff-dff73c4e8ea3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408190500 +0000" stop="20260408193000 +0000">
-		<title>Mellodees - Hickory Dickory Dock - EP12</title>
-		<desc>Mini Dee explores the inner workings of a clock in this magical adventure.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495761'&amp;EntityType='LinearSchedule'&amp;EntityId='99c8780e-62b3-4054-bd25-11b8ca1e54a4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408193000 +0000" stop="20260408200000 +0000">
-		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep16 - EP116</title>
-		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495675'&amp;EntityType='LinearSchedule'&amp;EntityId='ae3b2ae4-b243-4cb3-8e22-daa27d62a1ea'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408200000 +0000" stop="20260408203000 +0000">
-		<title>Giselle and the Green Team - The Case of the Degraded Grassland - EP203</title>
-		<desc>Gisele and her Green Team fight to stop Nick Slick from operating an illegal cattle ranch and draining all of the Earth's resources.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495730'&amp;EntityType='LinearSchedule'&amp;EntityId='9b1b9b78-96b8-42e1-9356-73b9464b252d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408203000 +0000" stop="20260408210000 +0000">
-		<title>Shaq's Garage - Attack of the 50 Foot Shaq - EP116</title>
-		<desc>Shaq's friend, Keb, makes Shaq a special gift that's larger than life.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495701'&amp;EntityType='LinearSchedule'&amp;EntityId='a4793f4d-b0ec-4497-9f19-76eba4a667c0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408210000 +0000" stop="20260408213000 +0000">
-		<title>Thomas Edison's Secret Lab - No Volts for Von Bolt / Dunkin’ Zombies - EP104</title>
-		<desc>During a sailing trip, Von Bolt begins to malfunction, endangering ALVA and Edison, so the Secret Lab Kids investigate elements, compounds and alloys to diagnose the problem. / When a virus turns JD into a donut-craving zombie, Angie has to come up with not only a cure, but an inoculation against the virus. Fortunately, Jonas Salk can help.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495681'&amp;EntityType='LinearSchedule'&amp;EntityId='c781398c-9ee1-4226-a199-a58e6fe6da11'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408213000 +0000" stop="20260408220000 +0000">
-		<title>Mellodees - The Grand Old Duke Of York - EP27</title>
-		<desc>What a great day! It’s time for an outdoor stretch. Can you sing ‘The Grand Duke of York’? Then join the march with Dee on the streets!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495768'&amp;EntityType='LinearSchedule'&amp;EntityId='0930b47f-3a64-44e5-92ca-685db0cc4ab3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408220000 +0000" stop="20260408223000 +0000">
-		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep4 - EP104</title>
-		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13495713'&amp;EntityType='LinearSchedule'&amp;EntityId='c578030f-396f-4bf2-bd3b-8189c5fea468'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408223000 +0000" stop="20260408230000 +0000">
-		<title>Shaq's Garage - Pizza! Pizza! Pizza! - EP115</title>
-		<desc>Shaq's favourite pizzeria is swamped with orders, luckily the Shaq Paq has nothing better to do that day, so they sign up to help deliver.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495696'&amp;EntityType='LinearSchedule'&amp;EntityId='cf7a8cd1-17bc-4d07-aab9-fac4f498460d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408230000 +0000" stop="20260408233000 +0000">
-		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep8 - EP108</title>
-		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13495744'&amp;EntityType='LinearSchedule'&amp;EntityId='f352cde6-3fe1-46e3-a6b7-7517171787ce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260408233000 +0000" stop="20260409160000 +0000">
-		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep8 - EP8</title>
-		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13495685'&amp;EntityType='LinearSchedule'&amp;EntityId='2d976bfe-ba87-49de-a97f-b5290fcc661c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260409160000 +0000" stop="20260410160000 +0000">
-		<title>Schedule To Be Announced</title>
-		<desc>Schedule To Be Announced</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13483967'&amp;EntityType='LinearSchedule'&amp;EntityId='44ba44a9-8bfe-4d13-9018-78d95476f337'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260409163000 +0000" stop="20260409173000 +0000">
 		<title>NCIS: Sydney S1 - EP 4</title>
 		<desc>When a US petty officer's body is found in the Sydeny's historic and haunted Rocks area a decades old Navy cross medal holds the clue to solving the murder, leading the team on a world ghost chase to catch a killer.</desc>
@@ -3896,15 +3841,10 @@
 		<desc>Across Southeast Asia, marriage rates are falling. In Bangkok, half of its residents are single. In Vietnam, the age of marriage has steadily creeped up. Why do youths no longer want to get hitched?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13482473'&amp;EntityType='LinearSchedule'&amp;EntityId='c8f32f32-93c7-478a-a55b-a97443ead553'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97072" start="20260410030000 +0000" stop="20260410050000 +0000">
+	<programme channel="97072" start="20260410030000 +0000" stop="20260410053000 +0000">
 		<title>(Live) Asia Now</title>
 		<desc>Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13482515'&amp;EntityType='LinearSchedule'&amp;EntityId='7b84a9ce-c737-49de-8b7d-26b0e47ad8f2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97072" start="20260410050000 +0000" stop="20260410053000 +0000">
-		<title>Money Mind - EP 2</title>
-		<desc>How do you make the cut in the job market in 2026? Can you beat job hunt algorithms? And what’s the best way to start building your network to find jobs?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13482440'&amp;EntityType='LinearSchedule'&amp;EntityId='332275fb-6273-47bb-83ae-dc27f48d53fe'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260410053000 +0000" stop="20260410060000 +0000">
 		<title>Safety By Choice, Not By Chance - EP 1</title>
@@ -4140,6 +4080,11 @@
 		<title>No programmes streaming LIVE at this moment</title>
 		<desc>There are currently no programmes on this channel.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13501967'&amp;EntityType='LinearSchedule'&amp;EntityId='4474c53f-9bf8-4991-b190-09b5750aa731'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="497989" start="20260410160000 +0000" stop="20260411160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13502814'&amp;EntityType='LinearSchedule'&amp;EntityId='be175968-5937-428f-907f-f0aef177493d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260409164719 +0000" stop="20260409180631 +0000">
 		<title>MasterChef Australia Season 03 - Sunday Challenge 12</title>
@@ -5760,10 +5705,5 @@
 		<title>GOAT - The Greatest Of All Time - Cycling - EP41</title>
 		<desc>Who is the greatest cyclist of all time?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13502490'&amp;EntityType='LinearSchedule'&amp;EntityId='8930d310-4336-49f3-b4d5-00cd3c3cfdff'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556893" start="20260410160000 +0000" stop="20260411160000 +0000">
-		<title>Schedule To Be Announced</title>
-		<desc>Schedule To Be Announced</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13502682'&amp;EntityType='LinearSchedule'&amp;EntityId='3afef686-ddd8-4a32-9159-ae503cb3d497'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
