@@ -36,13 +36,9 @@
 		<display-name>LIVE 2</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
-	<channel id="204746">
-		<display-name>LIVE 6</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
-	</channel>
-	<channel id="497989">
-		<display-name>LIVE 7</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
 	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
@@ -95,6 +91,10 @@
 	<channel id="556888">
 		<display-name>TRACE Sport Stars</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358846'&amp;EntityType='Item'&amp;EntityId='556888'&amp;Width=350&amp;Height=250" />
+	</channel>
+	<channel id="556893">
+		<display-name>Kartoon Channel!</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358834'&amp;EntityType='Item'&amp;EntityId='556893'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260409160000 +0000" stop="20260409163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 45</title>
@@ -1226,25 +1226,15 @@
 		<desc>LIVE 2 will commence broadcast of the Bank of Ningbo Badminton Asia Championships 2026 on 11th April, Saturday 09.55am. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13501504'&amp;EntityType='LinearSchedule'&amp;EntityId='58bc8158-6f82-4446-915d-3cb00bbbfd84'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20260409160000 +0000" stop="20260410160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13498142'&amp;EntityType='LinearSchedule'&amp;EntityId='5359857d-377c-4cab-90ae-9514f83cc324'&amp;Width=1280&amp;Height=720" />
+	<programme channel="98202" start="20260409160000 +0000" stop="20260410160000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th April, Saturday 3.10pm. FIBA 3x3 World Cup Qualifier 2026</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA 3x3 World Cup Qualifier 2026 on 11th April, Saturday 3.10pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13482814'&amp;EntityType='LinearSchedule'&amp;EntityId='2e53ea3f-1fcb-4f81-80c2-55f5fd4e2862'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20260410160000 +0000" stop="20260411160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13501967'&amp;EntityType='LinearSchedule'&amp;EntityId='4474c53f-9bf8-4991-b190-09b5750aa731'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20260409160000 +0000" stop="20260410160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13498170'&amp;EntityType='LinearSchedule'&amp;EntityId='69990c6f-c5fd-4195-86e0-1c37804dcc6f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20260410160000 +0000" stop="20260411160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13502814'&amp;EntityType='LinearSchedule'&amp;EntityId='be175968-5937-428f-907f-f0aef177493d'&amp;Width=1280&amp;Height=720" />
+	<programme channel="98202" start="20260410160000 +0000" stop="20260411071000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th April, Saturday 3.10pm. FIBA 3x3 World Cup Qualifier 2026</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA 3x3 World Cup Qualifier 2026 on 11th April, Saturday 3.10pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13501934'&amp;EntityType='LinearSchedule'&amp;EntityId='b3ff84b4-4ba8-4a77-80eb-fd8ba1cc0f62'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260409152823 +0000" stop="20260409164719 +0000">
 		<title>MasterChef Australia Season 03 - MasterClass 13</title>
@@ -2916,6 +2906,16 @@
 		<desc>Who is the greatest cyclist of all time?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13502490'&amp;EntityType='LinearSchedule'&amp;EntityId='8930d310-4336-49f3-b4d5-00cd3c3cfdff'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="556893" start="20260409160000 +0000" stop="20260410160000 +0000">
+		<title>Schedule To Be Announced</title>
+		<desc>Schedule To Be Announced</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13483967'&amp;EntityType='LinearSchedule'&amp;EntityId='44ba44a9-8bfe-4d13-9018-78d95476f337'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260410160000 +0000" stop="20260411160000 +0000">
+		<title>Schedule To Be Announced</title>
+		<desc>Schedule To Be Announced</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13502682'&amp;EntityType='LinearSchedule'&amp;EntityId='3afef686-ddd8-4a32-9159-ae503cb3d497'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260410163000 +0000" stop="20260410180000 +0000">
 		<title>Survivor 50 - EP 3</title>
 		<desc>A record 24 castaways return to Fiji for this milestone 50th anniversary season, ranging from multi-season legends to New Era standouts.</desc>
@@ -3946,15 +3946,30 @@
 		<desc>LIVE 2 will commence broadcast of the Bank of Ningbo Badminton Asia Championships 2026 on 12th April, Sunday 1.55pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13518721'&amp;EntityType='LinearSchedule'&amp;EntityId='1aeaebdc-5a28-4f3f-ab7b-4d4c445b574f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20260411160000 +0000" stop="20260412160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13519157'&amp;EntityType='LinearSchedule'&amp;EntityId='10ff9c1e-7961-48db-b36e-82c33569d44c'&amp;Width=1280&amp;Height=720" />
+	<programme channel="98202" start="20260411071000 +0000" stop="20260411095500 +0000">
+		<title>FIBA 3x3 World Cup Qualifier 2026</title>
+		<desc>Women's Pool B - Philippines vs Brazil | Women's Pool A - Hungary vs Egypt | Men's Pool B - New Zealand vs Italy | Men's Pool A - Czechia vs Singapore | Women's Pool B - Philippines vs Singapore | Women's Pool A - Hungary vs Lithuania |</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13578379'&amp;EntityType='LinearSchedule'&amp;EntityId='3037b06d-26f4-41bc-9874-fa2e03968ddc'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="497989" start="20260411160000 +0000" stop="20260412160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13520098'&amp;EntityType='LinearSchedule'&amp;EntityId='ba871179-1cfc-4bf6-b19b-2db65dc3e7b0'&amp;Width=1280&amp;Height=720" />
+	<programme channel="98202" start="20260411095500 +0000" stop="20260411104500 +0000">
+		<title>No Programme available now. Next Broadcast on 11th April, Saturday 6.45pm. FIBA 3x3 World Cup Qualifier 2026</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA 3x3 World Cup Qualifier 2026 on 11th April, Saturday 6.45pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13578367'&amp;EntityType='LinearSchedule'&amp;EntityId='74cfdb2f-c6e3-4c50-bdbb-d8d2835c8599'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260411104500 +0000" stop="20260411133000 +0000">
+		<title>FIBA 3x3 World Cup Qualifier 2026</title>
+		<desc>Men's Pool B - New Zealand vs Egypt | Men's Pool A - Czechia vs Brazil | Women's Pool A - Lithuania vs Egypt | Women's Pool B - Singapore vs Brazil | Men's Pool B - Italy vs Egypt | Men's Pool A - Singapore vs Brazil | </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13578375'&amp;EntityType='LinearSchedule'&amp;EntityId='1683ecce-9956-452f-82c9-a0aef6cc3ad9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260411133000 +0000" stop="20260411160000 +0000">
+		<title>No Programme available now. Next Broadcast on 12th April, Sunday 5.50pm. FIBA 3x3 World Cup Qualifier 2026</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA 3x3 World Cup Qualifier 2026 on 12th April, Sunday 5.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13578371'&amp;EntityType='LinearSchedule'&amp;EntityId='7b8050b3-beba-48f6-b0d3-2db9fc1a043e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260411160000 +0000" stop="20260412095000 +0000">
+		<title>No Programme available now. Next Broadcast on 12th April, Sunday 5.50pm. FIBA 3x3 World Cup Qualifier 2026</title>
+		<desc>LIVE 5 will commence broadcast of the FIBA 3x3 World Cup Qualifier 2026 on 12th April, Sunday 5.50pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13519113'&amp;EntityType='LinearSchedule'&amp;EntityId='c6af119e-a9e2-447b-83ac-6ff00ba2be27'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260410160916 +0000" stop="20260410170648 +0000">
 		<title>MasterChef Australia Celebrity Season 01 - EP3</title>
@@ -5610,5 +5625,10 @@
 		<title>GOAT - The Greatest Of All Time - Mixed Martial Arts - EP45</title>
 		<desc>Who deserves the honour of being designated the greatest MMA fighter of all time?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13519864'&amp;EntityType='LinearSchedule'&amp;EntityId='e700b83e-a663-4c54-8397-780e04f6f3eb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260411160000 +0000" stop="20260412160000 +0000">
+		<title>Schedule To Be Announced</title>
+		<desc>Schedule To Be Announced</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13519940'&amp;EntityType='LinearSchedule'&amp;EntityId='802fc1a5-8624-4cd0-bb24-4a204e115f84'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
