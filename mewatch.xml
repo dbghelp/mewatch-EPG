@@ -32,6 +32,10 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
+	<channel id="97078">
+		<display-name>LIVE 2</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
+	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -91,10 +95,6 @@
 	<channel id="556877">
 		<display-name>TG Junior</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358838'&amp;EntityType='Item'&amp;EntityId='556877'&amp;Width=264&amp;Height=250" />
-	</channel>
-	<channel id="382872">
-		<display-name>CinemaWorld</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260424160000 +0000" stop="20260424170000 +0000">
 		<title>Survivor 50 - EP 1</title>
@@ -1160,6 +1160,26 @@
 		<title>No programme available now. Next broadcast on 26th April, Sunday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 26th April, Sunday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13851847'&amp;EntityType='LinearSchedule'&amp;EntityId='598cbe0c-4f9b-473f-a76c-8aef86661e6d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260424160000 +0000" stop="20260425060000 +0000">
+		<title>No Programme available now. Next Broadcast on 25th April, Saturday 2pm. Singapore T100 2026</title>
+		<desc>LIVE 2 will commence broadcast of the Singapore T100 2026 on 25th April, Saturday 2pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13743680'&amp;EntityType='LinearSchedule'&amp;EntityId='9d1790ec-99b6-480c-ba87-9d909a444199'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260425060000 +0000" stop="20260425100000 +0000">
+		<title>Singapore T100 2026</title>
+		<desc>Set against the stunning backdrop of Marina Bay, the Singapore T100 return on 25 &amp; 26 April 2026 as it offers world's ultimate athletes a unique opportunity to race through the heart of the city on closed, landmark-filled roads. The T100 Triathlon World Tour features the best triathletes from around the world competing to be crowned T100 Triathlon World Champion at the end of the year.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13760412'&amp;EntityType='LinearSchedule'&amp;EntityId='35af494d-bec6-40f1-9d42-5fc237e5a5ca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260425100000 +0000" stop="20260425160000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th May, Sunday 2.05am. AFC Champions League Two 2025/26 Final</title>
+		<desc>LIVE 2 will commence broadcast of the AFC Champions League Two 2025/26 Final: Al Nassr Club vs Gamba Osaka on 17th May, Sunday 02.05am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13743688'&amp;EntityType='LinearSchedule'&amp;EntityId='634b290b-2757-4519-9dc2-238863edd0d7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260425160000 +0000" stop="20260426160000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th May, Sunday 2.05am. AFC Champions League Two 2025/26 Final</title>
+		<desc>LIVE 2 will commence broadcast of the AFC Champions League Two 2025/26 Final: Al Nassr Club vs Gamba Osaka on 17th May, Sunday 02.05am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13760421'&amp;EntityType='LinearSchedule'&amp;EntityId='2459dbbf-64eb-425f-908a-d5a9134395cd'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260424145842 +0000" stop="20260424160040 +0000">
 		<title>MasterChef Australia Season 08 - Team Challenge: Three-Course Dessert Spread</title>
@@ -3376,81 +3396,6 @@
 		<desc>Being an ‘only lamb in the flock’ Timmy has been used to getting his own way. Now for the first time Timmy is going to have to learn to get along with other little animals. Timmy is going to Nursery! Self-willed and naughty Timmy is going to have to learn how to share things with other youngsters and think about their feelings – not just his. Timmy is a gifted little footballer who needs to learn that it’s not enough to kick the ball – you have to pass it too. Harriet Heron and Osbourne Owl, who run the Nursery are going to have their hands full, but Timmy gets it right in the end with a little help from his friends of the furry, feathery and spikey type.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13867122'&amp;EntityType='LinearSchedule'&amp;EntityId='f057c9c1-de0f-4510-88d3-69750dd1f378'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="382872" start="20260424153000 +0000" stop="20260424173000 +0000">
-		<title>Nick-Off Duty</title>
-		<desc>When Lenny sets off on a mission to avenge her mother’s murder, she finds herself in trouble with the Russian mob and an underground organ harvesting ring. Her father, Hamburg cop Nick and his partner must race against the clock to rescue her. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13733988'&amp;EntityType='LinearSchedule'&amp;EntityId='e054c846-886c-4a6d-acfa-e94a154fbafe'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260424173000 +0000" stop="20260424190500 +0000">
-		<title>Three Quarter Moon</title>
-		<desc>Hartmut, a taxi-driver, is left in a bitter slump when his wife leaves him. That is, until he gets six-year-old Hayat and her mother in his taxi. In a serendipitous turn of events, Hayat is left under his care and she helps him learn to enjoy life again. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743636'&amp;EntityType='LinearSchedule'&amp;EntityId='7b2de424-975d-41e1-b921-02f49222c938'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260424190500 +0000" stop="20260424204000 +0000">
-		<title>Pure White</title>
-		<desc>Vural, a husband and a father who was raised in faith, leads a seemingly pious and conformist life. Yet, everything takes a sudden dark turn when he learns a truth that will force him to confront his views on religion and morality.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743644'&amp;EntityType='LinearSchedule'&amp;EntityId='4425614b-66bb-448a-858d-e8cb75c23400'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260424204000 +0000" stop="20260424221500 +0000">
-		<title>Murder in Sainte Baume</title>
-		<desc>Carel has returned to his native Provence. With his ex-schoolmate, today head of the local police, he investigates the death of a man killed by dozens of bee stings. Soon they uncover a horrific case from the past, one that had shaken the whole village.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743702'&amp;EntityType='LinearSchedule'&amp;EntityId='5a3a917c-bd0d-4200-a8c5-a617d72be2c8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260424221500 +0000" stop="20260425000000 +0000">
-		<title>Blizzard of Souls</title>
-		<desc>After losing his mother and his home, Arturs finds some consolation in joining the army. However, war is nothing like he imagined.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743706'&amp;EntityType='LinearSchedule'&amp;EntityId='bef4627a-dfc6-456b-a50a-9c74bf35e7b3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425000000 +0000" stop="20260425011500 +0000">
-		<title>I Am Dating You Not</title>
-		<desc>Roberto loves Paula but she still can’t get over her ex-boyfriend. Meanwhile Roberto’s former girlfriend wants him back. Could office romance get more complicated? A romantic farce starring Virginia Rodríquez, Best Actress, Malaga Film Festival 2013. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743710'&amp;EntityType='LinearSchedule'&amp;EntityId='98f267dc-f0df-48a7-a256-8903daa2d242'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425011500 +0000" stop="20260425031000 +0000">
-		<title>The President</title>
-		<desc>After a brutal coup topples his regime, a fallen dictator flees with his young grandson. Disguised as street musicians, they cross a country scarred by his rule, exposed firsthand to the suffering he had ignored.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743666'&amp;EntityType='LinearSchedule'&amp;EntityId='6c0700b2-913e-4069-9600-111e095750de'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425031000 +0000" stop="20260425044500 +0000">
-		<title>The Peace And Love Process</title>
-		<desc>Marie and Simon, a couple with two children, are deeply in love despite constant fights in their paired life. To save their marriage, they come up with a chart of Ten Rules to seek love and peace.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743654'&amp;EntityType='LinearSchedule'&amp;EntityId='5e266104-fbd4-40b9-946a-c1a093a5cc6c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425044500 +0000" stop="20260425061500 +0000">
-		<title>A Murder Of Crows A Vigilante Justice</title>
-		<desc>When a ransom demand suddenly appears, the disappearance of 19-year-old Tim Jatzkowski is now a cause of concern. While the boy’s father wants the police to rescue him, inspector Martin Brühl tries to convince his family to pay the ransom.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743714'&amp;EntityType='LinearSchedule'&amp;EntityId='17d218ab-433c-4c8d-9470-7d93669e5730'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425061500 +0000" stop="20260425075000 +0000">
-		<title>The Traveller: The Temptation of Evil</title>
-		<desc>Captain Kandinsky is called upon to investigate the death of a dentist whose body was found charred. Kandinsky doubts the official verdict of suicide when he discovers two other victims whose bodies were also found charred in the same region.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743661'&amp;EntityType='LinearSchedule'&amp;EntityId='fb827691-174f-4d82-bf59-ea334dbfd212'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425075000 +0000" stop="20260425095000 +0000">
-		<title>Nick-Off Duty</title>
-		<desc>When Lenny sets off on a mission to avenge her mother’s murder, she finds herself in trouble with the Russian mob and an underground organ harvesting ring. Her father, Hamburg cop Nick and his partner must race against the clock to rescue her. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743670'&amp;EntityType='LinearSchedule'&amp;EntityId='cef23c6b-1e34-4713-ae90-30c7af1c9e8b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425095000 +0000" stop="20260425112500 +0000">
-		<title>Not Here To Be Loved</title>
-		<desc>Jean-Claude is a disillusioned middle-age man who has long forgotten to smile. He is divorced, has a strained relationship with his only son and thinks his father never loved him. Then, he steps in to a tango school and meets Francoise and life changes. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743681'&amp;EntityType='LinearSchedule'&amp;EntityId='47d87735-bc60-4f23-a1be-d4b342ff3945'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425112500 +0000" stop="20260425130000 +0000">
-		<title>Moon's Walking</title>
-		<desc>On the day of her grandmother’s memorial, 16-year-old Jung-hee escapes a volatile home and goes on a journey in search for the truth behind her grandfather’s disappearance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743674'&amp;EntityType='LinearSchedule'&amp;EntityId='d69b3738-ac6f-45ec-bcc6-dd9a826f91d8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425130000 +0000" stop="20260425144500 +0000">
-		<title>Bluebird</title>
-		<desc>In small town Maine, a school bus driver becomes distracted during her end-of-day inspection and fails to notice a sleeping boy in the back of the bus. What happens next shatters the tranquillity of her small logging town.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743690'&amp;EntityType='LinearSchedule'&amp;EntityId='286b11a7-2333-4895-b7e7-5caba02cd8d6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425144500 +0000" stop="20260425164000 +0000">
-		<title>Premiere Affaire</title>
-		<desc>Nora, a young and an inexperienced criminal defense lawyer is charged with the case of a teenage boy accused of murdering a neighbour.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13743698'&amp;EntityType='LinearSchedule'&amp;EntityId='c1dad9e8-8bf4-401e-9787-aec74fd6ab38'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260425163000 +0000" stop="20260425173000 +0000">
 		<title>Leverage: Redemption S3 - EP 2</title>
 		<desc>The team conducts a sting to snare a corrupt judge by using the perfect undercover briber - a completely virtual tech visionary generated by A.I. - only to watch as their Digital Frankenstein quickly spins out of control.</desc>
@@ -4440,6 +4385,11 @@
 		<title>No programme available now. Next broadcast on 27th April, Monday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 27th April, Monday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13851869'&amp;EntityType='LinearSchedule'&amp;EntityId='2e65ec74-d51d-4f06-94a2-9b389c0c2670'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260426160000 +0000" stop="20260427160000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th May, Sunday 2.05am. AFC Champions League Two 2025/26 Final</title>
+		<desc>LIVE 2 will commence broadcast of the AFC Champions League Two 2025/26 Final: Al Nassr Club vs Gamba Osaka on 17th May, Sunday 02.05am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13777746'&amp;EntityType='LinearSchedule'&amp;EntityId='961b2fa4-05e3-4884-ae86-a8cf49a307cd'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260425163813 +0000" stop="20260425173157 +0000">
 		<title>MasterChef New Zealand Season 01 - Auditions</title>
@@ -6565,80 +6515,5 @@
 		<title>Argo's World</title>
 		<desc>Join Marie and Argo in this exciting STEM edutainment mixed-media series as they venture through Cyberspace and make discoveries about the world through historical figures and notable real-world personalities! Special guests include a founding father of the Internet, a NASA astronaut, a top robotics expert, and clever folks from M.I.T!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13779985'&amp;EntityType='LinearSchedule'&amp;EntityId='82751591-c9cc-48c1-a551-01dffe727209'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425164000 +0000" stop="20260425181000 +0000">
-		<title>I Am Dating You Not</title>
-		<desc>Roberto loves Paula but she still can’t get over her ex-boyfriend. Meanwhile Roberto’s former girlfriend wants him back. Could office romance get more complicated? A romantic farce starring Virginia Rodríquez, Best Actress, Malaga Film Festival 2013. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769594'&amp;EntityType='LinearSchedule'&amp;EntityId='13c1f5c4-82a3-4bab-a918-6ee7cd49d356'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425181000 +0000" stop="20260425200500 +0000">
-		<title>The Peace And Love Process</title>
-		<desc>Marie and Simon, a couple with two children, are deeply in love despite constant fights in their paired life. To save their marriage, they come up with a chart of Ten Rules to seek love and peace.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769598'&amp;EntityType='LinearSchedule'&amp;EntityId='d68e69ef-6768-4957-87a9-07e4a3a60360'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425200500 +0000" stop="20260425220000 +0000">
-		<title>The Traveller: The Temptation of Evil</title>
-		<desc>Captain Kandinsky is called upon to investigate the death of a dentist whose body was found charred. Kandinsky doubts the official verdict of suicide when he discovers two other victims whose bodies were also found charred in the same region.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769566'&amp;EntityType='LinearSchedule'&amp;EntityId='7ae020dd-8f88-49f8-adb4-17a08a136848'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425220000 +0000" stop="20260425233500 +0000">
-		<title>Not Here To Be Loved</title>
-		<desc>Jean-Claude is a disillusioned middle-age man who has long forgotten to smile. He is divorced, has a strained relationship with his only son and thinks his father never loved him. Then, he steps in to a tango school and meets Francoise and life changes. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769542'&amp;EntityType='LinearSchedule'&amp;EntityId='a7303a34-c3f1-4119-b1f2-60155ab329f9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260425233500 +0000" stop="20260426011500 +0000">
-		<title>Particles</title>
-		<desc>As winter sets in and P.A. sees the world shifting around him, he starts to observe strange phenomena in the environment. The changes are imperceptible at first, but gradually his whole world seems to be on the brink.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769546'&amp;EntityType='LinearSchedule'&amp;EntityId='7693300a-b96c-4a9a-896b-c79091f34a58'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260426011500 +0000" stop="20260426025000 +0000">
-		<title>Moon's Walking</title>
-		<desc>On the day of her grandmother’s memorial, 16-year-old Jung-hee escapes a volatile home and goes on a journey in search for the truth behind her grandfather’s disappearance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769590'&amp;EntityType='LinearSchedule'&amp;EntityId='9c8333b3-6357-453a-a988-de3c78faf233'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260426025000 +0000" stop="20260426041000 +0000">
-		<title>Open Door</title>
-		<desc>Rudina embarks on a road trip with her pregnant sister Elma back to their Albanian hometown. However, Elma is unmarried, and they need to find someone to play the part of her husband in order not to anger their traditional father.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769570'&amp;EntityType='LinearSchedule'&amp;EntityId='ba8cbeed-13a8-4a58-aa5e-8d46273e7dbc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260426041000 +0000" stop="20260426054000 +0000">
-		<title>Bluebird</title>
-		<desc>In small town Maine, a school bus driver becomes distracted during her end-of-day inspection and fails to notice a sleeping boy in the back of the bus. What happens next shatters the tranquillity of her small logging town.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769550'&amp;EntityType='LinearSchedule'&amp;EntityId='23810b55-4be4-44c6-b137-247a5d3f705e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260426054000 +0000" stop="20260426071500 +0000">
-		<title>The Traveller: The Perched Forest</title>
-		<desc>Commissioner Macéna shows Captain Kandinsky a letter from a ten-year-old boy who claims that a monster in his village forest is behind a string of disappearances. Kandinsky begins the investigation when the boy threatens to confront the culprit himself.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769554'&amp;EntityType='LinearSchedule'&amp;EntityId='093399e2-b996-451e-8151-85e4c12c9061'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260426071500 +0000" stop="20260426085500 +0000">
-		<title>Premiere Affaire</title>
-		<desc>Nora, a young and an inexperienced criminal defense lawyer is charged with the case of a teenage boy accused of murdering a neighbour.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769574'&amp;EntityType='LinearSchedule'&amp;EntityId='43509d3f-f1fb-4d13-858d-387d5611c268'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260426085500 +0000" stop="20260426104500 +0000">
-		<title>Timeline</title>
-		<desc>A romantic reunion turns into a life-or-death game of secrets and survival, where the past cannot stay hidden.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769586'&amp;EntityType='LinearSchedule'&amp;EntityId='b9605c72-073d-4ccd-9fd0-b55b273a76fe'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260426104500 +0000" stop="20260426124000 +0000">
-		<title>Like Crazy</title>
-		<desc>Two mental patients, a motor-mouthed fantasist and a tattooed introvert, who met at a community hospital, fled the hospital to embark on a road trip from Tuscany to Rome, in search of love and happiness in the open-air nuthouse - the world of sane people.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769558'&amp;EntityType='LinearSchedule'&amp;EntityId='df96f950-1d95-4c84-8f55-51627037ccf2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260426124000 +0000" stop="20260426130000 +0000">
-		<title>Sneha: The Black In Every Pink</title>
-		<desc>A young beautiful lady, travels to the Sri Lankan highlands to visit her lover’s hometown for the first time. However, submerged beneath the picturesque tranquility of its rolling pastures are some murky secrets that she knows little about. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769562'&amp;EntityType='LinearSchedule'&amp;EntityId='99380e58-0f08-4000-bfe7-b2c3a55d60e4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260426130000 +0000" stop="20260426145000 +0000">
-		<title>Get Help</title>
-		<desc>Sandra, a psychotherapist, has just been hired as therapist by a new online service. As soon as she rushes home to tell her live-in partner the good news, she sees him leaving with no explanation. Sandra is devastated and needs to know why she was dumped. </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769578'&amp;EntityType='LinearSchedule'&amp;EntityId='ad19c4d1-909a-4048-8b10-83d5216cd3ce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="382872" start="20260426145000 +0000" stop="20260426165500 +0000">
-		<title>The Kiss</title>
-		<desc>In 1913 Denmark, young officer Anton grapples with duty and love when he befriends Baron von Løvenskjold's daughter, Edith, confined to a wheelchair. As their bond deepens, Anton is ensnared in a web of promises and lies, torn between pity and true love.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13769582'&amp;EntityType='LinearSchedule'&amp;EntityId='8363d3be-2338-4030-b606-25948739d8d2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
