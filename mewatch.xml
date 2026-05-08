@@ -40,6 +40,10 @@
 		<display-name>Deal or No Deal</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089317'&amp;EntityType='Item'&amp;EntityId='570813'&amp;Width=127&amp;Height=59" />
 	</channel>
+	<channel id="558258">
+		<display-name>Fear Factor</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089337'&amp;EntityType='Item'&amp;EntityId='558258'&amp;Width=150&amp;Height=59" />
+	</channel>
 	<channel id="558241">
 		<display-name>River Monsters</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089297'&amp;EntityType='Item'&amp;EntityId='558241'&amp;Width=150&amp;Height=59" />
@@ -1331,6 +1335,131 @@
 		<title>Deal Or No Deal USA - EP57</title>
 		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14010075'&amp;EntityType='LinearSchedule'&amp;EntityId='4f4a596c-0190-465d-8079-25871ce31711'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260507152200 +0000" stop="20260507164150 +0000">
+		<title>Fear Factor USA - EP9</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009639'&amp;EntityType='LinearSchedule'&amp;EntityId='52c21946-9513-4d28-9779-8877b8a8a6a3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260507164150 +0000" stop="20260507173443 +0000">
+		<title>Fear Factor USA - EP10</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009679'&amp;EntityType='LinearSchedule'&amp;EntityId='5829813b-550e-46a2-979e-320e61fb9478'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260507173443 +0000" stop="20260507182735 +0000">
+		<title>Fear Factor USA - EP11</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009695'&amp;EntityType='LinearSchedule'&amp;EntityId='4376770b-93ea-42da-8672-8e0244df5acf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260507182735 +0000" stop="20260507192028 +0000">
+		<title>Fear Factor USA - EP12</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009683'&amp;EntityType='LinearSchedule'&amp;EntityId='4e239ccb-e8ab-48b7-a1ff-eb8103f015e6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260507192028 +0000" stop="20260507210104 +0000">
+		<title>Fear Factor 2.0 USA - The Bees Are So Angry</title>
+		<desc>Five teams of two compete for $100,000 dollars on a five stunt, 2 hour spectacular.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009703'&amp;EntityType='LinearSchedule'&amp;EntityId='79826667-0730-4c2b-b891-d2f29fe78e1d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260507210104 +0000" stop="20260507224146 +0000">
+		<title>Fear Factor 2.0 USA - Leeches &amp; Shaved Heads &amp; Tear Gas</title>
+		<desc>In a special 2 hour Fear Factor five teams of 2 are bungeed off a cliff while tied under a helicopter.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009699'&amp;EntityType='LinearSchedule'&amp;EntityId='9363b95c-f982-4542-8629-5c12bb42ac69'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260507224146 +0000" stop="20260507233236 +0000">
+		<title>Fear Factor 2.0 USA - Snake Bite</title>
+		<desc>Four couples compete for a grand prize of $50,000.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009687'&amp;EntityType='LinearSchedule'&amp;EntityId='12f7a691-c780-4acf-be07-08109ad80b44'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260507233236 +0000" stop="20260508002328 +0000">
+		<title>Fear Factor 2.0 USA - Roach Coach</title>
+		<desc>Four teams of two compete for $50,000 as they are locked in a cage and sunk underwater.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026486'&amp;EntityType='LinearSchedule'&amp;EntityId='b25a8a8f-30c7-40ce-940e-9ab5c1d4fe4a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508002328 +0000" stop="20260508011419 +0000">
+		<title>Fear Factor 2.0 USA - Broken Hearts &amp; Blood Baths</title>
+		<desc>Four teams of exes must deal with 3 stunts and each other.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026538'&amp;EntityType='LinearSchedule'&amp;EntityId='a0837e74-f892-4b5d-a737-c0936cebdfc2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508011419 +0000" stop="20260508020510 +0000">
+		<title>Fear Factor 2.0 USA - Tall Crappacino</title>
+		<desc>Four teams of two attempt to win $50,000.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026542'&amp;EntityType='LinearSchedule'&amp;EntityId='a46ca0dc-e432-4030-9254-9e534a77b2a3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508020510 +0000" stop="20260508025402 +0000">
+		<title>Fear Factor 2.0 USA - Hee Haw! Hee Haw!</title>
+		<desc>Four sets of twins compete for $50,000 as they are electric shocked.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026526'&amp;EntityType='LinearSchedule'&amp;EntityId='9095e471-d659-4bf0-8202-974d15b177b3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508025402 +0000" stop="20260508034453 +0000">
+		<title>Fear Factor 2.0 USA - Scorpion Tales</title>
+		<desc>Four teams of family members compete for $50,000 as they careen into a quarry full of live ammunition.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026490'&amp;EntityType='LinearSchedule'&amp;EntityId='3ad22f53-f767-48bf-b19f-0132020fb8c3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508034453 +0000" stop="20260508043810 +0000">
+		<title>Fear Factor USA - EP16</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026510'&amp;EntityType='LinearSchedule'&amp;EntityId='2e7fd5ac-2415-46d4-ad65-da1a90318281'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508043810 +0000" stop="20260508053131 +0000">
+		<title>Fear Factor USA - EP17</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026546'&amp;EntityType='LinearSchedule'&amp;EntityId='9877a5ac-8253-48a7-9116-d2c18234a5ad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508053131 +0000" stop="20260508062451 +0000">
+		<title>Fear Factor USA - EP18</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026550'&amp;EntityType='LinearSchedule'&amp;EntityId='810a8aaf-8834-441f-be1d-fd68f6715535'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508062451 +0000" stop="20260508071810 +0000">
+		<title>Fear Factor USA - EP19</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026494'&amp;EntityType='LinearSchedule'&amp;EntityId='964cbae1-873e-4b85-8f74-d37a1c1695f0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508071810 +0000" stop="20260508081130 +0000">
+		<title>Fear Factor USA - EP20</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026518'&amp;EntityType='LinearSchedule'&amp;EntityId='b930a99c-cb50-4882-9dee-4a8910566221'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508081130 +0000" stop="20260508090505 +0000">
+		<title>Fear Factor USA - EP21</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026514'&amp;EntityType='LinearSchedule'&amp;EntityId='59c6955b-00c1-4c92-a094-be43c7149568'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508090505 +0000" stop="20260508095756 +0000">
+		<title>Fear Factor USA - EP22</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026498'&amp;EntityType='LinearSchedule'&amp;EntityId='44b89fc2-7890-4153-bab2-7804cd2e123e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508095756 +0000" stop="20260508105117 +0000">
+		<title>Fear Factor USA - EP23</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026554'&amp;EntityType='LinearSchedule'&amp;EntityId='920be1b2-58aa-471d-8ab1-1c5559add3f7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508105117 +0000" stop="20260508123527 +0000">
+		<title>Fear Factor USA - EP24</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026522'&amp;EntityType='LinearSchedule'&amp;EntityId='72b689ab-5153-42cd-8829-577163361977'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508123527 +0000" stop="20260508132841 +0000">
+		<title>Fear Factor USA - EP25</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026530'&amp;EntityType='LinearSchedule'&amp;EntityId='70862966-dfd3-4601-82b4-cfe2c0a964f9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508132841 +0000" stop="20260508145449 +0000">
+		<title>Fear Factor USA - EP26</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026502'&amp;EntityType='LinearSchedule'&amp;EntityId='99934029-cc21-4955-9bfe-2e1d752d1753'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508145449 +0000" stop="20260508154741 +0000">
+		<title>Fear Factor USA - EP13</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026506'&amp;EntityType='LinearSchedule'&amp;EntityId='5a7ae3de-c95d-4e78-acf8-f7ffec43b239'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508154741 +0000" stop="20260508164032 +0000">
+		<title>Fear Factor USA - EP14</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026534'&amp;EntityType='LinearSchedule'&amp;EntityId='a825fa03-310f-456f-8b8c-74e4059353b4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20260507154121 +0000" stop="20260507163411 +0000">
 		<title>River Monsters - Coral Reef Killer</title>
@@ -4366,6 +4495,136 @@
 		<title>Deal Or No Deal USA - EP19</title>
 		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (19 out of 39)</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026247'&amp;EntityType='LinearSchedule'&amp;EntityId='613c7ffb-069b-4f59-b4a0-988874c004ba'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508164032 +0000" stop="20260508173323 +0000">
+		<title>Fear Factor USA - EP15</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026582'&amp;EntityType='LinearSchedule'&amp;EntityId='c35e30a9-4831-4a1a-9dfc-24ca96df0918'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508173323 +0000" stop="20260508182614 +0000">
+		<title>Fear Factor USA - EP16</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026586'&amp;EntityType='LinearSchedule'&amp;EntityId='11db392d-d12c-44c2-9cf7-7c62cda48722'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508182614 +0000" stop="20260508191906 +0000">
+		<title>Fear Factor USA - EP17</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026561'&amp;EntityType='LinearSchedule'&amp;EntityId='49a52a20-6467-4407-a9f0-f33ba33601a9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508191906 +0000" stop="20260508201218 +0000">
+		<title>Fear Factor USA - EP27</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026574'&amp;EntityType='LinearSchedule'&amp;EntityId='84d425de-6e7d-47c4-ab42-448f3d0e3a20'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508201218 +0000" stop="20260508210530 +0000">
+		<title>Fear Factor USA - EP28</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026566'&amp;EntityType='LinearSchedule'&amp;EntityId='96974b43-d17d-4940-919e-a07aa2b4fc7e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508210530 +0000" stop="20260508215841 +0000">
+		<title>Fear Factor USA - EP29</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026570'&amp;EntityType='LinearSchedule'&amp;EntityId='63e886d0-5e81-4b61-a5be-93f9769534c5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508215841 +0000" stop="20260508225153 +0000">
+		<title>Fear Factor USA - EP30</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026594'&amp;EntityType='LinearSchedule'&amp;EntityId='9a21643d-943e-4820-a264-7864321a1cb4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508225153 +0000" stop="20260508234505 +0000">
+		<title>Fear Factor USA - EP31</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026578'&amp;EntityType='LinearSchedule'&amp;EntityId='6a90f9d7-2c23-4a99-88eb-17fb9c9bd73d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260508234505 +0000" stop="20260509003905 +0000">
+		<title>Fear Factor USA - EP1</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040541'&amp;EntityType='LinearSchedule'&amp;EntityId='8d077d97-332b-40e0-85cd-52565157ddcf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509003905 +0000" stop="20260509013314 +0000">
+		<title>Fear Factor USA - EP2</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040593'&amp;EntityType='LinearSchedule'&amp;EntityId='af4cdc4d-b7b3-4715-be07-c484d084caf4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509013314 +0000" stop="20260509022722 +0000">
+		<title>Fear Factor USA - EP3</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040569'&amp;EntityType='LinearSchedule'&amp;EntityId='e32e169f-23bf-4ea2-b2b7-8ce66f241d07'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509022722 +0000" stop="20260509032122 +0000">
+		<title>Fear Factor USA - EP4</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040545'&amp;EntityType='LinearSchedule'&amp;EntityId='cdade3d2-75c8-49ac-afc8-727c81825e10'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509032122 +0000" stop="20260509041521 +0000">
+		<title>Fear Factor USA - EP5</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040549'&amp;EntityType='LinearSchedule'&amp;EntityId='2b3b07f5-9abd-4f67-8e7b-abc34f8b5055'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509041521 +0000" stop="20260509050921 +0000">
+		<title>Fear Factor USA - EP6</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040573'&amp;EntityType='LinearSchedule'&amp;EntityId='9784db5c-b2b9-432a-8aeb-e8de15db28d7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509050921 +0000" stop="20260509060321 +0000">
+		<title>Fear Factor USA - EP7</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040597'&amp;EntityType='LinearSchedule'&amp;EntityId='3f7dc709-a7b6-4cf4-92eb-872debe9ae42'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509060321 +0000" stop="20260509065719 +0000">
+		<title>Fear Factor USA - EP8</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040561'&amp;EntityType='LinearSchedule'&amp;EntityId='ecfaa0d0-1808-456e-ae56-e747bf59ed1f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509065719 +0000" stop="20260509075119 +0000">
+		<title>Fear Factor USA - EP9</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040565'&amp;EntityType='LinearSchedule'&amp;EntityId='70ef3026-9e80-4ff6-a122-4ad892f78fd4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509075119 +0000" stop="20260509084543 +0000">
+		<title>Fear Factor USA - EP10</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040601'&amp;EntityType='LinearSchedule'&amp;EntityId='17ade4dd-0553-4e37-8d21-7322806d2d46'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509084543 +0000" stop="20260509094512 +0000">
+		<title>Fear Factor USA - EP1</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040605'&amp;EntityType='LinearSchedule'&amp;EntityId='83c48fa5-b1ee-4cca-8d71-6006bb8d8fb1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509094512 +0000" stop="20260509103919 +0000">
+		<title>Fear Factor USA - EP2</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040609'&amp;EntityType='LinearSchedule'&amp;EntityId='77049306-e0eb-4ffd-8ef8-1f72050965eb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509103919 +0000" stop="20260509113312 +0000">
+		<title>Fear Factor USA - EP3</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040553'&amp;EntityType='LinearSchedule'&amp;EntityId='06720f19-fce4-4ebd-8318-2618db0d08b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509113312 +0000" stop="20260509122706 +0000">
+		<title>Fear Factor USA - EP4</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040577'&amp;EntityType='LinearSchedule'&amp;EntityId='d277302e-b586-47e5-b848-8f76f5c31685'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509122706 +0000" stop="20260509132101 +0000">
+		<title>Fear Factor USA - EP5</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040557'&amp;EntityType='LinearSchedule'&amp;EntityId='a6fc85e4-f647-41cf-a1a0-0deecdaa0526'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509132101 +0000" stop="20260509141454 +0000">
+		<title>Fear Factor USA - EP6</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040581'&amp;EntityType='LinearSchedule'&amp;EntityId='94471684-e8ba-457a-955e-62a0479cc864'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509141454 +0000" stop="20260509150847 +0000">
+		<title>Fear Factor USA - EP7</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040589'&amp;EntityType='LinearSchedule'&amp;EntityId='7604536c-9008-494f-97e0-f57cc9c119ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558258" start="20260509150847 +0000" stop="20260509160240 +0000">
+		<title>Fear Factor USA - EP8</title>
+		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040585'&amp;EntityType='LinearSchedule'&amp;EntityId='380f705e-fca5-4374-bdad-3ea6627db5fb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20260508162143 +0000" stop="20260508171429 +0000">
 		<title>River Monsters - Demon Fish</title>
