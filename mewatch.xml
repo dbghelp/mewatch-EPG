@@ -28,21 +28,17 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
+	<channel id="98201">
+		<display-name>SPL CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="558278">
-		<display-name>MasterChef</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
-	</channel>
 	<channel id="570813">
 		<display-name>Deal or No Deal</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089317'&amp;EntityType='Item'&amp;EntityId='570813'&amp;Width=127&amp;Height=59" />
-	</channel>
-	<channel id="558258">
-		<display-name>Fear Factor</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089337'&amp;EntityType='Item'&amp;EntityId='558258'&amp;Width=150&amp;Height=59" />
 	</channel>
 	<channel id="558241">
 		<display-name>River Monsters</display-name>
@@ -1066,6 +1062,16 @@
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Balestier Khalsa FC vs Tanjong Pagar United FC on 9th May, Saturday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13997619'&amp;EntityType='LinearSchedule'&amp;EntityId='08f27d0c-494e-433c-86f6-9fbd9d3647b2'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98201" start="20260507160000 +0000" stop="20260508160000 +0000">
+		<title>No Programme available now. Next Broadcast on 9th May, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Young Lions vs Geylang International FC on 9th May, Saturday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13977658'&amp;EntityType='LinearSchedule'&amp;EntityId='dce4a212-1e2f-491f-89e8-941385024ae0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260508160000 +0000" stop="20260509112000 +0000">
+		<title>No Programme available now. Next Broadcast on 9th May, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Young Lions vs Geylang International FC on 9th May, Saturday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13997233'&amp;EntityType='LinearSchedule'&amp;EntityId='260d590b-3f0f-4f72-a370-6c208d2469c6'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97073" start="20260507160000 +0000" stop="20260508110000 +0000">
 		<title>No programme available now. Next broadcast on 8th May, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 8th May, Friday 7pm. Please stay tuned!</desc>
@@ -1206,136 +1212,6 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 9th May, Saturday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13996685'&amp;EntityType='LinearSchedule'&amp;EntityId='bc60f7fe-3222-414c-9518-ec05b2c9bce0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558278" start="20260507150126 +0000" stop="20260507162153 +0000">
-		<title>MasterChef Australia Season 02 - EP77</title>
-		<desc>After a stressful week the contestants relax and enjoy a MasterClass with George &amp; Gary.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009731'&amp;EntityType='LinearSchedule'&amp;EntityId='3f77a3fb-ff71-4a30-b0b7-b95b6c78d0fa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260507162153 +0000" stop="20260507171535 +0000">
-		<title>MasterChef Australia Season 02 - EP78</title>
-		<desc>It's Finals week and after today 1 contestant will be eliminated each day.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009808'&amp;EntityType='LinearSchedule'&amp;EntityId='90ec1c10-b1b3-4f81-90e5-a9737c2d153b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260507171535 +0000" stop="20260507181543 +0000">
-		<title>MasterChef Australia Season 02 - EP79</title>
-		<desc>The Final 6 will all cook off in a pressure test.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009803'&amp;EntityType='LinearSchedule'&amp;EntityId='87e8aac5-9038-458f-aff2-1d361c5fd0b3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260507181543 +0000" stop="20260507191037 +0000">
-		<title>MasterChef Australia Season 02 - EP80</title>
-		<desc>The Final 5 have 90mins to cook 1 sweet and 1 savoury dish using 12 ingredients in a Mystery Box.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009795'&amp;EntityType='LinearSchedule'&amp;EntityId='9cb7b284-cbf7-4a11-95ff-03f3b3d97338'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260507191037 +0000" stop="20260507200818 +0000">
-		<title>MasterChef Australia Season 02 - EP81</title>
-		<desc>Tonight the final 4 have 2.5 hours to come up with a 3 course meal that they would put in their cook books.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009787'&amp;EntityType='LinearSchedule'&amp;EntityId='d3d27592-ed04-450f-bfe3-545763b7283b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260507200818 +0000" stop="20260507210316 +0000">
-		<title>MasterChef Australia Season 02 - EP82</title>
-		<desc>The Final 3 head to Canberra to cook at a function for the Governor General.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009791'&amp;EntityType='LinearSchedule'&amp;EntityId='1f51afc6-6c99-4dfc-8923-82add1d2acb3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260507210316 +0000" stop="20260507222513 +0000">
-		<title>MasterChef Australia Season 02 - EP83</title>
-		<desc>It's time to have a bit of fun, todays MasterClass sees all the eliminated contestants return.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009815'&amp;EntityType='LinearSchedule'&amp;EntityId='6ed7f103-ffca-45ee-a52d-9b6f680def4a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260507222513 +0000" stop="20260508002803 +0000">
-		<title>MasterChef Australia Season 02 - EP84</title>
-		<desc>The final 2 will have to compete in 3 rounds to prove that they are worthy of the MasterChef title.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009799'&amp;EntityType='LinearSchedule'&amp;EntityId='43407191-e46c-4820-8730-4066e9c2c6f6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508002803 +0000" stop="20260508012203 +0000">
-		<title>MasterChef New Zealand Season 05 - Auditions</title>
-		<desc>MasterChef duos competition, pairs of home cooks from around the country compete.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026614'&amp;EntityType='LinearSchedule'&amp;EntityId='d49e6fff-646b-40f2-b8f2-8c6949999cef'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508012203 +0000" stop="20260508021610 +0000">
-		<title>MasterChef New Zealand Season 05 - Little Black Forest Cakes</title>
-		<desc>The Top 15 contestants make Little Black Forest Cakes for cookbook queen Donna Hay.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026630'&amp;EntityType='LinearSchedule'&amp;EntityId='893f7919-14cd-4f77-bb65-9fca8db7f768'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508021610 +0000" stop="20260508030918 +0000">
-		<title>MasterChef New Zealand Season 05 - Lamb</title>
-		<desc>The Top 14 duos face an invention test using cuts of lamb and offal.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026618'&amp;EntityType='LinearSchedule'&amp;EntityId='afe711bb-e87f-4e3a-99f1-09be0cec2495'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508030918 +0000" stop="20260508040046 +0000">
-		<title>MasterChef New Zealand Season 05 - Mystery Fridge</title>
-		<desc>The Top 13 duos each cook a main and a dessert with the contents of 13 different fridges.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026622'&amp;EntityType='LinearSchedule'&amp;EntityId='a2dd961b-6011-4c15-9b22-002998116375'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508040046 +0000" stop="20260508045350 +0000">
-		<title>MasterChef New Zealand Season 05 - Oyster Challenge</title>
-		<desc>The Top 12 duos shuck and prepare oysters three ways in the Bay of Islands.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026634'&amp;EntityType='LinearSchedule'&amp;EntityId='739b5225-1b0d-4faa-a0f5-e545ff3f3ab6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508045350 +0000" stop="20260508054417 +0000">
-		<title>MasterChef New Zealand Season 05 - Duke Of Marlborough Hotel</title>
-		<desc>The Bottom 6 duos cook dinner for the Top 6 duos and 185 other guests at The Duke Of Marlborough Hotel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026678'&amp;EntityType='LinearSchedule'&amp;EntityId='6eb31a4f-53ad-48d4-840a-c3528fb8cab3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508054417 +0000" stop="20260508063602 +0000">
-		<title>MasterChef New Zealand Season 05 - Daniel Wilson / Kiwi Style Bouillabaisse</title>
-		<desc>The Top 11 duos cook a Kiwi spin on a classic French fish stew for guest chef Daniel Wilson.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026626'&amp;EntityType='LinearSchedule'&amp;EntityId='09d71632-7107-4572-95e2-11364b4a24c1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508063602 +0000" stop="20260508072719 +0000">
-		<title>MasterChef New Zealand Season 05 - 1 Fish, 2 Dish</title>
-		<desc>The Top1 0 duos each prepare and cook two dishes from a whole fish.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026662'&amp;EntityType='LinearSchedule'&amp;EntityId='12bdfa71-a8d7-4095-aa66-03183d580d50'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508072719 +0000" stop="20260508081848 +0000">
-		<title>MasterChef New Zealand Season 05 - FISH</title>
-		<desc>Masterchef judges Josh Emett and Ray McVinnie cook two simple but elegant fish dishes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026658'&amp;EntityType='LinearSchedule'&amp;EntityId='d262fe1c-aa72-4c7f-9547-13496690e26c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508081848 +0000" stop="20260508090848 +0000">
-		<title>MasterChef New Zealand Season 05 - Avondale Market Team Challenge</title>
-		<desc>The Top 9 duos split into three teams to cook and sell fast food dishes at the famous Avondale market.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026638'&amp;EntityType='LinearSchedule'&amp;EntityId='0abe26ea-4370-4aeb-a8ee-86a8091b9ddd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508090848 +0000" stop="20260508100050 +0000">
-		<title>MasterChef New Zealand Season 05 - Classic Kiwi Dishes with a Twist</title>
-		<desc>The Top 9 duos present their versions of a classic New Zealand main and pavlova.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026642'&amp;EntityType='LinearSchedule'&amp;EntityId='3d5d687c-b3f9-4439-931e-694ab40159d7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508100050 +0000" stop="20260508105228 +0000">
-		<title>MasterChef New Zealand Season 05 - Roast Lamb</title>
-		<desc>Masterchef judges Josh Emett and Ray McVinnie cook their versions of the classic lamb roast.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026646'&amp;EntityType='LinearSchedule'&amp;EntityId='3f896f82-dffd-4612-8bc1-f18c15389d58'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508105228 +0000" stop="20260508114331 +0000">
-		<title>MasterChef New Zealand Season 05 - Team Degustation Part 1</title>
-		<desc>The Top 8 duos split into two teams to prepare an eight-course degustation meal.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026682'&amp;EntityType='LinearSchedule'&amp;EntityId='5d2c60d4-32ed-47ab-b393-9062383e3a57'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508114331 +0000" stop="20260508123746 +0000">
-		<title>MasterChef New Zealand Season 05 - Team Degustation Part 2</title>
-		<desc>The Top 8 duos complete their eight-course degustation challenge.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026670'&amp;EntityType='LinearSchedule'&amp;EntityId='9abf3218-f3d3-439d-91e2-a0c27bb08e5f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508123746 +0000" stop="20260508132946 +0000">
-		<title>MasterChef New Zealand Season 05 - Josh &amp; Simon / Degustation</title>
-		<desc>MasterChef judges Simon Gault and Josh Emett cook two degustation-style dishes .</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026650'&amp;EntityType='LinearSchedule'&amp;EntityId='443d8eb2-7234-4c05-85f3-10e8bf5eb06f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508132946 +0000" stop="20260508142159 +0000">
-		<title>MasterChef New Zealand Season 05 - Rabbit &amp; Pasta</title>
-		<desc>The Top 7 duos cook rabbit dishes for guest chef Ben Bayley.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026674'&amp;EntityType='LinearSchedule'&amp;EntityId='b799c7e0-7d18-4544-9d94-ae1bf53e60ce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508142159 +0000" stop="20260508151220 +0000">
-		<title>MasterChef New Zealand Season 05 - Spaghetti &amp; Meatballs</title>
-		<desc>The bottom five duos face a cook-off for just four remaining places in the Top Six.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026666'&amp;EntityType='LinearSchedule'&amp;EntityId='78f752c0-1aa8-4afe-adc0-23bb4a381599'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508151220 +0000" stop="20260508160057 +0000">
-		<title>MasterChef New Zealand Season 05 - MasterClass S04 #04 Josh &amp; Ray / Pasta</title>
-		<desc>MasterChef judges Josh Emett and Ray McVinnie cook dishes using fresh pasta.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026654'&amp;EntityType='LinearSchedule'&amp;EntityId='3a3564de-68bc-41be-b758-db16be0c4b9c'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="570813" start="20260507152710 +0000" stop="20260507161315 +0000">
 		<title>Deal Or No Deal USA - EP9</title>
 		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
@@ -1455,131 +1331,6 @@
 		<title>Deal Or No Deal USA - EP57</title>
 		<desc>Contestants get a chance to win money, from one penny to $1 million.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14010075'&amp;EntityType='LinearSchedule'&amp;EntityId='4f4a596c-0190-465d-8079-25871ce31711'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260507152200 +0000" stop="20260507164150 +0000">
-		<title>Fear Factor USA - EP9</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009639'&amp;EntityType='LinearSchedule'&amp;EntityId='52c21946-9513-4d28-9779-8877b8a8a6a3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260507164150 +0000" stop="20260507173443 +0000">
-		<title>Fear Factor USA - EP10</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009679'&amp;EntityType='LinearSchedule'&amp;EntityId='5829813b-550e-46a2-979e-320e61fb9478'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260507173443 +0000" stop="20260507182735 +0000">
-		<title>Fear Factor USA - EP11</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009695'&amp;EntityType='LinearSchedule'&amp;EntityId='4376770b-93ea-42da-8672-8e0244df5acf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260507182735 +0000" stop="20260507192028 +0000">
-		<title>Fear Factor USA - EP12</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009683'&amp;EntityType='LinearSchedule'&amp;EntityId='4e239ccb-e8ab-48b7-a1ff-eb8103f015e6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260507192028 +0000" stop="20260507210104 +0000">
-		<title>Fear Factor 2.0 USA - The Bees Are So Angry</title>
-		<desc>Five teams of two compete for $100,000 dollars on a five stunt, 2 hour spectacular.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009703'&amp;EntityType='LinearSchedule'&amp;EntityId='79826667-0730-4c2b-b891-d2f29fe78e1d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260507210104 +0000" stop="20260507224146 +0000">
-		<title>Fear Factor 2.0 USA - Leeches &amp; Shaved Heads &amp; Tear Gas</title>
-		<desc>In a special 2 hour Fear Factor five teams of 2 are bungeed off a cliff while tied under a helicopter.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009699'&amp;EntityType='LinearSchedule'&amp;EntityId='9363b95c-f982-4542-8629-5c12bb42ac69'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260507224146 +0000" stop="20260507233236 +0000">
-		<title>Fear Factor 2.0 USA - Snake Bite</title>
-		<desc>Four couples compete for a grand prize of $50,000.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14009687'&amp;EntityType='LinearSchedule'&amp;EntityId='12f7a691-c780-4acf-be07-08109ad80b44'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260507233236 +0000" stop="20260508002328 +0000">
-		<title>Fear Factor 2.0 USA - Roach Coach</title>
-		<desc>Four teams of two compete for $50,000 as they are locked in a cage and sunk underwater.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026486'&amp;EntityType='LinearSchedule'&amp;EntityId='b25a8a8f-30c7-40ce-940e-9ab5c1d4fe4a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508002328 +0000" stop="20260508011419 +0000">
-		<title>Fear Factor 2.0 USA - Broken Hearts &amp; Blood Baths</title>
-		<desc>Four teams of exes must deal with 3 stunts and each other.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026538'&amp;EntityType='LinearSchedule'&amp;EntityId='a0837e74-f892-4b5d-a737-c0936cebdfc2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508011419 +0000" stop="20260508020510 +0000">
-		<title>Fear Factor 2.0 USA - Tall Crappacino</title>
-		<desc>Four teams of two attempt to win $50,000.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026542'&amp;EntityType='LinearSchedule'&amp;EntityId='a46ca0dc-e432-4030-9254-9e534a77b2a3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508020510 +0000" stop="20260508025402 +0000">
-		<title>Fear Factor 2.0 USA - Hee Haw! Hee Haw!</title>
-		<desc>Four sets of twins compete for $50,000 as they are electric shocked.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026526'&amp;EntityType='LinearSchedule'&amp;EntityId='9095e471-d659-4bf0-8202-974d15b177b3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508025402 +0000" stop="20260508034453 +0000">
-		<title>Fear Factor 2.0 USA - Scorpion Tales</title>
-		<desc>Four teams of family members compete for $50,000 as they careen into a quarry full of live ammunition.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026490'&amp;EntityType='LinearSchedule'&amp;EntityId='3ad22f53-f767-48bf-b19f-0132020fb8c3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508034453 +0000" stop="20260508043810 +0000">
-		<title>Fear Factor USA - EP16</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026510'&amp;EntityType='LinearSchedule'&amp;EntityId='2e7fd5ac-2415-46d4-ad65-da1a90318281'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508043810 +0000" stop="20260508053131 +0000">
-		<title>Fear Factor USA - EP17</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026546'&amp;EntityType='LinearSchedule'&amp;EntityId='9877a5ac-8253-48a7-9116-d2c18234a5ad'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508053131 +0000" stop="20260508062451 +0000">
-		<title>Fear Factor USA - EP18</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026550'&amp;EntityType='LinearSchedule'&amp;EntityId='810a8aaf-8834-441f-be1d-fd68f6715535'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508062451 +0000" stop="20260508071810 +0000">
-		<title>Fear Factor USA - EP19</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026494'&amp;EntityType='LinearSchedule'&amp;EntityId='964cbae1-873e-4b85-8f74-d37a1c1695f0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508071810 +0000" stop="20260508081130 +0000">
-		<title>Fear Factor USA - EP20</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026518'&amp;EntityType='LinearSchedule'&amp;EntityId='b930a99c-cb50-4882-9dee-4a8910566221'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508081130 +0000" stop="20260508090505 +0000">
-		<title>Fear Factor USA - EP21</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026514'&amp;EntityType='LinearSchedule'&amp;EntityId='59c6955b-00c1-4c92-a094-be43c7149568'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508090505 +0000" stop="20260508095756 +0000">
-		<title>Fear Factor USA - EP22</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026498'&amp;EntityType='LinearSchedule'&amp;EntityId='44b89fc2-7890-4153-bab2-7804cd2e123e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508095756 +0000" stop="20260508105117 +0000">
-		<title>Fear Factor USA - EP23</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026554'&amp;EntityType='LinearSchedule'&amp;EntityId='920be1b2-58aa-471d-8ab1-1c5559add3f7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508105117 +0000" stop="20260508123527 +0000">
-		<title>Fear Factor USA - EP24</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026522'&amp;EntityType='LinearSchedule'&amp;EntityId='72b689ab-5153-42cd-8829-577163361977'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508123527 +0000" stop="20260508132841 +0000">
-		<title>Fear Factor USA - EP25</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026530'&amp;EntityType='LinearSchedule'&amp;EntityId='70862966-dfd3-4601-82b4-cfe2c0a964f9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508132841 +0000" stop="20260508145449 +0000">
-		<title>Fear Factor USA - EP26</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026502'&amp;EntityType='LinearSchedule'&amp;EntityId='99934029-cc21-4955-9bfe-2e1d752d1753'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508145449 +0000" stop="20260508154741 +0000">
-		<title>Fear Factor USA - EP13</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026506'&amp;EntityType='LinearSchedule'&amp;EntityId='5a7ae3de-c95d-4e78-acf8-f7ffec43b239'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508154741 +0000" stop="20260508164032 +0000">
-		<title>Fear Factor USA - EP14</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026534'&amp;EntityType='LinearSchedule'&amp;EntityId='a825fa03-310f-456f-8b8c-74e4059353b4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20260507154121 +0000" stop="20260507163411 +0000">
 		<title>River Monsters - Coral Reef Killer</title>
@@ -4406,6 +4157,21 @@
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Hougang United FC vs BG Tampines Rovers FC on 10th May, Sunday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14012914'&amp;EntityType='LinearSchedule'&amp;EntityId='ee14d1bb-7c68-477e-aa1d-6d61029736e7'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98201" start="20260509112000 +0000" stop="20260509133000 +0000">
+		<title>Singapore Premier League 2025/2026: Young Lions vs Geylang International FC</title>
+		<desc>The Singapore Premier League 2025-2026 is the 8th season of the Singapore Premier League. A total of eight teams are taking part in a triple round-robin format. Will Lion City Sailors continue to defend their champion title, having won the 2024 edition or will another club be crowned as the new champion?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13997229'&amp;EntityType='LinearSchedule'&amp;EntityId='3c849c21-7638-4dc0-8473-5c0749193083'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260509133000 +0000" stop="20260509160000 +0000">
+		<title>No Programme available now. Next Broadcast on 10th May, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs Albirex Niigata FC (S) on 10th May, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13997225'&amp;EntityType='LinearSchedule'&amp;EntityId='9f98aafe-361f-45f9-9aea-7226cdc1eb35'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260509160000 +0000" stop="20260510112000 +0000">
+		<title>No Programme available now. Next Broadcast on 10th May, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs Albirex Niigata FC (S) on 10th May, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14012965'&amp;EntityType='LinearSchedule'&amp;EntityId='b4b24745-12c8-4fc7-88bd-31c810d864bd'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97073" start="20260509110000 +0000" stop="20260509111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Karihome Gold Adult Goat Milk Powder</title>
 		<desc>Enjoy the smooth taste of Karihome Gold Adult Goat Milk Powder, made with easy-to-digest goat milk proteins and enriched with lutein, collagen, and Omega-3. It supports eye, joint, and heart health, boosts calcium intake, and strengthens immunity. Perfect for the whole family, especially seniors, to maintain bone health and vitality with just two cups a day. Karihome Gold 成人羊奶粉口感顺滑，富含易吸收的羊奶蛋白，采用先进脱膻技术，保留营养与纯净口感，连肠胃敏感者都能安心饮用。 还特别添加叶黄素、胶原蛋白和 Omega-3，支持眼睛、关节及心脑血管健康。每天两杯，补钙增强免疫力，适合全家饮用，特别适合年长人士，助力骨骼健康与活力。</desc>
@@ -4475,166 +4241,6 @@
 		<title>No programme available now. Next broadcast on 10th May, Sunday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 10th May, Sunday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14012635'&amp;EntityType='LinearSchedule'&amp;EntityId='a03cf342-4a71-401f-9efc-453e838b8187'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508160057 +0000" stop="20260508165057 +0000">
-		<title>MasterChef New Zealand Season 05 - George Calombaris</title>
-		<desc>The Top Six duos cook veal three ways for Australian culinary legend George Calombaris.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026686'&amp;EntityType='LinearSchedule'&amp;EntityId='8dfeac50-a84d-4700-8b32-20046b95ca65'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508165057 +0000" stop="20260508174103 +0000">
-		<title>MasterChef New Zealand Season 05 - Burger Cook-off</title>
-		<desc>The Top Six duos compete in a burger cook-off for some great prizes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026690'&amp;EntityType='LinearSchedule'&amp;EntityId='bf477c2b-c81a-4070-af91-50ba0bc4a432'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508174103 +0000" stop="20260508183057 +0000">
-		<title>MasterChef New Zealand Season 05 - MasterClass S04 #05 Josh &amp; Simon / Veal &amp; Venison</title>
-		<desc>MasterChef judges Josh Emett and Simon Gault cook dishes featuring veal and venison.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026718'&amp;EntityType='LinearSchedule'&amp;EntityId='67cf6ea2-dd10-4f52-b6e3-3961e4f60f87'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508183057 +0000" stop="20260508192458 +0000">
-		<title>MasterChef New Zealand Season 05 - Samoa / Marinated fish</title>
-		<desc>The Top Six duos make raw fish salad on the beach at Return To Paradise resort in Samoa.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026702'&amp;EntityType='LinearSchedule'&amp;EntityId='b3889fb2-0867-45a6-b3ba-f6415bdd1871'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508192458 +0000" stop="20260508201527 +0000">
-		<title>MasterChef New Zealand Season 05 - Samoa / Cooking on Fire</title>
-		<desc>The Top Six duos cook on open fires on the beach at Return To Paradise resort in Samoa.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026710'&amp;EntityType='LinearSchedule'&amp;EntityId='6fcfb3bd-ee5d-4c60-96cf-d3e946ede256'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508201527 +0000" stop="20260508210439 +0000">
-		<title>MasterChef New Zealand Season 05 - Josh &amp; Simon / Samoa</title>
-		<desc>MasterChef judges Josh Emett and Simon Gault hold a MasterClass in Samoa.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026714'&amp;EntityType='LinearSchedule'&amp;EntityId='1d5fdacc-37a9-447f-a6ad-4bb67bb8c7cb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508210439 +0000" stop="20260508215445 +0000">
-		<title>MasterChef New Zealand Season 05 - Mystery Box Risotto</title>
-		<desc>One contestant from each of the Top Five duos faces a solo risotto challenge without their partner.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026722'&amp;EntityType='LinearSchedule'&amp;EntityId='f0bf50d3-11ff-448b-9e99-87f599e26f5f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508215445 +0000" stop="20260508224453 +0000">
-		<title>MasterChef New Zealand Season 05 - Mystery Box Dessert</title>
-		<desc>The second contestant from each of the Top Five duos faces a solo dessert challenge without their partner.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026706'&amp;EntityType='LinearSchedule'&amp;EntityId='55a9a30b-b25d-4f70-a60f-1a4228e9d9e6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508224453 +0000" stop="20260508233416 +0000">
-		<title>MasterChef New Zealand Season 05 - Risotto &amp; Dessert</title>
-		<desc>MasterChef judges Simon Gault and Ray McVinnie make their favourite risotto and dessert.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026694'&amp;EntityType='LinearSchedule'&amp;EntityId='925bbc44-ae48-4b03-bf48-ad688f20d8f9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260508233416 +0000" stop="20260509002616 +0000">
-		<title>MasterChef New Zealand Season 05 - Bali / Club Med</title>
-		<desc>The Top Four duos tackle an Asian cuisine challenge at Club Med in Bali.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040645'&amp;EntityType='LinearSchedule'&amp;EntityId='d51789ee-443d-43e3-b789-deab066f8dd9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509002616 +0000" stop="20260509011956 +0000">
-		<title>MasterChef New Zealand Season 05 - Bali / Bumbu Bali</title>
-		<desc>The Top Four duos cook Indonesian cuisine at Bumbu Bali Cooking School.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040693'&amp;EntityType='LinearSchedule'&amp;EntityId='72465dd7-19f0-4590-ab69-f7b40490b0ae'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509011956 +0000" stop="20260509020818 +0000">
-		<title>MasterChef New Zealand Season 05 - MasterClass S04 #08 Josh &amp; Simon / Bali</title>
-		<desc>MasterChef judges Josh Emett and Simon Gault cook with local ingredients in Bali.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040737'&amp;EntityType='LinearSchedule'&amp;EntityId='822285ba-9d66-4332-b9c6-f24b514e544b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509020818 +0000" stop="20260509025755 +0000">
-		<title>MasterChef New Zealand Season 05 - Cookbook</title>
-		<desc>The Top Three duos create two dishes they’d like to include in their first cookbooks.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040697'&amp;EntityType='LinearSchedule'&amp;EntityId='95a67aa6-c331-4f7d-a7b3-60b18d014620'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509025755 +0000" stop="20260509034859 +0000">
-		<title>MasterChef New Zealand Season 05 - Restaurant</title>
-		<desc>The Top Three duos create two dishes they’d like to serve in their own restaurants.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040661'&amp;EntityType='LinearSchedule'&amp;EntityId='33367476-ef20-4484-a0ae-43bc3c04b732'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509034859 +0000" stop="20260509043751 +0000">
-		<title>MasterChef New Zealand Season 05 - MasterClass S04 #09 Simon &amp; Ray / Cookbook dishes</title>
-		<desc>MasterChef judges Simon Gault and Ray McVinnie cook dishes from their cookbooks.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040745'&amp;EntityType='LinearSchedule'&amp;EntityId='74ff6012-802c-410e-ac32-dc589fef3621'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509043751 +0000" stop="20260509052653 +0000">
-		<title>MasterChef New Zealand Season 05 - Peter Gordon</title>
-		<desc>The Top Three duos replicate a paddle crab linguine dish by world-renowned Kiwi chef Peter Gordon.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040754'&amp;EntityType='LinearSchedule'&amp;EntityId='97540207-03d7-468d-a562-358b47726e5f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509052653 +0000" stop="20260509061850 +0000">
-		<title>MasterChef New Zealand Season 05 - Michel Louws</title>
-		<desc>The Top Three duos make two intricate beef dishes by Michelin star-winning chef Michel Louws.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040763'&amp;EntityType='LinearSchedule'&amp;EntityId='779dce0e-e744-4530-ad8d-c5bf31d61bb2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509061850 +0000" stop="20260509070736 +0000">
-		<title>MasterChef New Zealand Season 05 - Simon &amp; Ray / Favourites</title>
-		<desc>MasterChef judges Simon Gault and Ray McVinnie cook two of their favourite dishes</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040673'&amp;EntityType='LinearSchedule'&amp;EntityId='183ff677-bb09-4b39-9c0e-ab0a9c922f1e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509070736 +0000" stop="20260509085307 +0000">
-		<title>MasterChef New Zealand Season 05 - Grand Final</title>
-		<desc>The Top Two duos face three epic challenges to decide who will win the MasterChef New Zealand title.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040702'&amp;EntityType='LinearSchedule'&amp;EntityId='7bc38fc4-3f38-4c7e-b45b-c7d06a9e6f5f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509085307 +0000" stop="20260509092725 +0000">
-		<title>MasterChef UK Junior Season 01 - EP1</title>
-		<desc>After a Toad in the Hole Masterclass from top chef John Torode, the four cooks try their hand.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040665'&amp;EntityType='LinearSchedule'&amp;EntityId='ce237044-d8e7-4f3c-b179-9c75ef34b8b8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509092725 +0000" stop="20260509100144 +0000">
-		<title>MasterChef UK Junior Season 01 - EP2</title>
-		<desc>After a Masterclass in Thai chicken cakes from top chef John Torode, the four cooks try their hand.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040685'&amp;EntityType='LinearSchedule'&amp;EntityId='095221d3-55aa-42b6-a606-1845798ace11'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509100144 +0000" stop="20260509103559 +0000">
-		<title>MasterChef UK Junior Season 01 - EP3</title>
-		<desc>Whose dessert will launch presenters John and Nadia in to sweet orbit?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040771'&amp;EntityType='LinearSchedule'&amp;EntityId='fe0b62e5-01b1-453f-bc9f-9a08c28fda77'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509103559 +0000" stop="20260509111011 +0000">
-		<title>MasterChef UK Junior Season 01 - EP4</title>
-		<desc>After a scrummy Berry pudding Masterclass from top chef John Torode, the four cooks have a bash.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040649'&amp;EntityType='LinearSchedule'&amp;EntityId='6e368360-f87c-4772-90f7-42eff18ab72a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509111011 +0000" stop="20260509114412 +0000">
-		<title>MasterChef UK Junior Season 01 - EP5</title>
-		<desc>With only two semi final places up for grabs, the competition gets serious.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040669'&amp;EntityType='LinearSchedule'&amp;EntityId='7b2c46ac-8fa8-45ce-9866-ab76e40c9cb9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509114412 +0000" stop="20260509121821 +0000">
-		<title>MasterChef UK Junior Season 01 - EP6</title>
-		<desc>Four aspiring chefs compete for a place in the quarter-final.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040677'&amp;EntityType='LinearSchedule'&amp;EntityId='031e1d1f-8da0-4eb9-8e34-610a1ca41f0b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509121821 +0000" stop="20260509125221 +0000">
-		<title>MasterChef UK Junior Season 01 - EP7</title>
-		<desc>After a scrummy Masterclass in scotch pancakes from top chef John Torode, it's the four cooks' turn.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040689'&amp;EntityType='LinearSchedule'&amp;EntityId='f41a5554-9c42-40bd-98d2-4eb3c3f2aa61'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509125221 +0000" stop="20260509132636 +0000">
-		<title>MasterChef UK Junior Season 01 - EP8</title>
-		<desc>With a quarter final place to win, the competition heats up further as they make their tastiest food.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040653'&amp;EntityType='LinearSchedule'&amp;EntityId='9bd43d80-7d42-4871-89c7-0da4b80c2cd8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509132636 +0000" stop="20260509140052 +0000">
-		<title>MasterChef UK Junior Season 01 - EP9</title>
-		<desc>With a quarter final place up for grabs, the competition reaches boiling point as they go all out to impress.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040681'&amp;EntityType='LinearSchedule'&amp;EntityId='dd2b8a02-e7a7-4c6c-9d32-0f76e86763f6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509140052 +0000" stop="20260509143509 +0000">
-		<title>MasterChef UK Junior Season 01 - EP10</title>
-		<desc>In the second quarter-final, four heat winners compete to be the best cook in the country.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040710'&amp;EntityType='LinearSchedule'&amp;EntityId='4546aa3d-40cd-4099-bbe0-645ce00aa319'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509143509 +0000" stop="20260509150930 +0000">
-		<title>MasterChef UK Junior Season 01 - EP11</title>
-		<desc>The four remaining chefs must cook lunch for Doctor Who and his companion.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040719'&amp;EntityType='LinearSchedule'&amp;EntityId='49a77152-c5cc-4ceb-9654-4e4e858ee755'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509150930 +0000" stop="20260509154331 +0000">
-		<title>MasterChef UK Junior Season 01 - EP12</title>
-		<desc>They must prepare lunch for pop band JLS. Will their food be a hit with the boys?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040657'&amp;EntityType='LinearSchedule'&amp;EntityId='d8ab7052-4292-4585-b7d9-5d06a0232dc6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558278" start="20260509154331 +0000" stop="20260509161750 +0000">
-		<title>MasterChef UK Junior Season 01 - EP13</title>
-		<desc>The four best chefs battle it out to become crowned Junior Masterchef Champion 2010.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040727'&amp;EntityType='LinearSchedule'&amp;EntityId='3e94c2db-a647-4154-829a-4d192371ed04'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="570813" start="20260508162112 +0000" stop="20260508170836 +0000">
 		<title>Deal Or No Deal USA - EP58</title>
@@ -4760,136 +4366,6 @@
 		<title>Deal Or No Deal USA - EP19</title>
 		<desc>The contestant picks one case which is theirs to keep, if they choose, until its unsealing at the end of the game. As each of the 25 cases is opened, the likelihood of the player having a valuable cash amount in their case decreases or increases, with ‘the Banker’ tempting the player throughout the game. (19 out of 39)</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026247'&amp;EntityType='LinearSchedule'&amp;EntityId='613c7ffb-069b-4f59-b4a0-988874c004ba'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508164032 +0000" stop="20260508173323 +0000">
-		<title>Fear Factor USA - EP15</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026582'&amp;EntityType='LinearSchedule'&amp;EntityId='c35e30a9-4831-4a1a-9dfc-24ca96df0918'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508173323 +0000" stop="20260508182614 +0000">
-		<title>Fear Factor USA - EP16</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026586'&amp;EntityType='LinearSchedule'&amp;EntityId='11db392d-d12c-44c2-9cf7-7c62cda48722'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508182614 +0000" stop="20260508191906 +0000">
-		<title>Fear Factor USA - EP17</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026561'&amp;EntityType='LinearSchedule'&amp;EntityId='49a52a20-6467-4407-a9f0-f33ba33601a9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508191906 +0000" stop="20260508201218 +0000">
-		<title>Fear Factor USA - EP27</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026574'&amp;EntityType='LinearSchedule'&amp;EntityId='84d425de-6e7d-47c4-ab42-448f3d0e3a20'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508201218 +0000" stop="20260508210530 +0000">
-		<title>Fear Factor USA - EP28</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026566'&amp;EntityType='LinearSchedule'&amp;EntityId='96974b43-d17d-4940-919e-a07aa2b4fc7e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508210530 +0000" stop="20260508215841 +0000">
-		<title>Fear Factor USA - EP29</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026570'&amp;EntityType='LinearSchedule'&amp;EntityId='63e886d0-5e81-4b61-a5be-93f9769534c5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508215841 +0000" stop="20260508225153 +0000">
-		<title>Fear Factor USA - EP30</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026594'&amp;EntityType='LinearSchedule'&amp;EntityId='9a21643d-943e-4820-a264-7864321a1cb4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508225153 +0000" stop="20260508234505 +0000">
-		<title>Fear Factor USA - EP31</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14026578'&amp;EntityType='LinearSchedule'&amp;EntityId='6a90f9d7-2c23-4a99-88eb-17fb9c9bd73d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260508234505 +0000" stop="20260509003905 +0000">
-		<title>Fear Factor USA - EP1</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040541'&amp;EntityType='LinearSchedule'&amp;EntityId='8d077d97-332b-40e0-85cd-52565157ddcf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509003905 +0000" stop="20260509013314 +0000">
-		<title>Fear Factor USA - EP2</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040593'&amp;EntityType='LinearSchedule'&amp;EntityId='af4cdc4d-b7b3-4715-be07-c484d084caf4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509013314 +0000" stop="20260509022722 +0000">
-		<title>Fear Factor USA - EP3</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040569'&amp;EntityType='LinearSchedule'&amp;EntityId='e32e169f-23bf-4ea2-b2b7-8ce66f241d07'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509022722 +0000" stop="20260509032122 +0000">
-		<title>Fear Factor USA - EP4</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040545'&amp;EntityType='LinearSchedule'&amp;EntityId='cdade3d2-75c8-49ac-afc8-727c81825e10'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509032122 +0000" stop="20260509041521 +0000">
-		<title>Fear Factor USA - EP5</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040549'&amp;EntityType='LinearSchedule'&amp;EntityId='2b3b07f5-9abd-4f67-8e7b-abc34f8b5055'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509041521 +0000" stop="20260509050921 +0000">
-		<title>Fear Factor USA - EP6</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040573'&amp;EntityType='LinearSchedule'&amp;EntityId='9784db5c-b2b9-432a-8aeb-e8de15db28d7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509050921 +0000" stop="20260509060321 +0000">
-		<title>Fear Factor USA - EP7</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040597'&amp;EntityType='LinearSchedule'&amp;EntityId='3f7dc709-a7b6-4cf4-92eb-872debe9ae42'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509060321 +0000" stop="20260509065719 +0000">
-		<title>Fear Factor USA - EP8</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040561'&amp;EntityType='LinearSchedule'&amp;EntityId='ecfaa0d0-1808-456e-ae56-e747bf59ed1f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509065719 +0000" stop="20260509075119 +0000">
-		<title>Fear Factor USA - EP9</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040565'&amp;EntityType='LinearSchedule'&amp;EntityId='70ef3026-9e80-4ff6-a122-4ad892f78fd4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509075119 +0000" stop="20260509084543 +0000">
-		<title>Fear Factor USA - EP10</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040601'&amp;EntityType='LinearSchedule'&amp;EntityId='17ade4dd-0553-4e37-8d21-7322806d2d46'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509084543 +0000" stop="20260509094512 +0000">
-		<title>Fear Factor USA - EP1</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040605'&amp;EntityType='LinearSchedule'&amp;EntityId='83c48fa5-b1ee-4cca-8d71-6006bb8d8fb1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509094512 +0000" stop="20260509103919 +0000">
-		<title>Fear Factor USA - EP2</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040609'&amp;EntityType='LinearSchedule'&amp;EntityId='77049306-e0eb-4ffd-8ef8-1f72050965eb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509103919 +0000" stop="20260509113312 +0000">
-		<title>Fear Factor USA - EP3</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040553'&amp;EntityType='LinearSchedule'&amp;EntityId='06720f19-fce4-4ebd-8318-2618db0d08b6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509113312 +0000" stop="20260509122706 +0000">
-		<title>Fear Factor USA - EP4</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040577'&amp;EntityType='LinearSchedule'&amp;EntityId='d277302e-b586-47e5-b848-8f76f5c31685'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509122706 +0000" stop="20260509132101 +0000">
-		<title>Fear Factor USA - EP5</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040557'&amp;EntityType='LinearSchedule'&amp;EntityId='a6fc85e4-f647-41cf-a1a0-0deecdaa0526'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509132101 +0000" stop="20260509141454 +0000">
-		<title>Fear Factor USA - EP6</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040581'&amp;EntityType='LinearSchedule'&amp;EntityId='94471684-e8ba-457a-955e-62a0479cc864'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509141454 +0000" stop="20260509150847 +0000">
-		<title>Fear Factor USA - EP7</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040589'&amp;EntityType='LinearSchedule'&amp;EntityId='7604536c-9008-494f-97e0-f57cc9c119ce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558258" start="20260509150847 +0000" stop="20260509160240 +0000">
-		<title>Fear Factor USA - EP8</title>
-		<desc>Fear Factor is the competition reality series in which contestants must face their fears.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14040585'&amp;EntityType='LinearSchedule'&amp;EntityId='380f705e-fca5-4374-bdad-3ea6627db5fb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558241" start="20260508162143 +0000" stop="20260508171429 +0000">
 		<title>River Monsters - Demon Fish</title>
