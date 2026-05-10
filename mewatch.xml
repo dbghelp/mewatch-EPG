@@ -28,10 +28,6 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
-	<channel id="98201">
-		<display-name>SPL CH02</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
-	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -95,6 +91,10 @@
 	<channel id="556877">
 		<display-name>TG Junior</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358838'&amp;EntityType='Item'&amp;EntityId='556877'&amp;Width=264&amp;Height=250" />
+	</channel>
+	<channel id="382872">
+		<display-name>CinemaWorld</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260509160000 +0000" stop="20260509163000 +0000">
 		<title>Incredible Tales - EP 1</title>
@@ -1115,26 +1115,6 @@
 		<title>No Programme available now. Next Broadcast on 15th May, Friday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Geylang International FC vs Balestier Khalsa FC on 15th May, Friday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028658'&amp;EntityType='LinearSchedule'&amp;EntityId='8c6f187a-687b-4d9c-b9bb-079212c192dd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20260509160000 +0000" stop="20260510112000 +0000">
-		<title>No Programme available now. Next Broadcast on 10th May, Sunday 7.20pm. Singapore Premier League 2025/2026</title>
-		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2025/2026: Lion City Sailors FC vs Albirex Niigata FC (S) on 10th May, Sunday 7.20pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14012965'&amp;EntityType='LinearSchedule'&amp;EntityId='b4b24745-12c8-4fc7-88bd-31c810d864bd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20260510112000 +0000" stop="20260510133000 +0000">
-		<title>Singapore Premier League 2025/2026: Lion City Sailors FC vs Albirex Niigata FC S</title>
-		<desc>The Singapore Premier League 2025-2026 is the 8th season of the Singapore Premier League. A total of eight teams are taking part in a triple round-robin format. Will Lion City Sailors continue to defend their champion title, having won the 2024 edition or will another club be crowned as the new champion?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14012988'&amp;EntityType='LinearSchedule'&amp;EntityId='2c8ebf46-d517-4368-985c-646d15b05640'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20260510133000 +0000" stop="20260510160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14012997'&amp;EntityType='LinearSchedule'&amp;EntityId='7f17fdc9-95b0-41ef-97be-4f60cac19832'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20260510160000 +0000" stop="20260511160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028366'&amp;EntityType='LinearSchedule'&amp;EntityId='14ba8da1-c9b2-438f-ba28-6210d49d750c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260509160000 +0000" stop="20260510110000 +0000">
 		<title>No programme available now. Next broadcast on 10th May, Sunday 7pm. The Wonder Shop Home Shopping</title>
@@ -3391,6 +3371,86 @@
 		<desc>Join Marie and Argo in this exciting STEM edutainment mixed-media series as they venture through Cyberspace and make discoveries about the world through historical figures and notable real-world personalities! Special guests include a founding father of the Internet, a NASA astronaut, a top robotics expert, and clever folks from M.I.T!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14030074'&amp;EntityType='LinearSchedule'&amp;EntityId='664ff28a-6f18-4860-b01d-200c92fa59c4'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="382872" start="20260509143500 +0000" stop="20260509164000 +0000">
+		<title>With Or Without You</title>
+		<desc>A young woman, her free-spirited mother and a West African man find themselves on an unexpected road trip that leads to emotional transformation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='13996693'&amp;EntityType='LinearSchedule'&amp;EntityId='7bd08b2f-41c0-41fe-adf9-226e793d7771'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260509164000 +0000" stop="20260509184000 +0000">
+		<title>Joy Of Fatherhood</title>
+		<desc>Felix enjoys his single life to the fullest, but a ferret bites him, sterilizing him in the process. He tries everything in his power to find the soon-to-be mother of his only child, the result of his first and last sperm donation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019915'&amp;EntityType='LinearSchedule'&amp;EntityId='e85681b9-80f9-4a9b-ab18-3dbef940f882'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260509184000 +0000" stop="20260509201000 +0000">
+		<title>The Inland Road</title>
+		<desc>After surviving a car crash when running away from home, Tia finds herself having nowhere to go. Seeking out the family of the crash victim, she moves in with them and threatens to upend the family’s delicate balance.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019939'&amp;EntityType='LinearSchedule'&amp;EntityId='b43750f9-e78a-4de3-849d-c32e3a17a977'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260509201000 +0000" stop="20260509220000 +0000">
+		<title>Behind the Mountains</title>
+		<desc>After spending four years in jail for vandalizing his place of work, Rafik has only one plan, take his son to the mountains and show him his amazing discovery.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019919'&amp;EntityType='LinearSchedule'&amp;EntityId='4346edfa-96a5-4abb-9f04-0120f4da0e28'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260509220000 +0000" stop="20260509234000 +0000">
+		<title>All the Blue in the Sky</title>
+		<desc>Emile with early-onset Alzheimer’s disease and only a few months to live leaves everything behind to embark on a road trip with an enigmatic young woman he’s just met through a classified ad. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019923'&amp;EntityType='LinearSchedule'&amp;EntityId='17122a07-d6f4-4222-afaa-1b89cf6f83fc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260509234000 +0000" stop="20260510011500 +0000">
+		<title>All My Friends Hate Me</title>
+		<desc>Pete is cautiously excited about reuniting with his college crew for a birthday weekend. But, one by one, his friends slowly turn against him. Is he being punished, is he paranoid, or is he part of some sick joke?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019943'&amp;EntityType='LinearSchedule'&amp;EntityId='26ecba62-d8a4-487f-bc46-f5baafa6d591'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510011500 +0000" stop="20260510025500 +0000">
+		<title>Deal At The Border</title>
+		<desc>Aza and Samat, two drug runners navigating the secret routes in the mountains of Central Asia, stumble upon Nazik, a young girl fleeing from slavery. When Nazik is recaptured by a criminal, facing a grim return to captivity, Aza resolves to save her.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019927'&amp;EntityType='LinearSchedule'&amp;EntityId='b1c09e0a-13cf-4346-8818-47a768336260'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510025500 +0000" stop="20260510042500 +0000">
+		<title>East Frisian: Rage</title>
+		<desc>A fisherman discovers a body in the mudflats at the same time Inspector Ann Kathrin Klaasen is called to investigate a blackmail case. With the latter involving threats to poison the water supply, she begins to suspect that both cases might be connected.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019891'&amp;EntityType='LinearSchedule'&amp;EntityId='00927509-f5ac-4ad2-9976-42b6eac09b00'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510042500 +0000" stop="20260510055000 +0000">
+		<title>ASIA</title>
+		<desc>Motherhood has not been easy for Asia, a single mother whose teenage daughter, Vika, barely interacts with her. But when Vika’s health deteriorates rapidly, Asia must step in and become the mother Vika so desperately needs. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019895'&amp;EntityType='LinearSchedule'&amp;EntityId='385b7944-7903-463f-8554-2082809f74fc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510055000 +0000" stop="20260510072000 +0000">
+		<title>Snow (2022)</title>
+		<desc>In the heart of winter, several notables are found murdered. To advance investigations, Captain Delhaye decides to bring Juliette Hémon out of prison for a few days. The young woman had been imprisoned some years earlier for a strangely similar case.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019907'&amp;EntityType='LinearSchedule'&amp;EntityId='6815f625-18f8-497b-8a3f-aea81e1a3a2c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510072000 +0000" stop="20260510091500 +0000">
+		<title>With Or Without You</title>
+		<desc>A young woman, her free-spirited mother and a West African man find themselves on an unexpected road trip that leads to emotional transformation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019911'&amp;EntityType='LinearSchedule'&amp;EntityId='871aeac1-b8b1-4f7c-aead-8e0b1781e46c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510091500 +0000" stop="20260510111000 +0000">
+		<title>NR24</title>
+		<desc>The most ordinary man became the perfect spy. 22-year-old Gunnar Sønsteby decides to resist Nazi-Germany on the day of the invasion to later lead the "Oslo-gang" in executing countless daring acts of sabotage making him Norway's greatest war hero.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019931'&amp;EntityType='LinearSchedule'&amp;EntityId='c90471b7-ab35-4c07-b699-2fe8929e14ff'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510111000 +0000" stop="20260510124000 +0000">
+		<title>Hunt For The Bosses</title>
+		<desc>Based on the true story of Duisburg Mafia Murders in 2007. Late night, Antonio Russo leaves his restaurant with his nephew and employees. Suddenly two gunmen appear and open fire. Investigations lead to a village in Italy from which all victims originate.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019935'&amp;EntityType='LinearSchedule'&amp;EntityId='ecbafd7b-5c63-46b2-b3bf-487d0d5eb914'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510124000 +0000" stop="20260510130000 +0000">
+		<title>One Last Supper</title>
+		<desc>A spirit-seeing daughter must race against time to save her mother’s spirit from turning into a Hungry Ghost by retracing her mother’s past life.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019899'&amp;EntityType='LinearSchedule'&amp;EntityId='9d47b0c1-90e4-46a1-9c36-f76918278c2c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510130000 +0000" stop="20260510145000 +0000">
+		<title>On The Fringe</title>
+		<desc>The countdown of three characters – lawyer-activist Rafa, cashier Azucena and grandmother Teodora - with three interwoven stories who try to stay afloat and survive 24 key hours that may forever change the course of their lives. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019947'&amp;EntityType='LinearSchedule'&amp;EntityId='e631fd1d-f166-4207-9579-c20e99d51384'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510145000 +0000" stop="20260510165500 +0000">
+		<title>What's for Dinner, Mom?</title>
+		<desc>Sisters Tae and Yo return to their childhood home and discover a box of recipes and letters from their late Japanese mother. As Tae uncovers her mother’s hidden struggles, she journeys to Taiwan to retrace her past through memory and food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14019903'&amp;EntityType='LinearSchedule'&amp;EntityId='b0bda367-67ce-41f3-9c98-08b563f3d30e'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260510163000 +0000" stop="20260510170000 +0000">
 		<title>Hoarders S13 - EP 2</title>
 		<desc>A reality-TV show that features compulsive hoarders--people who are addicted to filling their homes with objects--and how that spills out into their lives.</desc>
@@ -4335,11 +4395,6 @@
 		<title>No Programme available now. Next Broadcast on 15th May, Friday 7.20pm. Singapore Premier League 2025/2026</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2025/2026: Geylang International FC vs Balestier Khalsa FC on 15th May, Friday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14045500'&amp;EntityType='LinearSchedule'&amp;EntityId='4abbf2ee-4663-4c5d-bbba-a7bbee010d3e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20260511160000 +0000" stop="20260512160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14045495'&amp;EntityType='LinearSchedule'&amp;EntityId='c216d99f-5a1d-460d-b32c-125a1e898104'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260511110000 +0000" stop="20260511111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - HQ Ling Zhi</title>
@@ -6730,5 +6785,75 @@
 		<title>Argo's World</title>
 		<desc>Join Marie and Argo in this exciting STEM edutainment mixed-media series as they venture through Cyberspace and make discoveries about the world through historical figures and notable real-world personalities! Special guests include a founding father of the Internet, a NASA astronaut, a top robotics expert, and clever folks from M.I.T!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14046715'&amp;EntityType='LinearSchedule'&amp;EntityId='902c942b-cc42-482b-bb9c-91cffc636229'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510165500 +0000" stop="20260510184000 +0000">
+		<title>All My Friends Hate Me</title>
+		<desc>Pete is cautiously excited about reuniting with his college crew for a birthday weekend. But, one by one, his friends slowly turn against him. Is he being punished, is he paranoid, or is he part of some sick joke?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028095'&amp;EntityType='LinearSchedule'&amp;EntityId='1ec0b6c7-5e7a-4b7b-90d9-110a1aefd558'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510184000 +0000" stop="20260510202000 +0000">
+		<title>East Frisian: Rage</title>
+		<desc>A fisherman discovers a body in the mudflats at the same time Inspector Ann Kathrin Klaasen is called to investigate a blackmail case. With the latter involving threats to poison the water supply, she begins to suspect that both cases might be connected.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028031'&amp;EntityType='LinearSchedule'&amp;EntityId='e106428e-3801-491c-a480-98194321974d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510202000 +0000" stop="20260510220000 +0000">
+		<title>Snow (2022)</title>
+		<desc>In the heart of winter, several notables are found murdered. To advance investigations, Captain Delhaye decides to bring Juliette Hémon out of prison for a few days. The young woman had been imprisoned some years earlier for a strangely similar case.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028099'&amp;EntityType='LinearSchedule'&amp;EntityId='83f4861f-b07f-4e0f-b5da-0e304a63c216'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510220000 +0000" stop="20260510235500 +0000">
+		<title>NR24</title>
+		<desc>The most ordinary man became the perfect spy. 22-year-old Gunnar Sønsteby decides to resist Nazi-Germany on the day of the invasion to later lead the "Oslo-gang" in executing countless daring acts of sabotage making him Norway's greatest war hero.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028059'&amp;EntityType='LinearSchedule'&amp;EntityId='af5b33c0-39ef-416f-8d87-95c453580f87'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260510235500 +0000" stop="20260511012000 +0000">
+		<title>Brother's Keeper</title>
+		<desc>Yusuf’s best friend, Memo falls gravely ill. Isolated in their boarding school located in the snowy mountains, tensions run high as Yusuf’s calls for help for Memo becomes increasingly difficult in the face of an authoritarian and bureaucratic system.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028079'&amp;EntityType='LinearSchedule'&amp;EntityId='5e69941a-9884-44c9-89e6-449d833ffa6a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260511012000 +0000" stop="20260511025000 +0000">
+		<title>Hunt For The Bosses</title>
+		<desc>Based on the true story of Duisburg Mafia Murders in 2007. Late night, Antonio Russo leaves his restaurant with his nephew and employees. Suddenly two gunmen appear and open fire. Investigations lead to a village in Italy from which all victims originate.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028037'&amp;EntityType='LinearSchedule'&amp;EntityId='129bc113-577c-4479-b144-bf6322fa2dfd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260511025000 +0000" stop="20260511043500 +0000">
+		<title>Irreplaceable</title>
+		<desc>Jean-Pierre Werner, a revered and devoted country doctor, discovers that he is suffering from an inoperable tumor. As a doctor from the city arrives to help him with his practice, Werner is troubled by the thought that he is no longer irreplaceable.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028087'&amp;EntityType='LinearSchedule'&amp;EntityId='1da81451-7107-41d8-b8c6-a797de535f63'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260511043500 +0000" stop="20260511062000 +0000">
+		<title>On The Fringe</title>
+		<desc>The countdown of three characters – lawyer-activist Rafa, cashier Azucena and grandmother Teodora - with three interwoven stories who try to stay afloat and survive 24 key hours that may forever change the course of their lives. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028071'&amp;EntityType='LinearSchedule'&amp;EntityId='1720355d-5271-4900-a866-2fdc138b0e6e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260511062000 +0000" stop="20260511075000 +0000">
+		<title>A Minute's Silence</title>
+		<desc>In a small Baltic town, 18-year-old Christian and his teacher Stella fall for one another and begin a secret affair. However, the intensity of their feelings soon overwhelm them. When tragedy befalls Stella, Christian is forced to confront his first love. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028091'&amp;EntityType='LinearSchedule'&amp;EntityId='daeb424a-93f4-4b0c-a725-59de2f595a04'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260511075000 +0000" stop="20260511093000 +0000">
+		<title>So Far, So Close</title>
+		<desc>Junho is a lively, sociable bar owner who enjoys being surrounded by people, yet deep inside carries a delicate yearning for the lover he lost ten years ago. Whenever he encounters someone who resembles her, he can’t help but stare, captivated by memory.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028083'&amp;EntityType='LinearSchedule'&amp;EntityId='016f5ff3-d9a8-44f4-8904-798583a7dae1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260511093000 +0000" stop="20260511112500 +0000">
+		<title>What's for Dinner, Mom?</title>
+		<desc>Sisters Tae and Yo return to their childhood home and discover a box of recipes and letters from their late Japanese mother. As Tae uncovers her mother’s hidden struggles, she journeys to Taiwan to retrace her past through memory and food.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028046'&amp;EntityType='LinearSchedule'&amp;EntityId='3d43b044-7ca1-498b-ac97-a4848031007b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260511112500 +0000" stop="20260511130000 +0000">
+		<title>Virgin Mountain</title>
+		<desc>Fusi is in his forties and yet to find courage to enter the adult world. He sleepwalks through everyday life, where routine is key. Unexpected events force him to make drastic decisions. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028063'&amp;EntityType='LinearSchedule'&amp;EntityId='9ae11433-7727-4f6c-9dc0-97541418398c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260511130000 +0000" stop="20260511145000 +0000">
+		<title>La La La at Rock Bottom</title>
+		<desc>After his release from prison, Shigeo loses his memory in a brutal attack. Taken in by Kasumi, he becomes the lead singer of a band and lives a new life- until memories of his dark past begin to return.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028067'&amp;EntityType='LinearSchedule'&amp;EntityId='61453211-bbe6-4b35-b122-89fad24b2c49'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260511145000 +0000" stop="20260511162000 +0000">
+		<title>Lemonade</title>
+		<desc>Mara, a young Romanian mother, is a caretaker in the US on a temporary visa. Life seemed perfect after she got married and brought her son over. However, she faces abuses of power from the officer in her green card process, who seeks to exploit her plight. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14028055'&amp;EntityType='LinearSchedule'&amp;EntityId='c1dc3bad-5341-4add-8397-853019c98811'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
