@@ -32,14 +32,6 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
-	<channel id="204746">
-		<display-name>LIVE 6</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
-	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -95,6 +87,14 @@
 	<channel id="556893">
 		<display-name>Kartoon Channel!</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358834'&amp;EntityType='Item'&amp;EntityId='556893'&amp;Width=350&amp;Height=250" />
+	</channel>
+	<channel id="556877">
+		<display-name>TG Junior</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358838'&amp;EntityType='Item'&amp;EntityId='556877'&amp;Width=264&amp;Height=250" />
+	</channel>
+	<channel id="382872">
+		<display-name>CinemaWorld</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6470217'&amp;EntityType='Item'&amp;EntityId='382872'&amp;Width=1500&amp;Height=515" />
 	</channel>
 	<programme channel="97098" start="20260513160000 +0000" stop="20260513163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 63</title>
@@ -1230,26 +1230,6 @@
 		<title>No programme available now. Next broadcast on 15th May, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 15th May, Friday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14107292'&amp;EntityType='LinearSchedule'&amp;EntityId='ff45f310-240c-4f51-bb02-b629b54adf63'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260513160000 +0000" stop="20260514160000 +0000">
-		<title>No Programme available now. Next Broadcast on 31st May, Sunday 7.20pm. Men’s 'A' International Friendly: Singapore vs Mongolia</title>
-		<desc>LIVE 5 will commence broadcast of the Men’s 'A' International Friendly: Singapore vs Mongolia on 31st May, Sunday 7.20pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14090098'&amp;EntityType='LinearSchedule'&amp;EntityId='f520d6fc-1d6b-47a6-91f1-219d148cd26d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260514160000 +0000" stop="20260515160000 +0000">
-		<title>No Programme available now. Next Broadcast on 31st May, Sunday 7.20pm. Men’s 'A' International Friendly: Singapore vs Mongolia</title>
-		<desc>LIVE 5 will commence broadcast of the Men’s 'A' International Friendly: Singapore vs Mongolia on 31st May, Sunday 7.20pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14107678'&amp;EntityType='LinearSchedule'&amp;EntityId='e9e7613b-7597-4514-b27e-913a7a5d3855'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20260513160000 +0000" stop="20260514160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14102451'&amp;EntityType='LinearSchedule'&amp;EntityId='36e16347-885b-4bc5-857f-bd6d488d73e7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20260514160000 +0000" stop="20260515160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14107704'&amp;EntityType='LinearSchedule'&amp;EntityId='b3d2dc7b-2cc7-488d-8ff4-283740fe7d8d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260513154003 +0000" stop="20260513163252 +0000">
 		<title>MasterChef New Zealand Season 06 - EP13</title>
@@ -3206,6 +3186,446 @@
 		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14108435'&amp;EntityType='LinearSchedule'&amp;EntityId='a2ead92f-3b97-4e04-8ab2-bec1b483280e'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="556877" start="20260513160000 +0000" stop="20260513163000 +0000">
+		<title>Argo's World</title>
+		<desc>Join Marie and Argo in this exciting STEM edutainment mixed-media series as they venture through Cyberspace and make discoveries about the world through historical figures and notable real-world personalities! Special guests include a founding father of</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14091986'&amp;EntityType='LinearSchedule'&amp;EntityId='88379512-4b53-4769-9c4f-faa37045067b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513163000 +0000" stop="20260513170000 +0000">
+		<title>Ollie! The Boy Who Became What He Ate</title>
+		<desc>Ollie is a 6-year-old with a massive imagination, often lost in his own world - flipping, sliding, climbing and rocket-blasting through the house, practicing at being the master of all things. But even masters need to stop and refuel. When meals or snack time interrupt Ollie’s play, he finds himself confronted with the real challenge of childhood; trying new food. To escape his predicament, Ollie uses his magic spoon to transport himself, along with his sister Poppy, and her stuffy Nummy, to a food planet filled with adventure and the very food Ollie stuck his spoon into.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092092'&amp;EntityType='LinearSchedule'&amp;EntityId='14d5f040-4f6c-4447-ac25-f5c6eb1cc539'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513170000 +0000" stop="20260513173000 +0000">
+		<title>The Fixies</title>
+		<desc>The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There’s just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14091998'&amp;EntityType='LinearSchedule'&amp;EntityId='3dcd5906-c55f-4aa5-bc31-c4588db3bd22'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513173000 +0000" stop="20260513173523 +0000">
+		<title>Gods Gang - Gods Gang - God's Gang | Love is in the Airhole | Episode 3</title>
+		<desc>Gods Gang</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092104'&amp;EntityType='LinearSchedule'&amp;EntityId='80b3c81a-78e6-471e-891e-4e38b035dfd7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513173523 +0000" stop="20260513174159 +0000">
+		<title>Gods Gang - Gods Gang - God's Gang | What's Cooking | Episode 4</title>
+		<desc>Gods Gang</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092116'&amp;EntityType='LinearSchedule'&amp;EntityId='3cb546f1-7172-44d7-9c49-057140025ad4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513174159 +0000" stop="20260513174757 +0000">
+		<title>Gods Gang - Gods Gang - Gods Gang | Mystery Ally in the Flames | Episode 5</title>
+		<desc>A forest trip turns into chaos when wildfire strikes! With no tech, the gang must unite to survive. Just when hope fades, a glowing hero appears. Who is it?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092163'&amp;EntityType='LinearSchedule'&amp;EntityId='40a88573-082d-4d09-962d-aac649550d6f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513174757 +0000" stop="20260513180000 +0000">
+		<title>Gods Gang - Gods Gang - Gods Gang | Trials of KungFuda | Episode 6</title>
+		<desc>A forest in flames. A rising fear. Enter Kungfuda, the mystery kicker who pushes God’s Gang to unlock their true power. Can the gang overcome fear and awaken as true Forest Guardians before darkness consumes it all?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14091903'&amp;EntityType='LinearSchedule'&amp;EntityId='a3d7a47b-bf3e-4d52-8249-c3b16b972f72'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513180000 +0000" stop="20260513180535 +0000">
+		<title>Troy the Train - Troy the Train - Ethan The Dumptruck helps Edgar move some sand.</title>
+		<desc>Edgar needs help moving some mounds of sand! Troy selects the highest-capacity truck he knows: Ethan the Dumptruck!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092003'&amp;EntityType='LinearSchedule'&amp;EntityId='263dea21-8dbe-4450-8f4d-fe8840b0cf7b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513180535 +0000" stop="20260513181054 +0000">
+		<title>Troy the Train - Troy the Train - Amber the Ambulance takes Katy to the hospital</title>
+		<desc>Katy needs help; she's feeling sick! Troy selects the most helpful, kindest car he knows: Amber the Ambulance!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092178'&amp;EntityType='LinearSchedule'&amp;EntityId='85fa0bc9-1988-47db-9660-23ff9ac5a4ca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513181054 +0000" stop="20260513181614 +0000">
+		<title>Troy the Train - Troy the Train - Ben the Tractor daves the day.</title>
+		<desc>Oh no, there's bales of hay all over the highway! Troy selects the most helpful truck he knows: Ben the Tractor!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092189'&amp;EntityType='LinearSchedule'&amp;EntityId='24c4c8a6-d303-4845-b161-38b5fe1e08a9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513181614 +0000" stop="20260513182403 +0000">
+		<title>Troy the Train - Troy the Train - Hector the Helicopter rescues Suzy</title>
+		<desc>Suzy had an accident and needs urgent help! Troy selects the most perfect vehicle to help rescue her: Hector the Helicopter!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14091908'&amp;EntityType='LinearSchedule'&amp;EntityId='54a2ef38-2cdc-4bdc-b760-c177ae91182d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513182403 +0000" stop="20260513183000 +0000">
+		<title>Troy the Train - Troy the Train - Sam the Snowplough clears the streets</title>
+		<desc>Lilly and Tom are stuck in the snow! Troy selects the most perfect truck for the job: Sam the Snowplough!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14091963'&amp;EntityType='LinearSchedule'&amp;EntityId='cdbe849e-7fb3-4ebb-9672-dcf174cf4fa1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513183000 +0000" stop="20260513183300 +0000">
+		<title>Rookie Robot - Rookie Robot - OCTO-DANCE! ROOKIE AND THE OCTOPUS</title>
+		<desc>Rookie is sitting on the shore, enjoying the sun, when he sees something repeatedly poking out of the water, sparking his curiosity. He puts on his underwater robot mask and dives into the ocean. At first, all he finds are rocks and coral, but suddenly, big, round eyes are staring at him from a gray rock. He flees in panic, but when he realizes that it is an octopus whose tentacles are tangled in plastic waste, he quickly frees his new friend from this unpleasant situation, and they dance happily together in the water</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14091974'&amp;EntityType='LinearSchedule'&amp;EntityId='ae912bca-9c92-41ac-a4c6-24ee620a70d8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513183300 +0000" stop="20260513183600 +0000">
+		<title>Rookie Robot - Rookie Robot - GAME ON? ROOKIE AND THE COMPUTER</title>
+		<desc>Rookie comes across an office cubicle with a computer on the table and is immediately fascinated. He presses some keys, a little character appears on the screen, and a computer game starts. Very excited, Rookie continues to press different keys. When in the end he wins the race and earns a trophy, the computer suddenly takes Rookie‘s photo and prints it out. However, the printing doesn‘t stop, and soon the whole floor is covered with photos before Rookie finally manages to shut down the computer and stop the madness.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14091916'&amp;EntityType='LinearSchedule'&amp;EntityId='c6bed7a0-09c1-44b1-adee-f65012643f4e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513183600 +0000" stop="20260513183900 +0000">
+		<title>Rookie Robot - Rookie Robot - LET IT BEEEEE! ROOKIE AND THE BEE</title>
+		<desc>Rookie finds a wooden box, knocks on it, and then shakes it. What a bad idea! The whole swarm of bees chases him, and he has to hide in the bushes. After the swarm is gone, he finds a tired and exhausted bee on the ground. Rookie has the idea to rescue the little bee with a sugar cube. The whole beehive is grateful, and Rookie learns a lot about the work of these useful little friends.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092199'&amp;EntityType='LinearSchedule'&amp;EntityId='e70383f8-a502-4907-bde0-802cca1598c0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513183900 +0000" stop="20260513184400 +0000">
+		<title>Rookie Robot - Rookie Robot - SNOWBALL EFFECT? ROOKIE AND THE POLAR BEAR</title>
+		<desc>Rookie is happily stomping through the snow when he suddenly gets hit by several snowballs. A pair of cheeky polar bears try to engage him in a playful snowball fight. But Rookie outwits them by hiding in the snow, causing the bears to stumble and then get hit by his surprise robot snowball machine. After the snowy confusion turns to laughter, everyone shares a moment of fun and happiness.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092209'&amp;EntityType='LinearSchedule'&amp;EntityId='0b74c906-0183-4311-b0cc-3e5c5b8e936d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513184400 +0000" stop="20260513184700 +0000">
+		<title>Rookie Robot - Rookie Robot - SPRING, SUMMER, FALL &amp; WINTER - ROOKIE AND THE 4 SEASONS</title>
+		<desc>From the window of his house Rookie watches the four seasons pass by and thinks of his friends and the great fun and adventures they had throughout the year: The bees that make everything bloom and the cheeky little ladybug in spring; a day at the beach, snorkeling with friends and a water battle in summer; fl ying kites, fun in the rain and his friend the squirrel getting ready in autumn and building snowmen, snowballs and sledding fun in winter.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092240'&amp;EntityType='LinearSchedule'&amp;EntityId='667e9eac-9a85-4d3a-93f3-ff3c5b5da8da'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513184700 +0000" stop="20260513185000 +0000">
+		<title>Rookie Robot - Rookie Robot - READY, SET, GO! ROOKIE AND THE RABBIT</title>
+		<desc>Rookie is relaxing in the sun when something rushes past him, leaving him in a cloud of dust. Using his telescope, he spots a racing rabbit, and with the tasty prospect of a sweet carrot for the winner, he manages to persuade it to take part in a race. Ready – steady – and off they go: Even though the rabbit stumbles and Rookie has to help, they finish the race together, tumbling happily over the finish line.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092011'&amp;EntityType='LinearSchedule'&amp;EntityId='cc95153e-b12e-4366-ad52-7f5f8e557e58'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513185000 +0000" stop="20260513185300 +0000">
+		<title>Rookie Robot - Rookie Robot - BALANCE IN PINK – ROOKIE AND THE FLAMINGO</title>
+		<desc>On his stroll around a lake, Rookie spots a group of pink flamingos gracefully balancing on one leg. Curious, Rookie tries to imitate them and, after practicing a little, manages to do so quite well. But suddenly there‘s a loud splash and Rookie discovers a flamingo struggling to stand on one leg, falling over and over. Offering to help, Rookie comes up with an excellent idea - a pair of roller skates! And there, slowly but surely, the flamingo learns to skate gracefully like a ballerina and to balance on one leg as well.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092252'&amp;EntityType='LinearSchedule'&amp;EntityId='f911b647-27df-4a93-8874-8a6b600d8491'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513185300 +0000" stop="20260513190000 +0000">
+		<title>Rookie Robot - Rookie Robot - BOUNCE, REBOUND - SCORE! ROOKIE AND THE GIRAFFE</title>
+		<desc>Rookie is out for a walk on a beautiful day when he suddenly hears a rhythmic sound in the distance. Curious as always, he goes out to investigate and finds a young giraffe playing basketball, skillfully dribbling and bouncing the ball into a basketball hoop high in the trees. Of course, Rookie wants to join in, but he has a few things to learn before their first game. In the end, they impress each other with their skills and tricks.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092078'&amp;EntityType='LinearSchedule'&amp;EntityId='f52965a2-24ad-40fe-9a60-b6c8647962f3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513190000 +0000" stop="20260513191511 +0000">
+		<title>LMN's - LMN's - Las tierras raras</title>
+		<desc>LMN's</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092019'&amp;EntityType='LinearSchedule'&amp;EntityId='d11a06a4-20df-4d25-ac4b-1b0d5fdccf32'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513191511 +0000" stop="20260513193000 +0000">
+		<title>LMN's - LMN's - El desierto</title>
+		<desc>En medio de un desierto abrasador, Chip y los átomos se encontraron con un átomo de tungsteno que les brindó refugio bajo un edificio piramidal que, hasta hacía poco, contaba con un ingenioso sistema de refrigeración por el que circulaba una corriente de amoníaco en su sótano. Pero ahora, el Dr. No ha desviado el flujo de amoníaco para su propio beneficio. Chip descubre el punto donde se desvía el amoníaco y construye una presa que lo devuelve a su curso normal.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092216'&amp;EntityType='LinearSchedule'&amp;EntityId='d1cc16a6-77ad-466b-907c-e646f5725ca0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513193000 +0000" stop="20260513200000 +0000">
+		<title>Box Yourself </title>
+		<desc>Great Projects From Ordinary Cardboard!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092027'&amp;EntityType='LinearSchedule'&amp;EntityId='f80dfa31-6343-4be1-86ae-4415fd86d4eb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513200000 +0000" stop="20260513200507 +0000">
+		<title>RoboFuse - RoboFuse - Let's Recycle</title>
+		<desc>Zitron throws garbage all around Car City. Rodeo and Booster merge, but Zitron overpowers them. Gary joins them to stop him.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14091928'&amp;EntityType='LinearSchedule'&amp;EntityId='84f7ff39-f009-4c35-a8a9-6ff059b842e6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513200507 +0000" stop="20260513201003 +0000">
+		<title>RoboFuse - RoboFuse - The Dinosaur</title>
+		<desc>Robo needs to find Zitron and stop the dinosaur terrorising Car City before it causes any more chaos.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092040'&amp;EntityType='LinearSchedule'&amp;EntityId='3cf262d0-bb9a-4c30-ac0c-8e8d7e40454f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513201003 +0000" stop="20260513201503 +0000">
+		<title>RoboFuse - RoboFuse - Stuck in Mud</title>
+		<desc>Zitron blocked the road with mud, and cars are getting stuck! Rodeo and Booster merge in an attempt to stop him.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092128'&amp;EntityType='LinearSchedule'&amp;EntityId='b8560690-ed6e-4952-b827-53cc5b61fbdd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513201503 +0000" stop="20260513201959 +0000">
+		<title>RoboFuse - RoboFuse - Flying Shark</title>
+		<desc>It's Rodeo's birthday! Zitron's present—a flying shark—goes wild and turns on the guests. Robo comes to the rescue with Carrie's help.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092264'&amp;EntityType='LinearSchedule'&amp;EntityId='bf5682b2-1e7b-478f-813c-25be2faf5b74'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513201959 +0000" stop="20260513203000 +0000">
+		<title>RoboFuse - RoboFuse - Saving the Parade</title>
+		<desc>It’s Ben’s Parade in Car City. Zitron escapes from jail, planning to ruin the fun, but Robo foils his plan.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092139'&amp;EntityType='LinearSchedule'&amp;EntityId='a42ed8fe-1349-47f5-a990-b1637f937921'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513203000 +0000" stop="20260513210000 +0000">
+		<title>Chefclub Kids</title>
+		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092273'&amp;EntityType='LinearSchedule'&amp;EntityId='c5f91aa1-5f0f-48eb-937e-0189fd1fe47f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513210000 +0000" stop="20260513213000 +0000">
+		<title>VIP Pets</title>
+		<desc>We are the VIP Pets! The coolest pets with a passion for hair! We are best friends and together we will discover lots of beautiful hairstyles and go on exciting adventures!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092052'&amp;EntityType='LinearSchedule'&amp;EntityId='bdc34cd1-b243-4009-9732-6f0736f5ebd4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513213000 +0000" stop="20260513220000 +0000">
+		<title>Om Nom Stories</title>
+		<desc>Sweet tooth Om Nom is wandering Around the world, eats a lot of candies and tries to find his Dream job. Watch his adventures and solve different puzzles on the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14091940'&amp;EntityType='LinearSchedule'&amp;EntityId='e49150d3-98f7-436d-a3a7-64d0ac4f2b0c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513220000 +0000" stop="20260513223000 +0000">
+		<title>Ryan Defrates</title>
+		<desc>Ryan Defrates</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092232'&amp;EntityType='LinearSchedule'&amp;EntityId='75f9dfc4-fa3a-4386-8300-2734752d2d25'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513223000 +0000" stop="20260513230000 +0000">
+		<title>Grojband</title>
+		<desc>The story about 12 year old Corey that emotionally torments his sister so that she will write the ultimate lyrics for his garage band.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092223'&amp;EntityType='LinearSchedule'&amp;EntityId='e93c0ba5-97dc-4937-805b-a4372c3ef5da'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513230000 +0000" stop="20260513233000 +0000">
+		<title>Everybody Loves a Moose</title>
+		<desc>An oddball buddy series between an over ambitious boy, Jack and his pal Moose, a melodramatic self-confessed expert in everything. Except he isn't! Despite his best intentions, he always messes up and although Jack may not get what he want, you can't help being sucked in by Moose's relentless optimism and zest for life!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14092150'&amp;EntityType='LinearSchedule'&amp;EntityId='e56df47a-11db-4b03-a674-e2f2b108bc60'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260513233000 +0000" stop="20260514000000 +0000">
+		<title>Tom's Car Wash</title>
+		<desc>Tom loves caring for his friends; they can always count on Tom to tow them back to his car wash, where they're guaranteed to leave sparking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14091951'&amp;EntityType='LinearSchedule'&amp;EntityId='50e87917-fe04-4aa6-a22e-59367cb36710'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514000000 +0000" stop="20260514003000 +0000">
+		<title>Eliot Kid</title>
+		<desc>When a tooth falling out turns into a hunt for the “giant mouse”, when the city’s sewers transform into Indiana Jones’ white rapids or when a trip to the toilets becomes an expedition to a haunted house, well then you’ve entered the wonderful world of Eliot Kid!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106861'&amp;EntityType='LinearSchedule'&amp;EntityId='7ba99531-8b78-45ef-af05-413d5e0a9d2d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514003000 +0000" stop="20260514010000 +0000">
+		<title>Pumpkin Reports</title>
+		<desc>Max Green’s new brother and sister are aliens sent to Earth as the advance party for an invasion - and he’s the only one who can stop them turning humans into unwilling slave-gardeners.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106973'&amp;EntityType='LinearSchedule'&amp;EntityId='2a08ff4c-8b45-46ad-99db-5cd2538f2458'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514010000 +0000" stop="20260514013000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106977'&amp;EntityType='LinearSchedule'&amp;EntityId='69505a77-85b8-46e9-99d8-f64204889740'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514013000 +0000" stop="20260514020000 +0000">
+		<title>Ebb and Flo</title>
+		<desc>The world of Ebb and Flo is seen through Ebb’s eyes and Ebb reveals all the emotions grown-ups try to hide. Flo doesn’t think of Ebb as a dog, and Ebb doesn’t think of Flo as a small human, they just are the best of friends. Until Bird arrives to lovingly disrupt Ebb’s world. Ebb and Flo’s home is an old boat moored by the beach. Things Couldn’t Be Better!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106981'&amp;EntityType='LinearSchedule'&amp;EntityId='2364a7c1-a9e6-4f7e-bd72-9be5a8f3eab4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514020000 +0000" stop="20260514023000 +0000">
+		<title>Cyboars</title>
+		<desc>Part Machine, Part Boar, All Hero!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106865'&amp;EntityType='LinearSchedule'&amp;EntityId='e460860c-7b7d-4e07-86d6-f65d01a1f98e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514023000 +0000" stop="20260514030000 +0000">
+		<title>Princess Play Time </title>
+		<desc>The proud Princess likes to do things her own way, but her antics are always joined by her restless brother, Prince, who tends to turn everything topsy-turvy. Any playtime in their room transforms into a fantastic journey through unusual worlds: the children arrange a picnic on the Moon, conduct a detective investigation in a toy city, or search for pirate treasures on islands! Although initially, the Princess and Prince seem to clash and compete, by the end, they always find joy in each other's company and that of their cherished dog, Bona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106925'&amp;EntityType='LinearSchedule'&amp;EntityId='3ad9b362-7dc3-43a9-a51b-68660ea4bb78'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514030000 +0000" stop="20260514033000 +0000">
+		<title>Talking Tom and Friends</title>
+		<desc>Things get even more epic in Season 3 as Talking Tom and Friends try new ways to make their dreams come true, making more friends (and enemies) along the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106985'&amp;EntityType='LinearSchedule'&amp;EntityId='3aa56f5c-0327-4adc-a4ef-e3c919ddd9cb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514033000 +0000" stop="20260514040000 +0000">
+		<title>Monster Town</title>
+		<desc>Meet the Monster Trucks, a gang of colossal, hard-working cars who team up to help their friends and community in Monster City.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106989'&amp;EntityType='LinearSchedule'&amp;EntityId='1454175e-fbe3-49a1-9afa-01c36cdc8baa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514040000 +0000" stop="20260514043000 +0000">
+		<title>Ollie! The Boy Who Became What He Ate</title>
+		<desc>Ollie is a 6-year-old with a massive imagination, often lost in his own world - flipping, sliding, climbing and rocket-blasting through the house, practicing at being the master of all things. But even masters need to stop and refuel. When meals or snack time interrupt Ollie’s play, he finds himself confronted with the real challenge of childhood; trying new food. To escape his predicament, Ollie uses his magic spoon to transport himself, along with his sister Poppy, and her stuffy Nummy, to a food planet filled with adventure and the very food Ollie stuck his spoon into.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106929'&amp;EntityType='LinearSchedule'&amp;EntityId='567b9253-36bf-402f-9bd7-65f57bed129c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514043000 +0000" stop="20260514050000 +0000">
+		<title>The Fixies</title>
+		<desc>The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There’s just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106869'&amp;EntityType='LinearSchedule'&amp;EntityId='8342cde5-27aa-433f-b3cf-036496c967a2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514050000 +0000" stop="20260514053000 +0000">
+		<title>Gummy Bear and Friends</title>
+		<desc>Gummy lives in an apartment with his friend Harry the Chameleon, while his other friend Kala the Cat hangs out in a ninja dojo on the roof. Together they go on wild and wacky adventures in their building and hometown. Enjoy the fun and crazy adventures!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106933'&amp;EntityType='LinearSchedule'&amp;EntityId='fe242cd2-cfe6-480d-97b5-fac6c26c2a89'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514053000 +0000" stop="20260514060000 +0000">
+		<title>Grojband</title>
+		<desc>The story about 12 year old Corey that emotionally torments his sister so that she will write the ultimate lyrics for his garage band.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106873'&amp;EntityType='LinearSchedule'&amp;EntityId='779ca7ad-5b5d-44f2-aba7-455c32e69643'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514060000 +0000" stop="20260514063000 +0000">
+		<title>Box Yourself </title>
+		<desc>Great Projects From Ordinary Cardboard!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106953'&amp;EntityType='LinearSchedule'&amp;EntityId='7a98abd7-90a8-49a6-a3a4-42209b45c457'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514063000 +0000" stop="20260514070000 +0000">
+		<title>Ebb and Flo</title>
+		<desc>The world of Ebb and Flo is seen through Ebb’s eyes and Ebb reveals all the emotions grown-ups try to hide. Flo doesn’t think of Ebb as a dog, and Ebb doesn’t think of Flo as a small human, they just are the best of friends. Until Bird arrives to lovingly disrupt Ebb’s world. Ebb and Flo’s home is an old boat moored by the beach. Things Couldn’t Be Better!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106937'&amp;EntityType='LinearSchedule'&amp;EntityId='b4959f54-3a32-42b4-8d11-c8c904389c31'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514070000 +0000" stop="20260514073000 +0000">
+		<title>Baby Riki </title>
+		<desc>The show covers all aspects of a child’s life from physical well-being to cognitive and soft skills. The musical stories are based around age-appropriate experiences with educational concepts introduced in familiar surroundings and context for infants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106993'&amp;EntityType='LinearSchedule'&amp;EntityId='7d8c08d0-9f5a-4b6c-ab71-05ae504a2948'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514073000 +0000" stop="20260514080000 +0000">
+		<title>Talking Tom and Friends Minis</title>
+		<desc>Get ready to watch Talking Tom and Friends at their cutest! Mini in size, but massive in fun, the Minis check out the day-to-day world of the friends we all know and love where they do the most ordinary things in the most extraordinary ways.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106957'&amp;EntityType='LinearSchedule'&amp;EntityId='3fb408f2-10b0-4317-bbca-7d2af6a608ed'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514080000 +0000" stop="20260514083000 +0000">
+		<title>Leo the Wildlife Ranger</title>
+		<desc>Leo the Wildlife Ranger introduces the secrets and wonders of nature and wildlife around us and kickstarts a curiosity and passion for nature in kids. With engaging missions and adventures, kids have fun while learning positive lessons!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106909'&amp;EntityType='LinearSchedule'&amp;EntityId='6398625b-ab3e-4ee0-b006-6afb37dcb496'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514083000 +0000" stop="20260514090000 +0000">
+		<title>Counting With Paula</title>
+		<desc>The show features Paula and her friends, Tim, Billy, Chalky, Calc, and the Numbers as they go on exciting adventures in colorful and exotic places. From the Amazon jungles to the deepest oceans, and to the hottest deserts, Paula and friends solve problems, have fun and make more friends along the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106877'&amp;EntityType='LinearSchedule'&amp;EntityId='b45eacc1-9105-4bc3-a4c9-8c1194bb5e8d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514090000 +0000" stop="20260514093000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106997'&amp;EntityType='LinearSchedule'&amp;EntityId='41663015-5a5c-4294-8778-3247d6c7ee18'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514093000 +0000" stop="20260514100000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14107001'&amp;EntityType='LinearSchedule'&amp;EntityId='398c3e39-799c-4ce3-b6fe-9a54256acc71'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514100000 +0000" stop="20260514110000 +0000">
+		<title>Bino &amp; Fino</title>
+		<desc>Bino &amp; Fino is about a brother and sister named Bino and Fino who live with their grandparents 'Mama' and 'Papa' in a modern day city in Africa. Bino and Fino have many adventures where, with the help of their friend Zeena the Magic Butterfly, they discover and learn things about the world.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106881'&amp;EntityType='LinearSchedule'&amp;EntityId='b909ce86-d546-46c5-85c8-7e8faa20c143'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514110000 +0000" stop="20260514113000 +0000">
+		<title>Horaci the Inuit</title>
+		<desc>Packed with adventure, fun and excitement, HORACI THE INUIT will transport you to the Lands of the North where, together with his best friend Sedna, he will have to solve all kinds of mysteries! Horaci the Inuit takes place in a remote village and talks about universal values such as caring for nature, being intuitive and open-minded and, above all, having a loving respect for family and friends!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106913'&amp;EntityType='LinearSchedule'&amp;EntityId='4c6a79f0-a163-40ff-8de2-7f1983d1377b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514113000 +0000" stop="20260514120000 +0000">
+		<title>Leo the Wildlife Ranger</title>
+		<desc>Leo the Wildlife Ranger introduces the secrets and wonders of nature and wildlife around us and kickstarts a curiosity and passion for nature in kids. With engaging missions and adventures, kids have fun while learning positive lessons!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106941'&amp;EntityType='LinearSchedule'&amp;EntityId='fc1a4b1f-254e-46bd-ba32-85bf09d2ec70'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514120000 +0000" stop="20260514123000 +0000">
+		<title>Chefclub Kids</title>
+		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106917'&amp;EntityType='LinearSchedule'&amp;EntityId='e01a954a-086f-4994-b0a9-29aefb5c9a13'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514123000 +0000" stop="20260514133000 +0000">
+		<title>Hogie the Globehopper</title>
+		<desc>Hogie the Globehopper is a fun tv show that will inspire a curiosity and fascination about the world and its people. Hogie and his friends Lorna, Bernie and Floaty travel the world, making lots of friends along the way.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106945'&amp;EntityType='LinearSchedule'&amp;EntityId='e6ba5606-7336-4e9a-8eb9-f1f536c087a4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514133000 +0000" stop="20260514133330 +0000">
+		<title>Bernard - Bernard - At The North Pole</title>
+		<desc>Bernard gets bored trekking across the frozen Arctic wastes. Some abandoned equipment becomes a source of great entertainment, but not for long.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106885'&amp;EntityType='LinearSchedule'&amp;EntityId='f0db69e5-0cc3-40d7-b5ef-802c0475aa0f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514133330 +0000" stop="20260514133659 +0000">
+		<title>Bernard - Bernard - The Package</title>
+		<desc>Zack tries to steal a parcel which Bernard is carrying. At first he succeeds, but Bernard doesn't give up that easily.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106889'&amp;EntityType='LinearSchedule'&amp;EntityId='ec170ea6-abcd-4135-873a-8e3d0b4aad79'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514133659 +0000" stop="20260514134233 +0000">
+		<title>Bernard - Bernard - Sleepwalker</title>
+		<desc>Even when he's asleep, Bernard is capable of anything – as he finds out when he wakes up in the morning.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106961'&amp;EntityType='LinearSchedule'&amp;EntityId='a5552e23-65e6-455d-8c96-218370f5c41b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514134233 +0000" stop="20260514134607 +0000">
+		<title>Bernard - Bernard - The Pizza</title>
+		<desc>Bernard</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106893'&amp;EntityType='LinearSchedule'&amp;EntityId='c613172e-be96-4362-b16a-a79dc1145136'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514134607 +0000" stop="20260514135133 +0000">
+		<title>Bernard - Bernard - The Unicycle</title>
+		<desc>To the amazement of Zack, Bernard discovers he has some performing skills which he never knew he had.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106949'&amp;EntityType='LinearSchedule'&amp;EntityId='d7768ea0-ccbf-455e-aa6b-f5f5b8a37e2f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514135133 +0000" stop="20260514135500 +0000">
+		<title>Bernard - Bernard - The Motorboat</title>
+		<desc>Although Bernard has been shipwrecked, his real problems begin when he finds an abandoned motorboat which could get him back to shore.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106897'&amp;EntityType='LinearSchedule'&amp;EntityId='9a852dd5-20f5-4add-9c13-e518e177b7fb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514135500 +0000" stop="20260514140000 +0000">
+		<title>Bernard - Bernard - The Prisoner</title>
+		<desc>Bernard makes a daring escape from prison, but once he's out, he realises that perhaps life inside wasn't so bad after all.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106969'&amp;EntityType='LinearSchedule'&amp;EntityId='2971aeb8-ad0e-4622-94c7-a3c994bb731d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514140000 +0000" stop="20260514143000 +0000">
+		<title>The Fixies</title>
+		<desc>The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There’s just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106921'&amp;EntityType='LinearSchedule'&amp;EntityId='d2101654-1447-4dcf-827c-7c3cebd6f215'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514143000 +0000" stop="20260514150000 +0000">
+		<title>Brain Candy TV</title>
+		<desc>Early learning for a brighter future! Your children will love to learn their ABCs, numbers, colors and even some math and science with the help of our action-packed vehicles including monster trucks, dump trucks, trains and more, plus our cute dog Lizzy.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106901'&amp;EntityType='LinearSchedule'&amp;EntityId='1d3c2917-dfa7-4480-b593-36af2d8921be'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514150000 +0000" stop="20260514153000 +0000">
+		<title>Talking Tom and Friends Minis</title>
+		<desc>Get ready to watch Talking Tom and Friends at their cutest! Mini in size, but massive in fun, the Minis check out the day-to-day world of the friends we all know and love where they do the most ordinary things in the most extraordinary ways.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106905'&amp;EntityType='LinearSchedule'&amp;EntityId='46552628-c149-4e1c-8587-d5259bcc02a2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514153000 +0000" stop="20260514160000 +0000">
+		<title>Yeti Tales</title>
+		<desc>Join Us in Yeti Tales !</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14106965'&amp;EntityType='LinearSchedule'&amp;EntityId='df7d9080-c9ce-40b7-b856-4a4b2d094230'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514160000 +0000" stop="20260514163000 +0000">
+		<title>Timmy Time</title>
+		<desc>Being an ‘only lamb in the flock’ Timmy has been used to getting his own way. Now for the first time Timmy is going to have to learn to get along with other little animals. Timmy is going to Nursery! Self-willed and naughty Timmy is going to have to learn how to share things with other youngsters and think about their feelings – not just his. Timmy is a gifted little footballer who needs to learn that it’s not enough to kick the ball – you have to pass it too. Harriet Heron and Osbourne Owl, who run the Nursery are going to have their hands full, but Timmy gets it right in the end with a little help from his friends of the furry, feathery and spikey type.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109932'&amp;EntityType='LinearSchedule'&amp;EntityId='091fda81-ddeb-432e-b824-3fbc53622fec'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260513145500 +0000" stop="20260513163000 +0000">
+		<title>Murder in Kermadec</title>
+		<desc>A man is found dead at the foot of a cliff in a small quiet fishing village. Captain Breguet who wanted to leave the region will have to stay a little longer to solve this crime. She will find a mysterious man on her way and fight to protect her daughter.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14070599'&amp;EntityType='LinearSchedule'&amp;EntityId='c18f011a-91d3-494c-9fb6-3a1f5bb1d936'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260513163000 +0000" stop="20260513183000 +0000">
+		<title>Suro</title>
+		<desc>A young, vulnerable couple inherits a cork-harvesting farm in rural Catalonia. As newly fledged landowners, they dream of building a fair and sustainable life, only to find their ideals clash head-on with their dire need to make money.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089719'&amp;EntityType='LinearSchedule'&amp;EntityId='2be24394-3152-437f-833d-750d90587363'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260513183000 +0000" stop="20260513202500 +0000">
+		<title>Hunting Season</title>
+		<desc>Enersto, a hunting guide in Patagonia, is left to take care of his teenage son he hasn’t seen for years. An intense father-son relationship is played out amidst the hostility of nature.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089695'&amp;EntityType='LinearSchedule'&amp;EntityId='ea003a62-2ede-409d-b66f-f271bcd33882'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260513202500 +0000" stop="20260513220000 +0000">
+		<title>The Second</title>
+		<desc>An author's success following the release of her celebrated erotic memoir is threatened when her best friend and muse reveals the truth behind the memoir's provenance, igniting an incendiary tale of sex, lies and betrayal.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089655'&amp;EntityType='LinearSchedule'&amp;EntityId='987be361-01db-4c68-aedf-98e926ce9bd2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260513220000 +0000" stop="20260513234000 +0000">
+		<title>To Kill A Mongolian Horse</title>
+		<desc>Saina, a herdsman by day and horseback performer by night, clings to his heritage on the wintry steppes of Inner Mongolia, as he’s forced to confront the crumbling of the world he once knew.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089723'&amp;EntityType='LinearSchedule'&amp;EntityId='08c5dea7-d35e-4045-b737-1b970b7959d1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260513234000 +0000" stop="20260514011000 +0000">
+		<title>Vera Dreams of the Sea</title>
+		<desc>Vera, a devoted wife, mother, and grandmother, has her serene life turned upside down by her husband's sudden suicide. As greedy relatives and an underworld scheme threaten their family’s home, she must confront danger and take control of her own fate.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089659'&amp;EntityType='LinearSchedule'&amp;EntityId='d455f67d-9abb-4d8b-b69d-28d6c3193278'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514011000 +0000" stop="20260514024500 +0000">
+		<title>Murders in Pont-Aven</title>
+		<desc>The bodies of two gallery owners are found. These murders are reminiscent of the death of Suzanne, a painter, 20 years ago. The investigation is led by Marion, Suzanne's daughter, and by Antoine who was in charge of the investigations at the time.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089699'&amp;EntityType='LinearSchedule'&amp;EntityId='1b0f1b67-ce8d-4516-891f-b93ba49fae7d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514024500 +0000" stop="20260514044500 +0000">
+		<title>Here And There</title>
+		<desc>Returning from the US, Pedro comes home to his family in Mexico. With the money he has made, he hopes to secure a better life with his family, mend his relationship with them, and hopes to achieve his lifelong dream of starting a band.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089663'&amp;EntityType='LinearSchedule'&amp;EntityId='6ca9784f-b2e7-45b0-8618-f90c7116fce5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514044500 +0000" stop="20260514061000 +0000">
+		<title>Roise &amp; Frank</title>
+		<desc>Recently widowed Róise is struggling with her grief following her husband's passing. However, when a stray dog starts to follow her around, she starts to believe that it might be the reincarnation of her husband.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089727'&amp;EntityType='LinearSchedule'&amp;EntityId='f1f79f91-dc85-4578-a2b3-ea0b13e2531a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514061000 +0000" stop="20260514074500 +0000">
+		<title>The Deep</title>
+		<desc>March 1984, a few miles off the south coast of Iceland, a fishing boat sank with all its men. One of the crew members miraculously survived. After six hours in the ocean, the exhausted man is washed ashore, only to find himself on a deadly lava field.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089667'&amp;EntityType='LinearSchedule'&amp;EntityId='e61050bb-7e0b-40ec-93f8-1ff24f2100bb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514074500 +0000" stop="20260514081000 +0000">
+		<title>One Last Supper</title>
+		<desc>A spirit-seeing daughter must race against time to save her mother’s spirit from turning into a Hungry Ghost by retracing her mother’s past life.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089706'&amp;EntityType='LinearSchedule'&amp;EntityId='89411f43-30dd-4a69-9cde-01e53177d044'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514081000 +0000" stop="20260514094500 +0000">
+		<title>Murder in Kermadec</title>
+		<desc>A man is found dead at the foot of a cliff in a small quiet fishing village. Captain Breguet who wanted to leave the region will have to stay a little longer to solve this crime. She will find a mysterious man on her way and fight to protect her daughter.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089674'&amp;EntityType='LinearSchedule'&amp;EntityId='8c978845-4336-4b3f-be22-4f49c9a42712'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514094500 +0000" stop="20260514112000 +0000">
+		<title>From The Vine</title>
+		<desc>A burnt-out executive experiences an ethical crisis and travels back to his hometown in rural Italy to recalibrate his moral compass.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089690'&amp;EntityType='LinearSchedule'&amp;EntityId='b53d95c5-def4-4374-b411-982d27fd9dbf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514112000 +0000" stop="20260514130000 +0000">
+		<title>Murder in Mont St. Michel</title>
+		<desc>A seemingly mystical murder takes Captain Sophie back to Mont-Saint-Michel, her childhood home and where her father is buried. She meets an exorcist priest and is annoyed by his silence but she's far from suspecting that a weighty secret unites them.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089711'&amp;EntityType='LinearSchedule'&amp;EntityId='066b9f5a-6f12-4659-b3f9-5589cb6a9194'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514130000 +0000" stop="20260514145500 +0000">
+		<title>The Uninvited Guest</title>
+		<desc>In this suspense thriller, Felix, an architect, lets a stranger into his home to use his phone. When the man suddenly disappears inside the house, Felix finds himself in in a cat and mouse chase and his house becomes a maze.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089715'&amp;EntityType='LinearSchedule'&amp;EntityId='fb66c272-c138-476d-8859-159abb414e8b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514145500 +0000" stop="20260514165000 +0000">
+		<title>A Yard of Jackals</title>
+		<desc>During the oppressive Chilean dictatorship, a lonely model maker takes refuge in the apparent peace of his neighborhood. However, his life is upended when mysterious neighbors arrive, unleashing a spiral of horror and violence that will leave deep scars. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14089682'&amp;EntityType='LinearSchedule'&amp;EntityId='e7376051-e6d4-4e17-8ea2-56db99460ce6'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260514163000 +0000" stop="20260514173000 +0000">
 		<title>Almost Paradise S1 - EP 5</title>
 		<desc>When a typhoon hits the Island, criminals and their hostages are trapped inside the police station. Alex must find a way to save his friends... as well as a sworn enemy - a US State Department bureaucrat there to "do a deal" with an arms dealer Alex had recently captured.</desc>
@@ -4275,16 +4695,6 @@
 		<title>No programme available now. Next broadcast on 16th May, Saturday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 16th May, Saturday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14128284'&amp;EntityType='LinearSchedule'&amp;EntityId='457297c9-ea2b-4dd5-ba85-78345985e632'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20260515160000 +0000" stop="20260516160000 +0000">
-		<title>No Programme available now. Next Broadcast on 31st May, Sunday 7.20pm. Men’s 'A' International Friendly: Singapore vs Mongolia</title>
-		<desc>LIVE 5 will commence broadcast of the Men’s 'A' International Friendly: Singapore vs Mongolia on 31st May, Sunday 7.20pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14128698'&amp;EntityType='LinearSchedule'&amp;EntityId='b9eb6803-12dc-463d-8358-3da859686573'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20260515160000 +0000" stop="20260516160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14128727'&amp;EntityType='LinearSchedule'&amp;EntityId='ed730b8b-4aa9-4418-b157-d1c962190fa7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260514164710 +0000" stop="20260514174433 +0000">
 		<title>MasterChef Australia Season 04 - mmunity Challenge: Shaun Presland</title>
@@ -6120,5 +6530,335 @@
 		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep20 - EP120</title>
 		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14129757'&amp;EntityType='LinearSchedule'&amp;EntityId='e161401b-5977-4e4f-bdb7-1098aa0adb9f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514163000 +0000" stop="20260514170000 +0000">
+		<title>Misha, the Purple Cat </title>
+		<desc>Misha is a very lively, alert cat. She is very interested in investigating everything going on around her, which means she has some very entertaining adventures with her friends. Many things can happen in Misha’s world; especially exciting adventures, mysterious investigations, hilarious competitions... all with a feeling of close friendship.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109807'&amp;EntityType='LinearSchedule'&amp;EntityId='72644f48-8b73-48eb-8d34-8ec230701f83'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514170000 +0000" stop="20260514180000 +0000">
+		<title>Music Box</title>
+		<desc>Get ready to dance and sing-along to music-filled episodes</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109892'&amp;EntityType='LinearSchedule'&amp;EntityId='8409913a-38ff-45cc-a7eb-22503f2f901d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514180000 +0000" stop="20260514190000 +0000">
+		<title>LOL Block </title>
+		<desc>A crazy collection of hilarious comedy series featuring shows like, Jelly Jam, Crazy Candies, Karim &amp; Noor, and Talking Tom.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109858'&amp;EntityType='LinearSchedule'&amp;EntityId='7e43a59c-a843-46cd-9791-7eb004004423'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514190000 +0000" stop="20260514193000 +0000">
+		<title>Baby Riki </title>
+		<desc>The show covers all aspects of a child’s life from physical well-being to cognitive and soft skills. The musical stories are based around age-appropriate experiences with educational concepts introduced in familiar surroundings and context for infants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109862'&amp;EntityType='LinearSchedule'&amp;EntityId='af69bfd3-2ff3-4de1-ad96-9d90dfa8713c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514193000 +0000" stop="20260514200000 +0000">
+		<title>Talking Tom and Friends Minis</title>
+		<desc>Get ready to watch Talking Tom and Friends at their cutest! Mini in size, but massive in fun, the Minis check out the day-to-day world of the friends we all know and love where they do the most ordinary things in the most extraordinary ways.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109866'&amp;EntityType='LinearSchedule'&amp;EntityId='bc98138f-c1e0-490f-9460-cd1ae284d322'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514200000 +0000" stop="20260514203000 +0000">
+		<title>Leo the Wildlife Ranger</title>
+		<desc>Leo the Wildlife Ranger introduces the secrets and wonders of nature and wildlife around us and kickstarts a curiosity and passion for nature in kids. With engaging missions and adventures, kids have fun while learning positive lessons!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109819'&amp;EntityType='LinearSchedule'&amp;EntityId='1dd6b03c-d090-4cda-afef-9a8b21b4bf91'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514203000 +0000" stop="20260514210000 +0000">
+		<title>Counting With Paula</title>
+		<desc>The show features Paula and her friends, Tim, Billy, Chalky, Calc, and the Numbers as they go on exciting adventures in colorful and exotic places. From the Amazon jungles to the deepest oceans, and to the hottest deserts, Paula and friends solve problems, have fun and make more friends along the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109830'&amp;EntityType='LinearSchedule'&amp;EntityId='a5abf473-f831-4d87-a5bf-8e6e09f2b63e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514210000 +0000" stop="20260514213000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109842'&amp;EntityType='LinearSchedule'&amp;EntityId='77bfd1be-192d-442a-aa3d-bb77669074ea'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514213000 +0000" stop="20260514220000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109870'&amp;EntityType='LinearSchedule'&amp;EntityId='5cdbcc84-6a8d-481c-a327-970ef4bc48df'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514220000 +0000" stop="20260514230000 +0000">
+		<title>Bino &amp; Fino</title>
+		<desc>Bino &amp; Fino is about a brother and sister named Bino and Fino who live with their grandparents 'Mama' and 'Papa' in a modern day city in Africa. Bino and Fino have many adventures where, with the help of their friend Zeena the Magic Butterfly, they discover and learn things about the world.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109880'&amp;EntityType='LinearSchedule'&amp;EntityId='0828a5c6-c91d-4c46-bb61-f62af9724de4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514230000 +0000" stop="20260514233000 +0000">
+		<title>Horaci the Inuit</title>
+		<desc>Packed with adventure, fun and excitement, HORACI THE INUIT will transport you to the Lands of the North where, together with his best friend Sedna, he will have to solve all kinds of mysteries! Horaci the Inuit takes place in a remote village and talks about universal values such as caring for nature, being intuitive and open-minded and, above all, having a loving respect for family and friends!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109850'&amp;EntityType='LinearSchedule'&amp;EntityId='eaad8c99-cfe4-4fe6-b7ab-a43e971f7c26'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260514233000 +0000" stop="20260515000000 +0000">
+		<title>Nutri Ventures </title>
+		<desc>Protecting Healthy Foods At All Costs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14109903'&amp;EntityType='LinearSchedule'&amp;EntityId='25cb8fdf-79b2-41e1-abed-dc479ee74352'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515000000 +0000" stop="20260515003000 +0000">
+		<title>Chefclub Kids</title>
+		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127348'&amp;EntityType='LinearSchedule'&amp;EntityId='0c4f71a1-47c0-41b4-ba87-6fd54b539420'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515003000 +0000" stop="20260515013000 +0000">
+		<title>Hogie the Globehopper</title>
+		<desc>Hogie the Globehopper is a fun tv show that will inspire a curiosity and fascination about the world and its people. Hogie and his friends Lorna, Bernie and Floaty travel the world, making lots of friends along the way.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127460'&amp;EntityType='LinearSchedule'&amp;EntityId='5a9924a9-b318-439d-a274-909c1697de4f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515013000 +0000" stop="20260515013330 +0000">
+		<title>Bernard - Bernard - At The North Pole</title>
+		<desc>Bernard gets bored trekking across the frozen Arctic wastes. Some abandoned equipment becomes a source of great entertainment, but not for long.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127464'&amp;EntityType='LinearSchedule'&amp;EntityId='a4433a44-632d-4b2e-940b-082a94fc84db'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515013330 +0000" stop="20260515013659 +0000">
+		<title>Bernard - Bernard - The Package</title>
+		<desc>Zack tries to steal a parcel which Bernard is carrying. At first he succeeds, but Bernard doesn't give up that easily.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127420'&amp;EntityType='LinearSchedule'&amp;EntityId='4b36ddad-7847-4cfc-966f-0a21229504f2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515013659 +0000" stop="20260515014233 +0000">
+		<title>Bernard - Bernard - Sleepwalker</title>
+		<desc>Even when he's asleep, Bernard is capable of anything – as he finds out when he wakes up in the morning.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127424'&amp;EntityType='LinearSchedule'&amp;EntityId='b2c12f49-bd42-478e-a9c3-8fb20cfabdc4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515014233 +0000" stop="20260515014607 +0000">
+		<title>Bernard - Bernard - The Pizza</title>
+		<desc>Bernard</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127480'&amp;EntityType='LinearSchedule'&amp;EntityId='48b6efdf-1b03-4b4f-81f7-ac863a51b9a3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515014607 +0000" stop="20260515015133 +0000">
+		<title>Bernard - Bernard - The Unicycle</title>
+		<desc>To the amazement of Zack, Bernard discovers he has some performing skills which he never knew he had.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127468'&amp;EntityType='LinearSchedule'&amp;EntityId='4c581fa1-685f-4613-882e-c43bfc44230b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515015133 +0000" stop="20260515015500 +0000">
+		<title>Bernard - Bernard - The Motorboat</title>
+		<desc>Although Bernard has been shipwrecked, his real problems begin when he finds an abandoned motorboat which could get him back to shore.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127484'&amp;EntityType='LinearSchedule'&amp;EntityId='5b1f703e-3369-4553-90b3-4ef34220e47f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515015500 +0000" stop="20260515020000 +0000">
+		<title>Bernard - Bernard - The Prisoner</title>
+		<desc>Bernard makes a daring escape from prison, but once he's out, he realises that perhaps life inside wasn't so bad after all.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127428'&amp;EntityType='LinearSchedule'&amp;EntityId='8894aee7-9f55-4358-9c4f-c81d555f3a1b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515020000 +0000" stop="20260515023000 +0000">
+		<title>The Fixies</title>
+		<desc>The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There’s just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127408'&amp;EntityType='LinearSchedule'&amp;EntityId='8b93afdc-7350-47e1-8fed-7885769252e8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515023000 +0000" stop="20260515030000 +0000">
+		<title>Brain Candy TV</title>
+		<desc>Early learning for a brighter future! Your children will love to learn their ABCs, numbers, colors and even some math and science with the help of our action-packed vehicles including monster trucks, dump trucks, trains and more, plus our cute dog Lizzy.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127388'&amp;EntityType='LinearSchedule'&amp;EntityId='d4018d4a-d048-47c4-a3a7-d42e52a43147'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515030000 +0000" stop="20260515033000 +0000">
+		<title>Nutri Ventures </title>
+		<desc>Protecting Healthy Foods At All Costs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127392'&amp;EntityType='LinearSchedule'&amp;EntityId='1f50d156-14fb-4af6-a025-f408a1172b8c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515033000 +0000" stop="20260515040000 +0000">
+		<title>Chefclub Kids</title>
+		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127352'&amp;EntityType='LinearSchedule'&amp;EntityId='110bef3e-3e98-44f5-8ca3-3f61c06d4908'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515040000 +0000" stop="20260515043000 +0000">
+		<title>Timmy Time</title>
+		<desc>Being an ‘only lamb in the flock’ Timmy has been used to getting his own way. Now for the first time Timmy is going to have to learn to get along with other little animals. Timmy is going to Nursery! Self-willed and naughty Timmy is going to have to learn how to share things with other youngsters and think about their feelings – not just his. Timmy is a gifted little footballer who needs to learn that it’s not enough to kick the ball – you have to pass it too. Harriet Heron and Osbourne Owl, who run the Nursery are going to have their hands full, but Timmy gets it right in the end with a little help from his friends of the furry, feathery and spikey type.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127472'&amp;EntityType='LinearSchedule'&amp;EntityId='0eca97c4-f763-42c3-9c44-6128f126f56b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515043000 +0000" stop="20260515050000 +0000">
+		<title>Misha, the Purple Cat </title>
+		<desc>Misha is a very lively, alert cat. She is very interested in investigating everything going on around her, which means she has some very entertaining adventures with her friends. Many things can happen in Misha’s world; especially exciting adventures, mysterious investigations, hilarious competitions... all with a feeling of close friendship.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127488'&amp;EntityType='LinearSchedule'&amp;EntityId='6d344b20-6644-4d73-b9e2-5ffd92daf83d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515050000 +0000" stop="20260515060000 +0000">
+		<title>LOL Block </title>
+		<desc>A crazy collection of hilarious comedy series featuring shows like, Jelly Jam, Crazy Candies, Karim &amp; Noor, and Talking Tom.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127412'&amp;EntityType='LinearSchedule'&amp;EntityId='45cb3715-4e6e-4cfb-87a0-16a0f115e363'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515060000 +0000" stop="20260515070000 +0000">
+		<title>LOL Block </title>
+		<desc>A crazy collection of hilarious comedy series featuring shows like, Jelly Jam, Crazy Candies, Karim &amp; Noor, and Talking Tom.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127492'&amp;EntityType='LinearSchedule'&amp;EntityId='3be3f5e9-bfb3-4834-a9a3-b1c84accd5c7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515070000 +0000" stop="20260515073000 +0000">
+		<title>Baby Riki </title>
+		<desc>The show covers all aspects of a child’s life from physical well-being to cognitive and soft skills. The musical stories are based around age-appropriate experiences with educational concepts introduced in familiar surroundings and context for infants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127416'&amp;EntityType='LinearSchedule'&amp;EntityId='27b20932-46ce-4fa4-88fb-ec264a5d3b19'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515073000 +0000" stop="20260515080000 +0000">
+		<title>Talking Tom and Friends Minis</title>
+		<desc>Get ready to watch Talking Tom and Friends at their cutest! Mini in size, but massive in fun, the Minis check out the day-to-day world of the friends we all know and love where they do the most ordinary things in the most extraordinary ways.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127356'&amp;EntityType='LinearSchedule'&amp;EntityId='f39ac588-6c0c-44ec-8dba-ae9b8de51ba6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515080000 +0000" stop="20260515083000 +0000">
+		<title>Leo the Wildlife Ranger</title>
+		<desc>Leo the Wildlife Ranger introduces the secrets and wonders of nature and wildlife around us and kickstarts a curiosity and passion for nature in kids. With engaging missions and adventures, kids have fun while learning positive lessons!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127432'&amp;EntityType='LinearSchedule'&amp;EntityId='8995d1f2-879b-41df-ac2e-c1b43500b318'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515083000 +0000" stop="20260515090000 +0000">
+		<title>Counting With Paula</title>
+		<desc>The show features Paula and her friends, Tim, Billy, Chalky, Calc, and the Numbers as they go on exciting adventures in colorful and exotic places. From the Amazon jungles to the deepest oceans, and to the hottest deserts, Paula and friends solve problems, have fun and make more friends along the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127496'&amp;EntityType='LinearSchedule'&amp;EntityId='208e1356-1e14-4e71-bea5-d4509c990b0d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515090000 +0000" stop="20260515093000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127360'&amp;EntityType='LinearSchedule'&amp;EntityId='22401e44-794e-449f-8596-9ba504f7f5cf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515093000 +0000" stop="20260515100000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127364'&amp;EntityType='LinearSchedule'&amp;EntityId='e3fff67f-3b5e-4dc7-8fee-9c74239b40be'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515100000 +0000" stop="20260515110000 +0000">
+		<title>Bino &amp; Fino</title>
+		<desc>Bino &amp; Fino is about a brother and sister named Bino and Fino who live with their grandparents 'Mama' and 'Papa' in a modern day city in Africa. Bino and Fino have many adventures where, with the help of their friend Zeena the Magic Butterfly, they discover and learn things about the world.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127436'&amp;EntityType='LinearSchedule'&amp;EntityId='974c0034-b3c2-4e57-8f2e-b72ead01099b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515110000 +0000" stop="20260515113000 +0000">
+		<title>Horaci the Inuit</title>
+		<desc>Packed with adventure, fun and excitement, HORACI THE INUIT will transport you to the Lands of the North where, together with his best friend Sedna, he will have to solve all kinds of mysteries! Horaci the Inuit takes place in a remote village and talks about universal values such as caring for nature, being intuitive and open-minded and, above all, having a loving respect for family and friends!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127440'&amp;EntityType='LinearSchedule'&amp;EntityId='c70b7205-c432-487f-8005-d51e0b81adff'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515113000 +0000" stop="20260515120000 +0000">
+		<title>Leo the Wildlife Ranger</title>
+		<desc>Leo the Wildlife Ranger introduces the secrets and wonders of nature and wildlife around us and kickstarts a curiosity and passion for nature in kids. With engaging missions and adventures, kids have fun while learning positive lessons!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127456'&amp;EntityType='LinearSchedule'&amp;EntityId='6a81d554-030b-42cf-8949-7dbb38f10c5e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515120000 +0000" stop="20260515123000 +0000">
+		<title>Chefclub Kids</title>
+		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127396'&amp;EntityType='LinearSchedule'&amp;EntityId='703e7f5f-f7c3-4b37-acba-61878702cc5f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515123000 +0000" stop="20260515133000 +0000">
+		<title>Hogie the Globehopper</title>
+		<desc>Hogie the Globehopper is a fun tv show that will inspire a curiosity and fascination about the world and its people. Hogie and his friends Lorna, Bernie and Floaty travel the world, making lots of friends along the way.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127444'&amp;EntityType='LinearSchedule'&amp;EntityId='639bcc85-89a0-4ecc-952d-0715660903e7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515133000 +0000" stop="20260515133330 +0000">
+		<title>Bernard - Bernard - At The North Pole</title>
+		<desc>Bernard gets bored trekking across the frozen Arctic wastes. Some abandoned equipment becomes a source of great entertainment, but not for long.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127500'&amp;EntityType='LinearSchedule'&amp;EntityId='15fa0697-c744-4b30-b890-72588d262e87'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515133330 +0000" stop="20260515133659 +0000">
+		<title>Bernard - Bernard - The Package</title>
+		<desc>Zack tries to steal a parcel which Bernard is carrying. At first he succeeds, but Bernard doesn't give up that easily.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127448'&amp;EntityType='LinearSchedule'&amp;EntityId='8a0bd327-ad38-4542-bc76-eaca93f0d182'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515133659 +0000" stop="20260515134233 +0000">
+		<title>Bernard - Bernard - Sleepwalker</title>
+		<desc>Even when he's asleep, Bernard is capable of anything – as he finds out when he wakes up in the morning.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127368'&amp;EntityType='LinearSchedule'&amp;EntityId='4a390b9d-62e6-4707-ab14-2279233addd5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515134233 +0000" stop="20260515134607 +0000">
+		<title>Bernard - Bernard - The Pizza</title>
+		<desc>Bernard</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127476'&amp;EntityType='LinearSchedule'&amp;EntityId='cdfb2e88-e198-4bf2-9e43-20f9dc4cec5a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515134607 +0000" stop="20260515135133 +0000">
+		<title>Bernard - Bernard - The Unicycle</title>
+		<desc>To the amazement of Zack, Bernard discovers he has some performing skills which he never knew he had.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127372'&amp;EntityType='LinearSchedule'&amp;EntityId='3f618a52-ee1b-44cb-8ab7-a8aaa5724612'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515135133 +0000" stop="20260515135500 +0000">
+		<title>Bernard - Bernard - The Motorboat</title>
+		<desc>Although Bernard has been shipwrecked, his real problems begin when he finds an abandoned motorboat which could get him back to shore.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127376'&amp;EntityType='LinearSchedule'&amp;EntityId='3c69fd50-231f-4107-91d3-fc4ad4c059cd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515135500 +0000" stop="20260515140000 +0000">
+		<title>Bernard - Bernard - The Prisoner</title>
+		<desc>Bernard makes a daring escape from prison, but once he's out, he realises that perhaps life inside wasn't so bad after all.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127380'&amp;EntityType='LinearSchedule'&amp;EntityId='ae6dcd19-3db2-4005-870f-665e367ac2cb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515140000 +0000" stop="20260515143000 +0000">
+		<title>The Fixies</title>
+		<desc>The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There’s just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127384'&amp;EntityType='LinearSchedule'&amp;EntityId='757f3176-d537-4ada-9e9a-bf520100bbae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515143000 +0000" stop="20260515150000 +0000">
+		<title>Brain Candy TV</title>
+		<desc>Early learning for a brighter future! Your children will love to learn their ABCs, numbers, colors and even some math and science with the help of our action-packed vehicles including monster trucks, dump trucks, trains and more, plus our cute dog Lizzy.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127400'&amp;EntityType='LinearSchedule'&amp;EntityId='0334d568-7136-459a-8066-75122c595b07'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515150000 +0000" stop="20260515153000 +0000">
+		<title>Talking Tom and Friends Minis</title>
+		<desc>Get ready to watch Talking Tom and Friends at their cutest! Mini in size, but massive in fun, the Minis check out the day-to-day world of the friends we all know and love where they do the most ordinary things in the most extraordinary ways.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127404'&amp;EntityType='LinearSchedule'&amp;EntityId='038ad662-1e93-4b2a-bc1d-abceac38e9e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515153000 +0000" stop="20260515160000 +0000">
+		<title>Yeti Tales</title>
+		<desc>Join Us in Yeti Tales !</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14127452'&amp;EntityType='LinearSchedule'&amp;EntityId='de299ac5-8f6a-4fc6-81e5-344f8a7653cc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260515160000 +0000" stop="20260515163000 +0000">
+		<title>Timmy Time</title>
+		<desc>Being an ‘only lamb in the flock’ Timmy has been used to getting his own way. Now for the first time Timmy is going to have to learn to get along with other little animals. Timmy is going to Nursery! Self-willed and naughty Timmy is going to have to learn how to share things with other youngsters and think about their feelings – not just his. Timmy is a gifted little footballer who needs to learn that it’s not enough to kick the ball – you have to pass it too. Harriet Heron and Osbourne Owl, who run the Nursery are going to have their hands full, but Timmy gets it right in the end with a little help from his friends of the furry, feathery and spikey type.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14130641'&amp;EntityType='LinearSchedule'&amp;EntityId='889ff601-dea3-4f6e-946b-d453f68aa6c6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514165000 +0000" stop="20260514182500 +0000">
+		<title>Vera Dreams of the Sea</title>
+		<desc>Vera, a devoted wife, mother, and grandmother, has her serene life turned upside down by her husband's sudden suicide. As greedy relatives and an underworld scheme threaten their family’s home, she must confront danger and take control of her own fate.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119236'&amp;EntityType='LinearSchedule'&amp;EntityId='c1bfd18e-95b0-4d6b-88dd-fdf805e2cdc4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514182500 +0000" stop="20260514202500 +0000">
+		<title>Here And There</title>
+		<desc>Returning from the US, Pedro comes home to his family in Mexico. With the money he has made, he hopes to secure a better life with his family, mend his relationship with them, and hopes to achieve his lifelong dream of starting a band.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119240'&amp;EntityType='LinearSchedule'&amp;EntityId='6cae65ac-fbde-4b5d-8bcc-15e8d1125a58'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514202500 +0000" stop="20260514220000 +0000">
+		<title>The Deep</title>
+		<desc>March 1984, a few miles off the south coast of Iceland, a fishing boat sank with all its men. One of the crew members miraculously survived. After six hours in the ocean, the exhausted man is washed ashore, only to find himself on a deadly lava field.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119212'&amp;EntityType='LinearSchedule'&amp;EntityId='7bf6ab8b-b50a-4830-9a35-d6cf295c5e6c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514220000 +0000" stop="20260514234000 +0000">
+		<title>From The Vine</title>
+		<desc>A burnt-out executive experiences an ethical crisis and travels back to his hometown in rural Italy to recalibrate his moral compass.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119216'&amp;EntityType='LinearSchedule'&amp;EntityId='63fe29ac-1ebb-46be-80e8-cf63dfd70d6f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260514234000 +0000" stop="20260515011000 +0000">
+		<title>The Broken Glass Theory</title>
+		<desc>Insurance claims investigator Claudio finds himself in a never-ending nightmare in a small town. For what seemed like a simple job, Claudio's task now involves racing against the clock to discover the identity of the worst serial arsonist he has yet seen.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119192'&amp;EntityType='LinearSchedule'&amp;EntityId='3840001d-4bbc-41ac-9835-2b8a307cad03'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260515011000 +0000" stop="20260515025000 +0000">
+		<title>Murder in Mont St. Michel</title>
+		<desc>A seemingly mystical murder takes Captain Sophie back to Mont-Saint-Michel, her childhood home and where her father is buried. She meets an exorcist priest and is annoyed by his silence but she's far from suspecting that a weighty secret unites them.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119228'&amp;EntityType='LinearSchedule'&amp;EntityId='9caa190f-6feb-464f-8e22-75c0d1497900'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260515025000 +0000" stop="20260515042500 +0000">
+		<title>Almost Entirely A Slight Disaster</title>
+		<desc>In contemporary Istanbul, four youths in their twenties find themselves brought together by chance. Restless, disillusioned, and searching for direction, the four characters go face to face with the anxieties of their generation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119200'&amp;EntityType='LinearSchedule'&amp;EntityId='f9075f89-191f-4509-9237-4577b3acedbe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260515042500 +0000" stop="20260515062000 +0000">
+		<title>The Uninvited Guest</title>
+		<desc>In this suspense thriller, Felix, an architect, lets a stranger into his home to use his phone. When the man suddenly disappears inside the house, Felix finds himself in in a cat and mouse chase and his house becomes a maze.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119244'&amp;EntityType='LinearSchedule'&amp;EntityId='a39070d0-682f-48d8-82ab-da6ad3ad315e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260515062000 +0000" stop="20260515082500 +0000">
+		<title>Bad Investigate</title>
+		<desc>A corrupt cop sets out to hunt down a dangerous drug dealer who is seeking revenge for the death of his brother. Also trying to catch the same criminal is an FBI agent.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119208'&amp;EntityType='LinearSchedule'&amp;EntityId='edd7c9bb-34c2-44a9-bbb0-969793917c06'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260515082500 +0000" stop="20260515102000 +0000">
+		<title>A Yard of Jackals</title>
+		<desc>During the oppressive Chilean dictatorship, a lonely model maker takes refuge in the apparent peace of his neighborhood. However, his life is upended when mysterious neighbors arrive, unleashing a spiral of horror and violence that will leave deep scars. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119196'&amp;EntityType='LinearSchedule'&amp;EntityId='73ef8357-b420-4178-a2e7-a21700338bca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260515102000 +0000" stop="20260515121000 +0000">
+		<title>Otar's Death</title>
+		<desc>Keti and her son Nika find themselves in huge trouble when he hits an old man with his car. With the victim’s family threatening to press charges, Keti must find a way to raise a huge sum of money or Nika might go to prison.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119204'&amp;EntityType='LinearSchedule'&amp;EntityId='405061b3-bbb6-49e2-9938-39b4408e9da9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260515121000 +0000" stop="20260515140000 +0000">
+		<title>On The Fringe</title>
+		<desc>The countdown of three characters – lawyer-activist Rafa, cashier Azucena and grandmother Teodora - with three interwoven stories who try to stay afloat and survive 24 key hours that may forever change the course of their lives. </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119220'&amp;EntityType='LinearSchedule'&amp;EntityId='f9735135-9372-4109-b6f7-ae0e7438723b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260515140000 +0000" stop="20260515153500 +0000">
+		<title>East Frisian: Oath</title>
+		<desc>When retired detective Ubbo Heide receives a package containing a severed head, he recognizes it as belonging to the prime suspect of his daughter’s murder. Mystery surrounds the identity of the sender, whose name and address are both fictitious.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119224'&amp;EntityType='LinearSchedule'&amp;EntityId='66c899af-2b0c-45ea-a612-5c78dddf96a1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="382872" start="20260515153500 +0000" stop="20260515173000 +0000">
+		<title>Human Capital</title>
+		<desc>Lake Como, Italy. A cyclist is hit off the road by a jeep in the night before Christmas Eve. What happened that night? How will this accident change the destiny of the rich Bernaschi family and the Rovelli family on the edge of bankruptcy?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14119232'&amp;EntityType='LinearSchedule'&amp;EntityId='f147ff78-89ba-4915-8e6b-1566c9408410'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
