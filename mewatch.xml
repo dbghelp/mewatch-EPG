@@ -28,6 +28,10 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
+	<channel id="186574">
+		<display-name>Oktolidays</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9467885'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=945&amp;Height=250" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -91,10 +95,6 @@
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
-	</channel>
-	<channel id="558112">
-		<display-name>W-Sport</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358826'&amp;EntityType='Item'&amp;EntityId='558112'&amp;Width=409&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260528160000 +0000" stop="20260528163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 70</title>
@@ -1051,7 +1051,7 @@
 		<desc>Post-pandemic travel has returned with a vengeance, with tourist numbers breaking records in many territories. Yet, one country in Southeast Asia lags its neighbours - The Philippines. Why?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14352006'&amp;EntityType='LinearSchedule'&amp;EntityId='52d55e4a-7bed-484c-b867-a4bc77d143d7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97072" start="20260529160000 +0000" stop="20260529160300 +0000">
+	<programme channel="97072" start="20260529160000 +0000" stop="20260529220000 +0000">
 		<title>Headline News</title>
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14370236'&amp;EntityType='LinearSchedule'&amp;EntityId='07f661eb-e167-46c6-b071-9cd3199c4e99'&amp;Width=1280&amp;Height=720" />
@@ -1065,6 +1065,71 @@
 		<title>No programmes streaming LIVE at this moment</title>
 		<desc>There are currently no programmes on this channel.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14370413'&amp;EntityType='LinearSchedule'&amp;EntityId='8d9d2836-261c-49c5-97aa-411fe17e82ad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260528160000 +0000" stop="20260529040000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352442'&amp;EntityType='LinearSchedule'&amp;EntityId='67b96470-3dd3-4d53-8efa-4edbbf045a15'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529040000 +0000" stop="20260529050020 +0000">
+		<title>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Yu-Gi-Oh! Go Rush!!/iYO </title>
+		<desc>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Yu-Gi-Oh! Go Rush!!/iYO </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352466'&amp;EntityType='LinearSchedule'&amp;EntityId='302c5de4-f192-4e5f-9d28-bcdf045aeb89'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529050020 +0000" stop="20260529060017 +0000">
+		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/LEGO Ninjago Dragons Rising/Word Whiz Extensions/Piripenguins</title>
+		<desc>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/LEGO Ninjago Dragons Rising/Word Whiz Extensions/Piripenguins</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352470'&amp;EntityType='LinearSchedule'&amp;EntityId='2872d1a7-6573-4ae7-a3b6-226850f3933c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529060017 +0000" stop="20260529065949 +0000">
+		<title>Skuad Cilik/Snow and the Book of Treasure/Pokemon Horizons: Season 3 – Rising Hope/Paula &amp; Pals: Boot Up!</title>
+		<desc>Skuad Cilik/Snow and the Book of Treasure/Pokemon Horizons: Season 3 – Rising Hope/Paula &amp; Pals: Boot Up!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352490'&amp;EntityType='LinearSchedule'&amp;EntityId='00745d06-7267-4101-b8a9-fc96a435396b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529065949 +0000" stop="20260529080044 +0000">
+		<title>X, Y &amp; Zeek/Our Story House/Open Season: Call of Nature/LEGO City No Limits Max/Piggy Builders</title>
+		<desc>X, Y &amp; Zeek/Our Story House/Open Season: Call of Nature/LEGO City No Limits Max/Piggy Builders</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352458'&amp;EntityType='LinearSchedule'&amp;EntityId='915df2a3-3da5-425d-9b85-dd3e5c89b959'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529080044 +0000" stop="20260529085950 +0000">
+		<title>Kelab JMJ/One Page At A Time Oru Oorilae/Jade Armor/Builder Brothers Dream Factory</title>
+		<desc>Kelab JMJ/One Page At A Time Oru Oorilae/Jade Armor/Builder Brothers Dream Factory</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352474'&amp;EntityType='LinearSchedule'&amp;EntityId='766daf62-29f4-4bd4-907f-d4f5de7898a3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529085950 +0000" stop="20260529095954 +0000">
+		<title>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Alfie's "World of Wow!"/LEGO Friends: The Next Chapter/Piripenguins</title>
+		<desc>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Alfie's "World of Wow!"/LEGO Friends: The Next Chapter/Piripenguins</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352446'&amp;EntityType='LinearSchedule'&amp;EntityId='6f1ef1e7-a282-491c-b150-c0afe6c4a50a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529095954 +0000" stop="20260529105958 +0000">
+		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Emerald/Piggy Builders/Giganto Babies</title>
+		<desc>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Emerald/Piggy Builders/Giganto Babies</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352450'&amp;EntityType='LinearSchedule'&amp;EntityId='6c29f886-939e-46bc-9cfd-9074534b73ac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529105958 +0000" stop="20260529120000 +0000">
+		<title>Skuad Cilik/Snow and the Book of Treasure/LEGO DreamZzz/Ok-to-Try</title>
+		<desc>Skuad Cilik/Snow and the Book of Treasure/LEGO DreamZzz/Ok-to-Try</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352454'&amp;EntityType='LinearSchedule'&amp;EntityId='90a4a863-f824-46e9-9a84-832bea7fd03c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529120000 +0000" stop="20260529130038 +0000">
+		<title>Pokemon Horizons: Season 3 – Rising Hope/Our Story House/Sesame Street/Dr. Panda </title>
+		<desc>Pokemon Horizons: Season 3 – Rising Hope/Our Story House/Sesame Street/Dr. Panda </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352486'&amp;EntityType='LinearSchedule'&amp;EntityId='305c4148-3bf3-4389-9b55-241c5264e9f7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529130038 +0000" stop="20260529140013 +0000">
+		<title>Kelab JMJ/One Page At A Time Oru Oorilae/Yu-Gi-Oh! Go Rush!!/Builder Brothers Dream Factory</title>
+		<desc>Kelab JMJ/One Page At A Time Oru Oorilae/Yu-Gi-Oh! Go Rush!!/Builder Brothers Dream Factory</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352462'&amp;EntityType='LinearSchedule'&amp;EntityId='8ced5f57-7733-4a72-b0c5-25118babe523'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529140013 +0000" stop="20260529150019 +0000">
+		<title>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/LEGO Ninjago Dragons Rising/What on Earth</title>
+		<desc>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/LEGO Ninjago Dragons Rising/What on Earth</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352478'&amp;EntityType='LinearSchedule'&amp;EntityId='a5d0fbb4-9134-49a6-b02d-1e6b7faea141'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529150019 +0000" stop="20260529160001 +0000">
+		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Shasha and Milo/Piripenguins/The Adventures of Titou and Dao</title>
+		<desc>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Shasha and Milo/Piripenguins/The Adventures of Titou and Dao</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14352482'&amp;EntityType='LinearSchedule'&amp;EntityId='d7fd851c-fcec-4da8-808d-adb139ae04a1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260528160000 +0000" stop="20260529110000 +0000">
 		<title>No programme available now. Next broadcast on 29th May, Friday 7pm. The Wonder Shop Home Shopping</title>
@@ -2711,96 +2776,6 @@
 		<desc>Watch the full match replay between USA and Japan played at BC Place Stadium</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14402460'&amp;EntityType='LinearSchedule'&amp;EntityId='2ac3b55d-d811-4824-a014-420beeee842c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558112" start="20260528151000 +0000" stop="20260528171000 +0000">
-		<title>Damallsvenskan '26: BK Hacken v Norrkoping</title>
-		<desc>The Damallsvenskan, Sweden's top-tier women's football league, will be contested by 14 teams from late March to mid-November 2026. Watch BK Hacken v Norrkoping.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14334476'&amp;EntityType='LinearSchedule'&amp;EntityId='8eea72d2-dece-421e-94b5-9b135b1b61f1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260528171000 +0000" stop="20260528191000 +0000">
-		<title>Frauen Bundesliga '25/26: Eintracht v Union Berlin</title>
-		<desc>The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Eintracht Frankfurt v Union Berlin.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360538'&amp;EntityType='LinearSchedule'&amp;EntityId='feef5a08-f7d2-43bd-8c48-61d23f8f893a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260528191000 +0000" stop="20260528210000 +0000">
-		<title>Spartan Race '25: Spartan Race: Hvar.100m and Sprint</title>
-		<desc>The Croatian island of Hvar was again a core focus for the obstacle course racing (OCR) world, as it hosted the Spartan World Championship weekend from October 9-12, 2025.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360514'&amp;EntityType='LinearSchedule'&amp;EntityId='d583fe32-20fc-4191-81da-22be32b87c96'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260528210000 +0000" stop="20260528220000 +0000">
-		<title>MP Series '25: UK Challenge '25 H/L</title>
-		<desc>Teamwork meets adventure in this ultimate UK race. Speed, strength, and smarts are all tested across land, water, and mind.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360488'&amp;EntityType='LinearSchedule'&amp;EntityId='ec486047-1951-43a2-a9a4-e8aa5e0127be'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260528220000 +0000" stop="20260529000000 +0000">
-		<title>Serie A Women 25/26: Genoa v Parma</title>
-		<desc>Serie A Women is the highest league of women's football in Italy. Watch Genoa v Parma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360521'&amp;EntityType='LinearSchedule'&amp;EntityId='32880fd1-c98f-4299-a1d0-f383fc13b677'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529000000 +0000" stop="20260529013000 +0000">
-		<title>Malaysia Regional Cup '26: Sneakers v Marvels</title>
-		<desc>The NSL Regional Cup 2026 is a new elite event: 3 NSL teams and 1 guest face off in a round-robin. The top two then battle for the trophy in a high-stakes championship final.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360526'&amp;EntityType='LinearSchedule'&amp;EntityId='013adf27-d901-40a5-8014-7bdc9c0325c5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529013000 +0000" stop="20260529020000 +0000">
-		<title>Heroines (S2): Heroines (S2E04)</title>
-		<desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360463'&amp;EntityType='LinearSchedule'&amp;EntityId='de65d8d6-f66e-4381-8a92-edb78f8cb74b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529020000 +0000" stop="20260529040000 +0000">
-		<title>Frauen Bundesliga '25/26: Hamburg v Bayer Leverkusen</title>
-		<desc>The Frauen-Bundesliga is the top level of league competition for women's association football in Germany. Watch Hamburg v Bayer Leverkusen.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360472'&amp;EntityType='LinearSchedule'&amp;EntityId='4353a938-7547-407e-8dc4-ddc495e448c4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529040000 +0000" stop="20260529060000 +0000">
-		<title>Serie A Women 25/26: Parma v Milan</title>
-		<desc>Serie A Women is the highest league of women's football in Italy. Watch Parma v Milan.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360480'&amp;EntityType='LinearSchedule'&amp;EntityId='532b24e7-f9a9-47b9-ab4b-a32670c8599e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529060000 +0000" stop="20260529085500 +0000">
-		<title>Barcelona Marathon '26</title>
-		<desc>Known for its flat, fast, scenic urban course, this event is built for personal bests and expects a record 32,000 athletes - the largest field in its history.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360497'&amp;EntityType='LinearSchedule'&amp;EntityId='f80abbb6-d8c0-495e-99c8-8f5cc4453895'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529085500 +0000" stop="20260529092500 +0000">
-		<title>Sports Woman '24</title>
-		<desc>A series of programs highlighting the achievements and challenges facing Women in sport and highlighting the journeys endured on the path to success!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360550'&amp;EntityType='LinearSchedule'&amp;EntityId='b3a9ee52-6da4-4524-8489-d4c7e5c796f4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529092500 +0000" stop="20260529103000 +0000">
-		<title>Tour Down Under '26: Tour Down Under '26 H/L show</title>
-		<desc>An annual Cycling event in Australia that features the elite teams from around the world. Three days of action to see who gets their campaign off to the perfect start.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360542'&amp;EntityType='LinearSchedule'&amp;EntityId='b48aed98-4a0f-4501-95b6-73f0aa3b4cf4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529103000 +0000" stop="20260529110000 +0000">
-		<title>Heroines (S1): Heroines (S1E13)</title>
-		<desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360503'&amp;EntityType='LinearSchedule'&amp;EntityId='2fc67349-abff-4d2c-be54-2e5cc96fa15b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529110000 +0000" stop="20260529120000 +0000">
-		<title>Derby de Bretagne 25' H/L</title>
-		<desc>Elite riders and horses face off in Brittany's prestigious equestrian showdown - the thrilling Derby de Bretagne!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360530'&amp;EntityType='LinearSchedule'&amp;EntityId='da40aa68-60fa-4756-b93f-ba117ab3658e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529120000 +0000" stop="20260529123000 +0000">
-		<title>Women's Football Weekly '25/26</title>
-		<desc>Women's Football Weekly.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360554'&amp;EntityType='LinearSchedule'&amp;EntityId='b39a274c-fe36-420c-8025-155ac1c9fab2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529123000 +0000" stop="20260529143000 +0000">
-		<title>Damallsvenskan '26: AIK v BK Hacken</title>
-		<desc>The Damallsvenskan, Sweden's top-tier women's football league, will be contested by 14 teams from late March to mid-November 2026. Watch AIK v BK Hacken.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360510'&amp;EntityType='LinearSchedule'&amp;EntityId='307563aa-12e3-419f-ad06-3e0f5ab8586d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529143000 +0000" stop="20260529150000 +0000">
-		<title>Jump Saudi '25 H/L: CSI4 Grand Prix H/L</title>
-		<desc>Jump Saudi 2025 is recognized as one of the major equestrian show jumping events in the world.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360546'&amp;EntityType='LinearSchedule'&amp;EntityId='79d4423e-9a20-44d0-a5c7-c9b51e85f079'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529150000 +0000" stop="20260529165500 +0000">
-		<title>Malaysian NSL '26: FINAL</title>
-		<desc>The Netball Super League (NSL) is Malaysia's top netball competition with eight teams competing throughout the season.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14360534'&amp;EntityType='LinearSchedule'&amp;EntityId='d9a43efe-b0ad-4da0-9918-0edce6a41ef0'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260529170000 +0000" stop="20260529173000 +0000">
 		<title>Planet Action S4 - EP 13</title>
 		<desc>Planet Action takes you behind the scenes of the best action movies released. Each episode you'll get all the secrets straight from your favorite action heroes, get exclusive trivia and special reports from the most dangerous film sets, and get insight information on how the filmmakers make giant monsters come to life. This show is a sci-fi, cowboy, world-destruction, action-combo that will literally blow your mind!</desc>
@@ -3536,36 +3511,6 @@
 		<desc>A small-town man pursues a bright MBA student, but her fierce mother stands in their way. As love deepens, he must prove himself worthy while facing increasingly difficult family obstacles.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14370008'&amp;EntityType='LinearSchedule'&amp;EntityId='d4f75bb2-45d1-4779-bc9e-a1599faddb7a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97072" start="20260529160300 +0000" stop="20260529170000 +0000">
-		<title>East Asia Tonight</title>
-		<desc>Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14370244'&amp;EntityType='LinearSchedule'&amp;EntityId='98f33284-4687-4c27-893a-28c89295f390'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97072" start="20260529170000 +0000" stop="20260529180000 +0000">
-		<title>Through Time - EP 2</title>
-		<desc>Heritage guides Stanley and Amanda are set on recreating Singapore’s Three Worlds: New World, Great World and Gay World - not with brick, but with pixels.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14370044'&amp;EntityType='LinearSchedule'&amp;EntityId='c74955c5-f5b1-4efb-b322-39148277ec98'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97072" start="20260529180000 +0000" stop="20260529190000 +0000">
-		<title>Singapore Tonight</title>
-		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14370061'&amp;EntityType='LinearSchedule'&amp;EntityId='6a62515b-b411-4edd-994f-d947afaa466e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97072" start="20260529190000 +0000" stop="20260529200000 +0000">
-		<title>Through Time - EP 1</title>
-		<desc>In search of her grandfather’s secret life as a Force 136 operative, Xin En turns to LiDAR technology to uncover what history has hidden. Each discovery reveals espionage, sacrifice and blurred morality.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14370376'&amp;EntityType='LinearSchedule'&amp;EntityId='f582f677-5f55-4538-9469-40c904aa973b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97072" start="20260529200000 +0000" stop="20260529211500 +0000">
-		<title>Asia Tonight</title>
-		<desc>News and views from around the region, delivered with uniquely Asian perspectives.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14370385'&amp;EntityType='LinearSchedule'&amp;EntityId='ed69ea90-7b66-4482-aa64-cf5eb9c9ea99'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97072" start="20260529211500 +0000" stop="20260529220000 +0000">
-		<title>Lunch With Us - EP 4</title>
-		<desc>In Taipei, we take a scooter tour of Banqiao’s traditional Taiwanese fare, join a pair of writers at a retro restaurant for bento Taiwan-style, and hop on a karaoke taxi to visit a Driver’s Club.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14479748'&amp;EntityType='LinearSchedule'&amp;EntityId='2e798c37-ac5c-48fe-84f5-fec76a7f2b63'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97072" start="20260529220000 +0000" stop="20260529230000 +0000">
 		<title>Singapore Tonight</title>
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
@@ -3725,6 +3670,126 @@
 		<title>No programmes streaming LIVE at this moment</title>
 		<desc>There are currently no programmes on this channel.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14389112'&amp;EntityType='LinearSchedule'&amp;EntityId='f401aa7f-e3c2-4229-b24a-b1085c4b281e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529160001 +0000" stop="20260529170016 +0000">
+		<title>Skuad Cilik/That's Cool/Pokemon Horizons: Season 3 – Rising Hope/Piggy Builders</title>
+		<desc>Skuad Cilik/That's Cool/Pokemon Horizons: Season 3 – Rising Hope/Piggy Builders</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371032'&amp;EntityType='LinearSchedule'&amp;EntityId='8c1c1b08-1605-471d-889f-5807257995de'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529170016 +0000" stop="20260529180041 +0000">
+		<title>X, Y &amp; Zeek/Our Story House/Jade Armor/Builder Brothers Dream Factory</title>
+		<desc>X, Y &amp; Zeek/Our Story House/Jade Armor/Builder Brothers Dream Factory</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371136'&amp;EntityType='LinearSchedule'&amp;EntityId='a4b3fa2f-6175-46af-8ca4-fffdb93edac8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529180041 +0000" stop="20260529190020 +0000">
+		<title>Kelab JMJ/One Page At A Time Oru Oorilae/LEGO Friends: The Next Chapter/Piripenguins/Fables From Oot's World</title>
+		<desc>Kelab JMJ/One Page At A Time Oru Oorilae/LEGO Friends: The Next Chapter/Piripenguins/Fables From Oot's World</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371044'&amp;EntityType='LinearSchedule'&amp;EntityId='a2b9ac22-81c1-4bd0-b11c-f0dfc004f932'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529190020 +0000" stop="20260529200025 +0000">
+		<title>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Ollie And Friends Shorts/Emerald/Piggy Builders/Pocoyo</title>
+		<desc>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Ollie And Friends Shorts/Emerald/Piggy Builders/Pocoyo</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371182'&amp;EntityType='LinearSchedule'&amp;EntityId='9e309730-3f06-49ed-8e48-e5138799d795'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529200025 +0000" stop="20260529210040 +0000">
+		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/The Misadventures of Cube Melt/LEGO DreamZzz/Builder Brothers Dream Factory</title>
+		<desc>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/The Misadventures of Cube Melt/LEGO DreamZzz/Builder Brothers Dream Factory</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371190'&amp;EntityType='LinearSchedule'&amp;EntityId='c2e04bf2-7787-47ca-b7c5-87245125c9b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529210040 +0000" stop="20260529215946 +0000">
+		<title>Skuad Cilik/Snow and the Book of Treasure/Sesame Street/Word Whiz Extensions</title>
+		<desc>Skuad Cilik/Snow and the Book of Treasure/Sesame Street/Word Whiz Extensions</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371068'&amp;EntityType='LinearSchedule'&amp;EntityId='848ba641-cfcc-41ea-8204-3bbc2abc8948'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529215946 +0000" stop="20260529230020 +0000">
+		<title>X, Y &amp; Zeek/Our Story House/Pokemon Horizons: Season 3 – Rising Hope/Pocoyo/Lil Wild Shorts</title>
+		<desc>X, Y &amp; Zeek/Our Story House/Pokemon Horizons: Season 3 – Rising Hope/Pocoyo/Lil Wild Shorts</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371080'&amp;EntityType='LinearSchedule'&amp;EntityId='8f2c934a-64b8-4527-8e37-816f93abc7b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260529230020 +0000" stop="20260530000013 +0000">
+		<title>Kelab JMJ/One Page At A Time Oru Oorilae/Pocoyo/LEGO Ninjago Dragons Rising/Word Whiz Extensions</title>
+		<desc>Kelab JMJ/One Page At A Time Oru Oorilae/Pocoyo/LEGO Ninjago Dragons Rising/Word Whiz Extensions</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371144'&amp;EntityType='LinearSchedule'&amp;EntityId='66262126-53ca-461a-b09f-6fece1166908'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530000013 +0000" stop="20260530005950 +0000">
+		<title>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Shasha and Milo/Alfie's "World of Wow!"</title>
+		<desc>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Shasha and Milo/Alfie's "World of Wow!"</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371091'&amp;EntityType='LinearSchedule'&amp;EntityId='3d38b1f9-acbc-4ce8-b5af-fb91b0bebcac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530005950 +0000" stop="20260530020014 +0000">
+		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Pokemon Horizons: Season 3 – Rising Hope/That's Cool/Builder Brothers Dream Factory</title>
+		<desc>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Pokemon Horizons: Season 3 – Rising Hope/That's Cool/Builder Brothers Dream Factory</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371198'&amp;EntityType='LinearSchedule'&amp;EntityId='460fa47f-706f-4aef-918e-a7b3f8ba303e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530020014 +0000" stop="20260530030001 +0000">
+		<title>Skuad Cilik/Cartoon Buddies/Jade Armor/Leo the Wildlife Ranger</title>
+		<desc>Skuad Cilik/Cartoon Buddies/Jade Armor/Leo the Wildlife Ranger</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371100'&amp;EntityType='LinearSchedule'&amp;EntityId='cb2429ed-c0a5-4f5e-a13e-6beebd7298d5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530030001 +0000" stop="20260530040000 +0000">
+		<title>X, Y &amp; Zeek/Our Story House/LEGO Friends: The Next Chapter/Paula &amp; Pals/Piripenguins</title>
+		<desc>X, Y &amp; Zeek/Our Story House/LEGO Friends: The Next Chapter/Paula &amp; Pals/Piripenguins</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371204'&amp;EntityType='LinearSchedule'&amp;EntityId='68f4de59-afbd-4fc1-bd32-df2f20ad852d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530040000 +0000" stop="20260530050020 +0000">
+		<title>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Yu-Gi-Oh! Go Rush!!/iYO </title>
+		<desc>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Yu-Gi-Oh! Go Rush!!/iYO </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371208'&amp;EntityType='LinearSchedule'&amp;EntityId='045f5550-032d-4ae8-97f0-d6886a4dd34c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530050020 +0000" stop="20260530060017 +0000">
+		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/LEGO Ninjago Dragons Rising/Word Whiz Extensions/Piripenguins</title>
+		<desc>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/LEGO Ninjago Dragons Rising/Word Whiz Extensions/Piripenguins</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371112'&amp;EntityType='LinearSchedule'&amp;EntityId='31c49eaf-6cea-415b-9e1c-0230e37a2454'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530060017 +0000" stop="20260530065949 +0000">
+		<title>Skuad Cilik/Snow and the Book of Treasure/Pokemon Horizons: Season 3 – Rising Hope/Paula &amp; Pals: Boot Up!</title>
+		<desc>Skuad Cilik/Snow and the Book of Treasure/Pokemon Horizons: Season 3 – Rising Hope/Paula &amp; Pals: Boot Up!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371118'&amp;EntityType='LinearSchedule'&amp;EntityId='bd37aebb-f300-42c1-b5e2-b833eb060aa4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530065949 +0000" stop="20260530080044 +0000">
+		<title>X, Y &amp; Zeek/Our Story House/Open Season: Call of Nature/LEGO City No Limits Max/Piggy Builders</title>
+		<desc>X, Y &amp; Zeek/Our Story House/Open Season: Call of Nature/LEGO City No Limits Max/Piggy Builders</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371051'&amp;EntityType='LinearSchedule'&amp;EntityId='7e4488a9-7801-458e-a32b-c433b855bf27'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530080044 +0000" stop="20260530085950 +0000">
+		<title>Kelab JMJ/One Page At A Time Oru Oorilae/Jade Armor/Builder Brothers Dream Factory</title>
+		<desc>Kelab JMJ/One Page At A Time Oru Oorilae/Jade Armor/Builder Brothers Dream Factory</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371148'&amp;EntityType='LinearSchedule'&amp;EntityId='c70a9de8-fa8c-4e11-a6ae-6670a0ef76a5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530085950 +0000" stop="20260530095954 +0000">
+		<title>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Alfie's "World of Wow!"/LEGO Friends: The Next Chapter/Piripenguins</title>
+		<desc>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/Alfie's "World of Wow!"/LEGO Friends: The Next Chapter/Piripenguins</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371157'&amp;EntityType='LinearSchedule'&amp;EntityId='f6bc146f-1797-4dd3-b76b-8ecbfa7b93cd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530095954 +0000" stop="20260530105958 +0000">
+		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Emerald/Piggy Builders/Giganto Babies</title>
+		<desc>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Emerald/Piggy Builders/Giganto Babies</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371212'&amp;EntityType='LinearSchedule'&amp;EntityId='7f8eef1f-6a03-47dd-a29b-c7965c728496'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530105958 +0000" stop="20260530120000 +0000">
+		<title>Skuad Cilik/Snow and the Book of Treasure/LEGO DreamZzz/Ok-to-Try</title>
+		<desc>Skuad Cilik/Snow and the Book of Treasure/LEGO DreamZzz/Ok-to-Try</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371216'&amp;EntityType='LinearSchedule'&amp;EntityId='63562642-3468-4302-bef2-63437d77e0a5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530120000 +0000" stop="20260530130038 +0000">
+		<title>Pokemon Horizons: Season 3 – Rising Hope/Our Story House/Sesame Street/Dr. Panda </title>
+		<desc>Pokemon Horizons: Season 3 – Rising Hope/Our Story House/Sesame Street/Dr. Panda </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371125'&amp;EntityType='LinearSchedule'&amp;EntityId='b3a53f24-24ab-4b4a-98ca-a30642c878ba'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530130038 +0000" stop="20260530140013 +0000">
+		<title>Kelab JMJ/One Page At A Time Oru Oorilae/Yu-Gi-Oh! Go Rush!!/Builder Brothers Dream Factory</title>
+		<desc>Kelab JMJ/One Page At A Time Oru Oorilae/Yu-Gi-Oh! Go Rush!!/Builder Brothers Dream Factory</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371060'&amp;EntityType='LinearSchedule'&amp;EntityId='527dfe30-7552-4062-ad3e-8d4303d8ce61'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530140013 +0000" stop="20260530150019 +0000">
+		<title>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/LEGO Ninjago Dragons Rising/What on Earth</title>
+		<desc>This is Science - Biogirl MJ/One Page At A Time 伟人不见了!/LEGO Ninjago Dragons Rising/What on Earth</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371164'&amp;EntityType='LinearSchedule'&amp;EntityId='1b3fec33-5606-44d5-a5b7-1f931aa4dc76'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="186574" start="20260530150019 +0000" stop="20260530160001 +0000">
+		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Shasha and Milo/Piripenguins/The Adventures of Titou and Dao</title>
+		<desc>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Shasha and Milo/Piripenguins/The Adventures of Titou and Dao</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371172'&amp;EntityType='LinearSchedule'&amp;EntityId='76a34305-5f68-45d2-8f85-9ffd42910b49'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260530110000 +0000" stop="20260530111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - SINGCHOICE Bone Health Formula &amp; Eyes Nourisher</title>
@@ -5250,90 +5315,5 @@
 		<title>The Queens | Queen of WE</title>
 		<desc>We follow INAC Kobe's action packed and emotionally charged journey through the highs and lows</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14415276'&amp;EntityType='LinearSchedule'&amp;EntityId='af7dae25-16f3-4930-8d90-5989d8f38318'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529165500 +0000" stop="20260529175500 +0000">
-		<title>MP '26: Le Marathon des Sables, MP '26</title>
-		<desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371940'&amp;EntityType='LinearSchedule'&amp;EntityId='a212f4be-d629-48b6-8abc-4a2c1422c5d9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529175500 +0000" stop="20260529195500 +0000">
-		<title>USL '25/26: Lexington SC v Dallas Trinity</title>
-		<desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch S/F1 Lexington SC v Dallas Trinity.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371944'&amp;EntityType='LinearSchedule'&amp;EntityId='31810d18-1e34-4d90-be1e-0748dbe5d465'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529195500 +0000" stop="20260529215500 +0000">
-		<title>Barclays WSL '25/26: Manchester City v Liverpool</title>
-		<desc>The Barclays WSL is the top flight of Women's Football in England and is one of the best women's football leagues across the world. Watch Manchester City v Liverpool.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371932'&amp;EntityType='LinearSchedule'&amp;EntityId='d0d15030-6c7b-4032-a9f7-2b40264f8799'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260529215500 +0000" stop="20260530000000 +0000">
-		<title>Barclays WSL '25/26: Manchester City v Arsenal</title>
-		<desc>The Barclays WSL is the top flight of Women's Football in England and is one of the best women's football leagues across the world. Watch Manchester City v Arsenal.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371948'&amp;EntityType='LinearSchedule'&amp;EntityId='3e7b4003-f5dc-4df4-8c58-234343839429'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530000000 +0000" stop="20260530013000 +0000">
-		<title>Malaysia Regional Cup '26: Wildcats v Johor</title>
-		<desc>The NSL Regional Cup 2026 is a new elite event: 3 NSL teams and 1 guest face off in a round-robin. The top two then battle for the trophy in a high-stakes championship final.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371964'&amp;EntityType='LinearSchedule'&amp;EntityId='910afc7e-548d-4679-9fdf-4e60e3eb65ba'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530013000 +0000" stop="20260530020000 +0000">
-		<title>Heroines (S2): Heroines (S2E05)</title>
-		<desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371952'&amp;EntityType='LinearSchedule'&amp;EntityId='75d08b27-ad9a-4324-bfa3-f7424c6ce520'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530020000 +0000" stop="20260530040000 +0000">
-		<title>Serie A Women 25/26: Como v Milan</title>
-		<desc>Serie A Women is the highest league of women's football in Italy. Watch Como v Milan.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371970'&amp;EntityType='LinearSchedule'&amp;EntityId='49f1f639-9a03-45e8-b759-5e1c510775a7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530040000 +0000" stop="20260530043000 +0000">
-		<title>Sports Woman '24</title>
-		<desc>A series of programs highlighting the achievements and challenges facing Women in sport and highlighting the journeys endured on the path to success!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371936'&amp;EntityType='LinearSchedule'&amp;EntityId='f1843102-dd41-4e40-8030-f04de283ab81'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530043000 +0000" stop="20260530063000 +0000">
-		<title>Barclays WSL '25/26: West Ham v Arsenal</title>
-		<desc>The Barclays WSL is the top flight of Women's Football in England and is one of the best women's football leagues across the world. Watch West Ham v Arsenal.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371993'&amp;EntityType='LinearSchedule'&amp;EntityId='7a26560a-c947-4001-9e23-f60cf1a20529'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530063000 +0000" stop="20260530073000 +0000">
-		<title>Snow League '25/26: LAAX, Switzerland, Snowboard H/L</title>
-		<desc>LAAX, Switzerland, provides an iconic stage for the final event of inaugural season. Snow League World Champions will be crowned in both snowboarding and freeskiing.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14372002'&amp;EntityType='LinearSchedule'&amp;EntityId='54480e35-229a-44fc-b1d8-fd40ef52d4eb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530073000 +0000" stop="20260530090000 +0000">
-		<title>Malaysian NSL '26: FINAL</title>
-		<desc>The Netball Super League (NSL) is Malaysia's top netball competition with eight teams competing throughout the season.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14372013'&amp;EntityType='LinearSchedule'&amp;EntityId='4967de74-3441-47a8-8003-facd236d4989'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530090000 +0000" stop="20260530100000 +0000">
-		<title>Grand Prix de Dinard 25' H/L</title>
-		<desc>World-class equestrians compete in Dinard's iconic Grand Prix, blending speed, precision, and elegance by the sea.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14372026'&amp;EntityType='LinearSchedule'&amp;EntityId='bf203958-24c3-416c-a900-4399710497eb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530100000 +0000" stop="20260530115500 +0000">
-		<title>Barclays WSL '25/26: Tottenham v Manchester City</title>
-		<desc>The Barclays WSL is the top flight of Women's Football in England and is one of the best women's football leagues across the world. Watch Tottenham v Manchester City.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371956'&amp;EntityType='LinearSchedule'&amp;EntityId='06a5c877-bf2d-4bbe-802a-66fffa778d09'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530115500 +0000" stop="20260530140000 +0000">
-		<title>LIVE Damallsvenskan '26: Djurgarden v Eskilstuna United</title>
-		<desc>The Damallsvenskan, Sweden's top-tier women's football league, will be contested by 14 teams from late March to mid-November 2026. Watch Djurgarden v Eskilstuna United.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371960'&amp;EntityType='LinearSchedule'&amp;EntityId='02cd8630-3c02-4338-a5a5-9eb04d775c57'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530140000 +0000" stop="20260530143000 +0000">
-		<title>Titan Desert Morocco '25</title>
-		<desc>The event has paid tribute to its origins by bringing back classic sections of dunes, navigation, marathon stages, and camp life, while also including new features and previous</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371980'&amp;EntityType='LinearSchedule'&amp;EntityId='089eccf3-9610-4977-a53a-9b0f13d0f65b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530143000 +0000" stop="20260530150000 +0000">
-		<title>BWSL Unlocked '26: The Champions Special</title>
-		<desc>In this special edition of Unlocked, we go behind the scenes with the newly crowned Barclays WSL champions, Manchester City.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371984'&amp;EntityType='LinearSchedule'&amp;EntityId='67993ee8-f5cb-4e05-8ead-f3644d35e5dd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260530150000 +0000" stop="20260530163000 +0000">
-		<title>LIVE Netball Super League '26: Thunder v Lightning</title>
-		<desc>The Netball Super League features the 8 Top Netball franchises from across the United Kingdom. Watch Thunder v Lightning.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14371976'&amp;EntityType='LinearSchedule'&amp;EntityId='10128ddd-f93f-4398-a441-f31f8ac0e93b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
