@@ -32,21 +32,9 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="97078">
-		<display-name>LIVE 2</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
-	</channel>
 	<channel id="98202">
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
-	<channel id="204746">
-		<display-name>LIVE 6</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
-	</channel>
-	<channel id="497989">
-		<display-name>LIVE 7</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
 	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
@@ -95,6 +83,18 @@
 	<channel id="558112">
 		<display-name>W-Sport</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358826'&amp;EntityType='Item'&amp;EntityId='558112'&amp;Width=409&amp;Height=250" />
+	</channel>
+	<channel id="556888">
+		<display-name>TRACE Sport Stars</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358846'&amp;EntityType='Item'&amp;EntityId='556888'&amp;Width=350&amp;Height=250" />
+	</channel>
+	<channel id="556893">
+		<display-name>Kartoon Channel!</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358834'&amp;EntityType='Item'&amp;EntityId='556893'&amp;Width=350&amp;Height=250" />
+	</channel>
+	<channel id="556877">
+		<display-name>TG Junior</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358838'&amp;EntityType='Item'&amp;EntityId='556877'&amp;Width=264&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260602160000 +0000" stop="20260602163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 72</title>
@@ -1024,7 +1024,7 @@
 	<programme channel="97072" start="20260603080000 +0000" stop="20260603090000 +0000">
 		<title>Insight - EP 31</title>
 		<desc>Post-pandemic travel has returned with a vengeance, with tourist numbers breaking records in many territories. Yet, one country in Southeast Asia lags its neighbours - The Philippines. Why?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14430892'&amp;EntityType='LinearSchedule'&amp;EntityId='e172d34e-a1a8-408e-b64a-a3f59caf1054'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14568103'&amp;EntityType='LinearSchedule'&amp;EntityId='e172d34e-a1a8-408e-b64a-a3f59caf1054'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260603090000 +0000" stop="20260603090200 +0000">
 		<title>(Live) Headline News</title>
@@ -1336,16 +1336,6 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 4th June, Thursday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14481852'&amp;EntityType='LinearSchedule'&amp;EntityId='a95118ce-a784-4ca5-acda-673b0e89f4eb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20260602160000 +0000" stop="20260603160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14430533'&amp;EntityType='LinearSchedule'&amp;EntityId='946af23e-ffcf-4844-8aca-500c09a7e41b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20260603160000 +0000" stop="20260604160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14447987'&amp;EntityType='LinearSchedule'&amp;EntityId='8787c5a5-e652-42c3-a1fd-d0a89ee3696b'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="98202" start="20260602160000 +0000" stop="20260603160000 +0000">
 		<title>No Programme available now. Next Broadcast on 5th June, Friday 7.20pm. Men’s 'A' International Friendly: Singapore vs China</title>
 		<desc>LIVE 5 will commence broadcast of the Men’s 'A' International Friendly: Singapore vs China on 5th June, Friday 7.20pm. Please stay tuned!</desc>
@@ -1355,26 +1345,6 @@
 		<title>No Programme available now. Next Broadcast on 5th June, Friday 7.20pm. Men’s 'A' International Friendly: Singapore vs China</title>
 		<desc>LIVE 5 will commence broadcast of the Men’s 'A' International Friendly: Singapore vs China on 5th June, Friday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14448326'&amp;EntityType='LinearSchedule'&amp;EntityId='5cc206e9-fe98-4b96-8ee1-d498fecb7b98'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20260602160000 +0000" stop="20260603160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14430921'&amp;EntityType='LinearSchedule'&amp;EntityId='5d2569fd-ba50-4807-9291-9f12ad664f2b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20260603160000 +0000" stop="20260604160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14448346'&amp;EntityType='LinearSchedule'&amp;EntityId='e760ed86-ffc9-4461-b2c9-eba99a950f6d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20260602160000 +0000" stop="20260603160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14500730'&amp;EntityType='LinearSchedule'&amp;EntityId='7aedf223-9b10-4bb6-9955-076101ef7f7e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20260603160000 +0000" stop="20260604160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14500734'&amp;EntityType='LinearSchedule'&amp;EntityId='75b7838e-56de-40af-83df-f23e5fefca43'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260602153643 +0000" stop="20260602163824 +0000">
 		<title>MasterChef Australia Season 04 - Invention Test: Rome</title>
@@ -2841,6 +2811,501 @@
 		<desc>The Paris Marathon on 12 April 2026 brings 55,000+ runners to the 42.195 km race. Starting at the Champs-Élysées, the scenic course passes the Louvre and the Eiffel Tower.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432442'&amp;EntityType='LinearSchedule'&amp;EntityId='724a005e-1bfb-41e1-b2af-46ea94e41326'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="556888" start="20260602160000 +0000" stop="20260602163000 +0000">
+		<title>Football Stars - Klopp Statues and Tattoos - EP8</title>
+		<desc>Jurgen Klopp has shown that you don't have to be grumpy to be a successful manager. Meanwhile, in footballing culture there are many ways to support a player or a team, from tattoos to statues, up to becoming a lookalike.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431681'&amp;EntityType='LinearSchedule'&amp;EntityId='e4648081-d047-4e6b-abc3-2db5c1f04872'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602163000 +0000" stop="20260602170000 +0000">
+		<title>Chill - The Barrel - EP9</title>
+		<desc>We look at the skills required and the chills provided by the wave queen of all waves, the powerful Barrel. The Longboard Pro Circuit in China is our next destination, where we meet Kassia Meador and Darcy Liu.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431721'&amp;EntityType='LinearSchedule'&amp;EntityId='2fb4c02a-ad65-4493-b9c4-31b46a9d787e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602170000 +0000" stop="20260602173000 +0000">
+		<title>Sports Woman - Domination - EP9</title>
+		<desc>This edition of Sportswoman is devoted to the athletes who have dominated their sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431589'&amp;EntityType='LinearSchedule'&amp;EntityId='dd7f1580-25e3-4552-b68d-dbcf808ef24c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602173000 +0000" stop="20260602180000 +0000">
+		<title>Invincible - US Women's Basketball - EP9</title>
+		<desc>Led by Sue Bird and Diana Taurasi, the US women's Olympic basketball team remains invincible.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431685'&amp;EntityType='LinearSchedule'&amp;EntityId='3a7f6a82-97fc-4159-b6d0-2473aa45a0fc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602180000 +0000" stop="20260602183000 +0000">
+		<title>The Iconic - Olympics - Swimming - EP10</title>
+		<desc>Chad le Clos shocked the world, Michael Phelps proved that he was the greatest Olympic athlete, while swimsuits changed swimming and Katie Ledecky could simply not be beaten.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431689'&amp;EntityType='LinearSchedule'&amp;EntityId='24c07055-5313-4bbd-bdc2-300eae8f2a01'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602183000 +0000" stop="20260602190000 +0000">
+		<title>Flashpoint - 1977 Duel in the Sun/ 2006 World Cup - EP16</title>
+		<desc>During the 1977 Open Championship, two golfing legends faced off blow for blow. During the 2006 World Cup final, a footballing legend disgraced himself.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431693'&amp;EntityType='LinearSchedule'&amp;EntityId='ad99cdb6-43d0-4368-a8f2-c16bcb2bc753'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602190000 +0000" stop="20260602193000 +0000">
+		<title>Karen on the Rock - Italy on the Rock - EP17</title>
+		<desc>Karen Minier - the wife of F1 champion David Coulthard - invites you to the heart of the most glamorous events! Meet two Italian champions, motorcycle legend Loris Capirossi and F1 driver Felipe Massa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431600'&amp;EntityType='LinearSchedule'&amp;EntityId='db77eedb-3cfa-4043-9a31-ac222c43d9d4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602193000 +0000" stop="20260602200000 +0000">
+		<title>Football’s Greatest Stage - Italy ‘82 - EP8</title>
+		<desc>The politics has been dramatic, the sites superb and the football ahead of its time. The game would never be the same after Italy's victory in the 1982 World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431697'&amp;EntityType='LinearSchedule'&amp;EntityId='30306bd2-a187-4dfb-bacc-e83d8ff3d024'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602200000 +0000" stop="20260602203000 +0000">
+		<title>Heroines - How the Media Impacts Women’s Sports Coverage - EP9</title>
+		<desc>Access to media visibility is one of the biggest challenges for women's sport. The media have the power to choose which stories to tell, fashioning thus the perception of the public and influencing the value of female athletes within society.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431774'&amp;EntityType='LinearSchedule'&amp;EntityId='8b5e7c25-68be-4b00-963b-8a677a05493a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602203000 +0000" stop="20260602210000 +0000">
+		<title>The Iconic - Tennis - EP4</title>
+		<desc>The Wimbledon 2008 men's final is considered as the greatest of all time… Roland Garros is an emblematic place…. Naomi Osaka is a citizen of world tennis while Novak Djokovic has made history in Australia.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431613'&amp;EntityType='LinearSchedule'&amp;EntityId='e9ef6489-1ba5-432f-959f-e4a9c7085622'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602210000 +0000" stop="20260602213000 +0000">
+		<title>Invincible - Rafael Nadal - EP4</title>
+		<desc>Nobody has dominated a grand slam like Rafael Nadal in the French Open… and in 2017, he achieved what everyone thought impossible, in triumphing for the 10th time in the Roland-Garros stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431626'&amp;EntityType='LinearSchedule'&amp;EntityId='beb60f1a-1c8d-4d66-9a94-3583d3057d28'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602213000 +0000" stop="20260602220000 +0000">
+		<title>Football Stars - Bonucci Haircuts Pandev - EP9</title>
+		<desc>Leonardo Bonucci is keeping the great tradition of Italian central defenders alive. Goran Pandev retires as a legend, and we discover the stars who pay as much attention to their hairstyles as their skills!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431782'&amp;EntityType='LinearSchedule'&amp;EntityId='7c441713-b3ac-4f77-8c92-fd3cf02fb1ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602220000 +0000" stop="20260602223000 +0000">
+		<title>Chill - Freddy Krueger, The Barrel, And Swatch Pro Girls - EP10</title>
+		<desc>We head to Western Australia to meet the legend of water ski flying, Freddy Krueger. Style, elegance and heated competition come together in China, where we observe some of the best longboard professionals.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431838'&amp;EntityType='LinearSchedule'&amp;EntityId='888e06fd-c4c8-418d-afa4-c83142142b5e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602223000 +0000" stop="20260602230000 +0000">
+		<title>Sports Woman - Triumphant - EP10</title>
+		<desc>In this edition of Sportswoman, it’s about the women who have experienced triumphant success.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431669'&amp;EntityType='LinearSchedule'&amp;EntityId='fb64bf43-bc0d-4ac7-823a-0f626ed2c8f2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602230000 +0000" stop="20260602233000 +0000">
+		<title>Invincible - Manchester United 1999 Treble - EP10</title>
+		<desc>In 1999, Manchester United were invincible, becoming the first English football club to win the treble, and all this in the space of 10 days.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431725'&amp;EntityType='LinearSchedule'&amp;EntityId='f65cf55b-ee3b-404d-a132-8c461f4648e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260602233000 +0000" stop="20260603000000 +0000">
+		<title>The Iconic - Olympics - Cycling - EP11</title>
+		<desc>Jason and Laura Kenny were the number one husband and wife duo of the Olympic Games, they directed a group of British cyclists on the track in 2008 and 2012, while Nino Schurter, the great mountain bike specialist, has a full list of achievements.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431673'&amp;EntityType='LinearSchedule'&amp;EntityId='d7a21774-70d7-4c39-a5b4-e7fa4c89313d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603000000 +0000" stop="20260603003000 +0000">
+		<title>Chill - Harry Clifford And Kiteboarding - EP11</title>
+		<desc>This week on CHILL we look at one of the best boardsports in the world, on the water with Harley Clifford. And we witness kitesurfing at its elite level with the Spaniard Liam Whaley and others.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431636'&amp;EntityType='LinearSchedule'&amp;EntityId='4e2ac2bb-4c8e-4f1c-90e7-70bebc70db18'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603003000 +0000" stop="20260603010000 +0000">
+		<title>Sports Woman - Venus Williams - EP11</title>
+		<desc>Venus Williams evokes a life well lived and the tennis champions pay tribute to her.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431677'&amp;EntityType='LinearSchedule'&amp;EntityId='3dd53ceb-0532-4165-b387-e7f398300e23'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603010000 +0000" stop="20260603013000 +0000">
+		<title>Invincible - Serena Williams - EP11</title>
+		<desc>Serena Williams dominated 2015, winning three Grand Slam tournaments in that year, while carrying out a second Serena Slam.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431789'&amp;EntityType='LinearSchedule'&amp;EntityId='41c3e006-e34d-4aa3-8894-6852dc726c19'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603013000 +0000" stop="20260603020000 +0000">
+		<title>The Iconic - Olympics - Athletics - EP13</title>
+		<desc>Michael Johnson was untouchable over 200m, Cathy Freeman's gold in 2000 brought a nation to a halt, Mo Farah carried off the double-double twice, while the double amputee Oscar Pistorius was part of the 2012 Olympic team.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431795'&amp;EntityType='LinearSchedule'&amp;EntityId='cee5eb69-d0b4-4694-b685-f3d3f4db7a55'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603020000 +0000" stop="20260603023000 +0000">
+		<title>Flashpoint - 1977 Duel in the Sun/ 2006 World Cup - EP16</title>
+		<desc>During the 1977 Open Championship, two golfing legends faced off blow for blow. During the 2006 World Cup final, a footballing legend disgraced himself.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431647'&amp;EntityType='LinearSchedule'&amp;EntityId='15a7ce6e-d6f6-4752-96d7-30a83f95e5a4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603023000 +0000" stop="20260603030000 +0000">
+		<title>Karen on the Rock - Italy on the Rock - EP17</title>
+		<desc>Karen Minier - the wife of F1 champion David Coulthard - invites you to the heart of the most glamorous events! Meet two Italian champions, motorcycle legend Loris Capirossi and F1 driver Felipe Massa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431845'&amp;EntityType='LinearSchedule'&amp;EntityId='26e732ef-ba88-4ac6-8250-d017ac589f1e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603030000 +0000" stop="20260603033000 +0000">
+		<title>Football’s Greatest Stage - Italy ‘82 - EP8</title>
+		<desc>The politics has been dramatic, the sites superb and the football ahead of its time. The game would never be the same after Italy's victory in the 1982 World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431853'&amp;EntityType='LinearSchedule'&amp;EntityId='19ddb8e7-76e6-4225-94ce-abef8471171c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603033000 +0000" stop="20260603040000 +0000">
+		<title>Heroines - How the Media Impacts Women’s Sports Coverage - EP9</title>
+		<desc>Access to media visibility is one of the biggest challenges for women's sport. The media have the power to choose which stories to tell, fashioning thus the perception of the public and influencing the value of female athletes within society.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431861'&amp;EntityType='LinearSchedule'&amp;EntityId='c94d50dd-713d-4e92-902f-681845d10131'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603040000 +0000" stop="20260603043000 +0000">
+		<title>The Iconic - Tennis - EP4</title>
+		<desc>The Wimbledon 2008 men's final is considered as the greatest of all time… Roland Garros is an emblematic place…. Naomi Osaka is a citizen of world tennis while Novak Djokovic has made history in Australia.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431701'&amp;EntityType='LinearSchedule'&amp;EntityId='ac9aef3d-44a0-442a-9047-cf7d457e65dd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603043000 +0000" stop="20260603050000 +0000">
+		<title>Invincible - Rafael Nadal - EP4</title>
+		<desc>Nobody has dominated a grand slam like Rafael Nadal in the French Open… and in 2017, he achieved what everyone thought impossible, in triumphing for the 10th time in the Roland-Garros stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431705'&amp;EntityType='LinearSchedule'&amp;EntityId='c13fd47b-1c62-40ca-8a19-7c01958823ae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603050000 +0000" stop="20260603053000 +0000">
+		<title>Football Stars - Rapinoe Movies Varane - EP10</title>
+		<desc>Megan Rapinoe fought against Donald Trump. Vinnie Jones attempted to break through in Hollywood. And after having tried their luck elsewhere, Cristiano Ronaldo and Antoine Griezmann have gone back where they belong.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431803'&amp;EntityType='LinearSchedule'&amp;EntityId='05141211-2b1c-43c1-ba3d-37bb2ff8fc1a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603053000 +0000" stop="20260603060000 +0000">
+		<title>Chill - Crashed Ice Tour - EP12</title>
+		<desc>This week, Chill invites itself to winter sports. We go to Niagara Falls, in Canada, where the first leg of the Crashed Ice Tour takes place.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431717'&amp;EntityType='LinearSchedule'&amp;EntityId='73b6a386-66bb-42bf-9716-eb627c42a30b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603060000 +0000" stop="20260603063000 +0000">
+		<title>Sports Woman - Challengers - EP12</title>
+		<desc>In this edition of Sportswoman, it’s about the athletes who have gone from the status of challengers to that of champions.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431868'&amp;EntityType='LinearSchedule'&amp;EntityId='094881c9-cdd7-49e7-b477-37680c9cfdc5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603063000 +0000" stop="20260603070000 +0000">
+		<title>Invincible - Tiger Woods - EP12</title>
+		<desc>Tiger Woods took control of golf between 1999 and April 2001, by winning five of the six major tournaments and adjudicating the Tiger Slam.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431875'&amp;EntityType='LinearSchedule'&amp;EntityId='63a12c39-2421-4527-b65e-4d344a4ec52d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603070000 +0000" stop="20260603073000 +0000">
+		<title>The Iconic - Olympics - Winter Games - EP14</title>
+		<desc>China's Eillen Gu became the queen of the snows at the Winter Olympics of 2022, Jamaica's bobsleigh team inspired a film, the big names of downhill skiing take it easy, while Shaun White has appropriated the snowboard half-pipe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431729'&amp;EntityType='LinearSchedule'&amp;EntityId='c7525a97-0fbf-4429-8f2c-a01b8d45c361'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603073000 +0000" stop="20260603080000 +0000">
+		<title>Football Nation - AFC - EP10</title>
+		<desc>The African Confederation of Football covers more territory than any other confederation and includes a set of increasingly confident and ambitious nations.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431653'&amp;EntityType='LinearSchedule'&amp;EntityId='f3214fd7-7e18-420b-916f-732764684bbd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603080000 +0000" stop="20260603083000 +0000">
+		<title>Football Nation - Australia - EP7</title>
+		<desc>Australia is one of the most confusing of footballing nations.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431709'&amp;EntityType='LinearSchedule'&amp;EntityId='5aaa8823-e810-436b-b26e-8f34cff04114'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603083000 +0000" stop="20260603090000 +0000">
+		<title>Football Nation - Spain - EP4</title>
+		<desc>Spain has become the world's leading footballing nation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431753'&amp;EntityType='LinearSchedule'&amp;EntityId='82b053ba-ccff-4475-a897-9957abf7b304'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603090000 +0000" stop="20260603093000 +0000">
+		<title>The Iconic - Festival of Champions - EP56</title>
+		<desc>It's a festival of emblematic champions, including manager Pep Guardioa, 1967 European Cup winners Celtic, the FIFA Confederations Cup and the great French club PSG.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431759'&amp;EntityType='LinearSchedule'&amp;EntityId='d63f2b45-6ff5-4eea-bdd5-6871544664de'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603093000 +0000" stop="20260603100000 +0000">
+		<title>Football Stars - Klopp Statues and Tattoos - EP8</title>
+		<desc>Jurgen Klopp has shown that you don't have to be grumpy to be a successful manager. Meanwhile, in footballing culture there are many ways to support a player or a team, from tattoos to statues, up to becoming a lookalike.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431733'&amp;EntityType='LinearSchedule'&amp;EntityId='8720e35f-00cc-47b8-b952-ec9c4e708e37'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603100000 +0000" stop="20260603103000 +0000">
+		<title>Football's Greatest Stage - Pelé's Co-Stars - EP9</title>
+		<desc>Pelé did not win three World Cups on his own,</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431766'&amp;EntityType='LinearSchedule'&amp;EntityId='d50af654-1222-4413-9626-1d126bacd55b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603103000 +0000" stop="20260603110000 +0000">
+		<title>Football Stars - Tammy Abraham - EP11</title>
+		<desc>Tammy Abraham has taken off to Roma, but in Spain, shares in Barcelona have reached a new low.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431881'&amp;EntityType='LinearSchedule'&amp;EntityId='9a114e2b-1a7d-449b-973f-d1703091871c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603110000 +0000" stop="20260603113000 +0000">
+		<title>Chill - Freeride and Crashed Ice - EP13</title>
+		<desc>Chill takes on the difficult task of being a judge of the Freeride World Tour. The Crashed Ice Series brings the Ice Cross descent right in the middle of St Paul in Minnesota.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431739'&amp;EntityType='LinearSchedule'&amp;EntityId='f91881d8-05c0-47d3-8885-24f83e94ae55'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603113000 +0000" stop="20260603120000 +0000">
+		<title>Sports Woman - Surf's Up - EP13</title>
+		<desc>Sally Fitzgibbons takes us surfing in California. The South African Tatjana Schoenmaker makes waves at the Commonwealth Games.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431825'&amp;EntityType='LinearSchedule'&amp;EntityId='92632427-18a4-4856-b1f2-496ad61a4569'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603120000 +0000" stop="20260603123000 +0000">
+		<title>Invincible - Max Verstappen - EP13</title>
+		<desc>In 2022 Max Verstappen of Red Bull established a new reference point in the field of F1 excellence, by winning a record 15 races to become double world champion.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431657'&amp;EntityType='LinearSchedule'&amp;EntityId='423a38f2-4a9e-4a36-89ea-d448d392590e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603123000 +0000" stop="20260603130000 +0000">
+		<title>The Iconic - Olympics - Gymnastic - EP15</title>
+		<desc>Max Whitlock, a gymnast for the Great Britain team, has entered history, Nadia Comaneci is the ultimate sporting icon, Simon Biles created magic at Rio, while Aliya Mustafina has recovered from a serious injury.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431810'&amp;EntityType='LinearSchedule'&amp;EntityId='b212ac80-db9a-4b12-94ef-58a0b96a9fa0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603130000 +0000" stop="20260603133000 +0000">
+		<title>Invincible - Rafael Nadal - EP4</title>
+		<desc>Nobody has dominated a grand slam like Rafael Nadal in the French Open… and in 2017, he achieved what everyone thought impossible, in triumphing for the 10th time in the Roland-Garros stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431713'&amp;EntityType='LinearSchedule'&amp;EntityId='accd2588-3a95-492e-b026-7369e5073245'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603133000 +0000" stop="20260603140000 +0000">
+		<title>Flashpoint - Nadal/ Federer/ Wie - EP11</title>
+		<desc>The 2006 French Open final between Roger and Rafa marked the beginning of a fine grand slam rivalry and the 2014 US Women's Open marked the passage to adult age of Michelle Wie.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431661'&amp;EntityType='LinearSchedule'&amp;EntityId='065624d9-a098-47ba-8fdc-7ef4a54e2d76'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603140000 +0000" stop="20260603143000 +0000">
+		<title>The Iconic - Tennis - EP26</title>
+		<desc>Serena Williams, Novak Djokovic and Rafael Nadal are all icons of modern tennis.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431665'&amp;EntityType='LinearSchedule'&amp;EntityId='3ad32916-acdc-4593-bbc7-3c2125f22530'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603143000 +0000" stop="20260603150000 +0000">
+		<title>Top 20 - Rugby Legends - EP15</title>
+		<desc>Discover the rating of the 20 best rugby players of all time: powerful, rapid, enduring and crafty, which of these athletes should be considered as the best?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431817'&amp;EntityType='LinearSchedule'&amp;EntityId='5133fe2f-56f3-442c-9aba-5989e6d8b2b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603150000 +0000" stop="20260603153000 +0000">
+		<title>Invincible - All Blacks - EP51</title>
+		<desc>By winning the Rugby World Cup in 2011 and 2015, New Zealand's All Blacks have raised the bar very high.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431831'&amp;EntityType='LinearSchedule'&amp;EntityId='77212ffb-eca4-4145-960e-86cf7ee99b2b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603153000 +0000" stop="20260603160000 +0000">
+		<title>Top 20 - Best Looking Rugby Players - EP49</title>
+		<desc>The TOP 20 is a novel ranking of the news or the champions who are causing a buzz on planet sport! Who are the most beautiful kids on planet Rugby? Come and discover our house selection of the gods of the stadium!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431746'&amp;EntityType='LinearSchedule'&amp;EntityId='c4b28f84-d79b-4c5c-9b4b-9b67dc85f0e2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603160000 +0000" stop="20260603163000 +0000">
+		<title>Football Stars - Erling Haaland - EP12</title>
+		<desc>Erling Haaland is ready to become the next star of football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449344'&amp;EntityType='LinearSchedule'&amp;EntityId='353c4333-c198-49af-aee2-faf842a76568'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602160000 +0000" stop="20260602163000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep7 - EP107</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431849'&amp;EntityType='LinearSchedule'&amp;EntityId='d08faedd-051c-4d7f-b7b0-6af5578841c9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602163000 +0000" stop="20260602170000 +0000">
+		<title>Shaq's Garage - To Catch a Truck - EP111</title>
+		<desc>Shaq's special painting is stolen, It's up to the Shaq Paq to find the thief and recover the work of art.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14432032'&amp;EntityType='LinearSchedule'&amp;EntityId='a8c28ddf-38dd-49e5-b0c1-240415711127'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602170000 +0000" stop="20260602173000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep4 - EP104</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431741'&amp;EntityType='LinearSchedule'&amp;EntityId='b4229f76-b00d-4b6c-9c1e-03618c139b43'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602173000 +0000" stop="20260602180000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep4 - EP4</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431940'&amp;EntityType='LinearSchedule'&amp;EntityId='dd16610c-35b7-427b-942c-f3a04433edf6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602180000 +0000" stop="20260602183000 +0000">
+		<title>Kids' Planet - Urbanity - EP102</title>
+		<desc>In this episode of Kids' Planet, Nova will guide the children through an exciting journey through the world of "Urbanity" where the children will discover that with a good attitude and respecting all people equally, their life will be more fun, happy, and surrounded by friends!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431948'&amp;EntityType='LinearSchedule'&amp;EntityId='0933bbfb-40bf-4448-9caa-535d068b4ca2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602183000 +0000" stop="20260602190500 +0000">
+		<title>Kids' Planet - Responsibility - EP113</title>
+		<desc>In this episode, we will learn that we must fulfil our responsibilities, and in that way, we will be able to be in harmony with other people. We will discover how to be attentive to help both at school and at home. And in this way, we can learn more each day and be up to date with each task.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431901'&amp;EntityType='LinearSchedule'&amp;EntityId='88b4f023-3fd1-41cc-8aa0-48f428c308b8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602190500 +0000" stop="20260602193000 +0000">
+		<title>Mellodees - ABC's Song - EP1</title>
+		<desc>Learn the alphabet while you dance and sing-a-long with Dee!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431749'&amp;EntityType='LinearSchedule'&amp;EntityId='7f3a1425-9c67-4a70-878b-808bcacf9dca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602193000 +0000" stop="20260602200000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep4 - EP104</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14432041'&amp;EntityType='LinearSchedule'&amp;EntityId='cfe6e2df-a64c-470d-8056-8dc39bd07d2d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602200000 +0000" stop="20260602203000 +0000">
+		<title>Giselle and the Green Team - The Case of the Cynicale Cycler - EP112</title>
+		<desc>Gisele and the Green Team stop Nick Slick from dumping electronics into the environment.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431760'&amp;EntityType='LinearSchedule'&amp;EntityId='a6525e57-cdc9-4fe1-b3b2-63c647857352'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602203000 +0000" stop="20260602210000 +0000">
+		<title>Shaq's Garage - The Dog Who Loved Me - EP112</title>
+		<desc>Fleming rescues a puppy and learns how fun it can be to raise a pup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431955'&amp;EntityType='LinearSchedule'&amp;EntityId='23c7da53-f012-4029-881d-9003f384a87d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602210000 +0000" stop="20260602213000 +0000">
+		<title>Thomas Edison's Secret Lab - Great Bouncing Eyeballs! / Rock It to the Moon - EP123</title>
+		<desc>When Von Bolt has trouble with his eyes, The Secret Lab Kids grow an assortment of fantastical eyeballs but when they accidentally get bounced all over town it means big trouble! / When Von Bolt accidentally destroys the museum’s new moon rock, the Secret Lab Kids must find a way to replace it.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14432049'&amp;EntityType='LinearSchedule'&amp;EntityId='6d6e6bdc-f3ab-4507-9fad-52102180de6a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602213000 +0000" stop="20260602220000 +0000">
+		<title>Mellodees - Humpty Dumpty - EP15</title>
+		<desc>Dee and Lil Mello work their magic to put their guitar back together again.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431905'&amp;EntityType='LinearSchedule'&amp;EntityId='886d172a-f7d3-450d-b01c-ac5da25d4a77'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602220000 +0000" stop="20260602223000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep7 - EP107</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432057'&amp;EntityType='LinearSchedule'&amp;EntityId='4245f93d-c338-4287-ba1e-d7a80563a4df'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602223000 +0000" stop="20260602230000 +0000">
+		<title>Shaq's Garage - To Catch a Truck - EP111</title>
+		<desc>Shaq's special painting is stolen, It's up to the Shaq Paq to find the thief and recover the work of art.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431813'&amp;EntityType='LinearSchedule'&amp;EntityId='ecc8c5cd-d0e2-4f25-846a-380e3fd004db'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602230000 +0000" stop="20260602233000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep4 - EP104</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431822'&amp;EntityType='LinearSchedule'&amp;EntityId='3f0beb0c-9220-4178-b293-b6879820bca6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260602233000 +0000" stop="20260603000000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep4 - EP4</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14432065'&amp;EntityType='LinearSchedule'&amp;EntityId='ca1c1f69-9c85-4044-8ffe-e953cf1913c1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603000000 +0000" stop="20260603003000 +0000">
+		<title>Kids' Planet - Urbanity - EP102</title>
+		<desc>In this episode of Kids' Planet, Nova will guide the children through an exciting journey through the world of "Urbanity" where the children will discover that with a good attitude and respecting all people equally, their life will be more fun, happy, and surrounded by friends!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431909'&amp;EntityType='LinearSchedule'&amp;EntityId='312f9d9b-2a15-4fa6-aad5-f0e8c96e6a83'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603003000 +0000" stop="20260603010500 +0000">
+		<title>Kids' Planet - Responsibility - EP113</title>
+		<desc>In this episode, we will learn that we must fulfil our responsibilities, and in that way, we will be able to be in harmony with other people. We will discover how to be attentive to help both at school and at home. And in this way, we can learn more each day and be up to date with each task.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431832'&amp;EntityType='LinearSchedule'&amp;EntityId='56a40f66-221f-466b-84a9-09116ca6b964'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603010500 +0000" stop="20260603013000 +0000">
+		<title>Mellodees - ABC's Song - EP1</title>
+		<desc>Learn the alphabet while you dance and sing-a-long with Dee!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431769'&amp;EntityType='LinearSchedule'&amp;EntityId='1e8a5563-d4ad-498d-a885-40e9fc603327'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603013000 +0000" stop="20260603020000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep4 - EP104</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431841'&amp;EntityType='LinearSchedule'&amp;EntityId='88964653-bb51-4885-9df4-4b43cc706e06'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603020000 +0000" stop="20260603023000 +0000">
+		<title>Giselle and the Green Team - The Case of the Cynicale Cycler - EP112</title>
+		<desc>Gisele and the Green Team stop Nick Slick from dumping electronics into the environment.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431885'&amp;EntityType='LinearSchedule'&amp;EntityId='b30cd2a8-ad95-43fe-9f21-aadde9625b0a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603023000 +0000" stop="20260603030000 +0000">
+		<title>Shaq's Garage - The Dog Who Loved Me - EP112</title>
+		<desc>Fleming rescues a puppy and learns how fun it can be to raise a pup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14432074'&amp;EntityType='LinearSchedule'&amp;EntityId='ba177d7b-3c8d-49f2-80b6-05e96b37d4af'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603030000 +0000" stop="20260603033000 +0000">
+		<title>Thomas Edison's Secret Lab - Great Bouncing Eyeballs! / Rock It to the Moon - EP123</title>
+		<desc>When Von Bolt has trouble with his eyes, The Secret Lab Kids grow an assortment of fantastical eyeballs but when they accidentally get bounced all over town it means big trouble! / When Von Bolt accidentally destroys the museum’s new moon rock, the Secret Lab Kids must find a way to replace it.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431889'&amp;EntityType='LinearSchedule'&amp;EntityId='3e60fe95-ef80-4622-a358-ce78af40aca2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603033000 +0000" stop="20260603040000 +0000">
+		<title>Mellodees - Humpty Dumpty - EP15</title>
+		<desc>Dee and Lil Mello work their magic to put their guitar back together again.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431893'&amp;EntityType='LinearSchedule'&amp;EntityId='5842739b-485e-401c-a264-bdfd4280726a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603040000 +0000" stop="20260603043000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep7 - EP107</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431897'&amp;EntityType='LinearSchedule'&amp;EntityId='817bd697-c6d0-419f-89fb-ffdc0beeb92f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603043000 +0000" stop="20260603050000 +0000">
+		<title>Shaq's Garage - To Catch a Truck - EP111</title>
+		<desc>Shaq's special painting is stolen, It's up to the Shaq Paq to find the thief and recover the work of art.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431964'&amp;EntityType='LinearSchedule'&amp;EntityId='87b5fc94-5566-4237-9ee9-2c27fa83d6d3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603050000 +0000" stop="20260603053000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep4 - EP104</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431970'&amp;EntityType='LinearSchedule'&amp;EntityId='3ad152b6-e540-4dd7-9b69-e1f50248a3a3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603053000 +0000" stop="20260603060000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep4 - EP4</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431979'&amp;EntityType='LinearSchedule'&amp;EntityId='6507faf5-98b8-4992-995b-1d2da15f77de'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603060000 +0000" stop="20260603063000 +0000">
+		<title>Kids' Planet - Urbanity - EP102</title>
+		<desc>In this episode of Kids' Planet, Nova will guide the children through an exciting journey through the world of "Urbanity" where the children will discover that with a good attitude and respecting all people equally, their life will be more fun, happy, and surrounded by friends!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431988'&amp;EntityType='LinearSchedule'&amp;EntityId='a4b9c539-3c6a-485b-88ca-7e689eecfec3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603063000 +0000" stop="20260603070500 +0000">
+		<title>Kids' Planet - Responsibility - EP113</title>
+		<desc>In this episode, we will learn that we must fulfil our responsibilities, and in that way, we will be able to be in harmony with other people. We will discover how to be attentive to help both at school and at home. And in this way, we can learn more each day and be up to date with each task.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14432082'&amp;EntityType='LinearSchedule'&amp;EntityId='d1dd4c2a-0811-47ac-8b2b-f64ea4e1c31f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603070500 +0000" stop="20260603073000 +0000">
+		<title>Mellodees - ABC's Song - EP1</title>
+		<desc>Learn the alphabet while you dance and sing-a-long with Dee!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431913'&amp;EntityType='LinearSchedule'&amp;EntityId='e9862ebd-1cf0-457b-add8-c9e6cdf7fcbe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603073000 +0000" stop="20260603080000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep4 - EP104</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431858'&amp;EntityType='LinearSchedule'&amp;EntityId='00cd0925-ee1b-422d-92b0-660d6b166796'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603080000 +0000" stop="20260603083000 +0000">
+		<title>Giselle and the Green Team - The Case of the Cynicale Cycler - EP112</title>
+		<desc>Gisele and the Green Team stop Nick Slick from dumping electronics into the environment.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431933'&amp;EntityType='LinearSchedule'&amp;EntityId='eca9afe1-6b25-407e-b61d-9a47df2a31d8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603083000 +0000" stop="20260603090000 +0000">
+		<title>Shaq's Garage - The Dog Who Loved Me - EP112</title>
+		<desc>Fleming rescues a puppy and learns how fun it can be to raise a pup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14432091'&amp;EntityType='LinearSchedule'&amp;EntityId='7c840118-3c7d-477e-8a4c-54c0d77bb1a9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603090000 +0000" stop="20260603093000 +0000">
+		<title>Thomas Edison's Secret Lab - Great Bouncing Eyeballs! / Rock It to the Moon - EP123</title>
+		<desc>When Von Bolt has trouble with his eyes, The Secret Lab Kids grow an assortment of fantastical eyeballs but when they accidentally get bounced all over town it means big trouble! / When Von Bolt accidentally destroys the museum’s new moon rock, the Secret Lab Kids must find a way to replace it.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431777'&amp;EntityType='LinearSchedule'&amp;EntityId='c1cc5c4b-a680-4f47-8b80-74cc437f3353'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603093000 +0000" stop="20260603100000 +0000">
+		<title>Mellodees - Humpty Dumpty - EP15</title>
+		<desc>Dee and Lil Mello work their magic to put their guitar back together again.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431917'&amp;EntityType='LinearSchedule'&amp;EntityId='f0dcde44-37a2-4a5b-8697-a625520100b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603100000 +0000" stop="20260603103000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep8 - EP108</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431921'&amp;EntityType='LinearSchedule'&amp;EntityId='e3718dd7-c339-4e92-b64f-de4901b13e1f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603103000 +0000" stop="20260603110000 +0000">
+		<title>Shaq's Garage - My Frozen Friend - EP113</title>
+		<desc>Gronk runs into the Abominable Snowman.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431785'&amp;EntityType='LinearSchedule'&amp;EntityId='34c7be6e-1a84-4b4f-9c6e-af493264598c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603110000 +0000" stop="20260603113000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep5 - EP105</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432100'&amp;EntityType='LinearSchedule'&amp;EntityId='ca7afd22-3a0a-4e72-b872-8b58cf8ce476'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603113000 +0000" stop="20260603120000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep5 - EP5</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431927'&amp;EntityType='LinearSchedule'&amp;EntityId='2fba3a64-f0c0-40ce-a440-07914d087ba2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603120000 +0000" stop="20260603123000 +0000">
+		<title>Kids' Planet - Behaviors at School - EP103</title>
+		<desc>In this episode of Kids' Planet, Nova will invite the children to a new expedition, this time they will leave for school. Together, they will discover how they should behave in this space that is so important for their development. The children will also learn about their favourite part of the day: recess!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431796'&amp;EntityType='LinearSchedule'&amp;EntityId='86889f75-0ea8-479c-a7d8-eb8cc984dfce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603123000 +0000" stop="20260603130500 +0000">
+		<title>Kids' Planet - Tolerance - EP114</title>
+		<desc>In this episode, we will discover that tolerance is about living in harmony, accepting, and respecting the tastes of other people, as well as helping those who need it without expecting to receive something in return. We are all different and that makes the world so special, that's why you have to be supportive and show solidarity for others.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431997'&amp;EntityType='LinearSchedule'&amp;EntityId='e4b0019e-2540-4107-abf7-05ffe2544bcb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603130500 +0000" stop="20260603133000 +0000">
+		<title>Mellodees - Rock A Bye Baby - EP2</title>
+		<desc>Dee dreams of a magical carpet ride in the clouds with his favorite teddy bear. Will you join them on this adventure?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14432005'&amp;EntityType='LinearSchedule'&amp;EntityId='af977713-845e-4a30-8b04-726ccd4bd0bb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603133000 +0000" stop="20260603140000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep7 - EP107</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14432023'&amp;EntityType='LinearSchedule'&amp;EntityId='cfe2dbbb-ca29-44fa-81b5-aad4df233bbb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603140000 +0000" stop="20260603143000 +0000">
+		<title>Giselle and the Green Team - The Case of the Invasive Vector - EP113</title>
+		<desc>Gisele and the Green Team stop Nick Slick from sending tires infested with mosquitoes to Europe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14432013'&amp;EntityType='LinearSchedule'&amp;EntityId='39c4b106-a085-4f3d-9225-30e3a7f2a293'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603143000 +0000" stop="20260603150000 +0000">
+		<title>Shaq's Garage - Night Beat - EP114</title>
+		<desc>Tibbs tries to be like Officer Cool, her favourite character from the TV series "Night Beat."</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431867'&amp;EntityType='LinearSchedule'&amp;EntityId='c3bd7786-8488-4ef9-8192-ffdb9dda420c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603150000 +0000" stop="20260603153000 +0000">
+		<title>Thomas Edison's Secret Lab - Nicky’s Compass Goes South / A Gem of a Deal - EP101</title>
+		<desc>When the SECRET LAB KIDS head off to rescue some stranded hikers with the aid of Nicky’s cell phone compass her battery fizzles out and the team must return to the lab and build a conventional compass</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431804'&amp;EntityType='LinearSchedule'&amp;EntityId='cfa30779-5b09-490b-8261-9d9e726e7607'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603153000 +0000" stop="20260603160000 +0000">
+		<title>Mellodees - Jingle Bells - EP18</title>
+		<desc>Is that Santa Claus I see? Come join the fun and help Santa deliver presents!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14431877'&amp;EntityType='LinearSchedule'&amp;EntityId='7d8ef39a-410e-4c69-b659-2c75bb9d0087'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603160000 +0000" stop="20260603163000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep8 - EP108</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449504'&amp;EntityType='LinearSchedule'&amp;EntityId='8fc1b8c5-a82e-48f6-8732-fc83ebc8cb68'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260602160000 +0000" stop="20260603160000 +0000">
+		<title>No info available yet</title>
+		<desc>No info available yet</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432694'&amp;EntityType='LinearSchedule'&amp;EntityId='9c51dac7-9399-490f-86bb-33315c34734f'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260603163000 +0000" stop="20260603173000 +0000">
 		<title>Sullivan's Crossing S1 - EP 3</title>
 		<desc>Sydney attempts to cheer up Maggie after she suffers a setback back at home. Frank and Edna help Sully, with the annual land blessing, but the festivities end early after a camper goes missing. Maggie and Cal work together with the search and rescue team unaware that another life hangs in the balance.</desc>
@@ -3789,7 +4254,7 @@
 	<programme channel="97072" start="20260604130000 +0000" stop="20260604140000 +0000">
 		<title>Insight - EP 32</title>
 		<desc>Electricity has become the decisive force in the global tech race. With China producing twice as much electricity as the US, will this advantage help Beijing win the race for the future?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14448308'&amp;EntityType='LinearSchedule'&amp;EntityId='8e413767-4e57-4e2c-8d80-ec3c52eb8ba7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14568109'&amp;EntityType='LinearSchedule'&amp;EntityId='8e413767-4e57-4e2c-8d80-ec3c52eb8ba7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260604140000 +0000" stop="20260604150000 +0000">
 		<title>(Live) Singapore Tonight</title>
@@ -4061,25 +4526,10 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 5th June, Friday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14481964'&amp;EntityType='LinearSchedule'&amp;EntityId='6bd90114-260a-4035-bc3d-235763c971cf'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20260604160000 +0000" stop="20260605160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14466170'&amp;EntityType='LinearSchedule'&amp;EntityId='c9f9b805-dae8-4377-b22d-646293707d4d'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="98202" start="20260604160000 +0000" stop="20260605112000 +0000">
 		<title>No Programme available now. Next Broadcast on 5th June, Friday 7.20pm. Men’s 'A' International Friendly: Singapore vs China</title>
 		<desc>LIVE 5 will commence broadcast of the Men’s 'A' International Friendly: Singapore vs China on 5th June, Friday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14466571'&amp;EntityType='LinearSchedule'&amp;EntityId='62a5e5d9-7caa-483b-9181-e9a73192cb72'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20260604160000 +0000" stop="20260605160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14466579'&amp;EntityType='LinearSchedule'&amp;EntityId='97e45667-48ed-4ed8-b10e-ab48b52ffdf0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20260604160000 +0000" stop="20260605160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14500738'&amp;EntityType='LinearSchedule'&amp;EntityId='50ddb7de-0f6d-45ed-b2eb-a3d80fc41d34'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260603164914 +0000" stop="20260603174059 +0000">
 		<title>MasterChef New Zealand Season 05 - Daniel Wilson / Kiwi Style Bouillabaisse</title>
@@ -5540,5 +5990,485 @@
 		<title>LIVE GCL '26: GCL '26 Cannes R1</title>
 		<desc>Premier Show Jumping Events taking place at iconic venues around the globe featuring some of the World Finest Show Jumpers and horses.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14450260'&amp;EntityType='LinearSchedule'&amp;EntityId='0ce68309-18e7-4b5f-ba5e-6733246a5173'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603163000 +0000" stop="20260603170000 +0000">
+		<title>Chill - Freeride World Tour - EP14</title>
+		<desc>Chill presents spectacular action from Chamonix in France, the cradle of European freestyle in the high mountains. Landgraf, in Holland, organises the last leg of the Crashed Ice World Tour and Freeski Big Air from Zurich's Lakeside.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449403'&amp;EntityType='LinearSchedule'&amp;EntityId='08857c97-d8fc-4890-acd8-2a45927dc883'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603170000 +0000" stop="20260603173000 +0000">
+		<title>Sports Woman - Conquering - EP14</title>
+		<desc>Since Marta erupted on the football field, she has proved that she can do what the men do, and the Laureus World Sports Awards present some of the most inspiring athletes in the world….</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449352'&amp;EntityType='LinearSchedule'&amp;EntityId='853d3698-3882-4485-8d8a-827392eab35f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603173000 +0000" stop="20260603180000 +0000">
+		<title>Invincible - Novak Djokovic - EP14</title>
+		<desc>In 2021, Novak Djokovic established four records in men's tennis and won three of the four Grand Slam tournaments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449274'&amp;EntityType='LinearSchedule'&amp;EntityId='bea9eb72-9173-49c0-b077-57f9f2dcc0e3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603180000 +0000" stop="20260603183000 +0000">
+		<title>The Iconic - Olympics - All Sports - EP16</title>
+		<desc>In Tokyo, Denmark's Viktor Axelsen surprised a billion Chinese by winning the badminton gold medal, Valerie Adams brought Kiwi athleticism into the spotlight, while the Brownlee brothers realised a historic triathlon double.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449280'&amp;EntityType='LinearSchedule'&amp;EntityId='598324f3-4717-4feb-81dd-3b84c44b4aae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603183000 +0000" stop="20260603190000 +0000">
+		<title>Invincible - Rafael Nadal - EP4</title>
+		<desc>Nobody has dominated a grand slam like Rafael Nadal in the French Open… and in 2017, he achieved what everyone thought impossible, in triumphing for the 10th time in the Roland-Garros stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449358'&amp;EntityType='LinearSchedule'&amp;EntityId='1992b831-d8f0-42bf-8409-206a171f6aeb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603190000 +0000" stop="20260603193000 +0000">
+		<title>Flashpoint - Nadal/ Federer/ Wie - EP11</title>
+		<desc>The 2006 French Open final between Roger and Rafa marked the beginning of a fine grand slam rivalry and the 2014 US Women's Open marked the passage to adult age of Michelle Wie.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449409'&amp;EntityType='LinearSchedule'&amp;EntityId='a65a9622-8527-41fd-a61b-4fc653d6b992'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603193000 +0000" stop="20260603200000 +0000">
+		<title>The Iconic - Tennis - EP26</title>
+		<desc>Serena Williams, Novak Djokovic and Rafael Nadal are all icons of modern tennis.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449140'&amp;EntityType='LinearSchedule'&amp;EntityId='ccb450df-54f2-4bc7-a2fd-fce653a52170'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603200000 +0000" stop="20260603203000 +0000">
+		<title>Top 20 - Rugby Legends - EP15</title>
+		<desc>Discover the rating of the 20 best rugby players of all time: powerful, rapid, enduring and crafty, which of these athletes should be considered as the best?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449236'&amp;EntityType='LinearSchedule'&amp;EntityId='c6829a8b-af96-4594-8e72-3c72ce3c848b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603203000 +0000" stop="20260603210000 +0000">
+		<title>Invincible - All Blacks - EP51</title>
+		<desc>By winning the Rugby World Cup in 2011 and 2015, New Zealand's All Blacks have raised the bar very high.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449242'&amp;EntityType='LinearSchedule'&amp;EntityId='3e3fae65-9041-4f0b-bd05-8003f9e62624'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603210000 +0000" stop="20260603213000 +0000">
+		<title>Top 20 - Best Looking Rugby Players - EP49</title>
+		<desc>The TOP 20 is a novel ranking of the news or the champions who are causing a buzz on planet sport! Who are the most beautiful kids on planet Rugby? Come and discover our house selection of the gods of the stadium!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449416'&amp;EntityType='LinearSchedule'&amp;EntityId='d1f45197-7963-4a40-aa3f-e6c8373fda7b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603213000 +0000" stop="20260603220000 +0000">
+		<title>Football Stars - Pedri - EP13</title>
+		<desc>The heir to Andres Iniesta, Pedri is the future of Barcelona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449221'&amp;EntityType='LinearSchedule'&amp;EntityId='1da80274-f7bd-42c6-a6a0-0b8fcf2ecf19'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603220000 +0000" stop="20260603223000 +0000">
+		<title>Chill - Mandurah Women's Wakeboarding - EP15</title>
+		<desc>The best of women's wakeboard with the coming of the IWWF to Mandurah in Australia. The magnificent Italian island of Sicily welcomes the kitesurf world tour. And finally, incredible female surfers head for the beaches of Brazil for the Rio Pro.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449146'&amp;EntityType='LinearSchedule'&amp;EntityId='2deff0fe-6c40-449d-82c6-a5573cb789a3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603223000 +0000" stop="20260603230000 +0000">
+		<title>Sports Woman - Setting Sail - EP15</title>
+		<desc>Molly Meech and Alex Maloney, the two New Zealand sailors, set course for the Tokyo Olympic Games. Russian high jumper Mariya Lasitskene has some arguments to put forward.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449420'&amp;EntityType='LinearSchedule'&amp;EntityId='fc06ae79-f6df-4d63-b43b-336ea43d874c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603230000 +0000" stop="20260603233000 +0000">
+		<title>Invincible - Muhammad Ali - EP15</title>
+		<desc>In 1974 and 1975, Muhammad Ali won two of the most emblematic heavyweight fights in boxing history, thus strengthening his status as the greatest athlete of all time.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449288'&amp;EntityType='LinearSchedule'&amp;EntityId='29f2caf8-bf7a-42ba-999f-0917311f95dd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260603233000 +0000" stop="20260604000000 +0000">
+		<title>The Iconic - Football - Bayern Munich - EP17</title>
+		<desc>An emblematic club in Germany and across Europe, Bayern Munich is an institution for many. Kyllian Mbappe has quickly won the World Cup, while Aitana Bonmati has opened a new path for women's football in 2023.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449228'&amp;EntityType='LinearSchedule'&amp;EntityId='e08de2e6-8f30-4221-a5bb-64f793058f69'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604000000 +0000" stop="20260604003000 +0000">
+		<title>Chill - Mandurah Men's Wakeboarding - EP16</title>
+		<desc>We are on the waters of Mandurah, in Australia, for the men's finals of the IWWF Wakeboard World. Morocco is our next destination for the kitesurf world tour, and we present Harley Clifford who storms wakeboarding.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449364'&amp;EntityType='LinearSchedule'&amp;EntityId='d0f2fd3d-5385-4439-a2b5-bbca66be4f7f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604003000 +0000" stop="20260604010000 +0000">
+		<title>Sports Woman - Believers - EP16</title>
+		<desc>In this edition of Sportswoman, we deal with athletes who have never given up.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449424'&amp;EntityType='LinearSchedule'&amp;EntityId='75117cc5-9a7a-432e-a6ec-73aa5994f44b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604010000 +0000" stop="20260604013000 +0000">
+		<title>Invincible - Golden State Warriors - EP16</title>
+		<desc>In 2015, the new dynasty of the NBA took form with the Golden State Warriors who carried off three titles in four seasons.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449371'&amp;EntityType='LinearSchedule'&amp;EntityId='328cc137-dfd6-45d9-b83b-7f31550345f8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604013000 +0000" stop="20260604020000 +0000">
+		<title>The Iconic - Football - Lionel Messi - EP18</title>
+		<desc>Lionel Messi has proved everything there was to prove. He then headed to a new land and proved still more - it's Iconic.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449155'&amp;EntityType='LinearSchedule'&amp;EntityId='e38cf846-f045-47c8-a9f8-df8e86d3d1a9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604020000 +0000" stop="20260604023000 +0000">
+		<title>Invincible - Rafael Nadal - EP4</title>
+		<desc>Nobody has dominated a grand slam like Rafael Nadal in the French Open… and in 2017, he achieved what everyone thought impossible, in triumphing for the 10th time in the Roland-Garros stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449160'&amp;EntityType='LinearSchedule'&amp;EntityId='ccac8be6-a3e2-4685-93f2-033e2c1e9fc7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604023000 +0000" stop="20260604030000 +0000">
+		<title>Flashpoint - Nadal/ Federer/ Wie - EP11</title>
+		<desc>The 2006 French Open final between Roger and Rafa marked the beginning of a fine grand slam rivalry and the 2014 US Women's Open marked the passage to adult age of Michelle Wie.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449428'&amp;EntityType='LinearSchedule'&amp;EntityId='9db2c433-d1f4-427f-a571-de8853ae0303'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604030000 +0000" stop="20260604033000 +0000">
+		<title>The Iconic - Tennis - EP26</title>
+		<desc>Serena Williams, Novak Djokovic and Rafael Nadal are all icons of modern tennis.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449376'&amp;EntityType='LinearSchedule'&amp;EntityId='cd444e64-5b76-4b0d-b35e-f89a5f165eca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604033000 +0000" stop="20260604040000 +0000">
+		<title>Top 20 - Rugby Legends - EP15</title>
+		<desc>Discover the rating of the 20 best rugby players of all time: powerful, rapid, enduring and crafty, which of these athletes should be considered as the best?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449383'&amp;EntityType='LinearSchedule'&amp;EntityId='6bce37a2-9fd8-44f2-acb2-64348dfbf722'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604040000 +0000" stop="20260604043000 +0000">
+		<title>Invincible - All Blacks - EP51</title>
+		<desc>By winning the Rugby World Cup in 2011 and 2015, New Zealand's All Blacks have raised the bar very high.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449432'&amp;EntityType='LinearSchedule'&amp;EntityId='6b24fe59-3e05-4f79-8b3b-2da4596203ee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604043000 +0000" stop="20260604050000 +0000">
+		<title>Top 20 - Best Looking Rugby Players - EP49</title>
+		<desc>The TOP 20 is a novel ranking of the news or the champions who are causing a buzz on planet sport! Who are the most beautiful kids on planet Rugby? Come and discover our house selection of the gods of the stadium!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449167'&amp;EntityType='LinearSchedule'&amp;EntityId='4f1da790-49a8-4f62-b16f-387a63e3fedd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604050000 +0000" stop="20260604053000 +0000">
+		<title>Football Stars - Oktoberfest - EP14</title>
+		<desc>Autumn in Bavaria only means one thing: Oktoberfest.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449249'&amp;EntityType='LinearSchedule'&amp;EntityId='f5a9248c-d9f1-4958-9c03-92e65a85f599'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604053000 +0000" stop="20260604060000 +0000">
+		<title>Chill - Snowboard Big Air - EP17</title>
+		<desc>We look at the art of preparing a snowboard for freestyle in the big mountains, and we bring you spectacular action of this kind on skis from Chamonix, with the best moments of the finals of the Freeside World Tour.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449174'&amp;EntityType='LinearSchedule'&amp;EntityId='d767e341-64b8-4dd6-8ee8-87e82e8aad88'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604060000 +0000" stop="20260604063000 +0000">
+		<title>Sports Woman - Winners Are Grinners - EP17</title>
+		<desc>Simone Biles is the most decorated American gymnast and, despite the scandal surrounding the doctor Larry Nasser and US team, she is determined to contest the Tokyo Olympic Games.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449182'&amp;EntityType='LinearSchedule'&amp;EntityId='cc6aca7c-528c-4d44-86c7-fb8f4285e8b0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604063000 +0000" stop="20260604070000 +0000">
+		<title>Invincible - Real Madrid Champions League 3-Peat - EP17</title>
+		<desc>In 2018, Real Madrid entered into history by winning a third consecutive Champions League trophy - and the thirteenth in total.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449268'&amp;EntityType='LinearSchedule'&amp;EntityId='8ca1dcb1-b946-4d55-a039-a3f7993c2eb7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604070000 +0000" stop="20260604073000 +0000">
+		<title>The Iconic - Football - Harry Kane - EP19</title>
+		<desc>Amazing as it may seem, Harry Kane is still seeking his first trophy, Ibrahimovic has won 34 of them, Liverpool recorded a record series in 2020, while Wembley Stadium is the home of football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449188'&amp;EntityType='LinearSchedule'&amp;EntityId='ac3c0fec-8ae5-4857-8764-6b9f15f5a04a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604073000 +0000" stop="20260604080000 +0000">
+		<title>Flashpoint - 1977 Duel in the Sun/ 2006 World Cup - EP16</title>
+		<desc>During the 1977 Open Championship, two golfing legends faced off blow for blow. During the 2006 World Cup final, a footballing legend disgraced himself.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449436'&amp;EntityType='LinearSchedule'&amp;EntityId='bf846071-8b7c-4454-8a50-ddd7e939e3f2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604080000 +0000" stop="20260604083000 +0000">
+		<title>Karen on the Rock - Italy on the Rock - EP17</title>
+		<desc>Karen Minier - the wife of F1 champion David Coulthard - invites you to the heart of the most glamorous events! Meet two Italian champions, motorcycle legend Loris Capirossi and F1 driver Felipe Massa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449440'&amp;EntityType='LinearSchedule'&amp;EntityId='00202688-bb2a-4438-a424-66a56743fe09'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604083000 +0000" stop="20260604090000 +0000">
+		<title>Football’s Greatest Stage - Italy ‘82 - EP8</title>
+		<desc>The politics has been dramatic, the sites superb and the football ahead of its time. The game would never be the same after Italy's victory in the 1982 World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449294'&amp;EntityType='LinearSchedule'&amp;EntityId='8abb7818-9482-428a-a220-629e954ed942'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604090000 +0000" stop="20260604093000 +0000">
+		<title>Heroines - How the Media Impacts Women’s Sports Coverage - EP9</title>
+		<desc>Access to media visibility is one of the biggest challenges for women's sport. The media have the power to choose which stories to tell, fashioning thus the perception of the public and influencing the value of female athletes within society.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449196'&amp;EntityType='LinearSchedule'&amp;EntityId='50cc9f71-2e9e-4eef-9242-f2ffe590ba28'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604093000 +0000" stop="20260604100000 +0000">
+		<title>The Iconic - Tennis - EP4</title>
+		<desc>The Wimbledon 2008 men's final is considered as the greatest of all time… Roland Garros is an emblematic place…. Naomi Osaka is a citizen of world tennis while Novak Djokovic has made history in Australia.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449201'&amp;EntityType='LinearSchedule'&amp;EntityId='c6394a47-9c52-4379-b62b-be7dc3cf3c56'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604100000 +0000" stop="20260604103000 +0000">
+		<title>Invincible - Rafael Nadal - EP4</title>
+		<desc>Nobody has dominated a grand slam like Rafael Nadal in the French Open… and in 2017, he achieved what everyone thought impossible, in triumphing for the 10th time in the Roland-Garros stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449338'&amp;EntityType='LinearSchedule'&amp;EntityId='2d17398e-7949-4820-8167-13e6ff2c31bb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604103000 +0000" stop="20260604110000 +0000">
+		<title>Football Stars - Gianluigi Donnarumma - EP15</title>
+		<desc>Gianluigi Donnarumma's progress fascinates us.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449256'&amp;EntityType='LinearSchedule'&amp;EntityId='ab2d2759-57f2-487d-90b8-f2cc758503ef'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604110000 +0000" stop="20260604113000 +0000">
+		<title>Chill - Nescafé Champs - EP18</title>
+		<desc>Chlll joins some of the best free skiers on some of the most difficult terrains of the planet. And in Leysin, it's the five star snowboard event, the legendary Nescafe Champs.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449208'&amp;EntityType='LinearSchedule'&amp;EntityId='63367552-8dfd-40ce-8d4b-652bf38776fe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604113000 +0000" stop="20260604120000 +0000">
+		<title>Sports Woman - Willpower - EP18</title>
+		<desc>In this edition of Sportswoman, we look at the athletes with the most desire.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449302'&amp;EntityType='LinearSchedule'&amp;EntityId='6d8eb6c4-de36-4fae-8d94-e01b28096c50'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604120000 +0000" stop="20260604123000 +0000">
+		<title>Invincible - Inbee Park - EP18</title>
+		<desc>No player in the history of women's golf has experienced the trajectory of Inbee Park from 2012 onwards, with notably three consecutive victories in major tournaments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449309'&amp;EntityType='LinearSchedule'&amp;EntityId='59362813-c4be-4820-9fcd-9d7f0d3d8a84'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604123000 +0000" stop="20260604130000 +0000">
+		<title>The Iconic - Football - Sam Kerr - EP20</title>
+		<desc>Sam Kerr is the emblematic figure of women's football in Australia, Mo Salah's EPL success has had a huge impact in Egypt, while the Champion's League is the supreme reward for a football club.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449396'&amp;EntityType='LinearSchedule'&amp;EntityId='bd3fd890-35e6-409f-8c46-abb7e74f4714'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604130000 +0000" stop="20260604133000 +0000">
+		<title>Flashpoint - Shergar/ Euro 2016 - EP10</title>
+		<desc>The Derby won by Shergar and his terrible fate, as well as Eder's victorious goal for Portugal during Euro 2016.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449317'&amp;EntityType='LinearSchedule'&amp;EntityId='3043049f-f7a9-42b1-8ea6-9d8dfd895de8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604133000 +0000" stop="20260604140000 +0000">
+		<title>Flashpoint - Borg &amp; Mcenroe/ Tyson &amp; Holyfield - EP12</title>
+		<desc>Bjorn Borg and John McEnroe have set new standards in men's tennis, while Mike Tyson and Evander Holyfield have reached new summits in heavyweight boxing. These two rivalries have created historic tensions.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449325'&amp;EntityType='LinearSchedule'&amp;EntityId='a51210b3-f2c8-4d77-9161-de2f344d0248'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604140000 +0000" stop="20260604143000 +0000">
+		<title>Flashpoint - Michael Jordan/ Agnes Keliti/ India 1983 - EP14</title>
+		<desc>Michael Jordan danced for the last time for the Chicago Bulls in 1998. Agnes Keleti dominated the Melbourne Olympic Games in 1956. And India stunned the world by carrying off the cricketing World Cup in 1983.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449261'&amp;EntityType='LinearSchedule'&amp;EntityId='26337fd4-2c71-40aa-887e-3b01d74bb142'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604143000 +0000" stop="20260604150000 +0000">
+		<title>Flashpoint - Hingis vs Graf French Open - EP6</title>
+		<desc>The 1999 French Open final between Martina Hingis and Steffi Graf and Michael Schumacher's 1995 season with Benetton have marked the history of sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449332'&amp;EntityType='LinearSchedule'&amp;EntityId='4dd89d74-1c34-4976-9638-2be189156349'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604150000 +0000" stop="20260604153000 +0000">
+		<title>Invincible - Rafael Nadal - EP4</title>
+		<desc>Nobody has dominated a grand slam like Rafael Nadal in the French Open… and in 2017, he achieved what everyone thought impossible, in triumphing for the 10th time in the Roland-Garros stadium.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449390'&amp;EntityType='LinearSchedule'&amp;EntityId='21c85fb9-0388-402e-a2e5-0acb22347759'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604153000 +0000" stop="20260604160000 +0000">
+		<title>Flashpoint - Griffith-Joyner / Djokovich - EP38</title>
+		<desc>The flamboyant Flo-Jo opens the way to the Seoul Olympic Games in 1988 and Novak Djokovic jumps for joy at the French Open in 2023.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449216'&amp;EntityType='LinearSchedule'&amp;EntityId='95e9764b-3272-44ab-b15e-b0b74973e162'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260604160000 +0000" stop="20260604163000 +0000">
+		<title>Football Stars - Media Darlings - EP16</title>
+		<desc>Footballing media's biggest darlings.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14467609'&amp;EntityType='LinearSchedule'&amp;EntityId='6876a825-8ed2-4fd1-bc3a-f9842b62f152'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603163000 +0000" stop="20260603170000 +0000">
+		<title>Shaq's Garage - My Frozen Friend - EP113</title>
+		<desc>Gronk runs into the Abominable Snowman.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449444'&amp;EntityType='LinearSchedule'&amp;EntityId='e1c41a4e-be3d-491d-aef9-d436276f1d23'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603170000 +0000" stop="20260603173000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep5 - EP105</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449600'&amp;EntityType='LinearSchedule'&amp;EntityId='0736f544-b80b-4506-89ca-1043c14715df'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603173000 +0000" stop="20260603180000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep5 - EP5</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449544'&amp;EntityType='LinearSchedule'&amp;EntityId='4f6baa95-f38c-4a27-ad72-8e2a265bd23c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603180000 +0000" stop="20260603183000 +0000">
+		<title>Kids' Planet - Behaviors at School - EP103</title>
+		<desc>In this episode of Kids' Planet, Nova will invite the children to a new expedition, this time they will leave for school. Together, they will discover how they should behave in this space that is so important for their development. The children will also learn about their favourite part of the day: recess!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449548'&amp;EntityType='LinearSchedule'&amp;EntityId='f0f1cb0c-85ae-4496-8e13-3d5bbdf15120'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603183000 +0000" stop="20260603190500 +0000">
+		<title>Kids' Planet - Tolerance - EP114</title>
+		<desc>In this episode, we will discover that tolerance is about living in harmony, accepting, and respecting the tastes of other people, as well as helping those who need it without expecting to receive something in return. We are all different and that makes the world so special, that's why you have to be supportive and show solidarity for others.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449604'&amp;EntityType='LinearSchedule'&amp;EntityId='2a69eba4-9130-4923-a255-538c29491a9d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603190500 +0000" stop="20260603193000 +0000">
+		<title>Mellodees - Rock A Bye Baby - EP2</title>
+		<desc>Dee dreams of a magical carpet ride in the clouds with his favorite teddy bear. Will you join them on this adventure?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449448'&amp;EntityType='LinearSchedule'&amp;EntityId='f2bf9369-261a-4da4-85ce-739a85ee5b6f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603193000 +0000" stop="20260603200000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep7 - EP107</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449552'&amp;EntityType='LinearSchedule'&amp;EntityId='9b9aa2a7-f4a7-450f-8f31-8c4dcaed297e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603200000 +0000" stop="20260603203000 +0000">
+		<title>Giselle and the Green Team - The Case of the Invasive Vector - EP113</title>
+		<desc>Gisele and the Green Team stop Nick Slick from sending tires infested with mosquitoes to Europe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449508'&amp;EntityType='LinearSchedule'&amp;EntityId='09c1b819-8ddd-4a9d-b78e-cb8c6c3a39e4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603203000 +0000" stop="20260603210000 +0000">
+		<title>Shaq's Garage - Night Beat - EP114</title>
+		<desc>Tibbs tries to be like Officer Cool, her favourite character from the TV series "Night Beat."</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449612'&amp;EntityType='LinearSchedule'&amp;EntityId='cf046fbf-8c50-41dd-aa42-3007adc665d0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603210000 +0000" stop="20260603213000 +0000">
+		<title>Thomas Edison's Secret Lab - Nicky’s Compass Goes South / A Gem of a Deal - EP101</title>
+		<desc>When the SECRET LAB KIDS head off to rescue some stranded hikers with the aid of Nicky’s cell phone compass her battery fizzles out and the team must return to the lab and build a conventional compass</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449496'&amp;EntityType='LinearSchedule'&amp;EntityId='bc33ada7-b687-41c7-9d19-9c6e6816307c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603213000 +0000" stop="20260603220000 +0000">
+		<title>Mellodees - Jingle Bells - EP18</title>
+		<desc>Is that Santa Claus I see? Come join the fun and help Santa deliver presents!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449624'&amp;EntityType='LinearSchedule'&amp;EntityId='5c9b9a9a-92f0-44c0-aaa1-b5658cf01cda'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603220000 +0000" stop="20260603223000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep8 - EP108</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449556'&amp;EntityType='LinearSchedule'&amp;EntityId='cfce0dff-004d-4b49-a036-f0415a897249'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603223000 +0000" stop="20260603230000 +0000">
+		<title>Shaq's Garage - My Frozen Friend - EP113</title>
+		<desc>Gronk runs into the Abominable Snowman.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449560'&amp;EntityType='LinearSchedule'&amp;EntityId='da1be72b-15c9-4b7e-b6f7-b556348ea11a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603230000 +0000" stop="20260603233000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep5 - EP105</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449452'&amp;EntityType='LinearSchedule'&amp;EntityId='142354e6-1c93-45d5-a585-5a279589d105'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260603233000 +0000" stop="20260604000000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep5 - EP5</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449564'&amp;EntityType='LinearSchedule'&amp;EntityId='02549888-22fb-408f-8b2c-520f4ce2e4a5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604000000 +0000" stop="20260604003000 +0000">
+		<title>Kids' Planet - Behaviors at School - EP103</title>
+		<desc>In this episode of Kids' Planet, Nova will invite the children to a new expedition, this time they will leave for school. Together, they will discover how they should behave in this space that is so important for their development. The children will also learn about their favourite part of the day: recess!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449500'&amp;EntityType='LinearSchedule'&amp;EntityId='b985d5ac-60be-44ee-a8f3-adca752fd7c2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604003000 +0000" stop="20260604010500 +0000">
+		<title>Kids' Planet - Tolerance - EP114</title>
+		<desc>In this episode, we will discover that tolerance is about living in harmony, accepting, and respecting the tastes of other people, as well as helping those who need it without expecting to receive something in return. We are all different and that makes the world so special, that's why you have to be supportive and show solidarity for others.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449634'&amp;EntityType='LinearSchedule'&amp;EntityId='056c7ad3-2fed-44a2-95cb-0a4b11143c2d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604010500 +0000" stop="20260604013000 +0000">
+		<title>Mellodees - Rock A Bye Baby - EP2</title>
+		<desc>Dee dreams of a magical carpet ride in the clouds with his favorite teddy bear. Will you join them on this adventure?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449646'&amp;EntityType='LinearSchedule'&amp;EntityId='510d0d6f-0f44-4ebd-85ad-bce077aa77b3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604013000 +0000" stop="20260604020000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep7 - EP107</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449456'&amp;EntityType='LinearSchedule'&amp;EntityId='4ecc9efa-3f7b-4d75-8ef9-bb879bce64cc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604020000 +0000" stop="20260604023000 +0000">
+		<title>Giselle and the Green Team - The Case of the Invasive Vector - EP113</title>
+		<desc>Gisele and the Green Team stop Nick Slick from sending tires infested with mosquitoes to Europe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449536'&amp;EntityType='LinearSchedule'&amp;EntityId='49ccacc7-5e72-4a97-9a11-478c03787e0b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604023000 +0000" stop="20260604030000 +0000">
+		<title>Shaq's Garage - Night Beat - EP114</title>
+		<desc>Tibbs tries to be like Officer Cool, her favourite character from the TV series "Night Beat."</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449658'&amp;EntityType='LinearSchedule'&amp;EntityId='71c0b0c6-2d8e-4e35-84c2-62364058b9fc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604030000 +0000" stop="20260604033000 +0000">
+		<title>Thomas Edison's Secret Lab - Nicky’s Compass Goes South / A Gem of a Deal - EP101</title>
+		<desc>When the SECRET LAB KIDS head off to rescue some stranded hikers with the aid of Nicky’s cell phone compass her battery fizzles out and the team must return to the lab and build a conventional compass</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449460'&amp;EntityType='LinearSchedule'&amp;EntityId='70b4566a-28d1-4939-b50d-14acc9eaa068'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604033000 +0000" stop="20260604040000 +0000">
+		<title>Mellodees - Jingle Bells - EP18</title>
+		<desc>Is that Santa Claus I see? Come join the fun and help Santa deliver presents!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449512'&amp;EntityType='LinearSchedule'&amp;EntityId='03a1fa06-b3d6-4544-b265-fa1d37df26fa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604040000 +0000" stop="20260604043000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep8 - EP108</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449464'&amp;EntityType='LinearSchedule'&amp;EntityId='76855810-92a6-4d63-af5d-8e451bee8fef'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604043000 +0000" stop="20260604050000 +0000">
+		<title>Shaq's Garage - My Frozen Friend - EP113</title>
+		<desc>Gronk runs into the Abominable Snowman.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449468'&amp;EntityType='LinearSchedule'&amp;EntityId='040772c1-143a-4517-9d21-bde18dd7979d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604050000 +0000" stop="20260604053000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep5 - EP105</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449540'&amp;EntityType='LinearSchedule'&amp;EntityId='784ee5c5-248b-44f7-8a44-d2a09511977a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604053000 +0000" stop="20260604060000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep5 - EP5</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449516'&amp;EntityType='LinearSchedule'&amp;EntityId='b9b4ce0c-3eed-4a8e-94ec-ead29c738e3a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604060000 +0000" stop="20260604063000 +0000">
+		<title>Kids' Planet - Behaviors at School - EP103</title>
+		<desc>In this episode of Kids' Planet, Nova will invite the children to a new expedition, this time they will leave for school. Together, they will discover how they should behave in this space that is so important for their development. The children will also learn about their favourite part of the day: recess!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449472'&amp;EntityType='LinearSchedule'&amp;EntityId='2a015a8a-2aab-4661-9716-b39dca8ec5b0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604063000 +0000" stop="20260604070500 +0000">
+		<title>Kids' Planet - Tolerance - EP114</title>
+		<desc>In this episode, we will discover that tolerance is about living in harmony, accepting, and respecting the tastes of other people, as well as helping those who need it without expecting to receive something in return. We are all different and that makes the world so special, that's why you have to be supportive and show solidarity for others.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449476'&amp;EntityType='LinearSchedule'&amp;EntityId='233b60cb-2bb2-4f52-930b-d6ec412f7a95'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604070500 +0000" stop="20260604073000 +0000">
+		<title>Mellodees - Rock A Bye Baby - EP2</title>
+		<desc>Dee dreams of a magical carpet ride in the clouds with his favorite teddy bear. Will you join them on this adventure?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449669'&amp;EntityType='LinearSchedule'&amp;EntityId='00978138-6676-4416-a5ad-3c1c5bee141c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604073000 +0000" stop="20260604080000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep7 - EP107</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449480'&amp;EntityType='LinearSchedule'&amp;EntityId='715ed355-8dad-469d-bb49-4725b81d46a1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604080000 +0000" stop="20260604083000 +0000">
+		<title>Giselle and the Green Team - The Case of the Invasive Vector - EP113</title>
+		<desc>Gisele and the Green Team stop Nick Slick from sending tires infested with mosquitoes to Europe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449484'&amp;EntityType='LinearSchedule'&amp;EntityId='8e2da93f-bc9c-40a8-8466-d3fbd371de3d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604083000 +0000" stop="20260604090000 +0000">
+		<title>Shaq's Garage - Night Beat - EP114</title>
+		<desc>Tibbs tries to be like Officer Cool, her favourite character from the TV series "Night Beat."</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449520'&amp;EntityType='LinearSchedule'&amp;EntityId='b8099533-0b0f-461d-b739-fbe54cd77925'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604090000 +0000" stop="20260604093000 +0000">
+		<title>Thomas Edison's Secret Lab - Nicky’s Compass Goes South / A Gem of a Deal - EP101</title>
+		<desc>When the SECRET LAB KIDS head off to rescue some stranded hikers with the aid of Nicky’s cell phone compass her battery fizzles out and the team must return to the lab and build a conventional compass</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449592'&amp;EntityType='LinearSchedule'&amp;EntityId='33713c7e-6086-4da9-8ba2-8b03c85d7457'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604093000 +0000" stop="20260604100000 +0000">
+		<title>Mellodees - Jingle Bells - EP18</title>
+		<desc>Is that Santa Claus I see? Come join the fun and help Santa deliver presents!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449681'&amp;EntityType='LinearSchedule'&amp;EntityId='1b3cbe25-4a8e-4f8e-b389-40d59f2332b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604100000 +0000" stop="20260604103000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep9 - EP109</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449691'&amp;EntityType='LinearSchedule'&amp;EntityId='0549b537-494d-4edf-92c6-3d3a4e8dfa91'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604103000 +0000" stop="20260604110000 +0000">
+		<title>Shaq's Garage - Night Beat - EP114</title>
+		<desc>Tibbs tries to be like Officer Cool, her favourite character from the TV series "Night Beat."</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449568'&amp;EntityType='LinearSchedule'&amp;EntityId='a1fcc0ea-75e2-45f1-8198-06e880a38286'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604110000 +0000" stop="20260604113000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep6 - EP106</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449524'&amp;EntityType='LinearSchedule'&amp;EntityId='b8963448-e95d-4678-8502-1e9236e54633'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604113000 +0000" stop="20260604120000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep6 - EP6</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449572'&amp;EntityType='LinearSchedule'&amp;EntityId='269d6741-ebca-4ee9-abe0-8221b998a5fb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604120000 +0000" stop="20260604123500 +0000">
+		<title>Kids' Planet - Behaving on the Street and Minding Traffic Signs - EP104</title>
+		<desc>Nova will invite children to a new expedition to become super pedestrians. Together, they will discover how they should behave in public spaces or streets. Curious will teach us the correct way to cross the street, know the traffic lights and traffic signals. They will also learn that the car is a very fun place that has rules to follow to enjoy and stay safe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449576'&amp;EntityType='LinearSchedule'&amp;EntityId='597cfcae-994f-443a-bdfa-af992e1f6259'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604123500 +0000" stop="20260604131000 +0000">
+		<title>Kids' Planet - Justice - EP115</title>
+		<desc>In this episode, we will discover that justice is when we are all treated equally, regardless of our differences, and we must give and receive the same attention to other people. Respect is shown by good treatment, complying with the laws to live in peace! We will also understand freedom and how to use it intelligently.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449528'&amp;EntityType='LinearSchedule'&amp;EntityId='0caddea6-7799-4426-82ad-0d0b33b28c32'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604131000 +0000" stop="20260604133000 +0000">
+		<title>Mellodees - Itsy Bitsy Spider - EP3</title>
+		<desc>With a rainstorm approaching, Dee has playtime in his room and makes a new little friend.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449488'&amp;EntityType='LinearSchedule'&amp;EntityId='6b919e11-3638-4471-957b-f81a0722678d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604133000 +0000" stop="20260604140000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep14 - EP114</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449492'&amp;EntityType='LinearSchedule'&amp;EntityId='6d3dfc90-3e32-4877-b2ef-571e7ffa9fee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604140000 +0000" stop="20260604143000 +0000">
+		<title>Giselle and the Green Team - The Case of the Pesticide Pest - EP201</title>
+		<desc>Gisele and her Green Team fight pollution in the Missouri River from pesticides from being dumped.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449532'&amp;EntityType='LinearSchedule'&amp;EntityId='1ea8ef62-7ccd-4b8d-9bee-4ab0837005be'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604143000 +0000" stop="20260604150000 +0000">
+		<title>Shaq's Garage - Attack of the 50 Foot Shaq - EP116</title>
+		<desc>Shaq's friend, Keb, makes Shaq a special gift that's larger than life.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449580'&amp;EntityType='LinearSchedule'&amp;EntityId='eb4a084d-f611-4a0f-8c49-bf2f212f48a5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604150000 +0000" stop="20260604153000 +0000">
+		<title>Thomas Edison's Secret Lab - The Eagle Has Landed / Bee-Gone - EP102</title>
+		<desc>When a power company worker finds an abandoned eagle’s nest precariously perched atop a wind turbine the SECRET LAB KIDS build a homemade rocket to fire a rope up to him so he can lower the nest to safety. / When JD and Kent discover there’s a shortage of beeswax for their surfboards, it leads to the discovery that all the local honeybees have vanished from the beehives.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449584'&amp;EntityType='LinearSchedule'&amp;EntityId='d35582f9-4cd9-4f67-b5fc-82622f3d0186'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604153000 +0000" stop="20260604160000 +0000">
+		<title>Mellodees - We Wish You a Merry Christmas - EP21</title>
+		<desc>It’s time to open presents with Dee and friends! Who’s next</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14449588'&amp;EntityType='LinearSchedule'&amp;EntityId='ab83779b-97ef-445a-9d19-ceea886004c2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260604160000 +0000" stop="20260604163000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep9 - EP109</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14468119'&amp;EntityType='LinearSchedule'&amp;EntityId='860f95b8-604e-4463-a8e4-4305a4f9bed5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
