@@ -24,10 +24,6 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
-	<channel id="98200">
-		<display-name>SPL CH01</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
-	</channel>
 	<channel id="186574">
 		<display-name>Oktolidays</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9467885'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=945&amp;Height=250" />
@@ -95,6 +91,10 @@
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
+	</channel>
+	<channel id="558112">
+		<display-name>W-Sport</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358826'&amp;EntityType='Item'&amp;EntityId='558112'&amp;Width=409&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260601160000 +0000" stop="20260601163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 71</title>
@@ -2751,6 +2751,81 @@
 		<desc>HD Cutz catches up with Emerson Palmieri in France before returning home to meet Wilfred Ndidi and Patson Daka</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14463627'&amp;EntityType='LinearSchedule'&amp;EntityId='788b22be-f895-42e9-a1ac-550fdd03fdda'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="558112" start="20260601160000 +0000" stop="20260601180000 +0000">
+		<title>USL '25/26: F Lexington SC v Carolina Ascent</title>
+		<desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418060'&amp;EntityType='LinearSchedule'&amp;EntityId='2a336dac-b58d-445b-90ea-1838430b8828'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260601180000 +0000" stop="20260601183000 +0000">
+		<title>Heroines (S2): Heroines (S2E01)</title>
+		<desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418069'&amp;EntityType='LinearSchedule'&amp;EntityId='66709b96-7365-4e7b-99fb-bb97a8e0b71b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260601183000 +0000" stop="20260601190000 +0000">
+		<title>Jump Saudi '25 H/L: CSI4 FEI World Cup stage H/L</title>
+		<desc>Jump Saudi 2025 is recognized as one of the major equestrian show jumping events in the world.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418103'&amp;EntityType='LinearSchedule'&amp;EntityId='7c24e58e-24e6-4b02-a91e-1e1b0d0066d6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260601190000 +0000" stop="20260601222000 +0000">
+		<title>Malaga Marathon '25</title>
+		<desc>The Málaga Marathon features a scenic, mostly flat course through the historic city centre and along the Mediterranean, ideal for personal bests in mild December weather.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418176'&amp;EntityType='LinearSchedule'&amp;EntityId='9b58dada-2a5f-4a64-b553-833cb8c5ef55'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260601222000 +0000" stop="20260601225000 +0000">
+		<title>Sports Woman '24</title>
+		<desc>A series of programs highlighting the achievements and challenges facing Women in sport and highlighting the journeys endured on the path to success!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418112'&amp;EntityType='LinearSchedule'&amp;EntityId='8d8fc1c4-802a-4dc2-ac79-6749d16820be'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260601225000 +0000" stop="20260602013000 +0000">
+		<title>Dutch Masters Grand Slam '26</title>
+		<desc>The Dutch Masters is one of the most highly rates Show Jumping events in the world feature the cream of the best horses and riders from the Equestrian universe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418140'&amp;EntityType='LinearSchedule'&amp;EntityId='7e8ce82a-9a71-4b41-bfc3-f19200855d57'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602013000 +0000" stop="20260602020000 +0000">
+		<title>Spartan Race '25: West Virginia (USA)</title>
+		<desc>At the gateway to New River Gorge and just 30 minutes from Summersville Lake, this venue offers unmatched access to Appalachia's wild beauty and ultimate challenges.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418086'&amp;EntityType='LinearSchedule'&amp;EntityId='4da209c0-4af2-48df-b737-974a4097c753'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602020000 +0000" stop="20260602030000 +0000">
+		<title>Tour Down Under '26: Tour Down Under '26 H/L show</title>
+		<desc>An annual Cycling event in Australia that features the elite teams from around the world. Three days of action to see who gets their campaign off to the perfect start.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418076'&amp;EntityType='LinearSchedule'&amp;EntityId='7ef8e06c-15f5-47a0-9e60-0fc95819f0b2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602030000 +0000" stop="20260602040000 +0000">
+		<title>Paris Marathon 2026 '26 H/L</title>
+		<desc>The Paris Marathon on 12 April 2026 brings 55,000+ runners to the 42.195 km race. Starting at the Champs-Élysées, the scenic course passes the Louvre and the Eiffel Tower.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418148'&amp;EntityType='LinearSchedule'&amp;EntityId='afd560c9-df5f-4e54-8ad9-bdf2542fda44'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602040000 +0000" stop="20260602060000 +0000">
+		<title>USL '25/26: Brooklyn FC v Tampa Bay Sun</title>
+		<desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Brooklyn FC v Tampa Bay Sun FC.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418120'&amp;EntityType='LinearSchedule'&amp;EntityId='a801c183-dcd7-428f-98e0-840040636968'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602060000 +0000" stop="20260602080000 +0000">
+		<title>Serie A Women 25/26: Inter v Juventus</title>
+		<desc>Serie A Women is the highest league of women's football in Italy. Watch Inter v Juventus.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418186'&amp;EntityType='LinearSchedule'&amp;EntityId='345d057c-ab0a-45dd-8d20-644a8dc0fe8b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602080000 +0000" stop="20260602093000 +0000">
+		<title>Jump Saudi '25: CSI4 World Cup Qualification</title>
+		<desc>Jump Saudi 2025 is an international equestrian show jumping championship held in Saudi Arabia. It brings together some of the best riders and horses from around the world.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418129'&amp;EntityType='LinearSchedule'&amp;EntityId='0fecfbe0-b9ac-488a-a473-7adb1f9b18cb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602093000 +0000" stop="20260602100000 +0000">
+		<title>Heroines (S1): Heroines (S1E02)</title>
+		<desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418094'&amp;EntityType='LinearSchedule'&amp;EntityId='e80c5ebd-ae15-4b31-b7f7-e88a4e749ac8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602100000 +0000" stop="20260602145500 +0000">
+		<title>Tour Down Under '26: Stage 3 Norwood to Campbelltown</title>
+		<desc>An annual Cycling event in Australia that features the elite teams from around the world. Three days of action to see who gets their campaign off to the perfect start.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418158'&amp;EntityType='LinearSchedule'&amp;EntityId='ae49546b-a4b4-40f0-9508-ee7427ff1e16'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602145500 +0000" stop="20260602162000 +0000">
+		<title>Netball Super League '26: Forest v Panthers</title>
+		<desc>The Netball Super League features the 8 Top Netball franchises from across the United Kingdom. Watch Forest v Panthers.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14418167'&amp;EntityType='LinearSchedule'&amp;EntityId='e2ee4a14-b11c-4dec-a189-438eff2933dd'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260602163000 +0000" stop="20260602173000 +0000">
 		<title>Sullivan's Crossing S1 - EP 2</title>
 		<desc>Maggie tries to reconnect with Sully while awaiting news from home. Cal enlists Maggie's help with an injured resident, allowing her to see a new side to him. Sydney convinces Maggie to let loose at karaoke, after which Cal escorts Maggie home only to find a surprise visitor waiting for her.</desc>
@@ -5280,5 +5355,100 @@
 		<title>Brazil v Argentina | Final | FIFA Futsal World Cup Uzbekistan 2024™ | Full Match Replay</title>
 		<desc>Watch the match between Brazil and Argentina played at Humo Arena, Tashkent.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14503206'&amp;EntityType='LinearSchedule'&amp;EntityId='36843ca5-6675-441c-85e2-9da1eff2d26a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602162000 +0000" stop="20260602163500 +0000">
+		<title>WCS '26 H/L: WCS '26 Wujiang H/L 1</title>
+		<desc>Events are held worldwide, where climbers progress through qualification, semifinal and final rounds, earning points toward season rankings and promoting global climbing under.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14478265'&amp;EntityType='LinearSchedule'&amp;EntityId='3add9cd2-8751-48ce-ae0d-a335ef79f883'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602163500 +0000" stop="20260602180000 +0000">
+		<title>Netball Super League '26: Dragons v Thunder</title>
+		<desc>The Netball Super League features the 8 Top Netball franchises from across the United Kingdom. Watch Dragons v Thunder.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14478269'&amp;EntityType='LinearSchedule'&amp;EntityId='7053cc53-a22b-46b5-86dc-533ee4388362'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602180000 +0000" stop="20260602183000 +0000">
+		<title>Heroines (S2): Heroines (S2E02)</title>
+		<desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432489'&amp;EntityType='LinearSchedule'&amp;EntityId='111a656b-5581-42da-9356-7b0705789edc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602183000 +0000" stop="20260602203000 +0000">
+		<title>USL '25/26: Brooklyn FC v Tampa Bay Sun</title>
+		<desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Brooklyn FC v Tampa Bay Sun FC.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432405'&amp;EntityType='LinearSchedule'&amp;EntityId='512e7617-b350-46da-b2a2-976ae1f63e33'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602203000 +0000" stop="20260602223000 +0000">
+		<title>Serie A Women 25/26: Lazio v Roma</title>
+		<desc>Serie A Women is the highest league of women's football in Italy. Watch Lazio v Roma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432409'&amp;EntityType='LinearSchedule'&amp;EntityId='6cae2b34-e62f-4ba1-ab1d-dfdd81e9c059'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260602223000 +0000" stop="20260603000000 +0000">
+		<title>Jump Saudi '25: CSI4 World Cup Qualification</title>
+		<desc>Jump Saudi 2025 is an international equestrian show jumping championship held in Saudi Arabia. It brings together some of the best riders and horses from around the world.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432534'&amp;EntityType='LinearSchedule'&amp;EntityId='df815c32-39fd-4077-8595-4fa70987fe9a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603000000 +0000" stop="20260603013000 +0000">
+		<title>Malaysian NSL '26: Terengganu Marvels v Perak Phoe</title>
+		<desc>The Netball Super League (NSL) is Malaysia's top netball competition with eight teams competing throughout the season.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432499'&amp;EntityType='LinearSchedule'&amp;EntityId='dfae7a76-cd5a-440c-bf80-1347766a01f9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603013000 +0000" stop="20260603020000 +0000">
+		<title>Spartan Race '25: Mammoth (USA)</title>
+		<desc>Get ready for the first-ever Spartan 10K Super World Championship at Mammoth Mountain Ski Area, California.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432415'&amp;EntityType='LinearSchedule'&amp;EntityId='5dd8af24-16d0-4940-b1f3-80d0d6ec56be'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603020000 +0000" stop="20260603040000 +0000">
+		<title>Serie A Women 25/26: Roma v Lazio</title>
+		<desc>Serie A Women is the highest league of women's football in Italy. Watch Roma v Lazio.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432560'&amp;EntityType='LinearSchedule'&amp;EntityId='5ccc900d-8a06-4c52-92b1-616444d2b58c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603040000 +0000" stop="20260603043000 +0000">
+		<title>Heroines (S1): Heroines (S1E03)</title>
+		<desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432473'&amp;EntityType='LinearSchedule'&amp;EntityId='6ce57a95-f610-4610-af63-3840bacdae72'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603043000 +0000" stop="20260603063000 +0000">
+		<title>Serie A Women 25/26: Lazio v Fiorentina</title>
+		<desc>Serie A Women is the highest league of women's football in Italy. Watch Lazio v Fiorentina.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432463'&amp;EntityType='LinearSchedule'&amp;EntityId='b3c2e5a4-b93d-45cb-b334-a31bb24cb4af'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603063000 +0000" stop="20260603083000 +0000">
+		<title>USL '25/26: Ft. Lauderdale v Carolina Ascent</title>
+		<desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Fort Lauderdale United FC v Carolina Ascent FC.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432481'&amp;EntityType='LinearSchedule'&amp;EntityId='b12ef604-c205-45fa-9d98-1cb1ee831660'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603083000 +0000" stop="20260603093000 +0000">
+		<title>MP '26: Le Marathon des Sables, MP '26</title>
+		<desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432547'&amp;EntityType='LinearSchedule'&amp;EntityId='bc141b27-6100-4d41-8242-5a4333863353'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603093000 +0000" stop="20260603113000 +0000">
+		<title>Coppa Italia Femminile '25/26: S/F 2 Inter v Roma</title>
+		<desc>The Coppa Italia Femminile '25/26 edition is the fifty-fourth in the history of the Italian women's football Cup. Watch Inter v Roma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432421'&amp;EntityType='LinearSchedule'&amp;EntityId='2fdadafe-823b-45e4-9f07-f867709157d2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603113000 +0000" stop="20260603120000 +0000">
+		<title>Heroines (S1): Heroines (S1E04)</title>
+		<desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432511'&amp;EntityType='LinearSchedule'&amp;EntityId='28a0e54c-b9d2-47a6-8733-5d1fc505371b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603120000 +0000" stop="20260603133000 +0000">
+		<title>Netball Super League '26: Thunder v Lightning</title>
+		<desc>The Netball Super League features the 8 Top Netball franchises from across the United Kingdom. Watch Thunder v Lightning.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432521'&amp;EntityType='LinearSchedule'&amp;EntityId='ffdb0c12-d0fb-4520-8fca-6281f270e7ee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603133000 +0000" stop="20260603150000 +0000">
+		<title>Netball Super League '26: Forest v Pulse</title>
+		<desc>The Netball Super League features the 8 Top Netball franchises from across the United Kingdom. Watch Forest v Pulse.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432425'&amp;EntityType='LinearSchedule'&amp;EntityId='7f87d323-9458-4306-94c8-37e40ac75b99'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603150000 +0000" stop="20260603153000 +0000">
+		<title>MP Series '25: Trans Sahara Marathon '25 H/L</title>
+		<desc>Sand, heat, and grit: the Trans Sahara Marathon pushes runners to the limit in one of Earth's most unforgiving environments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432433'&amp;EntityType='LinearSchedule'&amp;EntityId='fff591be-2e40-42f4-bb96-f4960989d592'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260603153000 +0000" stop="20260603163000 +0000">
+		<title>Paris Marathon 2026 '26 H/L</title>
+		<desc>The Paris Marathon on 12 April 2026 brings 55,000+ runners to the 42.195 km race. Starting at the Champs-Élysées, the scenic course passes the Louvre and the Eiffel Tower.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432442'&amp;EntityType='LinearSchedule'&amp;EntityId='724a005e-1bfb-41e1-b2af-46ea94e41326'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
