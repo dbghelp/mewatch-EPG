@@ -28,6 +28,10 @@
 		<display-name>Oktolidays</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9467885'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=945&amp;Height=250" />
 	</channel>
+	<channel id="558207">
+		<display-name>FIFA World Cup CH01</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14562993'&amp;EntityType='Item'&amp;EntityId='558207'&amp;Width=1000&amp;Height=260" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -91,10 +95,6 @@
 	<channel id="556893">
 		<display-name>Kartoon Channel!</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358834'&amp;EntityType='Item'&amp;EntityId='556893'&amp;Width=350&amp;Height=250" />
-	</channel>
-	<channel id="556877">
-		<display-name>TG Junior</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358838'&amp;EntityType='Item'&amp;EntityId='556877'&amp;Width=264&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260602160000 +0000" stop="20260602163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 72</title>
@@ -1200,6 +1200,21 @@
 		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Shasha and Milo/Piripenguins/The Adventures of Titou and Dao</title>
 		<desc>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Shasha and Milo/Piripenguins/The Adventures of Titou and Dao</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14431518'&amp;EntityType='LinearSchedule'&amp;EntityId='5376fb5f-be3a-46bf-8701-6dc094c600f3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558207" start="20260602160000 +0000" stop="20260603040000 +0000">
+		<title>No program available</title>
+		<desc>No program available</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14564340'&amp;EntityType='LinearSchedule'&amp;EntityId='f8040fd5-153f-4f90-9a84-13091ef7282d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558207" start="20260603040000 +0000" stop="20260603160000 +0000">
+		<title>No program available</title>
+		<desc>No program available</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14564344'&amp;EntityType='LinearSchedule'&amp;EntityId='23464ab1-7532-4361-a8a7-85d725bc33dd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558207" start="20260603160000 +0000" stop="20260604040000 +0000">
+		<title>No program available</title>
+		<desc>No program available</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14564996'&amp;EntityType='LinearSchedule'&amp;EntityId='114ed774-2454-4735-959a-15f69729f92d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260602160000 +0000" stop="20260603110000 +0000">
 		<title>No programme available now. Next broadcast on 3rd June, Wednesday 7pm. The Wonder Shop Home Shopping</title>
@@ -3301,11 +3316,6 @@
 		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449504'&amp;EntityType='LinearSchedule'&amp;EntityId='8fc1b8c5-a82e-48f6-8732-fc83ebc8cb68'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="556877" start="20260602160000 +0000" stop="20260603160000 +0000">
-		<title>No info available yet</title>
-		<desc>No info available yet</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14432694'&amp;EntityType='LinearSchedule'&amp;EntityId='9c51dac7-9399-490f-86bb-33315c34734f'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260603163000 +0000" stop="20260603173000 +0000">
 		<title>Sullivan's Crossing S1 - EP 3</title>
 		<desc>Sydney attempts to cheer up Maggie after she suffers a setback back at home. Frank and Edna help Sully, with the annual land blessing, but the festivities end early after a camper goes missing. Maggie and Cal work together with the search and rescue team unaware that another life hangs in the balance.</desc>
@@ -4395,6 +4405,16 @@
 		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Shasha and Milo/Piripenguins/The Adventures of Titou and Dao</title>
 		<desc>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Shasha and Milo/Piripenguins/The Adventures of Titou and Dao</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14449072'&amp;EntityType='LinearSchedule'&amp;EntityId='76e04daa-6cd9-4845-9d2f-197fb97841d8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558207" start="20260604040000 +0000" stop="20260604160000 +0000">
+		<title>No program available</title>
+		<desc>No program available</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14565003'&amp;EntityType='LinearSchedule'&amp;EntityId='c9fe15e1-78b7-42a3-b33a-35e57b2cbfaf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558207" start="20260604160000 +0000" stop="20260605040000 +0000">
+		<title>No program available</title>
+		<desc>No program available</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14565016'&amp;EntityType='LinearSchedule'&amp;EntityId='2a78cbf4-d0dd-4f47-aa48-63be2ae4e46f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260604110000 +0000" stop="20260604111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - OTO Anyway Back Massage Cushion</title>
