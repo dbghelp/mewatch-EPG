@@ -28,6 +28,10 @@
 		<display-name>FIFA World Cup CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14582488'&amp;EntityType='Item'&amp;EntityId='558207'&amp;Width=350&amp;Height=250" />
 	</channel>
+	<channel id="777317">
+		<display-name>FIFA World Cup CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14582496'&amp;EntityType='Item'&amp;EntityId='777317'&amp;Width=350&amp;Height=250" />
+	</channel>
 	<channel id="186574">
 		<display-name>Oktolidays</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9467885'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=945&amp;Height=250" />
@@ -91,10 +95,6 @@
 	<channel id="558279">
 		<display-name>Vijay Takkar</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13200785'&amp;EntityType='Item'&amp;EntityId='558279'&amp;Width=157&amp;Height=250" />
-	</channel>
-	<channel id="557763">
-		<display-name>FIFA+</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260622160000 +0000" stop="20260622163100 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 83</title>
@@ -1080,6 +1080,21 @@
 		<title>(Live) FIFA World Cup 2026 - Pre-Show - Group Stage: Portugal v Uzbekistan</title>
 		<desc>Pre-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14798352'&amp;EntityType='LinearSchedule'&amp;EntityId='46c615d4-b93e-49e8-a700-ed5abeebb246'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="777317" start="20260622160000 +0000" stop="20260623040000 +0000">
+		<title>Programme not available.</title>
+		<desc>Programme not available.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14777257'&amp;EntityType='LinearSchedule'&amp;EntityId='b74dc210-829e-41b3-bb2f-2ec5a88a71e3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="777317" start="20260623040000 +0000" stop="20260623160000 +0000">
+		<title>Programme not available.</title>
+		<desc>Programme not available.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14777265'&amp;EntityType='LinearSchedule'&amp;EntityId='039187e6-6895-4be3-84c1-a64ca4f502ec'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="777317" start="20260623160000 +0000" stop="20260624040000 +0000">
+		<title>Programme not available.</title>
+		<desc>Programme not available.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14798658'&amp;EntityType='LinearSchedule'&amp;EntityId='d65ff85d-cbb7-4d26-be84-7aaef1f0aea4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="186574" start="20260622150019 +0000" stop="20260622160001 +0000">
 		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Shasha and Milo/Piripenguins/The Adventures of Titou and Dao</title>
@@ -3031,106 +3046,6 @@
 		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14851779'&amp;EntityType='LinearSchedule'&amp;EntityId='7076a1da-19cd-476a-8a81-4bb694fbf76a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="557763" start="20260622144508 +0000" stop="20260622163553 +0000">
-		<title>Colombia v Switzerland | Semi-finals | FIFA U-17 World Cup Nigeria 2009™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Colombia and Switzerland played at Teslim Balogun Stadium, Lagos.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14815312'&amp;EntityType='LinearSchedule'&amp;EntityId='b59a00fe-7b9c-4815-a6d1-e441d8ba262a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260622163553 +0000" stop="20260622170443 +0000">
-		<title>France's Triumph in Russia 2018™</title>
-		<desc>Relive France's victories against Argentina and in the final against Croatia in the 2018 FIFA World Cup™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14815476'&amp;EntityType='LinearSchedule'&amp;EntityId='bc20133b-a6b0-4c74-91d0-784283d3c6cd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260622170443 +0000" stop="20260622185655 +0000">
-		<title>Uruguay v Mexico | Final | FIFA U-17 World Cup Mexico 2011™ | Full Match Replay</title>
-		<desc>Watch the Full Match Replay between Uruguay and Mexico.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14815450'&amp;EntityType='LinearSchedule'&amp;EntityId='6d62be9b-296e-4015-a8e8-b38ff41d74cc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260622185655 +0000" stop="20260622191621 +0000">
-		<title>Messi at The Best</title>
-		<desc>Explore each of the ceremonies where Messi was crowned as the FIFA Ballon d'Or and The Best award winner.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14815480'&amp;EntityType='LinearSchedule'&amp;EntityId='f791359d-461a-4747-b0e5-2e638414a7d5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260622191621 +0000" stop="20260622210509 +0000">
-		<title>Nigeria v Mexico | Final | FIFA U-17 World Cup UAE 2013™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Nigeria and Mexico played at Mohammed Bin Zayed Stadium.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14815500'&amp;EntityType='LinearSchedule'&amp;EntityId='124207a5-69ff-4852-a6ff-79edf70e316c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260622210509 +0000" stop="20260622213639 +0000">
-		<title>Unforgettable Belgium in Russia 2018™</title>
-		<desc>Relive Belgium's victories against Japan and Brazil in the 2018 FIFA World Cup™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14815468'&amp;EntityType='LinearSchedule'&amp;EntityId='2bd44852-ac23-482d-9de6-5ed7282230b7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260622213639 +0000" stop="20260622215402 +0000">
-		<title>Rising Star: Messi at U20 FIFA World Cup 2005™</title>
-		<desc>Witness the beginnings of Lionel Messi in FIFA competitions when he was crowned in the Netherlands 2005™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14815458'&amp;EntityType='LinearSchedule'&amp;EntityId='c75f1afe-5c28-4e6d-9ea5-25f2b43a7dc3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260622215402 +0000" stop="20260622234721 +0000">
-		<title>Mali v Nigeria | Final | FIFA U-17 World Cup Chile 2015™ | Full Match Replay</title>
-		<desc>Watch the full match replay from the final match between Mali and Nigeria played at Estadio Sausalito.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14815488'&amp;EntityType='LinearSchedule'&amp;EntityId='b7aa7e5d-a13c-45ba-bbfb-0df14f3c17ce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260622234721 +0000" stop="20260623013713 +0000">
-		<title>Nigeria v Germany | Semi-finals | FIFA U-17 World Cup Korea 2007™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Nigeria and Germany played at Suwon Sports Complex, Suwon-si.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14815494'&amp;EntityType='LinearSchedule'&amp;EntityId='12a8e328-1222-45b6-acb4-52648493a24d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623013713 +0000" stop="20260623033132 +0000">
-		<title>Brazil v England | Semi-finals | FIFA U-17 World Cup India 2017™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and England played at VYBK, Kolkata.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14834955'&amp;EntityType='LinearSchedule'&amp;EntityId='b0358507-2af1-48c7-b0eb-e8725fab37d9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623033132 +0000" stop="20260623034856 +0000">
-		<title>Sideline Drama: all Messi's Goal From the Bench</title>
-		<desc>Discover how coaches enjoy and suffer Lionel Messi's goals in the FIFA World Cup™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835059'&amp;EntityType='LinearSchedule'&amp;EntityId='852ff5d1-7d70-4e1b-85ca-bc2a78790750'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623034856 +0000" stop="20260623054426 +0000">
-		<title>Mexico v Brazil | Final | FIFA U-17 World Cup Brazil 2019™ | Full Match Replay</title>
-		<desc>Watch the Full Match Replay from the match between Mexico and Brazil played at Estadio Bezerrão.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835104'&amp;EntityType='LinearSchedule'&amp;EntityId='dd01c9cb-1e8b-4032-968f-dc64d1549ebd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623054426 +0000" stop="20260623061615 +0000">
-		<title>Croatia, the Giant Slayer</title>
-		<desc>Enjoy Croatia's unforgettable victories in the 2018 FIFA World Cup™ and in 2022.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14835092'&amp;EntityType='LinearSchedule'&amp;EntityId='05720814-8561-4c74-a4ff-f65f34baa8e3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623061615 +0000" stop="20260623080945 +0000">
-		<title>Mali v Spain | Semi-finals | FIFA U-17 World Cup India 2017™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Mali and Spain played at Dr. DY Patil Stadium, Navi Mumbai.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14834989'&amp;EntityType='LinearSchedule'&amp;EntityId='012d1ed1-7cef-421a-88fe-12e17def39bd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623080945 +0000" stop="20260623090717 +0000">
-		<title>Stairway to Heaven: Messi's Magic at Qatar 2022™</title>
-		<desc>Follow Lionel Messi's journey to the championship that solidified his legacy forever.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835002'&amp;EntityType='LinearSchedule'&amp;EntityId='51cadbdb-da01-4719-8cd4-2fb1df0d50d5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623090717 +0000" stop="20260623105557 +0000">
-		<title>Argentina v Germany | Quarter-finals | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and Germany played at Cape Town Stadium.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835022'&amp;EntityType='LinearSchedule'&amp;EntityId='0a91ecb9-1457-4a91-98d2-dd418c98082b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623105557 +0000" stop="20260623112731 +0000">
-		<title>France in the FIFA World Cup™ Semifinals</title>
-		<desc>Enjoy France's successes against Belgium in Russia 2018™ and against Morocco in Qatar 2022™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14834981'&amp;EntityType='LinearSchedule'&amp;EntityId='f593a49d-598d-4ca5-9c2e-fe0c647dd489'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623112731 +0000" stop="20260623115336 +0000">
-		<title>The Missed Chance: Messi's Russia 2018 World Cup</title>
-		<desc>See how Lionel Messi performed in the 2018 FIFA World Cup™</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835033'&amp;EntityType='LinearSchedule'&amp;EntityId='bd8e08ef-57a9-484f-ac12-1dbed350b69c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623115336 +0000" stop="20260623142609 +0000">
-		<title>USA v Ghana | Round of 16 | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Ghana played in Phokeng.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835045'&amp;EntityType='LinearSchedule'&amp;EntityId='d78abde2-7784-4109-ac56-f601728c58d6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623142609 +0000" stop="20260623162028 +0000">
-		<title>Brazil v England | Semi-finals | FIFA U-17 World Cup India 2017™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and England played at VYBK, Kolkata.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835009'&amp;EntityType='LinearSchedule'&amp;EntityId='fb248b43-7e67-490c-8930-f9b0a1afa2bf'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260623163000 +0000" stop="20260623173000 +0000">
 		<title>CSI: Vegas S3 - EP 1</title>
 		<desc>Facing an existential threat that could bring down the Crime Lab, a brilliant team of forensic investigators must welcome back old friends and deploy new techniques to preserve and serve justice in Sin City.</desc>
@@ -4140,6 +4055,16 @@
 		<title>The Contenders 26 - EP 32</title>
 		<desc>Scotland will bring the Tartan Army to North America, Curacao will be the tiniest nation at the Finals, Memphis Depay will bid to add to his record haul of goals for the Netherlands.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14926761'&amp;EntityType='LinearSchedule'&amp;EntityId='a9f0fda5-25eb-4dea-aab5-e5647cb240e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="777317" start="20260624040000 +0000" stop="20260624160000 +0000">
+		<title>Programme not available.</title>
+		<desc>Programme not available.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14798671'&amp;EntityType='LinearSchedule'&amp;EntityId='27b04a52-701d-4968-848d-347527c4cbad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="777317" start="20260624160000 +0000" stop="20260624190000 +0000">
+		<title>Programme not available.</title>
+		<desc>Programme not available.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14817739'&amp;EntityType='LinearSchedule'&amp;EntityId='c1b8eb7f-3d01-4054-bfc6-ff3102b7bd94'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="186574" start="20260623160001 +0000" stop="20260623170016 +0000">
 		<title>Skuad Cilik/That's Cool/Pokemon Horizons: Season 3 – Rising Hope/Piggy Builders</title>
@@ -5890,105 +5815,5 @@
 		<title>Neeya Naana - EP800</title>
 		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14851867'&amp;EntityType='LinearSchedule'&amp;EntityId='66556dfd-3571-435c-bf3f-029fbc0cddaf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623162028 +0000" stop="20260623163753 +0000">
-		<title>Sideline Drama: all Messi's Goal From the Bench</title>
-		<desc>Discover how coaches enjoy and suffer Lionel Messi's goals in the FIFA World Cup™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835154'&amp;EntityType='LinearSchedule'&amp;EntityId='908e5cbe-e601-4ba3-86e3-620b87f03ff0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623163753 +0000" stop="20260623183323 +0000">
-		<title>Mexico v Brazil | Final | FIFA U-17 World Cup Brazil 2019™ | Full Match Replay</title>
-		<desc>Watch the Full Match Replay from the match between Mexico and Brazil played at Estadio Bezerrão.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835194'&amp;EntityType='LinearSchedule'&amp;EntityId='17c245fe-8bfc-4bd0-a40e-a1d8e341d81b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623183323 +0000" stop="20260623190512 +0000">
-		<title>Croatia, the Giant Slayer</title>
-		<desc>Enjoy Croatia's unforgettable victories in the 2018 FIFA World Cup™ and in 2022.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14835169'&amp;EntityType='LinearSchedule'&amp;EntityId='e7a464c6-c8a4-4941-90e1-2560045233fc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623190512 +0000" stop="20260623205841 +0000">
-		<title>Mali v Spain | Semi-finals | FIFA U-17 World Cup India 2017™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Mali and Spain played at Dr. DY Patil Stadium, Navi Mumbai.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835144'&amp;EntityType='LinearSchedule'&amp;EntityId='3f8b4160-9329-486d-8454-f0b82913ea1f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623205841 +0000" stop="20260623215613 +0000">
-		<title>Stairway to Heaven: Messi's Magic at Qatar 2022™</title>
-		<desc>Follow Lionel Messi's journey to the championship that solidified his legacy forever.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835207'&amp;EntityType='LinearSchedule'&amp;EntityId='d51e1f06-56cc-4d7f-a8f6-7bf60bb1d740'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623215613 +0000" stop="20260623234454 +0000">
-		<title>Argentina v Germany | Quarter-finals | 2010 FIFA World Cup South Africa™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Argentina and Germany played at Cape Town Stadium.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14835119'&amp;EntityType='LinearSchedule'&amp;EntityId='359733f3-0058-451d-9b67-44d15378480d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260623234454 +0000" stop="20260624001628 +0000">
-		<title>France in the FIFA World Cup™ Semifinals</title>
-		<desc>Enjoy France's successes against Belgium in Russia 2018™ and against Morocco in Qatar 2022™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14835132'&amp;EntityType='LinearSchedule'&amp;EntityId='876ec0fb-bccb-4ad9-83c0-d407164dd0b9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624001628 +0000" stop="20260624004232 +0000">
-		<title>The Missed Chance: Messi's Russia 2018 World Cup</title>
-		<desc>See how Lionel Messi performed in the 2018 FIFA World Cup™</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856070'&amp;EntityType='LinearSchedule'&amp;EntityId='82e6e1c7-0a60-40e2-ace9-c28b1531fea4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624004232 +0000" stop="20260624023651 +0000">
-		<title>Brazil v England | Semi-finals | FIFA U-17 World Cup India 2017™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and England played at VYBK, Kolkata.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856101'&amp;EntityType='LinearSchedule'&amp;EntityId='cff0392c-56b1-4d31-bac5-f91983bec797'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624023651 +0000" stop="20260624043248 +0000">
-		<title>Spain v Chile | Group B | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Spain and Chile played at Maracanã, Rio de Janeiro.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856208'&amp;EntityType='LinearSchedule'&amp;EntityId='7eea264b-8920-4bdb-a7d6-cdb2dfe3efc4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624043248 +0000" stop="20260624045548 +0000">
-		<title>The Start: Messi v Serbia and Montenegro 2006™</title>
-		<desc>Enjoy Lionel Messi's first match in the FIFA World Cup™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856176'&amp;EntityType='LinearSchedule'&amp;EntityId='fdf39477-5c53-417a-a065-3093f5127c09'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624045548 +0000" stop="20260624063309 +0000">
-		<title>Germany v USA | Semi-finals | FIFA Women's World Cup China PR 1991™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Germany and USA played at Guangdong Provincial Stadium, Guangzhou.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856188'&amp;EntityType='LinearSchedule'&amp;EntityId='7d133fd8-edf5-4a89-8c6c-10dc6460c28b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624063309 +0000" stop="20260624070355 +0000">
-		<title>FIFA World Cup™ Matches That Astonished the World 1</title>
-		<desc>Relive two unforgettable encounters from the FIFA World Cup™</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14856130'&amp;EntityType='LinearSchedule'&amp;EntityId='0a350ea2-d9d2-48a5-bc38-bcafc490ce4a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624070355 +0000" stop="20260624084046 +0000">
-		<title>Sweden v Norway | Semi-finals | FIFA Women's World Cup China PR 1991™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Sweden and Norway played at Ying Dong Stadium, Panyu.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856082'&amp;EntityType='LinearSchedule'&amp;EntityId='e11a8f78-671a-4cbc-8441-e24070c421df'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624084046 +0000" stop="20260624091755 +0000">
-		<title>15 Shining Stars from Australia/New Zealand 2023™</title>
-		<desc>The stories of the players that shone the brightest in the FIFA Women's World Cup 2023™</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856142'&amp;EntityType='LinearSchedule'&amp;EntityId='1a5bed91-0174-4ad4-b25a-43e000866644'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624091755 +0000" stop="20260624110811 +0000">
-		<title>Norway v Denmark | Quarter-finals | FIFA Women's World Cup Sweden 1995™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Norway and Denmark played on 13 June 1995 in Karlstad.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856219'&amp;EntityType='LinearSchedule'&amp;EntityId='f29c17de-db33-4e84-9b5c-ce08e7773b29'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624110811 +0000" stop="20260624120828 +0000">
-		<title>All Goals | FIFA World Cup Qatar 2022™</title>
-		<desc>Watch all goals scored at the FIFA World Cup Qatar 2022™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856154'&amp;EntityType='LinearSchedule'&amp;EntityId='31e9efee-61cc-44be-a61b-b0c31e689932'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624120828 +0000" stop="20260624125715 +0000">
-		<title>FWC 2006, A Look Back: Italy</title>
-		<desc>Relive Italy’s 2006 World Cup triumph: heroes, emotions, and unforgettable moments.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856200'&amp;EntityType='LinearSchedule'&amp;EntityId='d1afa0f4-2570-4e06-9240-697928d0a491'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624125715 +0000" stop="20260624145204 +0000">
-		<title>USA v Norway | Semi-finals | FIFA Women's World Cup Sweden 1995™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Norway played on 15 June 1995 in Västerås.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856165'&amp;EntityType='LinearSchedule'&amp;EntityId='3543cc63-2de2-4d32-b95c-255a57248331'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260624145204 +0000" stop="20260624164800 +0000">
-		<title>Spain v Chile | Group B | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Spain and Chile played at Maracanã, Rio de Janeiro.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14856094'&amp;EntityType='LinearSchedule'&amp;EntityId='dec7469c-9eb3-48aa-bdb8-c219e6ded212'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
