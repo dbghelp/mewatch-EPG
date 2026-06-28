@@ -28,10 +28,6 @@
 		<display-name>FIFA World Cup CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14582488'&amp;EntityType='Item'&amp;EntityId='558207'&amp;Width=350&amp;Height=250" />
 	</channel>
-	<channel id="777317">
-		<display-name>FIFA World Cup CH02</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14582496'&amp;EntityType='Item'&amp;EntityId='777317'&amp;Width=350&amp;Height=250" />
-	</channel>
 	<channel id="186574">
 		<display-name>Oktolidays</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9467885'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=945&amp;Height=250" />
@@ -39,10 +35,6 @@
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
-	</channel>
-	<channel id="97078">
-		<display-name>LIVE 2</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
@@ -95,6 +87,14 @@
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
+	</channel>
+	<channel id="558112">
+		<display-name>W-Sport</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358826'&amp;EntityType='Item'&amp;EntityId='558112'&amp;Width=409&amp;Height=250" />
+	</channel>
+	<channel id="556888">
+		<display-name>TRACE Sport Stars</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358846'&amp;EntityType='Item'&amp;EntityId='556888'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260628150600 +0000" stop="20260628172000 +0000">
 		<title>Secret in Their Eyes</title>
@@ -1089,7 +1089,7 @@
 	<programme channel="558207" start="20260628210000 +0000" stop="20260628220000 +0000">
 		<title>(Live) FIFA World Cup 2026 - Post-Show - Round of 32: South Africa vs Canada</title>
 		<desc>South Africa and Canada meet with a place in the Round of 16 at stake. South Africa will hope to build on a determined group-stage campaign, while Canada aim to continue their impressive run. Both teams have shown resilience and attacking promise, setting up a competitive encounter where the winner moves one step closer to World Cup glory.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15000261'&amp;EntityType='LinearSchedule'&amp;EntityId='c0af774a-431d-4dcc-a5f0-87995f7ac657'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15033364'&amp;EntityType='LinearSchedule'&amp;EntityId='a81ce6b6-1a1c-436e-ac24-1140091c2563'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260628220000 +0000" stop="20260628223000 +0000">
 		<title>Football's Greatest Stage - EP 17</title>
@@ -1150,21 +1150,6 @@
 		<title>(Live) FIFA World Cup 2026 - Pre-Show - Round of 32: Brazil vs Japan</title>
 		<desc>Five-time champions Brazil take on an exciting Japan side in a compelling Round of 32 encounter. Brazil will look to showcase their attacking flair and knockout experience, while Japan aim to continue their impressive campaign with their trademark speed, discipline and relentless work rate in a bid to pull off a memorable upset.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15019323'&amp;EntityType='LinearSchedule'&amp;EntityId='af69bc18-508d-4ac5-be48-1aa0071c98cf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="777317" start="20260628160000 +0000" stop="20260629040000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15016865'&amp;EntityType='LinearSchedule'&amp;EntityId='9ea9abe7-88bf-46c9-bc57-780d7b94060f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="777317" start="20260629040000 +0000" stop="20260629160000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15016869'&amp;EntityType='LinearSchedule'&amp;EntityId='aa126c9a-556f-439b-96fb-3ae10049f6dc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="777317" start="20260629160000 +0000" stop="20260630040000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15019037'&amp;EntityType='LinearSchedule'&amp;EntityId='9693cb32-cad5-414f-bf8b-4d2c7484ed82'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="186574" start="20260628150019 +0000" stop="20260628160001 +0000">
 		<title>Abhiyum Naanum/One Page At A Time Pada Suatu Hari/Shasha and Milo/Piripenguins/The Adventures of Titou and Dao</title>
@@ -1375,16 +1360,6 @@
 		<title>No programme available now. Next broadcast on 30th June, Tuesday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 30th June, Tuesday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14908061'&amp;EntityType='LinearSchedule'&amp;EntityId='5a7ab9b2-5651-4227-93c0-f3f9fe3deb27'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20260628160000 +0000" stop="20260629160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14908177'&amp;EntityType='LinearSchedule'&amp;EntityId='08ce1f57-7ff9-485d-a6e7-9e508a9527a9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20260629160000 +0000" stop="20260630160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14908181'&amp;EntityType='LinearSchedule'&amp;EntityId='3224e4a7-ed7e-4d2b-83d1-fec1a2607b15'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260628151603 +0000" stop="20260628163210 +0000">
 		<title>MasterChef New Zealand Season 06 - EP3</title>
@@ -2946,6 +2921,336 @@
 		<desc>Watch the full match replay between England and USA from Lyon, 2 July 2019.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14945875'&amp;EntityType='LinearSchedule'&amp;EntityId='235df474-5cf0-45e2-b076-aac08c1bfbe4'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="558112" start="20260628160000 +0000" stop="20260628162000 +0000">
+		<title>WCS '26 H/L: WCPS '26 Prague H/L 5</title>
+		<desc>Events are held worldwide, where climbers progress through qualification, semifinal and final rounds, earning points toward season rankings and promoting global climbing under.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965672'&amp;EntityType='LinearSchedule'&amp;EntityId='6a9d17b8-3dbb-4822-abd9-c01cf244d5e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260628162000 +0000" stop="20260628175000 +0000">
+		<title>GCL '26: GCL '26 Paris R2</title>
+		<desc>Premier Show Jumping Events taking place at iconic venues around the globe featuring some of the World Finest Show Jumpers and horses.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965678'&amp;EntityType='LinearSchedule'&amp;EntityId='67b57b7f-5eb1-452c-af96-387ca857892f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260628175000 +0000" stop="20260628200500 +0000">
+		<title>Volta Catalunya '26: Volta Catalunya '26 Stage 2</title>
+		<desc>The Volta Ciclista Catalunya Femenina 2026 is a 3 stage women's road race held in Catalonia on June 2026 and continues the rapid rise of elite women's stage racing in Spain.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965714'&amp;EntityType='LinearSchedule'&amp;EntityId='177fd964-ee09-4ec8-9693-d0396144d0fb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260628200500 +0000" stop="20260628220500 +0000">
+		<title>Coppa Italia Femminile '25/26: S/F 1 Fiorentina v Juventus</title>
+		<desc>The Coppa Italia Femminile '25/26 edition is the fifty-fourth in the history of the Italian women's football Cup. Watch 1st leg semifinal Fiorentina v Juventus.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965682'&amp;EntityType='LinearSchedule'&amp;EntityId='2879ef23-7de3-4ab0-a932-bfc89103a9c0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260628220500 +0000" stop="20260629000500 +0000">
+		<title>Serie A Women 25/26: Parma v Ternana</title>
+		<desc>Serie A Women is the highest league of women's football in Italy. Watch Parma v Ternana.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965706'&amp;EntityType='LinearSchedule'&amp;EntityId='f9294c33-0aee-4c29-8760-d2b81ea57e1a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629000500 +0000" stop="20260629010000 +0000">
+		<title>Snow League '25/26: LAAX, Switzerland, Freeski H/L</title>
+		<desc>LAAX, Switzerland, provides an iconic stage for the final event of inaugural season. Snow League World Champions will be crowned in both snowboarding and freeskiing.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965718'&amp;EntityType='LinearSchedule'&amp;EntityId='8b2d8b55-947d-4099-aa4c-763065e998b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629010000 +0000" stop="20260629023000 +0000">
+		<title>Netball Super League '26: SF Thunder v Pulse</title>
+		<desc>The Netball Super League features the 8 Top Netball franchises from across the United Kingdom. Watch SF Thunder v Pulse.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894789'&amp;EntityType='LinearSchedule'&amp;EntityId='1c2de24d-a6b3-47ff-8d35-986e1f7ca770'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629023000 +0000" stop="20260629040000 +0000">
+		<title>Netball Super League '26: Pre-final Pulse v Lightning</title>
+		<desc>The Netball Super League features the 8 Top Netball franchises from across the United Kingdom. Preliminary Final Pulse v Lightning.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965694'&amp;EntityType='LinearSchedule'&amp;EntityId='717430d1-d27e-45bf-ab04-0f43b9167eba'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629040000 +0000" stop="20260629060000 +0000">
+		<title>Serie A Women 25/26: Fiorentina v Juventus</title>
+		<desc>Serie A Women is the highest league of women's football in Italy. Watch Fiorentina v Juventus.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965662'&amp;EntityType='LinearSchedule'&amp;EntityId='3be50175-49dc-482c-919a-e90dc69ce42c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629060000 +0000" stop="20260629073000 +0000">
+		<title>GCL '26: GCL '26 Paris R2</title>
+		<desc>Premier Show Jumping Events taking place at iconic venues around the globe featuring some of the World Finest Show Jumpers and horses.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965722'&amp;EntityType='LinearSchedule'&amp;EntityId='a7eacaae-17e1-4d07-a1e7-0679ac85567a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629073000 +0000" stop="20260629093000 +0000">
+		<title>Coppa Italia Femminile '25/26: S/F 1 Fiorentina v Juventus</title>
+		<desc>The Coppa Italia Femminile '25/26 edition is the fifty-fourth in the history of the Italian women's football Cup. Watch 1st leg semifinal Fiorentina v Juventus.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965666'&amp;EntityType='LinearSchedule'&amp;EntityId='cb4d90cb-e647-4201-a92c-ef4531d11599'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629093000 +0000" stop="20260629100000 +0000">
+		<title>Sports Woman: E.Perry,D.Asher-Smith,N.Comăneci</title>
+		<desc>Australian Ellyse Perry played both soccer and cricket, sprinter Dina Asher-Smith became the fastest woman in Britain. Nadia Comăneci and Jasmine Sur talk about life in sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965702'&amp;EntityType='LinearSchedule'&amp;EntityId='68b3e3de-ef1a-4c15-9a01-0ace2c88143e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629100000 +0000" stop="20260629120000 +0000">
+		<title>Serie A Women 25/26: Parma v Ternana</title>
+		<desc>Serie A Women is the highest league of women's football in Italy. Watch Parma v Ternana.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965686'&amp;EntityType='LinearSchedule'&amp;EntityId='c26e56c3-9173-427e-b1d4-b0d86d768877'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629120000 +0000" stop="20260629130000 +0000">
+		<title>Snow League '25/26: LAAX, Switzerland, Freeski H/L</title>
+		<desc>LAAX, Switzerland, provides an iconic stage for the final event of inaugural season. Snow League World Champions will be crowned in both snowboarding and freeskiing.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965710'&amp;EntityType='LinearSchedule'&amp;EntityId='e56f5ac1-3a12-49ba-b5de-9f840e81133d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629130000 +0000" stop="20260629143000 +0000">
+		<title>Netball Super League '26: SF Thunder v Pulse</title>
+		<desc>The Netball Super League features the 8 Top Netball franchises from across the United Kingdom. Watch SF Thunder v Pulse.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894832'&amp;EntityType='LinearSchedule'&amp;EntityId='02c58568-a9fe-4983-8198-69bc6cd039d6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629143000 +0000" stop="20260629160000 +0000">
+		<title>Netball Super League '26: Pre-final Pulse v Lightning</title>
+		<desc>The Netball Super League features the 8 Top Netball franchises from across the United Kingdom. Preliminary Final Pulse v Lightning.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965690'&amp;EntityType='LinearSchedule'&amp;EntityId='7470fb87-3a44-438c-b977-60af1ad9fb3c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629160000 +0000" stop="20260629175500 +0000">
+		<title>USL '25/26: Dallas Trinity v Spokane Zephyr</title>
+		<desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Dallas Trinity v Spokane Zephyr.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965766'&amp;EntityType='LinearSchedule'&amp;EntityId='f47d56f5-bd4d-4b3a-b380-d67defa46133'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628160000 +0000" stop="20260628163000 +0000">
+		<title>Football Stars - Erling Haaland - EP12</title>
+		<desc>Erling Haaland is ready to become the next star of football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921863'&amp;EntityType='LinearSchedule'&amp;EntityId='c6d9aa19-e03c-484e-b755-720d2016abf2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628163000 +0000" stop="20260628170000 +0000">
+		<title>Chill - The Barrel - EP9</title>
+		<desc>We look at the skills required and the chills provided by the wave queen of all waves, the powerful Barrel. The Longboard Pro Circuit in China is our next destination, where we meet Kassia Meador and Darcy Liu.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921867'&amp;EntityType='LinearSchedule'&amp;EntityId='d4fbaf56-e183-474a-b52b-73c2637f5ddf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628170000 +0000" stop="20260628173000 +0000">
+		<title>Sports Woman - Conquering - EP14</title>
+		<desc>Since Marta erupted on the football field, she has proved that she can do what the men do, and the Laureus World Sports Awards present some of the most inspiring athletes in the world….</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921874'&amp;EntityType='LinearSchedule'&amp;EntityId='8858cf9e-da21-452b-8fab-63b3ff744137'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628173000 +0000" stop="20260628180000 +0000">
+		<title>Invincible - Hank Aaron - EP35</title>
+		<desc>Major League Baseball is a game of numbers, and Hammerin' Hank Aaron struck the number that everyone wants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921881'&amp;EntityType='LinearSchedule'&amp;EntityId='e696c891-f492-492b-83e8-78a02bb2421e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628180000 +0000" stop="20260628183000 +0000">
+		<title>The Iconic - Olympics - Gymnastic - EP15</title>
+		<desc>Max Whitlock, a gymnast for the Great Britain team, has entered history, Nadia Comaneci is the ultimate sporting icon, Simon Biles created magic at Rio, while Aliya Mustafina has recovered from a serious injury.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921889'&amp;EntityType='LinearSchedule'&amp;EntityId='5d62e858-59cc-44a4-b2cc-6d78d6fec558'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628183000 +0000" stop="20260628190000 +0000">
+		<title>Fitness Island - Krys - EP1</title>
+		<desc>Dream landscapes, fitness and exceptional guests, welcome to Fitness Island! Edmée travels the islands of the whole world seeking the most beautiful spots to share her love of dance and make the benefits of Zumba known.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921897'&amp;EntityType='LinearSchedule'&amp;EntityId='a3b34719-96ef-4492-9571-bfbc15c7942b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628190000 +0000" stop="20260628193000 +0000">
+		<title>Fitness Island - Lynnsha - EP2</title>
+		<desc>Dream landscapes, fitness and exceptional guests, welcome to Fitness Island! Edmée travels the islands of the whole world seeking the most beautiful spots to share her love of dance and make the benefits of Zumba known.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921905'&amp;EntityType='LinearSchedule'&amp;EntityId='5a879ce1-c411-4adc-8813-6e13affdc83e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628193000 +0000" stop="20260628200000 +0000">
+		<title>Fitness Island - Vincent Karam - EP3</title>
+		<desc>Dream landscapes, fitness and exceptional guests, welcome to Fitness Island! Edmée travels the islands of the whole world seeking the most beautiful spots to share her love of dance and make the benefits of Zumba known.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921913'&amp;EntityType='LinearSchedule'&amp;EntityId='b94ef9b5-607b-46d2-a363-046a0cc14a99'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628200000 +0000" stop="20260628203000 +0000">
+		<title>Fitness Island - Kevin Coique - EP4</title>
+		<desc>Dream landscapes, fitness and exceptional guests: welcome to Fitness Island! Edmée roams the islands of the world in search of the most beautiful spots to share her love of dance and show the benefits of Zumba.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894281'&amp;EntityType='LinearSchedule'&amp;EntityId='f2f70bcc-9eaf-4d31-ad66-a819686500fb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628203000 +0000" stop="20260628210000 +0000">
+		<title>Fitness Island - Stephanie Thazar - EP5</title>
+		<desc>In just a few years Zumba has become a phenomenon! Edmée, a fitness teacher from the famous Alvin Ailey dance school in New York, travels the world searching for the most beautiful places to share her love of Zumba. Dream landscapes, fitness and special guests – welcome to Fitness Island!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894373'&amp;EntityType='LinearSchedule'&amp;EntityId='0f974b8e-b4e5-4c8e-abaa-4d031f23b577'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628210000 +0000" stop="20260628213000 +0000">
+		<title>Top 20 - Fitness Gurus - EP238</title>
+		<desc>Top is a unique classification of news on the champions who are causing a buzz in the world of sport!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921922'&amp;EntityType='LinearSchedule'&amp;EntityId='de63a5f2-be2c-4c0f-910e-20cf49e9ef6d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628213000 +0000" stop="20260628220000 +0000">
+		<title>Football Stars - Pedri - EP13</title>
+		<desc>The heir to Andres Iniesta, Pedri is the future of Barcelona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921930'&amp;EntityType='LinearSchedule'&amp;EntityId='4f95de2c-a43c-45d9-9ba5-14c4579f41d1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628220000 +0000" stop="20260628223000 +0000">
+		<title>Chill - Freddy Krueger, The Barrel, And Swatch Pro Girls - EP10</title>
+		<desc>We head to Western Australia to meet the legend of water ski flying, Freddy Krueger. Style, elegance and heated competition come together in China, where we observe some of the best longboard professionals.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921937'&amp;EntityType='LinearSchedule'&amp;EntityId='aeb32ceb-f45d-4155-971b-d2566c45e986'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628223000 +0000" stop="20260628230000 +0000">
+		<title>Sports Woman - Setting Sail - EP15</title>
+		<desc>Molly Meech and Alex Maloney, the two New Zealand sailors, set course for the Tokyo Olympic Games. Russian high jumper Mariya Lasitskene has some arguments to put forward.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921943'&amp;EntityType='LinearSchedule'&amp;EntityId='24189c48-b7bb-47a0-aa23-2f0ed31a1624'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628230000 +0000" stop="20260628233000 +0000">
+		<title>Invincible - Shergar - EP36</title>
+		<desc>In the world of horse racing, there has never been a story like that of the disappearance of Shergar.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921951'&amp;EntityType='LinearSchedule'&amp;EntityId='92ce1102-e9e8-4de6-9de9-5bbe9258669d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260628233000 +0000" stop="20260629000000 +0000">
+		<title>The Iconic - Olympics - All Sports - EP16</title>
+		<desc>In Tokyo, Denmark's Viktor Axelsen surprised a billion Chinese by winning the badminton gold medal, Valerie Adams brought Kiwi athleticism into the spotlight, while the Brownlee brothers realised a historic triathlon double.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921959'&amp;EntityType='LinearSchedule'&amp;EntityId='1b9492d3-eedd-41d7-9b5c-93108183ae7c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629000000 +0000" stop="20260629003000 +0000">
+		<title>Chill - Harry Clifford And Kiteboarding - EP11</title>
+		<desc>This week on CHILL we look at one of the best boardsports in the world, on the water with Harley Clifford. And we witness kitesurfing at its elite level with the Spaniard Liam Whaley and others.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921966'&amp;EntityType='LinearSchedule'&amp;EntityId='53d65353-197a-45ad-b837-83266f32bb49'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629003000 +0000" stop="20260629010000 +0000">
+		<title>Sports Woman - Believers - EP16</title>
+		<desc>In this edition of Sportswoman, we deal with athletes who have never given up.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921971'&amp;EntityType='LinearSchedule'&amp;EntityId='28707a43-e422-4574-b28a-20a191c40259'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629010000 +0000" stop="20260629013000 +0000">
+		<title>Invincible - Niki Lauda - EP37</title>
+		<desc>F1 races require courage, but even being given the last rites could not prevent Niki Lauda from becoming champion.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921975'&amp;EntityType='LinearSchedule'&amp;EntityId='3c331bfa-cf4b-475a-97ed-150624160e8b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629013000 +0000" stop="20260629020000 +0000">
+		<title>The Iconic - Football - Bayern Munich - EP17</title>
+		<desc>An emblematic club in Germany and across Europe, Bayern Munich is an institution for many. Kyllian Mbappe has quickly won the World Cup, while Aitana Bonmati has opened a new path for women's football in 2023.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921979'&amp;EntityType='LinearSchedule'&amp;EntityId='7bb19a7a-71ae-4c7b-9318-820665198f7b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629020000 +0000" stop="20260629023000 +0000">
+		<title>Fitness Island - Krys - EP1</title>
+		<desc>Dream landscapes, fitness and exceptional guests, welcome to Fitness Island! Edmée travels the islands of the whole world seeking the most beautiful spots to share her love of dance and make the benefits of Zumba known.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921988'&amp;EntityType='LinearSchedule'&amp;EntityId='f00d8736-3e25-4660-941b-451f1b1a5bbd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629023000 +0000" stop="20260629030000 +0000">
+		<title>Fitness Island - Lynnsha - EP2</title>
+		<desc>Dream landscapes, fitness and exceptional guests, welcome to Fitness Island! Edmée travels the islands of the whole world seeking the most beautiful spots to share her love of dance and make the benefits of Zumba known.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14921996'&amp;EntityType='LinearSchedule'&amp;EntityId='0ccead14-bf7c-430d-9c27-12d4d081d274'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629030000 +0000" stop="20260629033000 +0000">
+		<title>Fitness Island - Vincent Karam - EP3</title>
+		<desc>Dream landscapes, fitness and exceptional guests, welcome to Fitness Island! Edmée travels the islands of the whole world seeking the most beautiful spots to share her love of dance and make the benefits of Zumba known.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922003'&amp;EntityType='LinearSchedule'&amp;EntityId='824c0539-d437-4327-ae43-5a3496e4ea1d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629033000 +0000" stop="20260629040000 +0000">
+		<title>Fitness Island - Kevin Coique - EP4</title>
+		<desc>Dream landscapes, fitness and exceptional guests: welcome to Fitness Island! Edmée roams the islands of the world in search of the most beautiful spots to share her love of dance and show the benefits of Zumba.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894309'&amp;EntityType='LinearSchedule'&amp;EntityId='fbd6b8db-9aea-41e2-81d9-59354dcb5285'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629040000 +0000" stop="20260629043000 +0000">
+		<title>Fitness Island - Stephanie Thazar - EP5</title>
+		<desc>In just a few years Zumba has become a phenomenon! Edmée, a fitness teacher from the famous Alvin Ailey dance school in New York, travels the world searching for the most beautiful places to share her love of Zumba. Dream landscapes, fitness and special guests – welcome to Fitness Island!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894317'&amp;EntityType='LinearSchedule'&amp;EntityId='b1c9f634-38c2-4c7a-8c2a-b002abb20abe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629043000 +0000" stop="20260629050000 +0000">
+		<title>Top 20 - Fitness Gurus - EP238</title>
+		<desc>Top is a unique classification of news on the champions who are causing a buzz in the world of sport!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922014'&amp;EntityType='LinearSchedule'&amp;EntityId='ab0e5354-6e4f-44fa-9093-cfbcb16cd0d0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629050000 +0000" stop="20260629053000 +0000">
+		<title>Football Stars - Oktoberfest - EP14</title>
+		<desc>Autumn in Bavaria only means one thing: Oktoberfest.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922022'&amp;EntityType='LinearSchedule'&amp;EntityId='dea11cdc-9f32-4035-9336-c86d6c8453b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629053000 +0000" stop="20260629060000 +0000">
+		<title>Chill - Crashed Ice Tour - EP12</title>
+		<desc>This week, Chill invites itself to winter sports. We go to Niagara Falls, in Canada, where the first leg of the Crashed Ice Tour takes place.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922030'&amp;EntityType='LinearSchedule'&amp;EntityId='84e1d087-93e2-4005-8dcd-bbc6dd8a13fc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629060000 +0000" stop="20260629063000 +0000">
+		<title>Sports Woman - Winners Are Grinners - EP17</title>
+		<desc>Simone Biles is the most decorated American gymnast and, despite the scandal surrounding the doctor Larry Nasser and US team, she is determined to contest the Tokyo Olympic Games.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922038'&amp;EntityType='LinearSchedule'&amp;EntityId='7d7e4b97-0552-4e6f-a8ce-4d33633f7f06'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629063000 +0000" stop="20260629070000 +0000">
+		<title>Invincible - Sir Alex Ferguson - EP38</title>
+		<desc>All that counted for Sir Alex Ferguson was his boys winning, and nothing would stop him from bringing it about.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922045'&amp;EntityType='LinearSchedule'&amp;EntityId='37adab7c-fe52-418c-b8a3-2ed59a458e05'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629070000 +0000" stop="20260629073000 +0000">
+		<title>The Iconic - Football - Lionel Messi - EP18</title>
+		<desc>Lionel Messi has proved everything there was to prove. He then headed to a new land and proved still more - it's Iconic.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922051'&amp;EntityType='LinearSchedule'&amp;EntityId='7434e3d6-c619-484c-ab1e-eb5fe60ad6cf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629073000 +0000" stop="20260629080000 +0000">
+		<title>Fight Stars - Amir Khan - EP22</title>
+		<desc>They're big, they're audacious, they're the stars of combat - the best fighters in the ring as well as in their personal lives.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922059'&amp;EntityType='LinearSchedule'&amp;EntityId='4940442e-a76e-4277-911e-54144762d137'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629080000 +0000" stop="20260629083000 +0000">
+		<title>Fight Stars - Tyron Woodley - EP23</title>
+		<desc>We meet UFC champions Tyron Woodley and Stephen Thompson, as well as Ukrainian boxer Lomachenko. Anthony Joshua's sponsorship deals make him a luxury sales rep and MMA is welcomed by the world of cinema.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922067'&amp;EntityType='LinearSchedule'&amp;EntityId='3310e56a-7fe8-485f-aa0f-b58b19086fd8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629083000 +0000" stop="20260629090000 +0000">
+		<title>Fight Stars - Canelo Alvarez - EP24</title>
+		<desc>In Fight Stars, find out about the greatest champions of combat sports, notably the Mexican sensation Canelo Alvarez. Judo star Teddy Riner has lit up the streets of Paris, and F1 driver Daniel Ricciardo rubs shoulders with some sumotori greats.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922071'&amp;EntityType='LinearSchedule'&amp;EntityId='75ecf718-53e9-4b51-a400-a366dc0a1f15'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629090000 +0000" stop="20260629093000 +0000">
+		<title>Fight Stars - Andre Ward - EP25</title>
+		<desc>In Fight Stars, find out about the greatest champions of combat sports, in particular Andre Ward, still at the top even after a change of category, and the actress Gal Gadot, who prepared for her role as Wonder Woman through combat sports.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894243'&amp;EntityType='LinearSchedule'&amp;EntityId='112305f6-cbab-40f1-ab43-ea6da24ed684'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629093000 +0000" stop="20260629100000 +0000">
+		<title>Fight Stars - Angela Lee - EP26</title>
+		<desc>Manny Pacquiao has taken his defeat against Jeff Hom badly. MMA star Angela Lee returns strengthened, and a look back at the Hollywood career of Donnie Yen. Finally, Anthony Joshua competes against another British champion, but out of the ring!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894121'&amp;EntityType='LinearSchedule'&amp;EntityId='33ce9f3c-184e-4a5f-88d5-96af2e0a368f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629100000 +0000" stop="20260629103000 +0000">
+		<title>Fight Stars - Conor McGregor - EP27</title>
+		<desc>They're big, they're audacious, they're the stars of combat - the best fighters in the ring as well as in their personal lives.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894265'&amp;EntityType='LinearSchedule'&amp;EntityId='f352128d-175d-467e-ad6f-217d2d4ca908'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629103000 +0000" stop="20260629110000 +0000">
+		<title>Football Stars - Gianluigi Donnarumma - EP15</title>
+		<desc>Gianluigi Donnarumma's progress fascinates us.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922075'&amp;EntityType='LinearSchedule'&amp;EntityId='19bff49a-28ec-47a6-b4fa-9fdc1546ba47'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629110000 +0000" stop="20260629113000 +0000">
+		<title>Chill - Freeride and Crashed Ice - EP13</title>
+		<desc>Chill takes on the difficult task of being a judge of the Freeride World Tour. The Crashed Ice Series brings the Ice Cross descent right in the middle of St Paul in Minnesota.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922081'&amp;EntityType='LinearSchedule'&amp;EntityId='c6e28002-c126-43d1-aa38-f331c5561804'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629113000 +0000" stop="20260629120000 +0000">
+		<title>Sports Woman - Willpower - EP18</title>
+		<desc>In this edition of Sportswoman, we look at the athletes with the most desire.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922088'&amp;EntityType='LinearSchedule'&amp;EntityId='c06c960a-2008-4331-9998-a94498d5890e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629120000 +0000" stop="20260629123000 +0000">
+		<title>Invincible - Lance Armstrong - EP39</title>
+		<desc>Lance Armstrong was the icon of the Tour de France, until he became the undisputed champion of cheats.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922095'&amp;EntityType='LinearSchedule'&amp;EntityId='4bbf8020-99fa-45bc-ad71-44301dba0c63'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629123000 +0000" stop="20260629130000 +0000">
+		<title>The Iconic - Football - Harry Kane - EP19</title>
+		<desc>Amazing as it may seem, Harry Kane is still seeking his first trophy, Ibrahimovic has won 34 of them, Liverpool recorded a record series in 2020, while Wembley Stadium is the home of football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922102'&amp;EntityType='LinearSchedule'&amp;EntityId='772a9da8-7cbb-441c-917a-f1cb5da99977'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629130000 +0000" stop="20260629133000 +0000">
+		<title>Football Nation - Conmebol - EP10</title>
+		<desc>CONMEBOL is on the verge of becoming the first confederation all of whose members have participated in a World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922109'&amp;EntityType='LinearSchedule'&amp;EntityId='7dc1189c-cc9f-480f-b3ef-4e9a7dec8a45'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629133000 +0000" stop="20260629140000 +0000">
+		<title>Football Nation - Uruguay - EP6</title>
+		<desc>Uruguay was the most important football nation at the beginning of the 20th century.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922117'&amp;EntityType='LinearSchedule'&amp;EntityId='ffb2bc99-c419-45d7-bf21-5a31352ce713'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629140000 +0000" stop="20260629143000 +0000">
+		<title>Football Nation - Australia - EP7</title>
+		<desc>Australia is one of the most confusing of footballing nations.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922124'&amp;EntityType='LinearSchedule'&amp;EntityId='c07af12c-f04c-4287-8a38-19f604c721cf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629143000 +0000" stop="20260629150000 +0000">
+		<title>Football Nation - Concacaf - EP8</title>
+		<desc>The CONCACAF region is rich and varied, and dominated by Mexico.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894130'&amp;EntityType='LinearSchedule'&amp;EntityId='b21520e8-8a3b-447a-b2d1-2560636315d1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629150000 +0000" stop="20260629153000 +0000">
+		<title>Football Nation - Saudi Arabia &amp; Waff - EP5</title>
+		<desc>Saudi Arabia is in the process of becoming a powerful new actor on the global footballing scene.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894251'&amp;EntityType='LinearSchedule'&amp;EntityId='460bf6e4-20cc-444a-8e39-06755c27792b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629153000 +0000" stop="20260629160000 +0000">
+		<title>Football Nation - CAF (West) - EP6</title>
+		<desc>The Western region is the motor force of African football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14894348'&amp;EntityType='LinearSchedule'&amp;EntityId='6112880d-d0de-48f8-b8c6-fbf01cf4f70d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629160000 +0000" stop="20260629163000 +0000">
+		<title>Football Stars - Media Darlings - EP16</title>
+		<desc>Footballing media's biggest darlings.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922149'&amp;EntityType='LinearSchedule'&amp;EntityId='619b3c6a-e258-418a-954a-313fe698c01a'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260629163000 +0000" stop="20260629173000 +0000">
 		<title>CSI: Vegas S3 - EP 5</title>
 		<desc>Facing an existential threat that could bring down the Crime Lab, a brilliant team of forensic investigators must welcome back old friends and deploy new techniques to preserve and serve justice in Sin City.</desc>
@@ -3956,16 +4261,6 @@
 		<desc>Ivory Coast and Norway both have the opportunity to reach the Round of 16 for the first time in this tournament. With confidence growing after the group stage, both teams will be eager to seize the moment and continue their World Cup journey.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15019503'&amp;EntityType='LinearSchedule'&amp;EntityId='80d1f7be-1ce9-46f0-81de-514b5b03bd6b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="777317" start="20260630040000 +0000" stop="20260630160000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15019049'&amp;EntityType='LinearSchedule'&amp;EntityId='6bccb891-5d1c-48a3-95dc-dd1f00f0814c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="777317" start="20260630160000 +0000" stop="20260701040000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15019087'&amp;EntityType='LinearSchedule'&amp;EntityId='83453e85-e44a-4243-bc98-9e940755168e'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97073" start="20260630110000 +0000" stop="20260630111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Kinohimitsu Wellsure</title>
 		<desc>A plant-based protein nutritional drink that ensures a balanced intake of nutrients, promoting visible improvements in muscle health, immune resilience, eye health, and digestion. 一种植物性蛋白全营养饮，确保摄取均衡营养，有助于显著改善肌肉健康、增强免疫力、促进眼部健康和消化功能</desc>
@@ -4100,11 +4395,6 @@
 		<title>No programme available now. Next broadcast on 1st July, Wednesday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 1st July, Wednesday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14927918'&amp;EntityType='LinearSchedule'&amp;EntityId='7d2b5a9c-3e52-446e-a90d-9cf19c4949e2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20260630160000 +0000" stop="20260701160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14941049'&amp;EntityType='LinearSchedule'&amp;EntityId='0a4e0f95-3c3f-45d3-897f-b229752bdf41'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260629164224 +0000" stop="20260629174504 +0000">
 		<title>MasterChef Australia Season 10 - Immunity Challenge 1</title>
@@ -5700,5 +5990,335 @@
 		<title>Sweden v Australia | Play-off for third place | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
 		<desc>Watch the full match replay between Sweden and Australia.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14964314'&amp;EntityType='LinearSchedule'&amp;EntityId='85892d1c-db71-406e-827d-fee66a2ccad5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629175500 +0000" stop="20260629191500 +0000">
+		<title>Malaysia Regional Cup '26: Jewels v Sneakers</title>
+		<desc>The NSL Regional Cup 2026 is a new elite event: 3 NSL teams and 1 guest face off in a round-robin. The top two then battle for the trophy in a high-stakes championship final.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965799'&amp;EntityType='LinearSchedule'&amp;EntityId='4c51fd46-bafc-40f5-be22-831d04204d70'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629191500 +0000" stop="20260629213000 +0000">
+		<title>Volta Catalunya '26: Volta Catalunya '26 Stage 3</title>
+		<desc>The Volta Ciclista Catalunya Femenina 2026 is a 3 stage women's road race held in Catalonia on June 2026 and continues the rapid rise of elite women's stage racing in Spain.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965808'&amp;EntityType='LinearSchedule'&amp;EntityId='07ec9c0f-e9ba-42bf-9ece-51156256a307'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629213000 +0000" stop="20260629220000 +0000">
+		<title>MP Series '25: Cardiff Half Marathon '25 H/L</title>
+		<desc>Thousands run through the heart of Wales' capital in a celebration of speed, spirit, and stunning cityscapes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965817'&amp;EntityType='LinearSchedule'&amp;EntityId='75bcb599-a498-4078-a5e3-b01e6cf372e6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629220000 +0000" stop="20260629233000 +0000">
+		<title>Jump Saudi '25: CSI4 World Cup Qualification</title>
+		<desc>Jump Saudi 2025 is an international equestrian show jumping championship held in Saudi Arabia. It brings together some of the best riders and horses from around the world.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965730'&amp;EntityType='LinearSchedule'&amp;EntityId='b9e2e777-47bd-4d2a-9f2b-1da2e760b8b3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260629233000 +0000" stop="20260630000000 +0000">
+		<title>Heroines (S1): Heroines (S1E07)</title>
+		<desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965734'&amp;EntityType='LinearSchedule'&amp;EntityId='2d94d9bf-09d7-4eef-85d4-f26be5ea0fbf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630000000 +0000" stop="20260630020000 +0000">
+		<title>Serie A Women 25/26: Juventus v Roma</title>
+		<desc>Serie A Women is the highest league of women's football in Italy. Watch Juventus v Roma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965738'&amp;EntityType='LinearSchedule'&amp;EntityId='15f48bc3-f19a-4182-b619-1ef789339031'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630020000 +0000" stop="20260630023000 +0000">
+		<title>MP Series '25: MDS 120 Morocco '25 H/L</title>
+		<desc>Inspiring athletes with disabilities conquer the desert, proving that limits exist only to be broken in this powerful race of resilience.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965750'&amp;EntityType='LinearSchedule'&amp;EntityId='bdb06acb-73f7-40ad-b17e-19767ecb3920'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630023000 +0000" stop="20260630040000 +0000">
+		<title>Malaysian NSL '26: KL Wildcats v Terengganu Marvels</title>
+		<desc>The Netball Super League (NSL) is Malaysia's top netball competition with eight teams competing throughout the season.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965770'&amp;EntityType='LinearSchedule'&amp;EntityId='e5ea7620-6981-4957-ba70-31cd3d7340d9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630040000 +0000" stop="20260630060000 +0000">
+		<title>USL '25/26: Dallas Trinity v Spokane Zephyr</title>
+		<desc>The USL is a professional Womens league in the USA featuring 8 teams from across the country. Watch Dallas Trinity v Spokane Zephyr.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965826'&amp;EntityType='LinearSchedule'&amp;EntityId='a3528912-0104-4713-b3bc-51198e351c2d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630060000 +0000" stop="20260630073000 +0000">
+		<title>Malaysia Regional Cup '26: Jewels v Sneakers</title>
+		<desc>The NSL Regional Cup 2026 is a new elite event: 3 NSL teams and 1 guest face off in a round-robin. The top two then battle for the trophy in a high-stakes championship final.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965842'&amp;EntityType='LinearSchedule'&amp;EntityId='ea3a23f0-dafc-4db5-bf69-7e3bb5f6b6ed'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630073000 +0000" stop="20260630093000 +0000">
+		<title>Serie A Women 25/26: Milan v Napoli</title>
+		<desc>Serie A Women is the highest league of women's football in Italy. Watch Milan v Napoli.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965776'&amp;EntityType='LinearSchedule'&amp;EntityId='dd9b5456-08db-4730-ad9a-07398141abe6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630093000 +0000" stop="20260630100000 +0000">
+		<title>MP Series '25: Cardiff Half Marathon '25 H/L</title>
+		<desc>Thousands run through the heart of Wales' capital in a celebration of speed, spirit, and stunning cityscapes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965856'&amp;EntityType='LinearSchedule'&amp;EntityId='e7e4c900-fba0-457e-941c-8b63110b967f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630100000 +0000" stop="20260630113000 +0000">
+		<title>Jump Saudi '25: CSI4 World Cup Qualification</title>
+		<desc>Jump Saudi 2025 is an international equestrian show jumping championship held in Saudi Arabia. It brings together some of the best riders and horses from around the world.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965762'&amp;EntityType='LinearSchedule'&amp;EntityId='9dd88013-476d-4357-b80c-ff501151c49b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630113000 +0000" stop="20260630120000 +0000">
+		<title>MP '26: Ibiza Marathon, MP '26</title>
+		<desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965754'&amp;EntityType='LinearSchedule'&amp;EntityId='16d70781-4d02-477b-ac4e-92b3efbea95b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630120000 +0000" stop="20260630140000 +0000">
+		<title>Serie A Women 25/26: Juventus v Roma</title>
+		<desc>Serie A Women is the highest league of women's football in Italy. Watch Juventus v Roma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965742'&amp;EntityType='LinearSchedule'&amp;EntityId='beb0a738-8efd-487f-ba5d-445b3631ca56'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630140000 +0000" stop="20260630143000 +0000">
+		<title>MP Series '25: MDS 120 Morocco '25 H/L</title>
+		<desc>Inspiring athletes with disabilities conquer the desert, proving that limits exist only to be broken in this powerful race of resilience.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965788'&amp;EntityType='LinearSchedule'&amp;EntityId='a1f67c4f-4e47-4077-b7a9-0f2d71980037'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630143000 +0000" stop="20260630160000 +0000">
+		<title>Malaysian NSL '26: KL Wildcats v Terengganu Marvels</title>
+		<desc>The Netball Super League (NSL) is Malaysia's top netball competition with eight teams competing throughout the season.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14965758'&amp;EntityType='LinearSchedule'&amp;EntityId='02d429dd-6c31-4902-a1ad-4231fda81903'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558112" start="20260630160000 +0000" stop="20260630180000 +0000">
+		<title>Serie A Women 25/26: Ternana v Fiorentina</title>
+		<desc>Serie A Women is the highest league of women's football in Italy. Watch Ternana v Fiorentina.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14966000'&amp;EntityType='LinearSchedule'&amp;EntityId='53d60b26-c89d-4042-93f1-966849540d18'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629163000 +0000" stop="20260629170000 +0000">
+		<title>Chill - Freeride World Tour - EP14</title>
+		<desc>Chill presents spectacular action from Chamonix in France, the cradle of European freestyle in the high mountains. Landgraf, in Holland, organises the last leg of the Crashed Ice World Tour and Freeski Big Air from Zurich's Lakeside.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922156'&amp;EntityType='LinearSchedule'&amp;EntityId='1f40e064-6412-4fb8-aaab-9a5e5ae54406'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629170000 +0000" stop="20260629173000 +0000">
+		<title>Sports Woman - Three Of The Best - EP19</title>
+		<desc>The fascinating story of the path of the three best female heptathletes to the summit of the sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922163'&amp;EntityType='LinearSchedule'&amp;EntityId='658f36ef-9608-4e74-9996-556ac440329a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629173000 +0000" stop="20260629180000 +0000">
+		<title>Invincible - Jack Niclaus - EP40</title>
+		<desc>Jack Nicklaus has not only won more major championships than any other golfer, but he has also transformed this sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922171'&amp;EntityType='LinearSchedule'&amp;EntityId='065c8ba4-ecb4-4f21-af02-cc8297ffbd47'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629180000 +0000" stop="20260629183000 +0000">
+		<title>The Iconic - Football - Sam Kerr - EP20</title>
+		<desc>Sam Kerr is the emblematic figure of women's football in Australia, Mo Salah's EPL success has had a huge impact in Egypt, while the Champion's League is the supreme reward for a football club.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922179'&amp;EntityType='LinearSchedule'&amp;EntityId='ed46c858-c845-43f4-95a6-09ff7c274da2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629183000 +0000" stop="20260629190000 +0000">
+		<title>Football Nation - Conmebol - EP10</title>
+		<desc>CONMEBOL is on the verge of becoming the first confederation all of whose members have participated in a World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922183'&amp;EntityType='LinearSchedule'&amp;EntityId='87592635-5031-43ea-a977-bdaf9ec0602e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629190000 +0000" stop="20260629193000 +0000">
+		<title>Football Nation - Uruguay - EP6</title>
+		<desc>Uruguay was the most important football nation at the beginning of the 20th century.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922188'&amp;EntityType='LinearSchedule'&amp;EntityId='9dc6108f-2d54-439c-a365-8d52a3b1a09b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629193000 +0000" stop="20260629200000 +0000">
+		<title>Football Nation - Australia - EP7</title>
+		<desc>Australia is one of the most confusing of footballing nations.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922196'&amp;EntityType='LinearSchedule'&amp;EntityId='877d1cd2-b1cb-48df-a89e-de9d0f619860'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629200000 +0000" stop="20260629203000 +0000">
+		<title>Football Nation - Concacaf - EP8</title>
+		<desc>The CONCACAF region is rich and varied, and dominated by Mexico.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14909033'&amp;EntityType='LinearSchedule'&amp;EntityId='9c9600a1-8177-42d4-893c-99916adaa790'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629203000 +0000" stop="20260629210000 +0000">
+		<title>Football Nation - Saudi Arabia &amp; Waff - EP5</title>
+		<desc>Saudi Arabia is in the process of becoming a powerful new actor on the global footballing scene.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14909037'&amp;EntityType='LinearSchedule'&amp;EntityId='c228367f-981d-46c8-8bfc-3c1099093c6b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629210000 +0000" stop="20260629213000 +0000">
+		<title>Football Nation - CAF (West) - EP6</title>
+		<desc>The Western region is the motor force of African football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14909041'&amp;EntityType='LinearSchedule'&amp;EntityId='e8cdb70e-0063-4824-bace-9a913fd543cd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629213000 +0000" stop="20260629220000 +0000">
+		<title>Football Stars - Ronnie's Big Brood - EP17</title>
+		<desc>Superstar Cristiano Ronaldo's family is already big, but is about to get bigger.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922206'&amp;EntityType='LinearSchedule'&amp;EntityId='f79d57e2-57a3-45aa-9da1-a7602c0eaf04'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629220000 +0000" stop="20260629223000 +0000">
+		<title>Chill - Mandurah Women's Wakeboarding - EP15</title>
+		<desc>The best of women's wakeboard with the coming of the IWWF to Mandurah in Australia. The magnificent Italian island of Sicily welcomes the kitesurf world tour. And finally, incredible female surfers head for the beaches of Brazil for the Rio Pro.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922213'&amp;EntityType='LinearSchedule'&amp;EntityId='d0aeb832-aff7-4a0c-be76-9086dcd8d922'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629223000 +0000" stop="20260629230000 +0000">
+		<title>Sports Woman - Power Players - EP20</title>
+		<desc>In this edition of Sportswoman, we look at athletes who draw on their willpower.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922221'&amp;EntityType='LinearSchedule'&amp;EntityId='362215b1-21fe-4152-b76d-43fd4af90d80'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629230000 +0000" stop="20260629233000 +0000">
+		<title>Invincible - Brazil - EP41</title>
+		<desc>Brazil has won the World Cup five times and has produced some of the greatest footballers of all time.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922229'&amp;EntityType='LinearSchedule'&amp;EntityId='b858ee74-204b-419e-82c1-a7d82a5c97ee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260629233000 +0000" stop="20260630000000 +0000">
+		<title>The Iconic - Football - FA Cup - EP21</title>
+		<desc>The FA Cup is England's most prestigious trophy, while in Europe Zinedine Zidane has made a habit of winning the Champions League… whereas Spain has entered into history with a treble in a major tournament.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922236'&amp;EntityType='LinearSchedule'&amp;EntityId='8f965868-d321-4791-b803-8a07574ca49c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630000000 +0000" stop="20260630003000 +0000">
+		<title>Chill - Mandurah Men's Wakeboarding - EP16</title>
+		<desc>We are on the waters of Mandurah, in Australia, for the men's finals of the IWWF Wakeboard World. Morocco is our next destination for the kitesurf world tour, and we present Harley Clifford who storms wakeboarding.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922243'&amp;EntityType='LinearSchedule'&amp;EntityId='5a92e80d-9820-4327-b597-e2d7b34ee809'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630003000 +0000" stop="20260630010000 +0000">
+		<title>Sports Woman - Success - EP21</title>
+		<desc>Golf prodigy Lexi Thompson shares the secrets of her success and aspires to an Olympic gold medal. The world champion of the 400 metres hurdles Dalilah Muhammad smashes records, but she has a teammate who is biting at her heels.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922251'&amp;EntityType='LinearSchedule'&amp;EntityId='5784ce62-8259-4561-81a5-6631bfcecd34'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630010000 +0000" stop="20260630013000 +0000">
+		<title>Invincible - Simone Biles - EP42</title>
+		<desc>In the arena of gymnastics and beyond, Olympic gold medal winner Simone Biles has proven she was a champion worthy of the name.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922259'&amp;EntityType='LinearSchedule'&amp;EntityId='5955005a-ec78-4c83-80ae-e6a243a351f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630013000 +0000" stop="20260630020000 +0000">
+		<title>The Iconic - Football - Robert Lewandowski - EP22</title>
+		<desc>Robert Lewandowski has rewritten the Bayern records book, Arsenal's Invincibles remained unbeaten through an EPL season, and Lionel Messi finally won his most elusive trophy in 2022: the World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922266'&amp;EntityType='LinearSchedule'&amp;EntityId='1afc080e-4bba-43dc-a10e-cdca717d5b93'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630020000 +0000" stop="20260630023000 +0000">
+		<title>Football Nation - Conmebol - EP10</title>
+		<desc>CONMEBOL is on the verge of becoming the first confederation all of whose members have participated in a World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922274'&amp;EntityType='LinearSchedule'&amp;EntityId='d98e383a-a3cb-4421-8ad3-529781b221f8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630023000 +0000" stop="20260630030000 +0000">
+		<title>Football Nation - Uruguay - EP6</title>
+		<desc>Uruguay was the most important football nation at the beginning of the 20th century.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922282'&amp;EntityType='LinearSchedule'&amp;EntityId='c3036c73-a27b-4d16-9c39-34bb87197e54'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630030000 +0000" stop="20260630033000 +0000">
+		<title>Football Nation - Australia - EP7</title>
+		<desc>Australia is one of the most confusing of footballing nations.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922290'&amp;EntityType='LinearSchedule'&amp;EntityId='36b4fa5d-ea06-440f-aa26-0d5e5a4a97da'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630033000 +0000" stop="20260630040000 +0000">
+		<title>Football Nation - Concacaf - EP8</title>
+		<desc>The CONCACAF region is rich and varied, and dominated by Mexico.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14908929'&amp;EntityType='LinearSchedule'&amp;EntityId='d70ef84e-d517-4a47-b239-0c286ab97368'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630040000 +0000" stop="20260630043000 +0000">
+		<title>Football Nation - Saudi Arabia &amp; Waff - EP5</title>
+		<desc>Saudi Arabia is in the process of becoming a powerful new actor on the global footballing scene.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14908985'&amp;EntityType='LinearSchedule'&amp;EntityId='fa2be113-6cfc-4dc9-8677-0d3a98d124e8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630043000 +0000" stop="20260630050000 +0000">
+		<title>Football Nation - CAF (West) - EP6</title>
+		<desc>The Western region is the motor force of African football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14908989'&amp;EntityType='LinearSchedule'&amp;EntityId='56182ffa-ff26-4396-a093-ff1cb4f60285'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630050000 +0000" stop="20260630053000 +0000">
+		<title>Football Stars - Power Couples - EP18</title>
+		<desc>Get to know the power couples who make things move in football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922300'&amp;EntityType='LinearSchedule'&amp;EntityId='7c2d7674-646c-4fdb-a1c9-314194e9173b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630053000 +0000" stop="20260630060000 +0000">
+		<title>Chill - Snowboard Big Air - EP17</title>
+		<desc>We look at the art of preparing a snowboard for freestyle in the big mountains, and we bring you spectacular action of this kind on skis from Chamonix, with the best moments of the finals of the Freeside World Tour.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922307'&amp;EntityType='LinearSchedule'&amp;EntityId='1ebe979a-9bf2-4695-93cd-699163d62d81'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630060000 +0000" stop="20260630063000 +0000">
+		<title>Sports Woman - The Fastest Women - EP23</title>
+		<desc>The Italian car driver Vicky Piria makes a quick start in the new W series. Jacqueline Legere reigns supreme in the world of Ice Cross descent. Dutch double Olympic champion soars to glory and gets married.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922311'&amp;EntityType='LinearSchedule'&amp;EntityId='e3008060-11eb-4b0c-b099-edafbabac8cf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630063000 +0000" stop="20260630070000 +0000">
+		<title>Invincible - Pep Guardiola - EP43</title>
+		<desc>With his success at three great clubs, Pep Guardiola has been described as a genius of football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922315'&amp;EntityType='LinearSchedule'&amp;EntityId='5a830e42-395e-4f20-902e-c76142c9cd18'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630070000 +0000" stop="20260630073000 +0000">
+		<title>The Iconic - Football - Luca Modric - EP23</title>
+		<desc>Argentina - one nation, two kings. Luca Modric - the Croat hero reborn in the ashes of war.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922323'&amp;EntityType='LinearSchedule'&amp;EntityId='26cba483-7315-47aa-9377-590fc5075f83'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630073000 +0000" stop="20260630080000 +0000">
+		<title>Fitness Island - Krys - EP1</title>
+		<desc>Dream landscapes, fitness and exceptional guests, welcome to Fitness Island! Edmée travels the islands of the whole world seeking the most beautiful spots to share her love of dance and make the benefits of Zumba known.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922331'&amp;EntityType='LinearSchedule'&amp;EntityId='45cf79d1-b5fa-4b88-a9e1-50ba2064d120'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630080000 +0000" stop="20260630083000 +0000">
+		<title>Fitness Island - Lynnsha - EP2</title>
+		<desc>Dream landscapes, fitness and exceptional guests, welcome to Fitness Island! Edmée travels the islands of the whole world seeking the most beautiful spots to share her love of dance and make the benefits of Zumba known.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922339'&amp;EntityType='LinearSchedule'&amp;EntityId='2d79a0a6-d5d9-4bf5-920d-0c43d052718e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630083000 +0000" stop="20260630090000 +0000">
+		<title>Fitness Island - Vincent Karam - EP3</title>
+		<desc>Dream landscapes, fitness and exceptional guests, welcome to Fitness Island! Edmée travels the islands of the whole world seeking the most beautiful spots to share her love of dance and make the benefits of Zumba known.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922346'&amp;EntityType='LinearSchedule'&amp;EntityId='885ddedc-afde-4cee-9213-3a17a3351fad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630090000 +0000" stop="20260630093000 +0000">
+		<title>Fitness Island - Kevin Coique - EP4</title>
+		<desc>Dream landscapes, fitness and exceptional guests: welcome to Fitness Island! Edmée roams the islands of the world in search of the most beautiful spots to share her love of dance and show the benefits of Zumba.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14908945'&amp;EntityType='LinearSchedule'&amp;EntityId='975616ba-1ed3-4d76-adc0-1c50930da626'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630093000 +0000" stop="20260630100000 +0000">
+		<title>Fitness Island - Stephanie Thazar - EP5</title>
+		<desc>In just a few years Zumba has become a phenomenon! Edmée, a fitness teacher from the famous Alvin Ailey dance school in New York, travels the world searching for the most beautiful places to share her love of Zumba. Dream landscapes, fitness and special guests – welcome to Fitness Island!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14908949'&amp;EntityType='LinearSchedule'&amp;EntityId='1aeec35e-10fd-49cd-a1af-03f4382aa357'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630100000 +0000" stop="20260630103000 +0000">
+		<title>Top 20 - Fitness Gurus - EP238</title>
+		<desc>Top is a unique classification of news on the champions who are causing a buzz in the world of sport!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922355'&amp;EntityType='LinearSchedule'&amp;EntityId='e845b768-c8dc-454c-9302-fa90a7ec46c9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630103000 +0000" stop="20260630110000 +0000">
+		<title>Football Stars - Club Hollywood - EP19</title>
+		<desc>The stars of Hollywood are buying football clubs.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922364'&amp;EntityType='LinearSchedule'&amp;EntityId='f024de42-62ef-47f2-96d4-7f7384ff4d47'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630110000 +0000" stop="20260630113000 +0000">
+		<title>Chill - Nescafé Champs - EP18</title>
+		<desc>Chlll joins some of the best free skiers on some of the most difficult terrains of the planet. And in Leysin, it's the five star snowboard event, the legendary Nescafe Champs.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922371'&amp;EntityType='LinearSchedule'&amp;EntityId='3d1e2d5f-8a59-49d1-925e-e6320217e967'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630113000 +0000" stop="20260630120000 +0000">
+		<title>Sports Woman - Iconic - EP24</title>
+		<desc>In this edition of Sportswoman, the athletes who have become models to follow.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922379'&amp;EntityType='LinearSchedule'&amp;EntityId='1999ef10-4906-4376-87bb-06aedafe221a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630120000 +0000" stop="20260630123000 +0000">
+		<title>Invincible - New York Yankees - EP44</title>
+		<desc>The New York Yankees are the most important team in baseball and one of the most famous names in sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922387'&amp;EntityType='LinearSchedule'&amp;EntityId='11f1cd3e-036e-40fa-a42d-457f55fdf4db'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630123000 +0000" stop="20260630130000 +0000">
+		<title>The Iconic - Football - Cristiano Ronaldo - EP24</title>
+		<desc>Cristiano Ronaldo is such an icon that even his goal celebration is emblematic.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922394'&amp;EntityType='LinearSchedule'&amp;EntityId='ec8c1354-b6f5-4e74-b755-e4beaaa3f6f0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630130000 +0000" stop="20260630133000 +0000">
+		<title>Fight Stars - Amanda Nunes - EP15</title>
+		<desc>In Fight Stars, meet the biggest stars of combat sports, such as UFC champion Amanda Nunes and boxer David Hayes. We look back at the highs and lows of Mike Tyson's career, and finally Nikki Bella's waking dream!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922401'&amp;EntityType='LinearSchedule'&amp;EntityId='7884938e-d213-49f1-a1b2-a6990867f1b4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630133000 +0000" stop="20260630140000 +0000">
+		<title>Flashpoint - Borg &amp; Mcenroe/ Tyson &amp; Holyfield - EP12</title>
+		<desc>Bjorn Borg and John McEnroe have set new standards in men's tennis, while Mike Tyson and Evander Holyfield have reached new summits in heavyweight boxing. These two rivalries have created historic tensions.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922409'&amp;EntityType='LinearSchedule'&amp;EntityId='bc8d1445-fad5-48e5-a4f1-98845bb2dfb6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630140000 +0000" stop="20260630143000 +0000">
+		<title>The Iconic - Misbehaviour - EP29</title>
+		<desc>Emblematic misdemeanours in sport, with Mike Tyson, Marion Jones and Eric Cantona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14908981'&amp;EntityType='LinearSchedule'&amp;EntityId='bc3855c9-cd54-47c9-b58e-2a678eb31a4f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630143000 +0000" stop="20260630150000 +0000">
+		<title>Heroines - Taking on the Men - EP9</title>
+		<desc>Women rarely have the chance to compete with men in achievement, but they have done so occasionally with spectacular results.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922418'&amp;EntityType='LinearSchedule'&amp;EntityId='997af06f-6caa-4df9-a246-efcf5bf21907'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630150000 +0000" stop="20260630153000 +0000">
+		<title>The Iconic - Golf's Ups &amp; Downs - EP42</title>
+		<desc>Rory Mcllroy, Lorena Ochoa, Michelle Wie, Tiger Woods and Phil Mickelson are all icons in the world of golf.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922425'&amp;EntityType='LinearSchedule'&amp;EntityId='56f8d991-0330-42d2-b62c-7d2d264a36b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630153000 +0000" stop="20260630160000 +0000">
+		<title>Star Rated - Female Golfers - EP82</title>
+		<desc>Your favourite sports stars observed away from the ground in 'Star Rated'!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14922431'&amp;EntityType='LinearSchedule'&amp;EntityId='cb1984ed-17ec-476b-be2e-5d3ae4db317c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20260630160000 +0000" stop="20260630163000 +0000">
+		<title>Football Stars - Footballers and Their Pets - EP20</title>
+		<desc>Get to know the domestic animals of the biggest names in world football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14928729'&amp;EntityType='LinearSchedule'&amp;EntityId='b8d2b8d8-8e23-46a9-8c6a-45ef90dbac3b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
