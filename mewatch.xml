@@ -26,11 +26,7 @@
 	</channel>
 	<channel id="558207">
 		<display-name>FIFA World Cup CH01</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14582488'&amp;EntityType='Item'&amp;EntityId='558207'&amp;Width=350&amp;Height=250" />
-	</channel>
-	<channel id="186574">
-		<display-name>Oktolidays</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9467885'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=945&amp;Height=250" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15055578'&amp;EntityType='Item'&amp;EntityId='558207'&amp;Width=700&amp;Height=500" />
 	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
@@ -95,6 +91,10 @@
 	<channel id="556888">
 		<display-name>TRACE Sport Stars</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358846'&amp;EntityType='Item'&amp;EntityId='556888'&amp;Width=350&amp;Height=250" />
+	</channel>
+	<channel id="556893">
+		<display-name>Kartoon Channel!</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358834'&amp;EntityType='Item'&amp;EntityId='556893'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260630160000 +0000" stop="20260630163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 88</title>
@@ -829,7 +829,7 @@
 	<programme channel="97084" start="20260701160000 +0000" stop="20260702010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14941576'&amp;EntityType='LinearSchedule'&amp;EntityId='43df7356-cc59-4927-9a4f-fae0065b8ec7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15055376'&amp;EntityType='LinearSchedule'&amp;EntityId='43df7356-cc59-4927-9a4f-fae0065b8ec7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20260630160000 +0000" stop="20260701010000 +0000">
 		<title>End of Transmission</title>
@@ -954,7 +954,7 @@
 	<programme channel="97096" start="20260701160000 +0000" stop="20260702010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14941802'&amp;EntityType='LinearSchedule'&amp;EntityId='ab578200-6afb-4f69-8a19-e3fcf0481af3'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15055383'&amp;EntityType='LinearSchedule'&amp;EntityId='ab578200-6afb-4f69-8a19-e3fcf0481af3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260630160000 +0000" stop="20260630160300 +0000">
 		<title>Headline News</title>
@@ -1096,40 +1096,30 @@
 		<desc>France take on Sweden looking to continue their pursuit of another World Cup title. Sweden have shown they can compete with the best and will be determined to stand in France's way. The winner advances to the Round of 16.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038068'&amp;EntityType='LinearSchedule'&amp;EntityId='d0d7b382-5b92-4f07-b2ba-5c9d45fff711'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558207" start="20260701000000 +0000" stop="20260701003000 +0000">
-		<title>Football's Greatest Stage - EP 22</title>
-		<desc>To have remained England’s leading scorer for 45 years after his retirement, as a midfielder, was a truly remarkable achievement.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15052866'&amp;EntityType='LinearSchedule'&amp;EntityId='681ccd11-daa7-49dc-9f78-9b70b431d820'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558207" start="20260701003000 +0000" stop="20260701010000 +0000">
+	<programme channel="558207" start="20260701000000 +0000" stop="20260701020000 +0000">
 		<title>(Live) FIFA World Cup 2026 - Pre-Show - Round of 32: Mexico vs Ecuador</title>
 		<desc>Mexico and Ecuador meet in an evenly matched contest after strong group-stage displays. Both nations know a victory will secure a place in the Round of 16 and provide fresh momentum for the challenges ahead.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15052870'&amp;EntityType='LinearSchedule'&amp;EntityId='4fee8003-d1b5-41f3-8fc0-9a802a778652'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055507'&amp;EntityType='LinearSchedule'&amp;EntityId='b5d5bc5f-4148-4c4f-ad6e-74c6bf20fa15'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558207" start="20260701010000 +0000" stop="20260701040000 +0000">
+	<programme channel="558207" start="20260701020000 +0000" stop="20260701043000 +0000">
 		<title>(Live) FIFA World Cup 2026 - Round of 32: Mexico vs Ecuador</title>
 		<desc>Mexico and Ecuador meet in an evenly matched contest after strong group-stage displays. Both nations know a victory will secure a place in the Round of 16 and provide fresh momentum for the challenges ahead.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15052850'&amp;EntityType='LinearSchedule'&amp;EntityId='9b31de1c-adc3-44c9-804e-f40aaa22a0aa'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055564'&amp;EntityType='LinearSchedule'&amp;EntityId='5fdb1528-03d9-4212-a6a0-9d70e2963c86'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558207" start="20260701040000 +0000" stop="20260701071500 +0000">
-		<title>FIFA World Cup 2026 - Round of 32: Netherlands vs Morocco</title>
-		<desc>The Netherlands face Morocco in a blockbuster Round of 32 showdown as both sides chase a place in the last 16. The Dutch will rely on their attacking flair and tournament experience, while Morocco aim to upset another European heavyweight with their disciplined defence and dangerous counter-attacks in what promises to be an enthralling knockout battle.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15052874'&amp;EntityType='LinearSchedule'&amp;EntityId='f6147bd4-cdca-4cda-9686-a8428466a8e5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558207" start="20260701071500 +0000" stop="20260701093000 +0000">
-		<title>FIFA World Cup 2026 - Round of 32: Ivory Coast vs Norway</title>
-		<desc>Ivory Coast and Norway both have the opportunity to reach the Round of 16 for the first time in this tournament. With confidence growing after the group stage, both teams will be eager to seize the moment and continue their World Cup journey.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15052854'&amp;EntityType='LinearSchedule'&amp;EntityId='ea7ba833-7902-46fe-8f69-98807f6eb69b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558207" start="20260701093000 +0000" stop="20260701100000 +0000">
-		<title>FIFA World Cup 2026 - Match Highlights - EP 74</title>
-		<desc>Five-time champions Brazil take on an exciting Japan side in a compelling Round of 32 encounter. Brazil will look to showcase their attacking flair and knockout experience, while Japan aim to continue their impressive campaign with their trademark speed, discipline and relentless work rate in a bid to pull off a memorable upset.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15052834'&amp;EntityType='LinearSchedule'&amp;EntityId='66b2cbb8-bb5c-4a67-b6f0-82751e9a67ea'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558207" start="20260701100000 +0000" stop="20260701103000 +0000">
+	<programme channel="558207" start="20260701043000 +0000" stop="20260701050000 +0000">
 		<title>FIFA World Cup 2026 - Match Highlights - EP 75</title>
 		<desc>Germany face Paraguay in a clash between European pedigree and South American resilience. Germany will be looking to take another step towards the trophy, while Paraguay hope to continue their memorable campaign. The reward for the winner is a place in the Round of 16.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15052858'&amp;EntityType='LinearSchedule'&amp;EntityId='2993f7c4-ff3f-4bfe-8649-d93242485d11'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055787'&amp;EntityType='LinearSchedule'&amp;EntityId='f9331728-0ad6-4438-b003-0ca3ed2a2071'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558207" start="20260701050000 +0000" stop="20260701081500 +0000">
+		<title>FIFA World Cup 2026 - Round of 32: Netherlands vs Morocco</title>
+		<desc>The Netherlands face Morocco in a blockbuster Round of 32 showdown as both sides chase a place in the last 16. The Dutch will rely on their attacking flair and tournament experience, while Morocco aim to upset another European heavyweight with their disciplined defence and dangerous counter-attacks in what promises to be an enthralling knockout battle.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055568'&amp;EntityType='LinearSchedule'&amp;EntityId='713e76a4-6e6f-4143-86c9-a3dabf2a0b4d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558207" start="20260701081500 +0000" stop="20260701103000 +0000">
+		<title>FIFA World Cup 2026 - Round of 32: Ivory Coast vs Norway</title>
+		<desc>Ivory Coast and Norway both have the opportunity to reach the Round of 16 for the first time in this tournament. With confidence growing after the group stage, both teams will be eager to seize the moment and continue their World Cup journey.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055572'&amp;EntityType='LinearSchedule'&amp;EntityId='6caec7b4-7338-4040-803a-396d653a3f15'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260701103000 +0000" stop="20260701110000 +0000">
 		<title>FIFA World Cup 2026 - Match Highlights - EP 76</title>
@@ -1161,10 +1151,10 @@
 		<desc>England begin the knockout phase against DR Congo, who have enjoyed a memorable tournament so far. England will aim to keep their title hopes on track, while DR Congo seek another famous result to reach the next round.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15052878'&amp;EntityType='LinearSchedule'&amp;EntityId='33234d62-c60b-4ef6-b0eb-de6512d3f47f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558207" start="20260701160000 +0000" stop="20260701180000 +0000">
+	<programme channel="558207" start="20260701160000 +0000" stop="20260701190000 +0000">
 		<title>(Live) FIFA World Cup 2026 - Round of 32: England vs Congo DR</title>
 		<desc>England begin the knockout phase against DR Congo, who have enjoyed a memorable tournament so far. England will aim to keep their title hopes on track, while DR Congo seek another famous result to reach the next round.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038160'&amp;EntityType='LinearSchedule'&amp;EntityId='1f55d02b-6d1c-4a2d-9a8e-1cdbc4eeeb1b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055431'&amp;EntityType='LinearSchedule'&amp;EntityId='7300a137-6f84-4e9d-9545-8e93cd4de4c4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260630160000 +0000" stop="20260701110000 +0000">
 		<title>No programme available now. Next broadcast on 1st July, Wednesday 7pm. The Wonder Shop Home Shopping</title>
@@ -1299,7 +1289,7 @@
 	<programme channel="97073" start="20260701160000 +0000" stop="20260702110000 +0000">
 		<title>No programme available now. Next broadcast on 2nd July, Thursday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 2nd July, Thursday 7pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14941391'&amp;EntityType='LinearSchedule'&amp;EntityId='3cb0ac86-925e-41e2-9d81-8695681f06d9'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15055347'&amp;EntityType='LinearSchedule'&amp;EntityId='3cb0ac86-925e-41e2-9d81-8695681f06d9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260630152738 +0000" stop="20260630162359 +0000">
 		<title>MasterChef Australia Season 10 - Pressure Test: Brendan Wessels' Lemon Meringue Pie</title>
@@ -3036,6 +3026,251 @@
 		<desc>Schedule To Be Announced</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14942761'&amp;EntityType='LinearSchedule'&amp;EntityId='24cf8aed-f90a-4d48-9634-6aac38c6d896'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="556893" start="20260630160000 +0000" stop="20260630163000 +0000">
+		<title>Thomas Edison's Secret Lab - Murphy’s Law of Gravity / The Mystery of Pirate Woods - EP105</title>
+		<desc>The SECRET LAB KIDS are ready to demo their new science song for web entrepreneur Mook Zookerboom when he learns that a satellite is coming down out of orbit, panics and heads for the airport. So the team must gather some data on gravity to convince him to return. / Angie’s great-uncle Thaddeus and JD are sure a local nautical antique shop has the missing treasure chest of Greybeard the Pirate – but Angie, Nicky and Kent suspect the shop owner is the true pirate here.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929056'&amp;EntityType='LinearSchedule'&amp;EntityId='59bcdd81-bae1-47e3-9838-b6f9b845b402'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630163000 +0000" stop="20260630170000 +0000">
+		<title>Mellodees - Twinkle Twinkle Little Star - EP4</title>
+		<desc>Go on an intergalactic adventure with Dee and Teddy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929065'&amp;EntityType='LinearSchedule'&amp;EntityId='63ec1766-add8-490a-8ce9-34a2717d59f7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630170000 +0000" stop="20260630173000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep10 - EP110</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14928998'&amp;EntityType='LinearSchedule'&amp;EntityId='e02ea07a-f1ca-4559-bdbe-791a5ce67f14'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630173000 +0000" stop="20260630180000 +0000">
+		<title>Shaq's Garage - Pizza! Pizza! Pizza! - EP115</title>
+		<desc>Shaq's favourite pizzeria is swamped with orders, luckily the Shaq Paq has nothing better to do that day, so they sign up to help deliver.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929074'&amp;EntityType='LinearSchedule'&amp;EntityId='78cc7304-7894-4631-95c1-5d94e1a1b1b2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630180000 +0000" stop="20260630183000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep10 - EP110</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14928905'&amp;EntityType='LinearSchedule'&amp;EntityId='01c68960-60f0-4700-9de5-ebac7fff7233'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630183000 +0000" stop="20260630190000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep7 - EP7</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929118'&amp;EntityType='LinearSchedule'&amp;EntityId='02e91146-a0f8-4870-9504-64d95734d9eb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630190000 +0000" stop="20260630193500 +0000">
+		<title>Kids' Planet - Behaving on the Street and Minding Traffic Signs - EP104</title>
+		<desc>Nova will invite children to a new expedition to become super pedestrians. Together, they will discover how they should behave in public spaces or streets. Curious will teach us the correct way to cross the street, know the traffic lights and traffic signals. They will also learn that the car is a very fun place that has rules to follow to enjoy and stay safe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928916'&amp;EntityType='LinearSchedule'&amp;EntityId='545a9c0c-6bc9-4d55-8dd1-0c5bd58c7106'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630193500 +0000" stop="20260630200500 +0000">
+		<title>Kids' Planet - Justice - EP115</title>
+		<desc>In this episode, we will discover that justice is when we are all treated equally, regardless of our differences, and we must give and receive the same attention to other people. Respect is shown by good treatment, complying with the laws to live in peace! We will also understand freedom and how to use it intelligently.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929085'&amp;EntityType='LinearSchedule'&amp;EntityId='e48e0eb0-b9fa-4977-a26d-2e7c64139a0c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630200500 +0000" stop="20260630203000 +0000">
+		<title>Mellodees - Rock A Bye Baby - EP2</title>
+		<desc>Dee dreams of a magical carpet ride in the clouds with his favorite teddy bear. Will you join them on this adventure?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929005'&amp;EntityType='LinearSchedule'&amp;EntityId='9e0e5ad0-c721-4be6-9fbf-4654693ab89c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630203000 +0000" stop="20260630210000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep2 - EP102</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929122'&amp;EntityType='LinearSchedule'&amp;EntityId='07f4b54f-96cc-4507-8597-d168eabe7754'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630210000 +0000" stop="20260630213000 +0000">
+		<title>Giselle and the Green Team - The Case of the Invasive Vector - EP113</title>
+		<desc>Gisele and the Green Team stop Nick Slick from sending tires infested with mosquitoes to Europe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928853'&amp;EntityType='LinearSchedule'&amp;EntityId='9e76c510-79bd-4903-b204-1501d1ebe7d3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630213000 +0000" stop="20260630220000 +0000">
+		<title>Shaq's Garage - Saving Klaus - EP108</title>
+		<desc>Klaus is on loan to a local car museum, but the Shaq Paq gets the wrong idea and suits up for a clandestine rescue operation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928866'&amp;EntityType='LinearSchedule'&amp;EntityId='b7e1154b-3bcd-4eb2-8c00-3426615502d9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630220000 +0000" stop="20260630223000 +0000">
+		<title>Thomas Edison's Secret Lab - Murphy’s Law of Gravity / The Mystery of Pirate Woods - EP105</title>
+		<desc>The SECRET LAB KIDS are ready to demo their new science song for web entrepreneur Mook Zookerboom when he learns that a satellite is coming down out of orbit, panics and heads for the airport. So the team must gather some data on gravity to convince him to return. / Angie’s great-uncle Thaddeus and JD are sure a local nautical antique shop has the missing treasure chest of Greybeard the Pirate – but Angie, Nicky and Kent suspect the shop owner is the true pirate here.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929014'&amp;EntityType='LinearSchedule'&amp;EntityId='2ed54a9b-f4cc-4448-a689-b6fb0e7d5ed5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630223000 +0000" stop="20260630230000 +0000">
+		<title>Mellodees - Twinkle Twinkle Little Star - EP4</title>
+		<desc>Go on an intergalactic adventure with Dee and Teddy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928878'&amp;EntityType='LinearSchedule'&amp;EntityId='bf86cc8a-841c-472e-9491-4b353a3c3b5c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630230000 +0000" stop="20260630233000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep10 - EP110</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14929090'&amp;EntityType='LinearSchedule'&amp;EntityId='4952e4d0-52e5-43b1-8ed0-2768475a8abd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260630233000 +0000" stop="20260701000000 +0000">
+		<title>Shaq's Garage - Pizza! Pizza! Pizza! - EP115</title>
+		<desc>Shaq's favourite pizzeria is swamped with orders, luckily the Shaq Paq has nothing better to do that day, so they sign up to help deliver.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929018'&amp;EntityType='LinearSchedule'&amp;EntityId='80d59dc8-e45e-4f4a-a8ac-a076a26a4e94'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701000000 +0000" stop="20260701003000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep10 - EP110</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14928892'&amp;EntityType='LinearSchedule'&amp;EntityId='b8a4b600-bcbd-446c-985b-ec3fcd155d07'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701003000 +0000" stop="20260701010000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep7 - EP7</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928791'&amp;EntityType='LinearSchedule'&amp;EntityId='b897bc5c-1237-4f2f-b18d-15c8eeae5481'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701010000 +0000" stop="20260701013500 +0000">
+		<title>Kids' Planet - Behaving on the Street and Minding Traffic Signs - EP104</title>
+		<desc>Nova will invite children to a new expedition to become super pedestrians. Together, they will discover how they should behave in public spaces or streets. Curious will teach us the correct way to cross the street, know the traffic lights and traffic signals. They will also learn that the car is a very fun place that has rules to follow to enjoy and stay safe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929094'&amp;EntityType='LinearSchedule'&amp;EntityId='45647bb4-0654-4ded-8ba9-cf60946703f4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701013500 +0000" stop="20260701020500 +0000">
+		<title>Kids' Planet - Justice - EP115</title>
+		<desc>In this episode, we will discover that justice is when we are all treated equally, regardless of our differences, and we must give and receive the same attention to other people. Respect is shown by good treatment, complying with the laws to live in peace! We will also understand freedom and how to use it intelligently.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929022'&amp;EntityType='LinearSchedule'&amp;EntityId='64d306d9-05ad-411a-9d8a-2ca536055aea'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701020500 +0000" stop="20260701023000 +0000">
+		<title>Mellodees - Rock A Bye Baby - EP2</title>
+		<desc>Dee dreams of a magical carpet ride in the clouds with his favorite teddy bear. Will you join them on this adventure?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928800'&amp;EntityType='LinearSchedule'&amp;EntityId='64d355bf-8777-4f0d-8251-72529f1e2585'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701023000 +0000" stop="20260701030000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep2 - EP102</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928808'&amp;EntityType='LinearSchedule'&amp;EntityId='3ec23ec8-ff17-4187-988f-7d99aa8e0aa1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701030000 +0000" stop="20260701033000 +0000">
+		<title>Giselle and the Green Team - The Case of the Invasive Vector - EP113</title>
+		<desc>Gisele and the Green Team stop Nick Slick from sending tires infested with mosquitoes to Europe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929126'&amp;EntityType='LinearSchedule'&amp;EntityId='dd253c0c-e39d-4a0a-8f20-d6ca6e03ab12'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701033000 +0000" stop="20260701040000 +0000">
+		<title>Shaq's Garage - Saving Klaus - EP108</title>
+		<desc>Klaus is on loan to a local car museum, but the Shaq Paq gets the wrong idea and suits up for a clandestine rescue operation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928924'&amp;EntityType='LinearSchedule'&amp;EntityId='3a46c6da-6336-4abb-a9f5-f240545a4a6e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701040000 +0000" stop="20260701043000 +0000">
+		<title>Thomas Edison's Secret Lab - Murphy’s Law of Gravity / The Mystery of Pirate Woods - EP105</title>
+		<desc>The SECRET LAB KIDS are ready to demo their new science song for web entrepreneur Mook Zookerboom when he learns that a satellite is coming down out of orbit, panics and heads for the airport. So the team must gather some data on gravity to convince him to return. / Angie’s great-uncle Thaddeus and JD are sure a local nautical antique shop has the missing treasure chest of Greybeard the Pirate – but Angie, Nicky and Kent suspect the shop owner is the true pirate here.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928932'&amp;EntityType='LinearSchedule'&amp;EntityId='f3f5ff7f-ea39-46d5-be83-6f981f211915'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701043000 +0000" stop="20260701050000 +0000">
+		<title>Mellodees - Twinkle Twinkle Little Star - EP4</title>
+		<desc>Go on an intergalactic adventure with Dee and Teddy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928990'&amp;EntityType='LinearSchedule'&amp;EntityId='bb001351-6cf3-45fe-be57-e0f42b2b5466'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701050000 +0000" stop="20260701053000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep10 - EP110</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14929098'&amp;EntityType='LinearSchedule'&amp;EntityId='e5ace5e5-1068-4225-a259-6b9fa71766bf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701053000 +0000" stop="20260701060000 +0000">
+		<title>Shaq's Garage - Pizza! Pizza! Pizza! - EP115</title>
+		<desc>Shaq's favourite pizzeria is swamped with orders, luckily the Shaq Paq has nothing better to do that day, so they sign up to help deliver.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928943'&amp;EntityType='LinearSchedule'&amp;EntityId='aa220d23-6da4-4fdc-90d2-21c500226399'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701060000 +0000" stop="20260701063000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep10 - EP110</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14929130'&amp;EntityType='LinearSchedule'&amp;EntityId='1777be6a-ba9b-4de4-80ab-375655d05a3b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701063000 +0000" stop="20260701070000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep7 - EP7</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928951'&amp;EntityType='LinearSchedule'&amp;EntityId='9a7c5e7f-8950-42d7-8cba-48cea588e92c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701070000 +0000" stop="20260701073500 +0000">
+		<title>Kids' Planet - Behaving on the Street and Minding Traffic Signs - EP104</title>
+		<desc>Nova will invite children to a new expedition to become super pedestrians. Together, they will discover how they should behave in public spaces or streets. Curious will teach us the correct way to cross the street, know the traffic lights and traffic signals. They will also learn that the car is a very fun place that has rules to follow to enjoy and stay safe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929134'&amp;EntityType='LinearSchedule'&amp;EntityId='342a702a-8283-4de4-9729-f555b5a7f820'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701073500 +0000" stop="20260701081000 +0000">
+		<title>Kids' Planet - Justice - EP115</title>
+		<desc>In this episode, we will discover that justice is when we are all treated equally, regardless of our differences, and we must give and receive the same attention to other people. Respect is shown by good treatment, complying with the laws to live in peace! We will also understand freedom and how to use it intelligently.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929026'&amp;EntityType='LinearSchedule'&amp;EntityId='4d3e2888-8b55-4594-a292-3e8b79d48d2a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701081000 +0000" stop="20260701083000 +0000">
+		<title>Mellodees - Rock A Bye Baby - EP2</title>
+		<desc>Dee dreams of a magical carpet ride in the clouds with his favorite teddy bear. Will you join them on this adventure?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929038'&amp;EntityType='LinearSchedule'&amp;EntityId='a4202d32-45c0-4c20-b245-bbf446d65d14'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701083000 +0000" stop="20260701090000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep2 - EP102</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929138'&amp;EntityType='LinearSchedule'&amp;EntityId='ea32aa86-461f-40ef-9ce8-b3c77b50f969'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701090000 +0000" stop="20260701093000 +0000">
+		<title>Giselle and the Green Team - The Case of the Invasive Vector - EP113</title>
+		<desc>Gisele and the Green Team stop Nick Slick from sending tires infested with mosquitoes to Europe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928960'&amp;EntityType='LinearSchedule'&amp;EntityId='e634e5cb-db8f-4033-bcb2-6e5b2fe4a243'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701093000 +0000" stop="20260701100000 +0000">
+		<title>Shaq's Garage - Saving Klaus - EP108</title>
+		<desc>Klaus is on loan to a local car museum, but the Shaq Paq gets the wrong idea and suits up for a clandestine rescue operation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929142'&amp;EntityType='LinearSchedule'&amp;EntityId='df77ec63-420f-4824-a61c-7e7d1574f575'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701100000 +0000" stop="20260701103000 +0000">
+		<title>Thomas Edison's Secret Lab - Murphy’s Law of Gravity / The Mystery of Pirate Woods - EP105</title>
+		<desc>The SECRET LAB KIDS are ready to demo their new science song for web entrepreneur Mook Zookerboom when he learns that a satellite is coming down out of orbit, panics and heads for the airport. So the team must gather some data on gravity to convince him to return. / Angie’s great-uncle Thaddeus and JD are sure a local nautical antique shop has the missing treasure chest of Greybeard the Pirate – but Angie, Nicky and Kent suspect the shop owner is the true pirate here.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929047'&amp;EntityType='LinearSchedule'&amp;EntityId='cd6453ca-1ccb-4dc0-9ade-725005169b04'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701103000 +0000" stop="20260701110000 +0000">
+		<title>Mellodees - Twinkle Twinkle Little Star - EP4</title>
+		<desc>Go on an intergalactic adventure with Dee and Teddy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929146'&amp;EntityType='LinearSchedule'&amp;EntityId='f265b6eb-92b3-464e-9f14-f57ef3b966cd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701110000 +0000" stop="20260701113000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep13 - EP113</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14928967'&amp;EntityType='LinearSchedule'&amp;EntityId='27b4f818-54d5-41b1-8c9c-63ed49ba779a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701113000 +0000" stop="20260701120000 +0000">
+		<title>Shaq's Garage - Whale of a Tale - EP118</title>
+		<desc>An underwater treasure hunt quickly turns into a rescue operation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929030'&amp;EntityType='LinearSchedule'&amp;EntityId='4044e398-fed5-45d6-abc6-67d8a67f9942'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701120000 +0000" stop="20260701123000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep2 - EP102</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14928814'&amp;EntityType='LinearSchedule'&amp;EntityId='fa1e7547-cce7-42fd-a924-494c8baa1fc5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701123000 +0000" stop="20260701130000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep3 - EP3</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928823'&amp;EntityType='LinearSchedule'&amp;EntityId='9b77867c-973f-413c-9c07-26b446aa627f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701130000 +0000" stop="20260701133500 +0000">
+		<title>Kids' Planet - Peace and Harmony - EP108</title>
+		<desc>In this episode of Kids' Planet, we will make a trip to discover what two important words mean: "Peace" and "Harmony". Our friend Curious who knows everything will guide us through the universe of values, teaching us a very important quality in "Kindness", and we will learn to reject violence, manage anger, make good decisions, and have self-control.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928975'&amp;EntityType='LinearSchedule'&amp;EntityId='679a9cd2-2b57-4b4e-8c24-c8ea01788518'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701133500 +0000" stop="20260701141000 +0000">
+		<title>Kids' Planet - Habits - EP109</title>
+		<desc>In this episode, we will discover that habits are the result of repeating good action until it becomes part of our routine. All of our activities are very important! That's why you should give a very special place for rest, for having fun, and for sharing with your friends and family. We will also learn about the importance of punctuality!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928839'&amp;EntityType='LinearSchedule'&amp;EntityId='254b0402-5684-40a7-8f3b-cf8b70083136'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701141000 +0000" stop="20260701143000 +0000">
+		<title>Mellodees - Itsy Bitsy Spider - EP3</title>
+		<desc>With a rainstorm approaching, Dee has playtime in his room and makes a new little friend.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929102'&amp;EntityType='LinearSchedule'&amp;EntityId='59c955a1-1ed6-4a3a-b35d-05f507cf54fc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701143000 +0000" stop="20260701150000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep7 - EP107</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14928983'&amp;EntityType='LinearSchedule'&amp;EntityId='0171db38-8517-4f03-bf17-5853927be1f2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701150000 +0000" stop="20260701153000 +0000">
+		<title>Giselle and the Green Team - The Case of the Invasive Vector - EP113</title>
+		<desc>Gisele and the Green Team stop Nick Slick from sending tires infested with mosquitoes to Europe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929110'&amp;EntityType='LinearSchedule'&amp;EntityId='a06fa5ec-edf0-46bc-aede-2764636ab341'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701153000 +0000" stop="20260701160000 +0000">
+		<title>Shaq's Garage - Queenie for a Day - EP109</title>
+		<desc>Queenie is too big to go through the fancy carwash she saw on TV. The Shaq Paw has to find a way to cheer her up.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14929114'&amp;EntityType='LinearSchedule'&amp;EntityId='1273d60b-900d-4a04-a74d-d7cdd7c52e79'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701160000 +0000" stop="20260701163000 +0000">
+		<title>Thomas Edison's Secret Lab - Electri-Kent / Fashion Genes - EP106</title>
+		<desc>Kent discovers one of Edison’s secret inventions – an exo-bodysuit: a steampunk Ironman device that turns him into a klutzy superhero. / Ever-confident Nicky finds herself competing with Sheila in a “Project Runway”-type show, and, needing the perfect model to show off her designs on the runway, she decides to clone herself.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943494'&amp;EntityType='LinearSchedule'&amp;EntityId='d37d3182-61df-4e59-9a03-e482af204496'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260701163000 +0000" stop="20260701173000 +0000">
 		<title>CSI: Vegas S3 - EP 7</title>
 		<desc>Facing an existential threat that could bring down the Crime Lab, a brilliant team of forensic investigators must welcome back old friends and deploy new techniques to preserve and serve justice in Sin City.</desc>
@@ -3484,7 +3719,7 @@
 	<programme channel="97129" start="20260701183000 +0000" stop="20260702025700 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14942818'&amp;EntityType='LinearSchedule'&amp;EntityId='f106c3ad-7bd6-4897-848d-2cd069cffd86'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15055438'&amp;EntityType='LinearSchedule'&amp;EntityId='f106c3ad-7bd6-4897-848d-2cd069cffd86'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20260702025700 +0000" stop="20260702031400 +0000">
 		<title>The Wonder Shop - EP 312</title>
@@ -3754,7 +3989,7 @@
 	<programme channel="97084" start="20260702160000 +0000" stop="20260703010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14961718'&amp;EntityType='LinearSchedule'&amp;EntityId='f06e0634-6c75-4b3f-a87a-d99b7f977ad2'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15056330'&amp;EntityType='LinearSchedule'&amp;EntityId='f06e0634-6c75-4b3f-a87a-d99b7f977ad2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20260702010000 +0000" stop="20260702013000 +0000">
 		<title>Uncle, Taxi Enge Pogirathu? - EP 17</title>
@@ -3899,7 +4134,7 @@
 	<programme channel="97072" start="20260701210000 +0000" stop="20260701213000 +0000">
 		<title>Money Mind - EP 10</title>
 		<desc>Three workers, three very different experiences with artificial intelligence. As AI reshapes workplaces across Asia, who stands to gain, and who gets left behind?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14941502'&amp;EntityType='LinearSchedule'&amp;EntityId='88f977b8-2c22-4dc1-b76b-1718b78ab59d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055351'&amp;EntityType='LinearSchedule'&amp;EntityId='88f977b8-2c22-4dc1-b76b-1718b78ab59d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260701213000 +0000" stop="20260701220000 +0000">
 		<title>CNA Correspondent - EP 9</title>
@@ -3919,7 +4154,7 @@
 	<programme channel="97072" start="20260702020000 +0000" stop="20260702023000 +0000">
 		<title>Money Mind - EP 10</title>
 		<desc>Three workers, three very different experiences with artificial intelligence. As AI reshapes workplaces across Asia, who stands to gain, and who gets left behind?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14941633'&amp;EntityType='LinearSchedule'&amp;EntityId='e01413bc-a0a7-44dd-bb5f-39c08fe16712'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055359'&amp;EntityType='LinearSchedule'&amp;EntityId='e01413bc-a0a7-44dd-bb5f-39c08fe16712'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260702023000 +0000" stop="20260702030000 +0000">
 		<title>CNA Correspondent - EP 9</title>
@@ -3978,18 +4213,18 @@
 	</programme>
 	<programme channel="97072" start="20260702130000 +0000" stop="20260702140000 +0000">
 		<title>Insight - EP 7</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Malaysia is racing to become Southeast Asia's next AI powerhouse, attracting billions of dollars in data-centre investments. Can it become a true centre of AI innovation?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14941685'&amp;EntityType='LinearSchedule'&amp;EntityId='bde2bc90-f54e-496d-88ff-0b0a6aee9f69'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260702140000 +0000" stop="20260702150000 +0000">
-		<title>(Live) Singapore Tonight 2026/2027</title>
+		<title>(Live) Singapore Tonight</title>
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14941518'&amp;EntityType='LinearSchedule'&amp;EntityId='dbc9708a-f452-4b68-a785-8d650e77307a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260702150000 +0000" stop="20260702153000 +0000">
 		<title>Money Mind - EP 10</title>
 		<desc>Three workers, three very different experiences with artificial intelligence. As AI reshapes workplaces across Asia, who stands to gain, and who gets left behind?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14941695'&amp;EntityType='LinearSchedule'&amp;EntityId='082c97cf-873d-4bc0-8b28-efaf6c8174f3'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055371'&amp;EntityType='LinearSchedule'&amp;EntityId='082c97cf-873d-4bc0-8b28-efaf6c8174f3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260702153000 +0000" stop="20260702160000 +0000">
 		<title>CNA Correspondent - EP 9</title>
@@ -4001,85 +4236,70 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14961396'&amp;EntityType='LinearSchedule'&amp;EntityId='b5d79280-2563-4e1d-affb-ca48177151be'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558207" start="20260701180000 +0000" stop="20260701190000 +0000">
-		<title>(Live) FIFA World Cup 2026 - Post-Show - Round of 32: England vs Congo DR</title>
-		<desc>England begin the knockout phase against DR Congo, who have enjoyed a memorable tournament so far. England will aim to keep their title hopes on track, while DR Congo seek another famous result to reach the next round.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038108'&amp;EntityType='LinearSchedule'&amp;EntityId='30b7a8f0-5a66-42ef-b45b-1280a11a597b'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="558207" start="20260701190000 +0000" stop="20260701200000 +0000">
 		<title>(Live) FIFA World Cup 2026 - Pre-Show - Round of 32: Belgium vs Senegal</title>
 		<desc>Belgium and Senegal meet in one of the standout Round of 32 ties. Both sides possess the quality to make a deep run, with the winner earning a place in the Round of 16 and another opportunity to challenge for the title.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038205'&amp;EntityType='LinearSchedule'&amp;EntityId='2754ab9c-28df-4103-bdda-b60d5a86f1ea'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055419'&amp;EntityType='LinearSchedule'&amp;EntityId='d1812e09-27b2-44ea-8a6f-5b0e9a04ee2a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558207" start="20260701200000 +0000" stop="20260701220000 +0000">
+	<programme channel="558207" start="20260701200000 +0000" stop="20260701230000 +0000">
 		<title>(Live) FIFA World Cup 2026 - Round of 32: Belgium vs Senegal</title>
 		<desc>Belgium and Senegal meet in one of the standout Round of 32 ties. Both sides possess the quality to make a deep run, with the winner earning a place in the Round of 16 and another opportunity to challenge for the title.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038177'&amp;EntityType='LinearSchedule'&amp;EntityId='af0cfff6-9890-4b49-8d13-ca50d5aa2211'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558207" start="20260701220000 +0000" stop="20260701230000 +0000">
-		<title>(Live) FIFA World Cup 2026 - Post-Show - Round of 32: Belgium vs Senegal</title>
-		<desc>Belgium and Senegal meet in one of the standout Round of 32 ties. Both sides possess the quality to make a deep run, with the winner earning a place in the Round of 16 and another opportunity to challenge for the title.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038185'&amp;EntityType='LinearSchedule'&amp;EntityId='9df35912-7c65-4703-952c-03ebf738586e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055403'&amp;EntityType='LinearSchedule'&amp;EntityId='1a500202-f9ff-4f42-a98f-0355049aa700'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260701230000 +0000" stop="20260702000000 +0000">
 		<title>(Live) FIFA World Cup 2026 - Pre-Show - Round of 32: USA vs Bosnia and Herzegovina</title>
 		<desc>The United States take on Bosnia and Herzegovina hoping to make home advantage count. Bosnia will be chasing another milestone in their World Cup journey, with a Round of 16 berth awaiting the winner.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038193'&amp;EntityType='LinearSchedule'&amp;EntityId='32fc6cb4-1dac-4cb5-bb0c-0132ba6dfde7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055411'&amp;EntityType='LinearSchedule'&amp;EntityId='8cbae358-18fc-4c7a-ae5c-bc48fae7ee77'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558207" start="20260702000000 +0000" stop="20260702020000 +0000">
+	<programme channel="558207" start="20260702000000 +0000" stop="20260702030000 +0000">
 		<title>(Live) FIFA World Cup 2026 - Round of 32: USA vs Bosnia and Herzegovina</title>
 		<desc>The United States take on Bosnia and Herzegovina hoping to make home advantage count. Bosnia will be chasing another milestone in their World Cup journey, with a Round of 16 berth awaiting the winner.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038170'&amp;EntityType='LinearSchedule'&amp;EntityId='72586a06-b604-46b4-948e-e82b8b415b0b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558207" start="20260702020000 +0000" stop="20260702030000 +0000">
-		<title>(Live) FIFA World Cup 2026 - Post-Show - Round of 32: USA vs Bosnia and Herzegovina</title>
-		<desc>The United States take on Bosnia and Herzegovina hoping to make home advantage count. Bosnia will be chasing another milestone in their World Cup journey, with a Round of 16 berth awaiting the winner.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038211'&amp;EntityType='LinearSchedule'&amp;EntityId='bcbb8243-34e8-459c-9719-6931d79ac4e8'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055387'&amp;EntityType='LinearSchedule'&amp;EntityId='c3885008-fc43-462a-ab90-f8bbe4166408'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260702030000 +0000" stop="20260702033000 +0000">
 		<title>Football's Greatest Stage - EP 25</title>
 		<desc>Platini and Maldini never won the World Cup—but their brilliance and legacy still shine on football’s greatest stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038144'&amp;EntityType='LinearSchedule'&amp;EntityId='bb8ec759-9300-4cd6-bd10-f0e848460946'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055423'&amp;EntityType='LinearSchedule'&amp;EntityId='c8ff431a-0ac0-451d-ba6f-c252600e239d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260702033000 +0000" stop="20260702040000 +0000">
 		<title>Football's Greatest Stage - EP 26</title>
 		<desc>Roberto Carlos revolutionized football like Uruguay’s legendary teams, France’s unflappable Fabien Barthez, and Jack Charlton’s game‑changing Ireland.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038218'&amp;EntityType='LinearSchedule'&amp;EntityId='40a5c05b-c9b4-4a01-8e6c-8770ef25d06c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055391'&amp;EntityType='LinearSchedule'&amp;EntityId='9de255ea-3a20-4563-a5b0-ea0c679459d0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260702040000 +0000" stop="20260702061500 +0000">
-		<title>FIFA World Cup 2026 - Group Stage: Canada v Bosnia and Herzegovina</title>
-		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038227'&amp;EntityType='LinearSchedule'&amp;EntityId='d972d0d4-5897-4756-bda0-878b57e439b1'&amp;Width=1280&amp;Height=720" />
+		<title>FIFA World Cup 2026 - Round of 32: Mexico vs Ecuador</title>
+		<desc>Mexico and Ecuador meet in an evenly matched contest after strong group-stage displays. Both nations know a victory will secure a place in the Round of 16 and provide fresh momentum for the challenges ahead.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055395'&amp;EntityType='LinearSchedule'&amp;EntityId='6c1193d6-b0bd-4c5c-98ec-420b96a787a1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260702061500 +0000" stop="20260702084500 +0000">
 		<title>FIFA World Cup 2026 - Group Stage: Qatar v Switzerland</title>
 		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038153'&amp;EntityType='LinearSchedule'&amp;EntityId='e39ec59e-8ea9-46bd-8e10-bee514171cb2'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055407'&amp;EntityType='LinearSchedule'&amp;EntityId='ba1e81f4-050f-4f66-8fe3-773be8eecaf0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260702084500 +0000" stop="20260702110000 +0000">
 		<title>FIFA World Cup 2026 - Round of 32: England vs Congo DR</title>
 		<desc>England begin the knockout phase against DR Congo, who have enjoyed a memorable tournament so far. England will aim to keep their title hopes on track, while DR Congo seek another famous result to reach the next round.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038128'&amp;EntityType='LinearSchedule'&amp;EntityId='19f6b871-1cc1-47ac-9549-9c79b27f21fc'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055399'&amp;EntityType='LinearSchedule'&amp;EntityId='546bf466-3bde-4725-bce3-32e706fb863e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260702110000 +0000" stop="20260702113500 +0000">
 		<title>FIFA World Cup 2026 - Match Day Express - EP 21</title>
 		<desc>Match Day Express brings you the goals, the plays, and the heroes of all 104 matches of the FIFA World Cup 2026!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038117'&amp;EntityType='LinearSchedule'&amp;EntityId='98a22ed3-e00c-460f-9c37-1f595c9233be'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055437'&amp;EntityType='LinearSchedule'&amp;EntityId='24125973-0ee4-4826-b071-3a7f21a8fe3a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260702113500 +0000" stop="20260702134500 +0000">
 		<title>FIFA World Cup 2026 - Round of 32: Belgium vs Senegal</title>
 		<desc>Belgium and Senegal meet in one of the standout Round of 32 ties. Both sides possess the quality to make a deep run, with the winner earning a place in the Round of 16 and another opportunity to challenge for the title.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038135'&amp;EntityType='LinearSchedule'&amp;EntityId='760160dd-e27e-4745-8a05-d1dcac60aa2d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055427'&amp;EntityType='LinearSchedule'&amp;EntityId='526bd2f0-049d-49dc-b554-47ae54652cfb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260702134500 +0000" stop="20260702160000 +0000">
 		<title>FIFA World Cup 2026 - Round of 32: USA vs Bosnia and Herzegovina</title>
 		<desc>The United States take on Bosnia and Herzegovina hoping to make home advantage count. Bosnia will be chasing another milestone in their World Cup journey, with a Round of 16 berth awaiting the winner.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038201'&amp;EntityType='LinearSchedule'&amp;EntityId='d1b6e66e-c9f6-4a5f-804c-5d9c4a36145c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15055415'&amp;EntityType='LinearSchedule'&amp;EntityId='e3cbd8e4-e249-4393-936b-fb09750f98a8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558207" start="20260702160000 +0000" stop="20260702163000 +0000">
 		<title>FIFA World Cup 2026 - Match Highlights - EP 73</title>
 		<desc>South Africa and Canada meet with a place in the Round of 16 at stake. South Africa will hope to build on a determined group-stage campaign, while Canada aim to continue their impressive run. Both teams have shown resilience and attacking promise, setting up a competitive encounter where the winner moves one step closer to World Cup glory.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15038263'&amp;EntityType='LinearSchedule'&amp;EntityId='408a12af-05b1-4004-99ae-d4ca82c36eb0'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15058259'&amp;EntityType='LinearSchedule'&amp;EntityId='5f43bbde-53b6-44ca-b24e-f9577d59e9e3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260702110000 +0000" stop="20260702111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Health+ Kampo CholesGuard</title>
@@ -4204,12 +4424,12 @@
 	<programme channel="97073" start="20260702150000 +0000" stop="20260702160000 +0000">
 		<title>No programme available now. Next broadcast on 3rd July, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 3rd July, Friday 7pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14941422'&amp;EntityType='LinearSchedule'&amp;EntityId='f33a4f0f-8ea4-4d3a-8934-31ca925818aa'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15055367'&amp;EntityType='LinearSchedule'&amp;EntityId='f33a4f0f-8ea4-4d3a-8934-31ca925818aa'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260702160000 +0000" stop="20260703110000 +0000">
 		<title>No programme available now. Next broadcast on 3rd July, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 3rd July, Friday 7pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14961230'&amp;EntityType='LinearSchedule'&amp;EntityId='b5722b14-40b4-47c7-bb6a-0d5ebe02a51c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15055869'&amp;EntityType='LinearSchedule'&amp;EntityId='b5722b14-40b4-47c7-bb6a-0d5ebe02a51c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260701165035 +0000" stop="20260701184041 +0000">
 		<title>MasterChef Australia Season 10 - Pressure Test: Peter Gilmore's Snow Egg &amp; MasterClass 3</title>
@@ -5740,5 +5960,245 @@
 		<title>Schedule To Be Announced</title>
 		<desc>Schedule To Be Announced</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14962810'&amp;EntityType='LinearSchedule'&amp;EntityId='07960b85-865c-424a-b63e-2c5bb749e595'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701163000 +0000" stop="20260701170000 +0000">
+		<title>Mellodees - Twinkle Twinkle Little Star - EP4</title>
+		<desc>Go on an intergalactic adventure with Dee and Teddy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943681'&amp;EntityType='LinearSchedule'&amp;EntityId='8dcad293-4127-41d1-89b8-9b02e8d096c8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701170000 +0000" stop="20260701173000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep13 - EP113</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14943502'&amp;EntityType='LinearSchedule'&amp;EntityId='229bc697-4bee-4015-8a9c-b341b7f6fd1f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701173000 +0000" stop="20260701180000 +0000">
+		<title>Shaq's Garage - Whale of a Tale - EP118</title>
+		<desc>An underwater treasure hunt quickly turns into a rescue operation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943510'&amp;EntityType='LinearSchedule'&amp;EntityId='b7e11208-14ea-4202-9914-30fcd5a1a150'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701180000 +0000" stop="20260701183000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep2 - EP102</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14943422'&amp;EntityType='LinearSchedule'&amp;EntityId='860e9a65-fd99-490d-8e6b-c6b5a0f2f3f9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701183000 +0000" stop="20260701190000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep3 - EP3</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943690'&amp;EntityType='LinearSchedule'&amp;EntityId='0a063eb7-f899-4e74-b091-dbb33e5991c5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701190000 +0000" stop="20260701193500 +0000">
+		<title>Kids' Planet - Peace and Harmony - EP108</title>
+		<desc>In this episode of Kids' Planet, we will make a trip to discover what two important words mean: "Peace" and "Harmony". Our friend Curious who knows everything will guide us through the universe of values, teaching us a very important quality in "Kindness", and we will learn to reject violence, manage anger, make good decisions, and have self-control.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943698'&amp;EntityType='LinearSchedule'&amp;EntityId='2f974ebd-a626-4779-8d43-708fc10baf1a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701193500 +0000" stop="20260701201000 +0000">
+		<title>Kids' Planet - Habits - EP109</title>
+		<desc>In this episode, we will discover that habits are the result of repeating good action until it becomes part of our routine. All of our activities are very important! That's why you should give a very special place for rest, for having fun, and for sharing with your friends and family. We will also learn about the importance of punctuality!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943430'&amp;EntityType='LinearSchedule'&amp;EntityId='aea2c9fe-c30a-4e63-87cf-84266c5e234f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701201000 +0000" stop="20260701203000 +0000">
+		<title>Mellodees - Itsy Bitsy Spider - EP3</title>
+		<desc>With a rainstorm approaching, Dee has playtime in his room and makes a new little friend.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943330'&amp;EntityType='LinearSchedule'&amp;EntityId='b7584e17-ac1b-4b1e-bb5a-8c8eb3821382'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701203000 +0000" stop="20260701210000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep7 - EP107</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943439'&amp;EntityType='LinearSchedule'&amp;EntityId='e5058a5f-4d42-4d57-8059-f7406cb2b3a4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701210000 +0000" stop="20260701213000 +0000">
+		<title>Giselle and the Green Team - The Case of the Invasive Vector - EP113</title>
+		<desc>Gisele and the Green Team stop Nick Slick from sending tires infested with mosquitoes to Europe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943334'&amp;EntityType='LinearSchedule'&amp;EntityId='3a678e54-0e60-4a60-8e11-f862f8f7541c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701213000 +0000" stop="20260701220000 +0000">
+		<title>Shaq's Garage - Queenie for a Day - EP109</title>
+		<desc>Queenie is too big to go through the fancy carwash she saw on TV. The Shaq Paw has to find a way to cheer her up.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943570'&amp;EntityType='LinearSchedule'&amp;EntityId='1bd6747a-1b59-40fa-ab0f-f96c8ab92443'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701220000 +0000" stop="20260701223000 +0000">
+		<title>Thomas Edison's Secret Lab - Electri-Kent / Fashion Genes - EP106</title>
+		<desc>Kent discovers one of Edison’s secret inventions – an exo-bodysuit: a steampunk Ironman device that turns him into a klutzy superhero. / Ever-confident Nicky finds herself competing with Sheila in a “Project Runway”-type show, and, needing the perfect model to show off her designs on the runway, she decides to clone herself.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943702'&amp;EntityType='LinearSchedule'&amp;EntityId='05480bc6-a48f-462a-aabd-20e32531a0aa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701223000 +0000" stop="20260701230000 +0000">
+		<title>Mellodees - Twinkle Twinkle Little Star - EP4</title>
+		<desc>Go on an intergalactic adventure with Dee and Teddy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943370'&amp;EntityType='LinearSchedule'&amp;EntityId='e0194ef6-8ed7-4a01-b62d-a27469d69876'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701230000 +0000" stop="20260701233000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep13 - EP113</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14943378'&amp;EntityType='LinearSchedule'&amp;EntityId='eb9997ae-fc55-4bec-87aa-8fc8b08f38e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260701233000 +0000" stop="20260702000000 +0000">
+		<title>Shaq's Garage - Whale of a Tale - EP118</title>
+		<desc>An underwater treasure hunt quickly turns into a rescue operation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943386'&amp;EntityType='LinearSchedule'&amp;EntityId='d980a49c-88b3-4329-95e5-2fdff6d7bb63'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702000000 +0000" stop="20260702003000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep2 - EP102</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14943395'&amp;EntityType='LinearSchedule'&amp;EntityId='5839a653-5472-4af7-b2ae-3792fb272ef3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702003000 +0000" stop="20260702010000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep3 - EP3</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943404'&amp;EntityType='LinearSchedule'&amp;EntityId='72277055-47ea-4d27-a98d-ab6786ad90f6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702010000 +0000" stop="20260702013500 +0000">
+		<title>Kids' Planet - Peace and Harmony - EP108</title>
+		<desc>In this episode of Kids' Planet, we will make a trip to discover what two important words mean: "Peace" and "Harmony". Our friend Curious who knows everything will guide us through the universe of values, teaching us a very important quality in "Kindness", and we will learn to reject violence, manage anger, make good decisions, and have self-control.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943413'&amp;EntityType='LinearSchedule'&amp;EntityId='2f368bac-5b36-4cd5-833a-82b6103eacd5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702013500 +0000" stop="20260702021000 +0000">
+		<title>Kids' Planet - Habits - EP109</title>
+		<desc>In this episode, we will discover that habits are the result of repeating good action until it becomes part of our routine. All of our activities are very important! That's why you should give a very special place for rest, for having fun, and for sharing with your friends and family. We will also learn about the importance of punctuality!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943706'&amp;EntityType='LinearSchedule'&amp;EntityId='234dd966-8470-4336-9a28-8814bc323523'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702021000 +0000" stop="20260702023000 +0000">
+		<title>Mellodees - Itsy Bitsy Spider - EP3</title>
+		<desc>With a rainstorm approaching, Dee has playtime in his room and makes a new little friend.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943710'&amp;EntityType='LinearSchedule'&amp;EntityId='604c526d-a56c-4f8b-8d4d-b94e9ddfcc7f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702023000 +0000" stop="20260702030000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep7 - EP107</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943447'&amp;EntityType='LinearSchedule'&amp;EntityId='a2e52121-bac3-4e10-ad4d-42b51ba34d36'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702030000 +0000" stop="20260702033000 +0000">
+		<title>Giselle and the Green Team - The Case of the Invasive Vector - EP113</title>
+		<desc>Gisele and the Green Team stop Nick Slick from sending tires infested with mosquitoes to Europe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943457'&amp;EntityType='LinearSchedule'&amp;EntityId='77893460-05ea-4e7c-b792-7033d235bbcb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702033000 +0000" stop="20260702040000 +0000">
+		<title>Shaq's Garage - Queenie for a Day - EP109</title>
+		<desc>Queenie is too big to go through the fancy carwash she saw on TV. The Shaq Paw has to find a way to cheer her up.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943579'&amp;EntityType='LinearSchedule'&amp;EntityId='a3a37bcd-8890-45d0-a255-f1a6d11d5ae7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702040000 +0000" stop="20260702043000 +0000">
+		<title>Thomas Edison's Secret Lab - Electri-Kent / Fashion Genes - EP106</title>
+		<desc>Kent discovers one of Edison’s secret inventions – an exo-bodysuit: a steampunk Ironman device that turns him into a klutzy superhero. / Ever-confident Nicky finds herself competing with Sheila in a “Project Runway”-type show, and, needing the perfect model to show off her designs on the runway, she decides to clone herself.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943485'&amp;EntityType='LinearSchedule'&amp;EntityId='3310ce38-1d8d-45df-94eb-4f31b4be1672'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702043000 +0000" stop="20260702050000 +0000">
+		<title>Mellodees - Twinkle Twinkle Little Star - EP4</title>
+		<desc>Go on an intergalactic adventure with Dee and Teddy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943589'&amp;EntityType='LinearSchedule'&amp;EntityId='06375c83-2e38-4363-92f9-fdab4f3dc30b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702050000 +0000" stop="20260702053000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep13 - EP113</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14943714'&amp;EntityType='LinearSchedule'&amp;EntityId='7e9e7907-7b29-42ea-8aac-389329757e4d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702053000 +0000" stop="20260702060000 +0000">
+		<title>Shaq's Garage - Whale of a Tale - EP118</title>
+		<desc>An underwater treasure hunt quickly turns into a rescue operation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943598'&amp;EntityType='LinearSchedule'&amp;EntityId='a3d3072a-2bec-49ba-841b-5ccfeb3d7a7e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702060000 +0000" stop="20260702063000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep2 - EP102</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14943606'&amp;EntityType='LinearSchedule'&amp;EntityId='6b91989e-7ce7-4275-984d-3ad65793cc07'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702063000 +0000" stop="20260702070000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep3 - EP3</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943614'&amp;EntityType='LinearSchedule'&amp;EntityId='1d36cbe5-681a-414a-a1f4-8f964182c8e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702070000 +0000" stop="20260702073500 +0000">
+		<title>Kids' Planet - Peace and Harmony - EP108</title>
+		<desc>In this episode of Kids' Planet, we will make a trip to discover what two important words mean: "Peace" and "Harmony". Our friend Curious who knows everything will guide us through the universe of values, teaching us a very important quality in "Kindness", and we will learn to reject violence, manage anger, make good decisions, and have self-control.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943722'&amp;EntityType='LinearSchedule'&amp;EntityId='c22ba503-2803-48d0-92c8-e8a3f97e1f73'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702073500 +0000" stop="20260702081000 +0000">
+		<title>Kids' Planet - Habits - EP109</title>
+		<desc>In this episode, we will discover that habits are the result of repeating good action until it becomes part of our routine. All of our activities are very important! That's why you should give a very special place for rest, for having fun, and for sharing with your friends and family. We will also learn about the importance of punctuality!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943518'&amp;EntityType='LinearSchedule'&amp;EntityId='57272bb4-efe7-4ae7-8a02-c0e664209400'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702081000 +0000" stop="20260702083000 +0000">
+		<title>Mellodees - Itsy Bitsy Spider - EP3</title>
+		<desc>With a rainstorm approaching, Dee has playtime in his room and makes a new little friend.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943338'&amp;EntityType='LinearSchedule'&amp;EntityId='509b59d1-438f-4ecf-be6d-f33c6754f597'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702083000 +0000" stop="20260702090000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep7 - EP107</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943528'&amp;EntityType='LinearSchedule'&amp;EntityId='c8e2cb93-9cc1-4139-a221-45ae0b3b1b7b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702090000 +0000" stop="20260702093000 +0000">
+		<title>Giselle and the Green Team - The Case of the Invasive Vector - EP113</title>
+		<desc>Gisele and the Green Team stop Nick Slick from sending tires infested with mosquitoes to Europe.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943466'&amp;EntityType='LinearSchedule'&amp;EntityId='c156b3eb-936b-473f-88a8-153537a1dc9b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702093000 +0000" stop="20260702100000 +0000">
+		<title>Shaq's Garage - Queenie for a Day - EP109</title>
+		<desc>Queenie is too big to go through the fancy carwash she saw on TV. The Shaq Paw has to find a way to cheer her up.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943538'&amp;EntityType='LinearSchedule'&amp;EntityId='f79e6e3d-55c7-44e5-b667-6d0fe3f6251f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702100000 +0000" stop="20260702103000 +0000">
+		<title>Thomas Edison's Secret Lab - Electri-Kent / Fashion Genes - EP106</title>
+		<desc>Kent discovers one of Edison’s secret inventions – an exo-bodysuit: a steampunk Ironman device that turns him into a klutzy superhero. / Ever-confident Nicky finds herself competing with Sheila in a “Project Runway”-type show, and, needing the perfect model to show off her designs on the runway, she decides to clone herself.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943545'&amp;EntityType='LinearSchedule'&amp;EntityId='d814440b-e258-4865-8442-e863129b43a8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702103000 +0000" stop="20260702110000 +0000">
+		<title>Mellodees - Twinkle Twinkle Little Star - EP4</title>
+		<desc>Go on an intergalactic adventure with Dee and Teddy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943554'&amp;EntityType='LinearSchedule'&amp;EntityId='007e81a6-de08-4325-bb7c-519b32b15769'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702110000 +0000" stop="20260702113000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep14 - EP114</title>
+		<desc>Depressed by the antics of the other ghosts, Casper leaves home to make friends. After unintentionally scaring several potential pals, Casper befriends two young children. They take him home, where Casper frightens their mother. Casper is again upset because he believes that he will always scare away his potential buddies. However, Casper scares away a banker who is coming to foreclose on the woman's house, and this wins her heart for Casper.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14943560'&amp;EntityType='LinearSchedule'&amp;EntityId='fc5b5500-04b8-4a00-a86d-68710f3aa164'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702113000 +0000" stop="20260702120000 +0000">
+		<title>Shaq's Garage - Tibbs in Charge - EP119</title>
+		<desc>A mystery is afoot, toys have gone missing and it's up to the Shaq Pack to figure out what happened.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943634'&amp;EntityType='LinearSchedule'&amp;EntityId='09a36358-5cab-439b-9981-690d0ae46f90'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702120000 +0000" stop="20260702123000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep3 - EP103</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='14943642'&amp;EntityType='LinearSchedule'&amp;EntityId='107128f9-0321-4a7b-ac14-11d2f89b9a68'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702123000 +0000" stop="20260702130000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep4 - EP4</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943651'&amp;EntityType='LinearSchedule'&amp;EntityId='ae355d44-4de7-47f8-b6b9-081461516c97'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702130000 +0000" stop="20260702133000 +0000">
+		<title>Kids' Planet - Habits - EP109</title>
+		<desc>In this episode, we will discover that habits are the result of repeating good action until it becomes part of our routine. All of our activities are very important! That's why you should give a very special place for rest, for having fun, and for sharing with your friends and family. We will also learn about the importance of punctuality!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943662'&amp;EntityType='LinearSchedule'&amp;EntityId='a0de84a5-9344-47d1-92c7-4b434b826eda'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702133000 +0000" stop="20260702140500 +0000">
+		<title>Kids' Planet - Forgiveness - EP110</title>
+		<desc>In this episode, we will go on an expedition to the Planet of Forgiveness and learn that forgiveness is an act of love that helps us overcome anger and misunderstandings and that when we forgive we see things with more clarity. And most importantly, when we recognize our mistakes we realize the importance of asking for forgiveness through our hearts.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943346'&amp;EntityType='LinearSchedule'&amp;EntityId='241ca07a-b33d-4ccd-bcd2-df79b0166c0f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702140500 +0000" stop="20260702143000 +0000">
+		<title>Mellodees - Twinkle Twinkle Little Star - EP4</title>
+		<desc>Go on an intergalactic adventure with Dee and Teddy</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943476'&amp;EntityType='LinearSchedule'&amp;EntityId='149f7cfb-21a2-4b18-b03c-7d1115a20459'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702143000 +0000" stop="20260702150000 +0000">
+		<title>Sunny Bunnies: Get Busy - Sunny Bunnies: Get Busy Ep14 - EP114</title>
+		<desc>In a new spin-off series of mini-episodes - ‘Sunny Bunnies Get Busy’ - the characters are on hand to entertain and engage viewers in various colourful and creative activities and inspire children to 'Get Busy'.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943672'&amp;EntityType='LinearSchedule'&amp;EntityId='98603603-7c17-4947-852b-dcaa6760041c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702150000 +0000" stop="20260702153000 +0000">
+		<title>Giselle and the Green Team - The Case of the Pesticide Pest - EP201</title>
+		<desc>Gisele and her Green Team fight pollution in the Missouri River from pesticides from being dumped.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943357'&amp;EntityType='LinearSchedule'&amp;EntityId='add99a63-f37e-4718-b73e-6ed8735e5dba'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702153000 +0000" stop="20260702160000 +0000">
+		<title>Shaq's Garage - The Great Race - EP110</title>
+		<desc>Klaus's claim of being the fastest car int he world is put to the test.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14943624'&amp;EntityType='LinearSchedule'&amp;EntityId='5a1c7b01-79b7-4595-9474-5a1560b00792'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20260702160000 +0000" stop="20260702163000 +0000">
+		<title>Thomas Edison's Secret Lab - It Takes One to Grow One / Smells Like Teen Stink - EP107</title>
+		<desc>JD's ultimate fertilizer is slowly turning him into a plant and it's up to the team to get him back to the lab in time to cure him! / When Kent's super B.O. makes him reluctant to appear on a prized comic con panel, the Secret Lab kids have to find a way to Stop the Stink.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14963429'&amp;EntityType='LinearSchedule'&amp;EntityId='432bbfef-7056-4a8d-9279-39fec2ca7651'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
