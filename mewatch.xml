@@ -48,10 +48,6 @@
 		<display-name>River Monsters</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089297'&amp;EntityType='Item'&amp;EntityId='558241'&amp;Width=150&amp;Height=59" />
 	</channel>
-	<channel id="558273">
-		<display-name>FoodON</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089305'&amp;EntityType='Item'&amp;EntityId='558273'&amp;Width=150&amp;Height=59" />
-	</channel>
 	<channel id="773721">
 		<display-name>That's 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13362956'&amp;EntityType='Item'&amp;EntityId='773721'&amp;Width=264&amp;Height=250" />
@@ -95,6 +91,10 @@
 	<channel id="556893">
 		<display-name>Kartoon Channel!</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358834'&amp;EntityType='Item'&amp;EntityId='556893'&amp;Width=350&amp;Height=250" />
+	</channel>
+	<channel id="556877">
+		<display-name>TG Junior</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358838'&amp;EntityType='Item'&amp;EntityId='556877'&amp;Width=264&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260719133000 +0000" stop="20260719162400 +0000">
 		<title>FIFA World Cup 2026 - Third Place Final: France vs England</title>
@@ -1786,236 +1786,6 @@
 		<desc>Jeremy Wade investigates whether the snakehead deserves its fearsome reputation.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15286961'&amp;EntityType='LinearSchedule'&amp;EntityId='dd0900e2-68bd-4ddd-b313-2b3b5d2d067f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558273" start="20260719145940 +0000" stop="20260719161302 +0000">
-		<title>Mealkit Lab - Mealkit Lab Ep.5 Pork cutlet Meal Kit</title>
-		<desc>Which hangover cure meal kit is fake? Who makes the best tonkatsu?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15267145'&amp;EntityType='LinearSchedule'&amp;EntityId='64366fe5-e197-44f1-afac-5be81f378e2d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260719161302 +0000" stop="20260719172638 +0000">
-		<title>Mealkit Lab - Mealkit Lab Ep.6 Pork belly(Samgyeopsal) Meal Kit</title>
-		<desc>Which late-night snack meal kit is fake? A showdown of pork belly meal kits!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15267374'&amp;EntityType='LinearSchedule'&amp;EntityId='d16696e7-bab9-482a-b04e-71e9bc5c6521'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260719172638 +0000" stop="20260719183936 +0000">
-		<title>Mealkit Lab - Mealkit Lab Ep.7 Kalguksu Meal Kit</title>
-		<desc>A cheat day meal kit for dieters? The secret to perfecting kalguksu!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319824'&amp;EntityType='LinearSchedule'&amp;EntityId='8328be0d-76da-431a-b746-5cb40a2b227b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260719183936 +0000" stop="20260719192919 +0000">
-		<title>The Korean Dish Expedition - The Korean Dish Expedition Ep.13</title>
-		<desc>Passed down through generations, the heirloom cuisine of traditional Korean clan households reflects a deep understanding of nature and timeless wisdom. On the humble yet elegant tables prepared by the matriarchs of these homes, forgotten flavors and fading culinary traditions are rediscovered and brought back to life.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319945'&amp;EntityType='LinearSchedule'&amp;EntityId='4f2d486a-86e7-4893-82ea-132e31398f63'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260719192919 +0000" stop="20260719201933 +0000">
-		<title>The Korean Dish Expedition - The Korean Dish Expedition Ep.14</title>
-		<desc>Passed down through generations, the heirloom cuisine of traditional Korean clan households reflects a deep understanding of nature and timeless wisdom. On the humble yet elegant tables prepared by the matriarchs of these homes, forgotten flavors and fading culinary traditions are rediscovered and brought back to life.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319694'&amp;EntityType='LinearSchedule'&amp;EntityId='8b090442-34e2-4a6f-9b03-6fe9c5b18733'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260719201933 +0000" stop="20260719213154 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 25</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319703'&amp;EntityType='LinearSchedule'&amp;EntityId='4e14d8e9-69e3-4fcf-a5fd-4a6a5062879b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260719213154 +0000" stop="20260719223634 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 26</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320145'&amp;EntityType='LinearSchedule'&amp;EntityId='07637eb2-08c1-4ba9-a857-26bf7d33e6ed'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260719223634 +0000" stop="20260719234545 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 27</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319835'&amp;EntityType='LinearSchedule'&amp;EntityId='30f71fae-0056-4406-9ed6-fbc37644a3c7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260719234545 +0000" stop="20260719235530 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Cucumber</title>
-		<desc>Cucumber Sandwich</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319710'&amp;EntityType='LinearSchedule'&amp;EntityId='1cb5ae96-bc67-4286-876e-2c824f42986b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260719235530 +0000" stop="20260720000415 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Lettuce</title>
-		<desc>Lettuce Salad</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319955'&amp;EntityType='LinearSchedule'&amp;EntityId='9006142c-6f8e-469e-b04f-67c6c6a84d7f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720000415 +0000" stop="20260720001253 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Zucchini</title>
-		<desc>Seasoned Zucchini</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319967'&amp;EntityType='LinearSchedule'&amp;EntityId='af8be6b0-9216-4770-b108-8ef02571adb0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720001253 +0000" stop="20260720004036 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Kim Deok-nyeo’s Oyster Kimchi Soup and Yam Beef Stew</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319979'&amp;EntityType='LinearSchedule'&amp;EntityId='5ed825ca-365b-4560-98df-88fa2e2d1114'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720004036 +0000" stop="20260720010715 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Kim Deok-nyeo’s Seaweed Egg Custard and Spicy Stir-fried Sweet Potato</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319991'&amp;EntityType='LinearSchedule'&amp;EntityId='6ec41a2f-0cbb-4102-a056-537f0a712e28'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720010715 +0000" stop="20260720012016 +0000">
-		<title>Awesome Food - Awesome Food Ep.24 Traditional Korean Snack</title>
-		<desc>Making Traditional Korean Snack Oranda and jeonbyung</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320094'&amp;EntityType='LinearSchedule'&amp;EntityId='39889093-0396-4c88-beb5-44a0c0f80cb0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720012016 +0000" stop="20260720013000 +0000">
-		<title>Awesome Food - Awesome Food Ep.21 Chinese Food Buffet</title>
-		<desc>Kitchen of 9000 Won Chinese Food Buffet</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320005'&amp;EntityType='LinearSchedule'&amp;EntityId='dfa45262-c846-4b92-a9ac-8336c1a407ed'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720013000 +0000" stop="20260720013907 +0000">
-		<title>Awesome Food - Awesome Food Ep.22 Steamed Fish</title>
-		<desc>Making 10 Steamed Fish Dishes!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320016'&amp;EntityType='LinearSchedule'&amp;EntityId='d85b9d9e-0b18-46cc-b971-a94ada4d631a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720013907 +0000" stop="20260720014817 +0000">
-		<title>Awesome Food - Awesome Food Ep.25 Cupcakes</title>
-		<desc>Process of Making Beautiful Cupcakes</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320028'&amp;EntityType='LinearSchedule'&amp;EntityId='f64597e6-8539-4067-82f8-1e79b623ac60'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720014817 +0000" stop="20260720015726 +0000">
-		<title>Awesome Food - Awesome Food Ep.19 Gimbap</title>
-		<desc>Making Unique Korean Gimbap</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319811'&amp;EntityType='LinearSchedule'&amp;EntityId='0fb1ef2b-596a-48fb-888d-05be3ea99176'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720015726 +0000" stop="20260720020736 +0000">
-		<title>Awesome Food - Awesome Food Ep.20 1000 Layer Chocolate Pastry</title>
-		<desc>Bakery Tour! Let’s have a look at how a 1000-layer pastry is made.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320105'&amp;EntityType='LinearSchedule'&amp;EntityId='5099ab50-3a69-402a-97ff-a8b656e50a69'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720020736 +0000" stop="20260720021648 +0000">
-		<title>Awesome Food - Awesome Food Ep.26 Galbi-Flavored Fried Chicken</title>
-		<desc>Making Korean Galbi-Flavored Fried Chicken</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319901'&amp;EntityType='LinearSchedule'&amp;EntityId='e9742207-6aa3-4e35-bf53-0388b7849799'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720021648 +0000" stop="20260720022754 +0000">
-		<title>Awesome Food - Awesome Food Ep.23 Clam Macarons</title>
-		<desc>Making Clam Macarons</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319913'&amp;EntityType='LinearSchedule'&amp;EntityId='1938d67c-97a0-4297-94ac-c504e45d6550'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720022754 +0000" stop="20260720040312 +0000">
-		<title>Paik's Les Miserables - Paik's Les Miserables Ep 9. The Business War (Part 1)</title>
-		<desc>Renowned chef Paik Jong-won leads 20 contestants seeking a new start through Spartan-style missions for the chance to open their own restaurant.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320156'&amp;EntityType='LinearSchedule'&amp;EntityId='1fb389f9-10fd-4d2c-988f-b6a18c9ee312'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720040312 +0000" stop="20260720060046 +0000">
-		<title>Paik's Les Miserables - Paik's Les Miserables Ep 10. The Business War (Part 2)</title>
-		<desc>Renowned chef Paik Jong-won leads 20 contestants seeking a new start through Spartan-style missions for the chance to open their own restaurant.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319921'&amp;EntityType='LinearSchedule'&amp;EntityId='1a7ca661-85b8-4b9e-a637-293862143825'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720060046 +0000" stop="20260720060938 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Green Chili</title>
-		<desc>Green Chili Fermented Soybean Water Kimchi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319846'&amp;EntityType='LinearSchedule'&amp;EntityId='e9faa0e8-b2e2-4368-9267-ecb24706aabc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720060938 +0000" stop="20260720061817 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Perilla Leaves</title>
-		<desc>Steamed Perilla Leaves as a Rustic Side Dish</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319719'&amp;EntityType='LinearSchedule'&amp;EntityId='dd37a3ca-e209-428d-9d78-312132e7d526'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720061817 +0000" stop="20260720062657 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Eggplant</title>
-		<desc>Grilled Eggplant with Miso and Lemon Sauce</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319934'&amp;EntityType='LinearSchedule'&amp;EntityId='37ac6759-26a0-4bbd-9aaa-ab9d79b56d0b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720062657 +0000" stop="20260720065352 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Kim Deok-nyeo’s Cabbage Dumplings</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319734'&amp;EntityType='LinearSchedule'&amp;EntityId='c07f8266-7f75-42a8-8055-eb3d5c61eb50'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720065352 +0000" stop="20260720071944 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Kim Deok-nyeo’s Fish Cake Skewer Soup</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320169'&amp;EntityType='LinearSchedule'&amp;EntityId='517e9c46-10d5-4aba-9a66-bd5047a6d816'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720071944 +0000" stop="20260720083205 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 25</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319856'&amp;EntityType='LinearSchedule'&amp;EntityId='6d759cb5-a279-4496-bee6-9e198189f411'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720083205 +0000" stop="20260720093645 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 26</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319743'&amp;EntityType='LinearSchedule'&amp;EntityId='47278c5f-f2c4-479e-b8be-9a8483bc6c1b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720093645 +0000" stop="20260720104555 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 27</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319865'&amp;EntityType='LinearSchedule'&amp;EntityId='f3c37d78-1bee-4a01-8459-c79cec94c9f5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720104555 +0000" stop="20260720105540 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Cucumber</title>
-		<desc>Cucumber Sandwich</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319877'&amp;EntityType='LinearSchedule'&amp;EntityId='9d03492c-961a-4843-8993-0d5b591001e5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720105540 +0000" stop="20260720110425 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Lettuce</title>
-		<desc>Lettuce Salad</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319752'&amp;EntityType='LinearSchedule'&amp;EntityId='a35d6819-99b4-4466-aa85-a6b231579a3e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720110425 +0000" stop="20260720111304 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Zucchini</title>
-		<desc>Seasoned Zucchini</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319764'&amp;EntityType='LinearSchedule'&amp;EntityId='af898188-31c0-41ff-adaf-1a4424c5d7ee'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720111304 +0000" stop="20260720114047 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Kim Deok-nyeo’s Oyster Kimchi Soup and Yam Beef Stew</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320084'&amp;EntityType='LinearSchedule'&amp;EntityId='14120958-c8ed-479c-a958-28e4715e1816'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720114047 +0000" stop="20260720120726 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Kim Deok-nyeo’s Seaweed Egg Custard and Spicy Stir-fried Sweet Potato</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320040'&amp;EntityType='LinearSchedule'&amp;EntityId='d91974e7-5011-42bc-81fc-735cf52ad56d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720120726 +0000" stop="20260720122027 +0000">
-		<title>Awesome Food - Awesome Food Ep.24 Traditional Korean Snack</title>
-		<desc>Making Traditional Korean Snack Oranda and jeonbyung</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319778'&amp;EntityType='LinearSchedule'&amp;EntityId='5e50143c-4878-4676-b8ac-6b9fb06ef5e9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720122027 +0000" stop="20260720123010 +0000">
-		<title>Awesome Food - Awesome Food Ep.21 Chinese Food Buffet</title>
-		<desc>Kitchen of 9000 Won Chinese Food Buffet</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319789'&amp;EntityType='LinearSchedule'&amp;EntityId='b801591a-e676-411c-aacb-b301a4282ce2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720123010 +0000" stop="20260720123918 +0000">
-		<title>Awesome Food - Awesome Food Ep.22 Steamed Fish</title>
-		<desc>Making 10 Steamed Fish Dishes!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320050'&amp;EntityType='LinearSchedule'&amp;EntityId='43c1fa0e-5849-40c4-be0e-53d20ccc21ab'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720123918 +0000" stop="20260720124827 +0000">
-		<title>Awesome Food - Awesome Food Ep.25 Cupcakes</title>
-		<desc>Process of Making Beautiful Cupcakes</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320113'&amp;EntityType='LinearSchedule'&amp;EntityId='9c0e2190-df28-41e2-b2d9-1f5645ff0e6a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720124827 +0000" stop="20260720125736 +0000">
-		<title>Awesome Food - Awesome Food Ep.19 Gimbap</title>
-		<desc>Making Unique Korean Gimbap</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320134'&amp;EntityType='LinearSchedule'&amp;EntityId='a70c38d2-ab88-4407-81ee-bb4172b5ebd1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720125736 +0000" stop="20260720130747 +0000">
-		<title>Awesome Food - Awesome Food Ep.20 1000 Layer Chocolate Pastry</title>
-		<desc>Bakery Tour! Let’s have a look at how a 1000-layer pastry is made.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320061'&amp;EntityType='LinearSchedule'&amp;EntityId='96010c2b-091a-424a-a6bc-a08e2c821bdf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720130747 +0000" stop="20260720131658 +0000">
-		<title>Awesome Food - Awesome Food Ep.26 Galbi-Flavored Fried Chicken</title>
-		<desc>Making Korean Galbi-Flavored Fried Chicken</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320073'&amp;EntityType='LinearSchedule'&amp;EntityId='838c1354-efe3-4280-96ad-798883f0f948'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720131658 +0000" stop="20260720132804 +0000">
-		<title>Awesome Food - Awesome Food Ep.23 Clam Macarons</title>
-		<desc>Making Clam Macarons</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319799'&amp;EntityType='LinearSchedule'&amp;EntityId='dfda3ef9-2c20-46d4-a84d-751289beafbb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720132804 +0000" stop="20260720152538 +0000">
-		<title>Paik's Les Miserables - Paik's Les Miserables Ep 10. The Business War (Part 2)</title>
-		<desc>Renowned chef Paik Jong-won leads 20 contestants seeking a new start through Spartan-style missions for the chance to open their own restaurant.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320121'&amp;EntityType='LinearSchedule'&amp;EntityId='1bb37c2f-7520-473a-b93f-284652075ddd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720152538 +0000" stop="20260720163304 +0000">
-		<title>Mealkit Lab - Mealkit Lab Ep.8 Dakgalbi Meal Kit</title>
-		<desc>Mealkit Lab</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319889'&amp;EntityType='LinearSchedule'&amp;EntityId='e45b41f1-e5f9-4927-b2e8-6fc5095617bd'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="773721" start="20260719160000 +0000" stop="20260719170000 +0000">
 		<title>Ultimate 80s Power Ballads!</title>
 		<desc>Crank it up loud! These are the Power ballads that defined the decade.</desc>
@@ -3321,40 +3091,305 @@
 		<desc>When a power company worker finds an abandoned eagle’s nest precariously perched atop a wind turbine the SECRET LAB KIDS build a homemade rocket to fire a rope up to him so he can lower the nest to safety. / When JD and Kent discover there’s a shortage of beeswax for their surfboards, it leads to the discovery that all the local honeybees have vanished from the beehives.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15286310'&amp;EntityType='LinearSchedule'&amp;EntityId='90a6a050-3bbc-4a0f-9bca-c57c204790a0'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="556877" start="20260719160000 +0000" stop="20260719163000 +0000">
+		<title>Timmy Time</title>
+		<desc>Being an ‘only lamb in the flock’ Timmy has been used to getting his own way. Now for the first time Timmy is going to have to learn to get along with other little animals. Timmy is going to Nursery! Self-willed and naughty Timmy is going to have to learn how to share things with other youngsters and think about their feelings – not just his. Timmy is a gifted little footballer who needs to learn that it’s not enough to kick the ball – you have to pass it too. Harriet Heron and Osbourne Owl, who run the Nursery are going to have their hands full, but Timmy gets it right in the end with a little help from his friends of the furry, feathery and spikey type.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268690'&amp;EntityType='LinearSchedule'&amp;EntityId='ff790c89-efc5-42ef-af08-c248376b791d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719163000 +0000" stop="20260719170000 +0000">
+		<title>Misha, the Purple Cat </title>
+		<desc>Misha is a very lively, alert cat. She is very interested in investigating everything going on around her, which means she has some very entertaining adventures with her friends. Many things can happen in Misha’s world; especially exciting adventures, mysterious investigations, hilarious competitions... all with a feeling of close friendship.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268181'&amp;EntityType='LinearSchedule'&amp;EntityId='6c46210f-3ec7-430c-8abe-e92c6acd4cee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719170000 +0000" stop="20260719180000 +0000">
+		<title>Music Box</title>
+		<desc>Get ready to dance and sing-along to music-filled episodes</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268185'&amp;EntityType='LinearSchedule'&amp;EntityId='123fef66-65e8-4cc9-9c16-6259c6693559'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719180000 +0000" stop="20260719190000 +0000">
+		<title>LOL Block </title>
+		<desc>A crazy collection of hilarious comedy series featuring shows like, Jelly Jam, Crazy Candies, Karim &amp; Noor, and Talking Tom.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268513'&amp;EntityType='LinearSchedule'&amp;EntityId='af1f5895-1df1-4721-ac78-4ccf2c8eca1d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719190000 +0000" stop="20260719193000 +0000">
+		<title>Baby Riki </title>
+		<desc>The show covers all aspects of a child’s life from physical well-being to cognitive and soft skills. The musical stories are based around age-appropriate experiences with educational concepts introduced in familiar surroundings and context for infants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268400'&amp;EntityType='LinearSchedule'&amp;EntityId='67d68996-1076-4756-914b-ad16edfb7c25'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719193000 +0000" stop="20260719200000 +0000">
+		<title>Talking Tom and Friends Minis</title>
+		<desc>Get ready to watch Talking Tom and Friends at their cutest! Mini in size, but massive in fun, the Minis check out the day-to-day world of the friends we all know and love where they do the most ordinary things in the most extraordinary ways.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268416'&amp;EntityType='LinearSchedule'&amp;EntityId='dbc45f58-8acf-4705-b4f3-a539ff4d381b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719200000 +0000" stop="20260719203000 +0000">
+		<title>Leo the Wildlife Ranger</title>
+		<desc>Leo the Wildlife Ranger introduces the secrets and wonders of nature and wildlife around us and kickstarts a curiosity and passion for nature in kids. With engaging missions and adventures, kids have fun while learning positive lessons!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268262'&amp;EntityType='LinearSchedule'&amp;EntityId='bba94455-2749-477d-afb7-c9a837c43d92'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719203000 +0000" stop="20260719210000 +0000">
+		<title>Counting With Paula</title>
+		<desc>The show features Paula and her friends, Tim, Billy, Chalky, Calc, and the Numbers as they go on exciting adventures in colorful and exotic places. From the Amazon jungles to the deepest oceans, and to the hottest deserts, Paula and friends solve problems, have fun and make more friends along the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268277'&amp;EntityType='LinearSchedule'&amp;EntityId='f7201b85-2d36-42ec-866f-5eb7a0ebbf6c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719210000 +0000" stop="20260719213000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268292'&amp;EntityType='LinearSchedule'&amp;EntityId='bdcf0581-4244-414f-8ff6-fc7cf5cf6bb4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719213000 +0000" stop="20260719220000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268189'&amp;EntityType='LinearSchedule'&amp;EntityId='f80d61cd-f8a7-4adc-859b-ef5c0bfde4cc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719220000 +0000" stop="20260719230000 +0000">
+		<title>Bino &amp; Fino</title>
+		<desc>Bino &amp; Fino is about a brother and sister named Bino and Fino who live with their grandparents 'Mama' and 'Papa' in a modern day city in Africa. Bino and Fino have many adventures where, with the help of their friend Zeena the Magic Butterfly, they discover and learn things about the world.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268193'&amp;EntityType='LinearSchedule'&amp;EntityId='5768d46d-c47a-4318-9444-5df5262222ed'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719230000 +0000" stop="20260719233000 +0000">
+		<title>Horaci the Inuit</title>
+		<desc>Packed with adventure, fun and excitement, HORACI THE INUIT will transport you to the Lands of the North where, together with his best friend Sedna, he will have to solve all kinds of mysteries! Horaci the Inuit takes place in a remote village and talks about universal values such as caring for nature, being intuitive and open-minded and, above all, having a loving respect for family and friends!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268197'&amp;EntityType='LinearSchedule'&amp;EntityId='d5ffb592-15bd-48aa-bbd4-73c12d139a57'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260719233000 +0000" stop="20260720000000 +0000">
+		<title>Nutri Ventures </title>
+		<desc>Protecting Healthy Foods At All Costs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268528'&amp;EntityType='LinearSchedule'&amp;EntityId='d166b01f-caae-42fb-9f8a-9a94ddc29cdd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720000000 +0000" stop="20260720003000 +0000">
+		<title>Chefclub Kids</title>
+		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268428'&amp;EntityType='LinearSchedule'&amp;EntityId='e8b8bfc4-6f7f-4314-9a4d-a4471d3415de'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720003000 +0000" stop="20260720013000 +0000">
+		<title>Hogie the Globehopper</title>
+		<desc>Hogie the Globehopper is a fun tv show that will inspire a curiosity and fascination about the world and its people. Hogie and his friends Lorna, Bernie and Floaty travel the world, making lots of friends along the way.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268201'&amp;EntityType='LinearSchedule'&amp;EntityId='6bd70be5-b636-4c23-8eab-1a92a610e688'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720013000 +0000" stop="20260720013330 +0000">
+		<title>Bernard - Bernard - At The North Pole</title>
+		<desc>Bernard gets bored trekking across the frozen Arctic wastes. Some abandoned equipment becomes a source of great entertainment, but not for long.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268250'&amp;EntityType='LinearSchedule'&amp;EntityId='9cac9f10-679f-403e-8974-7dffb7cd6158'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720013330 +0000" stop="20260720013659 +0000">
+		<title>Bernard - Bernard - The Package</title>
+		<desc>Zack tries to steal a parcel which Bernard is carrying. At first he succeeds, but Bernard doesn't give up that easily.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268539'&amp;EntityType='LinearSchedule'&amp;EntityId='093df211-6533-4fab-bc80-7cd79aee60a5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720013659 +0000" stop="20260720014233 +0000">
+		<title>Bernard - Bernard - Sleepwalker</title>
+		<desc>Even when he's asleep, Bernard is capable of anything – as he finds out when he wakes up in the morning.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268445'&amp;EntityType='LinearSchedule'&amp;EntityId='fc6dc921-0136-4d3c-b99a-6fe2cd6f731b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720014233 +0000" stop="20260720014607 +0000">
+		<title>Bernard - Bernard - The Pizza</title>
+		<desc>Bernard</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268555'&amp;EntityType='LinearSchedule'&amp;EntityId='ccf343cb-ff6d-4fc6-a767-18723eebba50'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720014607 +0000" stop="20260720015133 +0000">
+		<title>Bernard - Bernard - The Unicycle</title>
+		<desc>To the amazement of Zack, Bernard discovers he has some performing skills which he never knew he had.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268570'&amp;EntityType='LinearSchedule'&amp;EntityId='47b1946e-1ac5-4554-b8c9-5c1a018787bb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720015133 +0000" stop="20260720015500 +0000">
+		<title>Bernard - Bernard - The Motorboat</title>
+		<desc>Although Bernard has been shipwrecked, his real problems begin when he finds an abandoned motorboat which could get him back to shore.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268700'&amp;EntityType='LinearSchedule'&amp;EntityId='235af932-e36b-475c-98d5-deb1d65a2bf0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720015500 +0000" stop="20260720020000 +0000">
+		<title>Bernard - Bernard - The Prisoner</title>
+		<desc>Bernard makes a daring escape from prison, but once he's out, he realises that perhaps life inside wasn't so bad after all.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268712'&amp;EntityType='LinearSchedule'&amp;EntityId='49d5f4f8-26dc-4fb5-8363-d3013fc8ab49'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720020000 +0000" stop="20260720023000 +0000">
+		<title>The Fixies</title>
+		<desc>The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There’s just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268205'&amp;EntityType='LinearSchedule'&amp;EntityId='cabd11d8-710c-4f02-bda9-a2632b9b0358'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720023000 +0000" stop="20260720030000 +0000">
+		<title>Brain Candy TV</title>
+		<desc>Early learning for a brighter future! Your children will love to learn their ABCs, numbers, colors and even some math and science with the help of our action-packed vehicles including monster trucks, dump trucks, trains and more, plus our cute dog Lizzy.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268309'&amp;EntityType='LinearSchedule'&amp;EntityId='9209b8f7-0f62-4262-a1af-e320b6545355'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720030000 +0000" stop="20260720033000 +0000">
+		<title>Nutri Ventures </title>
+		<desc>Protecting Healthy Foods At All Costs!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268385'&amp;EntityType='LinearSchedule'&amp;EntityId='993d25f1-0430-485c-a923-1d7cafd067d0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720033000 +0000" stop="20260720040000 +0000">
+		<title>Chefclub Kids</title>
+		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268584'&amp;EntityType='LinearSchedule'&amp;EntityId='c7b77be5-75f2-44af-85e2-d29ab42c1b1f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720040000 +0000" stop="20260720043000 +0000">
+		<title>Timmy Time</title>
+		<desc>Being an ‘only lamb in the flock’ Timmy has been used to getting his own way. Now for the first time Timmy is going to have to learn to get along with other little animals. Timmy is going to Nursery! Self-willed and naughty Timmy is going to have to learn how to share things with other youngsters and think about their feelings – not just his. Timmy is a gifted little footballer who needs to learn that it’s not enough to kick the ball – you have to pass it too. Harriet Heron and Osbourne Owl, who run the Nursery are going to have their hands full, but Timmy gets it right in the end with a little help from his friends of the furry, feathery and spikey type.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268723'&amp;EntityType='LinearSchedule'&amp;EntityId='0cdb527d-394a-43b0-bc6f-9cea1262490f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720043000 +0000" stop="20260720050000 +0000">
+		<title>Misha, the Purple Cat </title>
+		<desc>Misha is a very lively, alert cat. She is very interested in investigating everything going on around her, which means she has some very entertaining adventures with her friends. Many things can happen in Misha’s world; especially exciting adventures, mysterious investigations, hilarious competitions... all with a feeling of close friendship.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268736'&amp;EntityType='LinearSchedule'&amp;EntityId='2c989a05-851f-4afd-a10b-09fef2eb5f1e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720050000 +0000" stop="20260720060000 +0000">
+		<title>LOL Block </title>
+		<desc>A crazy collection of hilarious comedy series featuring shows like, Jelly Jam, Crazy Candies, Karim &amp; Noor, and Talking Tom.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268325'&amp;EntityType='LinearSchedule'&amp;EntityId='cc8ca19e-5801-41ec-bfff-c404eddc4d51'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720060000 +0000" stop="20260720070000 +0000">
+		<title>LOL Block </title>
+		<desc>A crazy collection of hilarious comedy series featuring shows like, Jelly Jam, Crazy Candies, Karim &amp; Noor, and Talking Tom.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268210'&amp;EntityType='LinearSchedule'&amp;EntityId='6f40cfff-2743-4445-88f9-bb63f5c6ab2e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720070000 +0000" stop="20260720073000 +0000">
+		<title>RoboFuse</title>
+		<desc>Robo works tirelessly with his loyal friends to protect Car City from Zitron's constant schemes to steal the city's energy source.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268338'&amp;EntityType='LinearSchedule'&amp;EntityId='3f97a4e0-3402-4f4e-aed5-1860c4c93fec'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720073000 +0000" stop="20260720080000 +0000">
+		<title>VIP Pets</title>
+		<desc>We are the VIP Pets! The coolest pets with a passion for hair! We are best friends and together we will discover lots of beautiful hairstyles and go on exciting adventures!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268748'&amp;EntityType='LinearSchedule'&amp;EntityId='d1c6feef-4c0f-472b-bb08-8d41b70903b1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720080000 +0000" stop="20260720083000 +0000">
+		<title>Om Nom Stories</title>
+		<desc>Sweet tooth Om Nom is wandering Around the world, eats a lot of candies and tries to find his Dream job. Watch his adventures and solve different puzzles on the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268762'&amp;EntityType='LinearSchedule'&amp;EntityId='5ab13f88-e2ba-4bd7-8bc9-57372f466988'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720083000 +0000" stop="20260720090000 +0000">
+		<title>Chefclub Kids</title>
+		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268217'&amp;EntityType='LinearSchedule'&amp;EntityId='3301609a-b999-4811-a2a3-a2775202dfb0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720090000 +0000" stop="20260720093000 +0000">
+		<title>Ryan Defrates</title>
+		<desc>Ryan Defrates</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268775'&amp;EntityType='LinearSchedule'&amp;EntityId='fdcb5146-db9a-4745-83cf-ea8d417b4571'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720093000 +0000" stop="20260720093355 +0000">
+		<title>Tom's Car Wash - Tom's Car Wash - Fresh &amp; Clean</title>
+		<desc>Baby Frank's been playing at the paint shooting range as in covered in it! Tom gets him all shiny again.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268502'&amp;EntityType='LinearSchedule'&amp;EntityId='ec3c3297-c521-4ece-8e95-ca864a8bbffc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720093355 +0000" stop="20260720094248 +0000">
+		<title>Tom's Car Wash - Tom's Car Wash - Muddy Puddles</title>
+		<desc>Baby Hector's spent the afternoon jumping in puddles; the mud got his blades stuck! Time for a trip to the carwash.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268351'&amp;EntityType='LinearSchedule'&amp;EntityId='8b59536e-aa2a-43fb-8b47-e1d31d81aaee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720094248 +0000" stop="20260720094639 +0000">
+		<title>Tom's Car Wash - Tom's Car Wash - The Beehive</title>
+		<desc>Jeremy's crashed into a beehive and is covered in honey! Tom helps him get rid of the sticky stuff.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268461'&amp;EntityType='LinearSchedule'&amp;EntityId='80bb7885-e3a0-473e-aa09-e0bc8f31c3f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720094639 +0000" stop="20260720095359 +0000">
+		<title>Tom's Car Wash - Tom's Car Wash - Rusty Chuck</title>
+		<desc>Chuck’s Cherry picker arm is rusty and stiff. He goes to Tom’s Car Wash to get cleaned up and oiled up!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268789'&amp;EntityType='LinearSchedule'&amp;EntityId='f20ffaec-898a-46c4-95a6-53aa3ad26c4c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720095359 +0000" stop="20260720100000 +0000">
+		<title>Tom's Car Wash - Tom's Car Wash - The Playdate</title>
+		<desc>Baby Amber got all dirty while playing with Baby Matt. Tom giver her an emergency carwash and a polish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268477'&amp;EntityType='LinearSchedule'&amp;EntityId='7450b65a-c5e5-46ba-91fd-1938771a82a5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720100000 +0000" stop="20260720103000 +0000">
+		<title>Everybody Loves a Moose</title>
+		<desc>An oddball buddy series between an over ambitious boy, Jack and his pal Moose, a melodramatic self-confessed expert in everything. Except he isn't! Despite his best intentions, he always messes up and although Jack may not get what he want, you can't help being sucked in by Moose's relentless optimism and zest for life!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268801'&amp;EntityType='LinearSchedule'&amp;EntityId='e2f27419-07c1-44d8-8d0d-6adf9fed34db'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720103000 +0000" stop="20260720110000 +0000">
+		<title>Grojband</title>
+		<desc>The story about 12 year old Corey that emotionally torments his sister so that she will write the ultimate lyrics for his garage band.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268226'&amp;EntityType='LinearSchedule'&amp;EntityId='0695a03d-4ebe-4128-8ff4-489ff279e8d4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720110000 +0000" stop="20260720113000 +0000">
+		<title>Eliot Kid</title>
+		<desc>When a tooth falling out turns into a hunt for the “giant mouse”, when the city’s sewers transform into Indiana Jones’ white rapids or when a trip to the toilets becomes an expedition to a haunted house, well then you’ve entered the wonderful world of Eliot Kid!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268491'&amp;EntityType='LinearSchedule'&amp;EntityId='6a5d3eb7-66ae-48ae-b7a7-2d07ba01eeac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720113000 +0000" stop="20260720120000 +0000">
+		<title>Princess Play Time </title>
+		<desc>The proud Princess likes to do things her own way, but her antics are always joined by her restless brother, Prince, who tends to turn everything topsy-turvy. Any playtime in their room transforms into a fantastic journey through unusual worlds: the children arrange a picnic on the Moon, conduct a detective investigation in a toy city, or search for pirate treasures on islands! Although initially, the Princess and Prince seem to clash and compete, by the end, they always find joy in each other's company and that of their cherished dog, Bona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268602'&amp;EntityType='LinearSchedule'&amp;EntityId='b2ccc186-cd4f-455e-8e2b-877061196e7f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720120000 +0000" stop="20260720123000 +0000">
+		<title>Box Yourself</title>
+		<desc>Great Projects From Ordinary Cardboard!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268239'&amp;EntityType='LinearSchedule'&amp;EntityId='0d419a90-d9c0-4ef4-a58e-2d0724e5275b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720123000 +0000" stop="20260720130000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268677'&amp;EntityType='LinearSchedule'&amp;EntityId='2c144a1c-0f65-45da-b764-5705e742a58f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720130000 +0000" stop="20260720133000 +0000">
+		<title>Pumpkin Reports</title>
+		<desc>Max Green’s new brother and sister are aliens sent to Earth as the advance party for an invasion - and he’s the only one who can stop them turning humans into unwilling slave-gardeners.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268618'&amp;EntityType='LinearSchedule'&amp;EntityId='4d57c3d5-d86a-4bbc-b6da-3377e38a3a92'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720133000 +0000" stop="20260720140000 +0000">
+		<title>Ebb and Flo</title>
+		<desc>The world of Ebb and Flo is seen through Ebb’s eyes and Ebb reveals all the emotions grown-ups try to hide. Flo doesn’t think of Ebb as a dog, and Ebb doesn’t think of Flo as a small human, they just are the best of friends. Until Bird arrives to lovingly disrupt Ebb’s world. Ebb and Flo’s home is an old boat moored by the beach. Things Couldn’t Be Better!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268635'&amp;EntityType='LinearSchedule'&amp;EntityId='c9429c1f-1db1-4c6d-b744-035d915ac1b2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720140000 +0000" stop="20260720143000 +0000">
+		<title>Gummy Bear and Friends</title>
+		<desc>Gummy lives in an apartment with his friend Harry the Chameleon, while his other friend Kala the Cat hangs out in a ninja dojo on the roof. Together they go on wild and wacky adventures in their building and hometown. Enjoy the fun and crazy adventures...</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268369'&amp;EntityType='LinearSchedule'&amp;EntityId='35a8425c-5769-4fbb-920d-eac2e1c38643'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720143000 +0000" stop="20260720150000 +0000">
+		<title>Cyboars</title>
+		<desc>Part Machine, Part Boar, All Hero!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268645'&amp;EntityType='LinearSchedule'&amp;EntityId='08d03ce4-d312-4a36-8db9-c70fae7ef0e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720150000 +0000" stop="20260720153000 +0000">
+		<title>Talking Tom and Friends</title>
+		<desc>Things get even more epic in Season 3 as Talking Tom and Friends try new ways to make their dreams come true, making more friends (and enemies) along the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268657'&amp;EntityType='LinearSchedule'&amp;EntityId='50e36706-98df-4cfa-a040-c86725bc917d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720153000 +0000" stop="20260720160000 +0000">
+		<title>Monster Town</title>
+		<desc>Meet the Monster Trucks, a gang of colossal, hard-working cars who team up to help their friends and community in Monster City.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15268667'&amp;EntityType='LinearSchedule'&amp;EntityId='2205cb8f-f425-49c2-8402-87e5d11e3c1e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720160000 +0000" stop="20260720163000 +0000">
+		<title>Argo's World</title>
+		<desc>Join Marie and Argo in this exciting STEM edutainment mixed-media series as they venture through Cyberspace and make discoveries about the world through historical figures and notable real-world personalities! Special guests include a founding father of the Internet, a NASA astronaut, a top robotics expert, and clever folks from M.I.T!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288457'&amp;EntityType='LinearSchedule'&amp;EntityId='793355ce-65fb-4a9b-88b0-b60c19cba4b2'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260720163000 +0000" stop="20260720170600 +0000">
 		<title>FIFA World Cup 2026 - Match Day Express - EP 34</title>
 		<desc>Match Day Express brings you the goals, the plays, and the heroes of all 104 matches of the FIFA World Cup 2026!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15367862'&amp;EntityType='LinearSchedule'&amp;EntityId='fefef057-3ca9-4928-8141-f1688615290c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15400837'&amp;EntityType='LinearSchedule'&amp;EntityId='74d9f49d-c770-46f5-b6f4-a677fe657b8d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260720170600 +0000" stop="20260720180000 +0000">
 		<title>FBI S6 - EP 6</title>
 		<desc>After multiple people are targeted and killed with a poisonous gas in broad daylight, the team races to find the killer, who they believe is tied to an eco-terrorist plot. Meanwhile, Maggie continues to explore motherhood</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15367866'&amp;EntityType='LinearSchedule'&amp;EntityId='8e5979d8-e1d5-4f1f-90f1-cf4bb7e7f2ae'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15400829'&amp;EntityType='LinearSchedule'&amp;EntityId='d559b828-7324-44c8-9039-bd2f9085b39a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260720180000 +0000" stop="20260720190000 +0000">
 		<title>Moneyball S2 - EP 6</title>
 		<desc>Ian Wright presents the game show where the difference between winning life-changing money and going home with nothing rests entirely on the roll of a ball.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15285368'&amp;EntityType='LinearSchedule'&amp;EntityId='f296c366-eb21-4820-a5dc-02687b83a174'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15400841'&amp;EntityType='LinearSchedule'&amp;EntityId='60cd0757-d030-4f4e-9644-3286d728b8e5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260720190000 +0000" stop="20260720200000 +0000">
 		<title>Unbeatable - EP 14</title>
 		<desc>Some answers are good, but only one is UNBEATABLE in this knock-out quiz tournament where contestants could win up to 10,000.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15285220'&amp;EntityType='LinearSchedule'&amp;EntityId='4e77ca99-dedd-49ec-bf23-1c6241daaad5'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15400845'&amp;EntityType='LinearSchedule'&amp;EntityId='2c9990cf-9474-4a8e-bb45-c52d590b9db6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260720200000 +0000" stop="20260720203000 +0000">
 		<title>Euromaxx - EP 460</title>
 		<desc>Everything you've ever wanted to know about Europe - from traditions and habits to culture shocks and record breakers.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15285538'&amp;EntityType='LinearSchedule'&amp;EntityId='c740092b-d994-408e-9e1b-d8b5e2212921'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15400823'&amp;EntityType='LinearSchedule'&amp;EntityId='a9b664ce-853c-4911-a873-cbd28df3a175'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260720203000 +0000" stop="20260720213000 +0000">
 		<title>Ainsley's Fantastic Flavours S1 - EP 9</title>
 		<desc>Join Britain’s happiest chef, Chef Ainsley HarriottJ, as he criss-crosses the UK in search of deserving occasions, and then whips up delicious dishes worthy of a celebration.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15285470'&amp;EntityType='LinearSchedule'&amp;EntityId='e25bf25e-8998-4121-ad69-555d8809dd1f'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15400833'&amp;EntityType='LinearSchedule'&amp;EntityId='c5e7de16-93c6-40ce-b921-6ed0ac032128'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260720213000 +0000" stop="20260720220000 +0000">
 		<title>The Contenders 26 - EP 40</title>
 		<desc>IR Iran remain masters of AFC qualifying. Uzbekistan head to the World Cup for the first time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15285378'&amp;EntityType='LinearSchedule'&amp;EntityId='39a24ec6-9958-4017-95a4-8045da481e34'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15400849'&amp;EntityType='LinearSchedule'&amp;EntityId='f17b74d2-0394-48df-8707-3e93ec8e71d0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260720220000 +0000" stop="20260720223000 +0000">
 		<title>Yu-Gi-Oh! Duel Monsters - EP 96</title>
@@ -5001,241 +5036,6 @@
 		<desc>Jeremy Wade goes to South Africa, where the biggest bull shark ever recorded was caught.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15319973'&amp;EntityType='LinearSchedule'&amp;EntityId='63d24e7e-2f47-4d9d-9bb4-bf66da784fc9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558273" start="20260720163304 +0000" stop="20260720174034 +0000">
-		<title>Mealkit Lab - Mealkit Lab Ep.9 Chef Edward Kwon's Meal Kit</title>
-		<desc>Kicking off with Chef Edward Kwon! This time, the MealKit Lab heads to Inje, Gangwon Province for a special on-the-road meal kit adventure.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320481'&amp;EntityType='LinearSchedule'&amp;EntityId='5b3c0a50-c80a-4110-a357-ae7e5fbc6258'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720174034 +0000" stop="20260720184833 +0000">
-		<title>Mealkit Lab - Mealkit Lab Ep.10 Gangwondo Gourmet Meal Kit</title>
-		<desc>MealKit Lab crews travel to Gangwon Province?today’s spotlight is on the “Gangwon Gourmet Meal Kit”!*</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320409'&amp;EntityType='LinearSchedule'&amp;EntityId='eda79509-0642-4382-a01a-df6514d2dfa8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720184833 +0000" stop="20260720193851 +0000">
-		<title>The Korean Dish Expedition - The Korean Dish Expedition Ep.15</title>
-		<desc>Passed down through generations, the heirloom cuisine of traditional Korean clan households reflects a deep understanding of nature and timeless wisdom. On the humble yet elegant tables prepared by the matriarchs of these homes, forgotten flavors and fading culinary traditions are rediscovered and brought back to life.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320417'&amp;EntityType='LinearSchedule'&amp;EntityId='5c1f94c0-93f5-406a-8f07-70b2612fd287'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720193851 +0000" stop="20260720202907 +0000">
-		<title>The Korean Dish Expedition - The Korean Dish Expedition Ep.16</title>
-		<desc>Passed down through generations, the heirloom cuisine of traditional Korean clan households reflects a deep understanding of nature and timeless wisdom. On the humble yet elegant tables prepared by the matriarchs of these homes, forgotten flavors and fading culinary traditions are rediscovered and brought back to life.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320544'&amp;EntityType='LinearSchedule'&amp;EntityId='d79da9cb-f770-4769-8c43-b0c2f1fbfe16'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720202907 +0000" stop="20260720214123 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 28</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320207'&amp;EntityType='LinearSchedule'&amp;EntityId='61b010b6-db77-4407-9757-8312d204833a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720214123 +0000" stop="20260720225143 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 29</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320426'&amp;EntityType='LinearSchedule'&amp;EntityId='afebd72a-02ab-4bf9-83a1-06f13c7137c6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720225143 +0000" stop="20260720235937 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 30</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320220'&amp;EntityType='LinearSchedule'&amp;EntityId='24f8f0da-22b0-482b-bda8-595e858c14aa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260720235937 +0000" stop="20260721001058 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Pumpkin Leaves</title>
-		<desc>Handmade Potato Soup with Pumpkin Leaves</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320327'&amp;EntityType='LinearSchedule'&amp;EntityId='083c2dce-5e09-4885-a764-4427878520b5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721001058 +0000" stop="20260721001758 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Vegetable Patty</title>
-		<desc>Vegetable fry</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320234'&amp;EntityType='LinearSchedule'&amp;EntityId='66cab853-23e7-43ae-986a-de857ab18c63'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721001758 +0000" stop="20260721002713 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Sweet Potato Shoots</title>
-		<desc>“You Can Eat Sweet Potato Shoots?” Sweet Potato Shoots</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320435'&amp;EntityType='LinearSchedule'&amp;EntityId='81a06b0b-cd6b-4486-a38f-0651a0bbc5f5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721002713 +0000" stop="20260721005356 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Monk Seonjae’s Whole Wheat Lotus Root Sujebi and Green Tea</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320552'&amp;EntityType='LinearSchedule'&amp;EntityId='5ac3c679-2b8f-4426-9e93-340606f0ff96'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721005356 +0000" stop="20260721012023 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Monk Seonjae’s Millet Porridge</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320245'&amp;EntityType='LinearSchedule'&amp;EntityId='e45ae0cf-c1d3-449a-9562-d78d29ae6f9a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721012023 +0000" stop="20260721013011 +0000">
-		<title>Awesome Food - Awesome Food Ep.28 Dried Pollack Soup</title>
-		<desc>Cooking Dried Pollack Soup, a popular hangover soup in Korea</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320315'&amp;EntityType='LinearSchedule'&amp;EntityId='18e12cef-8072-405e-b39d-5d141cf52f91'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721013011 +0000" stop="20260721013940 +0000">
-		<title>Awesome Food - Awesome Food Ep.27 Korean Seafood Restaurant</title>
-		<desc>Enjoy fresh seafood in this Korean Seafood Restaurant</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320439'&amp;EntityType='LinearSchedule'&amp;EntityId='2cbe5f0c-349b-4ada-98ac-90414bf1da81'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721013940 +0000" stop="20260721014650 +0000">
-		<title>Awesome Food - Awesome Food Ep.30 Cherry Blossom Latte</title>
-		<desc>Making a Cherry Blossom Latte</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320444'&amp;EntityType='LinearSchedule'&amp;EntityId='fb63e886-eefc-42c8-834e-82570e502b8f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721014650 +0000" stop="20260721015612 +0000">
-		<title>Awesome Food - Awesome Food Ep.32 Tteokgalbi</title>
-		<desc>Making Tteokgalbi at Korea Traditional Market Yeongcheon Market</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320253'&amp;EntityType='LinearSchedule'&amp;EntityId='9b7f6884-f0a6-4cac-b049-5fd3ab2250d7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721015612 +0000" stop="20260721020529 +0000">
-		<title>Awesome Food - Awesome Food Ep.29 Yanggaeng</title>
-		<desc>Making Yanggaeng (Korean Red Bean Jelly) With Figs</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320261'&amp;EntityType='LinearSchedule'&amp;EntityId='e4aed5c2-4e3d-4515-8992-d8ec35cb8969'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721020529 +0000" stop="20260721021434 +0000">
-		<title>Awesome Food - Awesome Food Ep.31 Macarons</title>
-		<desc>4 Different Types of Sweet Macarons</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320319'&amp;EntityType='LinearSchedule'&amp;EntityId='1077656d-8495-4619-8561-b3f2434c5167'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721021434 +0000" stop="20260721022349 +0000">
-		<title>Awesome Food - Awesome Food Ep.33 Korean Egg Toast</title>
-		<desc>Find out a special toast with a ham, egg, cabbage salad, cheese and mashed potato with wrapped egg coats</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320269'&amp;EntityType='LinearSchedule'&amp;EntityId='609a1ea0-8c12-417a-88ce-49ac3a8eed55'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721022349 +0000" stop="20260721023323 +0000">
-		<title>Awesome Food - Awesome Food Ep.34 Korean Pollock Cuisine</title>
-		<desc>Pollock is the second most consumed fish in the world. Koreans are the big fans of this fish, they consume almost 30% of the total consumption of the whole world.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320451'&amp;EntityType='LinearSchedule'&amp;EntityId='a6927bd7-d82b-40de-a626-664245f4f0e5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721023323 +0000" stop="20260721040904 +0000">
-		<title>Paik's Les Miserables - Paik's Les Miserables Ep 11. The Semifinal</title>
-		<desc>Renowned chef Paik Jong-won leads 20 contestants seeking a new start through Spartan-style missions for the chance to open their own restaurant.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320393'&amp;EntityType='LinearSchedule'&amp;EntityId='51c1db62-7ebe-4150-bc18-002296b2b49f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721040904 +0000" stop="20260721054428 +0000">
-		<title>Paik's Les Miserables - Paik's Les Miserables Ep 12. The Final Showdown</title>
-		<desc>Renowned chef Paik Jong-won leads 20 contestants seeking a new start through Spartan-style missions for the chance to open their own restaurant.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320489'&amp;EntityType='LinearSchedule'&amp;EntityId='7fe8f498-1117-414e-9f97-58f0f7bd20e0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721054428 +0000" stop="20260721055316 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Water Spinach</title>
-		<desc>How to Enjoy Water Spinach</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320561'&amp;EntityType='LinearSchedule'&amp;EntityId='db3cc638-448f-43f3-bb61-cce5bd3e1044'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721055316 +0000" stop="20260721060340 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Pumpkin</title>
-		<desc>A Vegetable That Promises a Healthy Fall: Pumpkin</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320275'&amp;EntityType='LinearSchedule'&amp;EntityId='b7392fe8-8221-4d7f-8947-3d778fe83129'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721060340 +0000" stop="20260721061029 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Sweet Potato</title>
-		<desc>Sweet Potato</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320497'&amp;EntityType='LinearSchedule'&amp;EntityId='af33670d-ee3f-4630-ae72-1dbbc10ab1c0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721061029 +0000" stop="20260721061946 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Taro</title>
-		<desc>How to Prepare and Grill Taro</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320569'&amp;EntityType='LinearSchedule'&amp;EntityId='eac6651b-01b2-49cf-a28f-8b1b24eb0307'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721061946 +0000" stop="20260721064647 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Monk Seonjae’s Seasoned Dried Seaweed and Kimchi Pickles with Jujube Tea</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320401'&amp;EntityType='LinearSchedule'&amp;EntityId='256c9fd7-8e94-44ce-9112-6c837f382064'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721064647 +0000" stop="20260721071259 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Monk Seonjae’s Spinach Salad and Ginger Tea</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320335'&amp;EntityType='LinearSchedule'&amp;EntityId='9250638a-fdf5-4242-b97d-52068ccb409f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721071259 +0000" stop="20260721082515 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 28</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320343'&amp;EntityType='LinearSchedule'&amp;EntityId='742f4b41-ec87-47ab-ad5a-0b243c3974ba'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721082515 +0000" stop="20260721093535 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 29</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320351'&amp;EntityType='LinearSchedule'&amp;EntityId='669643d6-1374-4f76-b616-60fa59c11cb0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721093535 +0000" stop="20260721104329 +0000">
-		<title>Drink with God Season 2 - Drink with God Season 2 Ep. 30</title>
-		<desc>For guests looking for the perfect dish on a special day, a team of true food connoisseurs steps in.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320359'&amp;EntityType='LinearSchedule'&amp;EntityId='a23b0c50-d1d7-48c0-a98a-beddf467e4b9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721104329 +0000" stop="20260721105450 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Pumpkin Leaves</title>
-		<desc>Handmade Potato Soup with Pumpkin Leaves</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320369'&amp;EntityType='LinearSchedule'&amp;EntityId='a8c36096-ed66-45fb-8226-74ed44ac855b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721105450 +0000" stop="20260721110150 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Vegetable Patty</title>
-		<desc>Vegetable fry</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320283'&amp;EntityType='LinearSchedule'&amp;EntityId='fae16338-0440-4c5c-a6f3-0d2275a30abd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721110150 +0000" stop="20260721111105 +0000">
-		<title>Ms.Lee's Single Vegetable - Lee Yangji’s Single Vegetable Dish: Sweet Potato Shoots</title>
-		<desc>“You Can Eat Sweet Potato Shoots?” Sweet Potato Shoots</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320465'&amp;EntityType='LinearSchedule'&amp;EntityId='12bca7f4-bcbf-4d83-aa88-d3df88aa7e01'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721111105 +0000" stop="20260721113748 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Monk Seonjae’s Whole Wheat Lotus Root Sujebi and Green Tea</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320457'&amp;EntityType='LinearSchedule'&amp;EntityId='cfc43887-835a-41c3-bcfc-8dc89dd3f68a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721113748 +0000" stop="20260721120415 +0000">
-		<title>The best cooking secrets - The Best Cooking Secrets: Monk Seonjae’s Millet Porridge</title>
-		<desc>Top secret recipes from Korean master chefs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320291'&amp;EntityType='LinearSchedule'&amp;EntityId='f37fa96f-3064-47ee-a995-c675d690aa2e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721120415 +0000" stop="20260721121403 +0000">
-		<title>Awesome Food - Awesome Food Ep.28 Dried Pollack Soup</title>
-		<desc>Cooking Dried Pollack Soup, a popular hangover soup in Korea</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320575'&amp;EntityType='LinearSchedule'&amp;EntityId='4e499858-c687-4345-9a99-9389d5807c1d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721121403 +0000" stop="20260721122332 +0000">
-		<title>Awesome Food - Awesome Food Ep.27 Korean Seafood Restaurant</title>
-		<desc>Enjoy fresh seafood in this Korean Seafood Restaurant</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320472'&amp;EntityType='LinearSchedule'&amp;EntityId='118413db-7d5f-4f8c-9cda-d6de750d72f0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721122332 +0000" stop="20260721123043 +0000">
-		<title>Awesome Food - Awesome Food Ep.30 Cherry Blossom Latte</title>
-		<desc>Making a Cherry Blossom Latte</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320504'&amp;EntityType='LinearSchedule'&amp;EntityId='030b16ea-2fbf-45cd-84a3-cdfe66e0370d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721123043 +0000" stop="20260721124004 +0000">
-		<title>Awesome Food - Awesome Food Ep.32 Tteokgalbi</title>
-		<desc>Making Tteokgalbi at Korea Traditional Market Yeongcheon Market</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320512'&amp;EntityType='LinearSchedule'&amp;EntityId='6e6f13fc-71e1-460d-a583-a3e2d873869c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721124004 +0000" stop="20260721124921 +0000">
-		<title>Awesome Food - Awesome Food Ep.29 Yanggaeng</title>
-		<desc>Making Yanggaeng (Korean Red Bean Jelly) With Figs</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320301'&amp;EntityType='LinearSchedule'&amp;EntityId='b0c8fa6d-bdff-4e96-9a57-6cf7f53691e5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721124921 +0000" stop="20260721125827 +0000">
-		<title>Awesome Food - Awesome Food Ep.31 Macarons</title>
-		<desc>4 Different Types of Sweet Macarons</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320378'&amp;EntityType='LinearSchedule'&amp;EntityId='4cbd9961-a4b6-42cd-af48-56ee04261b1f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721125827 +0000" stop="20260721130741 +0000">
-		<title>Awesome Food - Awesome Food Ep.33 Korean Egg Toast</title>
-		<desc>Find out a special toast with a ham, egg, cabbage salad, cheese and mashed potato with wrapped egg coats</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320521'&amp;EntityType='LinearSchedule'&amp;EntityId='31401833-89d6-4975-a7d1-06cfa3a02cde'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721130741 +0000" stop="20260721131715 +0000">
-		<title>Awesome Food - Awesome Food Ep.34 Korean Pollock Cuisine</title>
-		<desc>Pollock is the second most consumed fish in the world. Koreans are the big fans of this fish, they consume almost 30% of the total consumption of the whole world.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320537'&amp;EntityType='LinearSchedule'&amp;EntityId='45ab29c8-2053-4851-b209-2c948370b2e2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721131715 +0000" stop="20260721145239 +0000">
-		<title>Paik's Les Miserables - Paik's Les Miserables Ep 12. The Final Showdown</title>
-		<desc>Renowned chef Paik Jong-won leads 20 contestants seeking a new start through Spartan-style missions for the chance to open their own restaurant.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320310'&amp;EntityType='LinearSchedule'&amp;EntityId='5e95caf3-f954-402f-9342-7fbb35fce310'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721145239 +0000" stop="20260721155550 +0000">
-		<title>Mealkit Lab - Mealkit Lab Ep.11 Drinking Snack Meal Kit</title>
-		<desc>Watch out for a tipsy night! This week at the Meal Kit Lab?it’s time for the “Drinking Snack Meal Kit” showdown!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320529'&amp;EntityType='LinearSchedule'&amp;EntityId='f15b92a5-ca19-41b9-93a6-4fe4ecc298df'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558273" start="20260721155550 +0000" stop="20260721165904 +0000">
-		<title>Mealkit Lab - Mealkit Lab Ep.12 Galbijjim Meal Kit</title>
-		<desc>Galbijjim?Korean braised short ribs, loved by all ages and nationalities! But who will be the one to win over even the foreign taste buds?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15320385'&amp;EntityType='LinearSchedule'&amp;EntityId='d1719a5f-ad19-4224-a94f-0581598060ac'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="773721" start="20260720180000 +0000" stop="20260720190000 +0000">
 		<title>Ultimate 80s Power Ballads!</title>
 		<desc>Crank it up loud! These are the Power ballads that defined the decade.</desc>
@@ -6515,5 +6315,360 @@
 		<title>Thomas Edison's Secret Lab - If the Fossil Fits / A Golden Opportunity - EP103</title>
 		<desc>When Kent discovers a dinosaur fossil, the SECRET LAB KIDS learn about fossils, DNA and even go back to prehistoric times to determine if Kent has discovered a completely new dinosaur! / When Angie loses her mother’s favorite – and valuable – gold bracelet at the beach, our heroes build a homemade metal detector to find it.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15286757'&amp;EntityType='LinearSchedule'&amp;EntityId='343ea2d6-8ba8-488c-8744-463e27f509b0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720163000 +0000" stop="20260720170000 +0000">
+		<title>Ollie! The Boy Who Became What He Ate</title>
+		<desc>Ollie is a 6-year-old with a massive imagination, often lost in his own world - flipping, sliding, climbing and rocket-blasting through the house, practicing at being the master of all things. But even masters need to stop and refuel. When meals or snack time interrupt Ollie’s play, he finds himself confronted with the real challenge of childhood; trying new food. To escape his predicament, Ollie uses his magic spoon to transport himself, along with his sister Poppy, and her stuffy Nummy, to a food planet filled with adventure and the very food Ollie stuck his spoon into.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288641'&amp;EntityType='LinearSchedule'&amp;EntityId='e84eb8b1-e911-45f9-bfec-415bfa11b11c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720170000 +0000" stop="20260720173000 +0000">
+		<title>The Fixies</title>
+		<desc>The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There’s just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288467'&amp;EntityType='LinearSchedule'&amp;EntityId='186e9f32-3928-4260-8d9c-d9f3db4ec334'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720173000 +0000" stop="20260720173523 +0000">
+		<title>Gods Gang - Gods Gang - God's Gang | Love is in the Airhole | Episode 3</title>
+		<desc>Gods Gang</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289030'&amp;EntityType='LinearSchedule'&amp;EntityId='8cdadb4d-8123-401b-b2ee-71e627f8efc2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720173523 +0000" stop="20260720174159 +0000">
+		<title>Gods Gang - Gods Gang - God's Gang | What's Cooking | Episode 4</title>
+		<desc>Gods Gang</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288282'&amp;EntityType='LinearSchedule'&amp;EntityId='e1de4416-7d6b-421c-8211-6adb8d7478cc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720174159 +0000" stop="20260720174757 +0000">
+		<title>Gods Gang - Gods Gang - Gods Gang | Mystery Ally in the Flames | Episode 5</title>
+		<desc>A forest trip turns into chaos when wildfire strikes! With no tech, the gang must unite to survive. Just when hope fades, a glowing hero appears. Who is it?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288288'&amp;EntityType='LinearSchedule'&amp;EntityId='790b854b-1452-4382-a200-4e22b345ea3b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720174757 +0000" stop="20260720180000 +0000">
+		<title>Gods Gang - Gods Gang - Gods Gang | Trials of KungFuda | Episode 6</title>
+		<desc>A forest in flames. A rising fear. Enter Kungfuda, the mystery kicker who pushes God’s Gang to unlock their true power. Can the gang overcome fear and awaken as true Forest Guardians before darkness consumes it all?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289043'&amp;EntityType='LinearSchedule'&amp;EntityId='3086bacc-972a-4a3f-a293-1a396820852f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720180000 +0000" stop="20260720180553 +0000">
+		<title>Troy the Train - Troy the Train - Troy the Digger Train</title>
+		<desc>Billy the Bulldozer's trapped in the tunnel! Teddy turns Troy into a digger to rescue his poor friend.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288479'&amp;EntityType='LinearSchedule'&amp;EntityId='ad22b4de-d369-463e-8a58-cba2482f1d52'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720180553 +0000" stop="20260720181113 +0000">
+		<title>Troy the Train - Troy the Train - Troy the Demolition Train</title>
+		<desc>Little Tina is trapped under a building! Teddy and Troy waste no time and devise a plan to rescue her.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288486'&amp;EntityType='LinearSchedule'&amp;EntityId='d66d4512-5b89-47b2-a0a7-1d27a3b0bfe9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720181113 +0000" stop="20260720181748 +0000">
+		<title>Troy the Train - Troy the Train - Troy Scissorhands</title>
+		<desc>Billy and Taylor need help clearing the tracks; they're full of overgrown weeds. Teddy transforms Troy into a giant pruning train.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289059'&amp;EntityType='LinearSchedule'&amp;EntityId='bdaab79c-aa24-4b7e-a9ef-8de58b3eeb96'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720181748 +0000" stop="20260720182510 +0000">
+		<title>Troy the Train - Troy the Train - Troy the Lifeguard</title>
+		<desc>Henry has fallen into the lake and needs urgent help! Troy transforms into a lifeguard to rescue his friend.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288656'&amp;EntityType='LinearSchedule'&amp;EntityId='7273d7bf-5734-43f9-9ad7-aa79065cf7d8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720182510 +0000" stop="20260720183000 +0000">
+		<title>Troy the Train - Troy the Train - Troy the Film Director</title>
+		<desc>Tony needs someone to film his daring stunt and enlists Troy's help. Teddy transforms him into a camera rig!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288668'&amp;EntityType='LinearSchedule'&amp;EntityId='c4509a8c-091a-4972-a97e-29566a22d130'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720183000 +0000" stop="20260720183212 +0000">
+		<title>Jacarevis e Amigos - Jacarevis e Amigos - Nadar</title>
+		<desc>Glub, glub, glub! Aprenda os estilos de natação e os cuidados com a água na hora de nadar!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288683'&amp;EntityType='LinearSchedule'&amp;EntityId='1131be18-858c-4c56-891b-d0d7c31b1d34'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720183212 +0000" stop="20260720183422 +0000">
+		<title>Jacarevis e Amigos - Jacarevis e Amigos - Tambem sou um animal</title>
+		<desc>Somos todos animais, e se temos os nossos bichinhos, não podemos deixar de cuidar deles com carinho!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288494'&amp;EntityType='LinearSchedule'&amp;EntityId='aa59c8de-38be-448b-801d-c7772463d360'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720183422 +0000" stop="20260720183832 +0000">
+		<title>Jacarevis e Amigos - Jacarevis e Amigos - Quem eu sou</title>
+		<desc>Uma brincadeira musical sobre nossas confusas relações de parentesco!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288698'&amp;EntityType='LinearSchedule'&amp;EntityId='4d7eb071-071d-4206-b612-578c94bc0c14'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720183832 +0000" stop="20260720184035 +0000">
+		<title>Jacarevis e Amigos - Jacarevis e Amigos - Barulhinho bom</title>
+		<desc>Um rock que nos ensina que a música pode ser feita por qualquer um a qualquer hora!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288714'&amp;EntityType='LinearSchedule'&amp;EntityId='d42b6638-b23c-47c4-88cc-11413cb71274'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720184035 +0000" stop="20260720184232 +0000">
+		<title>Jacarevis e Amigos - Jacarevis e Amigos - Brincar</title>
+		<desc>Nada de ficar parado! Mais que brinquedos, para brincar é preciso muita imaginação e energia!Nada de ficar parado!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288410'&amp;EntityType='LinearSchedule'&amp;EntityId='eb647dc6-5e7f-464c-8950-8635209d980a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720184232 +0000" stop="20260720184635 +0000">
+		<title>Jacarevis e Amigos - Jacarevis e Amigos - Nana, Girafinha</title>
+		<desc>Depois do agito, deixe a criançada relaxar ao som de uma gostosa bossa-nova!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288425'&amp;EntityType='LinearSchedule'&amp;EntityId='f988504b-2be3-423f-a478-55e5b0a2963f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720184635 +0000" stop="20260720184831 +0000">
+		<title>Jacarevis e Amigos - Jacarevis e Amigos - Jacarelvis 02</title>
+		<desc>O mundo fica ainda mais divertido com a ajuda dos amigos do Jacarelvis!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288729'&amp;EntityType='LinearSchedule'&amp;EntityId='50ce0641-9135-4dd0-8cee-1d18ddb5f5ec'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720184831 +0000" stop="20260720185038 +0000">
+		<title>Jacarevis e Amigos - Jacarevis e Amigos - Banho eu vou tomar</title>
+		<desc>Agora ficou fácil dar o banho das crianças com essa animada canção!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288298'&amp;EntityType='LinearSchedule'&amp;EntityId='04069c31-7f41-48d4-a342-74ca1060df60'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720185038 +0000" stop="20260720190000 +0000">
+		<title>Jacarevis e Amigos - Jacarevis e Amigos - O Lixo e o meu tesouro</title>
+		<desc>Uma aventura pirata que ensina sobre geração de lixo e reciclagem! Arrá! Iourrou!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288309'&amp;EntityType='LinearSchedule'&amp;EntityId='e5c39744-9a33-4bf3-b895-3478475bee33'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720190000 +0000" stop="20260720191512 +0000">
+		<title>LMN's - LMN's - Altamira</title>
+		<desc>Chip y los átomos entran en una cueva llena de pinturas en las paredes. Una puerta bloquea el paso a la cueva en un lugar donde se apilan células de elementos químicos y un horno. Siguiendo las indicaciones de las pinturas y con la ayuda del libro de química de Chip, descubre que debe mezclar y fusionar varios elementos para crear unos zapatos de vidrio con los que pueda caminar sobre un suelo lleno de ácido, de modo que la puerta se levante y pueda seguir el camino. Cuando las antimaterias intentan seguirlo, mientras mezclan productos químicos, estos les aplastan la nariz.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288319'&amp;EntityType='LinearSchedule'&amp;EntityId='ae8f1f8d-8ad1-47f3-8da8-aac9c73e3607'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720191512 +0000" stop="20260720193000 +0000">
+		<title>LMN's - LMN's - La carga</title>
+		<desc>Un transporte cargado de nitratos se dirige a la Torre Negra para que el Dr. No prepare explosivos. Chip se cuela en el transporte con la intención de ser llevado a su destino, pero al darse cuenta de la carga, hace todo lo posible para evitar que caiga en manos del malvado científico. Así, con la ayuda de átomos de bromo prisioneros, logra destruir el transporte y su peligrosa carga.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288330'&amp;EntityType='LinearSchedule'&amp;EntityId='4155d274-dd3d-4613-9f76-c293e08e10e6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720193000 +0000" stop="20260720200000 +0000">
+		<title>Box Yourself</title>
+		<desc>Great Projects From Ordinary Cardboard!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288436'&amp;EntityType='LinearSchedule'&amp;EntityId='72487d47-05e7-460d-8c3b-c9e4650bd42e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720200000 +0000" stop="20260720200511 +0000">
+		<title>RoboFuse - RoboFuse - Snow Rescue</title>
+		<desc>Zitron joins a friendly snow fight between the cars, but soon uses his Zitronic to trap them in ice cubes!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288446'&amp;EntityType='LinearSchedule'&amp;EntityId='01f643eb-2934-4901-a4c0-eaf237dfa722'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720200511 +0000" stop="20260720201026 +0000">
+		<title>RoboFuse - RoboFuse - The Basketball Game</title>
+		<desc>Zitron derails a fun basketball game between the cars. Rodeo and Booster transform into Robo to teach him a lesson.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289074'&amp;EntityType='LinearSchedule'&amp;EntityId='ce7ec354-b5b5-4e1e-8bc3-ee7de8ad84d2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720201026 +0000" stop="20260720201546 +0000">
+		<title>RoboFuse - RoboFuse - UFO Invasion</title>
+		<desc>A UFO steals everything on its path in Car City! Robo teams up with Rocky to stop the UFO and Zitron.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288865'&amp;EntityType='LinearSchedule'&amp;EntityId='2904e154-891a-456a-ba7c-f802d5eedc0e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720201546 +0000" stop="20260720203000 +0000">
+		<title>RoboFuse - RoboFuse - The Strongest Truck</title>
+		<desc>Zitron challenges the cars to a strength contest, but turns Marley into the Hulk, and he's completely out of control!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288742'&amp;EntityType='LinearSchedule'&amp;EntityId='5dc0a39a-2b11-4f1e-9b90-eeb2f65f2faa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720203000 +0000" stop="20260720210000 +0000">
+		<title>Chefclub Kids</title>
+		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288880'&amp;EntityType='LinearSchedule'&amp;EntityId='bddb640f-d9d5-404e-bc33-ebfb56647744'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720210000 +0000" stop="20260720213000 +0000">
+		<title>VIP Pets</title>
+		<desc>We are the VIP Pets! The coolest pets with a passion for hair! We are best friends and together we will discover lots of beautiful hairstyles and go on exciting adventures!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288896'&amp;EntityType='LinearSchedule'&amp;EntityId='7f4867c5-6ab0-4d8e-8463-bbffc8b63999'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720213000 +0000" stop="20260720220000 +0000">
+		<title>Om Nom Stories</title>
+		<desc>Sweet tooth Om Nom is wandering Around the world, eats a lot of candies and tries to find his Dream job. Watch his adventures and solve different puzzles on the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289090'&amp;EntityType='LinearSchedule'&amp;EntityId='aeb1fbc2-ff3f-4791-a333-fbec43a16f8b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720220000 +0000" stop="20260720223000 +0000">
+		<title>Ryan Defrates</title>
+		<desc>Ryan Defrates</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288501'&amp;EntityType='LinearSchedule'&amp;EntityId='1487b6fe-64ec-475f-8984-061859f9c04d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720223000 +0000" stop="20260720230000 +0000">
+		<title>Grojband</title>
+		<desc>The story about 12 year old Corey that emotionally torments his sister so that she will write the ultimate lyrics for his garage band.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289104'&amp;EntityType='LinearSchedule'&amp;EntityId='eb6f25a1-46c6-440b-b4ce-f1c8e7fea526'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720230000 +0000" stop="20260720233000 +0000">
+		<title>Everybody Loves a Moose</title>
+		<desc>An oddball buddy series between an over ambitious boy, Jack and his pal Moose, a melodramatic self-confessed expert in everything. Except he isn't! Despite his best intentions, he always messes up and although Jack may not get what he want, you can't help being sucked in by Moose's relentless optimism and zest for life!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288508'&amp;EntityType='LinearSchedule'&amp;EntityId='572247e5-bd9d-4b54-96cf-d8a5ddb8d426'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720233000 +0000" stop="20260720233355 +0000">
+		<title>Tom's Car Wash - Tom's Car Wash - Fresh &amp; Clean</title>
+		<desc>Baby Frank's been playing at the paint shooting range as in covered in it! Tom gets him all shiny again.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288613'&amp;EntityType='LinearSchedule'&amp;EntityId='2aa49784-a458-4df2-8694-d996cad15e3b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720233355 +0000" stop="20260720234248 +0000">
+		<title>Tom's Car Wash - Tom's Car Wash - Muddy Puddles</title>
+		<desc>Baby Hector's spent the afternoon jumping in puddles; the mud got his blades stuck! Time for a trip to the carwash.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288516'&amp;EntityType='LinearSchedule'&amp;EntityId='4a30832c-7822-4ab9-85c2-eac75d9b623d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720234248 +0000" stop="20260720234639 +0000">
+		<title>Tom's Car Wash - Tom's Car Wash - The Beehive</title>
+		<desc>Jeremy's crashed into a beehive and is covered in honey! Tom helps him get rid of the sticky stuff.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288913'&amp;EntityType='LinearSchedule'&amp;EntityId='93400176-f3f1-45c1-9e04-9c7620097d3e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720234639 +0000" stop="20260720235359 +0000">
+		<title>Tom's Car Wash - Tom's Car Wash - Rusty Chuck</title>
+		<desc>Chuck’s Cherry picker arm is rusty and stiff. He goes to Tom’s Car Wash to get cleaned up and oiled up!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288928'&amp;EntityType='LinearSchedule'&amp;EntityId='32e1ef09-d197-43b4-918d-97d12ab4b40f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260720235359 +0000" stop="20260721000000 +0000">
+		<title>Tom's Car Wash - Tom's Car Wash - The Playdate</title>
+		<desc>Baby Amber got all dirty while playing with Baby Matt. Tom giver her an emergency carwash and a polish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288627'&amp;EntityType='LinearSchedule'&amp;EntityId='bd804b01-3752-4467-9e5f-55cf029c9a25'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721000000 +0000" stop="20260721003000 +0000">
+		<title>Eliot Kid</title>
+		<desc>When a tooth falling out turns into a hunt for the “giant mouse”, when the city’s sewers transform into Indiana Jones’ white rapids or when a trip to the toilets becomes an expedition to a haunted house, well then you’ve entered the wonderful world of Eliot Kid!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288943'&amp;EntityType='LinearSchedule'&amp;EntityId='ac79aefb-0dcc-4a09-8117-21c7ebb236e8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721003000 +0000" stop="20260721010000 +0000">
+		<title>Pumpkin Reports</title>
+		<desc>Max Green’s new brother and sister are aliens sent to Earth as the advance party for an invasion - and he’s the only one who can stop them turning humans into unwilling slave-gardeners.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288526'&amp;EntityType='LinearSchedule'&amp;EntityId='ce877258-0912-429b-ad29-e00abd26a795'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721010000 +0000" stop="20260721013000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288538'&amp;EntityType='LinearSchedule'&amp;EntityId='a91a5728-899f-430c-b2f2-8fb5a534697b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721013000 +0000" stop="20260721020000 +0000">
+		<title>Ebb and Flo</title>
+		<desc>The world of Ebb and Flo is seen through Ebb’s eyes and Ebb reveals all the emotions grown-ups try to hide. Flo doesn’t think of Ebb as a dog, and Ebb doesn’t think of Flo as a small human, they just are the best of friends. Until Bird arrives to lovingly disrupt Ebb’s world. Ebb and Flo’s home is an old boat moored by the beach. Things Couldn’t Be Better!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288342'&amp;EntityType='LinearSchedule'&amp;EntityId='fbcd4a15-cdd6-46a9-8eb8-c4795e33b431'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721020000 +0000" stop="20260721023000 +0000">
+		<title>Cyboars</title>
+		<desc>Part Machine, Part Boar, All Hero!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288354'&amp;EntityType='LinearSchedule'&amp;EntityId='295c1ad0-5e12-4db8-a728-fc8e81df77a0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721023000 +0000" stop="20260721030000 +0000">
+		<title>Princess Play Time </title>
+		<desc>The proud Princess likes to do things her own way, but her antics are always joined by her restless brother, Prince, who tends to turn everything topsy-turvy. Any playtime in their room transforms into a fantastic journey through unusual worlds: the children arrange a picnic on the Moon, conduct a detective investigation in a toy city, or search for pirate treasures on islands! Although initially, the Princess and Prince seem to clash and compete, by the end, they always find joy in each other's company and that of their cherished dog, Bona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288819'&amp;EntityType='LinearSchedule'&amp;EntityId='f9e44428-8433-487e-8e16-4441f3a7dbf9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721030000 +0000" stop="20260721033000 +0000">
+		<title>Talking Tom and Friends</title>
+		<desc>Things get even more epic in Season 3 as Talking Tom and Friends try new ways to make their dreams come true, making more friends (and enemies) along the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288831'&amp;EntityType='LinearSchedule'&amp;EntityId='c4b18d35-ecd2-4db0-b9b9-a99bdb29353b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721033000 +0000" stop="20260721040000 +0000">
+		<title>Monster Town</title>
+		<desc>Meet the Monster Trucks, a gang of colossal, hard-working cars who team up to help their friends and community in Monster City.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288757'&amp;EntityType='LinearSchedule'&amp;EntityId='a2ff742b-466e-4832-9316-4edf3ca8620a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721040000 +0000" stop="20260721043000 +0000">
+		<title>Ollie! The Boy Who Became What He Ate</title>
+		<desc>Ollie is a 6-year-old with a massive imagination, often lost in his own world - flipping, sliding, climbing and rocket-blasting through the house, practicing at being the master of all things. But even masters need to stop and refuel. When meals or snack time interrupt Ollie’s play, he finds himself confronted with the real challenge of childhood; trying new food. To escape his predicament, Ollie uses his magic spoon to transport himself, along with his sister Poppy, and her stuffy Nummy, to a food planet filled with adventure and the very food Ollie stuck his spoon into.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288548'&amp;EntityType='LinearSchedule'&amp;EntityId='0a980ca8-1369-4607-b1a4-bbafcab9af9e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721043000 +0000" stop="20260721050000 +0000">
+		<title>The Fixies</title>
+		<desc>The Fixies follows the comical misadventures of Tom Thomas and his secret friendship with Simka and Nolik, the children of the Fixie family that lives in his apartment. There’s just no end to the troubles Tom Thomas and his Fixie friends get themselves into with all the gadgets and appliances around them!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289120'&amp;EntityType='LinearSchedule'&amp;EntityId='15c84049-6702-464e-8fa6-ba5d720526c3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721050000 +0000" stop="20260721053000 +0000">
+		<title>Gummy Bear and Friends</title>
+		<desc>Gummy lives in an apartment with his friend Harry the Chameleon, while his other friend Kala the Cat hangs out in a ninja dojo on the roof. Together they go on wild and wacky adventures in their building and hometown. Enjoy the fun and crazy adventures...</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289133'&amp;EntityType='LinearSchedule'&amp;EntityId='22be457b-8eeb-4c9d-ac6d-876c793668ab'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721053000 +0000" stop="20260721060000 +0000">
+		<title>Grojband</title>
+		<desc>The story about 12 year old Corey that emotionally torments his sister so that she will write the ultimate lyrics for his garage band.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288367'&amp;EntityType='LinearSchedule'&amp;EntityId='2eef78a5-2f80-43a1-9463-27b06f669d77'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721060000 +0000" stop="20260721063000 +0000">
+		<title>Box Yourself</title>
+		<desc>Great Projects From Ordinary Cardboard!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288559'&amp;EntityType='LinearSchedule'&amp;EntityId='9c00dcb2-bc99-48cf-9975-deeedb4ebfbe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721063000 +0000" stop="20260721070000 +0000">
+		<title>Ebb and Flo</title>
+		<desc>The world of Ebb and Flo is seen through Ebb’s eyes and Ebb reveals all the emotions grown-ups try to hide. Flo doesn’t think of Ebb as a dog, and Ebb doesn’t think of Flo as a small human, they just are the best of friends. Until Bird arrives to lovingly disrupt Ebb’s world. Ebb and Flo’s home is an old boat moored by the beach. Things Couldn’t Be Better!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288843'&amp;EntityType='LinearSchedule'&amp;EntityId='18c2cf85-6dee-4234-a517-05036561c1c2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721070000 +0000" stop="20260721073000 +0000">
+		<title>RoboFuse</title>
+		<desc>Robo works tirelessly with his loyal friends to protect Car City from Zitron's constant schemes to steal the city's energy source.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289151'&amp;EntityType='LinearSchedule'&amp;EntityId='4f7f7158-27a3-4740-b1c2-97c5cb81cb05'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721073000 +0000" stop="20260721080000 +0000">
+		<title>VIP Pets</title>
+		<desc>We are the VIP Pets! The coolest pets with a passion for hair! We are best friends and together we will discover lots of beautiful hairstyles and go on exciting adventures!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289169'&amp;EntityType='LinearSchedule'&amp;EntityId='d17cdd4a-a280-414b-afb6-cc239fa046b4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721080000 +0000" stop="20260721083000 +0000">
+		<title>Om Nom Stories</title>
+		<desc>Sweet tooth Om Nom is wandering Around the world, eats a lot of candies and tries to find his Dream job. Watch his adventures and solve different puzzles on the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288855'&amp;EntityType='LinearSchedule'&amp;EntityId='4fced0fc-88ae-49f8-a5fd-69cf7a8bbfb9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721083000 +0000" stop="20260721090000 +0000">
+		<title>Chefclub Kids</title>
+		<desc>With Chefclub Kids, the little ones get their hands dirty all while having fun in the kitchen. Whether they're learning to prepare dinner, bake goodies, or explore new flavors, Chefclub Kids is a way for children to gain confidence through cooking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288773'&amp;EntityType='LinearSchedule'&amp;EntityId='d1009384-659f-40f8-bb10-9961d3faee0f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721090000 +0000" stop="20260721093000 +0000">
+		<title>Ryan Defrates</title>
+		<desc>Ryan Defrates</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288789'&amp;EntityType='LinearSchedule'&amp;EntityId='fb5c8cc5-3a85-40b9-854b-b6c43bef6c79'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721093000 +0000" stop="20260721100000 +0000">
+		<title>Tom's Car Wash</title>
+		<desc>Tom loves caring for his friends; they can always count on Tom to tow them back to his car wash, where they're guaranteed to leave sparking!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288985'&amp;EntityType='LinearSchedule'&amp;EntityId='f750651a-5b82-4b3b-9144-57c364f95173'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721100000 +0000" stop="20260721103000 +0000">
+		<title>Everybody Loves a Moose</title>
+		<desc>An oddball buddy series between an over ambitious boy, Jack and his pal Moose, a melodramatic self-confessed expert in everything. Except he isn't! Despite his best intentions, he always messes up and although Jack may not get what he want, you can't help being sucked in by Moose's relentless optimism and zest for life!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288378'&amp;EntityType='LinearSchedule'&amp;EntityId='1e585a0a-5940-4774-89e2-9ef08a7e82d9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721103000 +0000" stop="20260721110000 +0000">
+		<title>Grojband</title>
+		<desc>The story about 12 year old Corey that emotionally torments his sister so that she will write the ultimate lyrics for his garage band.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288803'&amp;EntityType='LinearSchedule'&amp;EntityId='f03af656-1500-4fe2-8b87-1ffc444cc4df'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721110000 +0000" stop="20260721113000 +0000">
+		<title>Eliot Kid</title>
+		<desc>When a tooth falling out turns into a hunt for the “giant mouse”, when the city’s sewers transform into Indiana Jones’ white rapids or when a trip to the toilets becomes an expedition to a haunted house, well then you’ve entered the wonderful world of Eliot Kid!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288570'&amp;EntityType='LinearSchedule'&amp;EntityId='a3a2308f-244a-4e40-a204-73302b980384'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721113000 +0000" stop="20260721120000 +0000">
+		<title>Princess Play Time </title>
+		<desc>The proud Princess likes to do things her own way, but her antics are always joined by her restless brother, Prince, who tends to turn everything topsy-turvy. Any playtime in their room transforms into a fantastic journey through unusual worlds: the children arrange a picnic on the Moon, conduct a detective investigation in a toy city, or search for pirate treasures on islands! Although initially, the Princess and Prince seem to clash and compete, by the end, they always find joy in each other's company and that of their cherished dog, Bona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288958'&amp;EntityType='LinearSchedule'&amp;EntityId='09e12e1b-179d-4723-b9b9-861367506977'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721120000 +0000" stop="20260721123000 +0000">
+		<title>Box Yourself </title>
+		<desc>Great Projects From Ordinary Cardboard!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288387'&amp;EntityType='LinearSchedule'&amp;EntityId='5d8ea39c-d708-45ac-8429-6af1967ca64a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721123000 +0000" stop="20260721130000 +0000">
+		<title>Angry Birds Toons</title>
+		<desc>Check out Angry Birds Toons compilations! Each compilation has several episodes from your favorite shows including Angry Birds, Piggy Tales, and Stella!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288580'&amp;EntityType='LinearSchedule'&amp;EntityId='7f35e5e2-7e2b-41f2-9399-afff67cd93f1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721130000 +0000" stop="20260721133000 +0000">
+		<title>Pumpkin Reports</title>
+		<desc>Max Green’s new brother and sister are aliens sent to Earth as the advance party for an invasion - and he’s the only one who can stop them turning humans into unwilling slave-gardeners.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288398'&amp;EntityType='LinearSchedule'&amp;EntityId='598908b0-a829-491c-8054-cdf13245dcd4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721133000 +0000" stop="20260721140000 +0000">
+		<title>Ebb and Flo</title>
+		<desc>The world of Ebb and Flo is seen through Ebb’s eyes and Ebb reveals all the emotions grown-ups try to hide. Flo doesn’t think of Ebb as a dog, and Ebb doesn’t think of Flo as a small human, they just are the best of friends. Until Bird arrives to lovingly disrupt Ebb’s world. Ebb and Flo’s home is an old boat moored by the beach. Things Couldn’t Be Better!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288972'&amp;EntityType='LinearSchedule'&amp;EntityId='8a12ab77-c9e7-4d0c-80b2-cd85bdf97107'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721140000 +0000" stop="20260721143000 +0000">
+		<title>Gummy Bear and Friends</title>
+		<desc>Gummy lives in an apartment with his friend Harry the Chameleon, while his other friend Kala the Cat hangs out in a ninja dojo on the roof. Together they go on wild and wacky adventures in their building and hometown. Enjoy the fun and crazy adventures!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289003'&amp;EntityType='LinearSchedule'&amp;EntityId='4f89d95b-f13a-4084-99f3-dfebc84741bd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721143000 +0000" stop="20260721150000 +0000">
+		<title>Cyboars</title>
+		<desc>Part Machine, Part Boar, All Hero!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288591'&amp;EntityType='LinearSchedule'&amp;EntityId='1cab7d9a-cff4-40f9-b003-9e36074f9d78'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721150000 +0000" stop="20260721153000 +0000">
+		<title>Talking Tom and Friends</title>
+		<desc>Things get even more epic in Season 3 as Talking Tom and Friends try new ways to make their dreams come true, making more friends (and enemies) along the way!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289015'&amp;EntityType='LinearSchedule'&amp;EntityId='e2d97df2-3de4-4b44-b89d-31970653c69d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721153000 +0000" stop="20260721160000 +0000">
+		<title>Monster Town</title>
+		<desc>Meet the Monster Trucks, a gang of colossal, hard-working cars who team up to help their friends and community in Monster City.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15288602'&amp;EntityType='LinearSchedule'&amp;EntityId='4474e428-77e8-4a17-8eca-01f0ded4b034'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556877" start="20260721160000 +0000" stop="20260721163000 +0000">
+		<title>Argo's World</title>
+		<desc>Join Marie and Argo in this exciting STEM edutainment mixed-media series as they venture through Cyberspace and make discoveries about the world through historical figures and notable real-world personalities! Special guests include a founding father of the Internet, a NASA astronaut, a top robotics expert, and clever folks from M.I.T!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15289223'&amp;EntityType='LinearSchedule'&amp;EntityId='d9e04d04-1dd3-4dc3-a731-4285c4c85001'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
