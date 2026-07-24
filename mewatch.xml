@@ -48,6 +48,10 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
+	<channel id="97078">
+		<display-name>LIVE 2</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
+	</channel>
 	<channel id="98202">
 		<display-name>LIVE 5</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
@@ -91,10 +95,6 @@
 	<channel id="558254">
 		<display-name>Filem Mantap</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11316574'&amp;EntityType='Item'&amp;EntityId='558254'&amp;Width=350&amp;Height=250" />
-	</channel>
-	<channel id="558271">
-		<display-name>Drama Hebat</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14326803'&amp;EntityType='Item'&amp;EntityId='558271'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260724160000 +0000" stop="20260724180000 +0000">
 		<title>Artistic Gymnastics - Glasgow 2026 Commonwealth Games: Men's Team Final &amp; Individual Qualification</title>
@@ -1036,15 +1036,15 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15479867'&amp;EntityType='LinearSchedule'&amp;EntityId='98a00872-d76c-4563-b92c-c88fae03f0c3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="822075" start="20260724175000 +0000" stop="20260724210000 +0000">
+	<programme channel="822075" start="20260724175000 +0000" stop="20260724213000 +0000">
 		<title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games Men's &amp; Women's Semi-finals | Finals - 25 July 2026</title>
 		<desc>Women's 400m Freestyle Final | Men's 200m Individual Medley Final | Women's 100m Freestyle S13 Final | Women's 400m Freestyle Medal Ceremony | Men's 200m Individual Medley Medal Ceremony | Women's 200m Backstroke Final | Men's 50m Backstroke Semi-finals | Women's 50m Butterfly Semi-finals | Women's 100m Freestyle S13 Medal Ceremony | Men's 100m Freestyle S13 Medal Ceremony | Men's 100m Breaststroke Semi-finals | Women's 200m Individual Medley SM1</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15498741'&amp;EntityType='LinearSchedule'&amp;EntityId='6c025fc8-2b7a-49fb-8b4e-896e6c5c1064'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="822075" start="20260724210000 +0000" stop="20260725092000 +0000">
+	<programme channel="822075" start="20260724213000 +0000" stop="20260725092000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15455282'&amp;EntityType='LinearSchedule'&amp;EntityId='b37982d1-f271-4e7a-a1a4-cc53d4e18a33'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15501139'&amp;EntityType='LinearSchedule'&amp;EntityId='3c29707e-475a-4241-818f-b8064d622e86'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="822075" start="20260725092000 +0000" stop="20260725121500 +0000">
 		<title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games Men's &amp; Women's Heats - 25 July 2026</title>
@@ -1331,40 +1331,50 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 26th July, Sunday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15367210'&amp;EntityType='LinearSchedule'&amp;EntityId='d06a6300-b4e0-4395-9a13-9390a8c416fd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20260724160000 +0000" stop="20260725093400 +0000">
-		<title>No Programme available now. Next Broadcast on 25 July, Saturday 5.34pm. Hyundai Cup 2026 </title>
-		<desc>LIVE 5 will commence broadcast of the Hyundai Cup 2026 : Group Stage : Myanmar vs Malaysia on 25 July, Saturday 5.34pm. Please stay tuned!</desc>
+	<programme channel="97078" start="20260724160000 +0000" stop="20260725160000 +0000">
+		<title>No Programme available now. Next Broadcast on 26th July, Sunday 08.55am. PPA Asia 500 Leapmotor Singapore Open 2026</title>
+		<desc>LIVE 2 will commence broadcast of the PPA Asia 500 Leapmotor Singapore Open 2026 on 26th July, Sunday 8.55am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15469618'&amp;EntityType='LinearSchedule'&amp;EntityId='f006bfcc-c182-465e-9fd7-16f4640cc0b5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260725160000 +0000" stop="20260726005500 +0000">
+		<title>No Programme available now. Next Broadcast on 26th July, Sunday 08.55am. PPA Asia 500 Leapmotor Singapore Open 2026</title>
+		<desc>LIVE 2 will commence broadcast of the PPA Asia 500 Leapmotor Singapore Open 2026 on 26th July, Sunday 8.55am. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15469622'&amp;EntityType='LinearSchedule'&amp;EntityId='0a02e948-4670-4742-a277-3082a019c440'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260724160000 +0000" stop="20260725093300 +0000">
+		<title>No Programme available now. Next Broadcast on 25 July, Saturday 5.33pm. Hyundai Cup 2026 </title>
+		<desc>LIVE 5 will commence broadcast of the Hyundai Cup 2026 : Group Stage : Myanmar vs Malaysia on 25 July, Saturday 5.33pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15348085'&amp;EntityType='LinearSchedule'&amp;EntityId='36d1b5c5-b1a3-46bf-b3ac-b43524988528'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20260725093400 +0000" stop="20260725120000 +0000">
+	<programme channel="98202" start="20260725093300 +0000" stop="20260725122000 +0000">
 		<title>Hyundai Cup 2026 : Group Stage : Myanmar vs Malaysia</title>
 		<desc>Hyundai Cup 2026 is the 16th ASEAN Championship, the biennial international men's football championship of Southeast Asia organised by the ASEAN Football Federation (AFF) and will be the 1st edition under the name ASEAN Hyundai Cup. The tournament will celebrate as the 30th anniversary of the competition. The event will start on 24 July till 26 August 2026. Vietnam are the defending champions after winning the 2024 final against Thailand. Catch the heated tournaments where 10 qualified teams are split into two groups of five and play a round robin system, with each team playing four fixtures. The format of the knockout round remains unchanged, with semi-finals and the final played on two-leg format.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15496986'&amp;EntityType='LinearSchedule'&amp;EntityId='71860cac-88c0-408e-a13f-a7e0254129e0'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15501281'&amp;EntityType='LinearSchedule'&amp;EntityId='48f72b3a-c46d-4f99-89b8-4e6b49098739'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20260725120000 +0000" stop="20260725160000 +0000">
+	<programme channel="98202" start="20260725122000 +0000" stop="20260725160000 +0000">
 		<title>No Programme available now. Next Broadcast on 27 July, Monday 7.00pm. Hyundai Cup 2026 </title>
 		<desc>LIVE 5 will commence broadcast of the Hyundai Cup 2026 : Group Stage : Singapore vs Timor-Leste on 27 July, Monday 7.00pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15348089'&amp;EntityType='LinearSchedule'&amp;EntityId='2542316e-be9d-4c7b-bfec-a9497952ebe1'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15501277'&amp;EntityType='LinearSchedule'&amp;EntityId='f6945b99-d24a-480a-82f8-66679ad5eb5a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98202" start="20260725160000 +0000" stop="20260726160000 +0000">
 		<title>No Programme available now. Next Broadcast on 27 July, Monday 7.00pm. Hyundai Cup 2026 </title>
 		<desc>LIVE 5 will commence broadcast of the Hyundai Cup 2026 : Group Stage : Singapore vs Timor-Leste on 27 July, Monday 7.00pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15367766'&amp;EntityType='LinearSchedule'&amp;EntityId='3b25b6b4-c0ca-40d4-841d-8a1770a83848'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20260724160000 +0000" stop="20260725130000 +0000">
-		<title>No Programme available now. Next Broadcast on 25 July, Saturday 9.00pm. Hyundai Cup 2026 </title>
-		<desc>LIVE 6 will commence broadcast of the Hyundai Cup 2026 : Group Stage : Laos vs Thailand on 25 July, Saturday 9.00pm. Please stay tuned!</desc>
+	<programme channel="204746" start="20260724160000 +0000" stop="20260725123300 +0000">
+		<title>No Programme available now. Next Broadcast on 25 July, Saturday 8.33pm. Hyundai Cup 2026 </title>
+		<desc>LIVE 6 will commence broadcast of the Hyundai Cup 2026 : Group Stage : Laos vs Thailand on 25 July, Saturday 8.33pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15348101'&amp;EntityType='LinearSchedule'&amp;EntityId='8d9778c8-6815-4b98-8809-5fd90cdcb833'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20260725130000 +0000" stop="20260725150000 +0000">
+	<programme channel="204746" start="20260725123300 +0000" stop="20260725152000 +0000">
 		<title>Hyundai Cup 2026 : Group Stage : Laos vs Thailand</title>
 		<desc>Hyundai Cup 2026 is the 16th ASEAN Championship, the biennial international men's football championship of Southeast Asia organised by the ASEAN Football Federation (AFF) and will be the 1st edition under the name ASEAN Hyundai Cup. The tournament will celebrate as the 30th anniversary of the competition. The event will start on 24 July till 26 August 2026. Vietnam are the defending champions after winning the 2024 final against Thailand. Catch the heated tournaments where 10 qualified teams are split into two groups of five and play a round robin system, with each team playing four fixtures. The format of the knockout round remains unchanged, with semi-finals and the final played on two-leg format.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15348093'&amp;EntityType='LinearSchedule'&amp;EntityId='9e7df86f-2402-4dfe-8c9c-16269406f2f6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15501289'&amp;EntityType='LinearSchedule'&amp;EntityId='48bc5e81-ab8f-46ba-a29b-dec0563c3851'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="204746" start="20260725150000 +0000" stop="20260725160000 +0000">
+	<programme channel="204746" start="20260725152000 +0000" stop="20260725160000 +0000">
 		<title>No Programme available now. Next Broadcast on 27 July, Monday 9.30pm. Hyundai Cup 2026 </title>
 		<desc>LIVE 6 will commence broadcast of the Hyundai Cup 2026 : Group Stage : Indonesia vs Cambodia on 27 July, Monday 9.30pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15348097'&amp;EntityType='LinearSchedule'&amp;EntityId='0ec8b249-f63d-4b1f-b939-8b7e9d3891be'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15501285'&amp;EntityType='LinearSchedule'&amp;EntityId='31249b54-5ccb-4977-b232-6ff82919d116'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="204746" start="20260725160000 +0000" stop="20260726160000 +0000">
 		<title>No Programme available now. Next Broadcast on 27 July, Monday 9.30pm. Hyundai Cup 2026 </title>
@@ -2231,191 +2241,6 @@
 		<desc>Kisah Jenin yang telah masuk ke zaman kini. Dia berjumpa dengan seorang animator, Emily. Wujud perbezaan pendapat maka terjadi lah kisah2 lucu dan akhirnya Jenin terpaksa pulang ke tempat asalnya.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369179'&amp;EntityType='LinearSchedule'&amp;EntityId='309cff17-faa8-4a53-bf0b-88dc20461d7d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558271" start="20260724153900 +0000" stop="20260724160500 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP11</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15350134'&amp;EntityType='LinearSchedule'&amp;EntityId='225f84b8-9e31-416c-8672-d18c3f31c2e9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724160500 +0000" stop="20260724163100 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP12</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15350317'&amp;EntityType='LinearSchedule'&amp;EntityId='debb3c3d-8d9a-41fb-8013-a9c1ec9af905'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724163100 +0000" stop="20260724172100 +0000">
-		<title>Syurga Yang Kedua - EP37</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15350331'&amp;EntityType='LinearSchedule'&amp;EntityId='57666a8e-a7d3-4e5c-8b32-d26334cd7d42'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724172100 +0000" stop="20260724181100 +0000">
-		<title>Syurga Yang Kedua - EP38</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15350427'&amp;EntityType='LinearSchedule'&amp;EntityId='64fea3ef-fd65-4e4c-8cec-70027a6df0b3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724181100 +0000" stop="20260724185900 +0000">
-		<title>Sayang Papa Saya Tak - EP5</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15350369'&amp;EntityType='LinearSchedule'&amp;EntityId='ce091f31-5309-4ab4-af9d-d462fbddb5e1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724185900 +0000" stop="20260724195000 +0000">
-		<title>Sayang Papa Saya Tak - EP6</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15350302'&amp;EntityType='LinearSchedule'&amp;EntityId='52e41b2c-fc1a-428c-b68d-8c502bf77959'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724195000 +0000" stop="20260724204100 +0000">
-		<title>Abang Bomba I Love You - EP5</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15350345'&amp;EntityType='LinearSchedule'&amp;EntityId='156f2b7c-c1a0-4787-ae44-79835d142275'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724204100 +0000" stop="20260724213200 +0000">
-		<title>Abang Bomba I Love You - EP6</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15350380'&amp;EntityType='LinearSchedule'&amp;EntityId='a894da2f-5b25-4917-99b4-639964d518bc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724213200 +0000" stop="20260724215800 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP11</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15350357'&amp;EntityType='LinearSchedule'&amp;EntityId='4f8299a7-fc84-43f9-8b70-a175cae79969'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724215800 +0000" stop="20260724220000 +0000">
-		<title>We’ll be back at 6.00am</title>
-		<desc>We’ll be back at 6.00am</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15350287'&amp;EntityType='LinearSchedule'&amp;EntityId='f65845ba-8d4a-4549-8fa5-51428c9e524d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724220000 +0000" stop="20260724222600 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP3</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15350392'&amp;EntityType='LinearSchedule'&amp;EntityId='c31cf688-f864-4b25-ba03-a2de065e79f0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724222600 +0000" stop="20260724225300 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP4</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369306'&amp;EntityType='LinearSchedule'&amp;EntityId='ac64fc7b-3441-4a04-aa30-7ce6dcd08742'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724225300 +0000" stop="20260724231900 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP5</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369330'&amp;EntityType='LinearSchedule'&amp;EntityId='b4bab01e-570f-4f87-ac2b-c6999b0defcd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724231900 +0000" stop="20260724234500 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP6</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369366'&amp;EntityType='LinearSchedule'&amp;EntityId='b5632b75-a8bc-4825-b8e4-5581dc7d0ed4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260724234500 +0000" stop="20260725001100 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP7</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369398'&amp;EntityType='LinearSchedule'&amp;EntityId='0d0bbd4c-08cb-4824-accd-453573423a3f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725001100 +0000" stop="20260725010200 +0000">
-		<title>Syurga Yang Kedua - EP29</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369314'&amp;EntityType='LinearSchedule'&amp;EntityId='bbb0969c-494c-4c37-a0e5-80dea3e5f446'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725010200 +0000" stop="20260725015200 +0000">
-		<title>Syurga Yang Kedua - EP30</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369334'&amp;EntityType='LinearSchedule'&amp;EntityId='7c61f282-7844-4534-8297-8148d606a1d5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725015200 +0000" stop="20260725024200 +0000">
-		<title>Syurga Yang Kedua - EP31</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369354'&amp;EntityType='LinearSchedule'&amp;EntityId='50e2e822-6b8f-402d-9ae8-be3fb7747445'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725024200 +0000" stop="20260725033300 +0000">
-		<title>Syurga Yang Kedua - EP32</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369358'&amp;EntityType='LinearSchedule'&amp;EntityId='e7cb9d9f-5646-4c04-a006-c495d1566707'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725033300 +0000" stop="20260725042400 +0000">
-		<title>Syurga Yang Kedua - EP33</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369406'&amp;EntityType='LinearSchedule'&amp;EntityId='f6e14c9e-780c-4536-a80d-8e8a7e536dc7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725042400 +0000" stop="20260725051300 +0000">
-		<title>Sayang Papa Saya Tak - EP13</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369321'&amp;EntityType='LinearSchedule'&amp;EntityId='0b69677e-41f8-487f-9ee9-f8d570a017bc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725051300 +0000" stop="20260725060100 +0000">
-		<title>Sayang Papa Saya Tak - EP14</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369414'&amp;EntityType='LinearSchedule'&amp;EntityId='279293dd-c4bd-49df-8680-1bfa023ea742'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725060100 +0000" stop="20260725065100 +0000">
-		<title>Sayang Papa Saya Tak - EP15</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369362'&amp;EntityType='LinearSchedule'&amp;EntityId='10f90f69-b18a-4915-afed-e3698e98bbfc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725065100 +0000" stop="20260725074100 +0000">
-		<title>Sayang Papa Saya Tak - EP16</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369378'&amp;EntityType='LinearSchedule'&amp;EntityId='6098b729-312f-49df-86af-5139fe18d880'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725074100 +0000" stop="20260725083100 +0000">
-		<title>Sayang Papa Saya Tak - EP1</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369326'&amp;EntityType='LinearSchedule'&amp;EntityId='28c6c0cb-512c-4a01-b42a-eb423f4b0fc3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725083100 +0000" stop="20260725092300 +0000">
-		<title>Abang Bomba I Love You - EP13</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369370'&amp;EntityType='LinearSchedule'&amp;EntityId='eb4e4992-e446-4386-ac2a-6851f6b27d09'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725092300 +0000" stop="20260725101300 +0000">
-		<title>Abang Bomba I Love You - EP14</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369422'&amp;EntityType='LinearSchedule'&amp;EntityId='663e7a73-1dec-4cb3-90e4-9d4c7dff6c4b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725101300 +0000" stop="20260725110400 +0000">
-		<title>Abang Bomba I Love You - EP15</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369382'&amp;EntityType='LinearSchedule'&amp;EntityId='dfdbbed5-c921-4910-8593-883484063ea6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725110400 +0000" stop="20260725115500 +0000">
-		<title>Abang Bomba I Love You - EP16</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369386'&amp;EntityType='LinearSchedule'&amp;EntityId='e1b26e8d-c0b4-42cd-a65b-041b26a5d073'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725115500 +0000" stop="20260725124500 +0000">
-		<title>Abang Bomba I Love You - EP1</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369428'&amp;EntityType='LinearSchedule'&amp;EntityId='ada2e591-5ee9-4903-8190-5313d0a079bd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725124500 +0000" stop="20260725131100 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP3</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369394'&amp;EntityType='LinearSchedule'&amp;EntityId='1b9775ec-c367-45ee-906d-b66e2209bfa5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725131100 +0000" stop="20260725133800 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP4</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369390'&amp;EntityType='LinearSchedule'&amp;EntityId='a805e337-80aa-4394-aa10-901b4beb0477'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725133800 +0000" stop="20260725140400 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP5</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369338'&amp;EntityType='LinearSchedule'&amp;EntityId='a47572c0-f2b3-420f-a46f-9eb0634ec9ae'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725140400 +0000" stop="20260725143000 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP6</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369374'&amp;EntityType='LinearSchedule'&amp;EntityId='26711882-a351-42eb-a6cd-68a9d81c0375'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725143000 +0000" stop="20260725145600 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP7</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369342'&amp;EntityType='LinearSchedule'&amp;EntityId='2c2da434-d236-4ccb-b9cb-088d6c650c57'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725145600 +0000" stop="20260725154700 +0000">
-		<title>Syurga Yang Kedua - EP29</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369346'&amp;EntityType='LinearSchedule'&amp;EntityId='35fb049b-21e7-42ed-9f47-cbf69aa66f30'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725154700 +0000" stop="20260725163700 +0000">
-		<title>Syurga Yang Kedua - EP30</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369350'&amp;EntityType='LinearSchedule'&amp;EntityId='0e1b2bd0-5f57-46b3-946a-e8fe7fe0eacb'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260725180000 +0000" stop="20260725210000 +0000">
 		<title>Swimming &amp; Para Swimming - Glasgow 2026 Commonwealth Games: Men's &amp; Women's Semi-finals | Finals - 26 July 2026</title>
 		<desc>Women's 200m Freestyle Final | Men's 50m Freestyle Semi-Final | Men's 400m Freestyle </desc>
@@ -2509,7 +2334,7 @@
 	<programme channel="97098" start="20260726040000 +0000" stop="20260726043000 +0000">
 		<title>Ultraman Teo - EP 1</title>
 		<desc>Ibuki Mitsuishi, a student at Meishin University's Department of Veterinary Medicine, is actually an alien. Having lost his home planet, he came to Earth all by himself. While enjoying peaceful days immersing himself in Earth's culture, a meteorite suddenly crashes down. Amidst the chaos of the panicked crowds, Ibuki's world is turned upside down once again!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15497617'&amp;EntityType='LinearSchedule'&amp;EntityId='1c611cdf-4b8d-457d-9594-a06c4a32e06c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15500175'&amp;EntityType='LinearSchedule'&amp;EntityId='1c611cdf-4b8d-457d-9594-a06c4a32e06c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260726043000 +0000" stop="20260726044000 +0000">
 		<title>Grizzy &amp; The Lemmings S4 - EP 37</title>
@@ -3601,6 +3426,21 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 27th July, Monday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15387314'&amp;EntityType='LinearSchedule'&amp;EntityId='1eec9bc0-25a5-469f-bd0e-c15f3fa24bc3'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="97078" start="20260726005500 +0000" stop="20260726123000 +0000">
+		<title>PPA Asia 500 Leapmotor Singapore Open 2026</title>
+		<desc>Taking place from 23–26 July 2026 at The Sports Arena @ Singapore Expo, the event is part of the Professional Pickleball Association (PPA) Tour Asia circuit and represents the first ever highest-tier pickleball event hosted in Singapore.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15469626'&amp;EntityType='LinearSchedule'&amp;EntityId='967df78f-21be-47d3-8c2c-12eaf0acaa15'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260726123000 +0000" stop="20260726160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15469630'&amp;EntityType='LinearSchedule'&amp;EntityId='ac8858ea-4c80-4463-a61a-4a6bc7a04651'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260726160000 +0000" stop="20260727160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15469638'&amp;EntityType='LinearSchedule'&amp;EntityId='c5ac3e33-7495-4106-881c-834f6eb30da6'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="98202" start="20260726160000 +0000" stop="20260727110000 +0000">
 		<title>No Programme available now. Next Broadcast on 27 July, Monday 7.00pm. Hyundai Cup 2026 </title>
 		<desc>LIVE 5 will commence broadcast of the Hyundai Cup 2026 : Group Stage : Singapore vs Timor-Leste on 27 July, Monday 7.00pm. Please stay tuned!</desc>
@@ -4470,175 +4310,5 @@
 		<title>Puyah &amp; Putat</title>
 		<desc>Kisah pengembaraan Puyah, seorang gadis kampung becok yang disukai ramai, apabila dia melawat Kuala Lumpur dan termasuk set filem secara tak sengaja, dan tak semena-mena mula mendapat nama sebagai pelakon.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15385150'&amp;EntityType='LinearSchedule'&amp;EntityId='c6031299-99e2-4117-a04b-1b6ae09c0a05'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725163700 +0000" stop="20260725172700 +0000">
-		<title>Syurga Yang Kedua - EP31</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369462'&amp;EntityType='LinearSchedule'&amp;EntityId='9828ae96-b4f8-47a0-86c7-52197282b923'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725172700 +0000" stop="20260725181800 +0000">
-		<title>Syurga Yang Kedua - EP32</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369469'&amp;EntityType='LinearSchedule'&amp;EntityId='2fbfedba-d48e-4662-8db3-cd0f17deb5c7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725181800 +0000" stop="20260725190900 +0000">
-		<title>Syurga Yang Kedua - EP33</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369490'&amp;EntityType='LinearSchedule'&amp;EntityId='8e28b128-5568-4d0c-ae41-05e96b83e920'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725190900 +0000" stop="20260725195800 +0000">
-		<title>Sayang Papa Saya Tak - EP13</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369494'&amp;EntityType='LinearSchedule'&amp;EntityId='2a2050da-b3eb-48c7-abc1-1ec2987b320e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725195800 +0000" stop="20260725204600 +0000">
-		<title>Sayang Papa Saya Tak - EP14</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369454'&amp;EntityType='LinearSchedule'&amp;EntityId='4dcfab87-1933-46b9-8d62-646cec3dc312'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725204600 +0000" stop="20260725213600 +0000">
-		<title>Sayang Papa Saya Tak - EP15</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369446'&amp;EntityType='LinearSchedule'&amp;EntityId='01b30a02-ed00-4deb-8499-604c77d84807'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725213600 +0000" stop="20260725220000 +0000">
-		<title>We’ll be back at 6.00am</title>
-		<desc>We’ll be back at 6.00am</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369498'&amp;EntityType='LinearSchedule'&amp;EntityId='8be52e55-e5f4-489c-8677-270e3038cd2b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725220000 +0000" stop="20260725222600 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP8</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15369477'&amp;EntityType='LinearSchedule'&amp;EntityId='65ae9805-30cd-42b6-b06d-a9ff9e180284'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725222600 +0000" stop="20260725225200 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP9</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384743'&amp;EntityType='LinearSchedule'&amp;EntityId='7b2244a4-5c5c-440e-866f-0edc07b7ceab'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725225200 +0000" stop="20260725231800 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP10</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384751'&amp;EntityType='LinearSchedule'&amp;EntityId='7b44aeb3-fa6b-4622-9404-4c5afdf2a352'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725231800 +0000" stop="20260725234400 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP11</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384886'&amp;EntityType='LinearSchedule'&amp;EntityId='503a70bb-cf93-4d72-a56b-5e285b64fb55'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260725234400 +0000" stop="20260726001000 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP12</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384759'&amp;EntityType='LinearSchedule'&amp;EntityId='28ca8742-9696-4e6e-ba76-6e9884329134'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726001000 +0000" stop="20260726005900 +0000">
-		<title>Syurga Yang Kedua - EP34</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384944'&amp;EntityType='LinearSchedule'&amp;EntityId='70f0b634-28da-4470-a914-202d92038941'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726005900 +0000" stop="20260726015000 +0000">
-		<title>Syurga Yang Kedua - EP35</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384892'&amp;EntityType='LinearSchedule'&amp;EntityId='fd94a36b-8c4c-488f-b222-ab19a8e1c3a8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726015000 +0000" stop="20260726024000 +0000">
-		<title>Syurga Yang Kedua - EP36</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384921'&amp;EntityType='LinearSchedule'&amp;EntityId='c3b448eb-97a6-49a2-b226-5354ba86e682'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726024000 +0000" stop="20260726033000 +0000">
-		<title>Syurga Yang Kedua - EP37</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384855'&amp;EntityType='LinearSchedule'&amp;EntityId='eb613283-cfe2-4f15-b087-ab7c2f6f57aa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726033000 +0000" stop="20260726042000 +0000">
-		<title>Syurga Yang Kedua - EP38</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384863'&amp;EntityType='LinearSchedule'&amp;EntityId='316704c6-4a83-4ab7-af3c-8d91126d3f70'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726042000 +0000" stop="20260726050800 +0000">
-		<title>Sayang Papa Saya Tak - EP2</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384876'&amp;EntityType='LinearSchedule'&amp;EntityId='44bfdded-c63e-4372-93df-fd7373dde8fb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726050800 +0000" stop="20260726055800 +0000">
-		<title>Sayang Papa Saya Tak - EP3</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384810'&amp;EntityType='LinearSchedule'&amp;EntityId='dc08a72e-ffaa-4616-820b-a82d3cade0aa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726055800 +0000" stop="20260726064900 +0000">
-		<title>Sayang Papa Saya Tak - EP4</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384817'&amp;EntityType='LinearSchedule'&amp;EntityId='54c1ace4-b735-4adc-9fb0-7672e2728e80'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726064900 +0000" stop="20260726073700 +0000">
-		<title>Sayang Papa Saya Tak - EP5</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384825'&amp;EntityType='LinearSchedule'&amp;EntityId='33efee3c-864a-48d6-9c0e-bc10ec10ec36'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726073700 +0000" stop="20260726082800 +0000">
-		<title>Sayang Papa Saya Tak - EP6</title>
-		<desc>Farish who has just lost his wife is married to his son’s caretaker, Raisya. Did they manage to keep their tested relationship strong even though they have to go through various obstacles?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384766'&amp;EntityType='LinearSchedule'&amp;EntityId='90a2dd49-6f19-4314-9341-14125aaf6a5e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726082800 +0000" stop="20260726091900 +0000">
-		<title>Abang Bomba I Love You - EP2</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384955'&amp;EntityType='LinearSchedule'&amp;EntityId='3a1c8bf3-f954-4b09-b291-d7a8c5bed3e0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726091900 +0000" stop="20260726100900 +0000">
-		<title>Abang Bomba I Love You - EP3</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384833'&amp;EntityType='LinearSchedule'&amp;EntityId='44371cda-b85d-46a3-8ee2-42effade926b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726100900 +0000" stop="20260726105700 +0000">
-		<title>Abang Bomba I Love You - EP4</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384773'&amp;EntityType='LinearSchedule'&amp;EntityId='e247a213-6cac-4fb4-ab86-536f2517856e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726105700 +0000" stop="20260726114800 +0000">
-		<title>Abang Bomba I Love You - EP5</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384909'&amp;EntityType='LinearSchedule'&amp;EntityId='bac74559-47b8-4357-adaf-af596fb26529'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726114800 +0000" stop="20260726123900 +0000">
-		<title>Abang Bomba I Love You - EP6</title>
-		<desc>Lily is impressed with Raykal, a member of firemen who always rescues her until she falls in love with him. But Mawar will never let Lily gets what she wanted.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384899'&amp;EntityType='LinearSchedule'&amp;EntityId='6083db80-bd84-4802-9b38-57e7613acdd6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726123900 +0000" stop="20260726130500 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP8</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384779'&amp;EntityType='LinearSchedule'&amp;EntityId='187202b2-2307-46c2-a175-39e18f8c7df9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726130500 +0000" stop="20260726133100 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP9</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384840'&amp;EntityType='LinearSchedule'&amp;EntityId='eb0410eb-1445-450f-b3ae-88d27c6483c4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726133100 +0000" stop="20260726135700 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP10</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384932'&amp;EntityType='LinearSchedule'&amp;EntityId='97892842-e088-4bed-a277-5c9f16c2cc06'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726135700 +0000" stop="20260726142300 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP11</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384787'&amp;EntityType='LinearSchedule'&amp;EntityId='520bd59a-652f-4563-9617-498e6e78647f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726142300 +0000" stop="20260726144900 +0000">
-		<title>Kutinggalkan Cinta di Okinawa - EP12</title>
-		<desc>Mengisahkan tentang Alisa yang cuba untuk menjejaki ibu kandungnya. Sepanjang perjalanan itu dia mengenali Raykal dan Shun. Siapakah di antara dua lelaki ini yang dapat memenangi hati Alisa?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384847'&amp;EntityType='LinearSchedule'&amp;EntityId='a642cdfd-d60c-4a1b-8d08-659d9093685c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726144900 +0000" stop="20260726153800 +0000">
-		<title>Syurga Yang Kedua - EP34</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384794'&amp;EntityType='LinearSchedule'&amp;EntityId='e94466db-bcdb-4bcd-b64f-a72b2ca6f9a8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260726153800 +0000" stop="20260726162900 +0000">
-		<title>Syurga Yang Kedua - EP35</title>
-		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15384802'&amp;EntityType='LinearSchedule'&amp;EntityId='f2fe4206-ee64-4298-bf9c-b29459a2d964'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
