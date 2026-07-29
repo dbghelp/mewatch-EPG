@@ -311,15 +311,10 @@
 		<desc>The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15419088'&amp;EntityType='LinearSchedule'&amp;EntityId='a7911030-b4df-42de-9638-f232bcc84dce'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20260729133000 +0000" stop="20260729153000 +0000">
-		<title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games: Men's &amp; Women's Heats</title>
+	<programme channel="97098" start="20260729133000 +0000" stop="20260729163000 +0000">
+		<title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games: Men's &amp; Women's Heats - 29 Jul 2026</title>
 		<desc>(Encore) Women's 200m Round 1 | Men's 200m Round 1</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15564245'&amp;EntityType='LinearSchedule'&amp;EntityId='e961ba39-1c9d-4f3b-b992-35e984729f2e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97098" start="20260729153000 +0000" stop="20260729163000 +0000">
-		<title>3x3 Basketball &amp; 3x3 Wheelchair Basketball - Glasgow 2026 Commonwealth Games: Men's &amp; Women's Bronze Medal Matches</title>
-		<desc>Men's Bronze Medal Match | Women's Bronze Medal Match | Wheelchair Men's Bronze Medal Match | Wheelchair Women's Bronze Medal Match</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15567392'&amp;EntityType='LinearSchedule'&amp;EntityId='432d1d0e-04a7-443b-8f17-e4af5d0f62a8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20260728160000 +0000" stop="20260728170000 +0000">
 		<title>The Legend of Heroes - Hot Blooded - EP 30 金庸武侠世界之铁血丹心</title>
@@ -1111,17 +1106,17 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15567333'&amp;EntityType='LinearSchedule'&amp;EntityId='76abca1f-3446-43fb-b9a0-5abf5f72777f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="822074" start="20260729085500 +0000" stop="20260729120000 +0000">
+	<programme channel="822074" start="20260729085500 +0000" stop="20260729120600 +0000">
 		<title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games Men's &amp; Women's Heats - 29 Jul 2026</title>
 		<desc>Women's Heptathlon Long Jump | Women's 200m Round 1 | Men's Shot Put Qualifying Round - Group A &amp; B | Men's One Mile Round 1 | Men's 200m Round 1 | Women's Heptathlon Javelin Throw | Men's 100m T12 Round 1 | Women's 400m Hurdles Round 1 </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15564550'&amp;EntityType='LinearSchedule'&amp;EntityId='e1e61e3a-0158-422a-a53d-ba7dde285509'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="822074" start="20260729120000 +0000" stop="20260729125000 +0000">
+	<programme channel="822074" start="20260729120600 +0000" stop="20260729130500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15563928'&amp;EntityType='LinearSchedule'&amp;EntityId='aa0b7f3a-c1e2-4d0e-9a4c-40287d6c9df9'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='15581329'&amp;EntityType='LinearSchedule'&amp;EntityId='d4b55f24-bb43-4cd5-a355-56c02b198471'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="822074" start="20260729125000 +0000" stop="20260729153000 +0000">
+	<programme channel="822074" start="20260729130500 +0000" stop="20260729153000 +0000">
 		<title>Weightlifting - Glasgow 2026 Commonwealth Games Men's 94kg Final</title>
 		<desc>Men's 94kg Final | Men's 94kg Medal Ceremony</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15453876'&amp;EntityType='LinearSchedule'&amp;EntityId='23164a62-2e47-4dc7-9e58-16506d82e02e'&amp;Width=1280&amp;Height=720" />
@@ -2893,7 +2888,7 @@
 	</programme>
 	<programme channel="97098" start="20260730133000 +0000" stop="20260730163000 +0000">
 		<title>Athletics &amp; Para Athletics - Glasgow 2026 Commonwealth Games: Men's &amp; Women's Heats - 30 Jul 2026</title>
-		<desc>(Delayed) Men's Decathlon 100m | Men's Decathlon Long Jump | Men's Javelin Throw Qualifying Round | Women's 100m Hurdles Round 1 | Women's One Mile Round 1 | Men's Triple Jump Qualifying Round - Group A &amp; B | Men's Decathlon Shot Put | Women's 400m Semi-finals | Men's 400m Semi-finals</desc>
+		<desc>(Encore) Men's Decathlon 100m | Men's Decathlon Long Jump | Men's Javelin Throw Qualifying Round | Women's 100m Hurdles Round 1 | Women's One Mile Round 1 | Men's Triple Jump Qualifying Round - Group A &amp; B | Men's Decathlon Shot Put | Women's 400m Semi-finals | Men's 400m Semi-finals</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='15579102'&amp;EntityType='LinearSchedule'&amp;EntityId='ed0c4b68-891c-4b1f-b604-7bbfc4fb8c2c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20260729170000 +0000" stop="20260729180000 +0000">
