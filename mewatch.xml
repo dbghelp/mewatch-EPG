@@ -32,6 +32,10 @@
 		<display-name>Asian Games CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16311396'&amp;EntityType='Item'&amp;EntityId='840096'&amp;Width=150&amp;Height=59" />
 	</channel>
+	<channel id="840099">
+		<display-name>Asian Games CH03</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16322173'&amp;EntityType='Item'&amp;EntityId='840099'&amp;Width=150&amp;Height=59" />
+	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -91,10 +95,6 @@
 	<channel id="558112">
 		<display-name>W-Sport</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358826'&amp;EntityType='Item'&amp;EntityId='558112'&amp;Width=409&amp;Height=250" />
-	</channel>
-	<channel id="556888">
-		<display-name>TRACE Sport Stars</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358846'&amp;EntityType='Item'&amp;EntityId='556888'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260913143000 +0000" stop="20260913170000 +0000">
 		<title>The Boys in the Boat</title>
@@ -1245,6 +1245,36 @@
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16324024'&amp;EntityType='LinearSchedule'&amp;EntityId='ad0a4dad-5a9a-4147-943d-9e261b197068'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260913160000 +0000" stop="20260914004800 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323868'&amp;EntityType='LinearSchedule'&amp;EntityId='afa388be-d0d5-4a20-806f-ef4f67a40d35'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260914004800 +0000" stop="20260914025500 +0000">
+		<title>Basketball - 20th Asian Games Aichi-Nagoya 2026 Men's Group Stage - Group C - BRN vs KAZ</title>
+		<desc>Men's Group Stage - Group C - Bahrain vs Kazakhstan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16266884'&amp;EntityType='LinearSchedule'&amp;EntityId='fd1b5a22-bc4f-44e0-ba19-ab21345800c8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260914025500 +0000" stop="20260914035000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16411230'&amp;EntityType='LinearSchedule'&amp;EntityId='a73edf92-24e7-4d35-9b2f-a27c601357d0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260914035000 +0000" stop="20260914061500 +0000">
+		<title>Basketball - 20th Asian Games Aichi-Nagoya 2026 Men's Group Stage - Group C - CHN vs PHI</title>
+		<desc>Men's Group Stage - Group C - China vs Philippines</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16266876'&amp;EntityType='LinearSchedule'&amp;EntityId='db8f2a79-2f75-44bf-8499-ee1f045a2a75'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260914061500 +0000" stop="20260914155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323876'&amp;EntityType='LinearSchedule'&amp;EntityId='6bf55a9a-9d35-42e8-9ffc-40b8b80d5dc7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260914160000 +0000" stop="20260915155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323880'&amp;EntityType='LinearSchedule'&amp;EntityId='d1d94f94-c0c6-4498-9384-6575b998f931'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260913160000 +0000" stop="20260914112000 +0000">
 		<title>No Programme available now. Next Broadcast on 14th September, Monday 7.20pm. Singapore Premier League 2026/2027</title>
@@ -2801,251 +2831,6 @@
 		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257900'&amp;EntityType='LinearSchedule'&amp;EntityId='509b2b95-3f27-46fc-acc1-027de1dde019'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="556888" start="20260913160000 +0000" stop="20260913163000 +0000">
-		<title>Football Stars - Rapinoe Movies Varane - EP10</title>
-		<desc>Megan Rapinoe fought against Donald Trump. Vinnie Jones attempted to break through in Hollywood. And after having tried their luck elsewhere, Cristiano Ronaldo and Antoine Griezmann have gone back where they belong.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256854'&amp;EntityType='LinearSchedule'&amp;EntityId='a607152a-a3f0-44e4-9954-d900197fc292'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913163000 +0000" stop="20260913170000 +0000">
-		<title>Foul Play - When Nick Met Bernard - EP24</title>
-		<desc>Australian tennis terrors Nick Kyrios and Bernard Tomic, American superbrat John McEnroe loses his cool and Andre Agassi falls to a historic low.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257166'&amp;EntityType='LinearSchedule'&amp;EntityId='1a12cd57-ce2b-42e3-834e-7ef66f7a3956'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913170000 +0000" stop="20260913173000 +0000">
-		<title>The Iconic - Basketball - EP8</title>
-		<desc>The hour of glory for Lebron James could be the return to the 2016 NBA finals, Steph Curry has been an NBA gamechanger, Sue Bird and Diana Taurasi form a deathly duo and Gregg Popovich is the best NBA winner of all time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256867'&amp;EntityType='LinearSchedule'&amp;EntityId='eea23d67-3b29-4778-a604-ce979a63a22d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913173000 +0000" stop="20260913180000 +0000">
-		<title>The Iconic - Olympics - Athletics - EP9</title>
-		<desc>The Olympic 100 metres is the flagship event of the Games, Usain Bolt carried off the gold medal, Sally Pearson shocked the world and Iten, in Kenya, is the training camp among the clouds.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256877'&amp;EntityType='LinearSchedule'&amp;EntityId='eccf0401-58bf-437b-9adb-e5b7efa63f63'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913180000 +0000" stop="20260913183000 +0000">
-		<title>The Iconic - Olympics - Swimming - EP10</title>
-		<desc>China is the undeniable superpower of world diving, with Wu Minxia reigning as the queen of the pool. Meanwhile, Tom Daley stands as an Olympic legend, and Chen Ruolin was unbeaten for over a decade.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257050'&amp;EntityType='LinearSchedule'&amp;EntityId='79ffdb2f-75a9-4ff7-87a4-7763edfb8f32'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913183000 +0000" stop="20260913190000 +0000">
-		<title>The Iconic - Olympics - Cycling - EP11</title>
-		<desc>Jason and Laura Kenny were the number one husband and wife duo of the Olympic Games, they directed a group of British cyclists on the track in 2008 and 2012, while Nino Schurter, the great mountain bike specialist, has a full list of achievements.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257134'&amp;EntityType='LinearSchedule'&amp;EntityId='7370d575-0a3b-4896-b4f3-b7fa9046aa61'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913190000 +0000" stop="20260913193000 +0000">
-		<title>The Iconic - Olympics - Athletics - EP13</title>
-		<desc>Michael Johnson was untouchable over 200m, Cathy Freeman's gold in 2000 brought a nation to a halt, Mo Farah carried off the double-double twice, while the double amputee Oscar Pistorius was part of the 2012 Olympic team.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257062'&amp;EntityType='LinearSchedule'&amp;EntityId='c7264fc8-1cf9-45e0-a5f7-3da421324a7f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913193000 +0000" stop="20260913200000 +0000">
-		<title>The Iconic - Olympics - Winter Games - EP14</title>
-		<desc>China's Eillen Gu became the queen of the snows at the Winter Olympics of 2022, Jamaica's bobsleigh team inspired a film, the big names of downhill skiing take it easy, while Shaun White has appropriated the snowboard half-pipe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257073'&amp;EntityType='LinearSchedule'&amp;EntityId='7b2d94c9-d3c6-4633-b53f-8d08458689a1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913200000 +0000" stop="20260913203000 +0000">
-		<title>Star Block Workout - Brazil - EP13</title>
-		<desc>Travel from Paris to London via JoBurg and meet @mrblockworkout, ex bad boy who has created his own fitness method using only the urban environment!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257138'&amp;EntityType='LinearSchedule'&amp;EntityId='ac9c0d3d-9500-4190-a9b0-03b33db98252'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913203000 +0000" stop="20260913210000 +0000">
-		<title>Flashpoint - Maradona, Marquez &amp; Pacquiao - EP4</title>
-		<desc>The greatest controversy of football, Maradona's Hand of God goal during the 1986 World Cup quarter final against England. And the rivalry in four combats between Manny Pacquiao and Juan Manuel Marquez. A look at the preparations, consequences and hot spots of sporting history.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256957'&amp;EntityType='LinearSchedule'&amp;EntityId='031c6a7b-f51a-44f4-8fa0-5744a3e61021'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913210000 +0000" stop="20260913213000 +0000">
-		<title>The Iconic - Formula 1 - EP5</title>
-		<desc>Ferrari is the best known F1 brand in the world, Lewis Hamilton is an icon of F1, just like the Monaco circuit, while Seb Vettel's year 2013 was a super season for F1.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257085'&amp;EntityType='LinearSchedule'&amp;EntityId='dc4a5c3d-36ee-43b7-b0df-b24b28490298'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913213000 +0000" stop="20260913220000 +0000">
-		<title>Football Stars - Tammy Abraham - EP11</title>
-		<desc>Tammy Abraham has taken off to Roma, but in Spain, shares in Barcelona have reached a new low.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256941'&amp;EntityType='LinearSchedule'&amp;EntityId='bab48266-5888-4227-80e5-7d9af3861386'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913220000 +0000" stop="20260913223000 +0000">
-		<title>Foul Play - Weapon Of Self-Destruction - EP25</title>
-		<desc>Jon Jones' vicious UFC game, boxing fraud sultan Don King and the loaded gloves of the Mexican Antonio Margarito.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257170'&amp;EntityType='LinearSchedule'&amp;EntityId='c667aaef-fb9a-44d9-a1f0-6f7101f51e9f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913223000 +0000" stop="20260913230000 +0000">
-		<title>Flashpoint - Canelo vs Mayweather, Torres Goal, Roger Bannister - EP5</title>
-		<desc>Canelo Alvarez and Mayweather, Torres' goal and Bannister's four minute mile.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256883'&amp;EntityType='LinearSchedule'&amp;EntityId='6d613ddf-335a-491f-b5e2-ac5985c1e3a2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913230000 +0000" stop="20260913233000 +0000">
-		<title>The Iconic - Surfing - EP7</title>
-		<desc>Shark attacks have affected the life of professional surfers Bethany Hamilton and Mick Fanning, while Kelly Slater is the undisputed GOAT and Stephanie Gilmore shocked the world in 2022…</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257096'&amp;EntityType='LinearSchedule'&amp;EntityId='6ec75613-8a94-4ebc-8f95-f30039fbf63c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260913233000 +0000" stop="20260914000000 +0000">
-		<title>Football Stars - Erling Haaland - EP12</title>
-		<desc>Erling Haaland is ready to become the next star of football.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257142'&amp;EntityType='LinearSchedule'&amp;EntityId='9bb0166a-f587-413f-ab70-b97a72072cd2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914000000 +0000" stop="20260914003000 +0000">
-		<title>Foul Play - Hot Heels - EP26</title>
-		<desc>Controversy engulfed the women's 3,000 metre race at Los Angeles 1984, the other side of South African athletic star Oscar Pistorius and the swindler who introduced themselves at the 1980 Boston marathon.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256947'&amp;EntityType='LinearSchedule'&amp;EntityId='dcd17cab-7aba-4314-b1f6-41220a4311ed'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914003000 +0000" stop="20260914010000 +0000">
-		<title>The Iconic - Basketball - EP8</title>
-		<desc>The hour of glory for Lebron James could be the return to the 2016 NBA finals, Steph Curry has been an NBA gamechanger, Sue Bird and Diana Taurasi form a deathly duo and Gregg Popovich is the best NBA winner of all time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257174'&amp;EntityType='LinearSchedule'&amp;EntityId='a2137e69-66e2-4732-8f1e-067af9176244'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914010000 +0000" stop="20260914013000 +0000">
-		<title>The Iconic - Olympics - Athletics - EP9</title>
-		<desc>The Olympic 100 metres is the flagship event of the Games, Usain Bolt carried off the gold medal, Sally Pearson shocked the world and Iten, in Kenya, is the training camp among the clouds.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257146'&amp;EntityType='LinearSchedule'&amp;EntityId='71fc5c58-ea72-4f92-b227-047928b7adde'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914013000 +0000" stop="20260914020000 +0000">
-		<title>The Iconic - Olympics - Swimming - EP10</title>
-		<desc>China is the undeniable superpower of world diving, with Wu Minxia reigning as the queen of the pool. Meanwhile, Tom Daley stands as an Olympic legend, and Chen Ruolin was unbeaten for over a decade.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257178'&amp;EntityType='LinearSchedule'&amp;EntityId='6bc8c0ae-a491-4ab3-8f60-f3e01a0fe143'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914020000 +0000" stop="20260914023000 +0000">
-		<title>The Iconic - Olympics - Cycling - EP11</title>
-		<desc>Jason and Laura Kenny were the number one husband and wife duo of the Olympic Games, they directed a group of British cyclists on the track in 2008 and 2012, while Nino Schurter, the great mountain bike specialist, has a full list of achievements.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257182'&amp;EntityType='LinearSchedule'&amp;EntityId='bbde5a66-4af9-4d4f-886c-4b6fd1baecf6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914023000 +0000" stop="20260914030000 +0000">
-		<title>The Iconic - Olympics - Athletics - EP13</title>
-		<desc>Michael Johnson was untouchable over 200m, Cathy Freeman's gold in 2000 brought a nation to a halt, Mo Farah carried off the double-double twice, while the double amputee Oscar Pistorius was part of the 2012 Olympic team.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256967'&amp;EntityType='LinearSchedule'&amp;EntityId='aa12de84-ff20-401e-b904-dd5c481b4c51'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914030000 +0000" stop="20260914033000 +0000">
-		<title>The Iconic - Olympics - Winter Games - EP14</title>
-		<desc>China's Eillen Gu became the queen of the snows at the Winter Olympics of 2022, Jamaica's bobsleigh team inspired a film, the big names of downhill skiing take it easy, while Shaun White has appropriated the snowboard half-pipe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256977'&amp;EntityType='LinearSchedule'&amp;EntityId='083e4006-592f-417b-8837-70547795f5dd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914033000 +0000" stop="20260914040000 +0000">
-		<title>Star Block Workout - Brazil - EP14</title>
-		<desc>Meet @mrblockworkout, ex-bad boy who has created his own fitness method using only the urban environment! See @jcbarny, @SebastienFoucan, @SinguilaMusic and @Vanessalemoigne take up his challenges in Cergy in the Parisian region (France).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257150'&amp;EntityType='LinearSchedule'&amp;EntityId='1ef4a954-50d7-404d-a2f5-e2f1068838d4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914040000 +0000" stop="20260914043000 +0000">
-		<title>Flashpoint - Hingis vs Graf French Open - EP6</title>
-		<desc>The 1999 French Open final between Martina Hingis and Steffi Graf and Michael Schumacher's 1995 season with Benetton have marked the history of sport.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256889'&amp;EntityType='LinearSchedule'&amp;EntityId='d1543746-920e-46c6-8abf-b23cab84ede5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914043000 +0000" stop="20260914050000 +0000">
-		<title>The Iconic - Basketball - EP8</title>
-		<desc>The hour of glory for Lebron James could be the return to the 2016 NBA finals, Steph Curry has been an NBA gamechanger, Sue Bird and Diana Taurasi form a deathly duo and Gregg Popovich is the best NBA winner of all time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256987'&amp;EntityType='LinearSchedule'&amp;EntityId='718886d1-58f5-4182-9491-9fb7aa6949df'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914050000 +0000" stop="20260914053000 +0000">
-		<title>Football Stars - Pedri - EP13</title>
-		<desc>The heir to Andres Iniesta, Pedri is the future of Barcelona.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256898'&amp;EntityType='LinearSchedule'&amp;EntityId='a6dde430-14eb-46c5-ad61-b38fa6ce1b2f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914053000 +0000" stop="20260914060000 +0000">
-		<title>Foul Play - Rolls Of The Dyce - EP27</title>
-		<desc>A coup mounted by a newspaper rolls the new England manager over, the fault linked to the Munich air disaster of 1958 and a curious K9 elucidates the case of the disappearance of the World Cup.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257039'&amp;EntityType='LinearSchedule'&amp;EntityId='16927de0-ab0d-4f76-b5e8-90e547163d20'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914060000 +0000" stop="20260914063000 +0000">
-		<title>Fujifilm Instax Undisputed - Ibe Holland - EP3</title>
-		<desc>Fujifilm™ Instax Undisputed is one of the most prestigious breakdance international competitions in the world, bringing together the elites of B-Boys and B-Girls from all around the globe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256998'&amp;EntityType='LinearSchedule'&amp;EntityId='1507d3ce-239a-4de8-902b-e00bd0591787'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914063000 +0000" stop="20260914070000 +0000">
-		<title>Fujifilm Instax Undisputed - Cape Town - EP4</title>
-		<desc>Fujifilm™ Instax Undisputed is one of the most prestigious breakdance international competitions in the world, bringing together the elites of B-Boys and B-Girls from all around the globe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256906'&amp;EntityType='LinearSchedule'&amp;EntityId='68200b7b-4de2-4955-9fb4-7916643a3e1c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914070000 +0000" stop="20260914073000 +0000">
-		<title>The Truth About - Dance Sports - EP63</title>
-		<desc>In this episode you will find out the whole truth about dance. From pole dancing to ballerinas via cheerleaders, we invite you to immerse yourself in the history of dance in all its forms!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257186'&amp;EntityType='LinearSchedule'&amp;EntityId='146d4722-ad94-4431-a00f-cd9b29e83d5d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914073000 +0000" stop="20260914080000 +0000">
-		<title>Fujifilm Instax Undisputed - Sao Paulo - EP1</title>
-		<desc>Fujifilm™ Instax Undisputed is one of the most prestigious breakdance international competitions in the world, bringing together the elites of B-Boys and B-Girls from all around the globe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257119'&amp;EntityType='LinearSchedule'&amp;EntityId='242133b5-613d-4e34-bb59-06c069eec411'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914080000 +0000" stop="20260914083000 +0000">
-		<title>Fujifilm Instax Undisputed - Ibe Holland - EP2</title>
-		<desc>Fujifilm™ Instax Undisputed is one of the most prestigious breakdance international competitions in the world, bringing together the elites of B-Boys and B-Girls from all around the globe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257190'&amp;EntityType='LinearSchedule'&amp;EntityId='e08ce4dd-62ee-40ea-8ad6-1203d921a939'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914083000 +0000" stop="20260914090000 +0000">
-		<title>Top 20 - Champions of the Dancefloor - EP130</title>
-		<desc>The TOP 20 is an exclusive collation of the news and the champions causing a buzz on planet sport!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256913'&amp;EntityType='LinearSchedule'&amp;EntityId='f6471fb1-fa2e-496b-9a78-7e8e0d694708'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914090000 +0000" stop="20260914093000 +0000">
-		<title>Star Block Workout - Brazil - EP15</title>
-		<desc>Travel from Paris to London via JoBurg and meet @mrblockworkout, ex bad boy who has created his own fitness method using only the urban environment!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257011'&amp;EntityType='LinearSchedule'&amp;EntityId='3427f228-28f8-408a-ab47-7e760a0b1d2a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914093000 +0000" stop="20260914100000 +0000">
-		<title>Flashpoint - Manchester United's 1999 Treble - EP8</title>
-		<desc>Manchester United came back from the dead to win the Champions League in 1999. Here's how.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257194'&amp;EntityType='LinearSchedule'&amp;EntityId='37911ee8-e91f-4afa-8259-e87af0452287'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914100000 +0000" stop="20260914103000 +0000">
-		<title>The Iconic - Olympics - Athletics - EP9</title>
-		<desc>The Olympic 100 metres is the flagship event of the Games, Usain Bolt carried off the gold medal, Sally Pearson shocked the world and Iten, in Kenya, is the training camp among the clouds.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257198'&amp;EntityType='LinearSchedule'&amp;EntityId='1ef3280c-aa91-49ad-b54a-f3702e908ca0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914103000 +0000" stop="20260914110000 +0000">
-		<title>Football Stars - Oktoberfest - EP14</title>
-		<desc>Autumn in Bavaria only means one thing: Oktoberfest.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257127'&amp;EntityType='LinearSchedule'&amp;EntityId='ab9ed9d9-f651-4858-8be6-964582f7a7cc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914110000 +0000" stop="20260914113000 +0000">
-		<title>Foul Play - The Sin's Of Solo - EP29</title>
-		<desc>The desperate case of female US footballer Hope Solo, the Spanish football president learns a lesson and a Colombian footballer suffers the anger of his nation.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257021'&amp;EntityType='LinearSchedule'&amp;EntityId='e905d96c-a0d2-40d1-a6b6-b310f5e2cf52'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914113000 +0000" stop="20260914120000 +0000">
-		<title>The Iconic - The Emperor - EP40</title>
-		<desc>Beckenbauer's heritage runs through German football like a golden thread, linking the generations from high and low.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256920'&amp;EntityType='LinearSchedule'&amp;EntityId='df2f26b3-9e40-47f4-b1e6-c69bc545985c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914120000 +0000" stop="20260914123000 +0000">
-		<title>Football's Greatest Stage - Beckenbauer - EP10</title>
-		<desc>Franz Beckenbauer, "The Kaiser".</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257154'&amp;EntityType='LinearSchedule'&amp;EntityId='5ebb6e5d-5956-4d7c-a166-60a9239f260d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914123000 +0000" stop="20260914130000 +0000">
-		<title>Football's Greatest Stage - Eusebio - EP5</title>
-		<desc>Eusebio was the incarnation of Portuguese football in the days before Cristiano Ronaldo.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257104'&amp;EntityType='LinearSchedule'&amp;EntityId='76dfa9ea-7bd1-4f8a-8c53-1139303745ff'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914130000 +0000" stop="20260914133000 +0000">
-		<title>Sports Woman - Glorious - EP22</title>
-		<desc>In this edition of Sportswoman, we pay homage to glorious athletes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256927'&amp;EntityType='LinearSchedule'&amp;EntityId='86e0e8bb-9fdb-4ab8-abd6-18118d73c7bc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914133000 +0000" stop="20260914140000 +0000">
-		<title>Sports Woman - A Bunch Of Firsts - EP6</title>
-		<desc>In this edition of Sportswoman, it's about the athletes who came first.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257158'&amp;EntityType='LinearSchedule'&amp;EntityId='c7d0336c-276e-4c14-8d47-a3c6bad68010'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914140000 +0000" stop="20260914143000 +0000">
-		<title>Sports Woman - Never Give Up - EP1</title>
-		<desc>In this edition of Sportswoman, we look at athletes who have considered setbacks as well as challenges.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16256934'&amp;EntityType='LinearSchedule'&amp;EntityId='fc5b0f36-d0c6-4afe-9371-544dfdf6a9c3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914143000 +0000" stop="20260914150000 +0000">
-		<title>Star Block Workout - Brazil - EP16</title>
-		<desc>Travel from Paris to London via JoBurg and meet @mrblockworkout, ex bad boy who has created his own fitness method using only the urban environment!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257031'&amp;EntityType='LinearSchedule'&amp;EntityId='71b0857c-e65a-4a6f-8078-252792ab0da3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914150000 +0000" stop="20260914153000 +0000">
-		<title>Flashpoint - Tiger and Rocco 2008 US Open - EP9</title>
-		<desc>Tiger Woods wins the 2008 US Open on one leg and Secretariat carries off the Triple Crown by a stupefying margin.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257111'&amp;EntityType='LinearSchedule'&amp;EntityId='3be7330a-3de2-4005-a517-db98c915a3b1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914153000 +0000" stop="20260914160000 +0000">
-		<title>The Iconic - Olympics - Swimming - EP10</title>
-		<desc>China is the undeniable superpower of world diving, with Wu Minxia reigning as the queen of the pool. Meanwhile, Tom Daley stands as an Olympic legend, and Chen Ruolin was unbeaten for over a decade.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257162'&amp;EntityType='LinearSchedule'&amp;EntityId='767c5b17-0924-48d2-87a5-82c45c119f63'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914160000 +0000" stop="20260914163000 +0000">
-		<title>Football Stars - Gianluigi Donnarumma - EP15</title>
-		<desc>Gianluigi Donnarumma's progress fascinates us.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271884'&amp;EntityType='LinearSchedule'&amp;EntityId='5eea6437-40aa-4835-aca2-8720b0ccdf8e'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260914163000 +0000" stop="20260914173000 +0000">
 		<title>So Help Me Todd S2 - EP 8</title>
 		<desc>Margaret helps Susan serve justice for a tennis coach accused of drugging a teen athlete Todd and Lyle embark on an epic office prank war.</desc>
@@ -4140,6 +3925,11 @@
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16324032'&amp;EntityType='LinearSchedule'&amp;EntityId='d9a1a9ef-ac37-474d-aa2b-fc6ef3239134'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260915160000 +0000" stop="20260916035000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323884'&amp;EntityType='LinearSchedule'&amp;EntityId='2b3b4060-f9bf-4c70-9142-39625f817272'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260915160000 +0000" stop="20260916160000 +0000">
 		<title>No Programme available now. Next Broadcast on 18th September, Friday 7.20pm. Singapore Premier League 2026/2027</title>
@@ -5710,245 +5500,5 @@
 		<title>LIVE WSWC '27 Gr. C: Brazil v Netherlands</title>
 		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272919'&amp;EntityType='LinearSchedule'&amp;EntityId='bd6aed07-646c-4963-9561-54f47cfb7453'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914163000 +0000" stop="20260914170000 +0000">
-		<title>Foul Play - The Big Heat - EP30</title>
-		<desc>A case of mistaken identity proves fatal to a baseballing icon, the lies and deceptions of a New York Yankee and a Cincinnati legend's addiction to the game.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271896'&amp;EntityType='LinearSchedule'&amp;EntityId='f8cea926-9583-497f-8fe6-c3ad4e72b9c0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914170000 +0000" stop="20260914173000 +0000">
-		<title>The Iconic - The Emperor - EP40</title>
-		<desc>Beckenbauer's heritage runs through German football like a golden thread, linking the generations from high and low.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271536'&amp;EntityType='LinearSchedule'&amp;EntityId='feae1ff2-3af4-45e5-9b2e-a051e775e081'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914173000 +0000" stop="20260914180000 +0000">
-		<title>Football's Greatest Stage - Beckenbauer - EP10</title>
-		<desc>Franz Beckenbauer, "The Kaiser".</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271738'&amp;EntityType='LinearSchedule'&amp;EntityId='524fcf66-48a7-4b45-8e95-2f2f80f1abdc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914180000 +0000" stop="20260914183000 +0000">
-		<title>Football's Greatest Stage - Eusebio - EP5</title>
-		<desc>Eusebio was the incarnation of Portuguese football in the days before Cristiano Ronaldo.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271745'&amp;EntityType='LinearSchedule'&amp;EntityId='e088798d-de36-49d7-8e96-f106805cc49f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914183000 +0000" stop="20260914190000 +0000">
-		<title>Sports Woman - Glorious - EP22</title>
-		<desc>In this edition of Sportswoman, we pay homage to glorious athletes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271638'&amp;EntityType='LinearSchedule'&amp;EntityId='5edf1b63-5d4a-430f-95f1-53f37ee34d09'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914190000 +0000" stop="20260914193000 +0000">
-		<title>Sports Woman - A Bunch Of Firsts - EP6</title>
-		<desc>In this edition of Sportswoman, it's about the athletes who came first.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271590'&amp;EntityType='LinearSchedule'&amp;EntityId='9a61a77b-7b8b-4163-8d08-597172e3bbce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914193000 +0000" stop="20260914200000 +0000">
-		<title>Sports Woman - Never Give Up - EP1</title>
-		<desc>In this edition of Sportswoman, we look at athletes who have considered setbacks as well as challenges.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271752'&amp;EntityType='LinearSchedule'&amp;EntityId='c336df2f-f2a9-4d6e-8b70-80565d46e6ae'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914200000 +0000" stop="20260914203000 +0000">
-		<title>Star Block Workout - Brazil - EP17</title>
-		<desc>In the 'Urban Fit Special Guests' series, travel from Paris to London, via Johannesburg, and meet Boost (@mrblockworkout). This 23-year-old former bad boy has created his own fitness training, exclusively using his body and the surrounding urban environment.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271759'&amp;EntityType='LinearSchedule'&amp;EntityId='d1ed73ed-5b16-44e2-9165-05b0baed6ccc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914203000 +0000" stop="20260914210000 +0000">
-		<title>Flashpoint - Shergar/ Euro 2016 - EP10</title>
-		<desc>The Derby won by Shergar and his terrible fate, as well as Eder's victorious goal for Portugal during Euro 2016.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271648'&amp;EntityType='LinearSchedule'&amp;EntityId='2804d53d-6bd9-428c-a660-ab9f108138c0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914210000 +0000" stop="20260914213000 +0000">
-		<title>The Iconic - Olympics - Cycling - EP11</title>
-		<desc>Jason and Laura Kenny were the number one husband and wife duo of the Olympic Games, they directed a group of British cyclists on the track in 2008 and 2012, while Nino Schurter, the great mountain bike specialist, has a full list of achievements.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271582'&amp;EntityType='LinearSchedule'&amp;EntityId='36de4156-6318-4f3d-a12b-36b92c238624'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914213000 +0000" stop="20260914220000 +0000">
-		<title>Football Stars - Media Darlings - EP16</title>
-		<desc>Footballing media's biggest darlings.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271659'&amp;EntityType='LinearSchedule'&amp;EntityId='1d20ea65-69d9-441e-9cf1-000be0b73906'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914220000 +0000" stop="20260914223000 +0000">
-		<title>Foul Play - Liv Golf - EP1</title>
-		<desc>How golf, a sport founded on tradition and honour, became bogged down in acrimony.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271766'&amp;EntityType='LinearSchedule'&amp;EntityId='b3a84b5a-5bf4-4cb7-be5c-4cc03eb27882'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914223000 +0000" stop="20260914230000 +0000">
-		<title>Flashpoint - Nadal/ Federer/ Wie - EP11</title>
-		<desc>The 2006 French Open final between Roger and Rafa marked the beginning of a fine grand slam rivalry and the 2014 US Women's Open marked the passage to adult age of Michelle Wie.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271670'&amp;EntityType='LinearSchedule'&amp;EntityId='aa0d984a-e9b2-46f9-8f9d-a4be6a52d4f0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914230000 +0000" stop="20260914233000 +0000">
-		<title>The Iconic - Olympics - Athletics - EP13</title>
-		<desc>Michael Johnson was untouchable over 200m, Cathy Freeman's gold in 2000 brought a nation to a halt, Mo Farah carried off the double-double twice, while the double amputee Oscar Pistorius was part of the 2012 Olympic team.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271774'&amp;EntityType='LinearSchedule'&amp;EntityId='f725c58a-2d1a-4f18-b90b-515795ed2ee3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260914233000 +0000" stop="20260915000000 +0000">
-		<title>Football Stars - Ronnie's Big Brood - EP17</title>
-		<desc>Superstar Cristiano Ronaldo's family is already big, but is about to get bigger.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271782'&amp;EntityType='LinearSchedule'&amp;EntityId='a757517c-6921-4ede-975d-aabadaf5bf1a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915000000 +0000" stop="20260915003000 +0000">
-		<title>Foul Play - Shergar - EP2</title>
-		<desc>The mystery of Shergar, the greatest Derby winner, abducted and never found.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271544'&amp;EntityType='LinearSchedule'&amp;EntityId='199af5df-73cb-4021-ac57-744886852301'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915003000 +0000" stop="20260915010000 +0000">
-		<title>The Iconic - The Emperor - EP40</title>
-		<desc>Beckenbauer's heritage runs through German football like a golden thread, linking the generations from high and low.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271787'&amp;EntityType='LinearSchedule'&amp;EntityId='7725a4a6-ab30-4029-81ee-90b9e46b1cca'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915010000 +0000" stop="20260915013000 +0000">
-		<title>Football's Greatest Stage - Beckenbauer - EP10</title>
-		<desc>Franz Beckenbauer, "The Kaiser".</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271797'&amp;EntityType='LinearSchedule'&amp;EntityId='69c073d4-b6b9-41e2-be09-9226e780a3f6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915013000 +0000" stop="20260915020000 +0000">
-		<title>Football's Greatest Stage - Eusebio - EP5</title>
-		<desc>Eusebio was the incarnation of Portuguese football in the days before Cristiano Ronaldo.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271681'&amp;EntityType='LinearSchedule'&amp;EntityId='813e1397-92d3-4292-a66b-e34a75ac3e1d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915020000 +0000" stop="20260915023000 +0000">
-		<title>Sports Woman - Glorious - EP22</title>
-		<desc>In this edition of Sportswoman, we pay homage to glorious athletes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271597'&amp;EntityType='LinearSchedule'&amp;EntityId='5739be74-ebd2-4fee-9eaa-3e11e05be45c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915023000 +0000" stop="20260915030000 +0000">
-		<title>Sports Woman - A Bunch Of Firsts - EP6</title>
-		<desc>In this edition of Sportswoman, it's about the athletes who came first.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271622'&amp;EntityType='LinearSchedule'&amp;EntityId='e677ab37-1616-48ef-b098-665e34ae367e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915030000 +0000" stop="20260915033000 +0000">
-		<title>Sports Woman - Never Give Up - EP1</title>
-		<desc>In this edition of Sportswoman, we look at athletes who have considered setbacks as well as challenges.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271808'&amp;EntityType='LinearSchedule'&amp;EntityId='1cdb20a3-ee83-4162-a69d-b2867e7378d5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915033000 +0000" stop="20260915040000 +0000">
-		<title>Star Block Workout - Best of Brazil - EP18</title>
-		<desc>In "Urban Fit Special Guests", travel from Paris to London via JoBurg and meet @mrblockworkout, an ex bad boy who has created his own fitness method using only the urban environment!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271818'&amp;EntityType='LinearSchedule'&amp;EntityId='e373a381-3aca-4de8-83d8-180f409f7835'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915040000 +0000" stop="20260915043000 +0000">
-		<title>Flashpoint - Borg &amp; Mcenroe/ Tyson &amp; Holyfield - EP12</title>
-		<desc>Bjorn Borg and John McEnroe have set new standards in men's tennis, while Mike Tyson and Evander Holyfield have reached new summits in heavyweight boxing. These two rivalries have created historic tensions.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271830'&amp;EntityType='LinearSchedule'&amp;EntityId='c3461a79-090f-4ea3-8cb6-e15d72dcf9d5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915043000 +0000" stop="20260915050000 +0000">
-		<title>The Iconic - Olympics - Winter Games - EP14</title>
-		<desc>China's Eillen Gu became the queen of the snows at the Winter Olympics of 2022, Jamaica's bobsleigh team inspired a film, the big names of downhill skiing take it easy, while Shaun White has appropriated the snowboard half-pipe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271553'&amp;EntityType='LinearSchedule'&amp;EntityId='19c69205-031d-4d0a-9335-47527f4c6385'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915050000 +0000" stop="20260915053000 +0000">
-		<title>Football Stars - Power Couples - EP18</title>
-		<desc>Get to know the power couples who make things move in football.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271558'&amp;EntityType='LinearSchedule'&amp;EntityId='bdd00b88-c31a-4610-9e28-660c9929cb0a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915053000 +0000" stop="20260915060000 +0000">
-		<title>Foul Play - Skategate - EP3</title>
-		<desc>The scandal of the figure skating judges at the Salt Lake City Winter Olympics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271562'&amp;EntityType='LinearSchedule'&amp;EntityId='0abae247-efd2-4ad0-bc75-1ee77898a877'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915060000 +0000" stop="20260915063000 +0000">
-		<title>The Iconic - Basketball - EP8</title>
-		<desc>The hour of glory for Lebron James could be the return to the 2016 NBA finals, Steph Curry has been an NBA gamechanger, Sue Bird and Diana Taurasi form a deathly duo and Gregg Popovich is the best NBA winner of all time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271630'&amp;EntityType='LinearSchedule'&amp;EntityId='250c247b-51a0-4bba-86d3-d860e663d0f3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915063000 +0000" stop="20260915070000 +0000">
-		<title>The Iconic - Olympics - Athletics - EP9</title>
-		<desc>The Olympic 100 metres is the flagship event of the Games, Usain Bolt carried off the gold medal, Sally Pearson shocked the world and Iten, in Kenya, is the training camp among the clouds.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271566'&amp;EntityType='LinearSchedule'&amp;EntityId='12177a81-f98b-4cd6-94e6-eeebd68fdc8b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915070000 +0000" stop="20260915073000 +0000">
-		<title>The Iconic - Olympics - Swimming - EP10</title>
-		<desc>China is the undeniable superpower of world diving, with Wu Minxia reigning as the queen of the pool. Meanwhile, Tom Daley stands as an Olympic legend, and Chen Ruolin was unbeaten for over a decade.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271605'&amp;EntityType='LinearSchedule'&amp;EntityId='a079ddbf-63ee-48d9-8df0-5bc8afef87b4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915073000 +0000" stop="20260915080000 +0000">
-		<title>The Iconic - Olympics - Cycling - EP11</title>
-		<desc>Jason and Laura Kenny were the number one husband and wife duo of the Olympic Games, they directed a group of British cyclists on the track in 2008 and 2012, while Nino Schurter, the great mountain bike specialist, has a full list of achievements.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271909'&amp;EntityType='LinearSchedule'&amp;EntityId='a90b0448-9e82-4227-89bd-f536eeda3036'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915080000 +0000" stop="20260915083000 +0000">
-		<title>The Iconic - Olympics - Athletics - EP13</title>
-		<desc>Michael Johnson was untouchable over 200m, Cathy Freeman's gold in 2000 brought a nation to a halt, Mo Farah carried off the double-double twice, while the double amputee Oscar Pistorius was part of the 2012 Olympic team.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271690'&amp;EntityType='LinearSchedule'&amp;EntityId='a727a16e-25fd-4b11-8e08-d450deaf3577'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915083000 +0000" stop="20260915090000 +0000">
-		<title>The Iconic - Olympics - Winter Games - EP14</title>
-		<desc>China's Eillen Gu became the queen of the snows at the Winter Olympics of 2022, Jamaica's bobsleigh team inspired a film, the big names of downhill skiing take it easy, while Shaun White has appropriated the snowboard half-pipe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271717'&amp;EntityType='LinearSchedule'&amp;EntityId='98813bda-91a9-43e7-848a-99083e29c42c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915090000 +0000" stop="20260915093000 +0000">
-		<title>Star Block Workout - Reunion Island Boucan Canot - EP19</title>
-		<desc>In the 'Urban Fit Special Guests' series, travel from Paris to London, via Johannesburg, and meet "Boost" (@mrblockworkout). This 23-year-old former bad boy has created his own fitness training, exclusively using his body and the surrounding urban environment.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271921'&amp;EntityType='LinearSchedule'&amp;EntityId='06d406b0-8312-4acb-9e79-3fb7ef88716c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915093000 +0000" stop="20260915100000 +0000">
-		<title>Flashpoint - Manchester United Tragedy/Beamon's Giant Leap - EP13</title>
-		<desc>In 1958, Manchester United experienced one of the saddest tragedies in the history of football. Ten years later, in Mexico, Bob Beamon jumped to take a giant step.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271724'&amp;EntityType='LinearSchedule'&amp;EntityId='3330a93a-0286-4fa1-96af-122a69b51d28'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915100000 +0000" stop="20260915103000 +0000">
-		<title>The Iconic - Olympics - Gymnastic - EP15</title>
-		<desc>Max Whitlock, a gymnast for the Great Britain team, has entered history, Nadia Comaneci is the ultimate sporting icon, Simon Biles created magic at Rio, while Aliya Mustafina has recovered from a serious injury.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271732'&amp;EntityType='LinearSchedule'&amp;EntityId='70b60273-1cd0-472f-b316-2c1c41d88af3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915103000 +0000" stop="20260915110000 +0000">
-		<title>Football Stars - Club Hollywood - EP19</title>
-		<desc>The stars of Hollywood are buying football clubs.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271702'&amp;EntityType='LinearSchedule'&amp;EntityId='3fcc578d-10c8-46de-9d2d-57795df56cfa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915110000 +0000" stop="20260915113000 +0000">
-		<title>Foul Play - Hansie Cronje and Cricket Match Fixing - EP4</title>
-		<desc>How Hansie Cronje destroyed his reputation and harmed cricket.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271931'&amp;EntityType='LinearSchedule'&amp;EntityId='4ac8c5ac-3108-4708-9f8b-0768d49a941a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915113000 +0000" stop="20260915120000 +0000">
-		<title>Football's Greatest Stage - Pelé's Co-Stars - EP9</title>
-		<desc>Pelé did not win three World Cups on his own,</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271570'&amp;EntityType='LinearSchedule'&amp;EntityId='0505df4f-a80d-4907-8cd9-117e4067e3d6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915120000 +0000" stop="20260915123000 +0000">
-		<title>Flashpoint - Jesse Owens/ Budd &amp; Decker - EP19</title>
-		<desc>At the 1936 Olympic Games, Jesse Owens recorded one of the greatest sporting performances in history. At LA 84, the collision between Zola Budd and Mary Decker become the topic of conversation of the Games.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271709'&amp;EntityType='LinearSchedule'&amp;EntityId='923fec25-f4b3-4cac-88c9-a23afeb3f04b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915123000 +0000" stop="20260915130000 +0000">
-		<title>The Iconic - Driving Forces - EP55</title>
-		<desc>The driving force of football has many manifestations, like the Manchester derby, Argentina's Estadio Monumental, the German Thomas Muller and the Brazilian Ronaldo.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271574'&amp;EntityType='LinearSchedule'&amp;EntityId='1163cc45-1a6a-4cdc-8704-1c6c5e518c0b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915130000 +0000" stop="20260915133000 +0000">
-		<title>Flashpoint - 1977 Duel in the Sun/ 2006 World Cup - EP16</title>
-		<desc>During the 1977 Open Championship, two golfing legends faced off blow for blow. During the 2006 World Cup final, a footballing legend disgraced himself.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271578'&amp;EntityType='LinearSchedule'&amp;EntityId='5ee2328d-6260-4d5e-9cc1-f56fb5596f69'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915133000 +0000" stop="20260915140000 +0000">
-		<title>The Iconic - Olympics - Winter Games - EP14</title>
-		<desc>China's Eillen Gu became the queen of the snows at the Winter Olympics of 2022, Jamaica's bobsleigh team inspired a film, the big names of downhill skiing take it easy, while Shaun White has appropriated the snowboard half-pipe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271839'&amp;EntityType='LinearSchedule'&amp;EntityId='9e8755c7-cce6-4bbc-97b1-cda36344ad9c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915140000 +0000" stop="20260915143000 +0000">
-		<title>Flashpoint - Messi/Bikila/Nicklaus - EP27</title>
-		<desc>When Lionel Messi led Argentina to glory, when Jack Nicklaus became the oldest winner of the Masters and when a skinny little barefoot Ethiopian won the miracle of the Olympic marathon.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271613'&amp;EntityType='LinearSchedule'&amp;EntityId='2d9ba73a-6712-420c-a54b-23d2fe79df06'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915143000 +0000" stop="20260915150000 +0000">
-		<title>Star Block Workout - Reunion Island St Paul - EP20</title>
-		<desc>In the 'Urban Fit Special Guests' series, travel from Paris to London, via Johannesburg, and meet "Boost" (@mrblockworkout). This 23-year-old former bad boy has created his own fitness training, exclusively using his body and the surrounding urban environment.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271851'&amp;EntityType='LinearSchedule'&amp;EntityId='61459844-5ba4-4c8b-89d1-50a2b975d806'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915150000 +0000" stop="20260915153000 +0000">
-		<title>Flashpoint - Michael Jordan/ Agnes Keliti/ India 1983 - EP14</title>
-		<desc>Michael Jordan danced for the last time for the Chicago Bulls in 1998. Agnes Keleti dominated the Melbourne Olympic Games in 1956. And India stunned the world by carrying off the cricketing World Cup in 1983.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271862'&amp;EntityType='LinearSchedule'&amp;EntityId='9c84c9d0-a950-4a23-8bc9-5d4b851a30cd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915153000 +0000" stop="20260915160000 +0000">
-		<title>The Iconic - Olympics - All Sports - EP16</title>
-		<desc>In Tokyo, Denmark's Viktor Axelsen surprised a billion Chinese by winning the badminton gold medal, Valerie Adams brought Kiwi athleticism into the spotlight, while the Brownlee brothers realised a historic triathlon double.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16271873'&amp;EntityType='LinearSchedule'&amp;EntityId='5dce7f65-09f3-407d-a4e8-b4bfc6eac2d4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556888" start="20260915160000 +0000" stop="20260915163000 +0000">
-		<title>Football Stars - Footballers and Their Pets - EP20</title>
-		<desc>Get to know the domestic animals of the biggest names in world football.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16291014'&amp;EntityType='LinearSchedule'&amp;EntityId='f47916b4-766f-45fc-ba0b-5d7165264d0a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
