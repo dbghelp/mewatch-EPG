@@ -32,6 +32,10 @@
 		<display-name>Asian Games CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16311396'&amp;EntityType='Item'&amp;EntityId='840096'&amp;Width=150&amp;Height=59" />
 	</channel>
+	<channel id="840094">
+		<display-name>Asian Games CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321694'&amp;EntityType='Item'&amp;EntityId='840094'&amp;Width=150&amp;Height=59" />
+	</channel>
 	<channel id="840099">
 		<display-name>Asian Games CH03</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16322173'&amp;EntityType='Item'&amp;EntityId='840099'&amp;Width=150&amp;Height=59" />
@@ -91,10 +95,6 @@
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
-	</channel>
-	<channel id="558112">
-		<display-name>W-Sport</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358826'&amp;EntityType='Item'&amp;EntityId='558112'&amp;Width=409&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260913143000 +0000" stop="20260913170000 +0000">
 		<title>The Boys in the Boat</title>
@@ -1246,6 +1246,16 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16324024'&amp;EntityType='LinearSchedule'&amp;EntityId='ad0a4dad-5a9a-4147-943d-9e261b197068'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="840094" start="20260913160000 +0000" stop="20260914155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323928'&amp;EntityType='LinearSchedule'&amp;EntityId='f45e5899-c9d5-45c8-807d-11bfdcf13670'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840094" start="20260914160000 +0000" stop="20260915062000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323932'&amp;EntityType='LinearSchedule'&amp;EntityId='b25f4821-64ab-494b-a6ee-b750091e13d9'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="840099" start="20260913160000 +0000" stop="20260914004800 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
@@ -1261,15 +1271,15 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16411230'&amp;EntityType='LinearSchedule'&amp;EntityId='a73edf92-24e7-4d35-9b2f-a27c601357d0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260914035000 +0000" stop="20260914061500 +0000">
+	<programme channel="840099" start="20260914035000 +0000" stop="20260914054800 +0000">
 		<title>Basketball - 20th Asian Games Aichi-Nagoya 2026 Men's Group Stage - Group C - CHN vs PHI</title>
 		<desc>Men's Group Stage - Group C - China vs Philippines</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16266876'&amp;EntityType='LinearSchedule'&amp;EntityId='db8f2a79-2f75-44bf-8499-ee1f045a2a75'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260914061500 +0000" stop="20260914155959 +0000">
+	<programme channel="840099" start="20260914054800 +0000" stop="20260914155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323876'&amp;EntityType='LinearSchedule'&amp;EntityId='6bf55a9a-9d35-42e8-9ffc-40b8b80d5dc7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16411945'&amp;EntityType='LinearSchedule'&amp;EntityId='009b122c-bbd2-4185-afef-01355064f4c4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840099" start="20260914160000 +0000" stop="20260915155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -2736,101 +2746,6 @@
 		<desc>Watch the full match replay between Spain and Russia played at Luzhniki Stadium, Moscow.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16308151'&amp;EntityType='LinearSchedule'&amp;EntityId='6064833c-fca8-45dc-aca9-da80e4b6779e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558112" start="20260913143000 +0000" stop="20260913163000 +0000">
-		<title>LIVE WSWC '27 Gr. C: China v New Zealand</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16242599'&amp;EntityType='LinearSchedule'&amp;EntityId='08dc27d3-4bec-41ec-a569-3581ade174f9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260913163000 +0000" stop="20260913170000 +0000">
-		<title>Spartan Race '26: UWC H/L- Morzine, France</title>
-		<desc>The Spartan Race World Championships Series are the ultimate test of grit, strength, and determination.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257909'&amp;EntityType='LinearSchedule'&amp;EntityId='89367359-46f6-49ac-bd9f-6bc82425fdee'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260913170000 +0000" stop="20260913173000 +0000">
-		<title>Royal Ascot: Queens of the Turf</title>
-		<desc>A short documentary celebrating four pioneering female jockeys whose historic Royal Ascot wins challenged tradition, reshaped perceptions and advanced equality in racing.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257840'&amp;EntityType='LinearSchedule'&amp;EntityId='bb01ce5d-418a-45d6-bb2c-02d363433e76'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260913173000 +0000" stop="20260913193000 +0000">
-		<title>LIVE WSWC '27 Gr. C: USA v Brazil</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257854'&amp;EntityType='LinearSchedule'&amp;EntityId='2cad655a-26f4-4500-947e-7b896af5d3a4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260913193000 +0000" stop="20260913203000 +0000">
-		<title>CSI Dinard '26 Highlights: Dinard '26 H/L -Rolex Grand Prix</title>
-		<desc>Highlights from top-level show jumping in Dinard, featuring the prestigious Derby de Bretagne and Rolex Grand Prix, with elite riders and world-class horses.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257920'&amp;EntityType='LinearSchedule'&amp;EntityId='95adda47-0e21-4eed-92a3-ac8f35c21367'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260913203000 +0000" stop="20260913223000 +0000">
-		<title>LIVE WSWC '27 Gr. C: Mexico v Netherlands</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257932'&amp;EntityType='LinearSchedule'&amp;EntityId='b6dcaa16-98d8-4030-b2f1-deb4e22abe6a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260913223000 +0000" stop="20260913233000 +0000">
-		<title>Snow League '25/26: LAAX, Switzerland, Snowboard H/L</title>
-		<desc>LAAX, Switzerland, provides an iconic stage for the final event of inaugural season. Snow League World Champions will be crowned in both snowboarding and freeskiing.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257960'&amp;EntityType='LinearSchedule'&amp;EntityId='2968f251-c377-4e0f-9549-d3913d657192'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260913233000 +0000" stop="20260914013000 +0000">
-		<title>LIVE WSWC '27 Gr. C: Netherlands v USA</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257946'&amp;EntityType='LinearSchedule'&amp;EntityId='daab16a5-7327-45fc-bfa6-793c1ff3ae62'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914013000 +0000" stop="20260914023000 +0000">
-		<title>Snow League '25/26: Yunding Snow Park, Snowboard H/L</title>
-		<desc>Sixteen of the world's best freeskiers joined the Snow League's snowboard roster at Yunding Snow Park in China on December 4-6, 2025.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257827'&amp;EntityType='LinearSchedule'&amp;EntityId='bff04f50-fa0d-4dec-991a-6a9095f5a643'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914023000 +0000" stop="20260914043000 +0000">
-		<title>WSWC '27 Gr. C: China v New Zealand</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257866'&amp;EntityType='LinearSchedule'&amp;EntityId='cc46156e-55aa-4077-85ef-4c7238c4b6b2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914043000 +0000" stop="20260914050000 +0000">
-		<title>Melbourne Cup '25 H/L: Melbourne Cup '25 Horse Racing</title>
-		<desc>2025 Melbourne Cup captures the excitement and atmosphere of Australia's most prestigious horse race.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257968'&amp;EntityType='LinearSchedule'&amp;EntityId='f43433d8-e462-49cf-b186-b7ccfe792d82'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914050000 +0000" stop="20260914053000 +0000">
-		<title>Royal Ascot: Queens of the Turf</title>
-		<desc>A short documentary celebrating four pioneering female jockeys whose historic Royal Ascot wins challenged tradition, reshaped perceptions and advanced equality in racing.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257880'&amp;EntityType='LinearSchedule'&amp;EntityId='a9c3a78e-0a8e-41e7-8b20-ad5e33894aa9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914053000 +0000" stop="20260914073000 +0000">
-		<title>WSWC '27 Gr. C: USA v Brazil</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257784'&amp;EntityType='LinearSchedule'&amp;EntityId='91bea7e5-18c6-4b46-8c0c-f5086c35a5a2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914073000 +0000" stop="20260914083000 +0000">
-		<title>CSI Dinard '26 Highlights: Dinard '26 H/L - Derby</title>
-		<desc>Highlights from top-level show jumping in Dinard, featuring the prestigious Derby de Bretagne and Rolex Grand Prix, with elite riders and world-class horses.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257797'&amp;EntityType='LinearSchedule'&amp;EntityId='ce3f61c1-d3cc-4556-963e-08db845a62da'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914083000 +0000" stop="20260914103000 +0000">
-		<title>WSWC '27 Gr. C: Mexico v Netherlands</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257805'&amp;EntityType='LinearSchedule'&amp;EntityId='285032c2-724f-455f-b72e-6f4707a56593'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914103000 +0000" stop="20260914113000 +0000">
-		<title>Snow League '25/26: Yunding Snow Park, Snowboard H/L</title>
-		<desc>Sixteen of the world's best freeskiers joined the Snow League's snowboard roster at Yunding Snow Park in China on December 4-6, 2025.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257977'&amp;EntityType='LinearSchedule'&amp;EntityId='29a1ed44-d860-451e-bf88-67e7005f19e1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914113000 +0000" stop="20260914133000 +0000">
-		<title>WSWC '27 Gr. C: Netherlands v USA</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257891'&amp;EntityType='LinearSchedule'&amp;EntityId='295a971c-ba6d-4294-85e1-5ddb01ec39ff'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914133000 +0000" stop="20260914143000 +0000">
-		<title>Snow League '25/26: Aspen Snowmass, USA, H/Ls</title>
-		<desc>Aspen Snowmass sets the stage for the return of The Snow League to North America following the 2026 Winter Olympics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257816'&amp;EntityType='LinearSchedule'&amp;EntityId='435b6095-dbea-4f49-8fbf-103cb5e718f5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914143000 +0000" stop="20260914163000 +0000">
-		<title>LIVE WSWC '27 Gr. C: Mexico v Brazil</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16257900'&amp;EntityType='LinearSchedule'&amp;EntityId='509b2b95-3f27-46fc-acc1-027de1dde019'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260914163000 +0000" stop="20260914173000 +0000">
 		<title>So Help Me Todd S2 - EP 8</title>
 		<desc>Margaret helps Susan serve justice for a tennis coach accused of drugging a teen athlete Todd and Lyle embark on an epic office prank war.</desc>
@@ -3744,7 +3659,7 @@
 	<programme channel="97072" start="20260915083000 +0000" stop="20260915090000 +0000">
 		<title>CNA Correspondent - EP 19</title>
 		<desc>From expatriates to refugees, foreign communities are reshaping Malaysia's economy and society, while raising difficult questions about housing, jobs, refugee rights and social cohesion.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16270464'&amp;EntityType='LinearSchedule'&amp;EntityId='ddcd024b-cad8-41f7-ac70-13422385224b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16412025'&amp;EntityType='LinearSchedule'&amp;EntityId='ddcd024b-cad8-41f7-ac70-13422385224b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260915090000 +0000" stop="20260915090200 +0000">
 		<title>(Live) Headline News</title>
@@ -3925,6 +3840,31 @@
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16324032'&amp;EntityType='LinearSchedule'&amp;EntityId='d9a1a9ef-ac37-474d-aa2b-fc6ef3239134'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840094" start="20260915062000 +0000" stop="20260915083000 +0000">
+		<title>Football - 20th Asian Games Aichi-Nagoya 2026 Men's Group Stage - UZB vs PHI</title>
+		<desc>Men's Group Stage - Uzbekistan vs Philippines</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16282836'&amp;EntityType='LinearSchedule'&amp;EntityId='18ff0e0a-fc1b-43ed-bfd5-728584382ef5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840094" start="20260915083000 +0000" stop="20260915095000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323936'&amp;EntityType='LinearSchedule'&amp;EntityId='5a7d3e04-5494-4dbf-9d79-a10337136d92'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840094" start="20260915095000 +0000" stop="20260915120000 +0000">
+		<title>Football - 20th Asian Games Aichi-Nagoya 2026 Men's Group Stage - VIE vs KUW</title>
+		<desc>Men's Group Stage - Vietnam vs Kuwait</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16282843'&amp;EntityType='LinearSchedule'&amp;EntityId='19c0678c-21dc-4b19-9520-c3bf1760d595'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840094" start="20260915120000 +0000" stop="20260915155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323940'&amp;EntityType='LinearSchedule'&amp;EntityId='40a79804-4adf-4c93-adcc-93411cafd137'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840094" start="20260915160000 +0000" stop="20260916045000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323944'&amp;EntityType='LinearSchedule'&amp;EntityId='c5a153f8-8016-4fd4-9a77-fccbcba757c2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840099" start="20260915160000 +0000" stop="20260916035000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -5395,110 +5335,5 @@
 		<title>Belgium v England | Play-off for third place | 2018 FIFA World Cup Russia™ | Full Match Replay</title>
 		<desc>Watch the full match replay between Belgium and England played at Saint Petersburg Stadium.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16326012'&amp;EntityType='LinearSchedule'&amp;EntityId='12dad8f7-e7a4-44e2-993e-dadb4f894da2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914163000 +0000" stop="20260914170000 +0000">
-		<title>MP '26: Trans Sahara Marathon, MP '26</title>
-		<desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272931'&amp;EntityType='LinearSchedule'&amp;EntityId='ffcfbaef-a93d-49de-ab6b-84014dfe9fe3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914170000 +0000" stop="20260914173000 +0000">
-		<title>LGCT '26: LGCT '26 Cannes H/Ls</title>
-		<desc>The individual Longines Global Champions Tour spans two rounds per event. Faults and times are combined to name the winner, with points counting toward a season ranking.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16273076'&amp;EntityType='LinearSchedule'&amp;EntityId='ba8bebb6-a241-4c31-85ca-71606d84eb87'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914173000 +0000" stop="20260914193000 +0000">
-		<title>LIVE WSWC '27 Gr. C: China v Netherlands</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16273094'&amp;EntityType='LinearSchedule'&amp;EntityId='494f95c1-7ae8-4c17-9409-e8517c1b7ca6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914193000 +0000" stop="20260914200000 +0000">
-		<title>MP '26: Ibiza Marathon, MP '26</title>
-		<desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272942'&amp;EntityType='LinearSchedule'&amp;EntityId='8f7d8ef0-2823-4eb3-b412-dff045711fe6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914200000 +0000" stop="20260914203000 +0000">
-		<title>LGCT '26: LGCT '26 St Tropez H/Ls</title>
-		<desc>The individual Longines Global Champions Tour spans two rounds per event. Faults and times are combined to name the winner, with points counting toward a season ranking.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272830'&amp;EntityType='LinearSchedule'&amp;EntityId='0ea6aaf2-ce3d-45bf-a5f0-da1a921dd8c5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914203000 +0000" stop="20260914223000 +0000">
-		<title>LIVE WSWC '27 Gr. C: New Zealand v Mexico</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272953'&amp;EntityType='LinearSchedule'&amp;EntityId='0f593107-57d3-4228-b794-3fcb81c4d54d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914223000 +0000" stop="20260914230000 +0000">
-		<title>Sports Woman '24</title>
-		<desc>A series of programs highlighting the achievements and challenges facing Women in sport and highlighting the journeys endured on the path to success!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16273001'&amp;EntityType='LinearSchedule'&amp;EntityId='0399f1fd-c291-4d3b-ae72-18f17bc69f59'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914230000 +0000" stop="20260914233000 +0000">
-		<title>Titan Desert Almeria '25</title>
-		<desc>4-day MTB race: coast meets Tabernas, Europe's only desert. Riders face dust, sand, and hard climbs/descents.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272843'&amp;EntityType='LinearSchedule'&amp;EntityId='54cebb7a-2663-4488-a187-930ef33c811d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260914233000 +0000" stop="20260915013000 +0000">
-		<title>LIVE WSWC '27 Gr. C: USA v New Zealand</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16273015'&amp;EntityType='LinearSchedule'&amp;EntityId='1efb49f4-c387-4e13-891e-abeed8be6a0c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915013000 +0000" stop="20260915020000 +0000">
-		<title>Sports Woman '24</title>
-		<desc>A series of programs highlighting the achievements and challenges facing Women in sport and highlighting the journeys endured on the path to success!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272854'&amp;EntityType='LinearSchedule'&amp;EntityId='3cd2d48b-06d9-4399-aac1-7e369f748df5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915020000 +0000" stop="20260915023000 +0000">
-		<title>Spartan Race '25: West Virginia (USA)</title>
-		<desc>At the gateway to New River Gorge and just 30 minutes from Summersville Lake, this venue offers unmatched access to Appalachia's wild beauty and ultimate challenges.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272863'&amp;EntityType='LinearSchedule'&amp;EntityId='f21ab381-e434-4aae-a02e-437695bfafe2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915023000 +0000" stop="20260915043000 +0000">
-		<title>WSWC '27 Gr. C: Mexico v Brazil</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272895'&amp;EntityType='LinearSchedule'&amp;EntityId='ff5c1130-41f7-47c7-90f2-961b32257ce1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915043000 +0000" stop="20260915050000 +0000">
-		<title>LGCT '26: LGCT '26 London H/Ls</title>
-		<desc>The individual Longines Global Champions Tour spans two rounds per event. Faults and times are combined to name the winner, with points counting toward a season ranking.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16273030'&amp;EntityType='LinearSchedule'&amp;EntityId='ea112795-6d86-4d04-9cba-5b2704ab11fd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915050000 +0000" stop="20260915053000 +0000">
-		<title>Spartan Race '25: West Virginia (USA)</title>
-		<desc>At the gateway to New River Gorge and just 30 minutes from Summersville Lake, this venue offers unmatched access to Appalachia's wild beauty and ultimate challenges.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272873'&amp;EntityType='LinearSchedule'&amp;EntityId='2085fe08-1cdd-4461-b191-dd86a5f0081e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915053000 +0000" stop="20260915073000 +0000">
-		<title>WSWC '27 Gr. C: China v Netherlands</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272969'&amp;EntityType='LinearSchedule'&amp;EntityId='bafc0791-adf5-40d0-b5c7-e3ad59773d49'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915073000 +0000" stop="20260915083000 +0000">
-		<title>CSI Dinard '26 Highlights: Dinard '26 H/L -Rolex Grand Prix</title>
-		<desc>Highlights from top-level show jumping in Dinard, featuring the prestigious Derby de Bretagne and Rolex Grand Prix, with elite riders and world-class horses.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272907'&amp;EntityType='LinearSchedule'&amp;EntityId='82a1b214-1b5c-4676-a88e-cb5c6d4b3665'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915083000 +0000" stop="20260915103000 +0000">
-		<title>WSWC '27 Gr. C: New Zealand v Mexico</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272988'&amp;EntityType='LinearSchedule'&amp;EntityId='8370016f-5696-4684-a266-7b8c872f48de'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915103000 +0000" stop="20260915113000 +0000">
-		<title>Snow League '25/26: Yunding Snow Park, Freeski H/L</title>
-		<desc>Sixteen of the world's best freeskiers joined the Snow League's snowboard roster at Yunding Snow Park in China on December 4-6, 2025.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272885'&amp;EntityType='LinearSchedule'&amp;EntityId='7afdb0b9-e99c-45aa-8ca1-d86f479c2d87'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915113000 +0000" stop="20260915133000 +0000">
-		<title>WSWC '27 Gr. C: USA v New Zealand</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16273046'&amp;EntityType='LinearSchedule'&amp;EntityId='53ca83af-d9e8-4aef-9560-b6193e88695a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915133000 +0000" stop="20260915143000 +0000">
-		<title>Snow League '25/26: LAAX, Switzerland, Snowboard H/L</title>
-		<desc>LAAX, Switzerland, provides an iconic stage for the final event of inaugural season. Snow League World Champions will be crowned in both snowboarding and freeskiing.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16273060'&amp;EntityType='LinearSchedule'&amp;EntityId='aee92fd0-0e08-4a8e-9243-24fe03fb5239'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20260915143000 +0000" stop="20260915163000 +0000">
-		<title>LIVE WSWC '27 Gr. C: Brazil v Netherlands</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16272919'&amp;EntityType='LinearSchedule'&amp;EntityId='bd6aed07-646c-4963-9561-54f47cfb7453'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
