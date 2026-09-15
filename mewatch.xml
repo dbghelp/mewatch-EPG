@@ -40,6 +40,26 @@
 		<display-name>Asian Games CH03</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16322173'&amp;EntityType='Item'&amp;EntityId='840099'&amp;Width=150&amp;Height=59" />
 	</channel>
+	<channel id="840097">
+		<display-name>Asian Games CH04</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16322252'&amp;EntityType='Item'&amp;EntityId='840097'&amp;Width=150&amp;Height=59" />
+	</channel>
+	<channel id="840095">
+		<display-name>Asian Games CH05</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16322290'&amp;EntityType='Item'&amp;EntityId='840095'&amp;Width=150&amp;Height=59" />
+	</channel>
+	<channel id="840093">
+		<display-name>Asian Games CH06</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16322300'&amp;EntityType='Item'&amp;EntityId='840093'&amp;Width=150&amp;Height=59" />
+	</channel>
+	<channel id="839745">
+		<display-name>FIFA U20 Ch01</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16179084'&amp;EntityType='Item'&amp;EntityId='839745'&amp;Width=80&amp;Height=80" />
+	</channel>
+	<channel id="839744">
+		<display-name>FIFA U20 Ch02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16179075'&amp;EntityType='Item'&amp;EntityId='839744'&amp;Width=80&amp;Height=80" />
+	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -47,6 +67,14 @@
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
+	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
 	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
@@ -67,34 +95,6 @@
 	<channel id="773721">
 		<display-name>That's 80s</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13362956'&amp;EntityType='Item'&amp;EntityId='773721'&amp;Width=264&amp;Height=250" />
-	</channel>
-	<channel id="773723">
-		<display-name>That's 70s</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13362982'&amp;EntityType='Item'&amp;EntityId='773723'&amp;Width=205&amp;Height=250" />
-	</channel>
-	<channel id="773722">
-		<display-name>That's Rock</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13362968'&amp;EntityType='Item'&amp;EntityId='773722'&amp;Width=304&amp;Height=250" />
-	</channel>
-	<channel id="556894">
-		<display-name>Action Hollywood Movies</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358842'&amp;EntityType='Item'&amp;EntityId='556894'&amp;Width=304&amp;Height=250" />
-	</channel>
-	<channel id="558254">
-		<display-name>Filem Mantap</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11316574'&amp;EntityType='Item'&amp;EntityId='558254'&amp;Width=350&amp;Height=250" />
-	</channel>
-	<channel id="558271">
-		<display-name>Drama Hebat</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14326803'&amp;EntityType='Item'&amp;EntityId='558271'&amp;Width=350&amp;Height=250" />
-	</channel>
-	<channel id="558279">
-		<display-name>Vijay Takkar</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13200785'&amp;EntityType='Item'&amp;EntityId='558279'&amp;Width=157&amp;Height=250" />
-	</channel>
-	<channel id="557763">
-		<display-name>FIFA+</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260915160000 +0000" stop="20260915163000 +0000">
 		<title>Yes Captain! - EP 22</title>
@@ -374,7 +374,7 @@
 	<programme channel="97098" start="20260916150000 +0000" stop="20260916160000 +0000">
 		<title>Pause With Purpose - EP 1</title>
 		<desc>Facing personal and professional crossroads in life, singer Joanna Dong and her husband, Zachary Ho, leave their comfort zones to survive a week in the wild.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16291218'&amp;EntityType='LinearSchedule'&amp;EntityId='d0418a40-b861-49c9-8760-e0575258aeb3'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16433663'&amp;EntityType='LinearSchedule'&amp;EntityId='d0418a40-b861-49c9-8760-e0575258aeb3'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260916160000 +0000" stop="20260916163000 +0000">
 		<title>Yes Captain! - EP 23</title>
@@ -1336,6 +1336,146 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323900'&amp;EntityType='LinearSchedule'&amp;EntityId='2e62bfdd-83df-4289-b7e4-c69a5028b914'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="840097" start="20260915160000 +0000" stop="20260916035000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323824'&amp;EntityType='LinearSchedule'&amp;EntityId='e4cf7ce9-3aae-4de4-acad-11809089ee77'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260916035000 +0000" stop="20260916060000 +0000">
+		<title>Volleyball - 20th Asian Games Aichi-Nagoya 2026 Women's Pool Stage - CHN vs PHI</title>
+		<desc>Women's Pool Stage - China vs Philippines</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16325330'&amp;EntityType='LinearSchedule'&amp;EntityId='8dd0b0ad-370b-469c-9c91-2d371dadbddc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260916060000 +0000" stop="20260916065000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323828'&amp;EntityType='LinearSchedule'&amp;EntityId='a7a6b612-b751-4017-ba33-07406a35bee5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260916065000 +0000" stop="20260916090000 +0000">
+		<title>Volleyball - 20th Asian Games Aichi-Nagoya 2026 Women's Pool Stage - THA vs MGL</title>
+		<desc>Women's Pool Stage - Thailand vs Mongolia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16325335'&amp;EntityType='LinearSchedule'&amp;EntityId='1da3242e-a1fe-4dc3-8aca-13bc0b63d8f6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260916090000 +0000" stop="20260916095000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323832'&amp;EntityType='LinearSchedule'&amp;EntityId='ed9f4247-9056-4c3c-805e-e3f751eec2c8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260916095000 +0000" stop="20260916120000 +0000">
+		<title>Volleyball - 20th Asian Games Aichi-Nagoya 2026 Women's Pool Stage - TPE vs KGZ</title>
+		<desc>Women's Pool Stage - Chinese Taipei vs Kyrgyzstan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16325344'&amp;EntityType='LinearSchedule'&amp;EntityId='2c9b26ff-26e6-4319-b0de-4ce41751066a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260916120000 +0000" stop="20260916155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323836'&amp;EntityType='LinearSchedule'&amp;EntityId='6e4d1db4-b689-4421-9913-705344d4ba19'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260916160000 +0000" stop="20260917035000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323840'&amp;EntityType='LinearSchedule'&amp;EntityId='31184ca4-5063-44a2-ab6b-3d925f558a0a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260915160000 +0000" stop="20260916004800 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323768'&amp;EntityType='LinearSchedule'&amp;EntityId='9d2c866a-ff5f-42f8-aea7-d3b75c09ae77'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260916004800 +0000" stop="20260916031500 +0000">
+		<title>Basketball - 20th Asian Games Aichi-Nagoya 2026 Men's Quarter-finals 1 - JOR vs KOR</title>
+		<desc>Men's Quarter-finals 1 - Jordan vs South Korea</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16301621'&amp;EntityType='LinearSchedule'&amp;EntityId='e0e9bcf2-bbcd-4ce4-991b-219f7b911cca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260916031500 +0000" stop="20260916035000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323772'&amp;EntityType='LinearSchedule'&amp;EntityId='4778c2ce-fad6-46e4-b959-ff596d8caaf9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260916035000 +0000" stop="20260916061500 +0000">
+		<title>Basketball - 20th Asian Games Aichi-Nagoya 2026 Men's Quarter-finals 2 - IRI vs BRN</title>
+		<desc>Men's Quarter-finals 2 - Iran vs Bahrain</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16301591'&amp;EntityType='LinearSchedule'&amp;EntityId='a6507228-cadb-4b70-be84-47e61b26cc20'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260916061500 +0000" stop="20260916065000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323776'&amp;EntityType='LinearSchedule'&amp;EntityId='177a3086-ed30-416c-8ca3-afd9f1e7d809'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260916065000 +0000" stop="20260916091500 +0000">
+		<title>Basketball - 20th Asian Games Aichi-Nagoya 2026 Men's Quarter-finals 3 - CHN vs KSA</title>
+		<desc>Men's Quarter-finals 3 - China vs Saudi Arabia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16301612'&amp;EntityType='LinearSchedule'&amp;EntityId='c750afa1-b7b6-4e93-9d58-871f3e7e02e6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260916091500 +0000" stop="20260916101000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323780'&amp;EntityType='LinearSchedule'&amp;EntityId='f27a59a8-795a-48cf-ba76-0b6a296f402f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260916101000 +0000" stop="20260916123500 +0000">
+		<title>Basketball - 20th Asian Games Aichi-Nagoya 2026 Men's Quarter-finals 4 - TPE vs JPN</title>
+		<desc>Men's Quarter-finals 4 - Chinese Taipei vs Japan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16301602'&amp;EntityType='LinearSchedule'&amp;EntityId='74518f34-2af0-4401-bc71-982a7dbfe3c6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260916123500 +0000" stop="20260916155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16432167'&amp;EntityType='LinearSchedule'&amp;EntityId='f10e1749-1bf8-4b8e-9151-875de5e99245'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260916160000 +0000" stop="20260917034500 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323788'&amp;EntityType='LinearSchedule'&amp;EntityId='b2dfc6b3-1d01-44e8-ae05-af27a3905013'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840093" start="20260915160000 +0000" stop="20260916155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323740'&amp;EntityType='LinearSchedule'&amp;EntityId='4ece949c-0fe9-4437-ad72-12d2a2aa5ac8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840093" start="20260916160000 +0000" stop="20260917155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323744'&amp;EntityType='LinearSchedule'&amp;EntityId='06c971f5-6c85-4a7d-985b-b8003f289ba5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839745" start="20260915160000 +0000" stop="20260916130000 +0000">
+		<title>No Programme available now. Next Broadcast on 16th September, Wednesday 9.00pm. FIFA U-20 Women's World Cup 2026 : Round of 16: Argentina vs Korea Republic</title>
+		<desc>No Programme available now. Next Broadcast on 16th September, Wednesday 9.00pm. FIFA U-20 Women's World Cup 2026 : Round of 16 : Argentina vs Korea Republic</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16430277'&amp;EntityType='LinearSchedule'&amp;EntityId='5d32db82-195c-4c6e-811c-24449d3da55b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839745" start="20260916130000 +0000" stop="20260916150000 +0000">
+		<title>FIFA U-20 Women's World Cup 2026 : Round of 16 : Argentina vs Korea Republic</title>
+		<desc>The FIFA U-20 Women’s World Cup Poland 2026™ brings together 24 of the world’s best women’s U-20 national teams as the next generation of football stars compete for glory on the global stage. Hosted across four cities in Poland, the tournament showcases emerging talent, exciting international matchups and the future stars of women’s football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16430273'&amp;EntityType='LinearSchedule'&amp;EntityId='19a637a0-15df-4fde-9d7e-89ff317f1644'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839745" start="20260916150000 +0000" stop="20260916160000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th September,Thursday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16: Italy vs China PR</title>
+		<desc>No Programme available now. Next Broadcast on 17th September, Thursday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16 : Italy vs China PR</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16430269'&amp;EntityType='LinearSchedule'&amp;EntityId='d8a1d3d9-a8aa-4344-8e26-d61462ee1370'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839745" start="20260916160000 +0000" stop="20260916163000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th September,Thursday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16: Italy vs China PR</title>
+		<desc>No Programme available now. Next Broadcast on 17th September, Thursday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16 : Italy vs China PR</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431078'&amp;EntityType='LinearSchedule'&amp;EntityId='c1aada12-4642-40eb-90c4-76f864673903'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839744" start="20260915160000 +0000" stop="20260916130000 +0000">
+		<title>No Programme available now. Next Broadcast on 16th September, Wednesday 9.00pm. FIFA U-20 Women's World Cup 2026 : Round of 16: Brazil vs USA</title>
+		<desc>No Programme available now. Next Broadcast on 16th September, Wednesday 9.00pm. FIFA U-20 Women's World Cup 2026 : Round of 16 : Brazil vs USA</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16430293'&amp;EntityType='LinearSchedule'&amp;EntityId='9237246d-746c-4445-830a-1578c2da0197'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839744" start="20260916130000 +0000" stop="20260916150000 +0000">
+		<title>FIFA U-20 Women's World Cup 2026 : Round of 16 : Brazil vs USA</title>
+		<desc>The FIFA U-20 Women’s World Cup Poland 2026™ brings together 24 of the world’s best women’s U-20 national teams as the next generation of football stars compete for glory on the global stage. Hosted across four cities in Poland, the tournament showcases emerging talent, exciting international matchups and the future stars of women’s football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16430289'&amp;EntityType='LinearSchedule'&amp;EntityId='5ce7ff05-8cdf-4319-a8fe-00af0b9b7bc3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839744" start="20260916150000 +0000" stop="20260916160000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th September, Thursday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16: Spain vs Portugal</title>
+		<desc>No Programme available now. Next Broadcast on 17th September, Thursday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16 : Spain vs Portugal</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16430285'&amp;EntityType='LinearSchedule'&amp;EntityId='80718d3f-0248-4201-81b1-a952f8357615'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839744" start="20260916160000 +0000" stop="20260916163000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th September, Thursday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16: Spain vs Portugal</title>
+		<desc>No Programme available now. Next Broadcast on 17th September, Thursday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16 : Spain vs Portugal</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431026'&amp;EntityType='LinearSchedule'&amp;EntityId='5fc18b1d-401e-453e-9e8d-2aec2b18cc3c'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="98200" start="20260915160000 +0000" stop="20260916160000 +0000">
 		<title>No Programme available now. Next Broadcast on 18th September, Friday 7.20pm. Singapore Premier League 2026/2027</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: FC Jurong vs Hougang United FC on 18th September, Friday 7.20pm. Please stay tuned!</desc>
@@ -1485,6 +1625,26 @@
 		<title>No programme available now. Next broadcast on 17th September, Thursday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 17th September, Thursday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16309639'&amp;EntityType='LinearSchedule'&amp;EntityId='eeb0f0f6-623c-4613-8739-2df5f9d436d9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260915160000 +0000" stop="20260916160000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th September, Thursday 6pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United on 17th September, Thursday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323015'&amp;EntityType='LinearSchedule'&amp;EntityId='5360e23e-3e2c-4c18-88f3-8ede99a4ac40'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260916160000 +0000" stop="20260917100000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th September, Thursday 6pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United on 17th September, Thursday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323023'&amp;EntityType='LinearSchedule'&amp;EntityId='a66b666f-cacc-4c21-a395-b13ee3f25ea9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20260915160000 +0000" stop="20260916160000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th September, Thursday 8.15pm. AFC Champions League Two 2026/27: Shanghai Shenhua FC vs Tampines Rovers FC</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: Shanghai Shenhua FC vs Tampines Rovers FC on 17th September, Thursday 8.15pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16428860'&amp;EntityType='LinearSchedule'&amp;EntityId='4cd68256-c9a1-44dc-8b96-0c3930573f04'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20260916160000 +0000" stop="20260917121500 +0000">
+		<title>No Programme available now. Next Broadcast on 17th September, Thursday 8.15pm. AFC Champions League Two 2026/27: Shanghai Shenhua FC vs Tampines Rovers FC</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: Shanghai Shenhua FC vs Tampines Rovers FC on 17th September, Thursday 8.15pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16429142'&amp;EntityType='LinearSchedule'&amp;EntityId='50e24d3b-ab3f-454a-89cf-a21d4dfb7bfd'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260915154835 +0000" stop="20260915164116 +0000">
 		<title>MasterChef New Zealand Season 03 - MasterClass #8</title>
@@ -2141,661 +2301,6 @@
 		<desc>Chart toppers, dance floor fillers and guitar anthems, this chart has it all! Stay with us to find out who makes it to the top.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301587'&amp;EntityType='LinearSchedule'&amp;EntityId='cf3165d3-c3e2-4028-88c6-c9f09bad4c53'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="773723" start="20260915160000 +0000" stop="20260915180000 +0000">
-		<title>The Golden Years 1970 - 1979!</title>
-		<desc>Nothing but solid gold chart hits from 1970 - 1979</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301303'&amp;EntityType='LinearSchedule'&amp;EntityId='4cc52f25-fde2-4ba6-8f46-099837c4ca44'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260915180000 +0000" stop="20260915200000 +0000">
-		<title>Club Classics: 1970 - 1979!</title>
-		<desc>Funky basslines, disco lights and power vocals! The biggest club classics from 1970 - 1979</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301245'&amp;EntityType='LinearSchedule'&amp;EntityId='d34f2c80-1d84-44dd-b095-a6130a143b42'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260915200000 +0000" stop="20260915220000 +0000">
-		<title>The 70s Hall Of Fame!</title>
-		<desc>Rock rebels, disco queens and everything in between. Check out these icons of the 70s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301259'&amp;EntityType='LinearSchedule'&amp;EntityId='bc456c38-cb95-44d3-a696-281dd39f9c40'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260915220000 +0000" stop="20260916000000 +0000">
-		<title>Smooth Sounds Of The 70s!</title>
-		<desc>Soft tunes and soulful melodies to take you on a trip down memory lane</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301184'&amp;EntityType='LinearSchedule'&amp;EntityId='06337e25-fce5-4d2a-bee8-601d8f286f4d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916000000 +0000" stop="20260916020000 +0000">
-		<title>Non-Stop 70s Pop!</title>
-		<desc>It's all about the catchy hooks and sing along songs right now as we bring you non stop 70s pop</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301316'&amp;EntityType='LinearSchedule'&amp;EntityId='924377f4-31d1-4ec4-9882-6399542648dd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916020000 +0000" stop="20260916030000 +0000">
-		<title>Hot Stuff: 70s Pin-Ups!</title>
-		<desc>From Rock Rebels to disco queens, these are the 70s Pin ups of dreams</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301201'&amp;EntityType='LinearSchedule'&amp;EntityId='715aa132-b606-4f77-8001-9538f5f1eb15'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916030000 +0000" stop="20260916050000 +0000">
-		<title>More Than A 70s Feeling!</title>
-		<desc>These are the biggest 70s tunes to take you right back and make you feel good!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301287'&amp;EntityType='LinearSchedule'&amp;EntityId='56f32f44-d11c-4c86-8a23-236f71b45f03'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916050000 +0000" stop="20260916070000 +0000">
-		<title>The Golden Years 1970 - 1979!</title>
-		<desc>Nothing but solid gold chart hits from 1970 - 1979</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301330'&amp;EntityType='LinearSchedule'&amp;EntityId='52e3984d-b6b9-4ff6-a3f5-1e24de500982'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916070000 +0000" stop="20260916090000 +0000">
-		<title>Come On Feel The Noise: 70s Rock Hits!</title>
-		<desc>Crank up the volume and grab your air guitar and jam to the biggest 70s Rock Hits!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301217'&amp;EntityType='LinearSchedule'&amp;EntityId='0a0309e9-6691-4205-8a68-3967c3a5ed57'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916090000 +0000" stop="20260916110000 +0000">
-		<title>70s Cool Cats!</title>
-		<desc>A playlist packed with the coolest acts that ruled the 70s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301233'&amp;EntityType='LinearSchedule'&amp;EntityId='186099e5-bc05-4d17-8267-e36c48a9447e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916110000 +0000" stop="20260916130000 +0000">
-		<title>School Of Rock 1970 - 1979!</title>
-		<desc>It's time to back to school for one mighty lesson packed with Rock n Roll riffs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301362'&amp;EntityType='LinearSchedule'&amp;EntityId='e444c523-8999-4071-8d10-75516ec3db8b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916130000 +0000" stop="20260916150000 +0000">
-		<title>Blockbuster Hits Of The 70s!</title>
-		<desc>The most powerful hits that stormed the charts in the 70s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301345'&amp;EntityType='LinearSchedule'&amp;EntityId='ffcac501-0516-45de-affb-d7ff82cd1cc6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916150000 +0000" stop="20260916170000 +0000">
-		<title>Non-Stop 70s Pop!</title>
-		<desc>It's all about the catchy hooks and sing along songs right now as we bring you non stop 70s pop</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301271'&amp;EntityType='LinearSchedule'&amp;EntityId='803e02b9-861f-4d5b-9915-23b38968402d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260915160000 +0000" stop="20260915180000 +0000">
-		<title>Maximum Rock Overdrive!</title>
-		<desc>The playlist is so huge it comes with a warning! Mega rock hits only from the 70s to 00s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301696'&amp;EntityType='LinearSchedule'&amp;EntityId='5e852784-cf3f-41a2-b576-1716bfa344fa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260915180000 +0000" stop="20260915190000 +0000">
-		<title>Rock Rewind: The Best Of 1993!</title>
-		<desc>The Biggest Rock Hits from the year 1993</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301738'&amp;EntityType='LinearSchedule'&amp;EntityId='bfe79c50-25bd-4fa6-960a-166c1a3aa2fe'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260915190000 +0000" stop="20260915210000 +0000">
-		<title>The Rock Hall Of Fame!</title>
-		<desc>Iconic fashion, huge hits, and massive attitude. These are the Rock n Roll stars that defined generations.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301702'&amp;EntityType='LinearSchedule'&amp;EntityId='eb9c0134-48be-4bf0-b372-4a60f9358575'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260915210000 +0000" stop="20260915230000 +0000">
-		<title>Sing it Loud: Karaoke Hits!</title>
-		<desc>Grab your mic and get ready to sing your heart out to the biggest rock vocals of all time.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301683'&amp;EntityType='LinearSchedule'&amp;EntityId='5a406a94-f5d5-4ee0-b4c5-1e3132170866'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260915230000 +0000" stop="20260916010000 +0000">
-		<title>Big Fat Rock Hits!</title>
-		<desc>Big fat rock hits from 1970 - 2009</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301718'&amp;EntityType='LinearSchedule'&amp;EntityId='a95ecb23-044f-4bb5-9f64-234dc6c4ca38'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916010000 +0000" stop="20260916020000 +0000">
-		<title>Rock Rewind: 1980 - 1989!</title>
-		<desc>The Biggest Hits that rocked the 80s including power ballads, big hair and everything in between</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301742'&amp;EntityType='LinearSchedule'&amp;EntityId='cd8912fd-9c49-44e8-a04e-bd9a601f5859'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916020000 +0000" stop="20260916040000 +0000">
-		<title>High Voltage Hits!</title>
-		<desc>Big ones only! Crank it up to the max for the biggest hits ever!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301706'&amp;EntityType='LinearSchedule'&amp;EntityId='791de183-b656-40c8-9ace-3ffe80633a88'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916040000 +0000" stop="20260916050000 +0000">
-		<title>Fully Loaded: Rock Hits!</title>
-		<desc>Huge rock hits right now from 80s power ballads to 00s pop punk, this playlist has it all!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301714'&amp;EntityType='LinearSchedule'&amp;EntityId='210a9b8f-1581-412c-b35d-e438d9bbc249'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916050000 +0000" stop="20260916070000 +0000">
-		<title>Global Megastars Thru The Decades!</title>
-		<desc>Icons only! These are the legends that rocked the decades.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301726'&amp;EntityType='LinearSchedule'&amp;EntityId='a24cbc55-cf90-4582-bb23-474b666e6872'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916070000 +0000" stop="20260916090000 +0000">
-		<title>The Ultimate Rock Mixtape!</title>
-		<desc>Rock, Metal, Grunge, Pop Punk, this playlist has it all and more!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301746'&amp;EntityType='LinearSchedule'&amp;EntityId='74cb31e5-132d-4bf0-8cf5-e0567635f57c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916090000 +0000" stop="20260916110000 +0000">
-		<title>High Voltage Hits!</title>
-		<desc>Big ones only! Crank it up to the max for the biggest hits ever!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301671'&amp;EntityType='LinearSchedule'&amp;EntityId='9f95bf89-270b-49e1-9400-4a267fefb089'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916110000 +0000" stop="20260916120000 +0000">
-		<title>Ultimate Rock Workout!</title>
-		<desc>Hits and riffs perfect for a maximum high energy workout!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301710'&amp;EntityType='LinearSchedule'&amp;EntityId='815bf8e7-5c12-488c-882d-40ad93d7fe70'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916120000 +0000" stop="20260916140000 +0000">
-		<title>Legends Of Rock 1970 - 2009!</title>
-		<desc>These are the acts that shaped the sound of Rock music forever! Legends only!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301722'&amp;EntityType='LinearSchedule'&amp;EntityId='d47ba4ee-b11c-4b2d-ac37-c8e38b42d522'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916140000 +0000" stop="20260916150000 +0000">
-		<title>Movie Soundtracks That Rocked!</title>
-		<desc>Grab the popcorn! It's time for huge hits from the most inconic movies ever!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301730'&amp;EntityType='LinearSchedule'&amp;EntityId='b3bb7190-3bcc-45e5-aaeb-a54fd4d136c5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916150000 +0000" stop="20260916170000 +0000">
-		<title>Monster Rock Hits Of The 80s!</title>
-		<desc>The biggest Rock hits that defined the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16301734'&amp;EntityType='LinearSchedule'&amp;EntityId='6b177b52-4aae-404a-a05a-7e1ec5b7b0c9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260915160000 +0000" stop="20260915180500 +0000">
-		<title>Strange Behavior</title>
-		<desc>In a small town in Illinois, normal high school kids are turning into ruthless killers seemingly overnight.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292129'&amp;EntityType='LinearSchedule'&amp;EntityId='4477c394-fd43-4068-b3f5-8fa81156361f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260915180500 +0000" stop="20260915195000 +0000">
-		<title>Have A Good Funeral, My Friend...Sartana Will Pay</title>
-		<desc>When a young woman inherits a goldmine from her murdered uncle, Sartana comes to her aid as various swindlers, including the local sheriff, try to claim it as their own.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292169'&amp;EntityType='LinearSchedule'&amp;EntityId='5b7ce061-02a9-4fd1-b7db-5040130a53c3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260915195000 +0000" stop="20260915220000 +0000">
-		<title>The Inheritance</title>
-		<desc>Rome, 1880. Gregorio has decided to close the family business. Then he tells his children that they will have to fend for themselves, but his beautiful, calculating, ambitious young daughter-in-law, will do anything for the inheritance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292175'&amp;EntityType='LinearSchedule'&amp;EntityId='dc6b0e6f-d8ee-4f89-be54-fbb791cd2681'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260915220000 +0000" stop="20260916000500 +0000">
-		<title>Strange Behavior</title>
-		<desc>In a small town in Illinois, normal high school kids are turning into ruthless killers seemingly overnight.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292187'&amp;EntityType='LinearSchedule'&amp;EntityId='e5e607d6-d2e5-4b2b-a3f9-cdf5839e8a16'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916000500 +0000" stop="20260916015000 +0000">
-		<title>Have A Good Funeral, My Friend...Sartana Will Pay</title>
-		<desc>When a young woman inherits a goldmine from her murdered uncle, Sartana comes to her aid as various swindlers, including the local sheriff, try to claim it as their own.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292137'&amp;EntityType='LinearSchedule'&amp;EntityId='3b204044-db18-45d7-af3e-0cf177a972a5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916015000 +0000" stop="20260916040000 +0000">
-		<title>The Inheritance</title>
-		<desc>Rome, 1880. Gregorio has decided to close the family business. Then he tells his children that they will have to fend for themselves, but his beautiful, calculating, ambitious young daughter-in-law, will do anything for the inheritance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292152'&amp;EntityType='LinearSchedule'&amp;EntityId='6954e899-bd80-4b0a-808c-5ae2033c3334'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916040000 +0000" stop="20260916060500 +0000">
-		<title>Strange Behavior</title>
-		<desc>In a small town in Illinois, normal high school kids are turning into ruthless killers seemingly overnight.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292191'&amp;EntityType='LinearSchedule'&amp;EntityId='6a9a8863-8aed-4ab3-85be-164c60823f08'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916060500 +0000" stop="20260916075000 +0000">
-		<title>Have A Good Funeral, My Friend...Sartana Will Pay</title>
-		<desc>When a young woman inherits a goldmine from her murdered uncle, Sartana comes to her aid as various swindlers, including the local sheriff, try to claim it as their own.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292161'&amp;EntityType='LinearSchedule'&amp;EntityId='c2565a73-6205-4cb0-b588-61e1e036d576'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916075000 +0000" stop="20260916100000 +0000">
-		<title>The Inheritance</title>
-		<desc>Rome, 1880. Gregorio has decided to close the family business. Then he tells his children that they will have to fend for themselves, but his beautiful, calculating, ambitious young daughter-in-law, will do anything for the inheritance.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292195'&amp;EntityType='LinearSchedule'&amp;EntityId='1865a78c-cfd5-414f-9ed2-0855d7297f08'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916100000 +0000" stop="20260916114500 +0000">
-		<title>Up Pompeii</title>
-		<desc>Episodes from the popular British television comedy set in ancient Rome with Howerd starring as the philandering Senator Ludicrus Sextus.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292179'&amp;EntityType='LinearSchedule'&amp;EntityId='331cd60f-07be-4bd9-8708-02850fc942f7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916114500 +0000" stop="20260916133500 +0000">
-		<title>Tenebrae</title>
-		<desc>A writer arrives in Rome only to find that somebody is using his novels as the inspiration and occasionally the means of committing murder. As the death toll mounts the police are more and more baffled, and the writer becomes more closely linked to the case than is comfortable.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292183'&amp;EntityType='LinearSchedule'&amp;EntityId='1f009c92-8adc-41a9-a689-48e59faf2ad0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916133500 +0000" stop="20260916160000 +0000">
-		<title>Tim</title>
-		<desc>A somewhat mentally handicapped 20-year-old man works as a laborer, but everyone abuses his naiveté. A nice 40-year-old American woman hires him one day and they become close. However, the town and his family see her as predatory.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16292145'&amp;EntityType='LinearSchedule'&amp;EntityId='a7c2cec1-f34b-456c-9b45-73ad48e4cefb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916160000 +0000" stop="20260916174500 +0000">
-		<title>Up Pompeii</title>
-		<desc>Episodes from the popular British television comedy set in ancient Rome with Howerd starring as the philandering Senator Ludicrus Sextus.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311802'&amp;EntityType='LinearSchedule'&amp;EntityId='6481c003-ce68-4f33-bf77-bd5d02447671'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260915150700 +0000" stop="20260915165600 +0000">
-		<title>Anak Kerak</title>
-		<desc>Husin telah menggunakan ilmu hitam iaitu dengan ‘Anak Kerak' demi untuk mendapatkan kekebalan, kesenangan dan kemewahan hidup di dunia</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16287398'&amp;EntityType='LinearSchedule'&amp;EntityId='efe818ff-25b2-47dd-9e3b-56a66b326d35'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260915165600 +0000" stop="20260915184200 +0000">
-		<title>Jatuh Cinta Buta</title>
-		<desc>Telefilem komedi romantik tentang perkenalan singkat di antara Zulin, seorang gadis yang tidak pernah bercinta, dengan Izlan, seorang duda dalam satu 'blind date' yang diaturkan oleh Nadya Ramanshah.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16302653'&amp;EntityType='LinearSchedule'&amp;EntityId='1c4c7638-9997-49d2-83c0-8f036e183f31'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260915184200 +0000" stop="20260915202900 +0000">
-		<title>Cupcake Mama</title>
-		<desc>Hanna, an active woman, is becoming bored with her daily life. She soon gets the idea to start a business selling cupcakes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16302645'&amp;EntityType='LinearSchedule'&amp;EntityId='548f04fe-1d7a-40ff-8799-673354864baf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260915202900 +0000" stop="20260915220000 +0000">
-		<title>We’ll be back at 6.00am</title>
-		<desc>We’ll be back at 6.00am</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16302649'&amp;EntityType='LinearSchedule'&amp;EntityId='a7361132-a9dc-4fd2-95d6-99e5b63e6207'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260915220000 +0000" stop="20260915234400 +0000">
-		<title>Bila Kau Datang</title>
-		<desc>The sudden presence of a little girl in a man's life raises thousands of questions, yet it also blossoms into a pretty special relationship.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16302657'&amp;EntityType='LinearSchedule'&amp;EntityId='8eddaec5-18db-4152-9153-40846d2eff58'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260915234400 +0000" stop="20260916013000 +0000">
-		<title>Kampung Arena Panggang</title>
-		<desc>Di dalam sebuah kampung, pasti terdapat perebutan kuasa. Siapakah yang bakal memegang jawatan tertinggi? Saksikan gelagat lucu mereka berentap untuk digelar ketua kampung.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346091'&amp;EntityType='LinearSchedule'&amp;EntityId='6b259d8a-32a2-4e19-b234-bf8b0e736eea'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916013000 +0000" stop="20260916031700 +0000">
-		<title>Nyanyuk</title>
-		<desc>Zali is sad with the condition of his wife, Minah who he thinks is senile when in fact he is the one facing the disease.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346075'&amp;EntityType='LinearSchedule'&amp;EntityId='e5c3e18b-fc1d-4937-a11b-66a8a0187c8c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916031700 +0000" stop="20260916050800 +0000">
-		<title>Jongkong</title>
-		<desc>Wan Ibrahim perlu mencari penyelesaian segera untuk melarikan diri daripada pakciknya, Wan Usin, dengan menjual beberapa jongkong emas yang dirompak oleh mereka, dan dia perlu melalui pelbagai cabaran.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346079'&amp;EntityType='LinearSchedule'&amp;EntityId='e1836117-f36c-4ccb-950a-03c427cb526b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916050800 +0000" stop="20260916065000 +0000">
-		<title>Resipi</title>
-		<desc>Radiah pindah semula ke rumah ibubapanya demi untuk menjaga ayahnya lalu mula memasak mengikut resipi arwah ibunya, dalam usahanya Radiah mula mempelajari tentang dirinya dan juga tentang ibu dan ayahnya.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346083'&amp;EntityType='LinearSchedule'&amp;EntityId='8744b13f-10f3-4fe2-8f4c-a7f394398a4e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916065000 +0000" stop="20260916081900 +0000">
-		<title>Strawberi Karipap Hello Gold Coast</title>
-		<desc>Nini dan Haikal pergi bercuti ke Gold Coast, Australia. Percutian mereka tidak berjalan seperti yang dirancang. Namun akhirnya ia menjadi satu pengembaraan yang hebat.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346095'&amp;EntityType='LinearSchedule'&amp;EntityId='a6712114-8532-49a8-b12e-5df660b56366'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916081900 +0000" stop="20260916100600 +0000">
-		<title>Jejaka Terhangat Di Pasaran</title>
-		<desc>A romantic comedy about a handsome man, Azrul, who is a favorite of many women at his workplace. They do various things to win Azrul's heart.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346099'&amp;EntityType='LinearSchedule'&amp;EntityId='b23a80a9-7625-4c25-9ca0-cb042124db17'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916100600 +0000" stop="20260916115500 +0000">
-		<title>Luar Biasa</title>
-		<desc>Kisah yang diinspirasikan daripada pemenang pingat emas Paralimpik, Mohamad Ridzuan yang menghadapi penyakit 'Cebral Palsy' dan abangnya yang sentiasa ada di sisinya.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346063'&amp;EntityType='LinearSchedule'&amp;EntityId='67075b55-3fd4-41cf-b396-773b79e6b5ef'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916115500 +0000" stop="20260916133500 +0000">
-		<title>Sekolah Api</title>
-		<desc>Api, gangster yang meningkat naik cuba memenuhi amanat arwah neneknya untuk menghabiskan SPM. Dia jatuh cinta dengan guru Bahasa Inggeris dan sanggup melakukan apa saja untuk memenangi hati guru tersebut.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346071'&amp;EntityType='LinearSchedule'&amp;EntityId='33736415-8423-4753-883a-a9f8d743b6bb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916133500 +0000" stop="20260916152400 +0000">
-		<title>Balapan</title>
-		<desc>Kisah empat orang remaja yang telah menjadi musuh sejak sekian lama di lapangan balapan acara pecut 100meter peringkat daerah Selangor dan akhirnya menjadi sahabat seperjuangan.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346067'&amp;EntityType='LinearSchedule'&amp;EntityId='9567b4a4-1112-4b1f-9f50-e3971a4035e0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916152400 +0000" stop="20260916164500 +0000">
-		<title>Lampu Merah</title>
-		<desc>Si lelaki sukakan si perempuan, tanpa sedar yang si perempuan itu psiko dan obses dengan cintanya. Cara untuk selamatkan diri hanya dengan jatuh cinta dengan si perempuan semula.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346087'&amp;EntityType='LinearSchedule'&amp;EntityId='5315e30c-4c98-4e55-a6f0-9dbcecfae9e1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915153300 +0000" stop="20260915160200 +0000">
-		<title>M.A.I.D - EP3</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346299'&amp;EntityType='LinearSchedule'&amp;EntityId='c91df8bb-546f-410e-a0f6-f67d310191b9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915160200 +0000" stop="20260915163000 +0000">
-		<title>M.A.I.D - EP4</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346323'&amp;EntityType='LinearSchedule'&amp;EntityId='8ef63c73-c4db-47f1-b541-34262c7c0d95'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915163000 +0000" stop="20260915171700 +0000">
-		<title>Keluarga Iskandar - EP10</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346431'&amp;EntityType='LinearSchedule'&amp;EntityId='c3a7c5a6-4bbb-4e93-be5f-645ca1282e8e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915171700 +0000" stop="20260915180800 +0000">
-		<title>Keluarga Iskandar - EP11</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346359'&amp;EntityType='LinearSchedule'&amp;EntityId='5ac2951d-a2ce-4cb4-8a78-22c40bcc760f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915180800 +0000" stop="20260915185900 +0000">
-		<title>Selafaz Cinta - EP23</title>
-		<desc>Haikal terkejut melihat Liz berdua-duaan dengan Reza. Haikal mahu Reza perjelaskan apa yang berlaku. Jannah terasa Reza ada masalah yang dia sembunyikan.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346395'&amp;EntityType='LinearSchedule'&amp;EntityId='c96f36bb-674b-4fef-a7c9-0ec6690bdc68'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915185900 +0000" stop="20260915194900 +0000">
-		<title>Selafaz Cinta - EP24</title>
-		<desc>Jannah kemalangan. Sya tanya Ditto tentang dan keluarganya. Ditto terkejut Sya tahu perihal isterinya. Inaz dan Azrel mula panik untuk menolong Jannah.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346435'&amp;EntityType='LinearSchedule'&amp;EntityId='50cc876b-6bf1-43f9-8390-2751c38ced10'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915194900 +0000" stop="20260915203700 +0000">
-		<title>Arluna - EP7</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346363'&amp;EntityType='LinearSchedule'&amp;EntityId='a8c39396-6c1c-4bd0-830f-93176c00e504'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915203700 +0000" stop="20260915212400 +0000">
-		<title>Arluna - EP8</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346327'&amp;EntityType='LinearSchedule'&amp;EntityId='1fb53e86-0229-408d-8695-521884856caf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915212400 +0000" stop="20260915215300 +0000">
-		<title>M.A.I.D - EP3</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346399'&amp;EntityType='LinearSchedule'&amp;EntityId='9fe181b4-5a13-4610-b1eb-924a1f674833'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915215300 +0000" stop="20260915220000 +0000">
-		<title>We’ll be back at 6.00am</title>
-		<desc>We’ll be back at 6.00am</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346355'&amp;EntityType='LinearSchedule'&amp;EntityId='53561758-3ab7-4624-a2fd-68f520e8a438'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915220000 +0000" stop="20260915222700 +0000">
-		<title>M.A.I.D - EP5</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346403'&amp;EntityType='LinearSchedule'&amp;EntityId='009b22c5-f1e5-4e11-8d42-3999c4a06f1d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915222700 +0000" stop="20260915225500 +0000">
-		<title>M.A.I.D - EP6</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346451'&amp;EntityType='LinearSchedule'&amp;EntityId='ee455ad8-a3b1-48bb-a59d-19117c42b154'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915225500 +0000" stop="20260915234300 +0000">
-		<title>Keluarga Iskandar - EP12</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346439'&amp;EntityType='LinearSchedule'&amp;EntityId='e5d0c6ef-8b4f-4acb-8e3e-61a81e0fd8ff'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260915234300 +0000" stop="20260916003300 +0000">
-		<title>Keluarga Iskandar - EP13</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346407'&amp;EntityType='LinearSchedule'&amp;EntityId='cc701e6d-330a-431d-9237-711a5594d818'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916003300 +0000" stop="20260916012300 +0000">
-		<title>Selafaz Cinta - EP25</title>
-		<desc>Azrel berjaya menangkap gambar Reza memegang Liz. Azrel tak mahu Irsan tunjukkan gambar itu kepada Jannah. Ditto beritahu Dea, dia belum berjaya mendapat gambar baru Irsan dan Jasmin dan rasakan Irsan ada hantar orang untuk intip mereka. Reza marah kerana Liz masih selalu mendesak.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346331'&amp;EntityType='LinearSchedule'&amp;EntityId='5546eb3a-d77d-4d73-8a40-a1a1fd987512'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916012300 +0000" stop="20260916021200 +0000">
-		<title>Selafaz Cinta - EP26</title>
-		<desc>Haris ugut Reza utk dapatkan balik hak keluarganya, kalau Reza tidak mahu gambar Reza dan Liz disebarkan kepada Jannah. Haris mahu Reza menolong mendapatkan kerja lamanya kembali. Mokhtar berjumpa Jannah dan Reza dan mahu ada agenda.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346455'&amp;EntityType='LinearSchedule'&amp;EntityId='93a2d37b-273f-4940-b761-196d8c7589ae'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916021200 +0000" stop="20260916025900 +0000">
-		<title>Arluna - EP9</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346443'&amp;EntityType='LinearSchedule'&amp;EntityId='c50b5edc-05c6-4269-aae3-706aeb60b6f4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916025900 +0000" stop="20260916034600 +0000">
-		<title>Arluna - EP10</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346383'&amp;EntityType='LinearSchedule'&amp;EntityId='1220f172-434a-4e49-bf60-f0128789baa1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916034600 +0000" stop="20260916041300 +0000">
-		<title>M.A.I.D - EP5</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346387'&amp;EntityType='LinearSchedule'&amp;EntityId='6e930337-1874-4aa5-a8d3-feb3ddc7c96e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916041300 +0000" stop="20260916044100 +0000">
-		<title>M.A.I.D - EP6</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346367'&amp;EntityType='LinearSchedule'&amp;EntityId='eb4f0c0a-91a3-4f8b-b870-0f634775f947'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916044100 +0000" stop="20260916052900 +0000">
-		<title>Keluarga Iskandar - EP12</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346391'&amp;EntityType='LinearSchedule'&amp;EntityId='0a7308aa-6b7c-4f12-b0c1-109b8d9afb69'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916052900 +0000" stop="20260916061900 +0000">
-		<title>Keluarga Iskandar - EP13</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346335'&amp;EntityType='LinearSchedule'&amp;EntityId='7a9add3a-fad5-4a28-9c6b-dd051ec8beb8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916061900 +0000" stop="20260916070900 +0000">
-		<title>Selafaz Cinta - EP25</title>
-		<desc>Azrel berjaya menangkap gambar Reza memegang Liz. Azrel tak mahu Irsan tunjukkan gambar itu kepada Jannah. Ditto beritahu Dea, dia belum berjaya mendapat gambar baru Irsan dan Jasmin dan rasakan Irsan ada hantar orang untuk intip mereka. Reza marah kerana Liz masih selalu mendesak.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346339'&amp;EntityType='LinearSchedule'&amp;EntityId='d241c490-938b-42d2-85aa-6b30187b9b6c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916070900 +0000" stop="20260916075800 +0000">
-		<title>Selafaz Cinta - EP26</title>
-		<desc>Haris ugut Reza utk dapatkan balik hak keluarganya, kalau Reza tidak mahu gambar Reza dan Liz disebarkan kepada Jannah. Haris mahu Reza menolong mendapatkan kerja lamanya kembali. Mokhtar berjumpa Jannah dan Reza dan mahu ada agenda.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346459'&amp;EntityType='LinearSchedule'&amp;EntityId='ee8527f2-aa5d-44cd-8f41-89a12fcdaf30'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916075800 +0000" stop="20260916084500 +0000">
-		<title>Arluna - EP9</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346411'&amp;EntityType='LinearSchedule'&amp;EntityId='1f1423e4-c225-4cd3-9fdf-cf9a81eedb03'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916084500 +0000" stop="20260916093200 +0000">
-		<title>Arluna - EP10</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346343'&amp;EntityType='LinearSchedule'&amp;EntityId='a776797c-d485-47be-a93e-47d04c611f3c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916093200 +0000" stop="20260916095900 +0000">
-		<title>M.A.I.D - EP5</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346415'&amp;EntityType='LinearSchedule'&amp;EntityId='a9d1a8da-826b-44b3-abf3-e3a48fb8e93d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916095900 +0000" stop="20260916102700 +0000">
-		<title>M.A.I.D - EP6</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346419'&amp;EntityType='LinearSchedule'&amp;EntityId='e98b77d8-b1d7-47e2-b284-abc40bc95f72'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916102700 +0000" stop="20260916111500 +0000">
-		<title>Keluarga Iskandar - EP12</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346371'&amp;EntityType='LinearSchedule'&amp;EntityId='09827e11-1f81-45aa-ab2f-78832d0464a5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916111500 +0000" stop="20260916120500 +0000">
-		<title>Keluarga Iskandar - EP13</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346375'&amp;EntityType='LinearSchedule'&amp;EntityId='952723e0-1b5a-416a-b3e1-02fdda0e3a3b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916120500 +0000" stop="20260916125500 +0000">
-		<title>Selafaz Cinta - EP25</title>
-		<desc>Azrel berjaya menangkap gambar Reza memegang Liz. Azrel tak mahu Irsan tunjukkan gambar itu kepada Jannah. Ditto beritahu Dea, dia belum berjaya mendapat gambar baru Irsan dan Jasmin dan rasakan Irsan ada hantar orang untuk intip mereka. Reza marah kerana Liz masih selalu mendesak.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346423'&amp;EntityType='LinearSchedule'&amp;EntityId='376ffcf2-90e4-4450-837d-33c8d453b183'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916125500 +0000" stop="20260916134400 +0000">
-		<title>Selafaz Cinta - EP26</title>
-		<desc>Haris ugut Reza utk dapatkan balik hak keluarganya, kalau Reza tidak mahu gambar Reza dan Liz disebarkan kepada Jannah. Haris mahu Reza menolong mendapatkan kerja lamanya kembali. Mokhtar berjumpa Jannah dan Reza dan mahu ada agenda.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346347'&amp;EntityType='LinearSchedule'&amp;EntityId='d09519e0-d201-49a3-902f-1b8e6848a5a8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916134400 +0000" stop="20260916143100 +0000">
-		<title>Arluna - EP9</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346427'&amp;EntityType='LinearSchedule'&amp;EntityId='c32e8641-41fe-4e13-ad34-347a0959ec3a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916143100 +0000" stop="20260916151800 +0000">
-		<title>Arluna - EP10</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346351'&amp;EntityType='LinearSchedule'&amp;EntityId='df1e9a43-0861-4f82-b459-017d8ee61a1e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916151800 +0000" stop="20260916154500 +0000">
-		<title>M.A.I.D - EP5</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346379'&amp;EntityType='LinearSchedule'&amp;EntityId='53181e56-4541-4a22-bd2d-db19e3897cf2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916154500 +0000" stop="20260916161300 +0000">
-		<title>M.A.I.D - EP6</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346447'&amp;EntityType='LinearSchedule'&amp;EntityId='734e5b03-fd61-4226-9652-f37f9409f334'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260915160000 +0000" stop="20260915170000 +0000">
-		<title>Neeya Naana - EP733</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344162'&amp;EntityType='LinearSchedule'&amp;EntityId='72dfa7ee-fc48-4c9a-b264-00a49cf65cfa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260915170000 +0000" stop="20260915180000 +0000">
-		<title>Neeya Naana - EP734</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344190'&amp;EntityType='LinearSchedule'&amp;EntityId='61d28f8c-0163-4900-a08c-6709728048d7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260915180000 +0000" stop="20260915190000 +0000">
-		<title>Neeya Naana - EP735</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344206'&amp;EntityType='LinearSchedule'&amp;EntityId='406d460c-d1b2-447e-b825-14554de744cc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260915190000 +0000" stop="20260915200000 +0000">
-		<title>Neeya Naana - EP736</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344210'&amp;EntityType='LinearSchedule'&amp;EntityId='3bba05e1-ad5f-44b6-970f-62dc85edc58a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260915200000 +0000" stop="20260915210000 +0000">
-		<title>Neeya Naana - EP737</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344194'&amp;EntityType='LinearSchedule'&amp;EntityId='da499547-8515-4ab6-92b1-eb264ed67c34'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260915210000 +0000" stop="20260915220000 +0000">
-		<title>Neeya Naana - EP738</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344246'&amp;EntityType='LinearSchedule'&amp;EntityId='2928ab1d-38b4-4a9d-a962-2d0d073bf6ae'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260915220000 +0000" stop="20260915230000 +0000">
-		<title>Neeya Naana - EP739</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344166'&amp;EntityType='LinearSchedule'&amp;EntityId='bc26537a-b40f-45aa-b375-449d65cdf9c1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260915230000 +0000" stop="20260916000000 +0000">
-		<title>Neeya Naana - EP740</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344170'&amp;EntityType='LinearSchedule'&amp;EntityId='bbe4450c-fd5b-4fe7-9fea-bafc2e16715d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916000000 +0000" stop="20260916010000 +0000">
-		<title>Neeya Naana - EP741</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344174'&amp;EntityType='LinearSchedule'&amp;EntityId='e8af86e5-2e7d-4975-8a1b-5ef49c1670b7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916010000 +0000" stop="20260916020000 +0000">
-		<title>Neeya Naana - EP742</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344178'&amp;EntityType='LinearSchedule'&amp;EntityId='7f44423c-bc6b-4d7f-bb8a-c6feb121986b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916020000 +0000" stop="20260916030000 +0000">
-		<title>Neeya Naana - EP743</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344182'&amp;EntityType='LinearSchedule'&amp;EntityId='99b7c853-a557-4e6c-8b75-66b1511b8c8b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916030000 +0000" stop="20260916040000 +0000">
-		<title>Neeya Naana - EP744</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344198'&amp;EntityType='LinearSchedule'&amp;EntityId='273e8d2f-9f36-4a96-a322-aa08076aa44b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916040000 +0000" stop="20260916050000 +0000">
-		<title>Neeya Naana - EP745</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344186'&amp;EntityType='LinearSchedule'&amp;EntityId='0026c8d2-e037-4711-a57a-b6b4025f3f44'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916050000 +0000" stop="20260916060000 +0000">
-		<title>Neeya Naana - EP746</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344234'&amp;EntityType='LinearSchedule'&amp;EntityId='3acdbfc5-2d8b-413d-b5b7-9dd3cdc99df4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916060000 +0000" stop="20260916070000 +0000">
-		<title>Neeya Naana - EP736</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344202'&amp;EntityType='LinearSchedule'&amp;EntityId='b7455777-d63c-4e4c-a19f-11ca8626c8f8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916070000 +0000" stop="20260916080000 +0000">
-		<title>Neeya Naana - EP737</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344222'&amp;EntityType='LinearSchedule'&amp;EntityId='9ad85e47-8ef3-4a20-89a5-656e95dae673'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916080000 +0000" stop="20260916090000 +0000">
-		<title>Neeya Naana - EP638</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344226'&amp;EntityType='LinearSchedule'&amp;EntityId='e1fdd588-88bf-47c0-a945-bf97c080e2da'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916090000 +0000" stop="20260916100000 +0000">
-		<title>Neeya Naana - EP639</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344230'&amp;EntityType='LinearSchedule'&amp;EntityId='b49ea15d-33e5-449f-9a39-97cda4b1cfee'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916100000 +0000" stop="20260916110000 +0000">
-		<title>Neeya Naana - EP938</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344214'&amp;EntityType='LinearSchedule'&amp;EntityId='cb2003ed-85da-4f52-863b-77f766d6dc37'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916110000 +0000" stop="20260916140000 +0000">
-		<title>Laila O Laila</title>
-		<desc>While it's love at first for Karthik, Nandhini can barely stand his sight. However, despite rejecting him, she ends up getting engaged to him.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16344218'&amp;EntityType='LinearSchedule'&amp;EntityId='f1dc0d63-f7d6-49e6-a3d5-1f1c6600f7c4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916140000 +0000" stop="20260916150000 +0000">
-		<title>Neeya Naana - EP939</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344238'&amp;EntityType='LinearSchedule'&amp;EntityId='c503983c-2edf-497b-8432-a66e67a60991'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916150000 +0000" stop="20260916160000 +0000">
-		<title>Neeya Naana - EP652</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344242'&amp;EntityType='LinearSchedule'&amp;EntityId='e3b4ebca-f47e-4ba3-b757-f9408a49763b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916160000 +0000" stop="20260916170000 +0000">
-		<title>Neeya Naana - EP747</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344250'&amp;EntityType='LinearSchedule'&amp;EntityId='88cccfaf-6a8d-4954-a92c-df9674e12742'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260915152059 +0000" stop="20260915171555 +0000">
-		<title>Belgium v England | Play-off for third place | 2018 FIFA World Cup Russia™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Belgium and England played at Saint Petersburg Stadium.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16326012'&amp;EntityType='LinearSchedule'&amp;EntityId='12dad8f7-e7a4-44e2-993e-dadb4f894da2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260915171555 +0000" stop="20260915191509 +0000">
-		<title>Poland v Argentina | Group C | FIFA World Cup Qatar 2022™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Poland and Argentina played at Stadium 974, Doha.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16326024'&amp;EntityType='LinearSchedule'&amp;EntityId='24ea0a0a-473a-477a-8f26-5d05870b87a3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260915191509 +0000" stop="20260915210732 +0000">
-		<title>USA v Korea DPR | Group C | FIFA Women's World Cup Germany 2011™ | Full Match Replay</title>
-		<desc>Watch the full match replay between USA and Korea DPR from Dresden, 28 June 2011.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16326028'&amp;EntityType='LinearSchedule'&amp;EntityId='c370cc4c-4598-49c2-a43d-340e4842f0b0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260915210732 +0000" stop="20260915230148 +0000">
-		<title>England v Mexico | Group F | FIFA Women's World Cup Canada 2015™ | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Mexico from Moncton, 13 June 2015.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16326032'&amp;EntityType='LinearSchedule'&amp;EntityId='a83d9f6b-3356-4a50-a04e-f471d3f5165c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260915230148 +0000" stop="20260915234513 +0000">
-		<title>The Greatest Game</title>
-		<desc>The FIFA eWorld Cup 2019 semi-final is considered one of the best FIFA games ever.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16326036'&amp;EntityType='LinearSchedule'&amp;EntityId='ba3b43ca-c234-4556-98aa-afee27469a01'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260915234513 +0000" stop="20260916004534 +0000">
-		<title>Heroes</title>
-		<desc>Relive the rise of the FIFA Women’s World Cup.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16326040'&amp;EntityType='LinearSchedule'&amp;EntityId='806fa774-d478-415f-ada3-cd6976c2de91'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916004534 +0000" stop="20260916030216 +0000">
-		<title>Canada v Australia | Group B | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Canada and Australia at Melbourne Rectangular Stadium, Melbourne.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346891'&amp;EntityType='LinearSchedule'&amp;EntityId='4a13be8f-716a-4025-af59-f5c627c76c5a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916030216 +0000" stop="20260916051849 +0000">
-		<title>England v Colombia | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Colombia played at Stadium Australia, Sydney.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346879'&amp;EntityType='LinearSchedule'&amp;EntityId='56a30f50-3f71-4f04-84cb-4dc8e56b43e8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916051849 +0000" stop="20260916073738 +0000">
-		<title>Korea Republic v Germany | Group H | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Korea Republic and Germany at Brisbane Stadium, Brisbane.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346883'&amp;EntityType='LinearSchedule'&amp;EntityId='75201c7a-af13-452f-8cb7-0aa6249c4407'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916073738 +0000" stop="20260916075519 +0000">
-		<title>25 Memorable FIFA U-17 Women’s World Cup Goals</title>
-		<desc>Remember some of the best strikes in the history of the tournament.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346895'&amp;EntityType='LinearSchedule'&amp;EntityId='0b213340-d372-43db-8db7-58fca66cf5e1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916075519 +0000" stop="20260916100715 +0000">
-		<title>Portugal v USA | Group E | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Portugal and USA at Eden Park, Auckland.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16433435'&amp;EntityType='LinearSchedule'&amp;EntityId='74a72df3-01de-404b-a6f0-fa610f588cd5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916100715 +0000" stop="20260916122358 +0000">
-		<title>Canada v Australia | Group B | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Canada and Australia at Melbourne Rectangular Stadium, Melbourne.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16433439'&amp;EntityType='LinearSchedule'&amp;EntityId='d7204b38-6320-4c6d-80e3-6f62a3eacb95'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916122358 +0000" stop="20260916124929 +0000">
-		<title>The Future | Queen of WE</title>
-		<desc>WE League champions INAC Kobe and Empress Cup winners Urawa clash at the National Stadium</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16433443'&amp;EntityType='LinearSchedule'&amp;EntityId='16658d37-c6aa-4a34-a6aa-f65207b2d4f9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916124929 +0000" stop="20260916150604 +0000">
-		<title>U20 FIFA World Cup, Women 2026 Argentina U20 v Korea Republic U20</title>
-		<desc>U20 FIFA World Cup, Women 2026 Argentina U20 v Korea Republic U20</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16433451'&amp;EntityType='LinearSchedule'&amp;EntityId='967321e0-ded6-4d45-aade-d660aa863e3c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916150604 +0000" stop="20260916153924 +0000">
-		<title>The Best of FIFA Women's World Cup USA 2003™</title>
-		<desc>A showcase of the tournament’s top goals, assists, and award-winning moments from USA 2003.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16433447'&amp;EntityType='LinearSchedule'&amp;EntityId='56e3fc8d-8feb-4f15-a43f-fdc51952fc55'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916153924 +0000" stop="20260916161941 +0000">
-		<title>We Were There - Final</title>
-		<desc>Messi’s last chance vs Mbappé’s France: a final to define legacies.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16433455'&amp;EntityType='LinearSchedule'&amp;EntityId='95052379-ef95-4c29-a000-a9453ec96e39'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260916163000 +0000" stop="20260916173000 +0000">
 		<title>So Help Me Todd S2 - EP 10</title>
 		<desc>Margaret tries to save her struggling law firm by taking on a case involving a large cosmetic company with deep pockets Todd is determined to crack an important investigation that will seal the fate of the law firm one way or anothe</desc>
@@ -2889,7 +2394,7 @@
 	<programme channel="97098" start="20260917003000 +0000" stop="20260917010000 +0000">
 		<title>Pinkfong Songs &amp; Stories - EP 16</title>
 		<desc>Sing and learn with Pinkfong and Baby Shark’s collection of songs and stories!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16311307'&amp;EntityType='LinearSchedule'&amp;EntityId='2a42700f-8a36-413f-947a-b14227e13ed1'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16433702'&amp;EntityType='LinearSchedule'&amp;EntityId='2a42700f-8a36-413f-947a-b14227e13ed1'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260917010000 +0000" stop="20260917011500 +0000">
 		<title>Piggy Builders - EP 47</title>
@@ -3956,6 +3461,131 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337425'&amp;EntityType='LinearSchedule'&amp;EntityId='ecdcd1f1-1f85-468e-95e2-ef0e8257622b'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="840097" start="20260917035000 +0000" stop="20260917060000 +0000">
+		<title>Volleyball - 20th Asian Games Aichi-Nagoya 2026 Women's Pool Stage - KAZ vs PHI</title>
+		<desc>Women's Pool Stage - Kazakhstan vs Philippines</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16325357'&amp;EntityType='LinearSchedule'&amp;EntityId='d4137523-4334-44db-bc14-b84982ec09e5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260917060000 +0000" stop="20260917065000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323844'&amp;EntityType='LinearSchedule'&amp;EntityId='cd266422-6bda-45cd-9d70-ceb4c4ae4a0d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260917065000 +0000" stop="20260917090000 +0000">
+		<title>Volleyball - 20th Asian Games Aichi-Nagoya 2026 Women's Pool Stage - TPE vs MGL</title>
+		<desc>Women's Pool Stage - Chinese Taipei vs Mongolia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16325366'&amp;EntityType='LinearSchedule'&amp;EntityId='2706e5e1-c603-4c76-a6a9-6f79f8986df1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260917090000 +0000" stop="20260917095000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323848'&amp;EntityType='LinearSchedule'&amp;EntityId='5aaa1760-559f-483a-a037-eeaa3227e97e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260917095000 +0000" stop="20260917120000 +0000">
+		<title>Volleyball - 20th Asian Games Aichi-Nagoya 2026 Women's Pool Stage - KGZ vs vs THA</title>
+		<desc>Women's Pool Stage - Kyrgyzstan vs Thailand</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16325375'&amp;EntityType='LinearSchedule'&amp;EntityId='0fecf478-4e4d-40e2-b120-fd59bf96562e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260917120000 +0000" stop="20260917155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323852'&amp;EntityType='LinearSchedule'&amp;EntityId='db187c39-21c8-4b41-8378-9f7d665d3466'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260917160000 +0000" stop="20260918035000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337318'&amp;EntityType='LinearSchedule'&amp;EntityId='4b06680b-0b12-43d6-b91f-96137602f06c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260917034500 +0000" stop="20260917060000 +0000">
+		<title>Basketball - 20th Asian Games Aichi-Nagoya 2026 Women's Group Stage - Group A - INA vs THA</title>
+		<desc>Women's Group Stage - Group A - Indonesia vs Thailand</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16321662'&amp;EntityType='LinearSchedule'&amp;EntityId='46e0d7c6-4274-45c1-9d32-a09b710682f3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260917060000 +0000" stop="20260917064500 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323792'&amp;EntityType='LinearSchedule'&amp;EntityId='3912b2bf-8056-482e-9332-5c6a501973d6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260917064500 +0000" stop="20260917090000 +0000">
+		<title>Basketball - 20th Asian Games Aichi-Nagoya 2026 Women's Group Stage - Group B - PHI vs KAZ</title>
+		<desc>Women's Group Stage - Group B - Philippines vs Kazakhstan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16321634'&amp;EntityType='LinearSchedule'&amp;EntityId='023a9bda-baa2-4237-9a34-cbbc2bfbbb3e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260917090000 +0000" stop="20260917094500 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323796'&amp;EntityType='LinearSchedule'&amp;EntityId='ff96c360-bdbf-4464-8e87-06b7e8e7ec55'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260917094500 +0000" stop="20260917120000 +0000">
+		<title>Basketball - 20th Asian Games Aichi-Nagoya 2026 Women's Group Stage - Group B - JPN vs HKG</title>
+		<desc>Women's Group Stage - Group B - Japan vs Hong Kong</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16321649'&amp;EntityType='LinearSchedule'&amp;EntityId='693027cd-5f5d-4767-b498-b0c4234a5c76'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260917120000 +0000" stop="20260917155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323800'&amp;EntityType='LinearSchedule'&amp;EntityId='87e57e20-b512-44f0-9ee1-5905df47bb14'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260917160000 +0000" stop="20260918064500 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337272'&amp;EntityType='LinearSchedule'&amp;EntityId='0595884b-eee7-4a71-822f-71ec319a92fc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840093" start="20260917160000 +0000" stop="20260917235000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337207'&amp;EntityType='LinearSchedule'&amp;EntityId='2094c259-7e3f-416f-858e-48b40c166745'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839745" start="20260916163000 +0000" stop="20260916183000 +0000">
+		<title>FIFA U-20 Women's World Cup 2026 : Round of 16 : Italy vs China PR</title>
+		<desc>The FIFA U-20 Women’s World Cup Poland 2026™ brings together 24 of the world’s best women’s U-20 national teams as the next generation of football stars compete for glory on the global stage. Hosted across four cities in Poland, the tournament showcases emerging talent, exciting international matchups and the future stars of women’s football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431066'&amp;EntityType='LinearSchedule'&amp;EntityId='7642c797-d834-4a72-b927-6c3a22a05569'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839745" start="20260916183000 +0000" stop="20260917130000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th September,Thursday 09.00pm. FIFA U-20 Women's World Cup 2026 : Round of 16: France vs Canada</title>
+		<desc>No Programme available now. Next Broadcast on 17th September, Thursday 9.00pm. FIFA U-20 Women's World Cup 2026 : Round of 16 : France vs Canada</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431074'&amp;EntityType='LinearSchedule'&amp;EntityId='2ff2be41-21d8-4c03-bd0f-1d00bc7a7850'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839745" start="20260917130000 +0000" stop="20260917150000 +0000">
+		<title>FIFA U-20 Women's World Cup 2026 : Round of 16 : France vs Canada</title>
+		<desc>The FIFA U-20 Women’s World Cup Poland 2026™ brings together 24 of the world’s best women’s U-20 national teams as the next generation of football stars compete for glory on the global stage. Hosted across four cities in Poland, the tournament showcases emerging talent, exciting international matchups and the future stars of women’s football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431070'&amp;EntityType='LinearSchedule'&amp;EntityId='ce36169d-6259-47da-9226-ab38d51b2b8d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839745" start="20260917150000 +0000" stop="20260917160000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th September,Friday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16: Korea DPR vs Japan</title>
+		<desc>No Programme available now. Next Broadcast on 18th September, Friday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16 : Korea DPR vs Japan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431082'&amp;EntityType='LinearSchedule'&amp;EntityId='5a3edf17-c397-40d6-b4e5-8b5aeb4e9e6c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839745" start="20260917160000 +0000" stop="20260917163000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th September,Friday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16: Korea DPR vs Japan</title>
+		<desc>No Programme available now. Next Broadcast on 18th September, Friday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16 : Korea DPR vs Japan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431094'&amp;EntityType='LinearSchedule'&amp;EntityId='c9647843-7a5a-451f-9b3a-607ce08c2f1a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839744" start="20260916163000 +0000" stop="20260916183000 +0000">
+		<title>FIFA U-20 Women's World Cup 2026 : Round of 16 : Spain vs Portugal</title>
+		<desc>The FIFA U-20 Women’s World Cup Poland 2026™ brings together 24 of the world’s best women’s U-20 national teams as the next generation of football stars compete for glory on the global stage. Hosted across four cities in Poland, the tournament showcases emerging talent, exciting international matchups and the future stars of women’s football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431014'&amp;EntityType='LinearSchedule'&amp;EntityId='f2ffe33b-b204-4041-bf08-0d1d0fb418bd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839744" start="20260916183000 +0000" stop="20260917130000 +0000">
+		<title>No Programme available now. Next Broadcast on 17th September, Thursday 09.00pm. FIFA U-20 Women's World Cup 2026 : Round of 16: England vs Nigeria</title>
+		<desc>No Programme available now. Next Broadcast on 17th September, Thursday 09.00pm. FIFA U-20 Women's World Cup 2026 : Round of 16: England vs Nigeria</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431018'&amp;EntityType='LinearSchedule'&amp;EntityId='78c15e3a-ba3b-406e-a619-0c954b3a1e49'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839744" start="20260917130000 +0000" stop="20260917150000 +0000">
+		<title>FIFA U-20 Women's World Cup 2026 : Round of 16 : England vs Nigeria</title>
+		<desc>The FIFA U-20 Women’s World Cup Poland 2026™ brings together 24 of the world’s best women’s U-20 national teams as the next generation of football stars compete for glory on the global stage. Hosted across four cities in Poland, the tournament showcases emerging talent, exciting international matchups and the future stars of women’s football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431022'&amp;EntityType='LinearSchedule'&amp;EntityId='9265be91-0602-45b6-8b06-3361b3689d6f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839744" start="20260917150000 +0000" stop="20260917160000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th September, Friday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16 : Poland vs Columbia</title>
+		<desc>No Programme available now. Next Broadcast on 18th September, Friday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16 : Poland vs Columbia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431030'&amp;EntityType='LinearSchedule'&amp;EntityId='70321340-d872-41c0-b89a-a16375600a49'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="839744" start="20260917160000 +0000" stop="20260917163000 +0000">
+		<title>No Programme available now. Next Broadcast on 18th September, Friday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16 : Poland vs Columbia</title>
+		<desc>No Programme available now. Next Broadcast on 18th September, Friday 12.30am. FIFA U-20 Women's World Cup 2026 : Round of 16 : Poland vs Columbia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16431034'&amp;EntityType='LinearSchedule'&amp;EntityId='af4a9647-d829-499e-86b1-21777561c55d'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="98200" start="20260917160000 +0000" stop="20260918112000 +0000">
 		<title>No Programme available now. Next Broadcast on 18th September, Friday 7.20pm. Singapore Premier League 2026/2027</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: FC Jurong vs Hougang United FC on 18th September, Friday 7.20pm. Please stay tuned!</desc>
@@ -4090,6 +3720,36 @@
 		<title>No programme available now. Next broadcast on 18th September, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 18th September, Friday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16327734'&amp;EntityType='LinearSchedule'&amp;EntityId='9dca7cfe-5eca-49c9-ad64-791494558de6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260917100000 +0000" stop="20260917120000 +0000">
+		<title>AFC Champions League Two 2026/27: Lion City Sailors FC vs BG Pathum United</title>
+		<desc>Asia’s second-tier premier men’s club competition organised by the Asian Football Confederation (AFC), featuring leading clubs from across Asia. Singapore is represented by Lion City Sailors FC and Tampines Rovers FC in the 2026/27 season.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16417968'&amp;EntityType='LinearSchedule'&amp;EntityId='acc98e7c-d0d3-46c4-8dae-0550342d4fc2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260917120000 +0000" stop="20260917160000 +0000">
+		<title>No Programme available now. Next Broadcast on 15th October, Thursday 6pm. AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC on 15th October, Thursday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16323019'&amp;EntityType='LinearSchedule'&amp;EntityId='73635269-c825-4d88-909c-59337c6cd99a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260917160000 +0000" stop="20260918160000 +0000">
+		<title>No Programme available now. Next Broadcast on 15th October, Thursday 6pm. AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC on 15th October, Thursday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16328133'&amp;EntityType='LinearSchedule'&amp;EntityId='c40c5588-81be-403b-8a16-6b92b48e8aab'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20260917121500 +0000" stop="20260917141500 +0000">
+		<title>AFC Champions League Two 2026/27: Shanghai Shenhua FC vs Tampines Rovers FC</title>
+		<desc>Asia’s second-tier premier men’s club competition organised by the Asian Football Confederation (AFC), featuring leading clubs from across Asia. Singapore is represented by Lion City Sailors FC and Tampines Rovers FC in the 2026/27 season.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16429146'&amp;EntityType='LinearSchedule'&amp;EntityId='1f1ce098-4fe9-4a4c-a3c8-a6fc3ac48238'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20260917141500 +0000" stop="20260917160000 +0000">
+		<title>No Programme available now. Next Broadcast on 15th October, Thursday 8.15pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs FC Machida Zelvia</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: Tampines Rovers FC vs FC Machida Zelvia on 15th October, Thursday 8.15pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16429138'&amp;EntityType='LinearSchedule'&amp;EntityId='c405509f-dfaa-478f-9bef-8d198d1a8c94'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20260917160000 +0000" stop="20260918160000 +0000">
+		<title>No Programme available now. Next Broadcast on 15th October, Thursday 8.15pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs FC Machida Zelvia</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: Tampines Rovers FC vs FC Machida Zelvia on 15th October, Thursday 8.15pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16429150'&amp;EntityType='LinearSchedule'&amp;EntityId='c293991e-51c7-4bcb-b67d-74ac3c345a65'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260916162750 +0000" stop="20260916172342 +0000">
 		<title>MasterChef Australia Season 08 - Service Challenge: Lake House</title>
@@ -4730,645 +4390,5 @@
 		<title>Girls Of The 80s!</title>
 		<desc>Style, Sass and songs that defined a decade. These are the girls that ruled the 80s.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337663'&amp;EntityType='LinearSchedule'&amp;EntityId='1a4de191-f130-4928-bfbb-bbc855840588'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916170000 +0000" stop="20260916190000 +0000">
-		<title>Play That Funky 70s Music!</title>
-		<desc>Funky beats and grooves that will take you righ back to the 70s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321285'&amp;EntityType='LinearSchedule'&amp;EntityId='c426518c-fa22-4857-b3e9-842f0308b224'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916190000 +0000" stop="20260916210000 +0000">
-		<title>Smooth Sounds Of The 70s!</title>
-		<desc>Soft tunes and soulful melodies to take you on a trip down memory lane</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321301'&amp;EntityType='LinearSchedule'&amp;EntityId='95b1777d-d9a6-4482-a16b-e9297dd0cbda'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916210000 +0000" stop="20260916220000 +0000">
-		<title>Rewind: The Best Of 1973!</title>
-		<desc>Non stop huge hits from 1973!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321232'&amp;EntityType='LinearSchedule'&amp;EntityId='e981d006-1be8-40f8-9d07-24ac3b7d178b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260916220000 +0000" stop="20260917000000 +0000">
-		<title>School Of Rock 1970 - 1979!</title>
-		<desc>It's time to back to school for one mighty lesson packed with Rock n Roll riffs!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321315'&amp;EntityType='LinearSchedule'&amp;EntityId='6ffbec56-1f73-4c4a-8d48-1a4dfcd15bbd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260917000000 +0000" stop="20260917020000 +0000">
-		<title>Boogie Nights! Keep On Dancin'!</title>
-		<desc>Disco magic and funky beats are all you need for a massive 70s Boogie!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321246'&amp;EntityType='LinearSchedule'&amp;EntityId='e1b9002e-e3eb-4a48-8dbb-c435e2c0807b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260917020000 +0000" stop="20260917040000 +0000">
-		<title>70s Chart Champions!</title>
-		<desc>Iconic 70s grooves that ruled or record players.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321260'&amp;EntityType='LinearSchedule'&amp;EntityId='7ea55b79-cd78-4898-bebb-4de9fd59861c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260917040000 +0000" stop="20260917050000 +0000">
-		<title>Rewind: The Best Of 1979!</title>
-		<desc>Non stop huge hits from 1979!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321183'&amp;EntityType='LinearSchedule'&amp;EntityId='9c78f63e-c4d8-472f-9629-bf60481ba0d3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260917050000 +0000" stop="20260917060000 +0000">
-		<title>Love Is In The Air!</title>
-		<desc>Timeless love songs and romantic grooves, the perfect playlist to give you all the 70s feels</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321328'&amp;EntityType='LinearSchedule'&amp;EntityId='9c89d190-e1e3-484e-a8fc-f4305b6fcb71'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260917060000 +0000" stop="20260917070000 +0000">
-		<title>Blockbuster Hits Of The 70s!</title>
-		<desc>The most powerful hits that stormed the charts in the 70s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321194'&amp;EntityType='LinearSchedule'&amp;EntityId='aa1a318c-03c7-4a7e-9c96-43c23c37c455'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260917070000 +0000" stop="20260917090000 +0000">
-		<title>Play That Funky 70s Music!</title>
-		<desc>Funky beats and grooves that will take you righ back to the 70s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321205'&amp;EntityType='LinearSchedule'&amp;EntityId='dac5cdae-b6d3-49d7-9fe4-8825c68f076b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260917090000 +0000" stop="20260917110000 +0000">
-		<title>1970 - 1979: The Anthems!</title>
-		<desc>Nothing but anthems are playing right now, as we bring you the biggest hits of the decade</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321166'&amp;EntityType='LinearSchedule'&amp;EntityId='8b0ba502-e6a7-4ecf-88b8-27a2fdbfc247'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260917110000 +0000" stop="20260917120000 +0000">
-		<title>Rewind: The Best Of 1974!</title>
-		<desc>Non stop huge hits from 1974!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321174'&amp;EntityType='LinearSchedule'&amp;EntityId='bb12a6a8-70b7-4aa4-bb22-b2841de110ab'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260917120000 +0000" stop="20260917140000 +0000">
-		<title>70s Guitar Heroes!</title>
-		<desc>The golden age of guitar heroes! Tune in for the greatest players of the decade.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321219'&amp;EntityType='LinearSchedule'&amp;EntityId='0b00e9e9-7779-49f1-848c-fe278fab5b0d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260917140000 +0000" stop="20260917160000 +0000">
-		<title>The 70s Hall Of Fame!</title>
-		<desc>Rock rebels, disco queens and everything in between. Check out these icons of the 70s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321273'&amp;EntityType='LinearSchedule'&amp;EntityId='3eb4c3f7-86f1-46cc-9bb9-d888385654f8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773723" start="20260917160000 +0000" stop="20260917180000 +0000">
-		<title>Hot Stuff: 70s Pin-Ups!</title>
-		<desc>From Rock Rebels to disco queens, these are the 70s Pin ups of dreams</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337394'&amp;EntityType='LinearSchedule'&amp;EntityId='e5392fad-91c4-4475-9eb0-6a8e6e4bcd88'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916170000 +0000" stop="20260916180000 +0000">
-		<title>Rock Rewind: The Best Of 1991!</title>
-		<desc>The Biggest Rock Hits from the year 1991</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321645'&amp;EntityType='LinearSchedule'&amp;EntityId='c9670553-efb1-4221-9c2f-3d067500d05d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916180000 +0000" stop="20260916200000 +0000">
-		<title>Maximum Rock Overdrive!</title>
-		<desc>The playlist is so huge it comes with a warning! Mega rock hits only from the 70s to 00s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321659'&amp;EntityType='LinearSchedule'&amp;EntityId='42406489-08cd-434e-82e7-4aba87f16e1a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916200000 +0000" stop="20260916220000 +0000">
-		<title>Biggest Rock Bands Ever!</title>
-		<desc>Big songs and big atitude! It's time to celebrate the biggest rock bands in the world, ever!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321690'&amp;EntityType='LinearSchedule'&amp;EntityId='11bf52c6-5f43-4856-bbfd-e2e2cdfc0d1d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916220000 +0000" stop="20260916230000 +0000">
-		<title>Rock Rewind: 1970 - 1979!</title>
-		<desc>The Biggest Hits that rocked the 70s including Punk, Glam Rock and everything in between</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321720'&amp;EntityType='LinearSchedule'&amp;EntityId='4d631c4d-6842-4932-adc1-7ecb351e86cc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260916230000 +0000" stop="20260917010000 +0000">
-		<title>Turn On, Tune In And Rock Out!</title>
-		<desc>Rock out to our playlist packed with everything from seventies stadium fillers to noughties Nu Metal.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321724'&amp;EntityType='LinearSchedule'&amp;EntityId='431b26db-bd78-418d-930e-e9a32d934fa4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260917010000 +0000" stop="20260917030000 +0000">
-		<title>Biggest Rock Hits Of The 00s!</title>
-		<desc>Turn up the speakers cos these are the biggest Rock hits from the 00s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321671'&amp;EntityType='LinearSchedule'&amp;EntityId='d75edd89-81c5-4670-8f49-0e607db4ff17'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260917030000 +0000" stop="20260917050000 +0000">
-		<title>The Rock Hall Of Fame!</title>
-		<desc>Iconic fashion, huge hits, and massive attitude. These are the Rock n Roll stars that defined generations.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321732'&amp;EntityType='LinearSchedule'&amp;EntityId='2e4a3fce-f041-4218-b708-f9fed2c3f2da'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260917050000 +0000" stop="20260917070000 +0000">
-		<title>Biggest Rock Bands Ever!</title>
-		<desc>Big songs and big atitude! It's time to celebrate the biggest rock bands in the world, ever!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321708'&amp;EntityType='LinearSchedule'&amp;EntityId='dedeb937-a437-4ce3-94e4-72e931226db5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260917070000 +0000" stop="20260917080000 +0000">
-		<title>Ultimate Rock Workout!</title>
-		<desc>Hits and riffs perfect for a maximum high energy workout!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321712'&amp;EntityType='LinearSchedule'&amp;EntityId='03983727-fe0b-4125-86ca-068e9c6924a4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260917080000 +0000" stop="20260917090000 +0000">
-		<title>Girls That Rock!</title>
-		<desc>Absolute rock queens are brining the noise for the next hour, so crank it up!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321700'&amp;EntityType='LinearSchedule'&amp;EntityId='930c1b0f-6f91-4a75-b52e-b9d26f6b944d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260917090000 +0000" stop="20260917110000 +0000">
-		<title>Turn On, Tune In And Rock Out!</title>
-		<desc>Rock out to our playlist packed with everything from seventies stadium fillers to noughties Nu Metal.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321716'&amp;EntityType='LinearSchedule'&amp;EntityId='0c9b2508-ea2e-404c-84f3-0081e9227f02'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260917110000 +0000" stop="20260917130000 +0000">
-		<title>The Rock Hall Of Fame!</title>
-		<desc>Iconic fashion, huge hits, and massive attitude. These are the Rock n Roll stars that defined generations.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321678'&amp;EntityType='LinearSchedule'&amp;EntityId='21844b84-38a2-473b-9d9d-fc77ba85a65b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260917130000 +0000" stop="20260917150000 +0000">
-		<title>Epic Rock Hits: 1970 - 2009!</title>
-		<desc>The biggest rock hits that were on everyones playlists from 1970 - 2009</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321740'&amp;EntityType='LinearSchedule'&amp;EntityId='87c96324-a8e3-4b31-9370-010e69484be3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773722" start="20260917150000 +0000" stop="20260917170000 +0000">
-		<title>Maximum Rock Overdrive!</title>
-		<desc>The playlist is so huge it comes with a warning! Mega rock hits only from the 70s to 00s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16321682'&amp;EntityType='LinearSchedule'&amp;EntityId='e6e10450-dd32-48bb-b5ac-1403f5e51008'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916174500 +0000" stop="20260916193500 +0000">
-		<title>Tenebrae</title>
-		<desc>A writer arrives in Rome only to find that somebody is using his novels as the inspiration and occasionally the means of committing murder. As the death toll mounts the police are more and more baffled, and the writer becomes more closely linked to the case than is comfortable.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311744'&amp;EntityType='LinearSchedule'&amp;EntityId='74f7ef4f-b67e-49fe-8ca1-4a45602bc7d9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916193500 +0000" stop="20260916220000 +0000">
-		<title>Tim</title>
-		<desc>A somewhat mentally handicapped 20-year-old man works as a laborer, but everyone abuses his naiveté. A nice 40-year-old American woman hires him one day and they become close. However, the town and his family see her as predatory.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311756'&amp;EntityType='LinearSchedule'&amp;EntityId='f071497c-323d-40b3-81ff-36a39eaa3446'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916220000 +0000" stop="20260916234500 +0000">
-		<title>Up Pompeii</title>
-		<desc>Episodes from the popular British television comedy set in ancient Rome with Howerd starring as the philandering Senator Ludicrus Sextus.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311768'&amp;EntityType='LinearSchedule'&amp;EntityId='297abd4c-7c81-41ec-b902-2768345a746e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260916234500 +0000" stop="20260917013500 +0000">
-		<title>Tenebrae</title>
-		<desc>A writer arrives in Rome only to find that somebody is using his novels as the inspiration and occasionally the means of committing murder. As the death toll mounts the police are more and more baffled, and the writer becomes more closely linked to the case than is comfortable.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311727'&amp;EntityType='LinearSchedule'&amp;EntityId='79102c1b-004a-47e4-bff4-79b287a07d6b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260917013500 +0000" stop="20260917040000 +0000">
-		<title>Tim</title>
-		<desc>A somewhat mentally handicapped 20-year-old man works as a laborer, but everyone abuses his naiveté. A nice 40-year-old American woman hires him one day and they become close. However, the town and his family see her as predatory.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311719'&amp;EntityType='LinearSchedule'&amp;EntityId='aca8829e-7a87-4647-9279-7720b6af1efb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260917040000 +0000" stop="20260917054500 +0000">
-		<title>Up Pompeii</title>
-		<desc>Episodes from the popular British television comedy set in ancient Rome with Howerd starring as the philandering Senator Ludicrus Sextus.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311780'&amp;EntityType='LinearSchedule'&amp;EntityId='a379cf67-b9f8-418f-9e85-c2517de5977b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260917054500 +0000" stop="20260917073500 +0000">
-		<title>Tenebrae</title>
-		<desc>A writer arrives in Rome only to find that somebody is using his novels as the inspiration and occasionally the means of committing murder. As the death toll mounts the police are more and more baffled, and the writer becomes more closely linked to the case than is comfortable.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311819'&amp;EntityType='LinearSchedule'&amp;EntityId='fce4b9d0-4b6d-4fd8-af56-cfe1bc1ca339'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260917073500 +0000" stop="20260917100000 +0000">
-		<title>Tim</title>
-		<desc>A somewhat mentally handicapped 20-year-old man works as a laborer, but everyone abuses his naiveté. A nice 40-year-old American woman hires him one day and they become close. However, the town and his family see her as predatory.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311736'&amp;EntityType='LinearSchedule'&amp;EntityId='41473fc2-b920-45f7-a152-a41de7f41b99'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260917100000 +0000" stop="20260917115500 +0000">
-		<title>Charro!</title>
-		<desc>Jess Wade is innocently accused of having stolen a cannon from the Mexican revolutionary forces. He tries to find the real culprits, a gang of criminals.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311835'&amp;EntityType='LinearSchedule'&amp;EntityId='893fb795-420f-470f-805d-4a0b51e43b9b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260917115500 +0000" stop="20260917134000 +0000">
-		<title>A Boy And His Dog</title>
-		<desc>This is the movie adaptation of famed writer Harlon Ellison's novella about a misogynistic society in a post World War IV civilization of 2024.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311792'&amp;EntityType='LinearSchedule'&amp;EntityId='7965b9fc-c6ba-403b-bf09-d11738766c3f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260917134000 +0000" stop="20260917160000 +0000">
-		<title>They Call Me Trinity</title>
-		<desc>A lazy, unorthodox gunfighter and his portly, horse-thieving brother defend a Mormon settlement from a land-grabbing Major, a Mexican bandit, and their henchmen.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311711'&amp;EntityType='LinearSchedule'&amp;EntityId='a86f1b5a-a3b1-43e4-bf4f-64b40bd12ceb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="556894" start="20260917160000 +0000" stop="20260917175500 +0000">
-		<title>Charro!</title>
-		<desc>Jess Wade is innocently accused of having stolen a cannon from the Mexican revolutionary forces. He tries to find the real culprits, a gang of criminals.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16330159'&amp;EntityType='LinearSchedule'&amp;EntityId='c22c7e7b-ad3b-4033-8a04-9464223734f0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916164500 +0000" stop="20260916183100 +0000">
-		<title>Bini Aku Dari...</title>
-		<desc>Lydia dan Rudy telah pun berkahwin. Lydia nak anak walaupun Rudy belum bersedia lagi. Perangai Lydia makin menjadi- jadi apabila mengikut hukum hakam dari kakiberamal.com.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346111'&amp;EntityType='LinearSchedule'&amp;EntityId='448e8321-1941-4fc8-a205-4c51d61905ad'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916183100 +0000" stop="20260916201200 +0000">
-		<title>Tebus</title>
-		<desc>Anak perempuan Mikail telah di culik dan untuk menyelamatkan anaknya dia cuba mengimbau kembali sejarah lampau dirinya ketika menyertai kumpulan gangster.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346103'&amp;EntityType='LinearSchedule'&amp;EntityId='1be86bf8-b49d-49aa-b11c-59fb92aa3a9a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916201200 +0000" stop="20260916215500 +0000">
-		<title>Survival 486</title>
-		<desc>Syuhada going hiking to Gunung Tahan with her friends. Unfortunately, she got lost and fell into a deep hole and trapped there for 19 days.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346107'&amp;EntityType='LinearSchedule'&amp;EntityId='b28f4440-21f4-4bd9-b7d6-fb63c09200f7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916215500 +0000" stop="20260916220000 +0000">
-		<title>We’ll be back at 6.00am</title>
-		<desc>We’ll be back at 6.00am</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346115'&amp;EntityType='LinearSchedule'&amp;EntityId='de3faf5e-ad9f-4c07-950c-6f3e3719df43'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916220000 +0000" stop="20260916233100 +0000">
-		<title>Cik Paris Diva Kampung</title>
-		<desc>Zulaikha merupakan seroang gadis bandar yang mencabar diri untuk hidup di kampung lalu terpikat dengan jejaka kampung yang berjaya menawan hatinya.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311956'&amp;EntityType='LinearSchedule'&amp;EntityId='2936c31e-70dd-4595-a5c9-4c2b44f28fc4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260916233100 +0000" stop="20260917011100 +0000">
-		<title>Budak Dari Tak Bai</title>
-		<desc>Melalui kehidupan yang getir, Johari meninggalkan Tak Bai pada zaman kanak-kanak ke Kota Bharu. Peristiwa hitam membuatkannya hanyut dalam dunia gelap. Dilakonkan oleh Kamal Adli dan Nabila Huda.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311921'&amp;EntityType='LinearSchedule'&amp;EntityId='5d12c696-54c2-4627-b9ab-857ce9ea6c0b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260917011100 +0000" stop="20260917024800 +0000">
-		<title>Delen</title>
-		<desc>Mengisahkan tentang Delen yang mula rasa terancam apabila Emily mula menyukai pelajar baru bernama Robert. Sejak itu, bermulalah persaingan antara Delen dan Robert demi merebut cinta Emily.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311873'&amp;EntityType='LinearSchedule'&amp;EntityId='67181758-4466-4567-a4e0-2bf645072e69'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260917024800 +0000" stop="20260917043300 +0000">
-		<title>Bro Jenin</title>
-		<desc>Kisah Jenin yang telah masuk ke zaman kini. Dia berjumpa dengan seorang animator, Emily. Wujud perbezaan pendapat maka terjadi lah kisah2 lucu dan akhirnya Jenin terpaksa pulang ke tempat asalnya.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311975'&amp;EntityType='LinearSchedule'&amp;EntityId='98d959ca-d9c4-4723-9032-580232197769'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260917043300 +0000" stop="20260917062600 +0000">
-		<title>Bibik Aku Nak Kahwin</title>
-		<desc>Milah yang terlalu berharap untuk berkahwin, akhirnya menemui jodoh secara tiba-tiba. Lakonan Didie Alias, Hairul Azreen dan Nabila AF.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311889'&amp;EntityType='LinearSchedule'&amp;EntityId='0a6f363b-58dd-4a23-9e55-f154b3d2201f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260917062600 +0000" stop="20260917081300 +0000">
-		<title>Baby-Sita</title>
-		<desc>Two grand-theft-auto and best friends Adam &amp; Hatim discovered a baby at the back seat of a stolen car. Keen to avoid detection, they take care of the baby while figuring out how to return the baby without getting caught</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311941'&amp;EntityType='LinearSchedule'&amp;EntityId='a2e3d488-3259-4b6e-9ba7-7359a38ced88'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260917081300 +0000" stop="20260917095400 +0000">
-		<title>Baby Jarum</title>
-		<desc>Mami Jarum is back! and this time Mami is making sure her grand-daughter Asyikin will marry the man of her choosing, however Asyikin has a better plan (or worse!) for herself.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16312007'&amp;EntityType='LinearSchedule'&amp;EntityId='1819bfe7-484c-46fa-b2ab-eedc7769f54a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260917095400 +0000" stop="20260917114000 +0000">
-		<title>Challenge Accepted</title>
-		<desc>Jeff seorang tiktokers terkenal. Jeff telah berjaya membuat seoarang gadis,Fatimah jatuh cinta padanya tetapi akhirnya Fatimah mendapat tahu yang Jeff hanya menggunakannya demi populariti.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16312024'&amp;EntityType='LinearSchedule'&amp;EntityId='73c87df3-7cf4-4c09-b462-ba64fff64d4e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260917114000 +0000" stop="20260917132500 +0000">
-		<title>Diari Chinta</title>
-		<desc>Chinta selalu gagal dalam cintanya diberikan sebuah diari ajaib untuk menulis babak cinta. Impian yang ditulis Chinta itu menjadi kenyataan dengan kemunculan Ben namun tidaklah selancar yang disangka.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16312038'&amp;EntityType='LinearSchedule'&amp;EntityId='f1579684-90fc-4d32-a728-4f79132f8f1c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260917132500 +0000" stop="20260917150700 +0000">
-		<title>Kipas Belum Mati</title>
-		<desc>Mia, seorang artis meningkat naik, membuka kelab peminatnya dan dibantu oleh Lynn yang menjadi pengurus. Dengan bantuan Lynn, kelabnya maju namun ada harga yang harus dibayar di sebalik kejayaan tersebut..</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311992'&amp;EntityType='LinearSchedule'&amp;EntityId='3829532d-1647-4043-ae6a-c20b387966c7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260917150700 +0000" stop="20260917165200 +0000">
-		<title>Geng</title>
-		<desc>Isabella is an ex-convict who has sworn off her life of crime. Unfortunately, her old gang boss wants her to do one last drug transaction and kidnaps her mother to blackmail Isabella. With the help of her high school best friends, Mariam and Anita, Isabella goes on a road trip to save her mother.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16311904'&amp;EntityType='LinearSchedule'&amp;EntityId='56ca2759-ef6c-4443-bcad-96d2db7e6c6e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916161300 +0000" stop="20260916170100 +0000">
-		<title>Keluarga Iskandar - EP12</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346579'&amp;EntityType='LinearSchedule'&amp;EntityId='a13f3ee3-1f34-4615-b0a8-06b4d2a48748'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916170100 +0000" stop="20260916175100 +0000">
-		<title>Keluarga Iskandar - EP13</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346527'&amp;EntityType='LinearSchedule'&amp;EntityId='83274866-adee-46af-9800-f58a17a66314'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916175100 +0000" stop="20260916184100 +0000">
-		<title>Selafaz Cinta - EP25</title>
-		<desc>Azrel berjaya menangkap gambar Reza memegang Liz. Azrel tak mahu Irsan tunjukkan gambar itu kepada Jannah. Ditto beritahu Dea, dia belum berjaya mendapat gambar baru Irsan dan Jasmin dan rasakan Irsan ada hantar orang untuk intip mereka. Reza marah kerana Liz masih selalu mendesak.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346463'&amp;EntityType='LinearSchedule'&amp;EntityId='37bfc405-3abd-4569-b19a-13010cf91dac'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916184100 +0000" stop="20260916193000 +0000">
-		<title>Selafaz Cinta - EP26</title>
-		<desc>Haris ugut Reza utk dapatkan balik hak keluarganya, kalau Reza tidak mahu gambar Reza dan Liz disebarkan kepada Jannah. Haris mahu Reza menolong mendapatkan kerja lamanya kembali. Mokhtar berjumpa Jannah dan Reza dan mahu ada agenda.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346603'&amp;EntityType='LinearSchedule'&amp;EntityId='0da71494-d31e-413f-8f9c-1437de07d969'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916193000 +0000" stop="20260916201700 +0000">
-		<title>Arluna - EP9</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346467'&amp;EntityType='LinearSchedule'&amp;EntityId='d280d014-4d2e-4d91-8f3e-8b2eb2f88a61'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916201700 +0000" stop="20260916210400 +0000">
-		<title>Arluna - EP10</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346531'&amp;EntityType='LinearSchedule'&amp;EntityId='e7ed8f7e-f866-4c6d-a1bf-d58cd661344c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916210400 +0000" stop="20260916213100 +0000">
-		<title>M.A.I.D - EP5</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346607'&amp;EntityType='LinearSchedule'&amp;EntityId='261f11b2-6ee8-494c-a82b-7299d3987b4a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916213100 +0000" stop="20260916215900 +0000">
-		<title>M.A.I.D - EP6</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346611'&amp;EntityType='LinearSchedule'&amp;EntityId='9997c9b9-b442-4701-b50d-7f8f75f55b06'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916215900 +0000" stop="20260916220000 +0000">
-		<title>We’ll be back at 6.00am</title>
-		<desc>We’ll be back at 6.00am</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346491'&amp;EntityType='LinearSchedule'&amp;EntityId='bf5b5f47-3d05-41ca-a05b-37fddc75ba93'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916220000 +0000" stop="20260916222800 +0000">
-		<title>M.A.I.D - EP7</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346471'&amp;EntityType='LinearSchedule'&amp;EntityId='a11bb2f9-0fc4-4296-8b73-c78768c55c97'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916222800 +0000" stop="20260916225600 +0000">
-		<title>M.A.I.D - EP8</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346588'&amp;EntityType='LinearSchedule'&amp;EntityId='4414ffa0-58bb-4526-80f1-e946c6a0e355'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916225600 +0000" stop="20260916234000 +0000">
-		<title>Keluarga Iskandar - EP14</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346535'&amp;EntityType='LinearSchedule'&amp;EntityId='7276348f-7a4c-4f31-8096-d684b81e7c64'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260916234000 +0000" stop="20260917002800 +0000">
-		<title>Keluarga Iskandar - EP15</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346615'&amp;EntityType='LinearSchedule'&amp;EntityId='faeacf58-5a61-4b29-83c5-96aad15b46a3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917002800 +0000" stop="20260917011700 +0000">
-		<title>Selafaz Cinta - EP27</title>
-		<desc>Haris terlanggar seseorang. Orang kampung kecoh tentang siapa yang melanggar. Jasmin buruk sangka pada Reza.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346541'&amp;EntityType='LinearSchedule'&amp;EntityId='25eb7a43-10be-453f-b2b9-baa4b64ee827'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917011700 +0000" stop="20260917020700 +0000">
-		<title>Selafaz Cinta - EP28</title>
-		<desc>Haris mahu Mokhtar membayar hutang. Jasmin tak suka Irsan terus memburuk-burukkan nama Mokhtar. Haris mahu Reza berhati-hati jika tahu Jannah baik dgn Mokhtar.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346495'&amp;EntityType='LinearSchedule'&amp;EntityId='8a535625-ecd4-4962-9645-7c6fad6ddede'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917020700 +0000" stop="20260917025700 +0000">
-		<title>Arluna - EP11</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346499'&amp;EntityType='LinearSchedule'&amp;EntityId='66bfc380-a1c2-4808-84cd-ce35141571ab'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917025700 +0000" stop="20260917034500 +0000">
-		<title>Arluna - EP12</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346503'&amp;EntityType='LinearSchedule'&amp;EntityId='54bcc08d-d48a-4b6a-8171-f5e4c790da3c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917034500 +0000" stop="20260917041300 +0000">
-		<title>M.A.I.D - EP7</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346475'&amp;EntityType='LinearSchedule'&amp;EntityId='da4d6026-059d-4eaf-a3d1-add1e29c79dc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917041300 +0000" stop="20260917044100 +0000">
-		<title>M.A.I.D - EP8</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346619'&amp;EntityType='LinearSchedule'&amp;EntityId='12058b1b-06a9-4904-bfdb-9f16e44a0fa9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917044100 +0000" stop="20260917052500 +0000">
-		<title>Keluarga Iskandar - EP14</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346519'&amp;EntityType='LinearSchedule'&amp;EntityId='75243631-c6c8-44c6-baaa-3e085ff09b58'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917052500 +0000" stop="20260917061300 +0000">
-		<title>Keluarga Iskandar - EP15</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346523'&amp;EntityType='LinearSchedule'&amp;EntityId='f5c08cec-a369-4f01-b84f-c7296e3d95ba'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917061300 +0000" stop="20260917070200 +0000">
-		<title>Selafaz Cinta - EP27</title>
-		<desc>Haris terlanggar seseorang. Orang kampung kecoh tentang siapa yang melanggar. Jasmin buruk sangka pada Reza.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346563'&amp;EntityType='LinearSchedule'&amp;EntityId='62525c80-8ab3-48b8-895a-56c75b8a2acf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917070200 +0000" stop="20260917075200 +0000">
-		<title>Selafaz Cinta - EP28</title>
-		<desc>Haris mahu Mokhtar membayar hutang. Jasmin tak suka Irsan terus memburuk-burukkan nama Mokhtar. Haris mahu Reza berhati-hati jika tahu Jannah baik dgn Mokhtar.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346571'&amp;EntityType='LinearSchedule'&amp;EntityId='e832d920-5e9c-4020-86b8-90431556898b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917075200 +0000" stop="20260917084200 +0000">
-		<title>Arluna - EP11</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346479'&amp;EntityType='LinearSchedule'&amp;EntityId='fd580421-ac08-4dc7-a896-2d9d6898a4ff'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917084200 +0000" stop="20260917093000 +0000">
-		<title>Arluna - EP12</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346507'&amp;EntityType='LinearSchedule'&amp;EntityId='1604494f-622e-4726-8a96-eb62ffdc1563'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917093000 +0000" stop="20260917095800 +0000">
-		<title>M.A.I.D - EP7</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346483'&amp;EntityType='LinearSchedule'&amp;EntityId='bc9881cf-7f3c-4e2c-a6f1-a43c849347dc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917095800 +0000" stop="20260917102600 +0000">
-		<title>M.A.I.D - EP8</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346623'&amp;EntityType='LinearSchedule'&amp;EntityId='de17a995-8357-4901-8088-287814eeabbf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917102600 +0000" stop="20260917111000 +0000">
-		<title>Keluarga Iskandar - EP14</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346627'&amp;EntityType='LinearSchedule'&amp;EntityId='7054805b-61f8-401f-ac1f-7280a977c166'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917111000 +0000" stop="20260917115800 +0000">
-		<title>Keluarga Iskandar - EP15</title>
-		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346487'&amp;EntityType='LinearSchedule'&amp;EntityId='f4bd5af9-9b5e-4700-92c0-d24750d6b3d1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917115800 +0000" stop="20260917124700 +0000">
-		<title>Selafaz Cinta - EP27</title>
-		<desc>Haris terlanggar seseorang. Orang kampung kecoh tentang siapa yang melanggar. Jasmin buruk sangka pada Reza.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346547'&amp;EntityType='LinearSchedule'&amp;EntityId='fb382b9a-6c6b-4e3a-897d-4d74d55f526e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917124700 +0000" stop="20260917133700 +0000">
-		<title>Selafaz Cinta - EP28</title>
-		<desc>Haris mahu Mokhtar membayar hutang. Jasmin tak suka Irsan terus memburuk-burukkan nama Mokhtar. Haris mahu Reza berhati-hati jika tahu Jannah baik dgn Mokhtar.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346511'&amp;EntityType='LinearSchedule'&amp;EntityId='a954e8f3-ce21-4d59-98f7-1469d6dca23b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917133700 +0000" stop="20260917142700 +0000">
-		<title>Arluna - EP11</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346595'&amp;EntityType='LinearSchedule'&amp;EntityId='1c11a3f6-19dd-4d7a-8412-b6b5b5ff1b92'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917142700 +0000" stop="20260917151500 +0000">
-		<title>Arluna - EP12</title>
-		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346554'&amp;EntityType='LinearSchedule'&amp;EntityId='470a65c1-847d-4142-81ca-18953617f1d0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917151500 +0000" stop="20260917154300 +0000">
-		<title>M.A.I.D - EP7</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346599'&amp;EntityType='LinearSchedule'&amp;EntityId='9475b0f7-49fb-4ea0-bd5c-2f949bc352e8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558271" start="20260917154300 +0000" stop="20260917161100 +0000">
-		<title>M.A.I.D - EP8</title>
-		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346515'&amp;EntityType='LinearSchedule'&amp;EntityId='4aefae30-3f5d-4977-b01a-298a309b6e01'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916170000 +0000" stop="20260916180000 +0000">
-		<title>Neeya Naana - EP748</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344306'&amp;EntityType='LinearSchedule'&amp;EntityId='858b7fbf-174c-4f0d-9678-5c35c6e26922'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916180000 +0000" stop="20260916190000 +0000">
-		<title>Neeya Naana - EP749</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344318'&amp;EntityType='LinearSchedule'&amp;EntityId='47bb04c2-6cfa-4601-b5c3-f4bbd5044d85'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916190000 +0000" stop="20260916200000 +0000">
-		<title>Neeya Naana - EP750</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344330'&amp;EntityType='LinearSchedule'&amp;EntityId='b42b6ccf-911e-4234-ad5e-ab66f6dabfe8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916200000 +0000" stop="20260916210000 +0000">
-		<title>Neeya Naana - EP751</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344255'&amp;EntityType='LinearSchedule'&amp;EntityId='4310a147-2841-4205-b1ca-b09fabdf6e98'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916210000 +0000" stop="20260916220000 +0000">
-		<title>Neeya Naana - EP752</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344262'&amp;EntityType='LinearSchedule'&amp;EntityId='b4f7fd23-1031-4a8b-9205-bc00da521f6d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916220000 +0000" stop="20260916230000 +0000">
-		<title>Neeya Naana - EP753</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344290'&amp;EntityType='LinearSchedule'&amp;EntityId='d1ebe833-7994-4819-a47b-14071657819c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260916230000 +0000" stop="20260917000000 +0000">
-		<title>Neeya Naana - EP754</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344266'&amp;EntityType='LinearSchedule'&amp;EntityId='1fb17c23-a80f-4983-ba81-b75fd5206b81'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917000000 +0000" stop="20260917010000 +0000">
-		<title>Neeya Naana - EP755</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344310'&amp;EntityType='LinearSchedule'&amp;EntityId='7b0c00d2-208e-4485-98d3-9e6cb47fac86'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917010000 +0000" stop="20260917020000 +0000">
-		<title>Neeya Naana - EP756</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344322'&amp;EntityType='LinearSchedule'&amp;EntityId='1e4d0598-2576-4051-95b8-bee357cf1ed7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917020000 +0000" stop="20260917030000 +0000">
-		<title>Neeya Naana - EP757</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344334'&amp;EntityType='LinearSchedule'&amp;EntityId='df7e1084-64e6-4172-8555-7dcf7e27f4c9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917030000 +0000" stop="20260917040000 +0000">
-		<title>Neeya Naana - EP758</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344270'&amp;EntityType='LinearSchedule'&amp;EntityId='27402b20-15dd-43ff-b4ae-0ee156036f4b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917040000 +0000" stop="20260917050000 +0000">
-		<title>Neeya Naana - EP759</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344338'&amp;EntityType='LinearSchedule'&amp;EntityId='9cf53d01-9241-4e96-bac5-c2ed2620d275'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917050000 +0000" stop="20260917060000 +0000">
-		<title>Neeya Naana - EP760</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344274'&amp;EntityType='LinearSchedule'&amp;EntityId='d75f9e12-5632-46ec-9276-da2c0b6cf5bf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917060000 +0000" stop="20260917070000 +0000">
-		<title>Neeya Naana - EP750</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344278'&amp;EntityType='LinearSchedule'&amp;EntityId='d9858ffb-119d-4597-bff7-8cd2ccfc3ff2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917070000 +0000" stop="20260917080000 +0000">
-		<title>Neeya Naana - EP751</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344282'&amp;EntityType='LinearSchedule'&amp;EntityId='2e135525-394c-449b-90b9-ffaa752540a1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917080000 +0000" stop="20260917090000 +0000">
-		<title>Neeya Naana - EP640</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344286'&amp;EntityType='LinearSchedule'&amp;EntityId='750e1dfb-5201-4076-9029-572b40978e7e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917090000 +0000" stop="20260917100000 +0000">
-		<title>Neeya Naana - EP641</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344294'&amp;EntityType='LinearSchedule'&amp;EntityId='ea9ac2ca-cd2a-4959-920a-0d88496cf5ac'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917100000 +0000" stop="20260917110000 +0000">
-		<title>Neeya Naana - EP940</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344326'&amp;EntityType='LinearSchedule'&amp;EntityId='1bfc181e-3c1b-40fe-9b79-cf5d3f5ee115'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917110000 +0000" stop="20260917140000 +0000">
-		<title>Aadu 2</title>
-		<desc>Shaji Pappan and his gang try to redeem their arts club through a game of tug-o-war. Chaos erupts as the half-witted gang gets entangled in a bigger conspiracy.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16344298'&amp;EntityType='LinearSchedule'&amp;EntityId='ec61bd06-5f4d-4ebd-9d0f-e38e05e11f82'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917140000 +0000" stop="20260917150000 +0000">
-		<title>Neeya Naana - EP941</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344314'&amp;EntityType='LinearSchedule'&amp;EntityId='ca35e50c-8537-4786-8575-a6eea99dcfc8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917150000 +0000" stop="20260917160000 +0000">
-		<title>Neeya Naana - EP653</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344302'&amp;EntityType='LinearSchedule'&amp;EntityId='e5958266-6afd-4224-8fef-740adc8c92e3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20260917160000 +0000" stop="20260917170000 +0000">
-		<title>Neeya Naana - EP761</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16344342'&amp;EntityType='LinearSchedule'&amp;EntityId='1ec78164-a9a2-4d8e-b688-b3d6d2ddaa24'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916173239 +0000" stop="20260916180559 +0000">
-		<title>The Best of FIFA Women's World Cup USA 2003™</title>
-		<desc>A showcase of the tournament’s top goals, assists, and award-winning moments from USA 2003.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346915'&amp;EntityType='LinearSchedule'&amp;EntityId='f02e5fe9-f7a3-42be-96de-d054bc593c2c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916180559 +0000" stop="20260916201755 +0000">
-		<title>Portugal v USA | Group E | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Portugal and USA at Eden Park, Auckland.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346907'&amp;EntityType='LinearSchedule'&amp;EntityId='ff6c1ca6-ad3b-44c6-b9f1-797c32e578e8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916201755 +0000" stop="20260916223438 +0000">
-		<title>Canada v Australia | Group B | FIFA Women's World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Canada and Australia at Melbourne Rectangular Stadium, Melbourne.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346899'&amp;EntityType='LinearSchedule'&amp;EntityId='82815313-d5c3-428b-8c87-170737eb5684'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260916223438 +0000" stop="20260917005111 +0000">
-		<title>England v Colombia | Quarter-final | FIFA Women's World Cup 2023 | Full Match Replay</title>
-		<desc>Watch the full match replay between England and Colombia played at Stadium Australia, Sydney.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16346903'&amp;EntityType='LinearSchedule'&amp;EntityId='f9f47a17-0c5e-4f4f-a797-b05656ec3245'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260917005111 +0000" stop="20260917024435 +0000">
-		<title>Brazil v Spain | Final | FIFA Confederations Cup Brazil 2013™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and Spain played at Estadio do Maracana.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16363951'&amp;EntityType='LinearSchedule'&amp;EntityId='fbeb39f3-5e45-4a78-89d3-fb0e3fd34409'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260917024435 +0000" stop="20260917043556 +0000">
-		<title>Santos v Barcelona | Final | FIFA Club World Cup Japan 2011™ | Full Match Replay</title>
-		<desc>The now called FIFA Intercontinental Cup full match replay between Santos and Barcelona.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16363987'&amp;EntityType='LinearSchedule'&amp;EntityId='0033bf19-058d-49f1-b44b-2d5495b57686'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260917043556 +0000" stop="20260917063422 +0000">
-		<title>FC Internazionale Milano v Urawa Red Diamonds | Group E | FIFA Club World Cup 2025™ | Full Match Replay</title>
-		<desc>Watch the full match replay between FC Internazionale Milano and Urawa Red Diamonds.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16363955'&amp;EntityType='LinearSchedule'&amp;EntityId='b0c5a002-ca7d-43ff-9af1-c64d51f063d8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260917063422 +0000" stop="20260917083027 +0000">
-		<title>Borussia Dortmund v CF Monterrey | Round of 16 | FIFA Club World Cup 2025™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Borussia Dortmund and CF Monterrey played at Mercedes-Benz Stadium.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16363991'&amp;EntityType='LinearSchedule'&amp;EntityId='2dffb78e-1051-4b78-85bb-290f9bf0f6e1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260917083027 +0000" stop="20260917085531 +0000">
-		<title>The Start: Messi v Serbia and Montenegro 2006™</title>
-		<desc>Enjoy Lionel Messi's first match in the FIFA World Cup™.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16363967'&amp;EntityType='LinearSchedule'&amp;EntityId='a0a606f5-b620-4078-8758-37445849ab21'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260917085531 +0000" stop="20260917091834 +0000">
-		<title>Legends Unite: Messi and Maradona in South Africa 2010™</title>
-		<desc>Look back at the two Argentine stars together: one on the field and the other on the sidelines.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16363959'&amp;EntityType='LinearSchedule'&amp;EntityId='2068cb58-b982-4a07-b7c0-7678b721b01f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260917091834 +0000" stop="20260917102232 +0000">
-		<title>Road to Maracana | The Official Film of the 2014 FIFA World Cup™</title>
-		<desc>Relive a FIFA World Cup™ featuring the hypnotising trickery of Neymar</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16363979'&amp;EntityType='LinearSchedule'&amp;EntityId='f406cdeb-cc64-41ca-b19a-cff6a241b380'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260917102232 +0000" stop="20260917105041 +0000">
-		<title>The Missed Chance: Messi's Russia 2018 World Cup</title>
-		<desc>See how Lionel Messi performed in the 2018 FIFA World Cup™</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16363975'&amp;EntityType='LinearSchedule'&amp;EntityId='cec1af88-dbab-4e22-a22b-c085322d0d85'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260917105041 +0000" stop="20260917124405 +0000">
-		<title>Brazil v Spain | Final | FIFA Confederations Cup Brazil 2013™ | Full Match Replay</title>
-		<desc>Watch the full match replay between Brazil and Spain played at Estadio do Maracana.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16363963'&amp;EntityType='LinearSchedule'&amp;EntityId='c523a077-ea0a-4da3-b007-759d3527f92b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260917124405 +0000" stop="20260917143525 +0000">
-		<title>Santos v Barcelona | Final | FIFA Club World Cup Japan 2011™ | Full Match Replay</title>
-		<desc>The now called FIFA Intercontinental Cup full match replay between Santos and Barcelona.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16363983'&amp;EntityType='LinearSchedule'&amp;EntityId='13556aaa-dfe9-4785-916c-5120702d8e71'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="557763" start="20260917143525 +0000" stop="20260917163351 +0000">
-		<title>FC Internazionale Milano v Urawa Red Diamonds | Group E | FIFA Club World Cup 2025™ | Full Match Replay</title>
-		<desc>Watch the full match replay between FC Internazionale Milano and Urawa Red Diamonds.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16363971'&amp;EntityType='LinearSchedule'&amp;EntityId='ad50974d-ee38-4246-bebe-7762cafd6c42'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
