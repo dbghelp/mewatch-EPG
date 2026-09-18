@@ -64,6 +64,10 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
+	<channel id="98201">
+		<display-name>SPL CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -91,10 +95,6 @@
 	<channel id="558241">
 		<display-name>River Monsters</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089297'&amp;EntityType='Item'&amp;EntityId='558241'&amp;Width=150&amp;Height=59" />
-	</channel>
-	<channel id="773721">
-		<display-name>That's 80s</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13362956'&amp;EntityType='Item'&amp;EntityId='773721'&amp;Width=264&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260917160000 +0000" stop="20260917163000 +0000">
 		<title>Yes Captain! - EP 24</title>
@@ -1366,57 +1366,57 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337207'&amp;EntityType='LinearSchedule'&amp;EntityId='2094c259-7e3f-416f-858e-48b40c166745'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260917235000 +0000" stop="20260918013000 +0000">
+	<programme channel="840093" start="20260917235000 +0000" stop="20260918012600 +0000">
 		<title>Hockey - 20th Asian Games Aichi-Nagoya 2026 Men's Pool Stage - CHN vs OMA</title>
 		<desc>Men's Pool Stage - China vs Oman</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16337100'&amp;EntityType='LinearSchedule'&amp;EntityId='5c933192-b977-43d9-9f6b-f82278042559'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260918013000 +0000" stop="20260918020000 +0000">
+	<programme channel="840093" start="20260918012600 +0000" stop="20260918015000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337226'&amp;EntityType='LinearSchedule'&amp;EntityId='65988273-bbda-4d59-a9db-656392bacc8e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16469950'&amp;EntityType='LinearSchedule'&amp;EntityId='e17cacaa-b09c-45d5-8af9-4cd76a5a619f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260918020000 +0000" stop="20260918033000 +0000">
+	<programme channel="840093" start="20260918015000 +0000" stop="20260918033500 +0000">
 		<title>Hockey - 20th Asian Games Aichi-Nagoya 2026 Men's Pool Stage - KOR vs BAN</title>
 		<desc>Men's Pool Stage - Korea vs Bangladesh</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16337166'&amp;EntityType='LinearSchedule'&amp;EntityId='1db62917-f5af-40b3-aa21-b54a06b51e45'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260918033000 +0000" stop="20260918040000 +0000">
+	<programme channel="840093" start="20260918033500 +0000" stop="20260918035000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337109'&amp;EntityType='LinearSchedule'&amp;EntityId='c0c9639e-59ee-4c7b-a0f4-0f064941ab32'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16482458'&amp;EntityType='LinearSchedule'&amp;EntityId='2f8c0a1f-94d4-4ec4-915d-99484af112c6'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260918040000 +0000" stop="20260918053000 +0000">
+	<programme channel="840093" start="20260918035000 +0000" stop="20260918053000 +0000">
 		<title>Hockey - 20th Asian Games Aichi-Nagoya 2026 Women's Pool Stage - KOR vs TPE</title>
 		<desc>Women's Pool Stage - Korea vs Chinese Taipei</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16337139'&amp;EntityType='LinearSchedule'&amp;EntityId='71f3eefb-8ea5-4fa1-b4dd-14367c9df715'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260918053000 +0000" stop="20260918060000 +0000">
+	<programme channel="840093" start="20260918053000 +0000" stop="20260918055000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337118'&amp;EntityType='LinearSchedule'&amp;EntityId='aa72d85a-eee8-4ef5-84f2-c553808ac466'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260918060000 +0000" stop="20260918073000 +0000">
+	<programme channel="840093" start="20260918055000 +0000" stop="20260918073000 +0000">
 		<title>Hockey - 20th Asian Games Aichi-Nagoya 2026 Women's Pool Stage - THA vs SGP</title>
 		<desc>Women's Pool Stage - Thailand vs Singapore</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16337122'&amp;EntityType='LinearSchedule'&amp;EntityId='8eca7755-2a73-4d68-b79a-d8ab6ce54d9e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260918073000 +0000" stop="20260918080000 +0000">
+	<programme channel="840093" start="20260918073000 +0000" stop="20260918075000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337148'&amp;EntityType='LinearSchedule'&amp;EntityId='ede58185-ba2d-4012-8b5b-76220f00a6a8'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260918080000 +0000" stop="20260918093000 +0000">
+	<programme channel="840093" start="20260918075000 +0000" stop="20260918093000 +0000">
 		<title>Hockey - 20th Asian Games Aichi-Nagoya 2026 Women's Pool Stage - JPN vs INA</title>
 		<desc>Women's Pool Stage - Japan vs Indonesia</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16337155'&amp;EntityType='LinearSchedule'&amp;EntityId='8102db9a-f040-4bfa-bdfa-bc996784f322'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260918093000 +0000" stop="20260918100000 +0000">
+	<programme channel="840093" start="20260918093000 +0000" stop="20260918095000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337130'&amp;EntityType='LinearSchedule'&amp;EntityId='483ff76b-2057-4b17-b853-137fbdd4af1d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260918100000 +0000" stop="20260918113000 +0000">
+	<programme channel="840093" start="20260918095000 +0000" stop="20260918113000 +0000">
 		<title>Hockey - 20th Asian Games Aichi-Nagoya 2026 Women's Pool Stage - MAS vs KAZ</title>
 		<desc>Women's Pool Stage - Malaysia vs Kazakhstan</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16337174'&amp;EntityType='LinearSchedule'&amp;EntityId='9548d307-ecb5-4b76-862c-b272c28431c2'&amp;Width=1280&amp;Height=720" />
@@ -1490,6 +1490,16 @@
 		<title>No Programme available now. Next Broadcast on 19th September, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Balestier Khalsa FC vs Tanjong Pagar United FC on 19th September, Saturday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16349315'&amp;EntityType='LinearSchedule'&amp;EntityId='3d35b776-d019-4239-991f-30da9400700f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260917160000 +0000" stop="20260918160000 +0000">
+		<title>No Programme available now. Next Broadcast on 19th September, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Young Lions vs Geylang International FC on 19th September, Saturday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16328113'&amp;EntityType='LinearSchedule'&amp;EntityId='c138bc27-552f-44b6-8982-0dd19442fe88'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260918160000 +0000" stop="20260919112000 +0000">
+		<title>No Programme available now. Next Broadcast on 19th September, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Young Lions vs Geylang International FC on 19th September, Saturday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16349333'&amp;EntityType='LinearSchedule'&amp;EntityId='8ad46359-9db0-4574-8a5f-e1e83b4adb12'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260917160000 +0000" stop="20260918110000 +0000">
 		<title>No programme available now. Next broadcast on 18th September, Friday 7pm. The Wonder Shop Home Shopping</title>
@@ -2276,86 +2286,6 @@
 		<desc>Jeremy Wade heads to the jungles of South America to track down a dangerous fish.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16362148'&amp;EntityType='LinearSchedule'&amp;EntityId='3c5bdab1-d10d-4e69-b8cc-d93375858a55'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="773721" start="20260917160000 +0000" stop="20260917170000 +0000">
-		<title>Girls Of The 80s!</title>
-		<desc>Style, Sass and songs that defined a decade. These are the girls that ruled the 80s.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337663'&amp;EntityType='LinearSchedule'&amp;EntityId='1a4de191-f130-4928-bfbb-bbc855840588'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260917170000 +0000" stop="20260917190000 +0000">
-		<title>80s Karaoke Party!</title>
-		<desc>Grab your hairbrush cos its time to belt out some iconic 80s lyrics!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337645'&amp;EntityType='LinearSchedule'&amp;EntityId='3dc7dc4d-8214-419e-ad3e-c68ee00ca405'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260917190000 +0000" stop="20260917200000 +0000">
-		<title>Crush On You! 80s Hearthrobs!</title>
-		<desc>These are the ones that stole our hearts and gave us sweet dreams in the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337649'&amp;EntityType='LinearSchedule'&amp;EntityId='89decf4c-ea3f-46c1-8f91-0402d15d0c06'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260917200000 +0000" stop="20260917220000 +0000">
-		<title>I Want My 80s Hits!</title>
-		<desc>All the big hits to take you back to the best decade in music</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337654'&amp;EntityType='LinearSchedule'&amp;EntityId='7d01609d-50e1-4be2-9719-d4c659c762a4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260917220000 +0000" stop="20260917230000 +0000">
-		<title>Kings &amp; Queens Of The Decade!</title>
-		<desc>This is your pure pop royalty playlist right now, as we bring you the Kings and Queens of the 80s!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337600'&amp;EntityType='LinearSchedule'&amp;EntityId='041c3ec1-59aa-481d-aa66-b63f1ae7749e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260917230000 +0000" stop="20260918010000 +0000">
-		<title>Supermassive 80s Rock Hits!</title>
-		<desc>Big Choruses, big hair and big riffs! Check out these supermassive Rock hits from the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337605'&amp;EntityType='LinearSchedule'&amp;EntityId='65c30482-634b-4026-8777-21a9ea95b42d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918010000 +0000" stop="20260918030000 +0000">
-		<title>Ultimate 80s Love Songs!</title>
-		<desc>A swoon-worthy collection of the biggest love songs that ruled the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337609'&amp;EntityType='LinearSchedule'&amp;EntityId='58f1db90-99f0-425c-be8c-4537ea818fde'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918030000 +0000" stop="20260918050000 +0000">
-		<title>Hottest Hits Of The 80s!</title>
-		<desc>Chart toppers, dance floor fillers and guitar anthems, this chart has it all! Stay with us to find out who makes it to the top.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337613'&amp;EntityType='LinearSchedule'&amp;EntityId='45b9143c-172a-401c-a24a-19cc8e16edef'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918050000 +0000" stop="20260918070000 +0000">
-		<title>Cheesy 80s Classics!</title>
-		<desc>Cheesy sing a long tunes to take you back to the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337617'&amp;EntityType='LinearSchedule'&amp;EntityId='cef57e1c-e4a2-43bd-830f-f061b56cf36d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918070000 +0000" stop="20260918080000 +0000">
-		<title>80s Pop Pin-Ups!</title>
-		<desc>Get ready for the pop prince and princesses that sole our hearts and minds in the 1980s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337621'&amp;EntityType='LinearSchedule'&amp;EntityId='4fbb17cd-ba96-460a-923c-bafd9dcf9374'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918080000 +0000" stop="20260918090000 +0000">
-		<title>80s Workout Anthems!</title>
-		<desc>Legwarmers and headbands at the ready! It's time for non stop 80s hits that will work up a sweat!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337637'&amp;EntityType='LinearSchedule'&amp;EntityId='c311e5c0-2631-456a-924a-7330cd485b27'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918090000 +0000" stop="20260918110000 +0000">
-		<title>Gold! The Biggest Hits 1980 - 1989!</title>
-		<desc>Every single track in this playlist is guarenteed to bring you a rush of pure solid gold nostalgia!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337625'&amp;EntityType='LinearSchedule'&amp;EntityId='f0e01a26-a315-4765-8d23-85540a5cce53'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918110000 +0000" stop="20260918130000 +0000">
-		<title>Ultimate 80s Love Songs!</title>
-		<desc>A swoon-worthy collection of the biggest love songs that ruled the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337641'&amp;EntityType='LinearSchedule'&amp;EntityId='52aa41b8-3f1a-4769-ad9d-cc36831b7fa9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918130000 +0000" stop="20260918140000 +0000">
-		<title>80s Movie Magic!</title>
-		<desc>The 80s brought us some of the biggest movies with the coolest soundtracks! Stay tuned for blockbuster hits.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337629'&amp;EntityType='LinearSchedule'&amp;EntityId='c72d0e67-61a3-412d-97b4-a92e080364db'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918140000 +0000" stop="20260918160000 +0000">
-		<title>80s Karaoke Party!</title>
-		<desc>Grab your hairbrush cos its time to belt out some iconic 80s lyrics!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16337633'&amp;EntityType='LinearSchedule'&amp;EntityId='f5ae74c3-f8bc-4b07-81bb-e7ee2ba54cad'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918160000 +0000" stop="20260918170000 +0000">
-		<title>Big Hair, Big Hits!</title>
-		<desc>The biggest hits from the most iconic hairstyles of the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359871'&amp;EntityType='LinearSchedule'&amp;EntityId='e70801b5-7a6c-459b-8923-59078b2adfd8'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260918163000 +0000" stop="20260918173000 +0000">
 		<title>Expedition With Steve Backshall - Series 2 - EP 4</title>
 		<desc>Returning season. Features three-time BAFTA-winning adventurer and wildlife expert, Steve Backshall as he ventures into uncharted territory in pursuit of new discoveries and world firsts.</desc>
@@ -2522,7 +2452,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16349668'&amp;EntityType='LinearSchedule'&amp;EntityId='aa68d8bd-4599-4ea1-901c-169127ff1709'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260919085000 +0000" stop="20260919110000 +0000">
-		<title>(Live) 20th Asian Games Aichi-Nagoya 2026: Opening Ceremony - Opening Ceremony</title>
+		<title>(Live) 20th Asian Games Aichi-Nagoya 2026 - Opening Ceremony</title>
 		<desc>Asian Games Aichi–Nagoya 2026-Asia’s premier multi-sport event from Sep 19 to Oct 4 in Japan, featuring 41 sports and top athletes from across the continent.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16349906'&amp;EntityType='LinearSchedule'&amp;EntityId='c7b7ca9a-118d-4403-b6a6-080eb47a50a0'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -3034,7 +2964,7 @@
 	<programme channel="97096" start="20260919050000 +0000" stop="20260919080000 +0000">
 		<title>Saradha</title>
 		<desc>Sarada falls in love with her professor Sambandham and gets married. However, distress shadows the couple when Sambandham meets with an accident.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16349289'&amp;EntityType='LinearSchedule'&amp;EntityId='dd2655d4-68ad-49b0-8e71-3b0ca2c29a2e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16482505'&amp;EntityType='LinearSchedule'&amp;EntityId='dd2655d4-68ad-49b0-8e71-3b0ca2c29a2e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20260919080000 +0000" stop="20260919110000 +0000">
 		<title>Housefull</title>
@@ -3480,6 +3410,21 @@
 		<title>No Programme available now. Next Broadcast on 10th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Geylang International FC vs FC Jurong on 10th October, Saturday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16367216'&amp;EntityType='LinearSchedule'&amp;EntityId='908794e2-dcef-4183-99b3-06388d7d4e1a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260919112000 +0000" stop="20260919140000 +0000">
+		<title>Singapore Premier League 2026/2027: Young Lions vs Geylang International FC </title>
+		<desc>The Singapore Premier League 2026/2027 is the 9th season of the Singapore Premier League. A total of eight teams are taking part in a triple round-robin format. Will Lion City Sailors continue to defend their champion title, having won two consecutive titles, or will another club be crowned as the new champion?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16349341'&amp;EntityType='LinearSchedule'&amp;EntityId='1affcbc2-550d-4481-8261-421d94c5e978'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260919140000 +0000" stop="20260919160000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Lion City Sailors FC vs Young Lions on 11th October, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16448635'&amp;EntityType='LinearSchedule'&amp;EntityId='80517b5c-b945-4db2-bedd-58393b5423de'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20260919160000 +0000" stop="20260920160000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Lion City Sailors FC vs Young Lions on 11th October, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16367252'&amp;EntityType='LinearSchedule'&amp;EntityId='79b970b6-863c-443c-bfe1-80ec2bff0323'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20260919110000 +0000" stop="20260919111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Acerpure Water Purifier + Air Fryer</title>
@@ -4130,75 +4075,5 @@
 		<title>River Monsters: Top Ten - River Monsters: Top Ten</title>
 		<desc>Jeremy Wade brings together the top ten biggest and baddest catches of his career.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16382025'&amp;EntityType='LinearSchedule'&amp;EntityId='071ca288-bd81-4184-98de-3b397b63ada6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918170000 +0000" stop="20260918190000 +0000">
-		<title>Get Into The 80s Groove!</title>
-		<desc>Get into the groove as we play you the biggest club classis from 1980 - 1989</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359899'&amp;EntityType='LinearSchedule'&amp;EntityId='76de84af-f364-4366-91da-bf5d8ea9bee1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918190000 +0000" stop="20260918210000 +0000">
-		<title>You Spin Me Round: Throwback Party!</title>
-		<desc>Bust out the legwarmers and hit the 80s disco of dreams, as we bring you the perfect throwback party playlist</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359945'&amp;EntityType='LinearSchedule'&amp;EntityId='293404ed-f39d-44b3-8fda-5bc348c6b56d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918210000 +0000" stop="20260918230000 +0000">
-		<title>80s Flashback House Party!</title>
-		<desc>Transport yourself back to the 80s for one supermassive house party!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359922'&amp;EntityType='LinearSchedule'&amp;EntityId='a41fc599-680d-4c0a-afa1-0a86125cc501'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260918230000 +0000" stop="20260919010000 +0000">
-		<title>Cheesy 80s Tunes!</title>
-		<desc>The 80s was full of cheese and we loved it! Here are the biggest full fat anthems.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359905'&amp;EntityType='LinearSchedule'&amp;EntityId='1d28c9dd-c419-45e0-9dda-b673ff51941a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260919010000 +0000" stop="20260919030000 +0000">
-		<title>Supermassive 80s Rock Hits!</title>
-		<desc>Big Choruses, big hair and big riffs! Check out these supermassive Rock hits from the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359949'&amp;EntityType='LinearSchedule'&amp;EntityId='6f00f46a-622d-4e43-8c08-cc5a84c47fe3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260919030000 +0000" stop="20260919050000 +0000">
-		<title>Straight Up 80s Hits!</title>
-		<desc>No nonsense, just straight up 80s hits from the most iconic decade in music</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359881'&amp;EntityType='LinearSchedule'&amp;EntityId='a049c859-8172-40b9-b5a2-69c0d4ff33cf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260919050000 +0000" stop="20260919070000 +0000">
-		<title>80s Girls just wanna have fun!</title>
-		<desc>The very best Pop Queens of the 1980s for your viewing pleasure</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359956'&amp;EntityType='LinearSchedule'&amp;EntityId='2c9e6d75-30de-4f5e-879e-ba21090cea41'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260919070000 +0000" stop="20260919080000 +0000">
-		<title>Strike A Pose: 80s Fashion icons!</title>
-		<desc>The trendsetters that defined the decade! Unforgettable outfits, hair and music videos!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359891'&amp;EntityType='LinearSchedule'&amp;EntityId='89d35e87-2b5d-4a28-a500-bed3c1bb5589'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260919080000 +0000" stop="20260919100000 +0000">
-		<title>80s Chart Rewind!</title>
-		<desc>This playlist is packed with all the hits that made the 80s cool!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359965'&amp;EntityType='LinearSchedule'&amp;EntityId='27f6e51b-1230-47a1-a2d3-313a492ef98f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260919100000 +0000" stop="20260919110000 +0000">
-		<title>Kings &amp; Queens Of The Decade!</title>
-		<desc>This is your pure pop royalty playlist right now, as we bring you the Kings and Queens of the 80s!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359909'&amp;EntityType='LinearSchedule'&amp;EntityId='61944ca3-6fb7-4db9-8c38-dd8b440603cd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260919110000 +0000" stop="20260919120000 +0000">
-		<title>Crush On You! 80s Hearthrobs!</title>
-		<desc>These are the ones that stole our hearts and gave us sweet dreams in the 80s</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359913'&amp;EntityType='LinearSchedule'&amp;EntityId='eb1cef49-4100-4eac-85ce-f8e0efd912fe'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260919120000 +0000" stop="20260919140000 +0000">
-		<title>I Want My 80s Hits!</title>
-		<desc>All the big hits to take you back to the best decade in music</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359933'&amp;EntityType='LinearSchedule'&amp;EntityId='cd0d758e-3ee7-4c59-ad88-267b54da91c8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260919140000 +0000" stop="20260919160000 +0000">
-		<title>Groovy Kind Of Love: 80s Ballads!</title>
-		<desc>Larger than life 80s ballads to get you in the mood for love.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16359941'&amp;EntityType='LinearSchedule'&amp;EntityId='037d29bc-e398-43da-be16-be4c71bccadf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="773721" start="20260919160000 +0000" stop="20260919180000 +0000">
-		<title>Cheesy 80s Tunes!</title>
-		<desc>The 80s was full of cheese and we loved it! Here are the biggest full fat anthems.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16379181'&amp;EntityType='LinearSchedule'&amp;EntityId='58f68606-6fc6-404e-bf9f-610f8219f7af'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
