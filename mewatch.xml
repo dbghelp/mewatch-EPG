@@ -56,10 +56,6 @@
 		<display-name>FIFA U20 Ch01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16179084'&amp;EntityType='Item'&amp;EntityId='839745'&amp;Width=80&amp;Height=80" />
 	</channel>
-	<channel id="839744">
-		<display-name>FIFA U20 Ch02</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16179075'&amp;EntityType='Item'&amp;EntityId='839744'&amp;Width=80&amp;Height=80" />
-	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -67,6 +63,10 @@
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
+	</channel>
+	<channel id="97078">
+		<display-name>LIVE 2</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
@@ -1231,10 +1231,25 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16446792'&amp;EntityType='LinearSchedule'&amp;EntityId='849c3873-63f2-4f1b-8bd4-6a844a6cbfaf'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260924020000 +0000" stop="20260924043000 +0000">
+	<programme channel="840094" start="20260924020000 +0000" stop="20260924022600 +0000">
+		<title>Squash - 20th Asian Games Aichi-Nagoya 2026 Mixed Doubles Round of 16 - MAS vs JPN</title>
+		<desc>Mixed Doubles Round of 16 - Malaysia vs Japan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16589681'&amp;EntityType='LinearSchedule'&amp;EntityId='52c5a1b4-ec95-465a-b8e8-4910f08bc299'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840094" start="20260924022600 +0000" stop="20260924030800 +0000">
+		<title>Squash - 20th Asian Games Aichi-Nagoya 2026 Mixed Doubles Round of 16 - IND vs IND</title>
+		<desc>Mixed Doubles Round of 16 -India vs India</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16589689'&amp;EntityType='LinearSchedule'&amp;EntityId='79901bed-f344-4a6b-ae30-619bb34ddbc1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840094" start="20260924030800 +0000" stop="20260924034000 +0000">
 		<title>Squash - 20th Asian Games Aichi-Nagoya 2026 Mixed Doubles Round of 16 - SGP vs HKG</title>
 		<desc>Mixed Doubles Round of 16 - Singapore vs Hong Kong</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16574838'&amp;EntityType='LinearSchedule'&amp;EntityId='52c5a1b4-ec95-465a-b8e8-4910f08bc299'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16591386'&amp;EntityType='LinearSchedule'&amp;EntityId='ff9c5c98-df04-43b7-b5b6-9c1ccf8e669a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840094" start="20260924034000 +0000" stop="20260924043000 +0000">
+		<title>Squash - 20th Asian Games Aichi-Nagoya 2026 Mixed Doubles Round of 16 - CHN vs MAS</title>
+		<desc>Mixed Doubles Round of 16 - China vs Malaysia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16591382'&amp;EntityType='LinearSchedule'&amp;EntityId='79b26543-5444-48d4-b080-fd0f7a075a1a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840094" start="20260924043000 +0000" stop="20260924094500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1251,7 +1266,7 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16571618'&amp;EntityType='LinearSchedule'&amp;EntityId='c6d79f5a-26e9-4ab5-b7af-d8f61aecb8b0'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260924160000 +0000" stop="20260925040000 +0000">
+	<programme channel="840094" start="20260924160000 +0000" stop="20260925035000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16464011'&amp;EntityType='LinearSchedule'&amp;EntityId='55312420-004c-402b-9d0f-e91c59ba94d7'&amp;Width=1280&amp;Height=720" />
@@ -1266,17 +1281,17 @@
 		<desc>Women's Doubles Round of 32 - China vs North Korea</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16446738'&amp;EntityType='LinearSchedule'&amp;EntityId='baf16dda-817b-4785-8b72-876eca7e1243'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260924014000 +0000" stop="20260924022000 +0000">
+	<programme channel="840099" start="20260924014000 +0000" stop="20260924015500 +0000">
 		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Women's Doubles Round of 32 - JPN vs QAT</title>
 		<desc>Women's Doubles Round of 32 - Japan vs Qatar</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16574787'&amp;EntityType='LinearSchedule'&amp;EntityId='94890073-d1f4-4405-8ee0-368f472d3b18'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260924022000 +0000" stop="20260924030500 +0000">
+	<programme channel="840099" start="20260924015500 +0000" stop="20260924025000 +0000">
 		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Men's Singles Round of 64 - QAT vs INA</title>
 		<desc>Men's Singles Round of 64 - Qatar vs Indonesia</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16574791'&amp;EntityType='LinearSchedule'&amp;EntityId='5aeaf825-527a-445d-bf72-ccedd0fae621'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260924030500 +0000" stop="20260924035000 +0000">
+	<programme channel="840099" start="20260924025000 +0000" stop="20260924035000 +0000">
 		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Men's Singles Round of 64 - HKG vs INA</title>
 		<desc>Men's Singles Round of 64 - Hong Kong vs Indonesia</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16574807'&amp;EntityType='LinearSchedule'&amp;EntityId='2b18ee77-f520-40c5-a0ce-e4a9b6358545'&amp;Width=1280&amp;Height=720" />
@@ -1410,16 +1425,6 @@
 		<title>No Programme available now. Next Broadcast on 27th September, Sunday 12.00am. FIFA U-20 Women's World Cup 2026 : 3rd Place Play-off: TEAM vs TEAM </title>
 		<desc>No Programme available now. Next Broadcast on 27th September, Sunday 12.00am. FIFA U-20 Women's World Cup 2026 : 3rd Place Play-off: TEAM vs TEAM </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16464127'&amp;EntityType='LinearSchedule'&amp;EntityId='2839c83a-ebc5-4dd3-aa66-64d9243c7187'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="839744" start="20260923160000 +0000" stop="20260924160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16446870'&amp;EntityType='LinearSchedule'&amp;EntityId='a76d3642-5c23-451b-b621-3e14f99ec97b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="839744" start="20260924160000 +0000" stop="20260925160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16464103'&amp;EntityType='LinearSchedule'&amp;EntityId='e662f53a-8985-4578-9d41-3dc09e7a7212'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260923160000 +0000" stop="20260924160000 +0000">
 		<title>No Programme available now. Next Broadcast on 10th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
@@ -1565,6 +1570,16 @@
 		<title>No programme available now. Next broadcast on 25th September, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 25th September, Friday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16452303'&amp;EntityType='LinearSchedule'&amp;EntityId='166d7bc2-1e3e-423a-96f9-587f465e45dc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260923160000 +0000" stop="20260924160000 +0000">
+		<title>No Programme available now. Next Broadcast on 25th September, Friday 1pm. Singapore Tennis Open 2026: Women’s Singles QF Match 1</title>
+		<desc>LIVE 2 will commence broadcast of the Singapore Tennis Open 2026: Women’s Singles QF Match 1 on 25th September, Friday 1pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16450421'&amp;EntityType='LinearSchedule'&amp;EntityId='ef424acc-99dc-4fc2-80cc-a2ba0fbca21d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260924160000 +0000" stop="20260925050000 +0000">
+		<title>No Programme available now. Next Broadcast on 25th September, Friday 1pm. Singapore Tennis Open 2026: Women’s Singles QF Match 1</title>
+		<desc>LIVE 2 will commence broadcast of the Singapore Tennis Open 2026: Women’s Singles QF Match 1 on 25th September, Friday 1pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16452397'&amp;EntityType='LinearSchedule'&amp;EntityId='3815d5b8-7f35-442a-8e78-88819828ed35'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260923150318 +0000" stop="20260923160041 +0000">
 		<title>MasterChef Australia Celebrity Season 01 - EP4</title>
@@ -3421,27 +3436,22 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16481276'&amp;EntityType='LinearSchedule'&amp;EntityId='b2b1c2ae-931f-444e-b2a8-be31693bcd63'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260925040000 +0000" stop="20260925060000 +0000">
+	<programme channel="840094" start="20260925035000 +0000" stop="20260925054000 +0000">
 		<title>3x3 Basketball - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Semi-finals</title>
 		<desc>Men's &amp; Women's Semi-finals</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16464015'&amp;EntityType='LinearSchedule'&amp;EntityId='3f8713e4-b55f-4404-95e9-b7cd44942c9c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260925060000 +0000" stop="20260925080000 +0000">
+	<programme channel="840094" start="20260925054000 +0000" stop="20260925080000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16463965'&amp;EntityType='LinearSchedule'&amp;EntityId='77c8a029-f482-4298-a271-2a2355506674'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16589505'&amp;EntityType='LinearSchedule'&amp;EntityId='ed00566b-0591-4497-9e84-02d0fbdb0405'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840094" start="20260925080000 +0000" stop="20260925092000 +0000">
 		<title>Hockey - 20th Asian Games Aichi-Nagoya 2026 Women's Pool Stage - SGP vs UZB</title>
 		<desc>Women's Pool Stage - Singapore vs Uzbekistan</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16464019'&amp;EntityType='LinearSchedule'&amp;EntityId='7ec32f8b-fe70-4aa6-ab61-9b7c1063f3d4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260925092000 +0000" stop="20260925093000 +0000">
-		<title>No programme streaming LIVE at this moment</title>
-		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16464023'&amp;EntityType='LinearSchedule'&amp;EntityId='13bb425a-6944-46e1-bbf4-248e749b8d5e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="840094" start="20260925093000 +0000" stop="20260925140000 +0000">
+	<programme channel="840094" start="20260925092000 +0000" stop="20260925140000 +0000">
 		<title>Athletics - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Heats | Finals - 25 Sep 2026</title>
 		<desc>Women's Shot Put Final | Women's 100m Semi-finals | Men's 100m Semi-finals | Women's Pole Vault Final | Women's Heptathlon 800m | Men's 10,000m Final | Men's Hammer Throw Final | Women's 400m Heats | Men's 400m Semi-finals | Women's 100m Final | Men's 100m Final</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16464000'&amp;EntityType='LinearSchedule'&amp;EntityId='af7a168f-6305-434a-8df8-af513f00c5e4'&amp;Width=1280&amp;Height=720" />
@@ -3535,11 +3545,6 @@
 		<title>No Programme available now. Next Broadcast on 27th September, Sunday 12.00am. FIFA U-20 Women's World Cup 2026 : 3rd Place Play-off: TEAM vs TEAM </title>
 		<desc>No Programme available now. Next Broadcast on 27th September, Sunday 12.00am. FIFA U-20 Women's World Cup 2026 : 3rd Place Play-off: TEAM vs TEAM </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16481352'&amp;EntityType='LinearSchedule'&amp;EntityId='ac9bc099-99d2-4da2-a8c6-df931598fe39'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="839744" start="20260925160000 +0000" stop="20260926160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16481329'&amp;EntityType='LinearSchedule'&amp;EntityId='df02fc8d-9527-4eda-9581-fc262f41e7ef'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260925160000 +0000" stop="20260926160000 +0000">
 		<title>No Programme available now. Next Broadcast on 10th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
@@ -3680,6 +3685,41 @@
 		<title>No programme available now. Next broadcast on 26th September, Saturday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 26th September, Saturday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16470137'&amp;EntityType='LinearSchedule'&amp;EntityId='57168d27-5411-44f9-9427-716b5ab452c1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260925050000 +0000" stop="20260925070000 +0000">
+		<title>Singapore Tennis Open 2026: Women’s Singles QF Match 1</title>
+		<desc>The Singapore Tennis Open 2026 returns bigger than ever as Singapore hosts its first WTA 500 edition from 21–27 September 2026 at the OCBC Arena. Catch world-class women’s tennis as top-ranked stars including Jessica Pegula, Mirra Andreeva, Amanda Anisimova and Alexandra Eala battle it out in high-stakes singles and doubles action. With valuable ranking points on the line, expect powerful serves, thrilling rallies and intense competition as Singapore kicks off an exciting leg of the WTA Asian Swing.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16569849'&amp;EntityType='LinearSchedule'&amp;EntityId='c6608377-d19a-448a-8ac9-386439ccae7f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260925070000 +0000" stop="20260925090000 +0000">
+		<title>Singapore Tennis Open 2026: Women’s Singles QF Match 2</title>
+		<desc>The Singapore Tennis Open 2026 returns bigger than ever as Singapore hosts its first WTA 500 edition from 21–27 September 2026 at the OCBC Arena. Catch world-class women’s tennis as top-ranked stars including Jessica Pegula, Mirra Andreeva, Amanda Anisimova and Alexandra Eala battle it out in high-stakes singles and doubles action. With valuable ranking points on the line, expect powerful serves, thrilling rallies and intense competition as Singapore kicks off an exciting leg of the WTA Asian Swing.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16569853'&amp;EntityType='LinearSchedule'&amp;EntityId='f9b0c9f7-7569-4ad9-ba3b-b9185d248ecc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260925090000 +0000" stop="20260925103000 +0000">
+		<title>No Programme available now. Next Broadcast on 25th September, Friday 6.30pm. Singapore Tennis Open 2026: Women’s Singles QF Match 3</title>
+		<desc>LIVE 2 will commence broadcast of the Singapore Tennis Open 2026: Women’s Singles QF Match 3 on 25th September, Friday 6.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16452432'&amp;EntityType='LinearSchedule'&amp;EntityId='334c563b-7df2-4ebe-83c9-885ce7136d45'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260925103000 +0000" stop="20260925123000 +0000">
+		<title>Singapore Tennis Open 2026: Women’s Singles QF Match 3</title>
+		<desc>The Singapore Tennis Open 2026 returns bigger than ever as Singapore hosts its first WTA 500 edition from 21–27 September 2026 at the OCBC Arena. Catch world-class women’s tennis as top-ranked stars including Jessica Pegula, Mirra Andreeva, Amanda Anisimova and Alexandra Eala battle it out in high-stakes singles and doubles action. With valuable ranking points on the line, expect powerful serves, thrilling rallies and intense competition as Singapore kicks off an exciting leg of the WTA Asian Swing.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16569857'&amp;EntityType='LinearSchedule'&amp;EntityId='0cb1b705-6845-4884-aba8-861cbada710b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260925123000 +0000" stop="20260925143000 +0000">
+		<title>Singapore Tennis Open 2026: Women’s Singles QF Match 4</title>
+		<desc>The Singapore Tennis Open 2026 returns bigger than ever as Singapore hosts its first WTA 500 edition from 21–27 September 2026 at the OCBC Arena. Catch world-class women’s tennis as top-ranked stars including Jessica Pegula, Mirra Andreeva, Amanda Anisimova and Alexandra Eala battle it out in high-stakes singles and doubles action. With valuable ranking points on the line, expect powerful serves, thrilling rallies and intense competition as Singapore kicks off an exciting leg of the WTA Asian Swing.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16569861'&amp;EntityType='LinearSchedule'&amp;EntityId='50e71e46-b442-4c30-93a0-f64506a0fa70'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260925143000 +0000" stop="20260925160000 +0000">
+		<title>No Programme available now. Next Broadcast on 26th September, Saturday 2.30pm. Singapore Tennis Open 2026: Women’s Singles SF Match 1</title>
+		<desc>LIVE 2 will commence broadcast of the Singapore Tennis Open 2026: Women’s Singles SF Match 1 on 26th September, Saturday 2.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16452390'&amp;EntityType='LinearSchedule'&amp;EntityId='348976ac-1555-46f7-b228-80346c276de2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20260925160000 +0000" stop="20260926063000 +0000">
+		<title>No Programme available now. Next Broadcast on 26th September, Saturday 2.30pm. Singapore Tennis Open 2026: Women’s Singles SF Match 1</title>
+		<desc>LIVE 2 will commence broadcast of the Singapore Tennis Open 2026: Women’s Singles SF Match 1 on 26th September, Saturday 2.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16470050'&amp;EntityType='LinearSchedule'&amp;EntityId='9727b8f5-afcf-4bff-ac23-2a90786af493'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260924160153 +0000" stop="20260924162840 +0000">
 		<title>MasterChef Australia Season 02 - EP20</title>
