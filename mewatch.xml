@@ -1151,15 +1151,15 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16481235'&amp;EntityType='LinearSchedule'&amp;EntityId='86d66f93-12fe-4e0e-a5e0-ca59c00051ed'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260926000000 +0000" stop="20260926040000 +0000">
+	<programme channel="840094" start="20260926000000 +0000" stop="20260926032500 +0000">
 		<title>Athletics - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Heats | Finals - 26 Sep 2026</title>
 		<desc>Men's Decathlon 100 Metres Heats | Men's Decathlon Long Jump            Heats | Men's Decathlon Shot Put | Men's 200m Heats | Women's Long Jump Qualification |</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16482683'&amp;EntityType='LinearSchedule'&amp;EntityId='bef427cc-f715-418d-9d34-fd2e6e526616'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260926040000 +0000" stop="20260926090000 +0000">
+	<programme channel="840094" start="20260926032500 +0000" stop="20260926090000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16481202'&amp;EntityType='LinearSchedule'&amp;EntityId='e0470b1f-8c4b-4d78-a93b-69494d437ea6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16629603'&amp;EntityType='LinearSchedule'&amp;EntityId='a24a448b-7fa2-47db-a255-13f9f5a79764'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840094" start="20260926090000 +0000" stop="20260926133000 +0000">
 		<title>Athletics - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Heats | Semi-finals - 26 Sep 2026</title>
@@ -1171,7 +1171,7 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16611507'&amp;EntityType='LinearSchedule'&amp;EntityId='077b2fa1-4aa9-428f-b791-080b205ff761'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260926160000 +0000" stop="20260927050000 +0000">
+	<programme channel="840094" start="20260926160000 +0000" stop="20260927015500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16496976'&amp;EntityType='LinearSchedule'&amp;EntityId='96f24a56-03a3-4ba8-bb68-8854a41af9eb'&amp;Width=1280&amp;Height=720" />
@@ -1181,10 +1181,25 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16481356'&amp;EntityType='LinearSchedule'&amp;EntityId='90da633c-80c9-4f2f-8667-bfb941288cf2'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260926005000 +0000" stop="20260926040000 +0000">
-		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Singles Round of 16</title>
-		<desc>Women's Singles Round of 16 - India vs Japan | Women's Singles Round of 16 - North Korea vs Macau</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16481387'&amp;EntityType='LinearSchedule'&amp;EntityId='d0d7ba28-94a5-40de-97b9-43214a7d5064'&amp;Width=1280&amp;Height=720" />
+	<programme channel="840099" start="20260926005000 +0000" stop="20260926014000 +0000">
+		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Women's Singles Round 16 - IND vs JPN</title>
+		<desc>Women's Singles Round of 16 - India vs Japan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16629453'&amp;EntityType='LinearSchedule'&amp;EntityId='f717b133-1a95-494d-88cd-501bfebb458e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260926014000 +0000" stop="20260926024000 +0000">
+		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Women's Singles Round of 16 - PRK vs MAC</title>
+		<desc>Women's Singles Round of 16 - North Korea vs Macau</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16629549'&amp;EntityType='LinearSchedule'&amp;EntityId='11c09013-1529-46ac-9842-91ca951bd456'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260926024000 +0000" stop="20260926031700 +0000">
+		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Men's Singles Round of 16 - KAZ vs JPN</title>
+		<desc>Men's Singles Round of 16 - Kazakhstan vs Japan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16629589'&amp;EntityType='LinearSchedule'&amp;EntityId='8c874a29-58ef-4d70-be8d-af18bd814c2b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260926031700 +0000" stop="20260926040000 +0000">
+		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Men's Singles Round of 16 - SGP vs JPN</title>
+		<desc>Men's Singles Round of 16 - Singapore vs Japan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16617508'&amp;EntityType='LinearSchedule'&amp;EntityId='d0d7ba28-94a5-40de-97b9-43214a7d5064'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840099" start="20260926040000 +0000" stop="20260926063000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1261,29 +1276,49 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16481320'&amp;EntityType='LinearSchedule'&amp;EntityId='dc5e9040-61cd-48e7-b462-ba181ae2d455'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840095" start="20260926005500 +0000" stop="20260926022500 +0000">
+	<programme channel="840095" start="20260926005500 +0000" stop="20260926020200 +0000">
 		<title>Diving - 20th Asian Games Aichi-Nagoya 2026 Women's Synchronised Platform Final</title>
 		<desc>Women's Synchronised Platform Final </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16614636'&amp;EntityType='LinearSchedule'&amp;EntityId='6dc367b1-0c4c-465c-a959-8adac7998f21'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840095" start="20260926022500 +0000" stop="20260926155959 +0000">
+	<programme channel="840095" start="20260926020200 +0000" stop="20260926155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16481324'&amp;EntityType='LinearSchedule'&amp;EntityId='38c7452d-7f27-4c90-afb4-08f3cd288073'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16629500'&amp;EntityType='LinearSchedule'&amp;EntityId='ee8afb12-dbaf-4466-8d29-4e19b7a51073'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840095" start="20260926160000 +0000" stop="20260927005500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16497039'&amp;EntityType='LinearSchedule'&amp;EntityId='8c8c655e-5bb5-407e-b192-e09d1993e5f6'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260925160000 +0000" stop="20260926002000 +0000">
+	<programme channel="840093" start="20260925160000 +0000" stop="20260926002500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16481211'&amp;EntityType='LinearSchedule'&amp;EntityId='9237ed7d-f559-4e3d-8886-0f70fec12f45'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260926002000 +0000" stop="20260926053000 +0000">
+	<programme channel="840093" start="20260926002500 +0000" stop="20260926014200 +0000">
+		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Men's Singles Round of 32 - IND vs SGP</title>
+		<desc>Men's Singles Round of 32 - India vs Singapore</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16629449'&amp;EntityType='LinearSchedule'&amp;EntityId='680614e5-cce8-4c09-922c-5dd3b4888efd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840093" start="20260926014200 +0000" stop="20260926022500 +0000">
+		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Women's Singles Round of 32 - VIE vs INA</title>
+		<desc>Women's Singles Round of 32 - Vietnam vs Indonesia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16629536'&amp;EntityType='LinearSchedule'&amp;EntityId='88e34647-5622-4ec0-a7f2-604f3b90b13b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840093" start="20260926022500 +0000" stop="20260926031500 +0000">
+		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Men's Singles Round of 32 - KOR vs TPE</title>
+		<desc>Men's Singles Round of 32 - South Korea vs Chinese Taipei</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16629607'&amp;EntityType='LinearSchedule'&amp;EntityId='b82479b7-7ac1-4e42-b7b5-0c474f082d45'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840093" start="20260926031500 +0000" stop="20260926034500 +0000">
+		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Women's Singles Round of 32 - MDV vs HKG</title>
+		<desc>Women's Singles Round of 32 - Maldives vs Hong Kong</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16629611'&amp;EntityType='LinearSchedule'&amp;EntityId='b41e2f9a-010c-4aa9-a3fa-3c0f35d1a700'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840093" start="20260926034500 +0000" stop="20260926053000 +0000">
 		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Round of 32 | 16</title>
-		<desc>Men's Singles Round of 32 - India vs Singapore | Men's Singles Round of 32 - South Korea vs Chinese Taipei | Women's Singles Round of 32 - Maldives vs Hong Kong | Men's Singles Round of 32 - Japan vs Hong Kong | Women's Singles Round of 32 - Chinese Taipei vs Thailand | Women's Singles Round of 32 - India vs Chinese Taipei | Men's Singles Round of 32 - South Korea vs China |</desc>
+		<desc>Men's Singles Round of 32 - Japan vs Hong Kong | Women's Singles Round of 32 - Chinese Taipei vs Thailand | Women's Singles Round of 32 - India vs Chinese Taipei | Men's Singles Round of 32 - South Korea vs China |</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16481255'&amp;EntityType='LinearSchedule'&amp;EntityId='0c9337ca-29ca-42e5-9ab7-d7d1309af3ef'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840093" start="20260926053000 +0000" stop="20260926130000 +0000">
@@ -3226,15 +3261,15 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518151'&amp;EntityType='LinearSchedule'&amp;EntityId='e4302578-8b4f-451e-8d2d-aa398a8bf260'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260927050000 +0000" stop="20260927060000 +0000">
+	<programme channel="840094" start="20260927015500 +0000" stop="20260927033000 +0000">
 		<title>Artistic Swimming - 20th Asian Games Aichi-Nagoya 2026 Women's Duet Free Routine</title>
 		<desc>Women's Duet Free Routine</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16614860'&amp;EntityType='LinearSchedule'&amp;EntityId='a28e09ac-972b-41b1-a202-f937bff0da10'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260927060000 +0000" stop="20260927062000 +0000">
+	<programme channel="840094" start="20260927033000 +0000" stop="20260927062000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16496960'&amp;EntityType='LinearSchedule'&amp;EntityId='c88e495e-8ea5-4a53-8cd3-75c89186d095'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16629545'&amp;EntityType='LinearSchedule'&amp;EntityId='36d2a85e-2a43-4867-8647-7dc0075fba90'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840094" start="20260927062000 +0000" stop="20260927121000 +0000">
 		<title>Fencing - 20th Asian Games Aichi-Nagoya 2026 Men's Épée Team | Women's Sabre Team Semi-Finals &amp; Final</title>
