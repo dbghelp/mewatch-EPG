@@ -52,10 +52,6 @@
 		<display-name>Asian Games CH06</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16322300'&amp;EntityType='Item'&amp;EntityId='840093'&amp;Width=150&amp;Height=59" />
 	</channel>
-	<channel id="839745">
-		<display-name>FIFA U20 Ch01</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16179084'&amp;EntityType='Item'&amp;EntityId='839745'&amp;Width=80&amp;Height=80" />
-	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
@@ -63,10 +59,6 @@
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
-	</channel>
-	<channel id="97078">
-		<display-name>LIVE 2</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
@@ -95,6 +87,10 @@
 	<channel id="773722">
 		<display-name>That's Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13362968'&amp;EntityType='Item'&amp;EntityId='773722'&amp;Width=304&amp;Height=250" />
+	</channel>
+	<channel id="556894">
+		<display-name>Action Hollywood Movies</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358842'&amp;EntityType='Item'&amp;EntityId='556894'&amp;Width=304&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260927140000 +0000" stop="20260927160500 +0000">
 		<title>Somewhere In Queens</title>
@@ -534,7 +530,7 @@
 	<programme channel="97129" start="20260927183000 +0000" stop="20260928025700 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16508750'&amp;EntityType='LinearSchedule'&amp;EntityId='e80c78c9-70a8-447b-b1a4-70a95e202627'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662123'&amp;EntityType='LinearSchedule'&amp;EntityId='e80c78c9-70a8-447b-b1a4-70a95e202627'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20260928025700 +0000" stop="20260928031400 +0000">
 		<title>The Wonder Shop - EP 248</title>
@@ -719,7 +715,7 @@
 	<programme channel="97084" start="20260927160000 +0000" stop="20260928010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16508469'&amp;EntityType='LinearSchedule'&amp;EntityId='5d2d0c78-b7ee-49b4-8e85-90af96ac1860'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662093'&amp;EntityType='LinearSchedule'&amp;EntityId='5d2d0c78-b7ee-49b4-8e85-90af96ac1860'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97084" start="20260928010000 +0000" stop="20260928013000 +0000">
 		<title>Beyblade X S2 - EP 17</title>
@@ -819,7 +815,7 @@
 	<programme channel="97084" start="20260928160000 +0000" stop="20260929010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16523800'&amp;EntityType='LinearSchedule'&amp;EntityId='d42ed302-d020-42c4-83d4-012eca3edec0'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662097'&amp;EntityType='LinearSchedule'&amp;EntityId='d42ed302-d020-42c4-83d4-012eca3edec0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20260927140000 +0000" stop="20260927170000 +0000">
 		<title>Aranmanai (2014)</title>
@@ -834,7 +830,7 @@
 	<programme channel="97096" start="20260927173000 +0000" stop="20260928010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16508281'&amp;EntityType='LinearSchedule'&amp;EntityId='aa903345-f9e2-4ec7-a268-37bba032ea44'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662193'&amp;EntityType='LinearSchedule'&amp;EntityId='aa903345-f9e2-4ec7-a268-37bba032ea44'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20260928010000 +0000" stop="20260928013000 +0000">
 		<title>Rusiyai Thedi Sr 3 - EP 15</title>
@@ -924,7 +920,7 @@
 	<programme channel="97096" start="20260928160000 +0000" stop="20260929010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16523872'&amp;EntityType='LinearSchedule'&amp;EntityId='b6ec5427-4ae6-4d3b-9720-ce7ca6eb1ace'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662182'&amp;EntityType='LinearSchedule'&amp;EntityId='b6ec5427-4ae6-4d3b-9720-ce7ca6eb1ace'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260927160000 +0000" stop="20260927160300 +0000">
 		<title>Headline News</title>
@@ -1176,15 +1172,25 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518092'&amp;EntityType='LinearSchedule'&amp;EntityId='2cf2af71-2097-463f-af34-3a51a8e1726b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260927235000 +0000" stop="20260928020000 +0000">
+	<programme channel="840094" start="20260927235000 +0000" stop="20260928031500 +0000">
 		<title>Softball - 20th Asian Games Aichi-Nagoya 2026 Women's Preliminary Round - SGP vs TPE</title>
 		<desc>Women's Preliminary Round - Singapore vs Chinese Taipei</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16518103'&amp;EntityType='LinearSchedule'&amp;EntityId='54ac3843-daa2-4f15-9d2e-3b034c0b9a76'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260928020000 +0000" stop="20260928155959 +0000">
+	<programme channel="840094" start="20260928031500 +0000" stop="20260928081500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518109'&amp;EntityType='LinearSchedule'&amp;EntityId='9f1ed45e-1e19-477a-89a8-92bc70eb09e4'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662145'&amp;EntityType='LinearSchedule'&amp;EntityId='a0564157-73be-4ae7-afa3-fbf9a47d7215'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840094" start="20260928081500 +0000" stop="20260928094500 +0000">
+		<title>Water Polo - 20th Asian Games Aichi-Nagoya 2026 Men's Preliminary Round - SGP vs CHN</title>
+		<desc>Men's Preliminary Round - Singapore vs China</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16662075'&amp;EntityType='LinearSchedule'&amp;EntityId='ae1bfa3b-4f6d-4fbf-98a9-6cf4f2f4d68a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840094" start="20260928094500 +0000" stop="20260928155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662681'&amp;EntityType='LinearSchedule'&amp;EntityId='dfdef767-59dc-491c-bf08-1af07d7f3ee2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840094" start="20260928160000 +0000" stop="20260929060500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1196,9 +1202,19 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518886'&amp;EntityType='LinearSchedule'&amp;EntityId='42af7f2e-c695-4c3d-9c0b-64ae3e4d616a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260928025500 +0000" stop="20260928060000 +0000">
+	<programme channel="840099" start="20260928025500 +0000" stop="20260928033500 +0000">
+		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Women's Doubles Semi-finals - JPN vs HKG</title>
+		<desc>Women's Doubles Semi-finals - Japan vs Hong Kong</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16662201'&amp;EntityType='LinearSchedule'&amp;EntityId='fce111a5-d757-41fc-a160-2dbe79c0ff3a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260928033500 +0000" stop="20260928041600 +0000">
+		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Women's Doubles Semi-finals - THA vs CHN</title>
+		<desc>Women's Doubles Semi-finals - Thailand vs China</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16662672'&amp;EntityType='LinearSchedule'&amp;EntityId='de4ced85-7263-4857-8a1a-7d4cd999c5f4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260928041600 +0000" stop="20260928060000 +0000">
 		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Women's Doubles &amp; Men's Singles Semi-finals</title>
-		<desc>Women's Doubles Semi-finals - Japan vs Hong Kong | Women's Doubles Semi-finals - Thailand vs China | Men's Singles Semi-finals - China vs Iran | Men's Singles Semi-finals - Chinese Taipei vs China | </desc>
+		<desc>Men's Singles Semi-finals - China vs Iran | Men's Singles Semi-finals - Chinese Taipei vs China | </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16518879'&amp;EntityType='LinearSchedule'&amp;EntityId='7b66b0bd-8ba3-475f-b4ed-358fbad290cc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840099" start="20260928060000 +0000" stop="20260928095500 +0000">
@@ -1256,9 +1272,24 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518791'&amp;EntityType='LinearSchedule'&amp;EntityId='c9e7fbbd-53b0-4e7b-87da-76a8314f2893'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260928002500 +0000" stop="20260928070000 +0000">
+	<programme channel="840093" start="20260928002500 +0000" stop="20260928021000 +0000">
+		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Women's Doubles Semi-finals - CHN vs MAS</title>
+		<desc>Women's Doubles Semi-finals - China vs Malaysia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16662061'&amp;EntityType='LinearSchedule'&amp;EntityId='4d89bb57-a8ca-49a9-ac50-fd30bf206f66'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840093" start="20260928021000 +0000" stop="20260928025200 +0000">
+		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Mixed Doubles Semi-final - TPE vs CHN</title>
+		<desc>Mixed Doubles Semi-final - Chinese Taipei vs China</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16662071'&amp;EntityType='LinearSchedule'&amp;EntityId='d0c428ba-a4ca-45f6-8ba1-8eb6f38f1b97'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840093" start="20260928025200 +0000" stop="20260928034000 +0000">
+		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Women's Singles Semi-finals - KOR vs CHN</title>
+		<desc>Women's Singles Semi-finals - South Korea vs China</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16662230'&amp;EntityType='LinearSchedule'&amp;EntityId='ec7ae0da-f421-44e9-947c-a63d29b905aa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840093" start="20260928034000 +0000" stop="20260928070000 +0000">
 		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Doubles Semi-finals | Men's &amp; Women's Singles Semi-finals | Mixed Doubles Semi-final</title>
-		<desc>Women's Doubles Semi-finals - China vs Malaysia | Mixed Doubles Semi-final - Chinese Taipei vs China | Women's Singles Semi-finals - South Korea vs China | Men's Doubles Semi-finals - China vs Indonesia | Men's Singles Semi-finals - Singapore vs South Korea |</desc>
+		<desc>Men's Doubles Semi-finals - China vs Indonesia | Men's Singles Semi-finals - Singapore vs South Korea |</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16649288'&amp;EntityType='LinearSchedule'&amp;EntityId='66f69b1b-59e5-48eb-be92-51a30c99cb80'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840093" start="20260928070000 +0000" stop="20260928155959 +0000">
@@ -1270,21 +1301,6 @@
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16533564'&amp;EntityType='LinearSchedule'&amp;EntityId='2a261f80-a6c0-4b9f-bbdf-72fc5c7771eb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="839745" start="20260927160000 +0000" stop="20260927190000 +0000">
-		<title>FIFA U-20 Women's World Cup 2026 : Final : Spain vs Korea DPR</title>
-		<desc>The FIFA U-20 Women’s World Cup Poland 2026™ brings together 24 of the world’s best women’s U-20 national teams as the next generation of football stars compete for glory on the global stage. Hosted across four cities in Poland, the tournament showcases emerging talent, exciting international matchups and the future stars of women’s football.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16611888'&amp;EntityType='LinearSchedule'&amp;EntityId='e1956ee9-ce93-4212-864f-f0808c4a6ecb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="839745" start="20260927190000 +0000" stop="20260928160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16611892'&amp;EntityType='LinearSchedule'&amp;EntityId='66b72d5c-3a09-4bf9-bdff-ac3ce80dfa8b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="839745" start="20260928160000 +0000" stop="20260929160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16533526'&amp;EntityType='LinearSchedule'&amp;EntityId='2af8c81e-9921-4f64-92d3-a415f395fd31'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20260927160000 +0000" stop="20260928160000 +0000">
 		<title>No Programme available now. Next Broadcast on 10th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
@@ -1430,16 +1446,6 @@
 		<title>No programme available now. Next broadcast on 29th September, Tuesday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 29th September, Tuesday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16523375'&amp;EntityType='LinearSchedule'&amp;EntityId='087f4f74-9c1c-41a2-bd60-c9b9f6afc779'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20260927160000 +0000" stop="20260928160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16508089'&amp;EntityType='LinearSchedule'&amp;EntityId='a583fc9e-acc3-4c78-af30-49c8c40b7298'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20260928160000 +0000" stop="20260929160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16523393'&amp;EntityType='LinearSchedule'&amp;EntityId='44c6b7db-20bc-4e1a-ab44-2a3d2ac844a8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260927154326 +0000" stop="20260927164317 +0000">
 		<title>MasterChef Australia Season 07 - Elimination Challenge</title>
@@ -2306,6 +2312,71 @@
 		<desc>A powerhouse collection of the biggest Rock songs from around the world.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518331'&amp;EntityType='LinearSchedule'&amp;EntityId='c7f5c700-d02a-4a69-8cb3-bcb1f1d51b32'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="556894" start="20260927160000 +0000" stop="20260927180000 +0000">
+		<title>Island of Dr. Moreau - Island of Dr. Moreau</title>
+		<desc>A shipwrecked survivor discovers a remote island owned by a crazed scientist who is carrying out sinister experiments on the island's inhabitants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16644604'&amp;EntityType='LinearSchedule'&amp;EntityId='da43ddef-7a96-40ba-8626-2072ced866e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260927180000 +0000" stop="20260927200500 +0000">
+		<title>The Inheritance - The Inheritance</title>
+		<desc>Rome, 1880. Gregorio has decided to close the family business. Then he tells his children that they will have to fend for themselves, but his beautiful, calculating, ambitious young daughter-in-law, will do anything for the inheritance.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16644600'&amp;EntityType='LinearSchedule'&amp;EntityId='a71d43f3-ea75-4e1f-adfa-b437a5317378'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260927200500 +0000" stop="20260927220000 +0000">
+		<title>Five Corners - Five Corners</title>
+		<desc>A psychotic young man returns to his old neighborhood after release from prison. He seeks out the woman he previously tried to rape and the man who protected her, with twisted ideas of love for her and hate for him</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16644608'&amp;EntityType='LinearSchedule'&amp;EntityId='5a8eb030-bd16-42a6-bc94-69a8d02c30b8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260927220000 +0000" stop="20260928000000 +0000">
+		<title>Island of Dr. Moreau - Island of Dr. Moreau</title>
+		<desc>A shipwrecked survivor discovers a remote island owned by a crazed scientist who is carrying out sinister experiments on the island's inhabitants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16644612'&amp;EntityType='LinearSchedule'&amp;EntityId='fcce9519-15de-4af8-b95a-0d13d182bc4b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928000000 +0000" stop="20260928020500 +0000">
+		<title>The Inheritance - The Inheritance</title>
+		<desc>Rome, 1880. Gregorio has decided to close the family business. Then he tells his children that they will have to fend for themselves, but his beautiful, calculating, ambitious young daughter-in-law, will do anything for the inheritance.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16644596'&amp;EntityType='LinearSchedule'&amp;EntityId='d11748a4-e20c-42a8-8837-99ff1520a35e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928020500 +0000" stop="20260928040000 +0000">
+		<title>Five Corners - Five Corners</title>
+		<desc>A psychotic young man returns to his old neighborhood after release from prison. He seeks out the woman he previously tried to rape and the man who protected her, with twisted ideas of love for her and hate for him</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16510101'&amp;EntityType='LinearSchedule'&amp;EntityId='9c3d3b7b-00a2-44c5-a404-cf9687a617b5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928040000 +0000" stop="20260928060000 +0000">
+		<title>Island of Dr. Moreau - Island of Dr. Moreau</title>
+		<desc>A shipwrecked survivor discovers a remote island owned by a crazed scientist who is carrying out sinister experiments on the island's inhabitants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16510113'&amp;EntityType='LinearSchedule'&amp;EntityId='a434dffa-af55-4bd8-aa18-b7daf10054b2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928060000 +0000" stop="20260928080500 +0000">
+		<title>The Inheritance - The Inheritance</title>
+		<desc>Rome, 1880. Gregorio has decided to close the family business. Then he tells his children that they will have to fend for themselves, but his beautiful, calculating, ambitious young daughter-in-law, will do anything for the inheritance.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16510129'&amp;EntityType='LinearSchedule'&amp;EntityId='2fbe8282-8dc3-4167-be7d-3905189fb8b8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928080500 +0000" stop="20260928100000 +0000">
+		<title>Five Corners - Five Corners</title>
+		<desc>A psychotic young man returns to his old neighborhood after release from prison. He seeks out the woman he previously tried to rape and the man who protected her, with twisted ideas of love for her and hate for him</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16510105'&amp;EntityType='LinearSchedule'&amp;EntityId='055b10c6-46d2-43f8-ba7d-445aee7f34cc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928100000 +0000" stop="20260928114500 +0000">
+		<title>Have A Good Funeral, My Friend...Sartana Will Pay - Have A Good Funeral, My Friend...Sartana Will Pay</title>
+		<desc>When a young woman inherits a goldmine from her murdered uncle, Sartana comes to her aid as various swindlers, including the local sheriff, try to claim it as their own.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16510109'&amp;EntityType='LinearSchedule'&amp;EntityId='a304a69a-1656-47da-97a0-ca07a6f24a2e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928114500 +0000" stop="20260928135000 +0000">
+		<title>Strange Behavior - Strange Behavior</title>
+		<desc>In a small town in Illinois, normal high school kids are turning into ruthless killers seemingly overnight.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16510119'&amp;EntityType='LinearSchedule'&amp;EntityId='b76b367c-210c-4564-a323-31fade6c1ed4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928135000 +0000" stop="20260928160000 +0000">
+		<title>Sonny Boy - Sonny Boy</title>
+		<desc>A small-town crime boss accepts delivery of a stolen car, only to find there's a baby in the back-seat. He and his transgender wife cut out the boy's tongue and raise him as a mute accomplice in their crimes. When the grown "Sonny Boy" escapes and tries to make contact with the outside world, the attention he draws to his warped family results in darkly-humored mayhem.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16510133'&amp;EntityType='LinearSchedule'&amp;EntityId='e8e9359f-72fe-46c5-a3b1-7fca8395a525'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928160000 +0000" stop="20260928174500 +0000">
+		<title>Have A Good Funeral, My Friend...Sartana Will Pay - Have A Good Funeral, My Friend...Sartana Will Pay</title>
+		<desc>When a young woman inherits a goldmine from her murdered uncle, Sartana comes to her aid as various swindlers, including the local sheriff, try to claim it as their own.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525458'&amp;EntityType='LinearSchedule'&amp;EntityId='80849f90-4fed-4d1f-ae76-bd2893e6abff'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260928163000 +0000" stop="20260928173000 +0000">
 		<title>Almost Paradise S2 - EP 6</title>
 		<desc>Almost Paradise returns for its second season with more island life rhythms and unexpected crimincal cases, which former DEA Agent Alex Walker cannot avoid despite being in forced retirement.</desc>
@@ -2729,7 +2800,7 @@
 	<programme channel="97129" start="20260928183000 +0000" stop="20260929025700 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16523892'&amp;EntityType='LinearSchedule'&amp;EntityId='4dc6bc99-16ee-403c-9cbb-897e132fad44'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662127'&amp;EntityType='LinearSchedule'&amp;EntityId='4dc6bc99-16ee-403c-9cbb-897e132fad44'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20260929025700 +0000" stop="20260929031400 +0000">
 		<title>The Wonder Shop - EP 314</title>
@@ -2994,7 +3065,7 @@
 	<programme channel="97084" start="20260929160000 +0000" stop="20260930010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16540953'&amp;EntityType='LinearSchedule'&amp;EntityId='dfd1f370-7c7c-4d30-8b7f-017d36424832'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662261'&amp;EntityType='LinearSchedule'&amp;EntityId='dfd1f370-7c7c-4d30-8b7f-017d36424832'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97096" start="20260929010000 +0000" stop="20260929013000 +0000">
 		<title>Rusiyai Thedi Sr 3 - EP 16</title>
@@ -3089,7 +3160,7 @@
 	<programme channel="97096" start="20260929160000 +0000" stop="20260930010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16541004'&amp;EntityType='LinearSchedule'&amp;EntityId='4ef869c0-e428-4742-aba8-9aa25b6fddc5'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662253'&amp;EntityType='LinearSchedule'&amp;EntityId='4ef869c0-e428-4742-aba8-9aa25b6fddc5'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20260928160300 +0000" stop="20260928170000 +0000">
 		<title>East Asia Tonight</title>
@@ -3311,11 +3382,6 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16550975'&amp;EntityType='LinearSchedule'&amp;EntityId='48249be3-ce1a-42bf-a12e-503375ebe9ea'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="839745" start="20260929160000 +0000" stop="20260930160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16551013'&amp;EntityType='LinearSchedule'&amp;EntityId='8f5fed26-0ba8-4ba3-a1d5-2d9564d0c987'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="98200" start="20260929160000 +0000" stop="20260930160000 +0000">
 		<title>No Programme available now. Next Broadcast on 10th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Geylang International FC vs FC Jurong on 10th October, Saturday 7.20pm. Please stay tuned!</desc>
@@ -3450,11 +3516,6 @@
 		<title>No programme available now. Next broadcast on 30th September, Wednesday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 30th September, Wednesday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16540667'&amp;EntityType='LinearSchedule'&amp;EntityId='3dd04185-456b-4aac-a981-e739a116fb1e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="97078" start="20260929160000 +0000" stop="20260930160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16540671'&amp;EntityType='LinearSchedule'&amp;EntityId='d75cc8e3-b914-43e4-be44-54e3ec5e205f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260928162416 +0000" stop="20260928171309 +0000">
 		<title>MasterChef New Zealand Season 05 - MasterClass S04 #09 Simon &amp; Ray / Cookbook dishes</title>
@@ -4185,5 +4246,65 @@
 		<title>00s Rock Party!</title>
 		<desc>Get ready for a high energy blast of 00s Rock party anthems</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16533653'&amp;EntityType='LinearSchedule'&amp;EntityId='139a1256-cff0-4991-892f-246aef63f3f3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928174500 +0000" stop="20260928195000 +0000">
+		<title>Strange Behavior - Strange Behavior</title>
+		<desc>In a small town in Illinois, normal high school kids are turning into ruthless killers seemingly overnight.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525434'&amp;EntityType='LinearSchedule'&amp;EntityId='e0331c2e-5b2d-4eed-b3f5-f3dbe960b3d2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928195000 +0000" stop="20260928220000 +0000">
+		<title>Sonny Boy - Sonny Boy</title>
+		<desc>A small-town crime boss accepts delivery of a stolen car, only to find there's a baby in the back-seat. He and his transgender wife cut out the boy's tongue and raise him as a mute accomplice in their crimes. When the grown "Sonny Boy" escapes and tries to make contact with the outside world, the attention he draws to his warped family results in darkly-humored mayhem.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525446'&amp;EntityType='LinearSchedule'&amp;EntityId='42443d32-745a-40a4-91dd-95866aba7d07'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928220000 +0000" stop="20260928234500 +0000">
+		<title>Have A Good Funeral, My Friend...Sartana Will Pay - Have A Good Funeral, My Friend...Sartana Will Pay</title>
+		<desc>When a young woman inherits a goldmine from her murdered uncle, Sartana comes to her aid as various swindlers, including the local sheriff, try to claim it as their own.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525466'&amp;EntityType='LinearSchedule'&amp;EntityId='f7ccdcb5-06ae-49af-840f-cb633f88f85b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260928234500 +0000" stop="20260929015000 +0000">
+		<title>Strange Behavior - Strange Behavior</title>
+		<desc>In a small town in Illinois, normal high school kids are turning into ruthless killers seemingly overnight.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525438'&amp;EntityType='LinearSchedule'&amp;EntityId='7094aa9e-bdcf-48ae-b006-2cdacc176a2d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260929015000 +0000" stop="20260929040000 +0000">
+		<title>Sonny Boy</title>
+		<desc>A small-town crime boss accepts delivery of a stolen car, only to find there's a baby in the back-seat. He and his transgender wife cut out the boy's tongue and raise him as a mute accomplice in their crimes. When the grown "Sonny Boy" escapes and tries to make contact with the outside world, the attention he draws to his warped family results in darkly-humored mayhem.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525450'&amp;EntityType='LinearSchedule'&amp;EntityId='bfce1628-e7c9-43e9-a5f5-7db90201596c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260929040000 +0000" stop="20260929054500 +0000">
+		<title>Have A Good Funeral, My Friend...Sartana Will Pay</title>
+		<desc>When a young woman inherits a goldmine from her murdered uncle, Sartana comes to her aid as various swindlers, including the local sheriff, try to claim it as their own.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525470'&amp;EntityType='LinearSchedule'&amp;EntityId='a8fc9a50-a70c-4f3d-b896-8d2430d05d32'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260929054500 +0000" stop="20260929075000 +0000">
+		<title>Strange Behavior</title>
+		<desc>In a small town in Illinois, normal high school kids are turning into ruthless killers seemingly overnight.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525474'&amp;EntityType='LinearSchedule'&amp;EntityId='db3695a0-a5d3-4ed4-a340-d3ae63ead170'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260929075000 +0000" stop="20260929100000 +0000">
+		<title>Sonny Boy</title>
+		<desc>A small-town crime boss accepts delivery of a stolen car, only to find there's a baby in the back-seat. He and his transgender wife cut out the boy's tongue and raise him as a mute accomplice in their crimes. When the grown "Sonny Boy" escapes and tries to make contact with the outside world, the attention he draws to his warped family results in darkly-humored mayhem.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525478'&amp;EntityType='LinearSchedule'&amp;EntityId='20ba80f7-c760-4feb-a938-eb9f6e5d906d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260929100000 +0000" stop="20260929122000 +0000">
+		<title>Tim</title>
+		<desc>A somewhat mentally handicapped 20-year-old man works as a laborer, but everyone abuses his naiveté. A nice 40-year-old American woman hires him one day and they become close. However, the town and his family see her as predatory.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525442'&amp;EntityType='LinearSchedule'&amp;EntityId='993f295f-3a3d-4eab-9f5b-64a42738e423'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260929122000 +0000" stop="20260929142000 +0000">
+		<title>Charro!</title>
+		<desc>Jess Wade is innocently accused of having stolen a cannon from the Mexican revolutionary forces. He tries to find the real culprits, a gang of criminals.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525454'&amp;EntityType='LinearSchedule'&amp;EntityId='51bf8f0c-6d0b-47b0-b9a4-b9cf16a1a9b0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260929142000 +0000" stop="20260929160000 +0000">
+		<title>Dragon Princess</title>
+		<desc>When the king of karate and his dragon princess confront the blind master of the bloody blades, sparks fly.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525462'&amp;EntityType='LinearSchedule'&amp;EntityId='4df0b89d-6015-449a-92c4-4956ec71383e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20260929160000 +0000" stop="20260929182000 +0000">
+		<title>Tim</title>
+		<desc>A somewhat mentally handicapped 20-year-old man works as a laborer, but everyone abuses his naiveté. A nice 40-year-old American woman hires him one day and they become close. However, the town and his family see her as predatory.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16543212'&amp;EntityType='LinearSchedule'&amp;EntityId='73ddd9d4-b416-4d3d-b635-da9ba871fddb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
