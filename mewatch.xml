@@ -24,10 +24,6 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
-	<channel id="186574">
-		<display-name>Oktolidays</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9467885'&amp;EntityType='Item'&amp;EntityId='186574'&amp;Width=945&amp;Height=250" />
-	</channel>
 	<channel id="840096">
 		<display-name>Asian Games CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16311396'&amp;EntityType='Item'&amp;EntityId='840096'&amp;Width=150&amp;Height=59" />
@@ -91,6 +87,10 @@
 	<channel id="556894">
 		<display-name>Action Hollywood Movies</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358842'&amp;EntityType='Item'&amp;EntityId='556894'&amp;Width=304&amp;Height=250" />
+	</channel>
+	<channel id="558254">
+		<display-name>Filem Mantap</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11316574'&amp;EntityType='Item'&amp;EntityId='558254'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260927140000 +0000" stop="20260927160500 +0000">
 		<title>Somewhere In Queens</title>
@@ -1062,107 +1062,32 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16523596'&amp;EntityType='LinearSchedule'&amp;EntityId='538a0570-e917-4edb-b7da-6009c1bd6015'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="186574" start="20260927150013 +0000" stop="20260927160024 +0000">
-		<title>X, Y &amp; Zeek/Jade Armor/One Page At A Time 伟人不见了!</title>
-		<desc>X, Y &amp; Zeek/Jade Armor/One Page At A Time 伟人不见了!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16491139'&amp;EntityType='LinearSchedule'&amp;EntityId='04f8fc44-3be5-4477-93de-313bc7cdc992'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260927160024 +0000" stop="20260927170031 +0000">
-		<title>What on Earth/LEGO Friends: The Next Chapter/Lil Wild/Pada Suatu Hari/Scrum Tigers</title>
-		<desc>What on Earth/LEGO Friends: The Next Chapter/Lil Wild/Pada Suatu Hari/Scrum Tigers</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509137'&amp;EntityType='LinearSchedule'&amp;EntityId='0955e037-105b-40c4-ad75-f1e88889df4c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260927170031 +0000" stop="20260927180002 +0000">
-		<title>How To Train Your Future 我的未来有未来/Emerald/Lil Wild</title>
-		<desc>How To Train Your Future 我的未来有未来/Emerald/Lil Wild</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509173'&amp;EntityType='LinearSchedule'&amp;EntityId='b8dfa6b0-ac44-4843-9ca5-54d3f82b95e2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260927180002 +0000" stop="20260927185947 +0000">
-		<title>Kaathu Karuppu/Lil Wild/Pokemon Horizons</title>
-		<desc>Kaathu Karuppu/Lil Wild/Pokemon Horizons</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509115'&amp;EntityType='LinearSchedule'&amp;EntityId='d63caec6-5622-4c77-9738-2b3290aec832'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260927185947 +0000" stop="20260927195932 +0000">
-		<title>Projek L.I.T/Mush-Mush &amp; the Mushables/Blippi Singapore Adventures</title>
-		<desc>Projek L.I.T/Mush-Mush &amp; the Mushables/Blippi Singapore Adventures</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509182'&amp;EntityType='LinearSchedule'&amp;EntityId='01ebc60f-5037-43fb-81b6-f84b3e8ae198'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260927195932 +0000" stop="20260927205939 +0000">
-		<title>Biogirl MJ's Treasure Hunt/Lil Wild/Dylan's Playtime Adventures/I-YO/Brave Bunnies</title>
-		<desc>Biogirl MJ's Treasure Hunt/Lil Wild/Dylan's Playtime Adventures/I-YO/Brave Bunnies</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509145'&amp;EntityType='LinearSchedule'&amp;EntityId='8925b9fa-d185-4f29-a642-ecffbe1d2d3f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260927205939 +0000" stop="20260927220017 +0000">
-		<title>Wishes 许愿泡泡茶/Agent Binky: Pets of the Universe/Paula &amp; Pals: Boot Up!/Piripenguins</title>
-		<desc>Wishes 许愿泡泡茶/Agent Binky: Pets of the Universe/Paula &amp; Pals: Boot Up!/Piripenguins</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509122'&amp;EntityType='LinearSchedule'&amp;EntityId='561d2043-1b4c-452e-8cc5-8ae8b3ee003e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260927220017 +0000" stop="20260927230048 +0000">
-		<title>Make Me a Super/Brave Bunnies/Slimed Science/Lil Wild/Pocoyo</title>
-		<desc>Make Me a Super/Brave Bunnies/Slimed Science/Lil Wild/Pocoyo</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509193'&amp;EntityType='LinearSchedule'&amp;EntityId='d667700f-7cc2-40da-80b7-5f17bd26cb25'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260927230048 +0000" stop="20260927235959 +0000">
-		<title>Enna Nadakkuthu Junior/Hey Toma</title>
-		<desc>Enna Nadakkuthu Junior/Hey Toma</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509212'&amp;EntityType='LinearSchedule'&amp;EntityId='1d93c51e-7d65-488d-a4a1-3ab9a741ddf5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260927235959 +0000" stop="20260928005947 +0000">
-		<title>Makan Skuad/Ultraman Teo/Lil Wild</title>
-		<desc>Makan Skuad/Ultraman Teo/Lil Wild</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509129'&amp;EntityType='LinearSchedule'&amp;EntityId='1d48940b-85d5-4dd0-bbb1-f53e72374d7e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260928005947 +0000" stop="20260928015952 +0000">
-		<title>MAYA MACHINDRA/Sam &amp; Julia</title>
-		<desc>MAYA MACHINDRA/Sam &amp; Julia</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509154'&amp;EntityType='LinearSchedule'&amp;EntityId='a671a31a-fc88-4fab-9909-16d124b8c327'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260928015952 +0000" stop="20260928025952 +0000">
-		<title>I Can Cook Too! 大家一起来做饭!/The Woohoos!/Leo the Wildlife Ranger: Spin Off/Lil Wild/Pocoyo</title>
-		<desc>I Can Cook Too! 大家一起来做饭!/The Woohoos!/Leo the Wildlife Ranger: Spin Off/Lil Wild/Pocoyo</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509224'&amp;EntityType='LinearSchedule'&amp;EntityId='579034b6-c1ef-474d-bb96-f57dd368e7bf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260928025952 +0000" stop="20260928040000 +0000">
-		<title>Skuad Cilik/Nikhil &amp; Jay/Alfie's "World of Wow!"</title>
-		<desc>Skuad Cilik/Nikhil &amp; Jay/Alfie's "World of Wow!"</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509163'&amp;EntityType='LinearSchedule'&amp;EntityId='7ccf770e-7640-4f53-ab8c-f6755c6086f8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260928040000 +0000" stop="20260928160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16509203'&amp;EntityType='LinearSchedule'&amp;EntityId='74cf7dd6-c771-436b-94eb-4a2b6eedbc58'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="186574" start="20260928160000 +0000" stop="20260929160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16524661'&amp;EntityType='LinearSchedule'&amp;EntityId='a5776163-bdc7-4550-a14c-931c6adff38a'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="840096" start="20260927160000 +0000" stop="20260928040000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518151'&amp;EntityType='LinearSchedule'&amp;EntityId='e4302578-8b4f-451e-8d2d-aa398a8bf260'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840096" start="20260928040000 +0000" stop="20260928060000 +0000">
+	<programme channel="840096" start="20260928040000 +0000" stop="20260928054500 +0000">
 		<title>Diving - 20th Asian Games Aichi-Nagoya 2026 Men's 1m Springboard Final</title>
 		<desc>Men's 1m Springboard Final</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16649292'&amp;EntityType='LinearSchedule'&amp;EntityId='ac3f052f-764b-4d0e-81de-e38ed1573502'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840096" start="20260928060000 +0000" stop="20260928090500 +0000">
+	<programme channel="840096" start="20260928054500 +0000" stop="20260928084000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16649296'&amp;EntityType='LinearSchedule'&amp;EntityId='9234924b-32a8-4207-9c67-6042acc7e31b'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662953'&amp;EntityType='LinearSchedule'&amp;EntityId='9c571239-909b-455d-87c7-bb6bda6bf413'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840096" start="20260928090500 +0000" stop="20260928140000 +0000">
+	<programme channel="840096" start="20260928084000 +0000" stop="20260928140000 +0000">
 		<title>Athletics - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Heats | Finals - 28 Sep 2026</title>
 		<desc>Women's Discus Throw Final | Mixed 4 x 100m Relay Heats | Women's 400m Hurdles Final | Men's 400m Hurdles Final | Men's 3000m Steeplechase Final | Men's Long Jump Final | Men's 1500m Final | Men's Javelin Throw Final | Women's 800m Heats | Women's 5000m Final | Men's 4 x 400m Relay Heats | Women's 4 x 100m Relay Final | Men's 4 x 100m Relay Final |</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16649729'&amp;EntityType='LinearSchedule'&amp;EntityId='687a58c7-d9ca-47a6-83a3-10df3bd0dc1a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16665852'&amp;EntityType='LinearSchedule'&amp;EntityId='687a58c7-d9ca-47a6-83a3-10df3bd0dc1a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840096" start="20260928140000 +0000" stop="20260928155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518159'&amp;EntityType='LinearSchedule'&amp;EntityId='dcc49e79-f822-4603-aa46-793e69a95d79'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840096" start="20260928160000 +0000" stop="20260929090000 +0000">
+	<programme channel="840096" start="20260928160000 +0000" stop="20260929010000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16533477'&amp;EntityType='LinearSchedule'&amp;EntityId='fbca5f7b-b48f-4f80-979a-54c64d5507c3'&amp;Width=1280&amp;Height=720" />
@@ -1177,20 +1102,20 @@
 		<desc>Women's Preliminary Round - Singapore vs Chinese Taipei</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16518103'&amp;EntityType='LinearSchedule'&amp;EntityId='54ac3843-daa2-4f15-9d2e-3b034c0b9a76'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260928031500 +0000" stop="20260928081500 +0000">
+	<programme channel="840094" start="20260928031500 +0000" stop="20260928081200 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662145'&amp;EntityType='LinearSchedule'&amp;EntityId='a0564157-73be-4ae7-afa3-fbf9a47d7215'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260928081500 +0000" stop="20260928094500 +0000">
+	<programme channel="840094" start="20260928081200 +0000" stop="20260928100000 +0000">
 		<title>Water Polo - 20th Asian Games Aichi-Nagoya 2026 Men's Preliminary Round - SGP vs CHN</title>
 		<desc>Men's Preliminary Round - Singapore vs China</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16662075'&amp;EntityType='LinearSchedule'&amp;EntityId='ae1bfa3b-4f6d-4fbf-98a9-6cf4f2f4d68a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260928094500 +0000" stop="20260928155959 +0000">
+	<programme channel="840094" start="20260928100000 +0000" stop="20260928155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16662681'&amp;EntityType='LinearSchedule'&amp;EntityId='dfdef767-59dc-491c-bf08-1af07d7f3ee2'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16665766'&amp;EntityType='LinearSchedule'&amp;EntityId='f5715580-6a92-4a0d-a15e-e9e46cb9811c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840094" start="20260928160000 +0000" stop="20260929060500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1212,27 +1137,37 @@
 		<desc>Women's Doubles Semi-finals - Thailand vs China</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16662672'&amp;EntityType='LinearSchedule'&amp;EntityId='de4ced85-7263-4857-8a1a-7d4cd999c5f4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260928041600 +0000" stop="20260928060000 +0000">
-		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Women's Doubles &amp; Men's Singles Semi-finals</title>
-		<desc>Men's Singles Semi-finals - China vs Iran | Men's Singles Semi-finals - Chinese Taipei vs China | </desc>
+	<programme channel="840099" start="20260928041600 +0000" stop="20260928050500 +0000">
+		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Men's Singles Semi-finals - CHN vs IRI</title>
+		<desc>Men's Singles Semi-finals - China vs Iran</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16662730'&amp;EntityType='LinearSchedule'&amp;EntityId='8b7b4664-ea4b-4ebc-94ea-782354947d5d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260928050500 +0000" stop="20260928063400 +0000">
+		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Men's Singles Semi-finals - TPE vs CHN</title>
+		<desc>Men's Singles Semi-finals - Chinese Taipei vs China </desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16518879'&amp;EntityType='LinearSchedule'&amp;EntityId='7b66b0bd-8ba3-475f-b4ed-358fbad290cc'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260928060000 +0000" stop="20260928095500 +0000">
+	<programme channel="840099" start="20260928063400 +0000" stop="20260928095500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518903'&amp;EntityType='LinearSchedule'&amp;EntityId='abcb9468-9649-409e-8233-49a8a6a1ebf5'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16663571'&amp;EntityType='LinearSchedule'&amp;EntityId='f02f41ae-5ba3-455b-a788-5c90013bb99a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260928095500 +0000" stop="20260928130000 +0000">
-		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Women's Doubles &amp; Men's Singles Finals</title>
-		<desc>Women's Doubles Final | Men's Singles Final |</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16518895'&amp;EntityType='LinearSchedule'&amp;EntityId='525745e1-6aef-41a1-aa49-8f2b3f0fee12'&amp;Width=1280&amp;Height=720" />
+	<programme channel="840099" start="20260928095500 +0000" stop="20260928111700 +0000">
+		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Women's Doubles Gold Medal Match - JPN vs CHN</title>
+		<desc>Women's Doubles Gold Medal Match - Japan vs China</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16666406'&amp;EntityType='LinearSchedule'&amp;EntityId='8734b42a-7748-4f7c-a2b8-ead78dcf6783'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260928130000 +0000" stop="20260928155959 +0000">
+	<programme channel="840099" start="20260928111700 +0000" stop="20260928123100 +0000">
+		<title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026 Men's Singles Gold Medal Match - CHN vs CHN</title>
+		<desc>Men's Singles Gold Medal Match - China vs China</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16666402'&amp;EntityType='LinearSchedule'&amp;EntityId='525745e1-6aef-41a1-aa49-8f2b3f0fee12'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260928123100 +0000" stop="20260928155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518868'&amp;EntityType='LinearSchedule'&amp;EntityId='fd2133b0-0242-4fbe-bea2-d24157d467df'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16666625'&amp;EntityType='LinearSchedule'&amp;EntityId='201ba012-739e-4ae6-aa51-9f1ed5c2b199'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260928160000 +0000" stop="20260929005500 +0000">
+	<programme channel="840099" start="20260928160000 +0000" stop="20260929005000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16533625'&amp;EntityType='LinearSchedule'&amp;EntityId='f61d9f4d-1397-42fc-8b61-2d43bb074269'&amp;Width=1280&amp;Height=720" />
@@ -1242,15 +1177,15 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518847'&amp;EntityType='LinearSchedule'&amp;EntityId='bfb8e8a2-3fc3-4b42-a3a1-3b769d955630'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840097" start="20260928050500 +0000" stop="20260928063500 +0000">
+	<programme channel="840097" start="20260928050500 +0000" stop="20260928061600 +0000">
 		<title>Shooting - 20th Asian Games Aichi-Nagoya 2026 Women's 25m Pistol Individual Final</title>
 		<desc>Women's 25m Pistol Individual Final</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16647991'&amp;EntityType='LinearSchedule'&amp;EntityId='e7987ce5-7b6a-4002-af6a-3e9b0d02315f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840097" start="20260928063500 +0000" stop="20260928155959 +0000">
+	<programme channel="840097" start="20260928061600 +0000" stop="20260928155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16649300'&amp;EntityType='LinearSchedule'&amp;EntityId='16e9b47f-4313-4f0e-a25d-a8d7695a9548'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16663400'&amp;EntityType='LinearSchedule'&amp;EntityId='751419ac-a221-4d06-bda4-a3bc0a83c516'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840097" start="20260928160000 +0000" stop="20260929155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1287,17 +1222,22 @@
 		<desc>Women's Singles Semi-finals - South Korea vs China</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16662230'&amp;EntityType='LinearSchedule'&amp;EntityId='ec7ae0da-f421-44e9-947c-a63d29b905aa'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260928034000 +0000" stop="20260928070000 +0000">
-		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Doubles Semi-finals | Men's &amp; Women's Singles Semi-finals | Mixed Doubles Semi-final</title>
-		<desc>Men's Doubles Semi-finals - China vs Indonesia | Men's Singles Semi-finals - Singapore vs South Korea |</desc>
+	<programme channel="840093" start="20260928034000 +0000" stop="20260928045000 +0000">
+		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Men's Doubles Semi-finals - CHN vs INA</title>
+		<desc>Men's Doubles Semi-finals - China vs Indonesia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16664045'&amp;EntityType='LinearSchedule'&amp;EntityId='0c0eeb0c-e1b6-4543-a36f-1dc6347040e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840093" start="20260928045000 +0000" stop="20260928061000 +0000">
+		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Men's Singles Semi-finals - SGP vs KOR</title>
+		<desc>Men's Singles Semi-finals - Singapore vs South Korea</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16649288'&amp;EntityType='LinearSchedule'&amp;EntityId='66f69b1b-59e5-48eb-be92-51a30c99cb80'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260928070000 +0000" stop="20260928155959 +0000">
+	<programme channel="840093" start="20260928061000 +0000" stop="20260928155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16518762'&amp;EntityType='LinearSchedule'&amp;EntityId='fb2450b4-f070-4bd2-bd8d-93d946cfe12d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16664054'&amp;EntityType='LinearSchedule'&amp;EntityId='e847dc1f-cc15-4906-8818-188f2ed88b8c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260928160000 +0000" stop="20260929020000 +0000">
+	<programme channel="840093" start="20260928160000 +0000" stop="20260929015500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16533564'&amp;EntityType='LinearSchedule'&amp;EntityId='2a261f80-a6c0-4b9f-bbdf-72fc5c7771eb'&amp;Width=1280&amp;Height=720" />
@@ -2377,6 +2317,81 @@
 		<desc>When a young woman inherits a goldmine from her murdered uncle, Sartana comes to her aid as various swindlers, including the local sheriff, try to claim it as their own.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16525458'&amp;EntityType='LinearSchedule'&amp;EntityId='80849f90-4fed-4d1f-ae76-bd2893e6abff'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="558254" start="20260927150700 +0000" stop="20260927165600 +0000">
+		<title>Anak Kerak</title>
+		<desc>Husin telah menggunakan ilmu hitam iaitu dengan ‘Anak Kerak' demi untuk mendapatkan kekebalan, kesenangan dan kemewahan hidup di dunia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16507493'&amp;EntityType='LinearSchedule'&amp;EntityId='52016344-3887-4e27-94b1-a9d85cb79428'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260927165600 +0000" stop="20260927184200 +0000">
+		<title>Jatuh Cinta Buta</title>
+		<desc>Telefilem komedi romantik tentang perkenalan singkat di antara Zulin, seorang gadis yang tidak pernah bercinta, dengan Izlan, seorang duda dalam satu 'blind date' yang diaturkan oleh Nadya Ramanshah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16520358'&amp;EntityType='LinearSchedule'&amp;EntityId='40b4edef-ff8c-4447-8f2f-c2e258ad5312'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260927184200 +0000" stop="20260927202900 +0000">
+		<title>Cupcake Mama</title>
+		<desc>Hanna, an active woman, is becoming bored with her daily life. She soon gets the idea to start a business selling cupcakes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16520370'&amp;EntityType='LinearSchedule'&amp;EntityId='c33559cb-c7a2-4263-a217-36450ebb3a31'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260927202900 +0000" stop="20260927220000 +0000">
+		<title>We’ll be back at 6.00am</title>
+		<desc>We’ll be back at 6.00am</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16520362'&amp;EntityType='LinearSchedule'&amp;EntityId='878ecdac-74b9-45a6-b394-1c7d87bbe91f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260927220000 +0000" stop="20260927234400 +0000">
+		<title>Bila Kau Datang</title>
+		<desc>The sudden presence of a little girl in a man's life raises thousands of questions, yet it also blossoms into a pretty special relationship.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16520366'&amp;EntityType='LinearSchedule'&amp;EntityId='9129582a-820a-4012-a825-bde5acfbfe5d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260927234400 +0000" stop="20260928013000 +0000">
+		<title>Kampung Arena Panggang</title>
+		<desc>Di dalam sebuah kampung, pasti terdapat perebutan kuasa. Siapakah yang bakal memegang jawatan tertinggi? Saksikan gelagat lucu mereka berentap untuk digelar ketua kampung.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16522992'&amp;EntityType='LinearSchedule'&amp;EntityId='e92de834-4663-445f-b85d-77643251618f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928013000 +0000" stop="20260928031700 +0000">
+		<title>Nyanyuk</title>
+		<desc>Zali is sad with the condition of his wife, Minah who he thinks is senile when in fact he is the one facing the disease.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16523000'&amp;EntityType='LinearSchedule'&amp;EntityId='ac04900c-8079-4a03-a7cf-8c1e68fbbd32'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928031700 +0000" stop="20260928050800 +0000">
+		<title>Jongkong</title>
+		<desc>Wan Ibrahim perlu mencari penyelesaian segera untuk melarikan diri daripada pakciknya, Wan Usin, dengan menjual beberapa jongkong emas yang dirompak oleh mereka, dan dia perlu melalui pelbagai cabaran.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16523008'&amp;EntityType='LinearSchedule'&amp;EntityId='886fffe5-6a38-4dc3-9195-8a34d85e7246'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928050800 +0000" stop="20260928065000 +0000">
+		<title>Resipi</title>
+		<desc>Radiah pindah semula ke rumah ibubapanya demi untuk menjaga ayahnya lalu mula memasak mengikut resipi arwah ibunya, dalam usahanya Radiah mula mempelajari tentang dirinya dan juga tentang ibu dan ayahnya.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16523004'&amp;EntityType='LinearSchedule'&amp;EntityId='1e45adf2-e754-443c-af2f-997476096d8c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928065000 +0000" stop="20260928081900 +0000">
+		<title>Strawberi Karipap Hello Gold Coast</title>
+		<desc>Nini dan Haikal pergi bercuti ke Gold Coast, Australia. Percutian mereka tidak berjalan seperti yang dirancang. Namun akhirnya ia menjadi satu pengembaraan yang hebat.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16522988'&amp;EntityType='LinearSchedule'&amp;EntityId='b85206ac-64e7-4c50-b560-73f97b4abbac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928081900 +0000" stop="20260928100600 +0000">
+		<title>Jejaka Terhangat Di Pasaran</title>
+		<desc>A romantic comedy about a handsome man, Azrul, who is a favorite of many women at his workplace. They do various things to win Azrul's heart.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16522996'&amp;EntityType='LinearSchedule'&amp;EntityId='126cd6c9-37a0-4533-a449-9e0a56464857'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928100600 +0000" stop="20260928115500 +0000">
+		<title>Luar Biasa</title>
+		<desc>Kisah yang diinspirasikan daripada pemenang pingat emas Paralimpik, Mohamad Ridzuan yang menghadapi penyakit 'Cebral Palsy' dan abangnya yang sentiasa ada di sisinya.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16522972'&amp;EntityType='LinearSchedule'&amp;EntityId='45f7d340-aca1-45ec-be32-7427027ec694'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928115500 +0000" stop="20260928133500 +0000">
+		<title>Sekolah Api</title>
+		<desc>Api, gangster yang meningkat naik cuba memenuhi amanat arwah neneknya untuk menghabiskan SPM. Dia jatuh cinta dengan guru Bahasa Inggeris dan sanggup melakukan apa saja untuk memenangi hati guru tersebut.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16522976'&amp;EntityType='LinearSchedule'&amp;EntityId='a4732a83-10f6-4f46-be4b-f239be107e0a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928133500 +0000" stop="20260928152400 +0000">
+		<title>Balapan</title>
+		<desc>Kisah empat orang remaja yang telah menjadi musuh sejak sekian lama di lapangan balapan acara pecut 100meter peringkat daerah Selangor dan akhirnya menjadi sahabat seperjuangan.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16522980'&amp;EntityType='LinearSchedule'&amp;EntityId='2458cf9a-cffb-45af-a427-f255076406fd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928152400 +0000" stop="20260928164500 +0000">
+		<title>Lampu Merah</title>
+		<desc>Si lelaki sukakan si perempuan, tanpa sedar yang si perempuan itu psiko dan obses dengan cintanya. Cara untuk selamatkan diri hanya dengan jatuh cinta dengan si perempuan semula.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16522984'&amp;EntityType='LinearSchedule'&amp;EntityId='1ce692ea-edd2-4206-a62c-6a3c9b816044'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20260928163000 +0000" stop="20260928173000 +0000">
 		<title>Almost Paradise S2 - EP 6</title>
 		<desc>Almost Paradise returns for its second season with more island life rhythms and unexpected crimincal cases, which former DEA Agent Alex Walker cannot avoid despite being in forced retirement.</desc>
@@ -2547,15 +2562,25 @@
 		<desc>Join Thelma and Wendy on an extraordinary summer adventure, discovering the unique and magical Chimera creatures!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16524161'&amp;EntityType='LinearSchedule'&amp;EntityId='2ed93856-2363-4c76-a661-6c33360ee09f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20260929055500 +0000" stop="20260929110000 +0000">
+	<programme channel="97098" start="20260929055500 +0000" stop="20260929060000 +0000">
 		<title>(Live) 20th Asian Games Aichi-Nagoya 2026: Daily Action At The Games 1 - EP 10</title>
 		<desc>(Live) 20th Asian Games Aichi-Nagoya 2026: Daily Action At The Games 1</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16523992'&amp;EntityType='LinearSchedule'&amp;EntityId='faeafd78-7848-47a6-8c22-7a58f13dadb1'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16667089'&amp;EntityType='LinearSchedule'&amp;EntityId='93b5ded2-5a75-4c50-999a-dab3397910a5'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20260929110000 +0000" stop="20260929123000 +0000">
-		<title>(Live) 20th Asian Games Aichi-Nagoya 2026: Daily Action At The Games 2 - EP 7</title>
-		<desc>(Live) 20th Asian Games Aichi-Nagoya 2026: Daily Action At The Games 2</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16524094'&amp;EntityType='LinearSchedule'&amp;EntityId='9c2819e0-142c-4b39-bca0-4ed686f9ea58'&amp;Width=1280&amp;Height=720" />
+	<programme channel="97098" start="20260929060000 +0000" stop="20260929074500 +0000">
+		<title>Diving - 20th Asian Games Aichi-Nagoya 2026: Women's 10m Platform Final</title>
+		<desc>Women's 10m Platform Final</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16667104'&amp;EntityType='LinearSchedule'&amp;EntityId='7ba347d0-5494-4cba-ae0b-f3529be62a6f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97098" start="20260929074500 +0000" stop="20260929100000 +0000">
+		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026: Men's Singles Final - SGP vs THA</title>
+		<desc>Men's Singles Final - Singapore vs Thailand</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16667112'&amp;EntityType='LinearSchedule'&amp;EntityId='a8d87c7d-91bc-42f6-8f90-39c610c9ef67'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97098" start="20260929100000 +0000" stop="20260929123000 +0000">
+		<title>Athletics - 20th Asian Games Aichi-Nagoya 2026: Men's &amp; Women's Finals - 29 Sep 2026</title>
+		<desc>Men's Pole Vault Final | Women's High Jump Final | Women's Hammer Throw Final | Women's 800m Final | Men's 800m Final | Men's 5000m Final</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16667096'&amp;EntityType='LinearSchedule'&amp;EntityId='15d945b2-463c-4b94-a154-f3d7bb692e39'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20260929123000 +0000" stop="20260929130000 +0000">
 		<title>Yes Captain! - EP 30</title>
@@ -3050,7 +3075,7 @@
 	<programme channel="97084" start="20260929140000 +0000" stop="20260929150000 +0000">
 		<title>Blk 65 - EP 1</title>
 		<desc>Newly arrived at Blk 65, content creator Azzy joins her eccentric neighbours at a lively block party. The night takes a dark turn when longtime resident Raj is found dead at the staircase. When mystery-obsessed Uncle Teh suspects foul play, he unexpectedly teams up with Azzy and Pilates instructor Sha — an unlikely trio with little in common. Together, they begin digging into a death that could be Blk 65’s first murder.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16537237'&amp;EntityType='LinearSchedule'&amp;EntityId='2eb22bb9-359b-442d-b286-54d55a06cb28'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16665671'&amp;EntityType='LinearSchedule'&amp;EntityId='2eb22bb9-359b-442d-b286-54d55a06cb28'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97084" start="20260929150000 +0000" stop="20260929153000 +0000">
 		<title>Di Sini, Pada Suatu Masa - EP 6</title>
@@ -3277,14 +3302,19 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16541038'&amp;EntityType='LinearSchedule'&amp;EntityId='4c420bc6-6601-4892-a156-2e520c6895dd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="186574" start="20260929160000 +0000" stop="20260930160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16541989'&amp;EntityType='LinearSchedule'&amp;EntityId='bc36d273-a932-4319-82a8-716595b3fbe5'&amp;Width=1280&amp;Height=720" />
+	<programme channel="840096" start="20260929010000 +0000" stop="20260929030000 +0000">
+		<title>Squash - 20th Asian Games Aichi-Nagoya 2026 Women's Team Pool Stage - SGP vs MAS</title>
+		<desc>Women's Team Pool Stage - Singapore vs Malaysia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16666645'&amp;EntityType='LinearSchedule'&amp;EntityId='b941407c-f465-417e-ac68-cd6574552afb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840096" start="20260929030000 +0000" stop="20260929090000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16666641'&amp;EntityType='LinearSchedule'&amp;EntityId='9d3e1728-b569-46fd-8eaf-8c350bceb5a6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840096" start="20260929090000 +0000" stop="20260929133000 +0000">
 		<title>Athletics - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Finals - 29 Sep 2026</title>
-		<desc>Women's 800m Finals | Men's 800m Finals | Men's 4x400m Relay Finals</desc>
+		<desc>Men's Pole Vault Final | Women's High Jump Final | Women's Hammer Throw Final | Women's 800m Final | Men's 800m Final | Men's 5000m Final |</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16533453'&amp;EntityType='LinearSchedule'&amp;EntityId='8b476d2a-a2d3-4f9d-8515-99cf49f56d94'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840096" start="20260929133000 +0000" stop="20260929155959 +0000">
@@ -3312,15 +3342,15 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16550872'&amp;EntityType='LinearSchedule'&amp;EntityId='7c80ef21-fd55-499b-ae1d-1cbfe37c83e7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260929005500 +0000" stop="20260929020500 +0000">
+	<programme channel="840099" start="20260929005000 +0000" stop="20260929023000 +0000">
 		<title>Diving - 20th Asian Games Aichi-Nagoya 2026 Women's 10m Platform Preliminary Rounds</title>
 		<desc>Women's 10m Platform Preliminary Rounds </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16533689'&amp;EntityType='LinearSchedule'&amp;EntityId='fb2f8311-3f1f-4e37-a2e6-52030cf7b52d'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16666629'&amp;EntityType='LinearSchedule'&amp;EntityId='fb2f8311-3f1f-4e37-a2e6-52030cf7b52d'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260929020500 +0000" stop="20260929030000 +0000">
+	<programme channel="840099" start="20260929023000 +0000" stop="20260929030000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16533621'&amp;EntityType='LinearSchedule'&amp;EntityId='14942a0c-93b4-46da-a31d-befefef5f99c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16666633'&amp;EntityType='LinearSchedule'&amp;EntityId='eb15ccc6-a9b8-47e3-9314-d73fceae6431'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840099" start="20260929030000 +0000" stop="20260929043000 +0000">
 		<title>Diving - 20th Asian Games Aichi-Nagoya 2026 Men's 3m Springboard Preliminary Rounds</title>
@@ -3367,15 +3397,15 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16551022'&amp;EntityType='LinearSchedule'&amp;EntityId='b3eefbc6-51e0-4cea-8525-ea36bd8b91e8'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260929020000 +0000" stop="20260929090000 +0000">
-		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Doubles Final | Men's &amp; Women's Singles Final | Mixed Doubles Final + Medal Ceremony</title>
-		<desc>Men's Doubles Final | Men's Singles Final | Mixed Doubles Final | Women's Doubles Final | Women's Singles Final | medal ceremony</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16533557'&amp;EntityType='LinearSchedule'&amp;EntityId='f4949660-fcf4-488b-aca9-5a1ca33d226a'&amp;Width=1280&amp;Height=720" />
+	<programme channel="840093" start="20260929015500 +0000" stop="20260929100000 +0000">
+		<title>Badminton - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Doubles Final | Men's &amp; Women's Singles Final | Mixed Doubles Final</title>
+		<desc>Mixed Doubles Gold Medal Match - Indonesia vs China | Women's Doubles Gold Medal Match - China vs South Korea | Women's Singles Gold Medal Match - South Korea vs Japan | Men's Doubles Gold Medal Match - Indonesia vs China | Men's Singles            Gold Medal Match - Singapore vs Thailand |</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16665548'&amp;EntityType='LinearSchedule'&amp;EntityId='f4949660-fcf4-488b-aca9-5a1ca33d226a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840093" start="20260929090000 +0000" stop="20260929155959 +0000">
+	<programme channel="840093" start="20260929100000 +0000" stop="20260929155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16533575'&amp;EntityType='LinearSchedule'&amp;EntityId='b8805bce-e7df-4d16-80b0-44ad68713c7a'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16666621'&amp;EntityType='LinearSchedule'&amp;EntityId='6d8ef6e4-503e-471b-9672-34e5bf1dcab9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840093" start="20260929160000 +0000" stop="20260930060000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -4306,5 +4336,80 @@
 		<title>Tim</title>
 		<desc>A somewhat mentally handicapped 20-year-old man works as a laborer, but everyone abuses his naiveté. A nice 40-year-old American woman hires him one day and they become close. However, the town and his family see her as predatory.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16543212'&amp;EntityType='LinearSchedule'&amp;EntityId='73ddd9d4-b416-4d3d-b635-da9ba871fddb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928164500 +0000" stop="20260928183100 +0000">
+		<title>Bini Aku Dari...</title>
+		<desc>Lydia dan Rudy telah pun berkahwin. Lydia nak anak walaupun Rudy belum bersedia lagi. Perangai Lydia makin menjadi- jadi apabila mengikut hukum hakam dari kakiberamal.com.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16536065'&amp;EntityType='LinearSchedule'&amp;EntityId='0ba363d0-99f7-4028-82f7-733f4bf0a23b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928183100 +0000" stop="20260928201200 +0000">
+		<title>Tebus</title>
+		<desc>Anak perempuan Mikail telah di culik dan untuk menyelamatkan anaknya dia cuba mengimbau kembali sejarah lampau dirinya ketika menyertai kumpulan gangster.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16536053'&amp;EntityType='LinearSchedule'&amp;EntityId='eabd5e8f-a37b-44c7-8758-c19e79285658'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928201200 +0000" stop="20260928215500 +0000">
+		<title>Survival 486</title>
+		<desc>Syuhada going hiking to Gunung Tahan with her friends. Unfortunately, she got lost and fell into a deep hole and trapped there for 19 days.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16536049'&amp;EntityType='LinearSchedule'&amp;EntityId='87cb129b-acb9-4ecf-bb47-a2ef6cf87cf0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928215500 +0000" stop="20260928220000 +0000">
+		<title>We’ll be back at 6.00am</title>
+		<desc>We’ll be back at 6.00am</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16536057'&amp;EntityType='LinearSchedule'&amp;EntityId='70acbcbc-9c68-4d02-b808-ab033e1afceb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928220000 +0000" stop="20260928233100 +0000">
+		<title>Cik Paris Diva Kampung</title>
+		<desc>Zulaikha merupakan seroang gadis bandar yang mencabar diri untuk hidup di kampung lalu terpikat dengan jejaka kampung yang berjaya menawan hatinya.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16536061'&amp;EntityType='LinearSchedule'&amp;EntityId='c6fb9e7d-7bea-45a2-92ab-53738fd63191'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260928233100 +0000" stop="20260929011100 +0000">
+		<title>Budak Dari Tak Bai</title>
+		<desc>Melalui kehidupan yang getir, Johari meninggalkan Tak Bai pada zaman kanak-kanak ke Kota Bharu. Peristiwa hitam membuatkannya hanyut dalam dunia gelap. Dilakonkan oleh Kamal Adli dan Nabila Huda.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16540253'&amp;EntityType='LinearSchedule'&amp;EntityId='83510f7e-824a-4ad4-890f-cd77cca970a6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260929011100 +0000" stop="20260929024800 +0000">
+		<title>Delen</title>
+		<desc>Mengisahkan tentang Delen yang mula rasa terancam apabila Emily mula menyukai pelajar baru bernama Robert. Sejak itu, bermulalah persaingan antara Delen dan Robert demi merebut cinta Emily.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16540221'&amp;EntityType='LinearSchedule'&amp;EntityId='fd240d85-40be-4be6-b2ea-ffd356e7754f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260929024800 +0000" stop="20260929043300 +0000">
+		<title>Bro Jenin</title>
+		<desc>Kisah Jenin yang telah masuk ke zaman kini. Dia berjumpa dengan seorang animator, Emily. Wujud perbezaan pendapat maka terjadi lah kisah2 lucu dan akhirnya Jenin terpaksa pulang ke tempat asalnya.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16540237'&amp;EntityType='LinearSchedule'&amp;EntityId='900559f0-4463-4815-88d7-7cae651eb584'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260929043300 +0000" stop="20260929062600 +0000">
+		<title>Bibik Aku Nak Kahwin</title>
+		<desc>Milah yang terlalu berharap untuk berkahwin, akhirnya menemui jodoh secara tiba-tiba. Lakonan Didie Alias, Hairul Azreen dan Nabila AF.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16540241'&amp;EntityType='LinearSchedule'&amp;EntityId='14e9c61c-a296-42f6-9293-aab76f5a5b8d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260929062600 +0000" stop="20260929081300 +0000">
+		<title>Baby-Sita</title>
+		<desc>Two grand-theft-auto and best friends Adam &amp; Hatim discovered a baby at the back seat of a stolen car. Keen to avoid detection, they take care of the baby while figuring out how to return the baby without getting caught</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16540225'&amp;EntityType='LinearSchedule'&amp;EntityId='298fb970-9aa9-4e07-a13b-c8cdd8c58378'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260929081300 +0000" stop="20260929095400 +0000">
+		<title>Baby Jarum</title>
+		<desc>Mami Jarum is back! and this time Mami is making sure her grand-daughter Asyikin will marry the man of her choosing, however Asyikin has a better plan (or worse!) for herself.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16540245'&amp;EntityType='LinearSchedule'&amp;EntityId='175e02b3-c998-4315-a3d2-f4a9e6a3a102'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260929095400 +0000" stop="20260929114000 +0000">
+		<title>Challenge Accepted</title>
+		<desc>Jeff seorang tiktokers terkenal. Jeff telah berjaya membuat seoarang gadis,Fatimah jatuh cinta padanya tetapi akhirnya Fatimah mendapat tahu yang Jeff hanya menggunakannya demi populariti.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16540257'&amp;EntityType='LinearSchedule'&amp;EntityId='6c937775-6025-4faa-bbdc-bdc0723a9459'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260929114000 +0000" stop="20260929132500 +0000">
+		<title>Diari Chinta</title>
+		<desc>Chinta selalu gagal dalam cintanya diberikan sebuah diari ajaib untuk menulis babak cinta. Impian yang ditulis Chinta itu menjadi kenyataan dengan kemunculan Ben namun tidaklah selancar yang disangka.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16540229'&amp;EntityType='LinearSchedule'&amp;EntityId='cdded96b-0e82-41ab-8159-122c2e43d4ad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260929132500 +0000" stop="20260929150700 +0000">
+		<title>Kipas Belum Mati</title>
+		<desc>Mia, seorang artis meningkat naik, membuka kelab peminatnya dan dibantu oleh Lynn yang menjadi pengurus. Dengan bantuan Lynn, kelabnya maju namun ada harga yang harus dibayar di sebalik kejayaan tersebut..</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16540233'&amp;EntityType='LinearSchedule'&amp;EntityId='6c061440-7dc1-4145-a8e5-450a5cdf3457'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20260929150700 +0000" stop="20260929165200 +0000">
+		<title>Geng</title>
+		<desc>Isabella is an ex-convict who has sworn off her life of crime. Unfortunately, her old gang boss wants her to do one last drug transaction and kidnaps her mother to blackmail Isabella. With the help of her high school best friends, Mariam and Anita, Isabella goes on a road trip to save her mother.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16540249'&amp;EntityType='LinearSchedule'&amp;EntityId='56d7ab50-1ce5-4c89-bb85-41ff3ba90643'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
