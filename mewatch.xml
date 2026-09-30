@@ -56,6 +56,14 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
+	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -87,10 +95,6 @@
 	<channel id="556894">
 		<display-name>Action Hollywood Movies</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358842'&amp;EntityType='Item'&amp;EntityId='556894'&amp;Width=304&amp;Height=250" />
-	</channel>
-	<channel id="558254">
-		<display-name>Filem Mantap</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11316574'&amp;EntityType='Item'&amp;EntityId='558254'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20260929160000 +0000" stop="20260929163000 +0000">
 		<title>Yes Captain! - EP 30</title>
@@ -1077,15 +1081,15 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16703243'&amp;EntityType='LinearSchedule'&amp;EntityId='5a818851-0640-40ed-b761-19865da75c75'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840096" start="20260930062000 +0000" stop="20260930100500 +0000">
+	<programme channel="840096" start="20260930062000 +0000" stop="20260930095300 +0000">
 		<title>Diving - 20th Asian Games Aichi-Nagoya 2026 Women's 3m Springboard &amp; Men's 10m Platform Finals</title>
 		<desc>Women's 3m Springboard Final | Men's 10m Platform Final |</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16550959'&amp;EntityType='LinearSchedule'&amp;EntityId='3970c49e-c172-444c-abe6-d303b86d5d1e'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840096" start="20260930100500 +0000" stop="20260930155959 +0000">
+	<programme channel="840096" start="20260930095300 +0000" stop="20260930155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16550937'&amp;EntityType='LinearSchedule'&amp;EntityId='99ec4018-965f-42b0-a86a-cb24005059c0'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16705042'&amp;EntityType='LinearSchedule'&amp;EntityId='9f6b1712-5ac3-4451-9d65-bfb77f4cdbc9'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840096" start="20260930160000 +0000" stop="20261001015500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1097,25 +1101,25 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16550872'&amp;EntityType='LinearSchedule'&amp;EntityId='7c80ef21-fd55-499b-ae1d-1cbfe37c83e7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260930040000 +0000" stop="20260930060000 +0000">
+	<programme channel="840094" start="20260930040000 +0000" stop="20260930052800 +0000">
 		<title>Softball - 20th Asian Games Aichi-Nagoya 2026 Women's Preliminary Round - SGP vs JPN</title>
 		<desc>Women's Preliminary Round - Singapore vs Japan</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16684317'&amp;EntityType='LinearSchedule'&amp;EntityId='4cc00240-928a-4690-b6bd-f8b0bfdeed11'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260930060000 +0000" stop="20260930083000 +0000">
+	<programme channel="840094" start="20260930052800 +0000" stop="20260930092000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16701927'&amp;EntityType='LinearSchedule'&amp;EntityId='32eb4654-39fc-48dd-a24b-6f3ea74516f7'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16703750'&amp;EntityType='LinearSchedule'&amp;EntityId='2864ea8a-766b-4779-98e9-a0a2af3741f6'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260930083000 +0000" stop="20260930103000 +0000">
+	<programme channel="840094" start="20260930092000 +0000" stop="20260930105300 +0000">
 		<title>Softball - 20th Asian Games Aichi-Nagoya 2026 Women's Preliminary Round - PHI vs SGP</title>
 		<desc>Women's Preliminary Round - Philippines vs Singapore</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16684305'&amp;EntityType='LinearSchedule'&amp;EntityId='40378ee0-e77f-4e18-b084-ed25b792b16b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840094" start="20260930103000 +0000" stop="20260930155959 +0000">
+	<programme channel="840094" start="20260930105300 +0000" stop="20260930155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16701931'&amp;EntityType='LinearSchedule'&amp;EntityId='e837cdf1-c2ff-4bec-9209-efe909177a6e'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16705143'&amp;EntityType='LinearSchedule'&amp;EntityId='e80f627f-c7f7-4cd5-9a80-0faf0b522d79'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840094" start="20260930160000 +0000" stop="20261001041500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1127,15 +1131,30 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16551115'&amp;EntityType='LinearSchedule'&amp;EntityId='f67a6491-88b5-400f-b932-78ce5fa06225'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260930045500 +0000" stop="20260930090000 +0000">
-		<title>Sepak Takraw - 20th Asian Games Aichi-Nagoya 2026 Men's Quadrant Preliminary Rounds</title>
-		<desc>Men's Quadrant Preliminary Round - Singapore vs South Korea | Men's Quadrant Preliminary Round - Myanmar vs Laos | Men's Quadrant Preliminary Round - Indonesia vs Japan |</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16684329'&amp;EntityType='LinearSchedule'&amp;EntityId='818ced99-73aa-4a1a-84d8-22fa2806e8b3'&amp;Width=1280&amp;Height=720" />
+	<programme channel="840099" start="20260930045500 +0000" stop="20260930055000 +0000">
+		<title>Sepak Takraw - 20th Asian Games Aichi-Nagoya 2026 Men's Quadrant Preliminary Round - SGP vs KOR</title>
+		<desc>Men's Quadrant Preliminary Round - Singapore vs South Korea</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16704970'&amp;EntityType='LinearSchedule'&amp;EntityId='818ced99-73aa-4a1a-84d8-22fa2806e8b3'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840099" start="20260930090000 +0000" stop="20260930155959 +0000">
+	<programme channel="840099" start="20260930055000 +0000" stop="20260930071500 +0000">
+		<title>Sepak Takraw - 20th Asian Games Aichi-Nagoya 2026 Men's Quadrant Preliminary Round - MYA vs LAO</title>
+		<desc>Men's Quadrant Preliminary Round - Myanmar vs Laos</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16704157'&amp;EntityType='LinearSchedule'&amp;EntityId='7d0b6c7f-e4bc-46a5-9c12-b4077ba9ea51'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260930071500 +0000" stop="20260930083100 +0000">
+		<title>Sepak Takraw - 20th Asian Games Aichi-Nagoya 2026 Men's Quadrant Preliminary Round - INA vs JPN</title>
+		<desc>Men's Quadrant Preliminary Round - Indonesia vs Japan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16704833'&amp;EntityType='LinearSchedule'&amp;EntityId='c4711d76-c5f6-4d53-99c0-928f31c6e635'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260930083100 +0000" stop="20260930092000 +0000">
+		<title>Sepak Takraw - 20th Asian Games Aichi-Nagoya 2026 Women's Quadrant Preliminary Round - INA vs JPN</title>
+		<desc>Women's Quadrant Preliminary Round - Indonesia vs Japan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16704952'&amp;EntityType='LinearSchedule'&amp;EntityId='63715444-e463-4d1e-9e33-7f133b333c24'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840099" start="20260930092000 +0000" stop="20260930155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16551119'&amp;EntityType='LinearSchedule'&amp;EntityId='ab299793-8757-40d6-b313-ba951b6e1353'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16704956'&amp;EntityType='LinearSchedule'&amp;EntityId='aa902aa3-0d2c-466a-8245-f93da2413372'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840099" start="20260930160000 +0000" stop="20260930235000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1167,15 +1186,25 @@
 		<desc>Men's Quarter-final - Kazakhstan vs Thailand</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16703258'&amp;EntityType='LinearSchedule'&amp;EntityId='8ffedeac-df4c-487a-ab35-b02d97e902bb'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840097" start="20260930044500 +0000" stop="20260930070000 +0000">
-		<title>Beach Volleyball - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Quarter-final</title>
-		<desc>Men's Quarter-final - Japan vs China | Men's Quarter-final - Indonesia vs China | </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16701881'&amp;EntityType='LinearSchedule'&amp;EntityId='75fd9e77-382e-4ee9-83c7-e74d98be869d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="840097" start="20260930070000 +0000" stop="20260930155959 +0000">
+	<programme channel="840097" start="20260930044500 +0000" stop="20260930050000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16551047'&amp;EntityType='LinearSchedule'&amp;EntityId='810d512d-ba4c-4e24-8091-f381c47c1a44'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16703828'&amp;EntityType='LinearSchedule'&amp;EntityId='782f9d21-6231-472b-8c39-c8d1bbac417a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260930050000 +0000" stop="20260930055500 +0000">
+		<title>Beach Volleyball - 20th Asian Games Aichi-Nagoya 2026 Men's Quarter-final - JPN vs CHN</title>
+		<desc>Men's Quarter-final - Japan vs China</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16703832'&amp;EntityType='LinearSchedule'&amp;EntityId='ba8772d3-510c-4b82-b602-303e3827e912'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260930055500 +0000" stop="20260930065000 +0000">
+		<title>Beach Volleyball - 20th Asian Games Aichi-Nagoya 2026 Men's Quarter-final - INA vs CHN</title>
+		<desc>Men's Quarter-final - Indonesia vs China</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16701881'&amp;EntityType='LinearSchedule'&amp;EntityId='75fd9e77-382e-4ee9-83c7-e74d98be869d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840097" start="20260930065000 +0000" stop="20260930155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16704044'&amp;EntityType='LinearSchedule'&amp;EntityId='180fe8a7-ea36-46d4-9682-ceca86c2d4db'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840097" start="20260930160000 +0000" stop="20261001000000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1192,12 +1221,22 @@
 		<desc>Women's Team Quarter-final - Singapore vs India</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16684321'&amp;EntityType='LinearSchedule'&amp;EntityId='14a65937-4a40-4b69-b107-979d07d1ff48'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840095" start="20260930021200 +0000" stop="20260930155959 +0000">
+	<programme channel="840095" start="20260930021200 +0000" stop="20260930085800 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16701923'&amp;EntityType='LinearSchedule'&amp;EntityId='151ca523-e085-4810-8bad-b07c45d2c97a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840095" start="20260930160000 +0000" stop="20261001000000 +0000">
+	<programme channel="840095" start="20260930085800 +0000" stop="20260930120000 +0000">
+		<title>Sport Climbing - 20th Asian Games Aichi-Nagoya 2026 Men's Boulder Final &amp; Women's Speed 4 Quarterfinals &amp; Finals</title>
+		<desc>Men's Boulder Final | Women's Speed 4 Quarter-finals | Women's Speed 4 Finals |</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16704116'&amp;EntityType='LinearSchedule'&amp;EntityId='e9869945-78d0-461d-ae55-87eb43802dc1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260930120000 +0000" stop="20260930155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16704120'&amp;EntityType='LinearSchedule'&amp;EntityId='fb8c6dd6-bcb6-494b-a78a-f40c0f2224e1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20260930160000 +0000" stop="20260930212000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16569092'&amp;EntityType='LinearSchedule'&amp;EntityId='2bbab7d1-fcde-43fd-9776-73fed15f110f'&amp;Width=1280&amp;Height=720" />
@@ -1381,6 +1420,26 @@
 		<title>No programme available now. Next broadcast on 1st October, Thursday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 1st October, Thursday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16558428'&amp;EntityType='LinearSchedule'&amp;EntityId='81b09438-90c4-4060-bac7-2122a5efe69e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260929160000 +0000" stop="20260930160000 +0000">
+		<title>No Programme available now. Next Broadcast on 1st October, Thursday 8.18pm. FIFA ASEAN Cup 2026™: Indonesia vs Bangladesh</title>
+		<desc>LIVE 5 will commence broadcast of the FIFA ASEAN Cup 2026™: Indonesia vs Bangladesh on 1st October, Thursday 8.18pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16633436'&amp;EntityType='LinearSchedule'&amp;EntityId='fbc2c54b-7bac-4159-ad57-ac727e24e778'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20260930160000 +0000" stop="20261001121800 +0000">
+		<title>No Programme available now. Next Broadcast on 1st October, Thursday 8.18pm. FIFA ASEAN Cup 2026™: Indonesia vs Bangladesh</title>
+		<desc>LIVE 5 will commence broadcast of the FIFA ASEAN Cup 2026™: Indonesia vs Bangladesh on 1st October, Thursday 8.18pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16558950'&amp;EntityType='LinearSchedule'&amp;EntityId='8310574a-e701-48f4-84ce-f9e441e90cf2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20260929160000 +0000" stop="20260930160000 +0000">
+		<title>No Programme available now. Next Broadcast on 1st October, Thursday 8.18pm. FIFA ASEAN Cup 2026™: Malaysia vs Singapore</title>
+		<desc>LIVE 6 will commence broadcast of the FIFA ASEAN Cup 2026™: Malaysia vs Singapore on 1st October, Thursday 8.18pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16541226'&amp;EntityType='LinearSchedule'&amp;EntityId='3dafab86-5dee-4d8c-acea-836dc60378f5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20260930160000 +0000" stop="20261001121800 +0000">
+		<title>No Programme available now. Next Broadcast on 1st October, Thursday 8.18pm. FIFA ASEAN Cup 2026™: Malaysia vs Singapore</title>
+		<desc>LIVE 6 will commence broadcast of the FIFA ASEAN Cup 2026™: Malaysia vs Singapore on 1st October, Thursday 8.18pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16558979'&amp;EntityType='LinearSchedule'&amp;EntityId='054a582c-aa4f-48f0-a513-86c4551d08dc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260929154044 +0000" stop="20260929172245 +0000">
 		<title>MasterChef Australia Season 06 - Pressure Test</title>
@@ -2237,81 +2296,6 @@
 		<desc>A group of Australian commandos launch a secret mission against Japanese forces in World II.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16560692'&amp;EntityType='LinearSchedule'&amp;EntityId='be59cbcc-7f0c-4cd2-ae8b-c096286a077f'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558254" start="20260929150700 +0000" stop="20260929165200 +0000">
-		<title>Geng</title>
-		<desc>Isabella is an ex-convict who has sworn off her life of crime. Unfortunately, her old gang boss wants her to do one last drug transaction and kidnaps her mother to blackmail Isabella. With the help of her high school best friends, Mariam and Anita, Isabella goes on a road trip to save her mother.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16540249'&amp;EntityType='LinearSchedule'&amp;EntityId='56d7ab50-1ce5-4c89-bb85-41ff3ba90643'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260929165200 +0000" stop="20260929182700 +0000">
-		<title>Keabadian Cinta</title>
-		<desc>3 couples falls in love with each other in 3 different love stories.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16554004'&amp;EntityType='LinearSchedule'&amp;EntityId='f9188ed7-25e7-4c54-bdcb-7e2b90478080'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260929182700 +0000" stop="20260929201500 +0000">
-		<title>Boyfriend Aku Dari ...</title>
-		<desc>After being disappointed multiple times, Risya is introduced by a friend to Andy, a nerdy young man. They fall in love but in actuality, Andy is a boyfriend from 'hell'!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16554012'&amp;EntityType='LinearSchedule'&amp;EntityId='0055d91d-fee3-4793-858f-03191d671491'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260929201500 +0000" stop="20260929220000 +0000">
-		<title>We’ll be back at 6.00am</title>
-		<desc>We’ll be back at 6.00am</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16554008'&amp;EntityType='LinearSchedule'&amp;EntityId='ccd8351d-f755-45cd-9077-aefb3463d7f9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260929220000 +0000" stop="20260929234800 +0000">
-		<title>Gengster Leng Chai</title>
-		<desc>Black is a failure of a gangster, being too soft hearted with people. After meeting Mawar, he is determined to change despite the objections of others.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16554000'&amp;EntityType='LinearSchedule'&amp;EntityId='43c25968-1423-4511-bc34-f2ff6db43084'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260929234800 +0000" stop="20260930011100 +0000">
-		<title>Strawberi Karipap Sesat Kat Paris</title>
-		<desc>Nini and Haikal start their big adventure to find their aunty Lisa who gets a job offer as a professional photographer in Paris. Unfortunately, their journey turns upside down when they arrive in Paris and ruin a newly-wed coupleís honeymoon.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16557762'&amp;EntityType='LinearSchedule'&amp;EntityId='00445e93-9061-4994-ac99-fe339537323d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930011100 +0000" stop="20260930025400 +0000">
-		<title>Nota Silam</title>
-		<desc>Munirah menjumpai sebuah nota cinta di dalam sebuah buku yang diperolehi secara rambang dari 'blind date with a book' dan cuba untuk menemukan pasangan di dalam nota tersebut yang merubah hidup Munirah</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16557770'&amp;EntityType='LinearSchedule'&amp;EntityId='61a7a36c-52f3-4b1c-b2f2-f61ac3bbc20b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930025400 +0000" stop="20260930044200 +0000">
-		<title>Bukan Cerita Cinta Cliche</title>
-		<desc>Seorang penulis skrip kisah-kisah cinta tetapi masih bersendirian mengimpikan cinta dalam kehidupan realitinya, lalu dia menyertai sebuah kumpulan terapi untuk berkongsi masalah peribadinya.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16557758'&amp;EntityType='LinearSchedule'&amp;EntityId='82eded1e-9701-4426-93ab-60fa6bf72d6d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930044200 +0000" stop="20260930062900 +0000">
-		<title>Puyah &amp; Putat</title>
-		<desc>Kisah pengembaraan Puyah, seorang gadis kampung becok yang disukai ramai, apabila dia melawat Kuala Lumpur dan termasuk set filem secara tak sengaja, dan tak semena-mena mula mendapat nama sebagai pelakon.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16557774'&amp;EntityType='LinearSchedule'&amp;EntityId='ce894ce1-45a6-47d8-9301-53ddfede0529'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930062900 +0000" stop="20260930081600 +0000">
-		<title>Ting Tong, Love</title>
-		<desc>Bored by his mother's insistence on his getting married, Hairi finally agrees on the condition that he could choose his own soul mate. Does the choice of Hairi meet with his mother's approval?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16557746'&amp;EntityType='LinearSchedule'&amp;EntityId='57c2d3b9-b75b-495d-b1dc-decb3589e622'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930081600 +0000" stop="20260930095700 +0000">
-		<title>Chomel</title>
-		<desc>After her mother's death, Mimi's family fell apart. One day, Mimi finds Chomel, a cat and brings it home, only for it to cause a series of events that brings her broken family back together again.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16557750'&amp;EntityType='LinearSchedule'&amp;EntityId='e38a26df-2dad-4b32-b3c1-4fee8587b2b2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930095700 +0000" stop="20260930114000 +0000">
-		<title>My Future Husband</title>
-		<desc>Emily berharap untuk menemui bakal suami dan pada suatu hari muncul seorang lelaki bernama Atta yang mengaku dia adalah suami Emily dari masa hadapan.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16557778'&amp;EntityType='LinearSchedule'&amp;EntityId='207fc3da-d55a-47cb-b496-b0164c927a41'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930114000 +0000" stop="20260930132500 +0000">
-		<title>Perangkap Perkahwinan</title>
-		<desc>Three best friends promised to get married, at the same time when they turn 26 years old. Their perceptions of marriage life begin to change and conflict ensues.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16557742'&amp;EntityType='LinearSchedule'&amp;EntityId='a8999bff-3f53-4bd4-8275-0aff9bf52caa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930132500 +0000" stop="20260930150700 +0000">
-		<title>Cik Puan Sinderella</title>
-		<desc>This is a lighthearted family drama about a teenage girl who is closely guarded by her mother.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16557754'&amp;EntityType='LinearSchedule'&amp;EntityId='6e0969a8-db30-4a5e-bc95-c6919566fe07'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930150700 +0000" stop="20260930165600 +0000">
-		<title>Anak Kerak</title>
-		<desc>Husin telah menggunakan ilmu hitam iaitu dengan ‘Anak Kerak' demi untuk mendapatkan kekebalan, kesenangan dan kemewahan hidup di dunia</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16557766'&amp;EntityType='LinearSchedule'&amp;EntityId='e2980301-3374-462e-8d1a-f708748cb619'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20260930163000 +0000" stop="20260930173000 +0000">
 		<title>Almost Paradise S2 - EP 8</title>
 		<desc>Almost Paradise returns for its second season with more island life rhythms and unexpected crimincal cases, which former DEA Agent Alex Walker cannot avoid despite being in forced retirement.</desc>
@@ -2452,15 +2436,20 @@
 		<desc>Pogo is excited for Jeff's birthday celebration but will Jeff want a big party like Pogo?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16689214'&amp;EntityType='LinearSchedule'&amp;EntityId='b9b57801-5a6e-43d1-890f-f7baf051cbfc'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20261001055500 +0000" stop="20261001110000 +0000">
-		<title>(Live) 20th Asian Games Aichi-Nagoya 2026: Daily Action At The Games 1 - EP 12</title>
-		<desc>(Live) 20th Asian Games Aichi-Nagoya 2026: Daily Action At The Games 1</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16559752'&amp;EntityType='LinearSchedule'&amp;EntityId='a0a9866d-096f-4a31-801f-944c4f2840e7'&amp;Width=1280&amp;Height=720" />
+	<programme channel="97098" start="20261001055500 +0000" stop="20261001074000 +0000">
+		<title>Rugby Sevens - 20th Asian Games Aichi-Nagoya 2026: Men's &amp; Women's Pool Stage</title>
+		<desc>(Delayed) Men's Pool Stage - Singapore vs United Arab Emirates | Women's Pool Stage - Singapore vs Japan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16704010'&amp;EntityType='LinearSchedule'&amp;EntityId='5c1b6671-fd6d-4b43-93cf-32905f344e82'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97098" start="20261001110000 +0000" stop="20261001113000 +0000">
-		<title>(Live) 20th Asian Games Aichi-Nagoya 2026: Daily Action At The Games 2 - EP 9</title>
-		<desc>(Live) 20th Asian Games Aichi-Nagoya 2026: Daily Action At The Games 2</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16559814'&amp;EntityType='LinearSchedule'&amp;EntityId='23dcf361-6503-4f92-b984-f291e2b9c354'&amp;Width=1280&amp;Height=720" />
+	<programme channel="97098" start="20261001074000 +0000" stop="20261001094000 +0000">
+		<title>Softball - 20th Asian Games Aichi-Nagoya 2026: Women's Preliminary Round - KOR vs SGP</title>
+		<desc>(Delayed) Women's Preliminary Round - South Korea vs Singapore</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16704016'&amp;EntityType='LinearSchedule'&amp;EntityId='d8ffaee9-dc6b-4f8c-b393-5c571700868b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97098" start="20261001094000 +0000" stop="20261001113000 +0000">
+		<title>Ju-Jitsu - 20th Asian Games Aichi-Nagoya 2026: Men’s -62kg &amp; -69kg | Women’s -48kg Finals</title>
+		<desc>(Delayed) Men’s -62kg Finals | Men’s -69kg Finals | Women’s -48kg Finals</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16704003'&amp;EntityType='LinearSchedule'&amp;EntityId='dc7a6ab7-7259-41a8-bc48-1950e998f5d2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20261001113000 +0000" stop="20261001120000 +0000">
 		<title>(Live) 20th Asian Games Aichi-Nagoya 2026: Today At The Games - EP 12</title>
@@ -2664,7 +2653,7 @@
 	</programme>
 	<programme channel="97104" start="20261001143000 +0000" stop="20261001150000 +0000">
 		<title>Focus - EP 27 焦点</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>Najib's house arrest has boosted UMNO morale, can It win Malay votes and reshape electoral strategies? Why has Japan sent its Self-Defence Forces to fight fires in Indonesia, and what does this reveal about Prabowo's diplomacy? China's K shape divide is widening, Will AI deepen the gap, and can stronger consumption lift the downward arm?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16559366'&amp;EntityType='LinearSchedule'&amp;EntityId='2bb8d82b-4ea5-4273-ab63-d862210b9499'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20261001150000 +0000" stop="20261001160000 +0000">
@@ -3258,7 +3247,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16589408'&amp;EntityType='LinearSchedule'&amp;EntityId='88522e8a-c0b6-4c30-a7e6-198d7c293773'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840097" start="20261001000000 +0000" stop="20261001102500 +0000">
-		<title>Rugby Sevens - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Pool Phase</title>
+		<title>Rugby Sevens - 20th Asian Games Aichi-Nagoya 2026 Men's &amp; Women's Pool Stage</title>
 		<desc>Men's Pool C - Singapore vs United Arab Emirates | Women's Pool C - Singapore vs Japan | Men's Pool C - Singapore vs Sri Lanka | Women's Pool C - Singapore vs Thailand</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16569129'&amp;EntityType='LinearSchedule'&amp;EntityId='6df5c5f2-643e-4770-a93d-cee51fd96abe'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -3272,15 +3261,25 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16589396'&amp;EntityType='LinearSchedule'&amp;EntityId='42b202f1-0741-4233-9f59-4956a7f25bba'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840095" start="20261001000000 +0000" stop="20261001023000 +0000">
-		<title>Archery - 20th Asian Games Aichi-Nagoya 2026 Women's Compound Individual</title>
-		<desc>Women's Compound Individual</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16569100'&amp;EntityType='LinearSchedule'&amp;EntityId='7048736e-efbe-4a7b-b2c0-5ce55cfef6ae'&amp;Width=1280&amp;Height=720" />
+	<programme channel="840095" start="20260930212000 +0000" stop="20261001050000 +0000">
+		<title>Golf - 20th Asian Games Aichi-Nagoya 2026 Women's Individual Stroke Play &amp; Women's Team Round 2</title>
+		<desc>Women's Individual Stroke Play Round 2 | Women's Team Round 2 |</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16704939'&amp;EntityType='LinearSchedule'&amp;EntityId='81275d87-24aa-4859-83a2-c4ee1dde1d4c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840095" start="20261001023000 +0000" stop="20261001155959 +0000">
+	<programme channel="840095" start="20261001050000 +0000" stop="20261001090000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16569088'&amp;EntityType='LinearSchedule'&amp;EntityId='0477fe8b-18d9-44e7-a75e-4ba1ac96aadc'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16704935'&amp;EntityType='LinearSchedule'&amp;EntityId='a2924a7a-6002-413c-a251-10f67f37fbd8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20261001090000 +0000" stop="20261001120000 +0000">
+		<title>Sport Climbing - 20th Asian Games Aichi-Nagoya 2026 Women's Boulder Final &amp; Men's Speed 4 Quarterfinals &amp; Finals</title>
+		<desc>Women's Boulder Final | Men's Speed 4 Quarter-finals | Men's Speed 4 Finals |</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16705125'&amp;EntityType='LinearSchedule'&amp;EntityId='4b4e2427-c978-4515-bd2e-b7a0d4d12a00'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840095" start="20261001120000 +0000" stop="20261001155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16705129'&amp;EntityType='LinearSchedule'&amp;EntityId='23e08936-4cd0-4a09-a36d-a5dc1787d82d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840095" start="20261001160000 +0000" stop="20261001235500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -3451,6 +3450,36 @@
 		<title>No programme available now. Next broadcast on 2nd October, Friday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 2nd October, Friday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16579124'&amp;EntityType='LinearSchedule'&amp;EntityId='4522116b-9edc-4747-98ac-8b69ba612c8a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20261001121800 +0000" stop="20261001143000 +0000">
+		<title>FIFA ASEAN Cup 2026™: Indonesia vs Bangladesh</title>
+		<desc>FIFA ASEAN Cup 2026 brings together teams from across Southeast Asia and the wider region for an exciting international football competition. Catch the action as the teams compete through the group stage for a place in the final and a chance to be crowned champions.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16558967'&amp;EntityType='LinearSchedule'&amp;EntityId='5991bc1d-a83e-4f42-aefd-bad8c4f7b1bb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20261001143000 +0000" stop="20261001160000 +0000">
+		<title>No Programme available now. Next Broadcast on 2nd October, Friday 4.48pm. FIFA ASEAN Cup 2026™: Vietnam vs Pakistan</title>
+		<desc>LIVE 5 will commence broadcast of the FIFA ASEAN Cup 2026™: Vietnam vs Pakistan on 2nd October, Friday 4.48pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16558978'&amp;EntityType='LinearSchedule'&amp;EntityId='b41de2bc-4d19-498a-9db1-4eb4f34ea4d8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20261001160000 +0000" stop="20261002084800 +0000">
+		<title>No Programme available now. Next Broadcast on 2nd October, Friday 4.48pm. FIFA ASEAN Cup 2026™: Vietnam vs Pakistan</title>
+		<desc>LIVE 5 will commence broadcast of the FIFA ASEAN Cup 2026™: Vietnam vs Pakistan on 2nd October, Friday 4.48pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16579398'&amp;EntityType='LinearSchedule'&amp;EntityId='f21210f6-a967-433e-beef-668dc4cdda5c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20261001121800 +0000" stop="20261001143000 +0000">
+		<title>FIFA ASEAN Cup 2026™: Malaysia vs Singapore</title>
+		<desc>FIFA ASEAN Cup 2026 brings together teams from across Southeast Asia and the wider region for an exciting international football competition. Catch the action as the teams compete through the group stage for a place in the final and a chance to be crowned champions.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16558990'&amp;EntityType='LinearSchedule'&amp;EntityId='5fd1098b-09da-4871-802e-31c07f4465b9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20261001143000 +0000" stop="20261001160000 +0000">
+		<title>No Programme available now. Next Broadcast on 2nd October, Friday 4.48pm. FIFA ASEAN Cup 2026™: Thailand vs Philippines</title>
+		<desc>LIVE 6 will commence broadcast of the FIFA ASEAN Cup 2026™: Thailand vs Philippines on 2nd October, Friday 4.48pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16558996'&amp;EntityType='LinearSchedule'&amp;EntityId='0a65b9f8-627c-4809-a1f6-e71cd79ca991'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20261001160000 +0000" stop="20261002084800 +0000">
+		<title>No Programme available now. Next Broadcast on 2nd October, Friday 4.48pm. FIFA ASEAN Cup 2026™: Thailand vs Philippines</title>
+		<desc>LIVE 6 will commence broadcast of the FIFA ASEAN Cup 2026™: Thailand vs Philippines on 2nd October, Friday 4.48pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16579441'&amp;EntityType='LinearSchedule'&amp;EntityId='86db3440-0d5a-41bb-96d9-eafe5fd022fc'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20260930170322 +0000" stop="20260930180032 +0000">
 		<title>MasterChef Australia Season 06 - Two Part Challenge - Part 2: Mirror The Menu</title>
@@ -4251,75 +4280,5 @@
 		<title>Weapons of Death</title>
 		<desc>A police commissioner tries to bring a gangster to justice as the kingpin's out-of-control crimes set even his own underworld allies against him.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16580876'&amp;EntityType='LinearSchedule'&amp;EntityId='c51f6c50-6aeb-42c9-bb44-9aeee1911219'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930165600 +0000" stop="20260930184200 +0000">
-		<title>Jatuh Cinta Buta</title>
-		<desc>Telefilem komedi romantik tentang perkenalan singkat di antara Zulin, seorang gadis yang tidak pernah bercinta, dengan Izlan, seorang duda dalam satu 'blind date' yang diaturkan oleh Nadya Ramanshah.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16572066'&amp;EntityType='LinearSchedule'&amp;EntityId='082a3120-52f5-4aa5-93fc-2a8449c6d745'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930184200 +0000" stop="20260930202900 +0000">
-		<title>Cupcake Mama</title>
-		<desc>Hanna, an active woman, is becoming bored with her daily life. She soon gets the idea to start a business selling cupcakes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16572074'&amp;EntityType='LinearSchedule'&amp;EntityId='d01021a9-6621-44a8-ac96-35accc5748ac'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930202900 +0000" stop="20260930220000 +0000">
-		<title>We’ll be back at 6.00am</title>
-		<desc>We’ll be back at 6.00am</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16572062'&amp;EntityType='LinearSchedule'&amp;EntityId='5d9b4eb2-e12c-443c-8ca0-0a6ad91d7a84'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930220000 +0000" stop="20260930234200 +0000">
-		<title>Mat So'od</title>
-		<desc>Mat So'od merupakan penglipurlara di kampungnya. Namun berlawanan dengan kerjayanya, Mat So'od merupakan seorang pemurung hampir sepanjang hidupnya.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16572070'&amp;EntityType='LinearSchedule'&amp;EntityId='b516f14c-cf01-4992-8a92-4168f04d2288'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20260930234200 +0000" stop="20261001013000 +0000">
-		<title>Perkahwinan Dari ...</title>
-		<desc>Pasangan selebriti terkenal di Malaysia, Asha dan Mal terdesak untuk menjaga rahsia perkahwinan mereka dari diketahui oleh pengurus mereka, Feek.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16577322'&amp;EntityType='LinearSchedule'&amp;EntityId='6852d514-e4df-4c48-b92d-5d7e14463ced'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261001013000 +0000" stop="20261001031600 +0000">
-		<title>Girlfriend Aku Dari Neraka</title>
-		<desc>Kisah Rudi yang telah menjalinkan hubungan kekasih bersama Tasha, atau lebih dikenali sebagai "Girlfriend Dari Neraka". Lakonan Aiman Hakim Ridza, Sharifah Sakinah dan Ayda Jebat.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16577310'&amp;EntityType='LinearSchedule'&amp;EntityId='ffcae1ad-7c73-4ed8-8e1a-c8033ccda063'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261001031600 +0000" stop="20261001050100 +0000">
-		<title>Bawang Putih Bawang Holland</title>
-		<desc>Pak Mat is trying to find husbands for his two daughters fearing they would be old spinsters, he runs an audition causing further chaos.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16577290'&amp;EntityType='LinearSchedule'&amp;EntityId='31c96f94-bdfd-45ce-ade2-bc50c70b9a10'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261001050100 +0000" stop="20261001064800 +0000">
-		<title>Cupcake Mama</title>
-		<desc>Hanna, an active woman, is becoming bored with her daily life. She soon gets the idea to start a business selling cupcakes.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16577294'&amp;EntityType='LinearSchedule'&amp;EntityId='f5eaefaa-1d25-473b-9f6c-3f7341f61d47'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261001064800 +0000" stop="20261001083200 +0000">
-		<title>Bila Kau Datang</title>
-		<desc>The sudden presence of a little girl in a man's life raises thousands of questions, yet it also blossoms into a pretty special relationship.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16577314'&amp;EntityType='LinearSchedule'&amp;EntityId='4beb2f3d-2855-4007-a6ea-951973548e0b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261001083200 +0000" stop="20261001101800 +0000">
-		<title>Kampung Arena Panggang</title>
-		<desc>Di dalam sebuah kampung, pasti terdapat perebutan kuasa. Siapakah yang bakal memegang jawatan tertinggi? Saksikan gelagat lucu mereka berentap untuk digelar ketua kampung.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16577298'&amp;EntityType='LinearSchedule'&amp;EntityId='a4eeaa1d-f740-47dc-8545-3119a18d9243'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261001101800 +0000" stop="20261001120500 +0000">
-		<title>Nyanyuk</title>
-		<desc>Zali is sad with the condition of his wife, Minah who he thinks is senile when in fact he is the one facing the disease.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16577326'&amp;EntityType='LinearSchedule'&amp;EntityId='155271ed-d85d-4b78-96e3-c8c66f27f4c3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261001120500 +0000" stop="20261001135600 +0000">
-		<title>Jongkong</title>
-		<desc>Wan Ibrahim perlu mencari penyelesaian segera untuk melarikan diri daripada pakciknya, Wan Usin, dengan menjual beberapa jongkong emas yang dirompak oleh mereka, dan dia perlu melalui pelbagai cabaran.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16577302'&amp;EntityType='LinearSchedule'&amp;EntityId='b048d2e5-dbf6-4a6e-aa77-4b74c251da22'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261001135600 +0000" stop="20261001153800 +0000">
-		<title>Resipi</title>
-		<desc>Radiah pindah semula ke rumah ibubapanya demi untuk menjaga ayahnya lalu mula memasak mengikut resipi arwah ibunya, dalam usahanya Radiah mula mempelajari tentang dirinya dan juga tentang ibu dan ayahnya.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16577318'&amp;EntityType='LinearSchedule'&amp;EntityId='3b973197-76dd-4340-95d9-857c27b57f52'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261001153800 +0000" stop="20261001170700 +0000">
-		<title>Strawberi Karipap Hello Gold Coast</title>
-		<desc>Nini dan Haikal pergi bercuti ke Gold Coast, Australia. Percutian mereka tidak berjalan seperti yang dirancang. Namun akhirnya ia menjadi satu pengembaraan yang hebat.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16577306'&amp;EntityType='LinearSchedule'&amp;EntityId='f29a0fc0-08f8-44eb-972b-792fc7ec0877'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
