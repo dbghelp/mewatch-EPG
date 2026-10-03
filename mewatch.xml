@@ -1026,7 +1026,7 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16609629'&amp;EntityType='LinearSchedule'&amp;EntityId='65f658f4-c02a-4e3e-9be8-a6011bf437f4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840096" start="20261003160000 +0000" stop="20261004155959 +0000">
+	<programme channel="840096" start="20261003160000 +0000" stop="20261004085500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16629190'&amp;EntityType='LinearSchedule'&amp;EntityId='0061ba47-370b-4f83-a760-08446944c7a0'&amp;Width=1280&amp;Height=720" />
@@ -3175,6 +3175,16 @@
 		<title>Headline News</title>
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16635286'&amp;EntityType='LinearSchedule'&amp;EntityId='97a5665e-6210-4a03-9fbb-9e87b8544da0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840096" start="20261004085500 +0000" stop="20261004110000 +0000">
+		<title>Closing Ceremony - 20th Asian Games Aichi-Nagoya 2026 Closing Ceremony - 20th Asian Games Aichi-Nagoya 2026</title>
+		<desc>The 20th Asian Games Aichi-Nagoya 2026 draws to a memorable close with a spectacular Closing Ceremony celebrating the achievements, passion and friendships forged throughout 16 days of competition. Featuring vibrant performances and traditional ceremonial elements, the Closing Ceremony celebrates Asia’s sporting spirit and marks the conclusion of the Games under the official slogan “IMAGINE ONE ASIA....</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16754011'&amp;EntityType='LinearSchedule'&amp;EntityId='887333f9-de33-4a00-a737-71eedca5fab1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="840096" start="20261004110000 +0000" stop="20261004155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16754007'&amp;EntityType='LinearSchedule'&amp;EntityId='9f226999-da62-41cd-b6ce-fe40d984db24'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840096" start="20261004160000 +0000" stop="20261005155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
