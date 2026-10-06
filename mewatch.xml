@@ -56,9 +56,9 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	<channel id="97078">
+		<display-name>LIVE 2</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
 	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
@@ -1291,20 +1291,15 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 7th October, Wednesday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16669754'&amp;EntityType='LinearSchedule'&amp;EntityId='0f9aa569-064c-4f00-a313-220623b37d91'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20261005124800 +0000" stop="20261005161500 +0000">
-		<title>FIFA ASEAN Cup 2026™ Final : Indonesia vs Thailand</title>
-		<desc>FIFA ASEAN Cup 2026 brings together teams from across Southeast Asia and the wider region for an exciting international football competition. Catch the action as the teams compete through the group stage for a place in the final and a chance to be crowned champions.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16798359'&amp;EntityType='LinearSchedule'&amp;EntityId='19c36866-bff6-4bb1-a866-ed328751506e'&amp;Width=1280&amp;Height=720" />
+	<programme channel="97078" start="20261005160000 +0000" stop="20261006160000 +0000">
+		<title>No Programme available now. Next Broadcast on 7th October, Wednesday 9pm. ASEAN Shopee Cup™ 2026/2027: Kuching City FC vs Tampines Rovers FC</title>
+		<desc>LIVE 2 will commence broadcast of the ASEAN Shopee Cup™ 2026/2027: Kuching City FC vs Tampines Rovers FC on 7th October, Wednesday 9pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16650685'&amp;EntityType='LinearSchedule'&amp;EntityId='654f5da7-3a27-42f8-a926-a923e3adc9d7'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20261005161500 +0000" stop="20261006160000 +0000">
-		<title>No Programme available now. Next Broadcast on 15th October, Thursday 6pm. AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC on 15th October, Thursday 6pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16801648'&amp;EntityType='LinearSchedule'&amp;EntityId='de9c95cf-2f0d-4ee6-8e71-574c9c6d671b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20261006160000 +0000" stop="20261007160000 +0000">
-		<title>No Programme available now. Next Broadcast on 15th October, Thursday 6pm. AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC on 15th October, Thursday 6pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16798584'&amp;EntityType='LinearSchedule'&amp;EntityId='811c4f44-7574-41b7-8cac-2227d0129c89'&amp;Width=1280&amp;Height=720" />
+	<programme channel="97078" start="20261006160000 +0000" stop="20261007130000 +0000">
+		<title>No Programme available now. Next Broadcast on 7th October, Wednesday 9pm. ASEAN Shopee Cup™ 2026/2027: Kuching City FC vs Tampines Rovers FC</title>
+		<desc>LIVE 2 will commence broadcast of the ASEAN Shopee Cup™ 2026/2027: Kuching City FC vs Tampines Rovers FC on 7th October, Wednesday 9pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16669852'&amp;EntityType='LinearSchedule'&amp;EntityId='ab2b0322-79a5-4ffc-99a4-993413161fe2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20261005155515 +0000" stop="20261005165403 +0000">
 		<title>MasterChef Australia Season 03 - Elimination Challenge 7</title>
@@ -3441,10 +3436,20 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 8th October, Thursday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16690344'&amp;EntityType='LinearSchedule'&amp;EntityId='19aacd60-8348-4746-9f20-c0001cbaf1bd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20261007160000 +0000" stop="20261008160000 +0000">
-		<title>No Programme available now. Next Broadcast on 15th October, Thursday 6pm. AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC on 15th October, Thursday 6pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16798588'&amp;EntityType='LinearSchedule'&amp;EntityId='5b9c90eb-24a2-42df-8256-950a0c4c19bd'&amp;Width=1280&amp;Height=720" />
+	<programme channel="97078" start="20261007130000 +0000" stop="20261007150000 +0000">
+		<title>ASEAN Shopee Cup™ 2026/2027: Kuching City FC vs Tampines Rovers FC</title>
+		<desc>The ASEAN Club Championship Shopee Cup™ 2026/27 brings together Southeast Asia’s leading football clubs as they compete for the title of ASEAN Club Champion. Featuring top league champions, cup winners and leading clubs from across the region, the tournament kicks off with the Qualifying Round Play-Offs before progressing to the Group Stage and knockout rounds. Catch the region’s best clubs battle for ASEAN football supremacy.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16800813'&amp;EntityType='LinearSchedule'&amp;EntityId='cb1d847c-aa00-4c6f-be93-3ed0fc4985bb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20261007150000 +0000" stop="20261007160000 +0000">
+		<title>No Programme available now. Next Broadcast on 8th October, Thursday 7.30pm. ASEAN Shopee Cup™ 2026/2027: Lion City Sailors FC vs Cong An Ha Noi FC</title>
+		<desc>LIVE 2 will commence broadcast of the ASEAN Shopee Cup™ 2026/2027: Lion City Sailors FC vs Cong An Ha Noi FC on 8th October, Wednesday 7.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16800809'&amp;EntityType='LinearSchedule'&amp;EntityId='1b9340a3-ad19-402e-8461-25001c024b95'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="97078" start="20261007160000 +0000" stop="20261008113000 +0000">
+		<title>No Programme available now. Next Broadcast on 8th October, Thursday 7.30pm. ASEAN Shopee Cup™ 2026/2027: Lion City Sailors FC vs Cong An Ha Noi FC</title>
+		<desc>LIVE 2 will commence broadcast of the ASEAN Shopee Cup™ 2026/2027: Lion City Sailors FC vs Cong An Ha Noi FC on 8th October, Wednesday 7.30pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16690426'&amp;EntityType='LinearSchedule'&amp;EntityId='3b69880f-eff3-4d2c-a8ab-e4d660f2f4b0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20261006170200 +0000" stop="20261006175303 +0000">
 		<title>MasterChef New Zealand Season 05 - Team Degustation Part 1</title>
