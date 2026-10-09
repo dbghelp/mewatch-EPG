@@ -52,6 +52,10 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
+	<channel id="98201">
+		<display-name>SPL CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -91,10 +95,6 @@
 	<channel id="556894">
 		<display-name>Action Hollywood Movies</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358842'&amp;EntityType='Item'&amp;EntityId='556894'&amp;Width=304&amp;Height=250" />
-	</channel>
-	<channel id="558254">
-		<display-name>Filem Mantap</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11316574'&amp;EntityType='Item'&amp;EntityId='558254'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20261008160000 +0000" stop="20261008163000 +0000">
 		<title>Yes Captain! - EP 35</title>
@@ -1120,6 +1120,16 @@
 		<title>No Programme available now. Next Broadcast on 10th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Geylang International FC vs FC Jurong on 10th October, Saturday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16735049'&amp;EntityType='LinearSchedule'&amp;EntityId='3b491ba0-4a49-45ef-9483-aa21debcce6d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20261008160000 +0000" stop="20261009160000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Lion City Sailors FC vs Young Lions on 11th October, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16710630'&amp;EntityType='LinearSchedule'&amp;EntityId='339a8f7f-10c1-43a5-9582-3b706fdc0dfa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20261009160000 +0000" stop="20261010160000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Lion City Sailors FC vs Young Lions on 11th October, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16735057'&amp;EntityType='LinearSchedule'&amp;EntityId='357ecd5c-7d9d-4be0-b74e-8d4fd0eceda8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20261008160000 +0000" stop="20261009110000 +0000">
 		<title>No programme available now. Next broadcast on 9th October, Friday 7pm. The Wonder Shop Home Shopping</title>
@@ -2151,81 +2161,6 @@
 		<desc>An Italian prison warden is forced to exchange a French criminal for his kidnapped wife, but they soon discover a larger conspiracy.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736873'&amp;EntityType='LinearSchedule'&amp;EntityId='ee16f3a2-b41b-474b-ad28-d71483222afe'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558254" start="20261008150600 +0000" stop="20261008164700 +0000">
-		<title>Chomel</title>
-		<desc>After her mother's death, Mimi's family fell apart. One day, Mimi finds Chomel, a cat and brings it home, only for it to cause a series of events that brings her broken family back together again.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16708298'&amp;EntityType='LinearSchedule'&amp;EntityId='6eb57a33-4c38-4a13-8881-66073db143d0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261008164700 +0000" stop="20261008183000 +0000">
-		<title>My Future Husband</title>
-		<desc>Emily berharap untuk menemui bakal suami dan pada suatu hari muncul seorang lelaki bernama Atta yang mengaku dia adalah suami Emily dari masa hadapan.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16724065'&amp;EntityType='LinearSchedule'&amp;EntityId='7bb5ba36-4b15-4715-be90-57b55053dc14'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261008183000 +0000" stop="20261008201200 +0000">
-		<title>Mat So'od</title>
-		<desc>Mat So'od merupakan penglipurlara di kampungnya. Namun berlawanan dengan kerjayanya, Mat So'od merupakan seorang pemurung hampir sepanjang hidupnya.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16724069'&amp;EntityType='LinearSchedule'&amp;EntityId='5aa6a6e9-33b7-47bb-995f-adab98d1911e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261008201200 +0000" stop="20261008220000 +0000">
-		<title>Perkahwinan Dari ...</title>
-		<desc>Pasangan selebriti terkenal di Malaysia, Asha dan Mal terdesak untuk menjaga rahsia perkahwinan mereka dari diketahui oleh pengurus mereka, Feek.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16724077'&amp;EntityType='LinearSchedule'&amp;EntityId='6fd7c85b-fae8-4244-b510-8d25bd57ffcc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261008220000 +0000" stop="20261008234200 +0000">
-		<title>Kipas Belum Mati</title>
-		<desc>Mia, seorang artis meningkat naik, membuka kelab peminatnya dan dibantu oleh Lynn yang menjadi pengurus. Dengan bantuan Lynn, kelabnya maju namun ada harga yang harus dibayar di sebalik kejayaan tersebut..</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16724073'&amp;EntityType='LinearSchedule'&amp;EntityId='b3030726-146e-44b0-a14e-044a6ee47884'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261008234200 +0000" stop="20261009012700 +0000">
-		<title>Geng</title>
-		<desc>Isabella is an ex-convict who has sworn off her life of crime. Unfortunately, her old gang boss wants her to do one last drug transaction and kidnaps her mother to blackmail Isabella. With the help of her high school best friends, Mariam and Anita, Isabella goes on a road trip to save her mother.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752464'&amp;EntityType='LinearSchedule'&amp;EntityId='69922ecb-6366-45f6-8a0b-e1dae5b4f440'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009012700 +0000" stop="20261009030200 +0000">
-		<title>Keabadian Cinta</title>
-		<desc>3 couples falls in love with each other in 3 different love stories.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752484'&amp;EntityType='LinearSchedule'&amp;EntityId='7787208c-04b9-4fcc-8728-0c7013550330'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009030200 +0000" stop="20261009045000 +0000">
-		<title>Boyfriend Aku Dari ...</title>
-		<desc>After being disappointed multiple times, Risya is introduced by a friend to Andy, a nerdy young man. They fall in love but in actuality, Andy is a boyfriend from 'hell'!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752468'&amp;EntityType='LinearSchedule'&amp;EntityId='3cde0c64-f580-44e4-b05f-26dacd14c24a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009045000 +0000" stop="20261009063800 +0000">
-		<title>Gengster Leng Chai</title>
-		<desc>Black is a failure of a gangster, being too soft hearted with people. After meeting Mawar, he is determined to change despite the objections of others.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752492'&amp;EntityType='LinearSchedule'&amp;EntityId='7938bb03-22ff-473b-b9cc-2481ec49ef28'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009063800 +0000" stop="20261009080100 +0000">
-		<title>Strawberi Karipap Sesat Kat Paris</title>
-		<desc>Nini and Haikal start their big adventure to find their aunty Lisa who gets a job offer as a professional photographer in Paris. Unfortunately, their journey turns upside down when they arrive in Paris and ruin a newly-wed coupleís honeymoon.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752476'&amp;EntityType='LinearSchedule'&amp;EntityId='33287a76-f801-48e0-a6a2-cac89c7ce49e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009080100 +0000" stop="20261009094400 +0000">
-		<title>Nota Silam</title>
-		<desc>Munirah menjumpai sebuah nota cinta di dalam sebuah buku yang diperolehi secara rambang dari 'blind date with a book' dan cuba untuk menemukan pasangan di dalam nota tersebut yang merubah hidup Munirah</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752472'&amp;EntityType='LinearSchedule'&amp;EntityId='6f09e12f-d679-46cb-b66a-ed3eb43e421d'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009094400 +0000" stop="20261009113200 +0000">
-		<title>Bukan Cerita Cinta Cliche</title>
-		<desc>Seorang penulis skrip kisah-kisah cinta tetapi masih bersendirian mengimpikan cinta dalam kehidupan realitinya, lalu dia menyertai sebuah kumpulan terapi untuk berkongsi masalah peribadinya.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752480'&amp;EntityType='LinearSchedule'&amp;EntityId='1e1e9d16-c1b3-4cfd-b08e-10b38168fc15'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009113200 +0000" stop="20261009131900 +0000">
-		<title>Puyah &amp; Putat</title>
-		<desc>Kisah pengembaraan Puyah, seorang gadis kampung becok yang disukai ramai, apabila dia melawat Kuala Lumpur dan termasuk set filem secara tak sengaja, dan tak semena-mena mula mendapat nama sebagai pelakon.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752456'&amp;EntityType='LinearSchedule'&amp;EntityId='df198284-7375-4995-9581-6f80a9cfd09b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009131900 +0000" stop="20261009150600 +0000">
-		<title>Ting Tong, Love</title>
-		<desc>Bored by his mother's insistence on his getting married, Hairi finally agrees on the condition that he could choose his own soul mate. Does the choice of Hairi meet with his mother's approval?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752488'&amp;EntityType='LinearSchedule'&amp;EntityId='66ca6289-f28e-4812-8b0f-34de69839871'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009150600 +0000" stop="20261009164700 +0000">
-		<title>Chomel</title>
-		<desc>After her mother's death, Mimi's family fell apart. One day, Mimi finds Chomel, a cat and brings it home, only for it to cause a series of events that brings her broken family back together again.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752460'&amp;EntityType='LinearSchedule'&amp;EntityId='54a2415c-28cf-428d-8e5a-611b9794b48d'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20261009175000 +0000" stop="20261009180000 +0000">
 		<title>Just For Laughs S25 - EP 3</title>
 		<desc>Just For Laughswill tickle everyone's funny bone with its hilarious practical jokes, hidden camera pranks, and other creative hijinks.</desc>
@@ -3166,6 +3101,11 @@
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Tanjong Pagar United FC vs Tampines Rovers FC on 11th October, Sunday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16754614'&amp;EntityType='LinearSchedule'&amp;EntityId='b4184c66-6058-4477-801d-87228786e4d5'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="98201" start="20261010160000 +0000" stop="20261011112000 +0000">
+		<title>No Programme available now. Next Broadcast on 11th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Lion City Sailors FC vs Young Lions on 11th October, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16754696'&amp;EntityType='LinearSchedule'&amp;EntityId='b5f6f0be-a426-4f8d-b34e-b9b59e1ec5e3'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97073" start="20261010040000 +0000" stop="20261010140000 +0000">
 		<title>Piala Suara Serumpun 2026</title>
 		<desc>24 teams from Institutes of Higher Learning come together to compete for the prestigious title of Piala Suara Serumpun 2026 Champion. The competition showcases an exhilarating fusion of poetic lyrics, melodious choral singing, artistic movement and dynamic music. Hosted by Zuhairi Idris and Azura Goh with special performance by Megat Haikel and Anugerah 2026 Semi-finalists.</desc>
@@ -3980,75 +3920,5 @@
 		<title>Mad Dog Morgan</title>
 		<desc>The true story of Irish outlaw Daniel Morgan, who is wanted, dead or alive, in Australia during the 1850s.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16755808'&amp;EntityType='LinearSchedule'&amp;EntityId='7f839b88-b0a0-42a5-89b0-a6764f6ef7cb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009164700 +0000" stop="20261009183000 +0000">
-		<title>My Future Husband</title>
-		<desc>Emily berharap untuk menemui bakal suami dan pada suatu hari muncul seorang lelaki bernama Atta yang mengaku dia adalah suami Emily dari masa hadapan.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752504'&amp;EntityType='LinearSchedule'&amp;EntityId='b7cfbecc-98c5-4542-99db-b8666c37d4dc'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009183000 +0000" stop="20261009201200 +0000">
-		<title>Mat So'od</title>
-		<desc>Mat So'od merupakan penglipurlara di kampungnya. Namun berlawanan dengan kerjayanya, Mat So'od merupakan seorang pemurung hampir sepanjang hidupnya.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752500'&amp;EntityType='LinearSchedule'&amp;EntityId='77611f85-8f63-4f55-92e9-485f2106ffde'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009201200 +0000" stop="20261009220000 +0000">
-		<title>Perkahwinan Dari ...</title>
-		<desc>Pasangan selebriti terkenal di Malaysia, Asha dan Mal terdesak untuk menjaga rahsia perkahwinan mereka dari diketahui oleh pengurus mereka, Feek.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16752496'&amp;EntityType='LinearSchedule'&amp;EntityId='17c3da4a-f141-46ca-b916-23a8cf767b3b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009220000 +0000" stop="20261009234200 +0000">
-		<title>Kipas Belum Mati</title>
-		<desc>Mia, seorang artis meningkat naik, membuka kelab peminatnya dan dibantu oleh Lynn yang menjadi pengurus. Dengan bantuan Lynn, kelabnya maju namun ada harga yang harus dibayar di sebalik kejayaan tersebut..</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736507'&amp;EntityType='LinearSchedule'&amp;EntityId='043d5361-afae-4395-bb66-da3df51a64c2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261009234200 +0000" stop="20261010012700 +0000">
-		<title>Geng</title>
-		<desc>Isabella is an ex-convict who has sworn off her life of crime. Unfortunately, her old gang boss wants her to do one last drug transaction and kidnaps her mother to blackmail Isabella. With the help of her high school best friends, Mariam and Anita, Isabella goes on a road trip to save her mother.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736412'&amp;EntityType='LinearSchedule'&amp;EntityId='fef4424c-6bda-4c11-9194-6c8a20996e93'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261010012700 +0000" stop="20261010030200 +0000">
-		<title>Keabadian Cinta</title>
-		<desc>3 couples falls in love with each other in 3 different love stories.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736441'&amp;EntityType='LinearSchedule'&amp;EntityId='ba7a6cdc-c714-435f-a087-e2c4d3628442'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261010030200 +0000" stop="20261010045000 +0000">
-		<title>Boyfriend Aku Dari ...</title>
-		<desc>After being disappointed multiple times, Risya is introduced by a friend to Andy, a nerdy young man. They fall in love but in actuality, Andy is a boyfriend from 'hell'!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736541'&amp;EntityType='LinearSchedule'&amp;EntityId='b49ad4d1-b72e-413a-a65f-0ce5269cd824'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261010045000 +0000" stop="20261010063800 +0000">
-		<title>Gengster Leng Chai</title>
-		<desc>Black is a failure of a gangster, being too soft hearted with people. After meeting Mawar, he is determined to change despite the objections of others.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736524'&amp;EntityType='LinearSchedule'&amp;EntityId='5830286c-a1eb-4bd7-a490-85cb8a97592b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261010063800 +0000" stop="20261010080100 +0000">
-		<title>Strawberi Karipap Sesat Kat Paris</title>
-		<desc>Nini and Haikal start their big adventure to find their aunty Lisa who gets a job offer as a professional photographer in Paris. Unfortunately, their journey turns upside down when they arrive in Paris and ruin a newly-wed coupleís honeymoon.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736555'&amp;EntityType='LinearSchedule'&amp;EntityId='c192c3b2-5d91-4068-909d-0550edf00025'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261010080100 +0000" stop="20261010094400 +0000">
-		<title>Nota Silam</title>
-		<desc>Munirah menjumpai sebuah nota cinta di dalam sebuah buku yang diperolehi secara rambang dari 'blind date with a book' dan cuba untuk menemukan pasangan di dalam nota tersebut yang merubah hidup Munirah</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736452'&amp;EntityType='LinearSchedule'&amp;EntityId='69d840b9-44e1-4132-9d02-37760e3f8f33'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261010094400 +0000" stop="20261010113200 +0000">
-		<title>Bukan Cerita Cinta Cliche</title>
-		<desc>Seorang penulis skrip kisah-kisah cinta tetapi masih bersendirian mengimpikan cinta dalam kehidupan realitinya, lalu dia menyertai sebuah kumpulan terapi untuk berkongsi masalah peribadinya.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736428'&amp;EntityType='LinearSchedule'&amp;EntityId='1b2f3327-0922-4e78-837c-a36f4f311fe7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261010113200 +0000" stop="20261010131900 +0000">
-		<title>Puyah &amp; Putat</title>
-		<desc>Kisah pengembaraan Puyah, seorang gadis kampung becok yang disukai ramai, apabila dia melawat Kuala Lumpur dan termasuk set filem secara tak sengaja, dan tak semena-mena mula mendapat nama sebagai pelakon.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736466'&amp;EntityType='LinearSchedule'&amp;EntityId='a68efc23-d891-4c2f-b3ec-7fe76ba2d00a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261010131900 +0000" stop="20261010150600 +0000">
-		<title>Ting Tong, Love</title>
-		<desc>Bored by his mother's insistence on his getting married, Hairi finally agrees on the condition that he could choose his own soul mate. Does the choice of Hairi meet with his mother's approval?</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736494'&amp;EntityType='LinearSchedule'&amp;EntityId='31f07dd7-0f45-44c5-beb6-571d567805fd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558254" start="20261010150600 +0000" stop="20261010164700 +0000">
-		<title>Chomel</title>
-		<desc>After her mother's death, Mimi's family fell apart. One day, Mimi finds Chomel, a cat and brings it home, only for it to cause a series of events that brings her broken family back together again.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16736479'&amp;EntityType='LinearSchedule'&amp;EntityId='3dd1338f-7f64-4b13-8e5e-53cafdd47244'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
