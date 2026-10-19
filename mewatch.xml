@@ -36,10 +36,6 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
-	<channel id="98201">
-		<display-name>SPL CH02</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
-	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -95,6 +91,10 @@
 	<channel id="558112">
 		<display-name>W-Sport</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358826'&amp;EntityType='Item'&amp;EntityId='558112'&amp;Width=409&amp;Height=250" />
+	</channel>
+	<channel id="556888">
+		<display-name>TRACE Sport Stars</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358846'&amp;EntityType='Item'&amp;EntityId='556888'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20261018143000 +0000" stop="20261018163000 +0000">
 		<title>Made in Italy</title>
@@ -1116,15 +1116,15 @@
 		<desc>No Programme available now. Next Broadcast on 19th October, Monday 8.55am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17001451'&amp;EntityType='LinearSchedule'&amp;EntityId='e887accc-7264-40ad-be34-9f1c0e6e2d26'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840096" start="20261019005500 +0000" stop="20261019030000 +0000">
+	<programme channel="840096" start="20261019005500 +0000" stop="20261019022500 +0000">
 		<title>(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</title>
 		<desc>(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Heats</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17001459'&amp;EntityType='LinearSchedule'&amp;EntityId='5955a1eb-eb17-4df4-8b60-2b5d711f1c0c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840096" start="20261019030000 +0000" stop="20261019075500 +0000">
+	<programme channel="840096" start="20261019022500 +0000" stop="20261019075500 +0000">
 		<title>No Programme available now.</title>
 		<desc>No Programme available now. Next Broadcast on 19th October, Monday 3.55pm. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17001463'&amp;EntityType='LinearSchedule'&amp;EntityId='e8e6f916-9a29-4b4f-a81e-1076deab1554'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17043907'&amp;EntityType='LinearSchedule'&amp;EntityId='7744c168-fa51-41c5-9602-142d12ca6dd6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="840096" start="20261019075500 +0000" stop="20261019130000 +0000">
 		<title>(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Para Swimming - Men's &amp; Women's Finals</title>
@@ -1162,24 +1162,14 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17001379'&amp;EntityType='LinearSchedule'&amp;EntityId='2f3a78cb-266b-4f79-9906-8eac584f836b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20261018160000 +0000" stop="20261019160000 +0000">
-		<title>No Programme available now. Next Broadcast on 21st October, Wednesday 7.20pm. Singapore Premier League 2026/2027</title>
-		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Lion City Sailors FC vs Tampines Rovers FC on 21st October, Wednesday 7.20pm. Please stay tuned!</desc>
+		<title>No Programme available now. Next Broadcast on 24th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Young Lions vs Balestier Khalsa FC on 24th October, Saturday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16902438'&amp;EntityType='LinearSchedule'&amp;EntityId='5eab9731-3755-447b-aa35-4b7b09f33b46'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20261019160000 +0000" stop="20261020160000 +0000">
-		<title>No Programme available now. Next Broadcast on 21st October, Wednesday 7.20pm. Singapore Premier League 2026/2027</title>
-		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Lion City Sailors FC vs Tampines Rovers FC on 21st October, Wednesday 7.20pm. Please stay tuned!</desc>
+		<title>No Programme available now. Next Broadcast on 24th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Young Lions vs Balestier Khalsa FC on 24th October, Saturday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16916965'&amp;EntityType='LinearSchedule'&amp;EntityId='173274b0-f94e-40b6-a857-7d4a283ac251'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20261018160000 +0000" stop="20261019160000 +0000">
-		<title>No Programme available now. Next Broadcast on 25th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
-		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: FC Jurong vs Tampines Rovers FC on 25th October, Sunday 7.20pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16901999'&amp;EntityType='LinearSchedule'&amp;EntityId='53e77ce7-68da-4b73-872b-9de378db245e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20261019160000 +0000" stop="20261020160000 +0000">
-		<title>No Programme available now. Next Broadcast on 25th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
-		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: FC Jurong vs Tampines Rovers FC on 25th October, Sunday 7.20pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16916741'&amp;EntityType='LinearSchedule'&amp;EntityId='a7d78495-82b6-44cd-b7fa-036b05df5077'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20261018160000 +0000" stop="20261019110000 +0000">
 		<title>No programme available now. Next broadcast on 19th October, Monday 7pm. The Wonder Shop Home Shopping</title>
@@ -2656,6 +2646,251 @@
 		<desc>Global Champions League: Premier show jumping at iconic venues worldwide, featuring the world's finest horses and riders.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16910887'&amp;EntityType='LinearSchedule'&amp;EntityId='1dfe2900-fc8d-49e2-abf1-fbe0cc0cf607'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="556888" start="20261018160000 +0000" stop="20261018163000 +0000">
+		<title>The Front Row - Designing the Best Track for F1 - EP8</title>
+		<desc>We examine the design of the world's best F1 circuits, from design to realisation. And the numerous factors to be taken into account during the construction of a circuit.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903152'&amp;EntityType='LinearSchedule'&amp;EntityId='5c9b876d-94a7-46d9-8105-bbf96efc78a8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018163000 +0000" stop="20261018170000 +0000">
+		<title>The Front Row - Women in Formula One - EP9</title>
+		<desc>We explore what is necessary to succeed as a woman in the world of Formula 1. And what challenges women face on the road to becoming world champions.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903160'&amp;EntityType='LinearSchedule'&amp;EntityId='d1844d3c-870f-49f6-a34f-94fb5e9b77ea'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018170000 +0000" stop="20261018173000 +0000">
+		<title>The Front Row - The Business of F1 - EP10</title>
+		<desc>Between the teams equipped with colossal budgets, from sponsorship contracts to major stakes, from media rights worth several hundred millions and a permanent technological innovation, F1 is a perfectly oiled commercial machine.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903108'&amp;EntityType='LinearSchedule'&amp;EntityId='a9e9b913-c0f8-4324-ade4-eb2158b3a47a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018173000 +0000" stop="20261018180000 +0000">
+		<title>The Front Row - F1 &amp; The Car Industry - EP11</title>
+		<desc>How has F1 influenced the car industry in the course of time? What role does it play in the current car landscape in rapid evolution? And while the world evolves towards electrification, what future does this relationship have?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903168'&amp;EntityType='LinearSchedule'&amp;EntityId='6baeae50-0c37-40f2-8d58-ee501f030e42'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018180000 +0000" stop="20261018183000 +0000">
+		<title>The Front Row - Sport Shaping Dangers - EP12</title>
+		<desc>How has F1 reacted faced with the omnipresent danger in this sport? What practices have been put in place to reduce the risks drivers will face in the future?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903112'&amp;EntityType='LinearSchedule'&amp;EntityId='bba1b062-1ca3-4bab-8899-b6b50c5575f0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018183000 +0000" stop="20261018190000 +0000">
+		<title>The Front Row - Ferrari: The Heart of F1 - EP13</title>
+		<desc>Ferrari and Formula 1 are indissociable. Find out how this legendary team has fashioned sport and vice-versa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903032'&amp;EntityType='LinearSchedule'&amp;EntityId='dab37cbc-49e0-477b-8e9e-a5dc24ef668d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018190000 +0000" stop="20261018193000 +0000">
+		<title>Foul Play - Safety Last! - EP20</title>
+		<desc>The organiser of the 1976 German GP, Ayrton Senna and Alain Prost meet in Japan and Renault puts its life in play under the spotlight.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903175'&amp;EntityType='LinearSchedule'&amp;EntityId='b5d3d4a8-e298-4c06-a9dc-d0aded82da2b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018193000 +0000" stop="20261018200000 +0000">
+		<title>Football Nation - Qatar - EP10</title>
+		<desc>Qatar has, overnight, become a significant footballing nation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903212'&amp;EntityType='LinearSchedule'&amp;EntityId='67c7985e-76d5-4fac-852f-e783e0a7e0e2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018200000 +0000" stop="20261018203000 +0000">
+		<title>The Front Row - F1 &amp; The Car Industry - EP11</title>
+		<desc>How has F1 influenced the car industry in the course of time? What role does it play in the current car landscape in rapid evolution? And while the world evolves towards electrification, what future does this relationship have?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16902968'&amp;EntityType='LinearSchedule'&amp;EntityId='fbb46add-ad29-4031-bc75-73722b54947d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018203000 +0000" stop="20261018210000 +0000">
+		<title>Chill - Harry Clifford And Kiteboarding - EP11</title>
+		<desc>This week on CHILL we look at one of the best boardsports in the world, on the water with Harley Clifford. And we witness kitesurfing at its elite level with the Spaniard Liam Whaley and others.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903220'&amp;EntityType='LinearSchedule'&amp;EntityId='79070a8c-8fd2-4093-ae8d-a4d21ed3c777'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018210000 +0000" stop="20261018213000 +0000">
+		<title>Sports Woman - Willpower - EP18</title>
+		<desc>In this edition of Sportswoman, we look at the athletes with the most desire.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16902972'&amp;EntityType='LinearSchedule'&amp;EntityId='55764594-271c-4d39-8154-bc7a9949c25c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018213000 +0000" stop="20261018220000 +0000">
+		<title>The Front Row - Designing the Best Track for F1 - EP8</title>
+		<desc>We examine the design of the world's best F1 circuits, from design to realisation. And the numerous factors to be taken into account during the construction of a circuit.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16902997'&amp;EntityType='LinearSchedule'&amp;EntityId='78e659b8-4877-4a29-babc-0312fbbcc266'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018220000 +0000" stop="20261018223000 +0000">
+		<title>The Front Row - Women in Formula One - EP9</title>
+		<desc>We explore what is necessary to succeed as a woman in the world of Formula 1. And what challenges women face on the road to becoming world champions.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903005'&amp;EntityType='LinearSchedule'&amp;EntityId='23f1413b-b095-428e-9e3c-90b6e6e8fd7e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018223000 +0000" stop="20261018230000 +0000">
+		<title>The Front Row - The Business of F1 - EP10</title>
+		<desc>Between the teams equipped with colossal budgets, from sponsorship contracts to major stakes, from media rights worth several hundred millions and a permanent technological innovation, F1 is a perfectly oiled commercial machine.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903012'&amp;EntityType='LinearSchedule'&amp;EntityId='cc9c6102-7246-4038-a899-df14d6209d9c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018230000 +0000" stop="20261018233000 +0000">
+		<title>The Front Row - F1 &amp; The Car Industry - EP11</title>
+		<desc>How has F1 influenced the car industry in the course of time? What role does it play in the current car landscape in rapid evolution? And while the world evolves towards electrification, what future does this relationship have?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903116'&amp;EntityType='LinearSchedule'&amp;EntityId='4dd5480a-c5f5-4dac-8c06-64d1de6c3762'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261018233000 +0000" stop="20261019000000 +0000">
+		<title>The Front Row - Sport Shaping Dangers - EP12</title>
+		<desc>How has F1 reacted faced with the omnipresent danger in this sport? What practices have been put in place to reduce the risks drivers will face in the future?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16902976'&amp;EntityType='LinearSchedule'&amp;EntityId='c024de14-5fd1-4d7f-8a86-07cb857c23f6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019000000 +0000" stop="20261019003000 +0000">
+		<title>The Front Row - Ferrari: The Heart of F1 - EP13</title>
+		<desc>Ferrari and Formula 1 are indissociable. Find out how this legendary team has fashioned sport and vice-versa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903120'&amp;EntityType='LinearSchedule'&amp;EntityId='a89d2327-709c-4398-86b6-7d074b50db2b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019003000 +0000" stop="20261019010000 +0000">
+		<title>Foul Play - The Worm Turns - EP21</title>
+		<desc>Dennis Rodman gives a kick, Steph Curry is the spokesperson for madness, Metta World Peace shows malice and the live and crimes of Allen Iverson.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903124'&amp;EntityType='LinearSchedule'&amp;EntityId='d41d162e-d3c1-487d-8ac4-02c42061456c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019010000 +0000" stop="20261019013000 +0000">
+		<title>Football Nation - Germany - EP1</title>
+		<desc>Germany is the footballing nation which most regularly excels.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903020'&amp;EntityType='LinearSchedule'&amp;EntityId='7d3bb4da-1d61-4ef5-ae43-ea4f4472ef25'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019013000 +0000" stop="20261019020000 +0000">
+		<title>The Front Row - Sport Shaping Dangers - EP12</title>
+		<desc>How has F1 reacted faced with the omnipresent danger in this sport? What practices have been put in place to reduce the risks drivers will face in the future?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903024'&amp;EntityType='LinearSchedule'&amp;EntityId='27d40599-5ef4-4788-9bff-16f9e221f91e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019020000 +0000" stop="20261019023000 +0000">
+		<title>Chill - Crashed Ice Tour - EP12</title>
+		<desc>This week, Chill invites itself to winter sports. We go to Niagara Falls, in Canada, where the first leg of the Crashed Ice Tour takes place.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16902980'&amp;EntityType='LinearSchedule'&amp;EntityId='b8b611ba-7443-4a9a-b294-5abe893f0b06'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019023000 +0000" stop="20261019030000 +0000">
+		<title>Sports Woman - Three Of The Best - EP19</title>
+		<desc>The fascinating story of the path of the three best female heptathletes to the summit of the sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903227'&amp;EntityType='LinearSchedule'&amp;EntityId='126a07fc-c8ae-4f65-9368-d59658ab4f0b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019030000 +0000" stop="20261019033000 +0000">
+		<title>Football Nation - Argentina - EP2</title>
+		<desc>Argentina: cradle of Maradona, Messi and an uncompromising footballing culture.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16902984'&amp;EntityType='LinearSchedule'&amp;EntityId='cf2bdf31-164c-4384-88d8-ed772678a121'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019033000 +0000" stop="20261019040000 +0000">
+		<title>The Front Row - Ferrari: The Heart of F1 - EP13</title>
+		<desc>Ferrari and Formula 1 are indissociable. Find out how this legendary team has fashioned sport and vice-versa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903235'&amp;EntityType='LinearSchedule'&amp;EntityId='39489e5f-2ac1-4040-8f35-cf252a0924e9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019040000 +0000" stop="20261019043000 +0000">
+		<title>Chill - Freeride and Crashed Ice - EP13</title>
+		<desc>Chill takes on the difficult task of being a judge of the Freeride World Tour. The Crashed Ice Series brings the Ice Cross descent right in the middle of St Paul in Minnesota.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903182'&amp;EntityType='LinearSchedule'&amp;EntityId='ce98686e-f101-48a4-9e87-8a4c34709350'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019043000 +0000" stop="20261019050000 +0000">
+		<title>Sports Woman - Power Players - EP20</title>
+		<desc>In this edition of Sportswoman, we look at athletes who draw on their willpower.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903086'&amp;EntityType='LinearSchedule'&amp;EntityId='04447c00-96b9-407a-9c37-06e9c0e87d13'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019050000 +0000" stop="20261019053000 +0000">
+		<title>The Front Row - Designing the Best Track for F1 - EP8</title>
+		<desc>We examine the design of the world's best F1 circuits, from design to realisation. And the numerous factors to be taken into account during the construction of a circuit.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903190'&amp;EntityType='LinearSchedule'&amp;EntityId='4d87123c-166d-46b6-8bdc-230cd043359e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019053000 +0000" stop="20261019060000 +0000">
+		<title>The Front Row - Women in Formula One - EP9</title>
+		<desc>We explore what is necessary to succeed as a woman in the world of Formula 1. And what challenges women face on the road to becoming world champions.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903243'&amp;EntityType='LinearSchedule'&amp;EntityId='2052057b-8b96-4daa-baf8-715b888e3c5c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019060000 +0000" stop="20261019063000 +0000">
+		<title>The Front Row - The Business of F1 - EP10</title>
+		<desc>Between the teams equipped with colossal budgets, from sponsorship contracts to major stakes, from media rights worth several hundred millions and a permanent technological innovation, F1 is a perfectly oiled commercial machine.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903092'&amp;EntityType='LinearSchedule'&amp;EntityId='44a655d3-3683-4882-a293-b2ddadd103ca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019063000 +0000" stop="20261019070000 +0000">
+		<title>The Front Row - F1 &amp; The Car Industry - EP11</title>
+		<desc>How has F1 influenced the car industry in the course of time? What role does it play in the current car landscape in rapid evolution? And while the world evolves towards electrification, what future does this relationship have?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903100'&amp;EntityType='LinearSchedule'&amp;EntityId='647a954c-168c-4f9b-9256-bedd3423e0a1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019070000 +0000" stop="20261019073000 +0000">
+		<title>The Front Row - Sport Shaping Dangers - EP12</title>
+		<desc>How has F1 reacted faced with the omnipresent danger in this sport? What practices have been put in place to reduce the risks drivers will face in the future?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903250'&amp;EntityType='LinearSchedule'&amp;EntityId='7ac869d7-69de-420c-98a7-85d633bd9c02'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019073000 +0000" stop="20261019080000 +0000">
+		<title>The Front Row - Ferrari: The Heart of F1 - EP13</title>
+		<desc>Ferrari and Formula 1 are indissociable. Find out how this legendary team has fashioned sport and vice-versa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903256'&amp;EntityType='LinearSchedule'&amp;EntityId='9ef6b538-4266-4558-8407-7a6146198d29'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019080000 +0000" stop="20261019083000 +0000">
+		<title>Foul Play - David Beckham - EP22</title>
+		<desc>David Beckham's red card at the 1996 World Cup, Sepp Blatter and FIFA corruption, and Argentine football club Boca Junior cross enemy territory by bus.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903128'&amp;EntityType='LinearSchedule'&amp;EntityId='9c0b8df9-c2fc-49f1-91b9-afd6e8b54c5e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019083000 +0000" stop="20261019090000 +0000">
+		<title>Football Nation - Saudi Arabia &amp; Waff - EP5</title>
+		<desc>Saudi Arabia is in the process of becoming a powerful new actor on the global footballing scene.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903140'&amp;EntityType='LinearSchedule'&amp;EntityId='da1e47c7-1b73-4994-99e4-dcb01f1bbf67'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019090000 +0000" stop="20261019093000 +0000">
+		<title>The Front Row - Driver Training - EP1</title>
+		<desc>We explore the methods and training approaches used by Formula 1 drivers to prepare for an F1 season, notably Lewis Hamilton and Max Verstappen.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903144'&amp;EntityType='LinearSchedule'&amp;EntityId='87b12c40-a14f-4d04-9eb2-f1e5173bf194'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019093000 +0000" stop="20261019100000 +0000">
+		<title>Chill - Freeride World Tour - EP14</title>
+		<desc>Chill presents spectacular action from Chamonix in France, the cradle of European freestyle in the high mountains. Landgraf, in Holland, organises the last leg of the Crashed Ice World Tour and Freeski Big Air from Zurich's Lakeside.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903148'&amp;EntityType='LinearSchedule'&amp;EntityId='51081387-dfd7-4c61-9ee4-5123a05ddd6e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019100000 +0000" stop="20261019103000 +0000">
+		<title>Sports Woman - Success - EP21</title>
+		<desc>Golf prodigy Lexi Thompson shares the secrets of her success and aspires to an Olympic gold medal. The world champion of the 400 metres hurdles Dalilah Muhammad smashes records, but she has a teammate who is biting at her heels.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903132'&amp;EntityType='LinearSchedule'&amp;EntityId='739689f1-86e3-4475-a2ee-f71bcf7b8cfe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019103000 +0000" stop="20261019110000 +0000">
+		<title>50+ Years of Sport - 1970 - EP1</title>
+		<desc>We take you back to 1970, the year when Pelé carried off a new World Cup and Arthur Ashe won Wimbledon.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903040'&amp;EntityType='LinearSchedule'&amp;EntityId='78012dec-90d0-487b-894f-46d09c73289f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019110000 +0000" stop="20261019113000 +0000">
+		<title>50+ Years of Sport - 1971 - EP2</title>
+		<desc>We take you back to 1971, for the fight of the century between Muhammad Ali and Joe Frazier and the Grand Slam debuts of Chris Evert.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903049'&amp;EntityType='LinearSchedule'&amp;EntityId='4505fd7c-d770-4220-817a-eb848e37d9e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019113000 +0000" stop="20261019120000 +0000">
+		<title>50+ Years of Sport - 1972 - EP3</title>
+		<desc>We go back to 1972… when terrorism shook the Munich Olympic Games and Billie Jean King dominated women's tennis.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903057'&amp;EntityType='LinearSchedule'&amp;EntityId='2f9e5a9e-f186-4242-91be-0ff901e5fc09'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019120000 +0000" stop="20261019123000 +0000">
+		<title>50+ Years of Sport - 1973 - EP4</title>
+		<desc>In 1973, the "Battle of the Sexes" tennis match took place, Secretariat won the Triple Crown and Willie Mays retired.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16902988'&amp;EntityType='LinearSchedule'&amp;EntityId='1d1517b0-a578-422f-a6df-ef4d49a912b0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019123000 +0000" stop="20261019130000 +0000">
+		<title>50+ Years of Sport - 1974 - EP5</title>
+		<desc>The sporting year of 1974 gave us the "Rumble in the Jungle", a FIFA World Cup and a historic baseball record.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903198'&amp;EntityType='LinearSchedule'&amp;EntityId='0fafa815-6a5e-4e6f-993e-869a2d735f29'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019130000 +0000" stop="20261019133000 +0000">
+		<title>50+ Years of Sport - 1970 - EP1</title>
+		<desc>We take you back to 1970, the year when Pelé carried off a new World Cup and Arthur Ashe won Wimbledon.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16902992'&amp;EntityType='LinearSchedule'&amp;EntityId='da56ba43-b04e-41ff-8efd-04cdfe4f8178'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019133000 +0000" stop="20261019140000 +0000">
+		<title>Foul Play - Wild Thing - EP23</title>
+		<desc>Golfer John Daly is the "Wild Thing" of the fairways, Babe Ruth and Babe Dirikson encounter a trickster in a crazy golfing exhibition and Sergio Garcia's bad attitude.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903205'&amp;EntityType='LinearSchedule'&amp;EntityId='894f3e5a-dd88-4c75-b1ce-f911c01e38ee'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019140000 +0000" stop="20261019143000 +0000">
+		<title>Football Nation - CAF (West) - EP6</title>
+		<desc>The Western region is the motor force of African football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903136'&amp;EntityType='LinearSchedule'&amp;EntityId='dcbab069-45f8-4bba-b255-6b3568f8a29a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019143000 +0000" stop="20261019150000 +0000">
+		<title>The Front Row - Formula One Superteams - EP2</title>
+		<desc>F1 is the pinnacle of motor sports. But all teams are not equal. The ultimate objective is domination: to leave all of one's rivals on the run. That is what makes an F1 super-team.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903066'&amp;EntityType='LinearSchedule'&amp;EntityId='28be1924-8ef5-4906-b655-56ebdf65db82'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019150000 +0000" stop="20261019153000 +0000">
+		<title>Chill - Mandurah Women's Wakeboarding - EP15</title>
+		<desc>The best of women's wakeboard with the coming of the IWWF to Mandurah in Australia. The magnificent Italian island of Sicily welcomes the kitesurf world tour. And finally, incredible female surfers head for the beaches of Brazil for the Rio Pro.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903072'&amp;EntityType='LinearSchedule'&amp;EntityId='d609c313-9877-48b4-9931-92f7e22aa479'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019153000 +0000" stop="20261019160000 +0000">
+		<title>Sports Woman - The Fastest Women - EP23</title>
+		<desc>The Italian car driver Vicky Piria makes a quick start in the new W series. Jacqueline Legere reigns supreme in the world of Ice Cross descent. Dutch double Olympic champion soars to glory and gets married.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16903080'&amp;EntityType='LinearSchedule'&amp;EntityId='c2ae73f1-b8b0-49a1-bdd8-050cf3a4a550'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019160000 +0000" stop="20261019163000 +0000">
+		<title>Football’s Greatest Stage - More Than a Player - EP1</title>
+		<desc>Edison Arantes Do Nascimento - or Pelé - is the greatest figure in the history of football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917600'&amp;EntityType='LinearSchedule'&amp;EntityId='31eb4a37-2c3f-4829-9be8-6a3ee5d1c45b'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20261019163000 +0000" stop="20261019173000 +0000">
 		<title>Fire Country S2 - EP 8</title>
 		<desc>With the future of Three Rock in Jeopardy, Station 42 and Three Rock host Edgewater's 22nd Annual Firefighter's Ball in an effort to impress the governor and save the camp. Meanwhile, Gabriela's mom, Roberta, makes a surprising appearance at the event.</desc>
@@ -3651,15 +3886,10 @@
 		<desc>No Programme available now. Next Broadcast on 21st October, Wednesday 8.25am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia - Men's &amp; Women's Individual Semi-finals</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17001391'&amp;EntityType='LinearSchedule'&amp;EntityId='b11c3956-54d3-4594-8d14-d9dcaeca79d4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98200" start="20261020160000 +0000" stop="20261021112000 +0000">
-		<title>No Programme available now. Next Broadcast on 21st October, Wednesday 7.20pm. Singapore Premier League 2026/2027</title>
-		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Lion City Sailors FC vs Tampines Rovers FC on 21st October, Wednesday 7.20pm. Please stay tuned!</desc>
+	<programme channel="98200" start="20261020160000 +0000" stop="20261021160000 +0000">
+		<title>No Programme available now. Next Broadcast on 24th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Young Lions vs Balestier Khalsa FC on 24th October, Saturday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16932846'&amp;EntityType='LinearSchedule'&amp;EntityId='7b607bda-8702-46a6-a2d0-d161d1dd597a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98201" start="20261020160000 +0000" stop="20261021160000 +0000">
-		<title>No Programme available now. Next Broadcast on 25th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
-		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: FC Jurong vs Tampines Rovers FC on 25th October, Sunday 7.20pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16932833'&amp;EntityType='LinearSchedule'&amp;EntityId='3f5d8c98-0b5d-4021-b75f-6d9deb5533f6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20261020110000 +0000" stop="20261020111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Kinohimitsu Collagen Diamond Pro</title>
@@ -5125,5 +5355,245 @@
 		<title>NSL Super Cup '26: Dragons v Lightning</title>
 		<desc>The Netball Super League features the 8 Top Netball franchises from across the United Kingdom.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16925819'&amp;EntityType='LinearSchedule'&amp;EntityId='a7251b09-46a4-446d-8ce8-4090dcc75ad3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019163000 +0000" stop="20261019170000 +0000">
+		<title>Football Nation - Brazil - EP1</title>
+		<desc>Brazil is the footballing nation par excellence.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917735'&amp;EntityType='LinearSchedule'&amp;EntityId='efbeee61-f30e-4e43-ba3a-048fea5fc742'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019170000 +0000" stop="20261019173000 +0000">
+		<title>Football's Greatest Stage - Pelé's Co-Stars - EP9</title>
+		<desc>Pelé did not win three World Cups on his own,</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917527'&amp;EntityType='LinearSchedule'&amp;EntityId='6cb518c6-6b96-4d24-9972-719d78c81319'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019173000 +0000" stop="20261019180000 +0000">
+		<title>Football Nation - Spain - EP4</title>
+		<desc>Spain has become the world's leading footballing nation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917531'&amp;EntityType='LinearSchedule'&amp;EntityId='35e49810-5378-4906-9ffe-49978aa88794'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019180000 +0000" stop="20261019183000 +0000">
+		<title>Football Stars - Pedri - EP13</title>
+		<desc>The heir to Andres Iniesta, Pedri is the future of Barcelona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917715'&amp;EntityType='LinearSchedule'&amp;EntityId='96367e9a-e36d-4a40-af39-18e4b58e9adf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019183000 +0000" stop="20261019190000 +0000">
+		<title>Heroines - IOC New Female President - EP13</title>
+		<desc>A new era has opened in the International Olympic Committee with the arrival of Kirsty Coventry as its president, a first for a woman… and it's excellent news for women in sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917608'&amp;EntityType='LinearSchedule'&amp;EntityId='39ae5297-0fd2-4d88-8ab6-92484fd7d2a1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019190000 +0000" stop="20261019193000 +0000">
+		<title>Foul Play - When Nick Met Bernard - EP24</title>
+		<desc>Australian tennis terrors Nick Kyrios and Bernard Tomic, American superbrat John McEnroe loses his cool and Andre Agassi falls to a historic low.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917535'&amp;EntityType='LinearSchedule'&amp;EntityId='7030df30-e329-437a-b159-5e2850562b07'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019193000 +0000" stop="20261019200000 +0000">
+		<title>Football Nation - CONMEBOL - EP10</title>
+		<desc>CONMEBOL is on the verge of becoming the first confederation all of whose members have participated in a World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917719'&amp;EntityType='LinearSchedule'&amp;EntityId='f5f27bc2-615a-4024-b907-3824f9521c2b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019200000 +0000" stop="20261019203000 +0000">
+		<title>The Front Row - Pit Stops - EP3</title>
+		<desc>Formula 1, where every millisecond counts, and where time can be reduced, not only on the track. With Front Row, explore the evolution of pit stops in Formula 1.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917739'&amp;EntityType='LinearSchedule'&amp;EntityId='cc0156a3-c5ae-4612-8809-90424cafd615'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019203000 +0000" stop="20261019210000 +0000">
+		<title>Chill - Mandurah Men's Wakeboarding - EP16</title>
+		<desc>We are on the waters of Mandurah, in Australia, for the men's finals of the IWWF Wakeboard World. Morocco is our next destination for the kitesurf world tour, and we present Harley Clifford who storms wakeboarding.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917539'&amp;EntityType='LinearSchedule'&amp;EntityId='01c60ec8-8a12-4887-8ec4-7decbc06d97b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019210000 +0000" stop="20261019213000 +0000">
+		<title>Sports Woman - Iconic - EP24</title>
+		<desc>In this edition of Sportswoman, the athletes who have become models to follow.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917586'&amp;EntityType='LinearSchedule'&amp;EntityId='b91ace36-a3d1-45da-be62-2725d61f4ff4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019213000 +0000" stop="20261019220000 +0000">
+		<title>Football’s Greatest Stage - More Than a Player - EP1</title>
+		<desc>Edison Arantes Do Nascimento - or Pelé - is the greatest figure in the history of football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917675'&amp;EntityType='LinearSchedule'&amp;EntityId='45c627a7-0e82-4cce-9075-12661d5341ec'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019220000 +0000" stop="20261019223000 +0000">
+		<title>Football Nation - Brazil - EP1</title>
+		<desc>Brazil is the footballing nation par excellence.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917592'&amp;EntityType='LinearSchedule'&amp;EntityId='53a0ddb1-711b-40e3-af05-af05447e8661'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019223000 +0000" stop="20261019230000 +0000">
+		<title>Football's Greatest Stage - Pelé's Co-Stars - EP9</title>
+		<desc>Pelé did not win three World Cups on his own,</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917723'&amp;EntityType='LinearSchedule'&amp;EntityId='802527f6-77e4-42a9-aa84-3acb56c3d02e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019230000 +0000" stop="20261019233000 +0000">
+		<title>Football Nation - Spain - EP4</title>
+		<desc>Spain has become the world's leading footballing nation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917679'&amp;EntityType='LinearSchedule'&amp;EntityId='99a12fe2-2add-4798-b880-874090a92b3e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261019233000 +0000" stop="20261020000000 +0000">
+		<title>Football Stars - Pedri - EP13</title>
+		<desc>The heir to Andres Iniesta, Pedri is the future of Barcelona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917683'&amp;EntityType='LinearSchedule'&amp;EntityId='16d2f938-591f-4a7d-a0ab-d741fbd439e0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020000000 +0000" stop="20261020003000 +0000">
+		<title>Heroines - IOC New Female President - EP13</title>
+		<desc>A new era has opened in the International Olympic Committee with the arrival of Kirsty Coventry as its president, a first for a woman… and it's excellent news for women in sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917687'&amp;EntityType='LinearSchedule'&amp;EntityId='b74be8db-d6c4-4651-8258-efcefc50b6b1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020003000 +0000" stop="20261020010000 +0000">
+		<title>Foul Play - Weapon Of Self-Destruction - EP25</title>
+		<desc>Jon Jones' vicious UFC game, boxing fraud sultan Don King and the loaded gloves of the Mexican Antonio Margarito.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917691'&amp;EntityType='LinearSchedule'&amp;EntityId='2a2e2603-4cc5-4cc3-888f-02a6529fe4a7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020010000 +0000" stop="20261020013000 +0000">
+		<title>Football Nation - Brazil - EP1</title>
+		<desc>Brazil is the footballing nation par excellence.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917743'&amp;EntityType='LinearSchedule'&amp;EntityId='9c0743c0-1414-4f8d-96af-a97d78db87ab'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020013000 +0000" stop="20261020020000 +0000">
+		<title>The Front Row - Designing a Car for Formula One - EP4</title>
+		<desc>We explore the process of F1 design: from respecting the rule to the exploitation of flaws, via all the intermediary stages.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917543'&amp;EntityType='LinearSchedule'&amp;EntityId='a1a73471-b8bc-471f-abe6-c84a88a55376'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020020000 +0000" stop="20261020023000 +0000">
+		<title>Chill - Snowboard Big Air - EP17</title>
+		<desc>We look at the art of preparing a snowboard for freestyle in the big mountains, and we bring you spectacular action of this kind on skis from Chamonix, with the best moments of the finals of the Freeside World Tour.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917661'&amp;EntityType='LinearSchedule'&amp;EntityId='20fdf40e-df2a-4c92-b298-a2f3be34ebed'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020023000 +0000" stop="20261020030000 +0000">
+		<title>Sports Woman - Sporting Brides - EP25</title>
+		<desc>Laura Trott has won more medals than any British athlete, and she has won the heart of her Olympic champion colleague Jason Kenny.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917615'&amp;EntityType='LinearSchedule'&amp;EntityId='aba7ad06-9f1a-491c-8e4f-06075f74b217'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020030000 +0000" stop="20261020033000 +0000">
+		<title>Football Nation - France - EP2</title>
+		<desc>France is the most significant footballing nation of the past 30 years.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917668'&amp;EntityType='LinearSchedule'&amp;EntityId='8e8cc3ac-92ed-42d8-b9a1-790c80f8a46d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020033000 +0000" stop="20261020040000 +0000">
+		<title>The Front Row - What Makes Great Driver - EP5</title>
+		<desc>We explore the qualities which make a great Formula 1 driver. From karting to physical training, via selection for a team and obtaining a place to drive at the biggest meetings.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917547'&amp;EntityType='LinearSchedule'&amp;EntityId='f0a1d74a-6434-4e0c-bb83-cbdd711f51c1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020040000 +0000" stop="20261020043000 +0000">
+		<title>Chill - Nescafé Champs - EP18</title>
+		<desc>Chlll joins some of the best free skiers on some of the most difficult terrains of the planet. And in Leysin, it's the five star snowboard event, the legendary Nescafe Champs.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917551'&amp;EntityType='LinearSchedule'&amp;EntityId='c68e33d1-adc6-4b95-b398-19366dcce74b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020043000 +0000" stop="20261020050000 +0000">
+		<title>Sports Woman - The Sky's The Limit - EP27</title>
+		<desc>The parachutist Amy Chmelecki inspires women around the world to break records. The Dutch Olympic champions Sanne Weavers and Sharon van Rouwendal shine with a thousand lights in Rio.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917622'&amp;EntityType='LinearSchedule'&amp;EntityId='fef54958-1d52-4750-b510-5c3c2c66c0d3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020050000 +0000" stop="20261020053000 +0000">
+		<title>Football’s Greatest Stage - More Than a Player - EP1</title>
+		<desc>Edison Arantes Do Nascimento - or Pelé - is the greatest figure in the history of football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917555'&amp;EntityType='LinearSchedule'&amp;EntityId='a494d68f-4a28-46fb-86b5-f3e7109b5bb8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020053000 +0000" stop="20261020060000 +0000">
+		<title>Football Nation - Brazil - EP1</title>
+		<desc>Brazil is the footballing nation par excellence.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917727'&amp;EntityType='LinearSchedule'&amp;EntityId='914fcf36-cf45-4e0c-a4d1-7357f4bae678'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020060000 +0000" stop="20261020063000 +0000">
+		<title>Football's Greatest Stage - Pelé's Co-Stars - EP9</title>
+		<desc>Pelé did not win three World Cups on his own,</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917747'&amp;EntityType='LinearSchedule'&amp;EntityId='aa07c516-a414-4ab1-a038-d2619012be1d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020063000 +0000" stop="20261020070000 +0000">
+		<title>Football Nation - Spain - EP4</title>
+		<desc>Spain has become the world's leading footballing nation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917751'&amp;EntityType='LinearSchedule'&amp;EntityId='7dd2d398-08b6-46dc-a801-0c1c30df4fb2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020070000 +0000" stop="20261020073000 +0000">
+		<title>Football Stars - Pedri - EP13</title>
+		<desc>The heir to Andres Iniesta, Pedri is the future of Barcelona.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917755'&amp;EntityType='LinearSchedule'&amp;EntityId='b6d72886-e642-4437-be91-7591801df0aa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020073000 +0000" stop="20261020080000 +0000">
+		<title>Heroines - IOC New Female President - EP13</title>
+		<desc>A new era has opened in the International Olympic Committee with the arrival of Kirsty Coventry as its president, a first for a woman… and it's excellent news for women in sport.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917759'&amp;EntityType='LinearSchedule'&amp;EntityId='852b3460-e443-4ce7-88f7-7d274ee9c3ec'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020080000 +0000" stop="20261020083000 +0000">
+		<title>Foul Play - Hot Heels - EP26</title>
+		<desc>Controversy engulfed the women's 3,000 metre race at Los Angeles 1984, the other side of South African athletic star Oscar Pistorius and the swindler who introduced themselves at the 1980 Boston marathon.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917763'&amp;EntityType='LinearSchedule'&amp;EntityId='f6499d6b-02e4-4b54-926d-11939c619703'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020083000 +0000" stop="20261020090000 +0000">
+		<title>Football Nation - Croatia - EP6</title>
+		<desc>Croatia is a modern marvel of football.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917630'&amp;EntityType='LinearSchedule'&amp;EntityId='31679339-6a76-459c-99c6-d80387641254'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020090000 +0000" stop="20261020093000 +0000">
+		<title>The Front Row - Safety in Formula 1 - EP6</title>
+		<desc>We explore the development of security in F1, from the application of technology to the materials borne in the car to the specifically designed security arrangements and their impact on the drivers.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917695'&amp;EntityType='LinearSchedule'&amp;EntityId='033c7d47-c488-4ab3-87b3-e5160b9288b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020093000 +0000" stop="20261020100000 +0000">
+		<title>Chill - Engadin Snow - EP19</title>
+		<desc>Some incredible action in the Swiss Alps: first stage, the station of Leysin where the best snowboarders of the planet square up for the Nescafe Champs. And Engadin Snow is a festival in Switzerland like no other.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917707'&amp;EntityType='LinearSchedule'&amp;EntityId='61d33c62-e341-4dcb-af74-ee400de11e7d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020100000 +0000" stop="20261020103000 +0000">
+		<title>Sports Woman - Never Give Up - EP1</title>
+		<desc>In this edition of Sportswoman, we look at athletes who have considered setbacks as well as challenges.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917638'&amp;EntityType='LinearSchedule'&amp;EntityId='c9e08d85-1cf2-4573-9b5d-bfa519e3521c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020103000 +0000" stop="20261020110000 +0000">
+		<title>The Front Row - Designing the Best Track for F1 - EP8</title>
+		<desc>We examine the design of the world's best F1 circuits, from design to realisation. And the numerous factors to be taken into account during the construction of a circuit.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917711'&amp;EntityType='LinearSchedule'&amp;EntityId='92598454-95bb-4653-8f6d-91a5963e92a9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020110000 +0000" stop="20261020113000 +0000">
+		<title>The Front Row - Women in Formula One - EP9</title>
+		<desc>We explore what is necessary to succeed as a woman in the world of Formula 1. And what challenges women face on the road to becoming world champions.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917699'&amp;EntityType='LinearSchedule'&amp;EntityId='a635e60c-2e6e-44c2-b091-8795ac06e2ea'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020113000 +0000" stop="20261020120000 +0000">
+		<title>The Front Row - The Business of F1 - EP10</title>
+		<desc>Between the teams equipped with colossal budgets, from sponsorship contracts to major stakes, from media rights worth several hundred millions and a permanent technological innovation, F1 is a perfectly oiled commercial machine.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917645'&amp;EntityType='LinearSchedule'&amp;EntityId='aa971cb9-fcdf-4b09-8aff-99f9e9d211a2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020120000 +0000" stop="20261020123000 +0000">
+		<title>The Front Row - F1 &amp; The Car Industry - EP11</title>
+		<desc>How has F1 influenced the car industry in the course of time? What role does it play in the current car landscape in rapid evolution? And while the world evolves towards electrification, what future does this relationship have?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917559'&amp;EntityType='LinearSchedule'&amp;EntityId='f094c09d-66ce-49fa-9584-dd0ef58f5d2f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020123000 +0000" stop="20261020130000 +0000">
+		<title>The Front Row - Sport Shaping Dangers - EP12</title>
+		<desc>How has F1 reacted faced with the omnipresent danger in this sport? What practices have been put in place to reduce the risks drivers will face in the future?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917563'&amp;EntityType='LinearSchedule'&amp;EntityId='b903d11a-8575-4fe5-a7a3-1e67fbd2ae1e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020130000 +0000" stop="20261020133000 +0000">
+		<title>The Front Row - Ferrari: The Heart of F1 - EP13</title>
+		<desc>Ferrari and Formula 1 are indissociable. Find out how this legendary team has fashioned sport and vice-versa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917567'&amp;EntityType='LinearSchedule'&amp;EntityId='6a75892f-2d4a-47f8-bafa-0d1a16c0250d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020133000 +0000" stop="20261020140000 +0000">
+		<title>Foul Play - Rolls Of The Dyce - EP27</title>
+		<desc>A coup mounted by a newspaper rolls the new England manager over, the fault linked to the Munich air disaster of 1958 and a curious K9 elucidates the case of the disappearance of the World Cup.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917731'&amp;EntityType='LinearSchedule'&amp;EntityId='baf51fcc-163f-491e-ae9a-2dd9a7836e72'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020140000 +0000" stop="20261020143000 +0000">
+		<title>Football Nation - OFC - EP7</title>
+		<desc>The Oceania Football Confederation is the smallest and least know of the FIFA federations.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917571'&amp;EntityType='LinearSchedule'&amp;EntityId='284b110d-b844-4028-9fc1-986b9b78ebd5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020143000 +0000" stop="20261020150000 +0000">
+		<title>The Front Row - Sustainability in Formula 1 - EP7</title>
+		<desc>For some decades, F1 has been an elite competition where technology and performance are pushed to the limits of the possible. But the biggest challenge faced by F1 today is to become sustainable.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917703'&amp;EntityType='LinearSchedule'&amp;EntityId='5c0d25bd-b0e5-426a-bc32-9a1f83db2865'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020150000 +0000" stop="20261020153000 +0000">
+		<title>Chill - California, Switzerland And Canada - EP20</title>
+		<desc>Chill goes to Kirkwood, in California, for the snowboard during the fourth leg of the Freeside World Tour. Then, Lenzerheide, in Switzerland, puts the stars of the world cup to the test with a combination of Super G, Slalom, Downhill and Giant Slalom.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917654'&amp;EntityType='LinearSchedule'&amp;EntityId='019cd975-2202-4c9f-a1f5-b372862cd46b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020153000 +0000" stop="20261020160000 +0000">
+		<title>Sports Woman - Game Changers - EP2</title>
+		<desc>In this edition of Sportswoman, we look at athletes who have changed the game.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16917578'&amp;EntityType='LinearSchedule'&amp;EntityId='322fd77d-bcde-4d52-af8e-a6758cccae3f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556888" start="20261020160000 +0000" stop="20261020163000 +0000">
+		<title>Flashpoint - Leicester City/Willi Mays - EP32</title>
+		<desc>Two men help Leicester City to realise a miracle and the New York Giant Willie Mays records the MLB version of "The Catch".</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16934088'&amp;EntityType='LinearSchedule'&amp;EntityId='f8e561c0-425e-483f-9868-a0cb2b1fa36c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
