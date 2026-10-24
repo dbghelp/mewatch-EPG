@@ -24,17 +24,13 @@
 		<display-name>CNA</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318766'&amp;EntityType='Item'&amp;EntityId='97072'&amp;Width=193&amp;Height=249" />
 	</channel>
-	<channel id="840096">
-		<display-name>Asian Para Games CH01</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17001078'&amp;EntityType='Item'&amp;EntityId='840096'&amp;Width=148&amp;Height=59" />
-	</channel>
-	<channel id="840094">
-		<display-name>Asian Para Games CH02</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17001114'&amp;EntityType='Item'&amp;EntityId='840094'&amp;Width=148&amp;Height=59" />
-	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
+	</channel>
+	<channel id="98201">
+		<display-name>SPL CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
 	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
@@ -95,6 +91,10 @@
 	<channel id="556888">
 		<display-name>TRACE Sport Stars</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358846'&amp;EntityType='Item'&amp;EntityId='556888'&amp;Width=350&amp;Height=250" />
+	</channel>
+	<channel id="556893">
+		<display-name>Kartoon Channel!</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358834'&amp;EntityType='Item'&amp;EntityId='556893'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20261023141500 +0000" stop="20261023160500 +0000">
 		<title>A Line Of Fire</title>
@@ -1046,36 +1046,6 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17005502'&amp;EntityType='LinearSchedule'&amp;EntityId='b4c26fbc-57cd-431a-bc24-bbf5b77c6fac'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840096" start="20261023160000 +0000" stop="20261024020500 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now. Next Broadcast on 24th October, Saturday 10.05am. (Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia - Mixed Pairs BC3 Final</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17001551'&amp;EntityType='LinearSchedule'&amp;EntityId='9edb4711-ef83-4c74-8a66-e519ca785174'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="840096" start="20261024020500 +0000" stop="20261024033000 +0000">
-		<title>(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia - Mixed Pairs BC3 Final</title>
-		<desc>(Live) 5th Asian Para Games Aichi-Nagoya 2026 : Boccia - Mixed Pairs BC3 Final</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17121097'&amp;EntityType='LinearSchedule'&amp;EntityId='33d97ff1-6398-4598-8ef7-b6b933f7a914'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="840096" start="20261024033000 +0000" stop="20261024160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17121101'&amp;EntityType='LinearSchedule'&amp;EntityId='64776ead-c0fe-4678-ad5b-9eac96b56116'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="840096" start="20261024160000 +0000" stop="20261025160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17016864'&amp;EntityType='LinearSchedule'&amp;EntityId='e2bef7f5-8d26-4946-86fa-404350cdbcc7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="840094" start="20261023160000 +0000" stop="20261024160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17001427'&amp;EntityType='LinearSchedule'&amp;EntityId='8d9ef41e-ebf4-4bce-bdf7-a2290b79f5ca'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="840094" start="20261024160000 +0000" stop="20261025160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17016856'&amp;EntityType='LinearSchedule'&amp;EntityId='da054a87-f040-416f-bd12-9850156875a2'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="98200" start="20261023160000 +0000" stop="20261024112000 +0000">
 		<title>No Programme available now. Next Broadcast on 24th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Young Lions vs Balestier Khalsa FC on 24th October, Saturday 7.20pm. Please stay tuned!</desc>
@@ -1095,6 +1065,16 @@
 		<title>No Programme available now. Next Broadcast on 25th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Lion City Sailors FC vs Tanjong Pagar United FC on 25th October, Sunday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17005769'&amp;EntityType='LinearSchedule'&amp;EntityId='e28cca71-52fb-4b74-8c23-9d8bf989276e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20261023160000 +0000" stop="20261024160000 +0000">
+		<title>No Programme available now. Next Broadcast on 25th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: FC Jurong vs Tampines Rovers FC on 25th October, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16985324'&amp;EntityType='LinearSchedule'&amp;EntityId='c8b9c707-dfb3-4815-b8d8-f763e2a616eb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20261024160000 +0000" stop="20261025112000 +0000">
+		<title>No Programme available now. Next Broadcast on 25th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: FC Jurong vs Tampines Rovers FC on 25th October, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17005871'&amp;EntityType='LinearSchedule'&amp;EntityId='d0fb2bc7-d479-41e3-b33f-83a0bacb4ebf'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20261023160000 +0000" stop="20261024110000 +0000">
 		<title>No programme available now. Next broadcast on 24th October, Saturday 7pm. The Wonder Shop Home Shopping</title>
@@ -2806,6 +2786,331 @@
 		<desc>France is the most significant footballing nation of the past 30 years.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17006643'&amp;EntityType='LinearSchedule'&amp;EntityId='0781fa27-cc27-43f0-a87c-aec08980d00e'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="556893" start="20261023160000 +0000" stop="20261023163000 +0000">
+		<title>Rainbow Rangers S1 - Dust In The Wind / Catch a Tiger - EP117</title>
+		<desc>The Rangers save a family of Javelinas from an intense desert dust storm. / The Rangers have to save a tiger thought to be extinct.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986860'&amp;EntityType='LinearSchedule'&amp;EntityId='b093b671-9423-43e6-81c8-4cfb368f18f9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023163000 +0000" stop="20261023170000 +0000">
+		<title>Thomas Edison's Secret Lab - Awesomemobile Deluxe / Follow Your Nose - EP113</title>
+		<desc>After making some modifications to the kids’ new self-driving car, Kent takes the vehicle for a spin and loses it. / When J.D. and Kent accidentally beam their noses to parts unknown, they must find and reattach their fugitive snouts – somehow – while they still can.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986687'&amp;EntityType='LinearSchedule'&amp;EntityId='3e7059b3-7cac-4e2d-af47-a8a2b4d9955f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023170000 +0000" stop="20261023173000 +0000">
+		<title>Shaq's Garage - Daredevil Gronk - EP117</title>
+		<desc>The Shaq Paq helps Gronk get ready for the big debut with his daredevil hero, Cuckoo Carlos.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986761'&amp;EntityType='LinearSchedule'&amp;EntityId='4a8b8d40-904c-4803-98be-c73768789c94'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023173000 +0000" stop="20261023174500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep3 - EP3</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986769'&amp;EntityType='LinearSchedule'&amp;EntityId='2eb70cf4-d4fc-448f-8b6d-5aac73e2b1ea'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023174500 +0000" stop="20261023180000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep1 - EP101</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986868'&amp;EntityType='LinearSchedule'&amp;EntityId='18697390-1a2b-43b7-bd27-ffc6d2f21660'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023180000 +0000" stop="20261023183500 +0000">
+		<title>Kids' Planet - Moral &amp; Ethics - EP123</title>
+		<desc>In this episode, we will go through everything related to Moral and Ethics. We will learn that morality helps us make good decisions and act responsibly all the time. We will also learn many valuable things about ethics and how to apply it in our lives, how it helps us to act in the right way and make good decisions. Being ethical means being respectful, honest, kind and trustworthy.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986876'&amp;EntityType='LinearSchedule'&amp;EntityId='1637bc61-6c5c-492c-88d8-9d4ea7d3c797'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023183500 +0000" stop="20261023185500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep6 - EP6</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986886'&amp;EntityType='LinearSchedule'&amp;EntityId='63cf7448-d9c4-4ce8-a448-86ab5e3e0f21'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023185500 +0000" stop="20261023190500 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep1 - EP101</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986523'&amp;EntityType='LinearSchedule'&amp;EntityId='fa3f1396-df05-4407-a524-5dd905a5b290'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023190500 +0000" stop="20261023193500 +0000">
+		<title>Rainbow Rangers S1 - A Hot Topic / Giant Catfish - EP118</title>
+		<desc>The Rangers have to save the unique animals at a hydrothermal vent. / The Rangers rescue a giant catfish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986777'&amp;EntityType='LinearSchedule'&amp;EntityId='a4bf2060-c846-4e61-af8b-c91f21a1c49a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023193500 +0000" stop="20261023200500 +0000">
+		<title>Shaq's Garage - Whale of a Tale - EP118</title>
+		<desc>An underwater treasure hunt quickly turns into a rescue operation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986894'&amp;EntityType='LinearSchedule'&amp;EntityId='6832d877-51e5-4cb0-aede-00fc83974dc2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023200500 +0000" stop="20261023203000 +0000">
+		<title>Rainbow Rangers S2 - Green Is the New Black / Plastic Bottle Island - EP222</title>
+		<desc>Microfibres from Preston's new fashion line causes environmental problems in the ocean; a bottle-nosed dolphin gets a plastic six-pack ring stuck on its nose and mouth.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986788'&amp;EntityType='LinearSchedule'&amp;EntityId='15f0531c-5cf8-4526-be8f-8b25d0f55a93'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023203000 +0000" stop="20261023204500 +0000">
+		<title>Giselle and the Green Team - The Case of the Acid Rain - EP111</title>
+		<desc>Gisele and the Green Team stop Nick Slick from burning sulfur coal and polluting the environment.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986533'&amp;EntityType='LinearSchedule'&amp;EntityId='f0a3d28c-3806-47e6-a973-d3fb9f0dddc7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023204500 +0000" stop="20261023205500 +0000">
+		<title>Mellodees - Wheels On The Bus - EP5</title>
+		<desc>Dee rides the school bus on his way to class. Is that Marshmello driving the bus?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986795'&amp;EntityType='LinearSchedule'&amp;EntityId='f3eebc4c-daef-4ff2-a402-5cb7da05d7bd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023205500 +0000" stop="20261023211000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep2 - EP102</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986546'&amp;EntityType='LinearSchedule'&amp;EntityId='63410ad1-2e65-4bd6-ab14-2efcd596605f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023211000 +0000" stop="20261023214000 +0000">
+		<title>Thomas Edison's Secret Lab - Fungal Bungle / Water Friends For? - EP114</title>
+		<desc>Kent’s extreme attempts to cure his toe fungus in time for a pool party cause the fungus to mutate and grow into a fungus-based replica of Kent himself. The Secret Lab Kids have to stop the replicant before it turns the whole lab into a stinky, sticky fungus-farm. / When Kent manages to contact aliens, they land at the Edison complex and demand that the Secret Lab kids help them find a very valuable "treasure" that their planet needs. The trouble is, they don't know the earth word for this treasure - sending our kids scrambling to solve this mystery before they get turned into "shrablitz”!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986903'&amp;EntityType='LinearSchedule'&amp;EntityId='573404c7-b16e-4392-9abf-69973e7de93d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023214000 +0000" stop="20261023220000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep6 - EP6</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986661'&amp;EntityType='LinearSchedule'&amp;EntityId='666db7d7-2bb7-4db6-bec4-0e0565e86eff'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023220000 +0000" stop="20261023223000 +0000">
+		<title>Rainbow Rangers S1 - Dust In The Wind / Catch a Tiger - EP117</title>
+		<desc>The Rangers save a family of Javelinas from an intense desert dust storm. / The Rangers have to save a tiger thought to be extinct.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986670'&amp;EntityType='LinearSchedule'&amp;EntityId='05861711-7cad-489e-8d1c-2e1a43c55e36'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023223000 +0000" stop="20261023230000 +0000">
+		<title>Thomas Edison's Secret Lab - Awesomemobile Deluxe / Follow Your Nose - EP113</title>
+		<desc>After making some modifications to the kids’ new self-driving car, Kent takes the vehicle for a spin and loses it. / When J.D. and Kent accidentally beam their noses to parts unknown, they must find and reattach their fugitive snouts – somehow – while they still can.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986557'&amp;EntityType='LinearSchedule'&amp;EntityId='fc681fa7-2ce9-4a11-833b-84fa21a88d3b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023230000 +0000" stop="20261023233000 +0000">
+		<title>Shaq's Garage - Daredevil Gronk - EP117</title>
+		<desc>The Shaq Paq helps Gronk get ready for the big debut with his daredevil hero, Cuckoo Carlos.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986568'&amp;EntityType='LinearSchedule'&amp;EntityId='f9329447-5321-4ebe-98bd-bbfdfd9b1a46'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023233000 +0000" stop="20261023234500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep3 - EP3</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986956'&amp;EntityType='LinearSchedule'&amp;EntityId='9116611b-deb3-4915-b60c-aed66549a63f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261023234500 +0000" stop="20261024000000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep1 - EP101</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986678'&amp;EntityType='LinearSchedule'&amp;EntityId='0cb3d6c2-64e7-4e90-a6b6-4dddf17d8ba1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024000000 +0000" stop="20261024003500 +0000">
+		<title>Kids' Planet - Moral &amp; Ethics - EP123</title>
+		<desc>In this episode, we will go through everything related to Moral and Ethics. We will learn that morality helps us make good decisions and act responsibly all the time. We will also learn many valuable things about ethics and how to apply it in our lives, how it helps us to act in the right way and make good decisions. Being ethical means being respectful, honest, kind and trustworthy.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986960'&amp;EntityType='LinearSchedule'&amp;EntityId='732b889b-9a14-4950-90ba-e8e76de074d7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024003500 +0000" stop="20261024005500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep6 - EP6</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986581'&amp;EntityType='LinearSchedule'&amp;EntityId='dd88d249-8aef-4d51-a9da-a8fa736f3c5c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024005500 +0000" stop="20261024010500 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep1 - EP101</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986910'&amp;EntityType='LinearSchedule'&amp;EntityId='905a3ec0-9745-46fb-aeea-12924a14acae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024010500 +0000" stop="20261024013500 +0000">
+		<title>Rainbow Rangers S1 - A Hot Topic / Giant Catfish - EP118</title>
+		<desc>The Rangers have to save the unique animals at a hydrothermal vent. / The Rangers rescue a giant catfish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986595'&amp;EntityType='LinearSchedule'&amp;EntityId='1afd93eb-7357-41d4-a65c-dc75d564335c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024013500 +0000" stop="20261024020000 +0000">
+		<title>Shaq's Garage - Whale of a Tale - EP118</title>
+		<desc>An underwater treasure hunt quickly turns into a rescue operation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986919'&amp;EntityType='LinearSchedule'&amp;EntityId='f0f0f4cf-0d79-4705-9ff3-2f77b1a9b0a8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024020000 +0000" stop="20261024023000 +0000">
+		<title>Rainbow Rangers S2 - Green Is the New Black / Plastic Bottle Island - EP222</title>
+		<desc>Microfibres from Preston's new fashion line causes environmental problems in the ocean; a bottle-nosed dolphin gets a plastic six-pack ring stuck on its nose and mouth.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986927'&amp;EntityType='LinearSchedule'&amp;EntityId='34fa3934-a6ff-47fe-848e-bc2af09e6dc2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024023000 +0000" stop="20261024024500 +0000">
+		<title>Giselle and the Green Team - The Case of the Acid Rain - EP111</title>
+		<desc>Gisele and the Green Team stop Nick Slick from burning sulfur coal and polluting the environment.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986605'&amp;EntityType='LinearSchedule'&amp;EntityId='2135b4a0-099d-47c2-b579-18c603d47ec0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024024500 +0000" stop="20261024025500 +0000">
+		<title>Mellodees - Wheels On The Bus - EP5</title>
+		<desc>Dee rides the school bus on his way to class. Is that Marshmello driving the bus?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986696'&amp;EntityType='LinearSchedule'&amp;EntityId='7ff02f49-5ad8-43f0-ada8-323396cccd35'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024025500 +0000" stop="20261024031000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep2 - EP102</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986704'&amp;EntityType='LinearSchedule'&amp;EntityId='6d642211-6991-4a17-ba99-91401e9f072c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024031000 +0000" stop="20261024034000 +0000">
+		<title>Thomas Edison's Secret Lab - Fungal Bungle / Water Friends For? - EP114</title>
+		<desc>Kent’s extreme attempts to cure his toe fungus in time for a pool party cause the fungus to mutate and grow into a fungus-based replica of Kent himself. The Secret Lab Kids have to stop the replicant before it turns the whole lab into a stinky, sticky fungus-farm. / When Kent manages to contact aliens, they land at the Edison complex and demand that the Secret Lab kids help them find a very valuable "treasure" that their planet needs. The trouble is, they don't know the earth word for this treasure - sending our kids scrambling to solve this mystery before they get turned into "shrablitz”!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986932'&amp;EntityType='LinearSchedule'&amp;EntityId='a8124603-8bb4-42e8-bbc7-d50a070c9774'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024034000 +0000" stop="20261024040000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep6 - EP6</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986964'&amp;EntityType='LinearSchedule'&amp;EntityId='f1fc8541-4e5d-4232-85eb-2b086e7e238a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024040000 +0000" stop="20261024043000 +0000">
+		<title>Rainbow Rangers S1 - Dust In The Wind / Catch a Tiger - EP117</title>
+		<desc>The Rangers save a family of Javelinas from an intense desert dust storm. / The Rangers have to save a tiger thought to be extinct.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986936'&amp;EntityType='LinearSchedule'&amp;EntityId='1920b29f-073d-48e2-a2f1-b64b30744947'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024043000 +0000" stop="20261024050000 +0000">
+		<title>Thomas Edison's Secret Lab - Awesomemobile Deluxe / Follow Your Nose - EP113</title>
+		<desc>After making some modifications to the kids’ new self-driving car, Kent takes the vehicle for a spin and loses it. / When J.D. and Kent accidentally beam their noses to parts unknown, they must find and reattach their fugitive snouts – somehow – while they still can.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986968'&amp;EntityType='LinearSchedule'&amp;EntityId='64cc21ce-b71d-4c66-aaa8-3a976ca99af7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024050000 +0000" stop="20261024053000 +0000">
+		<title>Shaq's Garage - Daredevil Gronk - EP117</title>
+		<desc>The Shaq Paq helps Gronk get ready for the big debut with his daredevil hero, Cuckoo Carlos.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986972'&amp;EntityType='LinearSchedule'&amp;EntityId='4d97a35f-1a03-4ed7-99cc-6d289f803000'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024053000 +0000" stop="20261024054500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep3 - EP3</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986753'&amp;EntityType='LinearSchedule'&amp;EntityId='876a0be0-2d81-4c14-b941-d90800c0449c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024054500 +0000" stop="20261024060000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep1 - EP101</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986614'&amp;EntityType='LinearSchedule'&amp;EntityId='aa7c4753-ec50-4cfa-876c-067e578af7f9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024060000 +0000" stop="20261024063500 +0000">
+		<title>Kids' Planet - Moral &amp; Ethics - EP123</title>
+		<desc>In this episode, we will go through everything related to Moral and Ethics. We will learn that morality helps us make good decisions and act responsibly all the time. We will also learn many valuable things about ethics and how to apply it in our lives, how it helps us to act in the right way and make good decisions. Being ethical means being respectful, honest, kind and trustworthy.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986976'&amp;EntityType='LinearSchedule'&amp;EntityId='fa8b666c-192f-464d-b76d-64cd656126ed'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024063500 +0000" stop="20261024065500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep6 - EP6</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986980'&amp;EntityType='LinearSchedule'&amp;EntityId='9c40962f-62e1-4572-a691-a7b502228979'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024065500 +0000" stop="20261024070500 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep1 - EP101</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986827'&amp;EntityType='LinearSchedule'&amp;EntityId='db7c3961-e63b-4d36-ae5b-ac133f3c7f41'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024070500 +0000" stop="20261024073500 +0000">
+		<title>Rainbow Rangers S1 - A Hot Topic / Giant Catfish - EP118</title>
+		<desc>The Rangers have to save the unique animals at a hydrothermal vent. / The Rangers rescue a giant catfish.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986711'&amp;EntityType='LinearSchedule'&amp;EntityId='b8abc3be-d39e-4f06-99e9-35c75ee7254d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024073500 +0000" stop="20261024080000 +0000">
+		<title>Shaq's Garage - Whale of a Tale - EP118</title>
+		<desc>An underwater treasure hunt quickly turns into a rescue operation.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986835'&amp;EntityType='LinearSchedule'&amp;EntityId='0a0e5603-5151-4b47-9096-2822cd180712'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024080000 +0000" stop="20261024083000 +0000">
+		<title>Rainbow Rangers S2 - Green Is the New Black / Plastic Bottle Island - EP222</title>
+		<desc>Microfibres from Preston's new fashion line causes environmental problems in the ocean; a bottle-nosed dolphin gets a plastic six-pack ring stuck on its nose and mouth.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986844'&amp;EntityType='LinearSchedule'&amp;EntityId='5b00c05a-c3a2-4fdf-995d-06ea6bf4c60e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024083000 +0000" stop="20261024084500 +0000">
+		<title>Giselle and the Green Team - The Case of the Acid Rain - EP111</title>
+		<desc>Gisele and the Green Team stop Nick Slick from burning sulfur coal and polluting the environment.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986620'&amp;EntityType='LinearSchedule'&amp;EntityId='252d152e-2bc6-41b7-b33b-fd06b6cf56b8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024084500 +0000" stop="20261024085500 +0000">
+		<title>Mellodees - Wheels On The Bus - EP5</title>
+		<desc>Dee rides the school bus on his way to class. Is that Marshmello driving the bus?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986802'&amp;EntityType='LinearSchedule'&amp;EntityId='33582a3b-3513-4ca9-839a-837f8f62ce51'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024085500 +0000" stop="20261024091000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep2 - EP102</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986849'&amp;EntityType='LinearSchedule'&amp;EntityId='fe7ff9f4-f054-4c42-8361-aec10cc6aa79'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024091000 +0000" stop="20261024094000 +0000">
+		<title>Thomas Edison's Secret Lab - Fungal Bungle / Water Friends For? - EP114</title>
+		<desc>Kent’s extreme attempts to cure his toe fungus in time for a pool party cause the fungus to mutate and grow into a fungus-based replica of Kent himself. The Secret Lab Kids have to stop the replicant before it turns the whole lab into a stinky, sticky fungus-farm. / When Kent manages to contact aliens, they land at the Edison complex and demand that the Secret Lab kids help them find a very valuable "treasure" that their planet needs. The trouble is, they don't know the earth word for this treasure - sending our kids scrambling to solve this mystery before they get turned into "shrablitz”!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986810'&amp;EntityType='LinearSchedule'&amp;EntityId='d01a4a9b-b927-4f3f-8991-5415aa00ea35'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024094000 +0000" stop="20261024100000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep6 - EP6</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986984'&amp;EntityType='LinearSchedule'&amp;EntityId='d31b4683-f0ee-464f-b966-f632d04678e5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024100000 +0000" stop="20261024103000 +0000">
+		<title>Rainbow Rangers S1 - Prairie Dog Day Afternoon / We Didn't Start the Fire Ants - EP119</title>
+		<desc>The Rangers save a keystone species. / The Rangers get rid of invasive fire ants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986988'&amp;EntityType='LinearSchedule'&amp;EntityId='07656a89-44a3-419e-b510-997ce69bd2c9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024103000 +0000" stop="20261024110000 +0000">
+		<title>Thomas Edison's Secret Lab - Dancing Machine / Ape Escape - EP115</title>
+		<desc>Hoping to get on a dance show, Von Bolt wears a remote-control dance outfit! But if he lets someone else dance for him, is he really a winner? / When the kids are responsible for a female gorilla breaking out of the zoo, they need to figure out how to do some heavy lifting to return her.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986628'&amp;EntityType='LinearSchedule'&amp;EntityId='f545b449-24bc-4985-9b28-0143e277815a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024110000 +0000" stop="20261024113000 +0000">
+		<title>Shaq's Garage - Tibbs in Charge - EP119</title>
+		<desc>A mystery is afoot, toys have gone missing and it's up to the Shaq Pack to figure out what happened.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986719'&amp;EntityType='LinearSchedule'&amp;EntityId='db97f252-37c5-4cf7-b942-07bce61f15bb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024113000 +0000" stop="20261024114500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep4 - EP4</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986636'&amp;EntityType='LinearSchedule'&amp;EntityId='bf449b32-7266-4ea0-b5a7-88c345592dc6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024114500 +0000" stop="20261024120000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep2 - EP102</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986952'&amp;EntityType='LinearSchedule'&amp;EntityId='f9fee41f-1342-48dc-a8c2-3fbc4fdbeb24'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024120000 +0000" stop="20261024123500 +0000">
+		<title>Kids' Planet - Hope and Faith - EP124</title>
+		<desc>In this episode, we will learn about the values of Faith and Hope. We will discover that hope is a value that allows us to believe that something positive will happen. Faith is having confidence in someone or something. When we have faith in people, we help them to believe in themselves. You must trust in yourself and know that you are capable of achieving it!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986644'&amp;EntityType='LinearSchedule'&amp;EntityId='bfbe7e25-853a-4773-8db6-48abe270c46c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024123500 +0000" stop="20261024125500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep7 - EP7</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986648'&amp;EntityType='LinearSchedule'&amp;EntityId='3fbc2310-28f8-4cd9-8109-3b58c1621f73'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024125500 +0000" stop="20261024130500 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep3 - EP103</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986653'&amp;EntityType='LinearSchedule'&amp;EntityId='6b943024-d66a-4bad-b1dc-ea25e6045cae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024130500 +0000" stop="20261024133500 +0000">
+		<title>Rainbow Rangers S1 - Look Out Lemur / Don't Move A Mussel - EP120</title>
+		<desc>The Rangers save a lemur, and teach Preston Praxton about terraced farming. The Rangers save a lake from invasive zebra mussels.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986819'&amp;EntityType='LinearSchedule'&amp;EntityId='21f5fb9f-0d0d-4c15-96d9-e09eff6ec89c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024133500 +0000" stop="20261024140500 +0000">
+		<title>Shaq's Garage - Gronk Did It! - EP120</title>
+		<desc>A day volunteering at the Orlanta Animal Reserve turns into an ordeal as an elephant escapes its enclosure.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986726'&amp;EntityType='LinearSchedule'&amp;EntityId='a9337314-690e-49ce-8b66-f1a5f4e7d19f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024140500 +0000" stop="20261024143000 +0000">
+		<title>Rainbow Rangers S2 - Calling Fowl / Treehouse Trouble - EP223</title>
+		<desc>The Rangers discover Preston Praxton is feeding ducks to keep them off his golf course; Preston is harvesting trees so Patty can build her a massive dream tree house, but it is destroying the forest.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986940'&amp;EntityType='LinearSchedule'&amp;EntityId='19a1b8ce-2865-402c-a13c-21259acf827d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024143000 +0000" stop="20261024144500 +0000">
+		<title>Giselle and the Green Team - The Case of the Pesticide Pest - EP201</title>
+		<desc>Gisele and her Green Team fight pollution in the Missouri River from pesticides from being dumped.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986734'&amp;EntityType='LinearSchedule'&amp;EntityId='81ddc985-9b49-4446-ae06-2aa14990b206'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024144500 +0000" stop="20261024145500 +0000">
+		<title>Mellodees - You Are My Sunshine - EP7</title>
+		<desc>It's story time! Dee and Teddy snuggle up with a good book before bed time. Sing-A-Long as they take you on an adventure in the jungle while reading the story of "You Are My Sunshine"!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986740'&amp;EntityType='LinearSchedule'&amp;EntityId='5eda9824-b419-4f52-a61a-a1e574ce1bc4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024145500 +0000" stop="20261024151000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep4 - EP104</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='16986944'&amp;EntityType='LinearSchedule'&amp;EntityId='00905c2f-3621-4519-b4a9-548533d319e8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024151000 +0000" stop="20261024154000 +0000">
+		<title>Thomas Edison's Secret Lab - M for Mayhem / Act Your Stone Age - EP116</title>
+		<desc>JD creates a mini-universe to store his stuff but it grows wildly out of control and starts consuming everything - and everyone - in the lab. / Having wrought destruction on the Lab’s indoor greenhouse, JD seeks refuge from the consequences of his actions by escaping through the VR Window to the Stone Age.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986745'&amp;EntityType='LinearSchedule'&amp;EntityId='26d6e8b5-0346-46e3-b5c4-1b10d32d9766'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024154000 +0000" stop="20261024160000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep7 - EP7</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='16986948'&amp;EntityType='LinearSchedule'&amp;EntityId='b1c811b7-a79a-4485-a8dd-853ef1af7203'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024160000 +0000" stop="20261024163000 +0000">
+		<title>Rainbow Rangers S1 - Prairie Dog Day Afternoon / We Didn't Start the Fire Ants - EP119</title>
+		<desc>The Rangers save a keystone species. / The Rangers get rid of invasive fire ants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007005'&amp;EntityType='LinearSchedule'&amp;EntityId='71fcf66d-3689-4970-8e27-74386ed36959'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20261024162000 +0000" stop="20261024163000 +0000">
 		<title>Just For Laughs S25 - EP 8</title>
 		<desc>Just For Laughswill tickle everyone's funny bone with its hilarious practical jokes, hidden camera pranks, and other creative hijinks.</desc>
@@ -3721,16 +4026,6 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17030222'&amp;EntityType='LinearSchedule'&amp;EntityId='a546c115-d0f6-43a4-af34-3e32c2648d51'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="840096" start="20261025160000 +0000" stop="20261026160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17030109'&amp;EntityType='LinearSchedule'&amp;EntityId='32717b82-37fb-4fe3-8212-6e476cd5cc2b'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="840094" start="20261025160000 +0000" stop="20261026160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17030105'&amp;EntityType='LinearSchedule'&amp;EntityId='b59362e0-e292-4a6c-ab30-26a3c0905b9a'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="98200" start="20261025112000 +0000" stop="20261025140000 +0000">
 		<title>Singapore Premier League 2026/2027: Lion City Sailors FC vs Tanjong Pagar United FC </title>
 		<desc>The Singapore Premier League 2026/2027 is the 9th season of the Singapore Premier League. A total of eight teams are taking part in a triple round-robin format. Will Lion City Sailors continue to defend their champion title, having won two consecutive titles, or will another club be crowned as the new champion?</desc>
@@ -3745,6 +4040,21 @@
 		<title>No Programme available now. Next Broadcast on 26th October, Monday 7.20pm. Singapore Premier League 2026/2027</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Geylang International FC vs Hougang United FC on 26th October, Monday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17020061'&amp;EntityType='LinearSchedule'&amp;EntityId='f63bf46d-a938-4bea-b6cc-cda389a13f30'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20261025112000 +0000" stop="20261025140000 +0000">
+		<title>Singapore Premier League 2026/2027: FC Jurong vs Tampines Rovers FC</title>
+		<desc>The Singapore Premier League 2026/2027 is the 9th season of the Singapore Premier League. A total of eight teams are taking part in a triple round-robin format. Will Lion City Sailors continue to defend their champion title, having won two consecutive titles, or will another club be crowned as the new champion?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17005851'&amp;EntityType='LinearSchedule'&amp;EntityId='fa6f13e2-9a64-4826-a35a-2eaeac9d2604'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20261025140000 +0000" stop="20261025160000 +0000">
+		<title>No Programme available now. Next Broadcast on 1st November, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Balestier Khalsa FC vs Lion City Sailors FC on 1st November, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17005861'&amp;EntityType='LinearSchedule'&amp;EntityId='19ab90ac-606b-45d4-8e3a-ea1480c99d83'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20261025160000 +0000" stop="20261026160000 +0000">
+		<title>No Programme available now. Next Broadcast on 1st November, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Balestier Khalsa FC vs Lion City Sailors FC on 1st November, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17020078'&amp;EntityType='LinearSchedule'&amp;EntityId='85de285f-e16f-4e92-8daf-12b61ce3ec91'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20261025110000 +0000" stop="20261025111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Thomson Livrin</title>
@@ -5440,5 +5750,325 @@
 		<title>The Front Row - Strategy - EP2</title>
 		<desc>We explore the tactics, methods and approaches of the teams to mark up precious points during the weekend's racing, their preparation for an F1 season and their collaboration with the FIA.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17020725'&amp;EntityType='LinearSchedule'&amp;EntityId='e52b4f5e-4fcc-490a-91e4-72189bfc427e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024163000 +0000" stop="20261024170000 +0000">
+		<title>Thomas Edison's Secret Lab - Dancing Machine / Ape Escape - EP115</title>
+		<desc>Hoping to get on a dance show, Von Bolt wears a remote-control dance outfit! But if he lets someone else dance for him, is he really a winner? / When the kids are responsible for a female gorilla breaking out of the zoo, they need to figure out how to do some heavy lifting to return her.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007147'&amp;EntityType='LinearSchedule'&amp;EntityId='485b48bc-eff6-4181-8ef4-4d68af63f58e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024170000 +0000" stop="20261024173000 +0000">
+		<title>Shaq's Garage - Tibbs in Charge - EP119</title>
+		<desc>A mystery is afoot, toys have gone missing and it's up to the Shaq Pack to figure out what happened.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007156'&amp;EntityType='LinearSchedule'&amp;EntityId='cbc6136e-cb43-45d0-b664-a73f01ae3966'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024173000 +0000" stop="20261024174500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep4 - EP4</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006852'&amp;EntityType='LinearSchedule'&amp;EntityId='265d5f7d-5163-48d4-be85-50ebe08d616d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024174500 +0000" stop="20261024180000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep2 - EP102</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17007355'&amp;EntityType='LinearSchedule'&amp;EntityId='289b11e8-e1cf-42c2-976e-171deb65f207'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024180000 +0000" stop="20261024183500 +0000">
+		<title>Kids' Planet - Hope and Faith - EP124</title>
+		<desc>In this episode, we will learn about the values of Faith and Hope. We will discover that hope is a value that allows us to believe that something positive will happen. Faith is having confidence in someone or something. When we have faith in people, we help them to believe in themselves. You must trust in yourself and know that you are capable of achieving it!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006859'&amp;EntityType='LinearSchedule'&amp;EntityId='b2053a4e-b5f7-496d-b606-43f86b035743'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024183500 +0000" stop="20261024185500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep7 - EP7</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006867'&amp;EntityType='LinearSchedule'&amp;EntityId='19603820-1ccd-4da5-ba59-189546f1b015'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024185500 +0000" stop="20261024190500 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep3 - EP103</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17007366'&amp;EntityType='LinearSchedule'&amp;EntityId='8c8bb8f0-470e-4733-bab4-f8d44c7ad87a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024190500 +0000" stop="20261024193500 +0000">
+		<title>Rainbow Rangers S1 - Look Out Lemur / Don't Move A Mussel - EP120</title>
+		<desc>The Rangers save a lemur, and teach Preston Praxton about terraced farming. The Rangers save a lake from invasive zebra mussels.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007168'&amp;EntityType='LinearSchedule'&amp;EntityId='6f4579f2-eaba-448e-9811-a86d891af6a8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024193500 +0000" stop="20261024200500 +0000">
+		<title>Shaq's Garage - Gronk Did It! - EP120</title>
+		<desc>A day volunteering at the Orlanta Animal Reserve turns into an ordeal as an elephant escapes its enclosure.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006875'&amp;EntityType='LinearSchedule'&amp;EntityId='f4df9c25-362f-4c03-8a3f-0e3c4f1a5697'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024200500 +0000" stop="20261024203000 +0000">
+		<title>Rainbow Rangers S2 - Calling Fowl / Treehouse Trouble - EP223</title>
+		<desc>The Rangers discover Preston Praxton is feeding ducks to keep them off his golf course; Preston is harvesting trees so Patty can build her a massive dream tree house, but it is destroying the forest.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006735'&amp;EntityType='LinearSchedule'&amp;EntityId='1900424a-bf58-4a13-a549-c5ec70a950c1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024203000 +0000" stop="20261024204500 +0000">
+		<title>Giselle and the Green Team - The Case of the Pesticide Pest - EP201</title>
+		<desc>Gisele and her Green Team fight pollution in the Missouri River from pesticides from being dumped.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007015'&amp;EntityType='LinearSchedule'&amp;EntityId='77419e0f-24de-4c94-b45a-331a0a29da46'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024204500 +0000" stop="20261024205500 +0000">
+		<title>Mellodees - You Are My Sunshine - EP7</title>
+		<desc>It's story time! Dee and Teddy snuggle up with a good book before bed time. Sing-A-Long as they take you on an adventure in the jungle while reading the story of "You Are My Sunshine"!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006743'&amp;EntityType='LinearSchedule'&amp;EntityId='5a472440-0829-4d00-b9b6-a5ba87c74803'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024205500 +0000" stop="20261024211000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep4 - EP104</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17007025'&amp;EntityType='LinearSchedule'&amp;EntityId='4bdd9686-7f92-4711-9677-9447ac90b597'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024211000 +0000" stop="20261024214000 +0000">
+		<title>Thomas Edison's Secret Lab - M for Mayhem / Act Your Stone Age - EP116</title>
+		<desc>JD creates a mini-universe to store his stuff but it grows wildly out of control and starts consuming everything - and everyone - in the lab. / Having wrought destruction on the Lab’s indoor greenhouse, JD seeks refuge from the consequences of his actions by escaping through the VR Window to the Stone Age.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006831'&amp;EntityType='LinearSchedule'&amp;EntityId='b98e2c98-824c-4a08-89ae-19c84ec80b17'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024214000 +0000" stop="20261024220000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep7 - EP7</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007182'&amp;EntityType='LinearSchedule'&amp;EntityId='ae212acf-3bc2-4fb0-8371-b5878e0a0a0d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024220000 +0000" stop="20261024223000 +0000">
+		<title>Rainbow Rangers S1 - Prairie Dog Day Afternoon / We Didn't Start the Fire Ants - EP119</title>
+		<desc>The Rangers save a keystone species. / The Rangers get rid of invasive fire ants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006751'&amp;EntityType='LinearSchedule'&amp;EntityId='e4f8f771-2dd2-4f84-bb54-7bdd22ef340e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024223000 +0000" stop="20261024230000 +0000">
+		<title>Thomas Edison's Secret Lab - Dancing Machine / Ape Escape - EP115</title>
+		<desc>Hoping to get on a dance show, Von Bolt wears a remote-control dance outfit! But if he lets someone else dance for him, is he really a winner? / When the kids are responsible for a female gorilla breaking out of the zoo, they need to figure out how to do some heavy lifting to return her.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007197'&amp;EntityType='LinearSchedule'&amp;EntityId='eacd63d8-dc12-4620-90d5-b77908880427'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024230000 +0000" stop="20261024233000 +0000">
+		<title>Shaq's Garage - Tibbs in Charge - EP119</title>
+		<desc>A mystery is afoot, toys have gone missing and it's up to the Shaq Pack to figure out what happened.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006837'&amp;EntityType='LinearSchedule'&amp;EntityId='6aedcb2a-54a0-4aa8-b539-cb1571ed6cfa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024233000 +0000" stop="20261024234500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep4 - EP4</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007036'&amp;EntityType='LinearSchedule'&amp;EntityId='a29963d3-a292-4d69-a51d-4aecd8498e22'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261024234500 +0000" stop="20261025000000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep2 - EP102</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17007051'&amp;EntityType='LinearSchedule'&amp;EntityId='5a6bf659-ff25-4e75-bacb-bcfe99cdd5c3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025000000 +0000" stop="20261025004000 +0000">
+		<title>Kids' Planet - Hope and Faith - EP124</title>
+		<desc>In this episode, we will learn about the values of Faith and Hope. We will discover that hope is a value that allows us to believe that something positive will happen. Faith is having confidence in someone or something. When we have faith in people, we help them to believe in themselves. You must trust in yourself and know that you are capable of achieving it!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006846'&amp;EntityType='LinearSchedule'&amp;EntityId='02063deb-fdd2-4b70-9c71-f6768a852145'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025004000 +0000" stop="20261025005500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep7 - EP7</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007062'&amp;EntityType='LinearSchedule'&amp;EntityId='68c53f11-4521-472f-aaee-56104a0d824e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025005500 +0000" stop="20261025010500 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep3 - EP103</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17007375'&amp;EntityType='LinearSchedule'&amp;EntityId='11c880ca-baa1-4909-a000-32ad12f9f5f5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025010500 +0000" stop="20261025013500 +0000">
+		<title>Rainbow Rangers S1 - Look Out Lemur / Don't Move A Mussel - EP120</title>
+		<desc>The Rangers save a lemur, and teach Preston Praxton about terraced farming. The Rangers save a lake from invasive zebra mussels.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007215'&amp;EntityType='LinearSchedule'&amp;EntityId='caadeea8-52a6-4f07-abf2-2996023d0c4f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025013500 +0000" stop="20261025020500 +0000">
+		<title>Shaq's Garage - Gronk Did It! - EP120</title>
+		<desc>A day volunteering at the Orlanta Animal Reserve turns into an ordeal as an elephant escapes its enclosure.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007233'&amp;EntityType='LinearSchedule'&amp;EntityId='07d18a46-4824-47da-a696-07b4cc04ae3f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025020500 +0000" stop="20261025023000 +0000">
+		<title>Rainbow Rangers S2 - Calling Fowl / Treehouse Trouble - EP223</title>
+		<desc>The Rangers discover Preston Praxton is feeding ducks to keep them off his golf course; Preston is harvesting trees so Patty can build her a massive dream tree house, but it is destroying the forest.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006761'&amp;EntityType='LinearSchedule'&amp;EntityId='77d5f9d6-1f0a-4ce8-9921-e05b71436610'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025023000 +0000" stop="20261025024500 +0000">
+		<title>Giselle and the Green Team - The Case of the Pesticide Pest - EP201</title>
+		<desc>Gisele and her Green Team fight pollution in the Missouri River from pesticides from being dumped.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006880'&amp;EntityType='LinearSchedule'&amp;EntityId='9c547356-3fdb-46e1-99e7-329782daffbf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025024500 +0000" stop="20261025025500 +0000">
+		<title>Mellodees - You Are My Sunshine - EP7</title>
+		<desc>It's story time! Dee and Teddy snuggle up with a good book before bed time. Sing-A-Long as they take you on an adventure in the jungle while reading the story of "You Are My Sunshine"!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006980'&amp;EntityType='LinearSchedule'&amp;EntityId='677f8dcd-1032-4a52-9fb2-1c36d7c1f2aa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025025500 +0000" stop="20261025031000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep4 - EP104</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17006887'&amp;EntityType='LinearSchedule'&amp;EntityId='388fc427-4698-46ad-b1d5-b7cda4abc37b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025031000 +0000" stop="20261025034000 +0000">
+		<title>Thomas Edison's Secret Lab - M for Mayhem / Act Your Stone Age - EP116</title>
+		<desc>JD creates a mini-universe to store his stuff but it grows wildly out of control and starts consuming everything - and everyone - in the lab. / Having wrought destruction on the Lab’s indoor greenhouse, JD seeks refuge from the consequences of his actions by escaping through the VR Window to the Stone Age.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007249'&amp;EntityType='LinearSchedule'&amp;EntityId='e518733e-0e3b-43aa-9ef9-fbc404e7576b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025034000 +0000" stop="20261025040000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep7 - EP7</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006995'&amp;EntityType='LinearSchedule'&amp;EntityId='35b3b5d6-a3b6-4978-afe9-1b31cb889c49'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025040000 +0000" stop="20261025043000 +0000">
+		<title>Rainbow Rangers S1 - Prairie Dog Day Afternoon / We Didn't Start the Fire Ants - EP119</title>
+		<desc>The Rangers save a keystone species. / The Rangers get rid of invasive fire ants.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007268'&amp;EntityType='LinearSchedule'&amp;EntityId='d8702f88-9e53-42a2-a183-aab381a35757'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025043000 +0000" stop="20261025050000 +0000">
+		<title>Thomas Edison's Secret Lab - Dancing Machine / Ape Escape - EP115</title>
+		<desc>Hoping to get on a dance show, Von Bolt wears a remote-control dance outfit! But if he lets someone else dance for him, is he really a winner? / When the kids are responsible for a female gorilla breaking out of the zoo, they need to figure out how to do some heavy lifting to return her.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006768'&amp;EntityType='LinearSchedule'&amp;EntityId='881fdc54-eee2-4a2c-ac1e-e9fd56b4a6ca'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025050000 +0000" stop="20261025053000 +0000">
+		<title>Shaq's Garage - Tibbs in Charge - EP119</title>
+		<desc>A mystery is afoot, toys have gone missing and it's up to the Shaq Pack to figure out what happened.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006896'&amp;EntityType='LinearSchedule'&amp;EntityId='0e86b557-5d79-4cde-b239-41285a4f83c7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025053000 +0000" stop="20261025054500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep4 - EP4</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006775'&amp;EntityType='LinearSchedule'&amp;EntityId='fe8e9408-ffd4-4e75-b7f4-65d8777394c6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025054500 +0000" stop="20261025060000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep2 - EP102</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17007282'&amp;EntityType='LinearSchedule'&amp;EntityId='06302a09-99d4-4f10-905e-c2bb6af74122'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025060000 +0000" stop="20261025064000 +0000">
+		<title>Kids' Planet - Hope and Faith - EP124</title>
+		<desc>In this episode, we will learn about the values of Faith and Hope. We will discover that hope is a value that allows us to believe that something positive will happen. Faith is having confidence in someone or something. When we have faith in people, we help them to believe in themselves. You must trust in yourself and know that you are capable of achieving it!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007389'&amp;EntityType='LinearSchedule'&amp;EntityId='1d187d30-4d16-4381-99c1-0ff24386703e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025064000 +0000" stop="20261025065500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep7 - EP7</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006781'&amp;EntityType='LinearSchedule'&amp;EntityId='3286552c-57ab-4ae6-816b-a1de60b270ac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025065500 +0000" stop="20261025070500 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep3 - EP103</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17007070'&amp;EntityType='LinearSchedule'&amp;EntityId='0029b948-f856-4ceb-b9c4-9ba37c7ca206'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025070500 +0000" stop="20261025073500 +0000">
+		<title>Rainbow Rangers S1 - Look Out Lemur / Don't Move A Mussel - EP120</title>
+		<desc>The Rangers save a lemur, and teach Preston Praxton about terraced farming. The Rangers save a lake from invasive zebra mussels.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007117'&amp;EntityType='LinearSchedule'&amp;EntityId='9beaab6e-9915-495b-9e14-0b20ab74039b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025073500 +0000" stop="20261025080500 +0000">
+		<title>Shaq's Garage - Gronk Did It! - EP120</title>
+		<desc>A day volunteering at the Orlanta Animal Reserve turns into an ordeal as an elephant escapes its enclosure.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007079'&amp;EntityType='LinearSchedule'&amp;EntityId='928b9b0d-9d22-49b8-9973-0d587b28ef5e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025080500 +0000" stop="20261025083000 +0000">
+		<title>Rainbow Rangers S2 - Calling Fowl / Treehouse Trouble - EP223</title>
+		<desc>The Rangers discover Preston Praxton is feeding ducks to keep them off his golf course; Preston is harvesting trees so Patty can build her a massive dream tree house, but it is destroying the forest.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007127'&amp;EntityType='LinearSchedule'&amp;EntityId='6e7ef03d-a728-40d4-9980-7bf57baba19c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025083000 +0000" stop="20261025084500 +0000">
+		<title>Giselle and the Green Team - The Case of the Pesticide Pest - EP201</title>
+		<desc>Gisele and her Green Team fight pollution in the Missouri River from pesticides from being dumped.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006791'&amp;EntityType='LinearSchedule'&amp;EntityId='68a1c89c-db1e-4ff9-aa8e-e60c2ddf3c57'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025084500 +0000" stop="20261025085500 +0000">
+		<title>Mellodees - You Are My Sunshine - EP7</title>
+		<desc>It's story time! Dee and Teddy snuggle up with a good book before bed time. Sing-A-Long as they take you on an adventure in the jungle while reading the story of "You Are My Sunshine"!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006905'&amp;EntityType='LinearSchedule'&amp;EntityId='abff3158-c504-4cdf-a87b-121a80fa2436'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025085500 +0000" stop="20261025091000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep4 - EP104</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17007089'&amp;EntityType='LinearSchedule'&amp;EntityId='dc503b8c-4756-43f0-9555-98965b98c6e2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025091000 +0000" stop="20261025094000 +0000">
+		<title>Thomas Edison's Secret Lab - M for Mayhem / Act Your Stone Age - EP116</title>
+		<desc>JD creates a mini-universe to store his stuff but it grows wildly out of control and starts consuming everything - and everyone - in the lab. / Having wrought destruction on the Lab’s indoor greenhouse, JD seeks refuge from the consequences of his actions by escaping through the VR Window to the Stone Age.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006916'&amp;EntityType='LinearSchedule'&amp;EntityId='594d067b-8943-457b-9c71-1aee7076d002'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025094000 +0000" stop="20261025100000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep7 - EP7</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007100'&amp;EntityType='LinearSchedule'&amp;EntityId='e40fa549-82ef-4a17-8021-6cc81c3363cb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025100000 +0000" stop="20261025103000 +0000">
+		<title>Rainbow Rangers S1 - Praxton Island, Inc. / Get The Lead Out - EP121</title>
+		<desc>The Rangers deal with issues from artificial islands. The Rangers save a family from lead in their home water supply.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007135'&amp;EntityType='LinearSchedule'&amp;EntityId='a6f3ddb9-a27a-49b6-ad4f-82cbc1fbf53f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025103000 +0000" stop="20261025110000 +0000">
+		<title>Thomas Edison's Secret Lab - Static Monstro-City / I-Yi-Yi Robot - EP117</title>
+		<desc>When JD and Kent accidentally create a static electricity charged laundry monster, it rampages through town. With the help of Robert Van de Graaff they find a way to defeat the monster’s static cling. / When the Antimatters create a rogue robot, it’s up to the Secret Lab Kids to save the day.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006929'&amp;EntityType='LinearSchedule'&amp;EntityId='4d06a089-952a-4b14-8ee7-6fd26a200b32'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025110000 +0000" stop="20261025113000 +0000">
+		<title>Shaq's Garage - The Eggs and I - EP121</title>
+		<desc>Bates and Dawkins give Himari a BIG surprise.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006941'&amp;EntityType='LinearSchedule'&amp;EntityId='5e0cdc0f-9567-4d7c-a689-decff4dcc27f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025113000 +0000" stop="20261025114500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep5 - EP5</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006798'&amp;EntityType='LinearSchedule'&amp;EntityId='e381ec04-8912-4989-a02c-8667082c26e9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025114500 +0000" stop="20261025120000 +0000">
+		<title>The Twisted Tales of Felix the Cat - The Twisted Tales of Felix the Cat Ep3 - EP103</title>
+		<desc>The beyond surreal adventures of Felix The Cat and his friends set in an incredibly weird and fantastical toon world where everything is alive and only dream logic rules. Each episode has three segments.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17006948'&amp;EntityType='LinearSchedule'&amp;EntityId='a6e6c69e-5b5b-45bd-96d4-73402bb22022'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025120000 +0000" stop="20261025123500 +0000">
+		<title>Kids' Planet - Music Values - EP125</title>
+		<desc>In this episode, we will discover that music helps us express our ideas and even our emotions. The rhythm, the melody, and harmony are the most important elements. Music can help us develop special skills such as: be persistent, be focused, it teaches us to communicate, share, and cooperate with other people. Music has the magic of uniting people because almost everyone shares a love for music!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007347'&amp;EntityType='LinearSchedule'&amp;EntityId='c03810d2-5000-4628-a2f6-4012a6bdb588'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025123500 +0000" stop="20261025125500 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep8 - EP8</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007295'&amp;EntityType='LinearSchedule'&amp;EntityId='f19860ef-9b1b-45ae-bb3c-51db03b296ff'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025125500 +0000" stop="20261025130500 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep5 - EP105</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17006806'&amp;EntityType='LinearSchedule'&amp;EntityId='c23a5cdd-ef34-4c64-8a84-836986ff96ae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025130500 +0000" stop="20261025133500 +0000">
+		<title>Rainbow Rangers S1 - Coral Calamity / S'no Problem - EP122</title>
+		<desc>The Rangers help to save the New Caledonia Barrier Reef.The Rangers save Patty and Preston from an avalanche.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006958'&amp;EntityType='LinearSchedule'&amp;EntityId='27d5bea9-1754-4ce3-8c5c-18a3b0cc1780'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025133500 +0000" stop="20261025140500 +0000">
+		<title>Shaq's Garage - Babysitters - EP122</title>
+		<desc>The Shaq Paq has their work cut out for them this time as a routine babysitting gig turns into a search and rescue.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007307'&amp;EntityType='LinearSchedule'&amp;EntityId='1f522f8d-7fb1-43cb-b0f8-aa72d428d582'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025140500 +0000" stop="20261025143000 +0000">
+		<title>Rainbow Rangers S2 - Car Wash / Preston's Shipwreck - EP224</title>
+		<desc>Preston washes his car in his orchard, getting it nice and clean; Preston becomes determined to find treasure.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006814'&amp;EntityType='LinearSchedule'&amp;EntityId='5e37569e-dbc7-4920-9626-4bd13761285f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025143000 +0000" stop="20261025144500 +0000">
+		<title>Giselle and the Green Team - The Case of the Degraded Grassland - EP203</title>
+		<desc>Gisele and her Green Team fight to stop Nick Slick from operating an illegal cattle ranch and draining all of the Earth's resources.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007319'&amp;EntityType='LinearSchedule'&amp;EntityId='9a2983a2-0a2c-4a42-843a-c9ddcf8a1bb5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025144500 +0000" stop="20261025145500 +0000">
+		<title>Mellodees - Mary Had A Little Lamb - EP10</title>
+		<desc>It is time to learn on the farm. Dee is followed to school with a little furry friend.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17007108'&amp;EntityType='LinearSchedule'&amp;EntityId='5400fb2f-baf2-407d-90fa-1e41584565ed'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025145500 +0000" stop="20261025151000 +0000">
+		<title>Casper the Friendly Ghost - Casper the Friendly Ghost Ep6 - EP106</title>
+		<desc>Casper is a gentle ghost who refuses to scare humans. Despite frightening everyone he meets, he travels looking for friends, using his powers to help those in need.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17007334'&amp;EntityType='LinearSchedule'&amp;EntityId='1a99bd83-55a5-42c4-8c7f-cb3c4169a3bd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025151000 +0000" stop="20261025154000 +0000">
+		<title>Thomas Edison's Secret Lab - Burpin’ Babies / Backpack Payback - EP118</title>
+		<desc>Kent’s youth serum works a little too well and turns the gang into screaming babies. The serum soon wears off – sort of – now they’re adults trapped in baby bodies and Von Bolt doesn’t know whether to obey or burp them. / When the Anti-Matters steal JD's backpack and discover the portable ALVA, they unwittingly cause Edison's hologram to disappear. The Secret Lab Kids must concoct a plan to retrieve the backpack before Edison's lost forever.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006969'&amp;EntityType='LinearSchedule'&amp;EntityId='7cbba9ce-8609-4e93-8b29-3ba8765202e4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025154000 +0000" stop="20261025160000 +0000">
+		<title>Kidaverse Roblox Rumble - Kidaverse Roblox Rumble Ep8 - EP8</title>
+		<desc>Eight kid gamers, ages eight to twelve, battle it out in ten different Roblox games to win prizes and find out who is the ultimate gamer! Video gamer, football star, and children’s book author Rashad Jennings hosts!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17006823'&amp;EntityType='LinearSchedule'&amp;EntityId='5b8feaeb-e4c1-4b4f-bc6b-01919823f8d1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556893" start="20261025160000 +0000" stop="20261025163000 +0000">
+		<title>Rainbow Rangers S1 - Praxton Island, Inc. / Get The Lead Out - EP121</title>
+		<desc>The Rangers deal with issues from artificial islands. The Rangers save a family from lead in their home water supply.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17021389'&amp;EntityType='LinearSchedule'&amp;EntityId='07173b22-4c8c-4105-8c77-9176214a210c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
