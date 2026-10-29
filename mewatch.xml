@@ -52,14 +52,6 @@
 		<display-name>LIVE 6</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
 	</channel>
-	<channel id="497989">
-		<display-name>LIVE 7</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='8275501'&amp;EntityType='Item'&amp;EntityId='497989'&amp;Width=583&amp;Height=250" />
-	</channel>
-	<channel id="554063">
-		<display-name>LIVE 8</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9530109'&amp;EntityType='Item'&amp;EntityId='554063'&amp;Width=587&amp;Height=250" />
-	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -95,6 +87,14 @@
 	<channel id="558254">
 		<display-name>Filem Mantap</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11316574'&amp;EntityType='Item'&amp;EntityId='558254'&amp;Width=350&amp;Height=250" />
+	</channel>
+	<channel id="558271">
+		<display-name>Drama Hebat</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14326803'&amp;EntityType='Item'&amp;EntityId='558271'&amp;Width=350&amp;Height=250" />
+	</channel>
+	<channel id="558279">
+		<display-name>Vijay Takkar</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13200785'&amp;EntityType='Item'&amp;EntityId='558279'&amp;Width=157&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20261028151000 +0000" stop="20261028160500 +0000">
 		<title>Singapore Hidden in 40 Objects - EP 2</title>
@@ -343,7 +343,7 @@
 	</programme>
 	<programme channel="97098" start="20261029133000 +0000" stop="20261029140000 +0000">
 		<title>Talking Point - EP 23</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>Pokemon cards are the top item in e-commerce scams since 2025. In the first half of 2026, both cases and losses more than doubled from the same period last year. Who gets scammed and how does it work?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17068392'&amp;EntityType='LinearSchedule'&amp;EntityId='5ed842db-0516-413e-8724-24a3686dd8bb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20261029140000 +0000" stop="20261029150000 +0000">
@@ -828,7 +828,7 @@
 	</programme>
 	<programme channel="97084" start="20261029123000 +0000" stop="20261029133000 +0000">
 		<title>Detik Dialog - EP 2</title>
-		<desc>After nearly five decades dikir barat started in Singapore, it is timely for the community to discuss and be involved to ensure this traditional arts will continue to flourish.</desc>
+		<desc>For the first time on television, Acting Minister-in-charge of Muslim Affairs Zaqy Mohamad sits down with eight individuals from diverse backgrounds and walks of life within Singapore’s Malay-Muslim community for an open and candid conversation. Beyond policies and programmes, the dialogue reveals personal stories, differing perspectives and shared aspirations, providing a platform for voices from across the community to be heard.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17067308'&amp;EntityType='LinearSchedule'&amp;EntityId='f99f8542-1ae5-48aa-87c3-7c4b197dae7a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97084" start="20261029133000 +0000" stop="20261029143000 +0000">
@@ -1083,7 +1083,7 @@
 	</programme>
 	<programme channel="97072" start="20261029130000 +0000" stop="20261029140000 +0000">
 		<title>Insight - EP 22</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Malaysia is ageing rapidly as birth rates fall and people live longer. With growing pressure on healthcare, retirement and eldercare, can the country adapt fast enough to meet the challenge?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17067129'&amp;EntityType='LinearSchedule'&amp;EntityId='c8091b50-4975-4e0b-ba8b-69e9d5f86a0d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20261029140000 +0000" stop="20261029150000 +0000">
@@ -1380,46 +1380,6 @@
 		<title>No Programme available now. Next Broadcast on 5th November, Thursday 8.15pm. AFC Champions League Two 2026/27: Preah Khan Reach Svay Rieng FC vs Tampines Rovers FC</title>
 		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: Preah Khan Reach Svay Rieng FC vs Tampines Rovers FC on 5th November, Thursday 8.15pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17084365'&amp;EntityType='LinearSchedule'&amp;EntityId='3a30d399-0e80-4637-8061-0233f3b0b2e8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20261028160000 +0000" stop="20261028194500 +0000">
-		<title>No Programme available now. Next Broadcast on 29th October, Thursday 3.45am. Carabao Cup 2026/27: AFC Bournemouth vs Aston Villa</title>
-		<desc>LIVE 7 will commence broadcast of the Carabao Cup 2026/27: AFC Bournemouth vs Aston Villa on 29th October, Thursday 3.45am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17119855'&amp;EntityType='LinearSchedule'&amp;EntityId='6e4e0fd4-0b91-4095-8085-683802d88e53'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20261028194500 +0000" stop="20261028214500 +0000">
-		<title>Carabao Cup 2026/27: AFC Bournemouth vs Aston Villa</title>
-		<desc>The Carabao Cup is the showpiece cup competition of the English Football League (EFL) and an annual knockout competition in men's domestic football in England featuring all clubs from the EFL and Premier League. Catch selected matches from Round 4, the Quarter-finals, Semi-finals and Final ‘live’ on mewatch! </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17119868'&amp;EntityType='LinearSchedule'&amp;EntityId='ca1e240b-ae04-4c91-994b-208f0a215ea0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20261028214500 +0000" stop="20261029160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17119863'&amp;EntityType='LinearSchedule'&amp;EntityId='68e94a21-6b26-4ca9-9ff7-ba6b3948d79a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20261029160000 +0000" stop="20261030160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17119880'&amp;EntityType='LinearSchedule'&amp;EntityId='d1c32213-8b91-4d85-aded-ebee67368aef'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="554063" start="20261028160000 +0000" stop="20261028200000 +0000">
-		<title>No Programme available now. Next Broadcast on 29th October, Thursday 4am. Carabao Cup 2026/27: Liverpool vs Chelsea</title>
-		<desc>LIVE 8 will commence broadcast of the Carabao Cup 2026/27: Liverpool vs Chelsea on 29th October, Thursday 4am. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17119883'&amp;EntityType='LinearSchedule'&amp;EntityId='412c78a5-9f95-4e96-bcd6-e330309a93c2'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="554063" start="20261028200000 +0000" stop="20261028220000 +0000">
-		<title>Carabao Cup 2026/27: Liverpool vs Chelsea</title>
-		<desc>The Carabao Cup is the showpiece cup competition of the English Football League (EFL) and an annual knockout competition in men's domestic football in England featuring all clubs from the EFL and Premier League. Catch selected matches from Round 4, the Quarter-finals, Semi-finals and Final ‘live’ on mewatch! </desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17119871'&amp;EntityType='LinearSchedule'&amp;EntityId='f01a58dc-f38e-4e1e-bb62-ac5a0dd007df'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="554063" start="20261028220000 +0000" stop="20261029160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17119875'&amp;EntityType='LinearSchedule'&amp;EntityId='6c7e6349-f95b-4576-831c-eee21f947b41'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="554063" start="20261029160000 +0000" stop="20261030160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17119891'&amp;EntityType='LinearSchedule'&amp;EntityId='17b802bb-d45c-490e-81f6-1e8b611cf12b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20261028154648 +0000" stop="20261028164728 +0000">
 		<title>MasterChef Australia Season 06 - Immunity Challenge</title>
@@ -2371,6 +2331,296 @@
 		<desc>After her mother's death, Mimi's family fell apart. One day, Mimi finds Chomel, a cat and brings it home, only for it to cause a series of events that brings her broken family back together again.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17069061'&amp;EntityType='LinearSchedule'&amp;EntityId='e1d6a67d-08d8-454d-a4b7-9f2fe8d9d27a'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="558271" start="20261028153800 +0000" stop="20261028160600 +0000">
+		<title>M.A.I.D - EP2</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082346'&amp;EntityType='LinearSchedule'&amp;EntityId='60a2b53b-9766-4326-8151-f9231c6b9827'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028160600 +0000" stop="20261028165000 +0000">
+		<title>Keluarga Iskandar - EP14</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082506'&amp;EntityType='LinearSchedule'&amp;EntityId='9bbc3993-2c52-41c7-9e37-860e07dccd02'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028165000 +0000" stop="20261028173800 +0000">
+		<title>Keluarga Iskandar - EP15</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082426'&amp;EntityType='LinearSchedule'&amp;EntityId='66413f42-e079-4fc2-abb7-73eafac9ae83'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028173800 +0000" stop="20261028183000 +0000">
+		<title>Selafaz Cinta - EP41</title>
+		<desc>Jannah salah sangka dengan Reza. Reza mahu Inaz membantunya untuk mendapatkan Jannah kembali. Shila masih tidak menyukai Jihad.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082446'&amp;EntityType='LinearSchedule'&amp;EntityId='2f5b8b80-ef65-4629-a3df-974006a32568'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028183000 +0000" stop="20261028192200 +0000">
+		<title>Selafaz Cinta - EP42</title>
+		<desc>Inaz terkejut melihat Jihad dan Jannah mahu ke majlis dengan baju sedondon. Reza telefon Jannah memberitahu yang Shila diculik dan Reza sedang mengejar penculik.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082450'&amp;EntityType='LinearSchedule'&amp;EntityId='1f47576a-598f-4e78-995a-ffbd5a689f05'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028192200 +0000" stop="20261028200900 +0000">
+		<title>Arluna - EP9</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082430'&amp;EntityType='LinearSchedule'&amp;EntityId='5abcfeb2-a980-454c-862b-96db86d23649'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028200900 +0000" stop="20261028205600 +0000">
+		<title>Arluna - EP10</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082454'&amp;EntityType='LinearSchedule'&amp;EntityId='1d725f1a-4b4a-4334-a3ef-90424ce514cf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028205600 +0000" stop="20261028212200 +0000">
+		<title>M.A.I.D - EP1</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082510'&amp;EntityType='LinearSchedule'&amp;EntityId='fe7bb0b5-a2f1-4ead-85a3-9045f66a226c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028212200 +0000" stop="20261028215000 +0000">
+		<title>M.A.I.D - EP2</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082458'&amp;EntityType='LinearSchedule'&amp;EntityId='c0a81cf2-8108-4121-ad65-8378dc3b54ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028215000 +0000" stop="20261028220000 +0000">
+		<title>We’ll be back at 6.00am</title>
+		<desc>We’ll be back at 6.00am</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082514'&amp;EntityType='LinearSchedule'&amp;EntityId='fa25aacd-1ef9-4d18-bb81-99c900cd12f3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028220000 +0000" stop="20261028222900 +0000">
+		<title>M.A.I.D - EP3</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082518'&amp;EntityType='LinearSchedule'&amp;EntityId='90b71fc3-e045-4af3-b5af-89360b61bbac'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028222900 +0000" stop="20261028225700 +0000">
+		<title>M.A.I.D - EP4</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082422'&amp;EntityType='LinearSchedule'&amp;EntityId='7a8e3fc4-38fe-423c-a209-0a91961b6042'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028225700 +0000" stop="20261028235100 +0000">
+		<title>Keluarga Iskandar - EP2</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082522'&amp;EntityType='LinearSchedule'&amp;EntityId='8d09cbea-5eb4-4d64-bd70-cea2da2f45e3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261028235100 +0000" stop="20261029003800 +0000">
+		<title>Keluarga Iskandar - EP3</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082490'&amp;EntityType='LinearSchedule'&amp;EntityId='010276ad-74c0-4446-ba40-32eaba2f7722'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029003800 +0000" stop="20261029012900 +0000">
+		<title>Selafaz Cinta - EP43</title>
+		<desc>Shila masih kecewa mengenangkan ibunya yang makin baik dengan Ustaz Jihad. Inaz kelihatan seperti tidak sihat. Hubungan Haris dan Sya masih bermasalah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082526'&amp;EntityType='LinearSchedule'&amp;EntityId='75d34047-33f5-4538-ad47-0f5905f70ea4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029012900 +0000" stop="20261029022000 +0000">
+		<title>Selafaz Cinta - EP44</title>
+		<desc>Shila mengalami sedikit kecederaan. Jannah marah apabila mendapat tahu yang Reza menghantar Inaz untuk mengintip Ustaz Jihad. Jannah tanya kenapa ayahnya sudah tidak menyukai Reza.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082530'&amp;EntityType='LinearSchedule'&amp;EntityId='874e2fe6-07f7-4fb4-9d8b-9671d45691ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029022000 +0000" stop="20261029031000 +0000">
+		<title>Arluna - EP11</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082438'&amp;EntityType='LinearSchedule'&amp;EntityId='c5c5bedf-2084-41a6-9e39-669db58cbfbc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029031000 +0000" stop="20261029035800 +0000">
+		<title>Arluna - EP12</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082398'&amp;EntityType='LinearSchedule'&amp;EntityId='5900f1a5-06bd-4d31-b4dc-7009bc03bc0f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029035800 +0000" stop="20261029042700 +0000">
+		<title>M.A.I.D - EP3</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082402'&amp;EntityType='LinearSchedule'&amp;EntityId='c070d406-e8cc-4883-89f6-1f07293fc722'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029042700 +0000" stop="20261029045500 +0000">
+		<title>M.A.I.D - EP4</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082442'&amp;EntityType='LinearSchedule'&amp;EntityId='56e99735-5d24-41e1-b630-968a4bca58fe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029045500 +0000" stop="20261029054900 +0000">
+		<title>Keluarga Iskandar - EP2</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082406'&amp;EntityType='LinearSchedule'&amp;EntityId='d2f7c6f8-c939-434b-8818-164cb1add10a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029054900 +0000" stop="20261029063600 +0000">
+		<title>Keluarga Iskandar - EP3</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082494'&amp;EntityType='LinearSchedule'&amp;EntityId='4b280b21-2a6b-443c-ae5d-3917380560cc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029063600 +0000" stop="20261029072700 +0000">
+		<title>Selafaz Cinta - EP43</title>
+		<desc>Shila masih kecewa mengenangkan ibunya yang makin baik dengan Ustaz Jihad. Inaz kelihatan seperti tidak sihat. Hubungan Haris dan Sya masih bermasalah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082482'&amp;EntityType='LinearSchedule'&amp;EntityId='2938ab14-de7c-4ad8-8aab-ea5fd9da7772'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029072700 +0000" stop="20261029081800 +0000">
+		<title>Selafaz Cinta - EP44</title>
+		<desc>Shila mengalami sedikit kecederaan. Jannah marah apabila mendapat tahu yang Reza menghantar Inaz untuk mengintip Ustaz Jihad. Jannah tanya kenapa ayahnya sudah tidak menyukai Reza.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082434'&amp;EntityType='LinearSchedule'&amp;EntityId='b791e25a-e05c-4e4d-9298-08c5892dc93f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029081800 +0000" stop="20261029090800 +0000">
+		<title>Arluna - EP11</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082410'&amp;EntityType='LinearSchedule'&amp;EntityId='1a3197ae-f12c-4073-9826-8e75ede5b51a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029090800 +0000" stop="20261029095600 +0000">
+		<title>Arluna - EP12</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082462'&amp;EntityType='LinearSchedule'&amp;EntityId='4190bb7c-47f3-4023-8a19-804ef1a64723'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029095600 +0000" stop="20261029102500 +0000">
+		<title>M.A.I.D - EP3</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082414'&amp;EntityType='LinearSchedule'&amp;EntityId='85618cde-10c5-4b73-8bc1-6d34983b7e4d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029102500 +0000" stop="20261029105300 +0000">
+		<title>M.A.I.D - EP4</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082486'&amp;EntityType='LinearSchedule'&amp;EntityId='b3936be3-ec78-48d4-b593-e77dca8b814a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029105300 +0000" stop="20261029114700 +0000">
+		<title>Keluarga Iskandar - EP2</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082466'&amp;EntityType='LinearSchedule'&amp;EntityId='3b373911-24db-4338-9ca1-c6a0c4c9ecc0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029114700 +0000" stop="20261029123400 +0000">
+		<title>Keluarga Iskandar - EP3</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082470'&amp;EntityType='LinearSchedule'&amp;EntityId='bceebc8b-3b75-4f16-b07e-58f692fbb92c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029123400 +0000" stop="20261029132500 +0000">
+		<title>Selafaz Cinta - EP43</title>
+		<desc>Shila masih kecewa mengenangkan ibunya yang makin baik dengan Ustaz Jihad. Inaz kelihatan seperti tidak sihat. Hubungan Haris dan Sya masih bermasalah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082418'&amp;EntityType='LinearSchedule'&amp;EntityId='ade6693c-2cd8-40ca-adf2-0cad13250e53'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029132500 +0000" stop="20261029141600 +0000">
+		<title>Selafaz Cinta - EP44</title>
+		<desc>Shila mengalami sedikit kecederaan. Jannah marah apabila mendapat tahu yang Reza menghantar Inaz untuk mengintip Ustaz Jihad. Jannah tanya kenapa ayahnya sudah tidak menyukai Reza.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082474'&amp;EntityType='LinearSchedule'&amp;EntityId='b2e5cdf3-8ca8-4e0a-929b-4958e5fe9d33'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029141600 +0000" stop="20261029150600 +0000">
+		<title>Arluna - EP11</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082498'&amp;EntityType='LinearSchedule'&amp;EntityId='4ef47afd-0250-4771-a36e-573c8105ac8f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029150600 +0000" stop="20261029155400 +0000">
+		<title>Arluna - EP12</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082502'&amp;EntityType='LinearSchedule'&amp;EntityId='1fd362f7-d662-4ac6-b46e-fd524cdf931e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029155400 +0000" stop="20261029162300 +0000">
+		<title>M.A.I.D - EP3</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17082478'&amp;EntityType='LinearSchedule'&amp;EntityId='1c50b49e-adf3-4492-ad72-fe093a39c8f8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261028160000 +0000" stop="20261028170000 +0000">
+		<title>Neeya Naana - EP717</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097113'&amp;EntityType='LinearSchedule'&amp;EntityId='582b89f8-2a19-4978-9288-1d4d1fec42d8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261028170000 +0000" stop="20261028180000 +0000">
+		<title>Neeya Naana - EP718</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097188'&amp;EntityType='LinearSchedule'&amp;EntityId='9acb0342-f212-4bb5-bbaa-85dc8f043e89'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261028180000 +0000" stop="20261028190000 +0000">
+		<title>Neeya Naana - EP719</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097212'&amp;EntityType='LinearSchedule'&amp;EntityId='fb09d5e5-f253-49d6-8ee0-9180628b2a2d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261028190000 +0000" stop="20261028200000 +0000">
+		<title>Neeya Naana - EP720</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097216'&amp;EntityType='LinearSchedule'&amp;EntityId='51d10b74-d6ed-4b9b-a015-1b3f0e484647'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261028200000 +0000" stop="20261028210000 +0000">
+		<title>Neeya Naana - EP721</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097192'&amp;EntityType='LinearSchedule'&amp;EntityId='c8908829-5ed3-4fbf-85b0-512d5a2c08e2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261028210000 +0000" stop="20261028220000 +0000">
+		<title>Neeya Naana - EP722</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097196'&amp;EntityType='LinearSchedule'&amp;EntityId='e4f11cff-f371-4ed9-b586-60b0122993f3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261028220000 +0000" stop="20261028230000 +0000">
+		<title>Neeya Naana - EP723</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097154'&amp;EntityType='LinearSchedule'&amp;EntityId='5cbea477-23e3-4c49-b2f2-92caf694a8cd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261028230000 +0000" stop="20261029000000 +0000">
+		<title>Neeya Naana - EP724</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097122'&amp;EntityType='LinearSchedule'&amp;EntityId='1947ead0-5db2-476d-ae74-d67fcabadffe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029000000 +0000" stop="20261029010000 +0000">
+		<title>Neeya Naana - EP725</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097200'&amp;EntityType='LinearSchedule'&amp;EntityId='5d24f76a-7021-4d88-9179-e2987afea113'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029010000 +0000" stop="20261029020000 +0000">
+		<title>Neeya Naana - EP726</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097220'&amp;EntityType='LinearSchedule'&amp;EntityId='421b1264-b7ec-4b24-803d-050be91c46b4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029020000 +0000" stop="20261029030000 +0000">
+		<title>Neeya Naana - EP727</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097224'&amp;EntityType='LinearSchedule'&amp;EntityId='b3283688-0999-4a05-bdfb-7c3e500fecb2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029030000 +0000" stop="20261029040000 +0000">
+		<title>Neeya Naana - EP728</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097204'&amp;EntityType='LinearSchedule'&amp;EntityId='d5841868-c689-4845-a278-3a05a13b2190'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029040000 +0000" stop="20261029050000 +0000">
+		<title>Neeya Naana - EP729</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097160'&amp;EntityType='LinearSchedule'&amp;EntityId='f9e8855c-4ff4-411c-8be5-4097d882f1fd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029050000 +0000" stop="20261029060000 +0000">
+		<title>Neeya Naana - EP730</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097228'&amp;EntityType='LinearSchedule'&amp;EntityId='0e9f6447-1df6-42ec-9d2e-5108a101df36'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029060000 +0000" stop="20261029070000 +0000">
+		<title>Neeya Naana - EP720</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097168'&amp;EntityType='LinearSchedule'&amp;EntityId='0884343e-e6e6-4bca-bc88-08da89b4e031'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029070000 +0000" stop="20261029080000 +0000">
+		<title>Neeya Naana - EP721</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097131'&amp;EntityType='LinearSchedule'&amp;EntityId='dd02c051-cbbc-4292-b3e8-e1dbebbdb9ad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029080000 +0000" stop="20261029090000 +0000">
+		<title>Neeya Naana - EP795</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097174'&amp;EntityType='LinearSchedule'&amp;EntityId='5e3d6e1a-6039-4d99-b1be-34bece940ef5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029090000 +0000" stop="20261029100000 +0000">
+		<title>Neeya Naana - EP796</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097184'&amp;EntityType='LinearSchedule'&amp;EntityId='7c2497db-6aab-4d8e-9386-ee977beb5e96'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029100000 +0000" stop="20261029110000 +0000">
+		<title>Neeya Naana - EP913</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097136'&amp;EntityType='LinearSchedule'&amp;EntityId='82210de7-6ba1-4bd8-b8bf-ad60a30a5e63'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029110000 +0000" stop="20261029140000 +0000">
+		<title>Vinveli 9000</title>
+		<desc>An Indian communications satellite goes off course, raising the potential threat of a major communications disruption worldwide. It is now up to a team of Indian astronauts to course correct the erratic satellite.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097145'&amp;EntityType='LinearSchedule'&amp;EntityId='76fb7723-061d-4ba2-add7-9f63ea6737c3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029140000 +0000" stop="20261029150000 +0000">
+		<title>Neeya Naana - EP914</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097180'&amp;EntityType='LinearSchedule'&amp;EntityId='aca88856-934b-42f3-9a7f-8f9b6d857358'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029150000 +0000" stop="20261029160000 +0000">
+		<title>Neeya Naana - EP695</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097208'&amp;EntityType='LinearSchedule'&amp;EntityId='8b785dff-748d-43ad-92b8-170e3834bd26'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029160000 +0000" stop="20261029170000 +0000">
+		<title>Neeya Naana - EP731</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097232'&amp;EntityType='LinearSchedule'&amp;EntityId='99209dbd-5d27-473c-b5bf-610ea23d939f'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20261029163000 +0000" stop="20261029173000 +0000">
 		<title>FBI: Most Wanted S5 - EP 5</title>
 		<desc>When a high school debate team and their English teacher are kidnapped in rural Pennsylvania, the task force rushes to the scene to find out who took them and what they want before it's too late Remy helps Corey out of a bind.</desc>
@@ -3028,7 +3278,7 @@
 	</programme>
 	<programme channel="97084" start="20261030070000 +0000" stop="20261030080000 +0000">
 		<title>Detik Dialog - EP 2</title>
-		<desc>After nearly five decades dikir barat started in Singapore, it is timely for the community to discuss and be involved to ensure this traditional arts will continue to flourish.</desc>
+		<desc>For the first time on television, Acting Minister-in-charge of Muslim Affairs Zaqy Mohamad sits down with eight individuals from diverse backgrounds and walks of life within Singapore’s Malay-Muslim community for an open and candid conversation. Beyond policies and programmes, the dialogue reveals personal stories, differing perspectives and shared aspirations, providing a platform for voices from across the community to be heard.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17084053'&amp;EntityType='LinearSchedule'&amp;EntityId='a754ace5-c6dc-4aa5-b817-0031d363218d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97084" start="20261030080000 +0000" stop="20261030090000 +0000">
@@ -3223,7 +3473,7 @@
 	</programme>
 	<programme channel="97072" start="20261029210000 +0000" stop="20261029220000 +0000">
 		<title>Insight - EP 22</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Malaysia is ageing rapidly as birth rates fall and people live longer. With growing pressure on healthcare, retirement and eldercare, can the country adapt fast enough to meet the challenge?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17084137'&amp;EntityType='LinearSchedule'&amp;EntityId='e4577705-9583-439d-b8a2-acd528f7ed7e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20261029220000 +0000" stop="20261029230000 +0000">
@@ -3238,7 +3488,7 @@
 	</programme>
 	<programme channel="97072" start="20261030020000 +0000" stop="20261030030000 +0000">
 		<title>Insight - EP 22</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Malaysia is ageing rapidly as birth rates fall and people live longer. With growing pressure on healthcare, retirement and eldercare, can the country adapt fast enough to meet the challenge?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17084229'&amp;EntityType='LinearSchedule'&amp;EntityId='0cbe4f9f-1de6-41f2-bc08-1bd43c727cdd'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20261030030000 +0000" stop="20261030050000 +0000">
@@ -3273,7 +3523,7 @@
 	</programme>
 	<programme channel="97072" start="20261030090200 +0000" stop="20261030100000 +0000">
 		<title>Insight - EP 22</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Malaysia is ageing rapidly as birth rates fall and people live longer. With growing pressure on healthcare, retirement and eldercare, can the country adapt fast enough to meet the challenge?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17084182'&amp;EntityType='LinearSchedule'&amp;EntityId='126fee0c-8788-4f38-a2fe-9038a4ac20c2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20261030100000 +0000" stop="20261030110000 +0000">
@@ -3525,16 +3775,6 @@
 		<title>No Programme available now. Next Broadcast on 5th November, Thursday 8.15pm. AFC Champions League Two 2026/27: Preah Khan Reach Svay Rieng FC vs Tampines Rovers FC</title>
 		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: Preah Khan Reach Svay Rieng FC vs Tampines Rovers FC on 5th November, Thursday 8.15pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17106598'&amp;EntityType='LinearSchedule'&amp;EntityId='5b7a3dd0-a273-418e-a1d9-f2e0e54c7464'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="497989" start="20261030160000 +0000" stop="20261031160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17119888'&amp;EntityType='LinearSchedule'&amp;EntityId='a1a41971-9e5d-4318-97f2-fa3736dfaaea'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="554063" start="20261030160000 +0000" stop="20261031160000 +0000">
-		<title>No programmes streaming LIVE at this moment</title>
-		<desc>There are currently no programmes on this channel.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17119895'&amp;EntityType='LinearSchedule'&amp;EntityId='671c9d8a-9f97-4ec5-8faf-a80db2130c62'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20261029160158 +0000" stop="20261029172225 +0000">
 		<title>MasterChef Australia Season 02 - EP77</title>
@@ -4420,5 +4660,285 @@
 		<title>Chomel</title>
 		<desc>After her mother's death, Mimi's family fell apart. One day, Mimi finds Chomel, a cat and brings it home, only for it to cause a series of events that brings her broken family back together again.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17086068'&amp;EntityType='LinearSchedule'&amp;EntityId='f65a7daa-1985-4f9e-a472-2a17a25dc161'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029162300 +0000" stop="20261029165100 +0000">
+		<title>M.A.I.D - EP4</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17086303'&amp;EntityType='LinearSchedule'&amp;EntityId='f29b743b-3455-4ace-a237-c6e1b00927e3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029165100 +0000" stop="20261029174500 +0000">
+		<title>Keluarga Iskandar - EP2</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17086307'&amp;EntityType='LinearSchedule'&amp;EntityId='d5a3f0ef-abc5-4317-b3e7-f87d0d9b6e59'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029174500 +0000" stop="20261029183200 +0000">
+		<title>Keluarga Iskandar - EP3</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17086287'&amp;EntityType='LinearSchedule'&amp;EntityId='7cb8a962-2f30-4c87-b78e-8d5ce1af3479'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029183200 +0000" stop="20261029192300 +0000">
+		<title>Selafaz Cinta - EP43</title>
+		<desc>Shila masih kecewa mengenangkan ibunya yang makin baik dengan Ustaz Jihad. Inaz kelihatan seperti tidak sihat. Hubungan Haris dan Sya masih bermasalah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17086311'&amp;EntityType='LinearSchedule'&amp;EntityId='93aea6a4-bb97-435c-a365-3e1ce2dd94bf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029192300 +0000" stop="20261029201400 +0000">
+		<title>Selafaz Cinta - EP44</title>
+		<desc>Shila mengalami sedikit kecederaan. Jannah marah apabila mendapat tahu yang Reza menghantar Inaz untuk mengintip Ustaz Jihad. Jannah tanya kenapa ayahnya sudah tidak menyukai Reza.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17086291'&amp;EntityType='LinearSchedule'&amp;EntityId='310fe454-3c1e-4365-8fbc-a3dcdb5454bd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029201400 +0000" stop="20261029210400 +0000">
+		<title>Arluna - EP11</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17086295'&amp;EntityType='LinearSchedule'&amp;EntityId='495cdaca-e8b3-47c7-ba59-6c5da0c7faa4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029210400 +0000" stop="20261029215200 +0000">
+		<title>Arluna - EP12</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17086315'&amp;EntityType='LinearSchedule'&amp;EntityId='77a41fad-2ab3-4c48-b145-f5db6110440b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029215200 +0000" stop="20261029220000 +0000">
+		<title>We’ll be back at 6.00am</title>
+		<desc>We’ll be back at 6.00am</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17086283'&amp;EntityType='LinearSchedule'&amp;EntityId='c723fad4-3946-4bba-a7a7-4c09c79c4e66'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029220000 +0000" stop="20261029222700 +0000">
+		<title>M.A.I.D - EP5</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103380'&amp;EntityType='LinearSchedule'&amp;EntityId='025259f3-6f71-49a4-98ae-e295107a7675'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029222700 +0000" stop="20261029225500 +0000">
+		<title>M.A.I.D - EP6</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103396'&amp;EntityType='LinearSchedule'&amp;EntityId='701702b1-de40-4861-a626-8265c0b2550b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029225500 +0000" stop="20261029234000 +0000">
+		<title>Keluarga Iskandar - EP4</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103444'&amp;EntityType='LinearSchedule'&amp;EntityId='ab469090-277a-4bb8-a28c-d30d8ac4dcd5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261029234000 +0000" stop="20261030003000 +0000">
+		<title>Keluarga Iskandar - EP5</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103400'&amp;EntityType='LinearSchedule'&amp;EntityId='f4841ca0-0fdc-4ecc-85dd-ce2e1b930885'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030003000 +0000" stop="20261030012200 +0000">
+		<title>Selafaz Cinta - EP45</title>
+		<desc>Jannah terkejut ada orang sedang menggeledah rumah Jihad. Reza dapat rasakan yang Jannah sudah semakin mesra dengan Jihad. Irsan mahu Reza bersabar.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103448'&amp;EntityType='LinearSchedule'&amp;EntityId='45409c11-c2e5-4a34-a5ba-47f30de3d0ef'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030012200 +0000" stop="20261030021100 +0000">
+		<title>Selafaz Cinta - EP46</title>
+		<desc>Jannah terjatuh ke dalam gaung dan tidak sedarkan diri. Azrel panik dan terus menelefon Reza kerana Jannah tak kelihatan. Semua orang risaukan keadaan Jannah. Kuncu-kuncu Ramzan terjumpa bag tangan Jannah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103384'&amp;EntityType='LinearSchedule'&amp;EntityId='c7b5561b-7c16-4d5d-bbd4-01dab5a8c50a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030021100 +0000" stop="20261030030000 +0000">
+		<title>Arluna - EP13</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103452'&amp;EntityType='LinearSchedule'&amp;EntityId='249c25d7-ba6a-493b-a1d7-d6c0cb46b7ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030030000 +0000" stop="20261030034800 +0000">
+		<title>Arluna - EP14</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103424'&amp;EntityType='LinearSchedule'&amp;EntityId='0cc6bf14-03b3-487e-9cfd-2e37d39b0d70'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030034800 +0000" stop="20261030041500 +0000">
+		<title>M.A.I.D - EP5</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103388'&amp;EntityType='LinearSchedule'&amp;EntityId='f43414ee-1969-40ac-a5f9-9d6a534408c6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030041500 +0000" stop="20261030044300 +0000">
+		<title>M.A.I.D - EP6</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103456'&amp;EntityType='LinearSchedule'&amp;EntityId='f63ad1c6-5539-4de4-85f4-29e322474c4c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030044300 +0000" stop="20261030052800 +0000">
+		<title>Keluarga Iskandar - EP4</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103472'&amp;EntityType='LinearSchedule'&amp;EntityId='5f26ef8f-8a2a-4ba8-84dd-078f54d56eb9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030052800 +0000" stop="20261030061800 +0000">
+		<title>Keluarga Iskandar - EP5</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103404'&amp;EntityType='LinearSchedule'&amp;EntityId='af404870-5fdf-45fb-8af8-6a24aacbdfbc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030061800 +0000" stop="20261030071000 +0000">
+		<title>Selafaz Cinta - EP45</title>
+		<desc>Jannah terkejut ada orang sedang menggeledah rumah Jihad. Reza dapat rasakan yang Jannah sudah semakin mesra dengan Jihad. Irsan mahu Reza bersabar.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103476'&amp;EntityType='LinearSchedule'&amp;EntityId='8174397b-88fc-46a3-918f-c152c6a25dfa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030071000 +0000" stop="20261030075900 +0000">
+		<title>Selafaz Cinta - EP46</title>
+		<desc>Jannah terjatuh ke dalam gaung dan tidak sedarkan diri. Azrel panik dan terus menelefon Reza kerana Jannah tak kelihatan. Semua orang risaukan keadaan Jannah. Kuncu-kuncu Ramzan terjumpa bag tangan Jannah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103428'&amp;EntityType='LinearSchedule'&amp;EntityId='a28916d0-eb72-4b02-bdcd-d2f36c49c4bb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030075900 +0000" stop="20261030084800 +0000">
+		<title>Arluna - EP13</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103432'&amp;EntityType='LinearSchedule'&amp;EntityId='ac979ffa-ee1d-4a5c-a10d-09053b967842'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030084800 +0000" stop="20261030093600 +0000">
+		<title>Arluna - EP14</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103436'&amp;EntityType='LinearSchedule'&amp;EntityId='b998292a-2ffc-49b1-bf97-52763c58ae8c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030093600 +0000" stop="20261030100300 +0000">
+		<title>M.A.I.D - EP5</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103392'&amp;EntityType='LinearSchedule'&amp;EntityId='74e84741-2374-4380-baef-451b4b39bd5f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030100300 +0000" stop="20261030103100 +0000">
+		<title>M.A.I.D - EP6</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103480'&amp;EntityType='LinearSchedule'&amp;EntityId='8e3cd748-bb7e-4c55-8c27-99dd183c5094'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030103100 +0000" stop="20261030111600 +0000">
+		<title>Keluarga Iskandar - EP4</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103408'&amp;EntityType='LinearSchedule'&amp;EntityId='44e06c69-d502-4755-9f08-fc8cd236807a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030111600 +0000" stop="20261030120600 +0000">
+		<title>Keluarga Iskandar - EP5</title>
+		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103412'&amp;EntityType='LinearSchedule'&amp;EntityId='c0deeda3-944c-46c0-9147-65fccd8d3387'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030120600 +0000" stop="20261030125800 +0000">
+		<title>Selafaz Cinta - EP45</title>
+		<desc>Jannah terkejut ada orang sedang menggeledah rumah Jihad. Reza dapat rasakan yang Jannah sudah semakin mesra dengan Jihad. Irsan mahu Reza bersabar.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103440'&amp;EntityType='LinearSchedule'&amp;EntityId='2e003df7-3308-4cd0-9948-a09fdb190b41'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030125800 +0000" stop="20261030134700 +0000">
+		<title>Selafaz Cinta - EP46</title>
+		<desc>Jannah terjatuh ke dalam gaung dan tidak sedarkan diri. Azrel panik dan terus menelefon Reza kerana Jannah tak kelihatan. Semua orang risaukan keadaan Jannah. Kuncu-kuncu Ramzan terjumpa bag tangan Jannah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103460'&amp;EntityType='LinearSchedule'&amp;EntityId='af9466e0-674d-4ebe-bb90-5e20d9d92673'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030134700 +0000" stop="20261030143600 +0000">
+		<title>Arluna - EP13</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103464'&amp;EntityType='LinearSchedule'&amp;EntityId='fd0a6f9d-b339-49a9-8bf8-60dc4eaf922d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030143600 +0000" stop="20261030152400 +0000">
+		<title>Arluna - EP14</title>
+		<desc>Kisah Nia Arluna yang mempertahankan rumahtangga yang baru dibina bersama Johan Ariff. Ada kalanya dia bertindak bijak adakalanya emosi mendahului akal bila mana Johan ambil mudah dalam semua perkara termasuk perasaan isteri yang baru dinikahi</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103468'&amp;EntityType='LinearSchedule'&amp;EntityId='e8eeca81-7855-44af-9143-1c6e2a469596'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030152400 +0000" stop="20261030155100 +0000">
+		<title>M.A.I.D - EP5</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103416'&amp;EntityType='LinearSchedule'&amp;EntityId='57acaba6-e8b3-4842-bbf7-daf6f05395ec'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261030155100 +0000" stop="20261030161900 +0000">
+		<title>M.A.I.D - EP6</title>
+		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103420'&amp;EntityType='LinearSchedule'&amp;EntityId='032460b4-19a7-49c7-b172-1e7819347aba'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029170000 +0000" stop="20261029180000 +0000">
+		<title>Neeya Naana - EP732</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097272'&amp;EntityType='LinearSchedule'&amp;EntityId='9cedad09-e269-4d8d-b83f-910fd4cb9e51'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029180000 +0000" stop="20261029190000 +0000">
+		<title>Neeya Naana - EP733</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097300'&amp;EntityType='LinearSchedule'&amp;EntityId='71f521f9-b69e-4e38-8fd2-ab81d61aecc0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029190000 +0000" stop="20261029200000 +0000">
+		<title>Neeya Naana - EP734</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097236'&amp;EntityType='LinearSchedule'&amp;EntityId='724e0361-781c-4062-a0ed-ab392effd139'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029200000 +0000" stop="20261029210000 +0000">
+		<title>Neeya Naana - EP735</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097240'&amp;EntityType='LinearSchedule'&amp;EntityId='679ac19d-6a4f-4907-b504-040c2828df87'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029210000 +0000" stop="20261029220000 +0000">
+		<title>Neeya Naana - EP736</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097252'&amp;EntityType='LinearSchedule'&amp;EntityId='9cb2ce18-cd21-4c53-960a-d4d394a2f753'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029220000 +0000" stop="20261029230000 +0000">
+		<title>Neeya Naana - EP737</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097260'&amp;EntityType='LinearSchedule'&amp;EntityId='08c7cdad-9925-495b-89d7-95ffc4851d94'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261029230000 +0000" stop="20261030000000 +0000">
+		<title>Neeya Naana - EP738</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097276'&amp;EntityType='LinearSchedule'&amp;EntityId='bd0357e6-3086-4619-8c18-355ee4184316'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030000000 +0000" stop="20261030010000 +0000">
+		<title>Neeya Naana - EP739</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097280'&amp;EntityType='LinearSchedule'&amp;EntityId='b4786cfd-ec84-48aa-9a52-6aaf11b39683'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030010000 +0000" stop="20261030020000 +0000">
+		<title>Neeya Naana - EP740</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097304'&amp;EntityType='LinearSchedule'&amp;EntityId='ef5e03fc-6454-4114-a57d-377f93382f7e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030020000 +0000" stop="20261030030000 +0000">
+		<title>Neeya Naana - EP741</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097284'&amp;EntityType='LinearSchedule'&amp;EntityId='38a5e6c6-95f7-4ff3-861e-17414285d7f7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030030000 +0000" stop="20261030040000 +0000">
+		<title>Neeya Naana - EP742</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097308'&amp;EntityType='LinearSchedule'&amp;EntityId='972f37f2-74a3-4f18-b65c-152ea7a27f95'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030040000 +0000" stop="20261030050000 +0000">
+		<title>Neeya Naana - EP743</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097288'&amp;EntityType='LinearSchedule'&amp;EntityId='2183596b-9baf-4ff4-9060-5db11866178a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030050000 +0000" stop="20261030060000 +0000">
+		<title>Neeya Naana - EP744</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097244'&amp;EntityType='LinearSchedule'&amp;EntityId='5d076253-2d81-4a8f-b28c-2396cd5c649c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030060000 +0000" stop="20261030070000 +0000">
+		<title>Neeya Naana - EP734</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097312'&amp;EntityType='LinearSchedule'&amp;EntityId='fb175e7d-4ffd-4900-b9fb-8e87bf16b997'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030070000 +0000" stop="20261030080000 +0000">
+		<title>Neeya Naana - EP735</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097268'&amp;EntityType='LinearSchedule'&amp;EntityId='433e5a2b-3833-4ba4-8e69-8facfcec61c6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030080000 +0000" stop="20261030090000 +0000">
+		<title>Neeya Naana - EP797</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097248'&amp;EntityType='LinearSchedule'&amp;EntityId='3213bf08-608e-430a-b49d-5c6989252cc3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030090000 +0000" stop="20261030100000 +0000">
+		<title>Neeya Naana - EP798</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097316'&amp;EntityType='LinearSchedule'&amp;EntityId='3aeeabc9-7f77-411b-8b45-21e155be4ccf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030100000 +0000" stop="20261030110000 +0000">
+		<title>Neeya Naana - EP915</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097296'&amp;EntityType='LinearSchedule'&amp;EntityId='95e2e3fe-09e1-4b82-b4f6-e9ca489eb364'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030110000 +0000" stop="20261030140000 +0000">
+		<title>Inspector Daya</title>
+		<desc>Daya, a corrupt police officer, finds his life changing when he takes on a case of gang rape.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097292'&amp;EntityType='LinearSchedule'&amp;EntityId='0a0505ba-673d-4ac1-b18a-fd10385958c5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030140000 +0000" stop="20261030150000 +0000">
+		<title>Neeya Naana - EP916</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097256'&amp;EntityType='LinearSchedule'&amp;EntityId='d7c67ccb-f937-4826-a4c1-3169ea5404ae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030150000 +0000" stop="20261030160000 +0000">
+		<title>Neeya Naana - EP696</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097264'&amp;EntityType='LinearSchedule'&amp;EntityId='c3e4a7f8-1183-4eb3-b06a-7ecc82169ab5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558279" start="20261030160000 +0000" stop="20261030170000 +0000">
+		<title>Neeya Naana - EP745</title>
+		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107677'&amp;EntityType='LinearSchedule'&amp;EntityId='8cfed167-12d7-46ce-a484-ca3ee30f05b4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
