@@ -36,6 +36,10 @@
 		<display-name>SPL CH01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318285'&amp;EntityType='Item'&amp;EntityId='98200'&amp;Width=150&amp;Height=58" />
 	</channel>
+	<channel id="98201">
+		<display-name>SPL CH02</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318291'&amp;EntityType='Item'&amp;EntityId='98201'&amp;Width=150&amp;Height=58" />
+	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -91,10 +95,6 @@
 	<channel id="558271">
 		<display-name>Drama Hebat</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14326803'&amp;EntityType='Item'&amp;EntityId='558271'&amp;Width=350&amp;Height=250" />
-	</channel>
-	<channel id="558279">
-		<display-name>Vijay Takkar</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13200785'&amp;EntityType='Item'&amp;EntityId='558279'&amp;Width=157&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20261029160000 +0000" stop="20261029163000 +0000">
 		<title>Yes Captain! - EP 47</title>
@@ -1135,6 +1135,16 @@
 		<title>No Programme available now. Next Broadcast on 31st October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Hougang United FC vs Young Lions on 31st October, Saturday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17106527'&amp;EntityType='LinearSchedule'&amp;EntityId='8e3d859f-e8e4-43e5-bd51-a3198ee1c2ab'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20261029160000 +0000" stop="20261030160000 +0000">
+		<title>No Programme available now. Next Broadcast on 1st November, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Balestier Khalsa FC vs Lion City Sailors FC on 1st November, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17084349'&amp;EntityType='LinearSchedule'&amp;EntityId='f5468678-a49b-4f08-8a1c-ee240972ecd3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20261030160000 +0000" stop="20261031160000 +0000">
+		<title>No Programme available now. Next Broadcast on 1st November, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Balestier Khalsa FC vs Lion City Sailors FC on 1st November, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17106539'&amp;EntityType='LinearSchedule'&amp;EntityId='4c468b93-55ec-4b6b-a8b8-a0c2e57fd695'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20261029160000 +0000" stop="20261030110000 +0000">
 		<title>No programme available now. Next broadcast on 30th October, Friday 7pm. The Wonder Shop Home Shopping</title>
@@ -2421,121 +2431,6 @@
 		<desc>Noorul meminta kerja sebagai orang gaji melalui agensi pekerjaan setelah kilang tempat kerjanya ditutup. Bermulalah episod Noorul sebagai orang gaji kepada anak Tan Sri yang sangat cerewet sehingga dia menggelarnya Mr.F (Mr. Fussy).</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17103420'&amp;EntityType='LinearSchedule'&amp;EntityId='032460b4-19a7-49c7-b172-1e7819347aba'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558279" start="20261029160000 +0000" stop="20261029170000 +0000">
-		<title>Neeya Naana - EP731</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097232'&amp;EntityType='LinearSchedule'&amp;EntityId='99209dbd-5d27-473c-b5bf-610ea23d939f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261029170000 +0000" stop="20261029180000 +0000">
-		<title>Neeya Naana - EP732</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097272'&amp;EntityType='LinearSchedule'&amp;EntityId='9cedad09-e269-4d8d-b83f-910fd4cb9e51'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261029180000 +0000" stop="20261029190000 +0000">
-		<title>Neeya Naana - EP733</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097300'&amp;EntityType='LinearSchedule'&amp;EntityId='71f521f9-b69e-4e38-8fd2-ab81d61aecc0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261029190000 +0000" stop="20261029200000 +0000">
-		<title>Neeya Naana - EP734</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097236'&amp;EntityType='LinearSchedule'&amp;EntityId='724e0361-781c-4062-a0ed-ab392effd139'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261029200000 +0000" stop="20261029210000 +0000">
-		<title>Neeya Naana - EP735</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097240'&amp;EntityType='LinearSchedule'&amp;EntityId='679ac19d-6a4f-4907-b504-040c2828df87'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261029210000 +0000" stop="20261029220000 +0000">
-		<title>Neeya Naana - EP736</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097252'&amp;EntityType='LinearSchedule'&amp;EntityId='9cb2ce18-cd21-4c53-960a-d4d394a2f753'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261029220000 +0000" stop="20261029230000 +0000">
-		<title>Neeya Naana - EP737</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097260'&amp;EntityType='LinearSchedule'&amp;EntityId='08c7cdad-9925-495b-89d7-95ffc4851d94'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261029230000 +0000" stop="20261030000000 +0000">
-		<title>Neeya Naana - EP738</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097276'&amp;EntityType='LinearSchedule'&amp;EntityId='bd0357e6-3086-4619-8c18-355ee4184316'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030000000 +0000" stop="20261030010000 +0000">
-		<title>Neeya Naana - EP739</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097280'&amp;EntityType='LinearSchedule'&amp;EntityId='b4786cfd-ec84-48aa-9a52-6aaf11b39683'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030010000 +0000" stop="20261030020000 +0000">
-		<title>Neeya Naana - EP740</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097304'&amp;EntityType='LinearSchedule'&amp;EntityId='ef5e03fc-6454-4114-a57d-377f93382f7e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030020000 +0000" stop="20261030030000 +0000">
-		<title>Neeya Naana - EP741</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097284'&amp;EntityType='LinearSchedule'&amp;EntityId='38a5e6c6-95f7-4ff3-861e-17414285d7f7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030030000 +0000" stop="20261030040000 +0000">
-		<title>Neeya Naana - EP742</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097308'&amp;EntityType='LinearSchedule'&amp;EntityId='972f37f2-74a3-4f18-b65c-152ea7a27f95'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030040000 +0000" stop="20261030050000 +0000">
-		<title>Neeya Naana - EP743</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097288'&amp;EntityType='LinearSchedule'&amp;EntityId='2183596b-9baf-4ff4-9060-5db11866178a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030050000 +0000" stop="20261030060000 +0000">
-		<title>Neeya Naana - EP744</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097244'&amp;EntityType='LinearSchedule'&amp;EntityId='5d076253-2d81-4a8f-b28c-2396cd5c649c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030060000 +0000" stop="20261030070000 +0000">
-		<title>Neeya Naana - EP734</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097312'&amp;EntityType='LinearSchedule'&amp;EntityId='fb175e7d-4ffd-4900-b9fb-8e87bf16b997'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030070000 +0000" stop="20261030080000 +0000">
-		<title>Neeya Naana - EP735</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097268'&amp;EntityType='LinearSchedule'&amp;EntityId='433e5a2b-3833-4ba4-8e69-8facfcec61c6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030080000 +0000" stop="20261030090000 +0000">
-		<title>Neeya Naana - EP797</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097248'&amp;EntityType='LinearSchedule'&amp;EntityId='3213bf08-608e-430a-b49d-5c6989252cc3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030090000 +0000" stop="20261030100000 +0000">
-		<title>Neeya Naana - EP798</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097316'&amp;EntityType='LinearSchedule'&amp;EntityId='3aeeabc9-7f77-411b-8b45-21e155be4ccf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030100000 +0000" stop="20261030110000 +0000">
-		<title>Neeya Naana - EP915</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097296'&amp;EntityType='LinearSchedule'&amp;EntityId='95e2e3fe-09e1-4b82-b4f6-e9ca489eb364'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030110000 +0000" stop="20261030140000 +0000">
-		<title>Inspector Daya</title>
-		<desc>Daya, a corrupt police officer, finds his life changing when he takes on a case of gang rape.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097292'&amp;EntityType='LinearSchedule'&amp;EntityId='0a0505ba-673d-4ac1-b18a-fd10385958c5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030140000 +0000" stop="20261030150000 +0000">
-		<title>Neeya Naana - EP916</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097256'&amp;EntityType='LinearSchedule'&amp;EntityId='d7c67ccb-f937-4826-a4c1-3169ea5404ae'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030150000 +0000" stop="20261030160000 +0000">
-		<title>Neeya Naana - EP696</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17097264'&amp;EntityType='LinearSchedule'&amp;EntityId='c3e4a7f8-1183-4eb3-b06a-7ecc82169ab5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030160000 +0000" stop="20261030170000 +0000">
-		<title>Neeya Naana - EP745</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107677'&amp;EntityType='LinearSchedule'&amp;EntityId='8cfed167-12d7-46ce-a484-ca3ee30f05b4'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20261030173000 +0000" stop="20261030180000 +0000">
 		<title>Talking Point - EP 23</title>
 		<desc>Pokemon cards are the top item in e-commerce scams since 2025. In the first half of 2026, both cases and losses more than doubled from the same period last year. Who gets scammed and how does it work?</desc>
@@ -3429,7 +3324,7 @@
 	<programme channel="97072" start="20261031130200 +0000" stop="20261031140000 +0000">
 		<title>Inside Out Asia: Taiwan’s Pigeon Kings</title>
 		<desc>In Taiwan, racers Cliff Chen and Yang Ming-Hua train pigeons for a five-stage sea championship. As their birds race home, dreams of victory clash with the fear of losing birds they raised like family.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17183732'&amp;EntityType='LinearSchedule'&amp;EntityId='e01cc545-b230-40da-a3fb-7f6fc62317f6'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17246887'&amp;EntityType='LinearSchedule'&amp;EntityId='e01cc545-b230-40da-a3fb-7f6fc62317f6'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20261031140000 +0000" stop="20261031143000 +0000">
 		<title>(Live) Singapore Tonight</title>
@@ -3470,6 +3365,11 @@
 		<title>No Programme available now. Next Broadcast on 1st November, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
 		<desc>SPL 01 will commence broadcast of the Singapore Premier League 2026/2027: Tampines Rovers FC vs Geylang International FC on 1st November, Sunday 7.20pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17124265'&amp;EntityType='LinearSchedule'&amp;EntityId='fba0eabc-f563-4c86-8243-6dc3d8d76690'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98201" start="20261031160000 +0000" stop="20261101112000 +0000">
+		<title>No Programme available now. Next Broadcast on 1st November, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
+		<desc>SPL 02 will commence broadcast of the Singapore Premier League 2026/2027: Balestier Khalsa FC vs Lion City Sailors FC on 1st November, Sunday 7.20pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17124318'&amp;EntityType='LinearSchedule'&amp;EntityId='030a4a0c-e05f-418a-8bbf-aafd46cb2ea8'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20261031110000 +0000" stop="20261031111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Health+ Orofill Golden Serum / Health+ Orofill Revive</title>
@@ -4600,115 +4500,5 @@
 		<title>Keluarga Iskandar - EP11</title>
 		<desc>A strict and loving mother, Mak Jah tries her best to unite her children, daughters and sons in-laws and grandchildren who are divided.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17122743'&amp;EntityType='LinearSchedule'&amp;EntityId='13a5478d-1ec0-42a5-93fe-8fa37d2f6a02'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030170000 +0000" stop="20261030180000 +0000">
-		<title>Neeya Naana - EP746</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107709'&amp;EntityType='LinearSchedule'&amp;EntityId='ec7ca73c-53cc-47b9-a3e1-a0ae59c90bad'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030180000 +0000" stop="20261030190000 +0000">
-		<title>Neeya Naana - EP747</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107604'&amp;EntityType='LinearSchedule'&amp;EntityId='8115ea1c-9b0b-4abe-95f1-8ac6cd510055'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030190000 +0000" stop="20261030200000 +0000">
-		<title>Neeya Naana - EP748</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107613'&amp;EntityType='LinearSchedule'&amp;EntityId='e9547b26-dcb6-4f0e-b6e9-b3e4099389de'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030200000 +0000" stop="20261030210000 +0000">
-		<title>Neeya Naana - EP749</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107723'&amp;EntityType='LinearSchedule'&amp;EntityId='7a5b1720-34a5-4ef8-bb9e-afbd309e14c8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030210000 +0000" stop="20261030220000 +0000">
-		<title>Neeya Naana - EP750</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107663'&amp;EntityType='LinearSchedule'&amp;EntityId='e2bf8271-92af-4cfe-8797-915f2bec84c6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030220000 +0000" stop="20261030230000 +0000">
-		<title>Neeya Naana - EP751</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107753'&amp;EntityType='LinearSchedule'&amp;EntityId='4eecae2b-543e-4630-ac71-e3901834cd30'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261030230000 +0000" stop="20261031000000 +0000">
-		<title>Neeya Naana - EP752</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107623'&amp;EntityType='LinearSchedule'&amp;EntityId='758ceb66-fe87-4620-9c7e-6953086c3093'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031000000 +0000" stop="20261031010000 +0000">
-		<title>Neeya Naana - EP753</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107669'&amp;EntityType='LinearSchedule'&amp;EntityId='8c7c3b4d-3f59-4723-92fd-2167740d2680'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031010000 +0000" stop="20261031020000 +0000">
-		<title>Neeya Naana - EP754</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107820'&amp;EntityType='LinearSchedule'&amp;EntityId='5d9fca03-442f-4963-97a9-ac5a745195a9'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031020000 +0000" stop="20261031030000 +0000">
-		<title>Neeya Naana - EP755</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107769'&amp;EntityType='LinearSchedule'&amp;EntityId='971eee3e-a63c-41ff-be4c-b3affba07930'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031030000 +0000" stop="20261031040000 +0000">
-		<title>Neeya Naana - EP756</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107633'&amp;EntityType='LinearSchedule'&amp;EntityId='76defbfc-3612-4f44-b270-0285a80087e8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031040000 +0000" stop="20261031050000 +0000">
-		<title>Neeya Naana - EP757</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107834'&amp;EntityType='LinearSchedule'&amp;EntityId='62e53507-8571-4b6b-8b61-2b95475537ec'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031050000 +0000" stop="20261031060000 +0000">
-		<title>Neeya Naana - EP758</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107779'&amp;EntityType='LinearSchedule'&amp;EntityId='0ea2b75c-32e8-4bd2-8e77-685aeaa58a32'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031060000 +0000" stop="20261031070000 +0000">
-		<title>Neeya Naana - EP748</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107687'&amp;EntityType='LinearSchedule'&amp;EntityId='7ab05618-5c62-4af5-905a-1fa389f2114f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031070000 +0000" stop="20261031080000 +0000">
-		<title>Neeya Naana - EP749</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107642'&amp;EntityType='LinearSchedule'&amp;EntityId='6c87bfdf-6c72-46ad-a8d9-442ec6bdd45c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031080000 +0000" stop="20261031090000 +0000">
-		<title>Neeya Naana - EP799</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107731'&amp;EntityType='LinearSchedule'&amp;EntityId='e95ab1a5-5d79-438e-babd-bea47cd786d3'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031090000 +0000" stop="20261031100000 +0000">
-		<title>Neeya Naana - EP800</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107699'&amp;EntityType='LinearSchedule'&amp;EntityId='78b6705e-2acf-4459-84fe-24aa05e359f5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031100000 +0000" stop="20261031110000 +0000">
-		<title>Neeya Naana - EP917</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107790'&amp;EntityType='LinearSchedule'&amp;EntityId='ac412559-12ce-4e0f-b5d4-f5229b134db7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031110000 +0000" stop="20261031140000 +0000">
-		<title>Avane Srimannarayana</title>
-		<desc>In pursuit of solving a long-held mystery of Amaravati, Narayana - the quirky new cop in the town - has to get past a dreaded clan of dacoits and its fierce leader Jairam.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107659'&amp;EntityType='LinearSchedule'&amp;EntityId='7d8477b5-d4b6-4e0e-acd6-ddfef2a8414f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031140000 +0000" stop="20261031150000 +0000">
-		<title>Neeya Naana - EP918</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107805'&amp;EntityType='LinearSchedule'&amp;EntityId='1437942f-cfd3-41a3-a978-1f47e905353c'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031150000 +0000" stop="20261031160000 +0000">
-		<title>Neeya Naana - EP697</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17107739'&amp;EntityType='LinearSchedule'&amp;EntityId='7508407a-3af8-4d48-ae88-771dd7cd5041'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558279" start="20261031160000 +0000" stop="20261031170000 +0000">
-		<title>Neeya Naana - EP759</title>
-		<desc>A talk show where two polarised groups of society are given the platform to share their views and see a different perspective on socially-relevant topics.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17126065'&amp;EntityType='LinearSchedule'&amp;EntityId='19517fb2-bcc0-4b6b-8f88-5173c6fbe6bf'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
