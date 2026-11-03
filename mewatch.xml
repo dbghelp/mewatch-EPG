@@ -1121,12 +1121,12 @@
 		<desc>Men's Semi-final - Germany vs Brazil</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17309805'&amp;EntityType='LinearSchedule'&amp;EntityId='9135f076-6bcd-4939-84d4-f7ae7e375f35'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862712" start="20261103165500 +0000" stop="20261103172500 +0000">
+	<programme channel="862712" start="20261103165500 +0000" stop="20261103172000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17327106'&amp;EntityType='LinearSchedule'&amp;EntityId='157c9a03-8df3-4e4d-850c-c8ea8529b911'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862712" start="20261103172500 +0000" stop="20261103200000 +0000">
+	<programme channel="862712" start="20261103172000 +0000" stop="20261103200000 +0000">
 		<title>Futsal - Youth Olympic Games Dakar 2026 Women's Group Stage - SEN vs VEN</title>
 		<desc>Women's Group Stage - Senegal vs Venezuela</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17309801'&amp;EntityType='LinearSchedule'&amp;EntityId='957a687e-c330-4eaa-a3fc-f2e907bf16c3'&amp;Width=1280&amp;Height=720" />
@@ -1151,20 +1151,40 @@
 		<desc>Men's &amp; Women's Quarter-finals</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254343'&amp;EntityType='LinearSchedule'&amp;EntityId='d4114662-4c62-431d-9a16-842b0ff5f8e9'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862710" start="20261103145500 +0000" stop="20261103194500 +0000">
-		<title>Table Tennis - Youth Olympic Games Dakar 2026 Men's &amp; Women's Singles Round of 16 | Mixed Doubles Finals</title>
-		<desc>Men's Singles Round of 16 - France vs South Korea | Women's Singles Round of 16 - Germany vs Czech Republic | Men's Singles Round of 16 - Spain vs Colombia | Mixed Doubles Final Bronze Medal Match - Chinese Taipei vs Thailand | Mixed Doubles Final Gold Medal Match - Japan vs Hong Kong</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17253609'&amp;EntityType='LinearSchedule'&amp;EntityId='746078ff-738a-4813-b0d7-3007bd71b7a4'&amp;Width=1280&amp;Height=720" />
+	<programme channel="862710" start="20261103155500 +0000" stop="20261103165000 +0000">
+		<title>Table Tennis - Youth Olympic Games Dakar 2026 Women's Singles Round of 16 - GER vs CZE</title>
+		<desc>Women's Singles Round of 16 - Germany vs Czech Republic</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17328035'&amp;EntityType='LinearSchedule'&amp;EntityId='c55cd70e-bc31-4057-9c63-6fb69572273a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862710" start="20261103194500 +0000" stop="20261104095500 +0000">
+	<programme channel="862710" start="20261103165000 +0000" stop="20261103172000 +0000">
+		<title>Table Tennis - Youth Olympic Games Dakar 2026 Men's Singles Round of 16 - ESP vs COL</title>
+		<desc>Men's Singles Round of 16 - Spain vs Colombia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17328043'&amp;EntityType='LinearSchedule'&amp;EntityId='5b3e5ea6-3f52-498d-9740-41788afd3714'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862710" start="20261103172000 +0000" stop="20261103180000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17327021'&amp;EntityType='LinearSchedule'&amp;EntityId='09dc606a-2a13-472a-afa3-ec169b4d160c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17328047'&amp;EntityType='LinearSchedule'&amp;EntityId='0621fff1-8a95-4a5d-b9e3-fbfe7e93afe6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862710" start="20261103180000 +0000" stop="20261103184500 +0000">
+		<title>Table Tennis - Youth Olympic Games Dakar 2026 Mixed Doubles Final Bronze Medal Match - TPE vs THA</title>
+		<desc>Mixed Doubles Final Bronze Medal Match - Chinese Taipei vs Thailand</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17328051'&amp;EntityType='LinearSchedule'&amp;EntityId='18d13ab0-cc1d-4854-92b4-5ab66f1afb2a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862710" start="20261103184500 +0000" stop="20261103195000 +0000">
+		<title>Table Tennis - Youth Olympic Games Dakar 2026 Mixed Doubles Final Gold Medal Match - JPN vs HKG</title>
+		<desc>Mixed Doubles Final Gold Medal Match - Japan vs Hong Kong</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17328039'&amp;EntityType='LinearSchedule'&amp;EntityId='3678da6d-885f-4e94-9990-9d4e54a47dd1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862710" start="20261103195000 +0000" stop="20261104095500 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17328055'&amp;EntityType='LinearSchedule'&amp;EntityId='9bc03836-3edc-45e3-ad64-8baa8fc22f18'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862710" start="20261104095500 +0000" stop="20261104131500 +0000">
 		<title>Table Tennis - Youth Olympic Games Dakar 2026 Men's &amp; Women's Singles Quarter-finals</title>
 		<desc>Men's &amp; Women's Singles Quarter-finals</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17308908'&amp;EntityType='LinearSchedule'&amp;EntityId='2d4c1a3b-3cdb-4ab5-854d-26aaed6bd6be'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17328019'&amp;EntityType='LinearSchedule'&amp;EntityId='2d4c1a3b-3cdb-4ab5-854d-26aaed6bd6be'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862710" start="20261104131500 +0000" stop="20261104152500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1201,65 +1221,90 @@
 		<desc>Men's Street Prelims Heat 1 | Men's Street Prelims Heat 2</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17309785'&amp;EntityType='LinearSchedule'&amp;EntityId='e066449c-ece3-40e6-bc0b-ce6a5118c276'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862709" start="20261104142500 +0000" stop="20261104145500 +0000">
+	<programme channel="862709" start="20261104142500 +0000" stop="20261104155500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17309789'&amp;EntityType='LinearSchedule'&amp;EntityId='c4fedf5d-7e22-44e7-a5ce-4b00ba50172b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862709" start="20261104145500 +0000" stop="20261104162000 +0000">
-		<title>Swimming - Youth Olympic Games Dakar 2026 Men's &amp; Women's Finals - 4 Nov 2026</title>
-		<desc>Women's 50m Freestyle Final | Men's 50m Freestyle Final | Women's 200m Individual Medley Final | Men's 200m Individual Medley Final | Women's 50m Butterfly Final | Men's 50m Butterfly Final</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254311'&amp;EntityType='LinearSchedule'&amp;EntityId='82e3e10f-d6dc-4250-824c-342222301109'&amp;Width=1280&amp;Height=720" />
+	<programme channel="862709" start="20261104155500 +0000" stop="20261104170000 +0000">
+		<title>Skateboarding - Youth Olympic Games Dakar 2026 Men's Street Final</title>
+		<desc>Men's Street Final</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17328015'&amp;EntityType='LinearSchedule'&amp;EntityId='d8dfa636-2cd6-44f8-93f9-2fc7480e1397'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862713" start="20261103145300 +0000" stop="20261103193000 +0000">
-		<title>Badminton - Youth Olympic Games Dakar 2026 Women's &amp; Men's Singles Group Stage</title>
-		<desc>Men's Singles Group Stage - United Arab Emirates vs Malaysia | Men's Singles Group Stage - Czech Republic vs Senegal | Women's Singles Group Stage - India vs Australia | Women's Singles Group Stage - Iran vs Algeria | Women's Singles Group Stage - Japan vs Mauritius</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17253833'&amp;EntityType='LinearSchedule'&amp;EntityId='f156d8f1-16c3-4e39-8d30-e10cbb40c8cc'&amp;Width=1280&amp;Height=720" />
+	<programme channel="862713" start="20261103160000 +0000" stop="20261103164500 +0000">
+		<title>Badminton - Youth Olympic Games Dakar 2026 Men's Singles Group Stage - CZE vs SEN</title>
+		<desc>Men's Singles Group Stage - Czech Republic vs Senegal</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17327980'&amp;EntityType='LinearSchedule'&amp;EntityId='05852d89-9594-4241-bd7e-e39cfb79ebbe'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862713" start="20261103193000 +0000" stop="20261104095500 +0000">
+	<programme channel="862713" start="20261103164500 +0000" stop="20261103173000 +0000">
+		<title>Badminton - Youth Olympic Games Dakar 2026 Women's Singles Group Stage - IND vs AUS</title>
+		<desc>Women's Singles Group Stage - India vs Australia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17327988'&amp;EntityType='LinearSchedule'&amp;EntityId='7ef1049f-cc76-4014-8cc9-c70ea69e69ba'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862713" start="20261103173000 +0000" stop="20261103175000 +0000">
+		<title>Badminton - Youth Olympic Games Dakar 2026 Women's Singles Group Stage - IRI vs ALG</title>
+		<desc>Women's Singles Group Stage - Iran vs Algeria</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17327972'&amp;EntityType='LinearSchedule'&amp;EntityId='a1de8516-3d53-4835-85c6-d081dc22b7f3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862713" start="20261103175000 +0000" stop="20261103183000 +0000">
+		<title>Badminton - Youth Olympic Games Dakar 2026 Women's Singles Group Stage - JPN vs MRI</title>
+		<desc>Women's Singles Group Stage - Japan vs Mauritius            </desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17327976'&amp;EntityType='LinearSchedule'&amp;EntityId='5bf41f4c-3760-4ba8-b1eb-e75e64d0d261'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862713" start="20261103183000 +0000" stop="20261104095500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17327070'&amp;EntityType='LinearSchedule'&amp;EntityId='2a46200a-3267-4cd1-a95f-685cc56ced50'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17327984'&amp;EntityType='LinearSchedule'&amp;EntityId='10ba7185-4891-4e34-b59b-af7a1754ce83'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862713" start="20261104095500 +0000" stop="20261104140000 +0000">
 		<title>Futsal - Youth Olympic Games Dakar 2026 Men's Group Stage</title>
 		<desc>Men's Group Stage - Portugal vs Solomon Islands | Men's Group Stage - Paraguay vs Morocco</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17308932'&amp;EntityType='LinearSchedule'&amp;EntityId='921133ed-a287-44d2-9375-5a2796a83bcc'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862713" start="20261104140000 +0000" stop="20261104155500 +0000">
+	<programme channel="862713" start="20261104140000 +0000" stop="20261104145500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17308936'&amp;EntityType='LinearSchedule'&amp;EntityId='ffadc7fa-17e8-4418-8800-dc2c45936716'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862713" start="20261104155500 +0000" stop="20261104170000 +0000">
-		<title>Skateboarding - Youth Olympic Games Dakar 2026 Men's Street Final</title>
-		<desc>Men's Street Final</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17253849'&amp;EntityType='LinearSchedule'&amp;EntityId='27c98e6b-c874-44e6-b307-a5813e672985'&amp;Width=1280&amp;Height=720" />
+	<programme channel="862713" start="20261104145500 +0000" stop="20261104162000 +0000">
+		<title>Swimming - Youth Olympic Games Dakar 2026 Men's &amp; Women's Finals - 4 Nov 2026</title>
+		<desc>Women's 50m Freestyle Final | Men's 50m Freestyle Final | Women's 200m Individual Medley Final | Men's 200m Individual Medley Final | Women's 50m Butterfly Final | Men's 50m Butterfly Final</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17328027'&amp;EntityType='LinearSchedule'&amp;EntityId='4f3bcf73-bdf9-4e9b-9967-742ebfd948bb'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862711" start="20261103155500 +0000" stop="20261103173000 +0000">
 		<title>Judo - Youth Olympic Games Dakar 2026 Men's &amp; Women's Finals</title>
 		<desc>Women's -78 kg Bronze Medal Match A - Kosovo vs Austria | Women's -78 kg Bronze Medal Match B - China vs Puerto Rico | Women's -78 kg Final - Brazil vs Russia | Men's -100 kg Bronze Medal Match A - Tajikistan vs Burundi | Men's -100 kg Bronze Medal Match B - Japan vs Angola | Men's -100 kg Final - Lithuania vs Uzbekistan</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17253773'&amp;EntityType='LinearSchedule'&amp;EntityId='a7088f03-3f6f-4c1d-8a08-45048da57b66'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862711" start="20261103173000 +0000" stop="20261104145500 +0000">
+	<programme channel="862711" start="20261103173000 +0000" stop="20261104085500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17327066'&amp;EntityType='LinearSchedule'&amp;EntityId='28d39d4d-e768-49ee-9286-f853f4975530'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862711" start="20261104085500 +0000" stop="20261104124500 +0000">
+		<title>Badminton - Youth Olympic Games Dakar 2026 Men's &amp; Women's Singles Quarter-finals</title>
+		<desc>Men's &amp; Women's Singles Quarter-finals</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17327996'&amp;EntityType='LinearSchedule'&amp;EntityId='0fcfa35d-9590-42fb-8704-58b3ff31cd3d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862711" start="20261104124500 +0000" stop="20261104145500 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17327992'&amp;EntityType='LinearSchedule'&amp;EntityId='f8729391-e5f3-4445-a8a4-021db7e5fae4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862711" start="20261104145500 +0000" stop="20261104180000 +0000">
 		<title>Table Tennis - Youth Olympic Games Dakar 2026 Men's &amp; Women's Singles Quarter-finals</title>
 		<desc>Men's &amp; Women's Singles Quarter-finals</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254375'&amp;EntityType='LinearSchedule'&amp;EntityId='d617d8f3-5d0a-465e-975e-e49a0a3e6600'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862714" start="20261103142500 +0000" stop="20261103181500 +0000">
+	<programme channel="862714" start="20261103142500 +0000" stop="20261103183000 +0000">
 		<title>Wushu - Youth Olympic Games Dakar 2026 Men's Gunshu &amp; Taijishan | Women's Changquan &amp; Taijiquan Finals</title>
-		<desc>Men's Changquan Final | Women's Gunshu Final | Men's Taijiquan Final | Women's Taijishan Final</desc>
+		<desc>Men's Gunshu &amp; Taijishan | Women's Changquan &amp; Taijiquan Finals</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17309256'&amp;EntityType='LinearSchedule'&amp;EntityId='35a14edd-dcd0-481a-b654-b634b7132195'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862714" start="20261103181500 +0000" stop="20261104105500 +0000">
+	<programme channel="862714" start="20261103183000 +0000" stop="20261104105500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17327062'&amp;EntityType='LinearSchedule'&amp;EntityId='0a66d09b-54b4-453c-bffb-c0145ee6747c'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17327946'&amp;EntityType='LinearSchedule'&amp;EntityId='bac1e476-0d19-4678-bc20-f4706c2f2eaf'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862714" start="20261104105500 +0000" stop="20261104162000 +0000">
 		<title>Beach Volleyball - Youth Olympic Games Dakar 2026 Men's &amp; Women's Finals</title>
