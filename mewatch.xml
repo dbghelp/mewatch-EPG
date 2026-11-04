@@ -547,7 +547,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17173231'&amp;EntityType='LinearSchedule'&amp;EntityId='911d22fb-3e87-48d6-8356-01c42301089c'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20261104140000 +0000" stop="20261104144500 +0000">
-		<title>(Live) News Tonight 晚间新闻</title>
+		<title>(Live) News Tonight 晚间新闻包括国会摘要</title>
 		<desc>Daily evening updates on top local news and world news.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17173306'&amp;EntityType='LinearSchedule'&amp;EntityId='eec333be-8024-43b3-9340-894ee6177264'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -742,7 +742,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17173234'&amp;EntityType='LinearSchedule'&amp;EntityId='e8f91754-3d17-4263-84b0-9f4bdac51394'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97129" start="20261104150000 +0000" stop="20261104154500 +0000">
-		<title>News Tonight 晚间新闻</title>
+		<title>News Tonight 晚间新闻包括国会摘要</title>
 		<desc>Daily evening updates on top local news and world news.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17173287'&amp;EntityType='LinearSchedule'&amp;EntityId='3ccb3979-3018-4aa4-b61f-d5e221fd2a87'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -1133,7 +1133,7 @@
 	</programme>
 	<programme channel="862712" start="20261104085500 +0000" stop="20261104123700 +0000">
 		<title>Badminton - Youth Olympic Games Dakar 2026 Men's &amp; Women's Semi-finals</title>
-		<desc>Men's &amp; Women's Semi-finals</desc>
+		<desc>Men's Singles Quarter-final - South Korea vs South Korea | Women's Singles Quarter-final - Hong Kong vs China | Men's Singles Quarter-final - China vs India | Women's Singles Quarter-final - New Zealand vs Japan</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17308916'&amp;EntityType='LinearSchedule'&amp;EntityId='732f498a-f3db-4fb2-b6e1-27f37294ef6e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862712" start="20261104123700 +0000" stop="20261104142000 +0000">
@@ -1178,7 +1178,7 @@
 	</programme>
 	<programme channel="862710" start="20261104095500 +0000" stop="20261104131500 +0000">
 		<title>Table Tennis - Youth Olympic Games Dakar 2026 Men's &amp; Women's Singles Quarter-finals</title>
-		<desc>Men's &amp; Women's Singles Quarter-finals</desc>
+		<desc>Men's Singles Quarter-final - Turkey vs South Korea | Women's Singles Quarter-final - France vs Singapore | Men's Singles Quarter-final - China vs Colombia | Women's Singles Quarter-final - Japan vs Poland</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17328019'&amp;EntityType='LinearSchedule'&amp;EntityId='2d4c1a3b-3cdb-4ab5-854d-26aaed6bd6be'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862710" start="20261104131500 +0000" stop="20261104152500 +0000">
@@ -1188,7 +1188,7 @@
 	</programme>
 	<programme channel="862710" start="20261104152500 +0000" stop="20261104193000 +0000">
 		<title>Futsal - Youth Olympic Games Dakar 2026 Men's Group Stage</title>
-		<desc>Men's Group Stage - Afghanistan vs Argentina | Men's Group Stage - Senegal vs Panama | </desc>
+		<desc>Men's Group Stage - Afghanistan vs Argentina | Men's Group Stage - Senegal vs Panama</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17253625'&amp;EntityType='LinearSchedule'&amp;EntityId='4cb435cf-eaae-44ad-a3a6-2ae2823243a7'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862709" start="20261103125500 +0000" stop="20261103183000 +0000">
@@ -1278,7 +1278,7 @@
 	</programme>
 	<programme channel="862711" start="20261104085500 +0000" stop="20261104124500 +0000">
 		<title>Badminton - Youth Olympic Games Dakar 2026 Men's &amp; Women's Singles Quarter-finals</title>
-		<desc>Men's &amp; Women's Singles Quarter-finals</desc>
+		<desc>Men's Singles Quarter-final - France vs United States | Women's Singles Quarter-final - United States vs Chinese Taipei | Men's Singles Quarter-final - Thailand vs United Arab Emirates | Women's Singles Quarter-final - Thailand vs India</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17327996'&amp;EntityType='LinearSchedule'&amp;EntityId='0fcfa35d-9590-42fb-8704-58b3ff31cd3d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862711" start="20261104124500 +0000" stop="20261104145500 +0000">
@@ -1288,7 +1288,7 @@
 	</programme>
 	<programme channel="862711" start="20261104145500 +0000" stop="20261104180000 +0000">
 		<title>Table Tennis - Youth Olympic Games Dakar 2026 Men's &amp; Women's Singles Quarter-finals</title>
-		<desc>Men's &amp; Women's Singles Quarter-finals</desc>
+		<desc>Men's Singles Quarter-final - Chinese Taipei vs Hong Kong | Women's Singles Quarter-final - Germany vs Chinese Taipei | Men's Singles Quarter-final - Japan vs Puerto Rico | Women's Singles Quarter-final - Austria vs Hong Kong</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254375'&amp;EntityType='LinearSchedule'&amp;EntityId='d617d8f3-5d0a-465e-975e-e49a0a3e6600'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862714" start="20261103142500 +0000" stop="20261103183000 +0000">
@@ -1303,7 +1303,7 @@
 	</programme>
 	<programme channel="862714" start="20261104105500 +0000" stop="20261104162000 +0000">
 		<title>Beach Volleyball - Youth Olympic Games Dakar 2026 Men's &amp; Women's Finals</title>
-		<desc>Men's &amp; Women's Finals</desc>
+		<desc>Women's Final Bronze Medal Match - Switzerland vs China | Men's Final Bronze Medal Match - Brazil vs Australia | Women's Final Gold Medal Match - Italy vs Netherlands | Men's Final Gold Medal Match - Germany vs Austria</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254367'&amp;EntityType='LinearSchedule'&amp;EntityId='d30c15aa-d088-4701-9c99-7b480b5635f4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="839745" start="20261103160000 +0000" stop="20261104150000 +0000">
@@ -2682,7 +2682,7 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17195753'&amp;EntityType='LinearSchedule'&amp;EntityId='03a5562c-3e81-4911-9564-2374f6d55605'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20261104225000 +0000" stop="20261104233500 +0000">
-		<title>News Tonight 晚间新闻</title>
+		<title>News Tonight 晚间新闻包括国会摘要</title>
 		<desc>Daily evening updates on top local news and world news.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17328915'&amp;EntityType='LinearSchedule'&amp;EntityId='4b3f053f-f81a-4a82-bcd3-5c478249ff9c'&amp;Width=1280&amp;Height=720" />
 	</programme>
@@ -3342,8 +3342,8 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17195441'&amp;EntityType='LinearSchedule'&amp;EntityId='25647553-e0dc-4824-8e68-c4da527cc83b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20261105110000 +0000" stop="20261105120000 +0000">
-		<title>Collaborate to Innovate 2026</title>
-		<desc>Collaborate to Innovate 2026</desc>
+		<title>Collaborate to Innovate: Unlocking Possibilities</title>
+		<desc>What makes business partnerships succeed? SICC Awards winners share how they navigate differences, build trust and overcome challenges to turn collaboration into innovation.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17195489'&amp;EntityType='LinearSchedule'&amp;EntityId='df9a27af-af4a-4a86-93be-e148a068b205'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20261105120000 +0000" stop="20261105130000 +0000">
@@ -3353,7 +3353,7 @@
 	</programme>
 	<programme channel="97072" start="20261105130000 +0000" stop="20261105140000 +0000">
 		<title>Insight - EP 23</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>A rare warning from Japan’s embassy exposes a growing crisis of child sexual exploitation in Laos. Insight investigates how poverty, tourism and weak enforcement fuel this hidden trade.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17195261'&amp;EntityType='LinearSchedule'&amp;EntityId='4023a8ee-4940-482c-b71f-5aef0f97d18d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20261105140000 +0000" stop="20261105150000 +0000">
@@ -3362,8 +3362,8 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17195499'&amp;EntityType='LinearSchedule'&amp;EntityId='37b762b8-d7a4-4392-b64f-5fec65e21ba4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20261105150000 +0000" stop="20261105160000 +0000">
-		<title>Collaborate to Innovate 2026</title>
-		<desc>Collaborate to Innovate 2026</desc>
+		<title>Collaborate to Innovate: Unlocking Possibilities</title>
+		<desc>What makes business partnerships succeed? SICC Awards winners share how they navigate differences, build trust and overcome challenges to turn collaboration into innovation.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17195513'&amp;EntityType='LinearSchedule'&amp;EntityId='bde2f933-3c81-45af-9119-89571cd117d2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20261105160000 +0000" stop="20261105160300 +0000">
