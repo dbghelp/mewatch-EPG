@@ -52,10 +52,6 @@
 		<display-name>FIFA U17 WWC Ch01</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17187817'&amp;EntityType='Item'&amp;EntityId='839745'&amp;Width=1024&amp;Height=1024" />
 	</channel>
-	<channel id="839744">
-		<display-name>FIFA U17 WWC Ch02</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17187821'&amp;EntityType='Item'&amp;EntityId='839744'&amp;Width=1024&amp;Height=1024" />
-	</channel>
 	<channel id="97073">
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
@@ -95,6 +91,10 @@
 	<channel id="773722">
 		<display-name>That's Rock</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='13362968'&amp;EntityType='Item'&amp;EntityId='773722'&amp;Width=304&amp;Height=250" />
+	</channel>
+	<channel id="556894">
+		<display-name>Action Hollywood Movies</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358842'&amp;EntityType='Item'&amp;EntityId='556894'&amp;Width=304&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20261104151000 +0000" stop="20261104160500 +0000">
 		<title>I Am Canlaken</title>
@@ -363,7 +363,7 @@
 	</programme>
 	<programme channel="97098" start="20261105133000 +0000" stop="20261105140000 +0000">
 		<title>Talking Point - EP 24</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>Are squishy toys safe? Talking Point sends 18 toys for chemical testing, explores what they're made of, and investigates how squishies hold up after heating and squeezing.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17196829'&amp;EntityType='LinearSchedule'&amp;EntityId='ce7503ce-ca94-4ad0-a279-6ef6f4db22e4'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20261105140000 +0000" stop="20261105150000 +0000">
@@ -1183,7 +1183,7 @@
 	</programme>
 	<programme channel="862710" start="20261105095500 +0000" stop="20261105130000 +0000">
 		<title>Table Tennis - Youth Olympic Games Dakar 2026 Men's &amp; Women's Singles Semi-finals</title>
-		<desc>Men's &amp; Women's Singles Semi-finals</desc>
+		<desc>Women's Singles Semi-final - Singapore vs Hong Kong | Women's Singles Semi-final - Japan vs Chinese Taipei | Men's Singles Semi-final - Japan vs South Korea | Men's Singles Semi-final - Hong Kong vs Colombia</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17345261'&amp;EntityType='LinearSchedule'&amp;EntityId='443f8200-5f00-4276-b428-1c849cb64067'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862710" start="20261105130000 +0000" stop="20261105155500 +0000">
@@ -1317,34 +1317,14 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17306868'&amp;EntityType='LinearSchedule'&amp;EntityId='614a78d7-5dd8-41e7-a122-8b9d1b9d04a2'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="839745" start="20261104173000 +0000" stop="20261105160000 +0000">
-		<title>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : 3rd Place Play-off: TEAM vs TEAM</title>
-		<desc>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : 3rd Place Play-off: TEAM vs TEAM</desc>
+		<title>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : Bronze final: North Korea vs Brazil</title>
+		<desc>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : Bronze final: North Korea vs Brazil</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17252859'&amp;EntityType='LinearSchedule'&amp;EntityId='d16c86b7-038f-4633-8eec-a707e64bba15'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="839745" start="20261105160000 +0000" stop="20261106160000 +0000">
-		<title>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : 3rd Place Play-off: TEAM vs TEAM</title>
-		<desc>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : 3rd Place Play-off: TEAM vs TEAM</desc>
+		<title>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : Bronze final: North Korea vs Brazil</title>
+		<desc>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : Bronze final: North Korea vs Brazil</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17252863'&amp;EntityType='LinearSchedule'&amp;EntityId='247ff042-a7ee-4518-85e3-a13de344b2b5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="839744" start="20261104160000 +0000" stop="20261104180000 +0000">
-		<title>No Programme available now. Next Broadcast on 5th November, Thurday 02.00am. FIFA U-17 Women's World Cup 2026 : Semi-final: Brazil vs Nigeria</title>
-		<desc>No Programme available now. Next Broadcast on 5th November, Thurday 02.00am. FIFA U-17 Women's World Cup 2026 : Semi-final: Brazil vs Nigeria</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17252749'&amp;EntityType='LinearSchedule'&amp;EntityId='99f6292c-a546-4d8e-99df-ce6e8c433e86'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="839744" start="20261104180000 +0000" stop="20261104203000 +0000">
-		<title>FIFA U-17 Women's World Cup 2026 : Semi-final : Brazil vs Nigeria</title>
-		<desc>The FIFA U-17 Women’s World Cup Morocco 2026™ brings together 24 of the world’s best young women’s national teams as they compete for the ultimate prize in U-17 football. The tournament showcases the next generation of rising stars on the global stage, as young talents battle for the title of U-17 world champions.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17306864'&amp;EntityType='LinearSchedule'&amp;EntityId='eef22601-5b10-4c3c-8e9a-42c326e3b5c7'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="839744" start="20261104203000 +0000" stop="20261105160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17252737'&amp;EntityType='LinearSchedule'&amp;EntityId='17c2fde7-32b1-4a43-8d20-21bf9ec40b4f'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="839744" start="20261105160000 +0000" stop="20261106160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17252763'&amp;EntityType='LinearSchedule'&amp;EntityId='0fe3551d-63e1-43c5-9de5-3f3fa1da02dd'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20261104160000 +0000" stop="20261105110000 +0000">
 		<title>No programme available now. Next broadcast on 5th November, Thursday 7pm. The Wonder Shop Home Shopping</title>
@@ -2376,6 +2356,71 @@
 		<desc>Air guitars at the ready as we celebrate the finest guitar heroes through the decades!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17228136'&amp;EntityType='LinearSchedule'&amp;EntityId='0405fdd9-e382-4af0-9adb-73b4920cf8d7'&amp;Width=1280&amp;Height=720" />
 	</programme>
+	<programme channel="556894" start="20261104160000 +0000" stop="20261104180000 +0000">
+		<title>The Glass House</title>
+		<desc>After the parents of Ruby (Leelee Sobieski) and her younger brother, Rhett (Trevor Morgan), are killed in a car crash, their parents' best friends, Erin and Terry Glass (Diane Lane, Stellan Skarsgard), become their guardians. The children hear promises of a world of opulence and California fun -- all they have to do is move into the Glasses' gated house. Before very long, though, Ruby suspects that Erin and Terry may not be the ideal guardians they seemed to be.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17196337'&amp;EntityType='LinearSchedule'&amp;EntityId='6c2c1a4d-881e-45d9-b573-704d5dd9fed0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261104180000 +0000" stop="20261104200000 +0000">
+		<title>The Black Panther</title>
+		<desc>A gung-ho ex-military man pursues a secret life of crime, culminating in the kidnapping of a teenage heiress.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17213601'&amp;EntityType='LinearSchedule'&amp;EntityId='9d9a44f3-0e60-4f20-aac3-a481129468ad'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261104200000 +0000" stop="20261104220000 +0000">
+		<title>Minnesota Clay</title>
+		<desc>Wrongfully imprisoned for a crime he did not commit, Minnesota Clay seeks revenge on the man who withheld evidence at his trial. The catch: he is going blind.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17213605'&amp;EntityType='LinearSchedule'&amp;EntityId='a0d5f234-dbda-494f-91f7-e9940f16c57c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261104220000 +0000" stop="20261105000000 +0000">
+		<title>The Glass House</title>
+		<desc>After the parents of Ruby (Leelee Sobieski) and her younger brother, Rhett (Trevor Morgan), are killed in a car crash, their parents' best friends, Erin and Terry Glass (Diane Lane, Stellan Skarsgard), become their guardians. The children hear promises of a world of opulence and California fun -- all they have to do is move into the Glasses' gated house. Before very long, though, Ruby suspects that Erin and Terry may not be the ideal guardians they seemed to be.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17213633'&amp;EntityType='LinearSchedule'&amp;EntityId='8815282d-80de-42b1-a383-b92986065c30'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105000000 +0000" stop="20261105020000 +0000">
+		<title>The Black Panther</title>
+		<desc>A gung-ho ex-military man pursues a secret life of crime, culminating in the kidnapping of a teenage heiress.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17213613'&amp;EntityType='LinearSchedule'&amp;EntityId='96645cf1-f7be-443d-affa-1fd64285fecf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105020000 +0000" stop="20261105040000 +0000">
+		<title>Minnesota Clay</title>
+		<desc>Wrongfully imprisoned for a crime he did not commit, Minnesota Clay seeks revenge on the man who withheld evidence at his trial. The catch: he is going blind.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17213621'&amp;EntityType='LinearSchedule'&amp;EntityId='9499c892-e2a2-4be8-84a8-ebf2df515c5b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105040000 +0000" stop="20261105060000 +0000">
+		<title>The Glass House</title>
+		<desc>After the parents of Ruby (Leelee Sobieski) and her younger brother, Rhett (Trevor Morgan), are killed in a car crash, their parents' best friends, Erin and Terry Glass (Diane Lane, Stellan Skarsgard), become their guardians. The children hear promises of a world of opulence and California fun -- all they have to do is move into the Glasses' gated house. Before very long, though, Ruby suspects that Erin and Terry may not be the ideal guardians they seemed to be.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17213597'&amp;EntityType='LinearSchedule'&amp;EntityId='816b6575-623c-4242-964d-9166f7766301'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105060000 +0000" stop="20261105080000 +0000">
+		<title>The Black Panther</title>
+		<desc>A gung-ho ex-military man pursues a secret life of crime, culminating in the kidnapping of a teenage heiress.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17213625'&amp;EntityType='LinearSchedule'&amp;EntityId='1edf691f-efd0-43a9-8a5d-a0bf8f685b38'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105080000 +0000" stop="20261105100000 +0000">
+		<title>Minnesota Clay</title>
+		<desc>Wrongfully imprisoned for a crime he did not commit, Minnesota Clay seeks revenge on the man who withheld evidence at his trial. The catch: he is going blind.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17213637'&amp;EntityType='LinearSchedule'&amp;EntityId='d457a12e-d396-4c29-9fed-d291455158dc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105100000 +0000" stop="20261105120000 +0000">
+		<title>All For Her Majesty</title>
+		<desc>Simon Templar is on holiday in Naples when a small uproar on a lunch table draws his attention. An English tourist attempts to greet an Italian businessman as an old friend, but the Italian refuses to acknowledge the greeting and claims never to have met him.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17213617'&amp;EntityType='LinearSchedule'&amp;EntityId='5ef85fd1-5228-4c60-9b62-4c6245544682'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105120000 +0000" stop="20261105140000 +0000">
+		<title>All the Way Boys</title>
+		<desc>A pair of conniving bush pilots crash-land in the Peruvian jungle, where they come across a community of diamond miners under the thumb of a greedy speculator.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17213609'&amp;EntityType='LinearSchedule'&amp;EntityId='807d5b98-75ac-4db4-8706-ef531dc23441'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105140000 +0000" stop="20261105160000 +0000">
+		<title>Dreamscape</title>
+		<desc>A man who can enter and manipulate people's dreams is recruited by a government agency to help cure the President of the United States of his nightmares about nuclear war but stumbles upon an assassination plot.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17213629'&amp;EntityType='LinearSchedule'&amp;EntityId='14d9c992-2cb9-446f-90a2-c0f51b5f9d9c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105160000 +0000" stop="20261105180000 +0000">
+		<title>All For Her Majesty</title>
+		<desc>Simon Templar is on holiday in Naples when a small uproar on a lunch table draws his attention. An English tourist attempts to greet an Italian businessman as an old friend, but the Italian refuses to acknowledge the greeting and claims never to have met him.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219114'&amp;EntityType='LinearSchedule'&amp;EntityId='9e22c0a6-765f-49f8-8045-b7a91063d698'&amp;Width=1280&amp;Height=720" />
+	</programme>
 	<programme channel="97098" start="20261105163000 +0000" stop="20261105173000 +0000">
 		<title>FBI: Most Wanted S5 - EP 9</title>
 		<desc>When two armed guards are gunned down while transporting millions of dollars' worth of Nigerian artifacts to a museum, the task force races to catch the thieves Ray speaks to his father about taking his relationship with Cora to the next level.</desc>
@@ -2614,7 +2659,7 @@
 	<programme channel="97098" start="20261106133000 +0000" stop="20261106140000 +0000">
 		<title>On The Red Dot - EP 24</title>
 		<desc>How did Deepavali become a public holiday in Singapore? Discover how its celebrations have evolved, from Little India's dazzling lights to cherished traditions and new ways of celebrating.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17306467'&amp;EntityType='LinearSchedule'&amp;EntityId='ee4c6a0f-1b1e-47d7-9852-7a4d090d9871'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17360457'&amp;EntityType='LinearSchedule'&amp;EntityId='ee4c6a0f-1b1e-47d7-9852-7a4d090d9871'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20261106140000 +0000" stop="20261106155000 +0000">
 		<title>Shadow Land</title>
@@ -3362,14 +3407,9 @@
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17250796'&amp;EntityType='LinearSchedule'&amp;EntityId='dfd73a2d-4e79-4a05-8a03-1e6235bbe12d'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="839745" start="20261106160000 +0000" stop="20261107150000 +0000">
-		<title>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : 3rd Place Play-off: TEAM vs TEAM</title>
-		<desc>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : 3rd Place Play-off: TEAM vs TEAM</desc>
+		<title>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : Bronze final: North Korea vs Brazil</title>
+		<desc>No Programme available now. Next Broadcast on 7th November, Saturday 11.00pm. FIFA U-17 Women's World Cup 2026 : Bronze final: North Korea vs Brazil</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17252867'&amp;EntityType='LinearSchedule'&amp;EntityId='5cb62c21-402a-4467-99fb-db190e8d4d45'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="839744" start="20261106160000 +0000" stop="20261107160000 +0000">
-		<title>No Programme available now.</title>
-		<desc>No Programme available now.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17252773'&amp;EntityType='LinearSchedule'&amp;EntityId='d9ffc085-2199-4c44-a0ca-a2122fba2c48'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97073" start="20261106110000 +0000" stop="20261106111400 +0000">
 		<title>The Wonder Shop (Home Shopping) - Thomson Livrin</title>
@@ -4235,5 +4275,65 @@
 		<title>70s Rock Anthems!</title>
 		<desc>Get ready to turn up the volume! These are the biggest hits that rocked the 70s!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17250596'&amp;EntityType='LinearSchedule'&amp;EntityId='fb8a5732-8d2e-4f3c-b24a-a6e5bf428646'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105180000 +0000" stop="20261105200000 +0000">
+		<title>All the Way Boys</title>
+		<desc>A pair of conniving bush pilots crash-land in the Peruvian jungle, where they come across a community of diamond miners under the thumb of a greedy speculator.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219182'&amp;EntityType='LinearSchedule'&amp;EntityId='0cdea667-edb7-4c53-abfb-b957ddc1b376'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105200000 +0000" stop="20261105220000 +0000">
+		<title>Dreamscape</title>
+		<desc>A man who can enter and manipulate people's dreams is recruited by a government agency to help cure the President of the United States of his nightmares about nuclear war but stumbles upon an assassination plot.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219142'&amp;EntityType='LinearSchedule'&amp;EntityId='a6d8f382-0aac-4492-b3e9-8b58a74b4b82'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261105220000 +0000" stop="20261106000000 +0000">
+		<title>All For Her Majesty</title>
+		<desc>Simon Templar is on holiday in Naples when a small uproar on a lunch table draws his attention. An English tourist attempts to greet an Italian businessman as an old friend, but the Italian refuses to acknowledge the greeting and claims never to have met him.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219190'&amp;EntityType='LinearSchedule'&amp;EntityId='98e74e18-f483-4911-84cc-568185444b1e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261106000000 +0000" stop="20261106020000 +0000">
+		<title>All the Way Boys</title>
+		<desc>A pair of conniving bush pilots crash-land in the Peruvian jungle, where they come across a community of diamond miners under the thumb of a greedy speculator.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219121'&amp;EntityType='LinearSchedule'&amp;EntityId='aefbbf2b-7f19-4982-8933-ce68e0d66d28'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261106020000 +0000" stop="20261106040000 +0000">
+		<title>Dreamscape</title>
+		<desc>A man who can enter and manipulate people's dreams is recruited by a government agency to help cure the President of the United States of his nightmares about nuclear war but stumbles upon an assassination plot.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219128'&amp;EntityType='LinearSchedule'&amp;EntityId='f6be4bf8-d525-4327-b21a-6288703d55a6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261106040000 +0000" stop="20261106060000 +0000">
+		<title>All For Her Majesty</title>
+		<desc>Simon Templar is on holiday in Naples when a small uproar on a lunch table draws his attention. An English tourist attempts to greet an Italian businessman as an old friend, but the Italian refuses to acknowledge the greeting and claims never to have met him.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219135'&amp;EntityType='LinearSchedule'&amp;EntityId='4db46140-51a0-438e-b5d1-b217c254b23f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261106060000 +0000" stop="20261106080000 +0000">
+		<title>All the Way Boys</title>
+		<desc>A pair of conniving bush pilots crash-land in the Peruvian jungle, where they come across a community of diamond miners under the thumb of a greedy speculator.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219150'&amp;EntityType='LinearSchedule'&amp;EntityId='c4a66028-b8c4-40fc-8239-89259c9dd62f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261106080000 +0000" stop="20261106100000 +0000">
+		<title>Dreamscape</title>
+		<desc>A man who can enter and manipulate people's dreams is recruited by a government agency to help cure the President of the United States of his nightmares about nuclear war but stumbles upon an assassination plot.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219198'&amp;EntityType='LinearSchedule'&amp;EntityId='8f7bbd26-095c-489d-83c1-f34bea4c1fba'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261106100000 +0000" stop="20261106120000 +0000">
+		<title>Fist Of Fury</title>
+		<desc>Bruce Lee's first chop-socky movie (made in Hong Kong) is action-filled and violent.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219157'&amp;EntityType='LinearSchedule'&amp;EntityId='f0cb0ade-a5f7-4542-b32d-756528e27125'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261106120000 +0000" stop="20261106140500 +0000">
+		<title>Mill Of The Stone Women</title>
+		<desc>In 19th century Holland, a professor of fine arts and an unlicensed surgeon run a secret lab where the professor's ill daughter receives blood-transfusions from kidnapped female victims who posthumously become macabre art.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219165'&amp;EntityType='LinearSchedule'&amp;EntityId='25dfef19-e17e-4571-8e20-ea2f8fa27462'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261106140500 +0000" stop="20261106160000 +0000">
+		<title>The Street Fighter</title>
+		<desc>Fast-paced martial arts action finds freelance fighter Terry Tsuguri (Chiba) hired to spring a convicted killer from prison. But after he succeeds, his employers renege on their payment.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219174'&amp;EntityType='LinearSchedule'&amp;EntityId='50958564-f253-47a1-8f31-5e9ba12eda31'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="556894" start="20261106160000 +0000" stop="20261106180000 +0000">
+		<title>Fist Of Fury</title>
+		<desc>Bruce Lee's first chop-socky movie (made in Hong Kong) is action-filled and violent.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17239085'&amp;EntityType='LinearSchedule'&amp;EntityId='94970492-dddb-4928-8a04-6bcd062910a0'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
