@@ -56,14 +56,6 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="98202">
-		<display-name>LIVE 5</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
-	</channel>
-	<channel id="204746">
-		<display-name>LIVE 6</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
-	</channel>
 	<channel id="558278">
 		<display-name>MasterChef</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='10089891'&amp;EntityType='Item'&amp;EntityId='558278'&amp;Width=62&amp;Height=59" />
@@ -95,6 +87,14 @@
 	<channel id="556894">
 		<display-name>Action Hollywood Movies</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358842'&amp;EntityType='Item'&amp;EntityId='556894'&amp;Width=304&amp;Height=250" />
+	</channel>
+	<channel id="558254">
+		<display-name>Filem Mantap</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='11316574'&amp;EntityType='Item'&amp;EntityId='558254'&amp;Width=350&amp;Height=250" />
+	</channel>
+	<channel id="558271">
+		<display-name>Drama Hebat</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='14326803'&amp;EntityType='Item'&amp;EntityId='558271'&amp;Width=350&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20261105160000 +0000" stop="20261105163000 +0000">
 		<title>Yes Captain! - EP 51</title>
@@ -1031,10 +1031,25 @@
 		<desc>The latest top stories of the hour.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17238076'&amp;EntityType='LinearSchedule'&amp;EntityId='ec5dce74-2da5-4c24-a619-7c00a88cb18b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862712" start="20261105135500 +0000" stop="20261105193000 +0000">
-		<title>Badminton - Youth Olympic Games Dakar 2026 Men's &amp; Women's Singles Finals</title>
-		<desc>Men's Singles Bronze Medal Match - South Korea vs China | Men's Singles Gold Medal Match - France vs United Arab Emirates | Women's Singles Bronze Medal Match - Chinese Taipei vs Japan | Women's Singles Gold Medal Match - China vs India</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254355'&amp;EntityType='LinearSchedule'&amp;EntityId='bef86092-53d9-4bff-8576-74c58f069ca3'&amp;Width=1280&amp;Height=720" />
+	<programme channel="862712" start="20261105150500 +0000" stop="20261105161000 +0000">
+		<title>Badminton - Youth Olympic Games Dakar 2026 Men's Singles Gold Medal Match - FRA vs UAE</title>
+		<desc>Men's Singles Gold Medal Match - France vs United Arab Emirates</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17368918'&amp;EntityType='LinearSchedule'&amp;EntityId='a9d8900d-57ad-406d-b7de-523e37cc64dd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862712" start="20261105161000 +0000" stop="20261105162500 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17368934'&amp;EntityType='LinearSchedule'&amp;EntityId='4a169c78-783c-431d-b168-8f4ff76b6a22'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862712" start="20261105162500 +0000" stop="20261105170000 +0000">
+		<title>Badminton - Youth Olympic Games Dakar 2026 Women's Singles Bronze Medal Match - TPE vs JPN</title>
+		<desc>Women's Singles Bronze Medal Match - Chinese Taipei vs Japan</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17368930'&amp;EntityType='LinearSchedule'&amp;EntityId='f2972a0c-55c0-42af-b45a-ea1024eca39b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862712" start="20261105170000 +0000" stop="20261105193000 +0000">
+		<title>Badminton - Youth Olympic Games Dakar 2026 Women's Singles Gold Medal Match - CHN vs IND</title>
+		<desc>Women's Singles Gold Medal Match - China vs India</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17368926'&amp;EntityType='LinearSchedule'&amp;EntityId='3961b2ed-9ab2-412a-9e42-ba1ea6b33a13'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862712" start="20261105193000 +0000" stop="20261106095500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1056,15 +1071,40 @@
 		<desc>Men's Pool Round - Argentina vs Venezuela | Men's Pool Round - Algeria vs Lithuania | Women's Pool Round - China vs Kenya | Women's Pool Round - Czech Republic vs Ukraine | Men's Pool Round - Mongolia vs Argentina | Men's Pool Round - Senegal vs Lithuania |</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17253697'&amp;EntityType='LinearSchedule'&amp;EntityId='a1753b24-a7a6-4ba0-b216-c7f4359a8225'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862710" start="20261105155500 +0000" stop="20261105200000 +0000">
-		<title>Table Tennis - Youth Olympic Games Dakar 2026 Men's &amp; Women's Singles Finals</title>
-		<desc>Women's Singles Bronze Medal Match - Japan vs Hong Kong | Men's Singles Bronze Medal Match - South Korea vs Hong Kong | Women's Singles Gold Medal Match - Chinese Taipei vs Singapore | Men's Singles Gold Medal Match - Japan vs Colombia</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17367719'&amp;EntityType='LinearSchedule'&amp;EntityId='985d441c-b13a-400b-8c6b-c853407ec2a3'&amp;Width=1280&amp;Height=720" />
+	<programme channel="862710" start="20261105155500 +0000" stop="20261105164000 +0000">
+		<title>Table Tennis - Youth Olympic Games Dakar 2026 Women's Singles Bronze Medal Match - JPN vs HKG</title>
+		<desc>Women's Singles Bronze Medal Match - Japan vs Hong Kong</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17371077'&amp;EntityType='LinearSchedule'&amp;EntityId='abbe8b6c-7701-41e6-bea8-2178cc012db4'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862710" start="20261105200000 +0000" stop="20261106085500 +0000">
+	<programme channel="862710" start="20261105164000 +0000" stop="20261105164500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17367932'&amp;EntityType='LinearSchedule'&amp;EntityId='fc5816a6-7d20-4d3f-9fe0-f081cfedd533'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17371101'&amp;EntityType='LinearSchedule'&amp;EntityId='f27bc19e-5024-494b-ad06-16e5131153c0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862710" start="20261105164500 +0000" stop="20261105180000 +0000">
+		<title>Table Tennis - Youth Olympic Games Dakar 2026 Men's Singles Bronze Medal Match - KOR vs HKG</title>
+		<desc>Men's Singles Bronze Medal Match - South Korea vs Hong Kong</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17371105'&amp;EntityType='LinearSchedule'&amp;EntityId='5082b518-f09c-4836-8e4b-39a75b2e654e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862710" start="20261105180000 +0000" stop="20261105185000 +0000">
+		<title>Table Tennis - Youth Olympic Games Dakar 2026 Women's Singles Gold Medal Match - TPE vs SGP</title>
+		<desc>Women's Singles Gold Medal Match - Chinese Taipei vs Singapore</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17371081'&amp;EntityType='LinearSchedule'&amp;EntityId='2ed8c1cd-1e91-4d94-b216-c38802ae98f7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862710" start="20261105185000 +0000" stop="20261105190000 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17371086'&amp;EntityType='LinearSchedule'&amp;EntityId='43071667-5e12-4bdb-b80a-ae218c80f63c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862710" start="20261105190000 +0000" stop="20261105203000 +0000">
+		<title>Table Tennis - Youth Olympic Games Dakar 2026 Men's Singles Gold Medal Match - JPN vs COL</title>
+		<desc>Men's Singles Gold Medal Match - Japan vs Colombia</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17371093'&amp;EntityType='LinearSchedule'&amp;EntityId='c28ed749-1a18-44c2-ac94-11e3708feb92'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862710" start="20261105203000 +0000" stop="20261106085500 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17371097'&amp;EntityType='LinearSchedule'&amp;EntityId='63f83834-19f9-40ac-b873-dffd6a6d372f'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862710" start="20261106085500 +0000" stop="20261106120000 +0000">
 		<title>Equestrian - Youth Olympic Games Dakar 2026 Jumping Individual Final</title>
@@ -1081,15 +1121,10 @@
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17250696'&amp;EntityType='LinearSchedule'&amp;EntityId='43e22701-4a59-46a4-9397-4a882e6f1619'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862709" start="20261105145500 +0000" stop="20261105163000 +0000">
-		<title>Swimming - Youth Olympic Games Dakar 2026 Men's &amp; Women's Finals - 5 Nov 2026</title>
-		<desc>Women's 50m Backstroke Final | Men's 50m Backstroke Final | Women's 50m Breaststroke Final | Men's 50m Breaststroke Final</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254315'&amp;EntityType='LinearSchedule'&amp;EntityId='0ad134fb-c8d2-432d-b220-f670e215c581'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="862709" start="20261105163000 +0000" stop="20261106095500 +0000">
+	<programme channel="862709" start="20261105160000 +0000" stop="20261106095500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17367961'&amp;EntityType='LinearSchedule'&amp;EntityId='6c79fe4c-c537-4417-a379-c912be9794da'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17368636'&amp;EntityType='LinearSchedule'&amp;EntityId='45f7480d-03e7-4f07-ac77-e1d518586a7e'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862709" start="20261106095500 +0000" stop="20261106110000 +0000">
 		<title>Swimming - Youth Olympic Games Dakar 2026 Men's &amp; Women's Heats - 6 Nov 2026</title>
@@ -1106,30 +1141,40 @@
 		<desc>Women's 200m Freestyle Final | Men's 200m Freestyle Final | Women's 200m Butterfly Final | Men's 200m Butterfly Final</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17274072'&amp;EntityType='LinearSchedule'&amp;EntityId='7c89e334-7bb9-49b3-b01b-6af48e978fb6'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862713" start="20261105155500 +0000" stop="20261105173000 +0000">
+	<programme channel="862713" start="20261105155500 +0000" stop="20261105170400 +0000">
 		<title>Skateboarding - Youth Olympic Games Dakar 2026 Women's Street Final</title>
 		<desc>Women's Street Final</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17253869'&amp;EntityType='LinearSchedule'&amp;EntityId='63f81470-f20c-4987-9b3a-f0643f13f9fd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862713" start="20261105173000 +0000" stop="20261106155959 +0000">
+	<programme channel="862713" start="20261105170400 +0000" stop="20261106155959 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17367969'&amp;EntityType='LinearSchedule'&amp;EntityId='a1f3e448-caa4-42f4-b2b0-b20b35f98028'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17368640'&amp;EntityType='LinearSchedule'&amp;EntityId='e39ac135-ddb2-45f6-8a72-defbba21d382'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862713" start="20261106160000 +0000" stop="20261107095500 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17250951'&amp;EntityType='LinearSchedule'&amp;EntityId='72d35916-cf6f-414a-af87-56ee94f51b54'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862711" start="20261105152500 +0000" stop="20261105200000 +0000">
-		<title>Futsal - Youth Olympic Games Dakar 2026 Women's Group Stage</title>
-		<desc>Women's Group Stage - Fiji vs Venezuela | Women's Group Stage - Ukraine vs Senegal</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17253797'&amp;EntityType='LinearSchedule'&amp;EntityId='ed20e2d1-f9d0-43cf-a796-3fef9d481f50'&amp;Width=1280&amp;Height=720" />
+	<programme channel="862711" start="20261105152500 +0000" stop="20261105170000 +0000">
+		<title>Futsal - Youth Olympic Games Dakar 2026 Women's Group Stage - FIJ vs VEN</title>
+		<desc>Women's Group Stage - Fiji vs Venezuela</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17368938'&amp;EntityType='LinearSchedule'&amp;EntityId='d12e4b23-8ce6-4eb6-8f9e-da911f678b9c'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="862711" start="20261105200000 +0000" stop="20261106155959 +0000">
+	<programme channel="862711" start="20261105170000 +0000" stop="20261105173000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
 		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17367965'&amp;EntityType='LinearSchedule'&amp;EntityId='67e6aa6a-9f9c-4971-bf67-c02384be2c31'&amp;Width=1280&amp;Height=720" />
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17368942'&amp;EntityType='LinearSchedule'&amp;EntityId='15644e01-9dfe-4188-bd58-6468209e6a1e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862711" start="20261105173000 +0000" stop="20261105191700 +0000">
+		<title>Futsal - Youth Olympic Games Dakar 2026 Women's Group Stage - UKR vs SEN</title>
+		<desc>Women's Group Stage - Ukraine vs Senegal</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17368946'&amp;EntityType='LinearSchedule'&amp;EntityId='795eafc1-fd1f-409a-bfe1-253b46ccff9e'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="862711" start="20261105191700 +0000" stop="20261106155959 +0000">
+		<title>No programme streaming LIVE at this moment</title>
+		<desc>There are currently no programme on this channel. Please stay tuned for the next available programme!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17371088'&amp;EntityType='LinearSchedule'&amp;EntityId='75791c72-ff66-4235-b5e4-da6fc4cd9b27'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="862711" start="20261106160000 +0000" stop="20261107121000 +0000">
 		<title>No programme streaming LIVE at this moment</title>
@@ -1290,26 +1335,6 @@
 		<title>No programme available now. Next broadcast on 7th November, Saturday 7pm. The Wonder Shop Home Shopping</title>
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 7th November, Saturday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17237817'&amp;EntityType='LinearSchedule'&amp;EntityId='a0533647-7fa8-4593-aec6-5371148ddb66'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20261105160000 +0000" stop="20261106160000 +0000">
-		<title>No Programme available now. Next Broadcast on 26th November, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC on 26th November, Thursday 6pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17328234'&amp;EntityType='LinearSchedule'&amp;EntityId='918009d0-6ac9-4e01-8cd5-8b63f6a10357'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="98202" start="20261106160000 +0000" stop="20261107160000 +0000">
-		<title>No Programme available now. Next Broadcast on 26th November, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC on 26th November, Thursday 6pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17328238'&amp;EntityType='LinearSchedule'&amp;EntityId='306006b1-2078-46a6-b893-3f8cced7bb75'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20261105160000 +0000" stop="20261106160000 +0000">
-		<title>No Programme available now. Next Broadcast on 26th November, Thursday 8.15pm. AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC</title>
-		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC on 26th November, Thursday 8.15pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17328270'&amp;EntityType='LinearSchedule'&amp;EntityId='d241e8d0-3dce-48bf-9bfd-64e25c2b0805'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20261106160000 +0000" stop="20261107160000 +0000">
-		<title>No Programme available now. Next Broadcast on 26th November, Thursday 8.15pm. AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC</title>
-		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC on 26th November, Thursday 8.15pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17328274'&amp;EntityType='LinearSchedule'&amp;EntityId='d19d33c7-13f9-4ffc-b96a-12a5469dd951'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="558278" start="20261105154014 +0000" stop="20261105160702 +0000">
 		<title>MasterChef Australia Season 02 - EP20</title>
@@ -2135,6 +2160,236 @@
 		<title>Fist Of Fury</title>
 		<desc>Bruce Lee's first chop-socky movie (made in Hong Kong) is action-filled and violent.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17239085'&amp;EntityType='LinearSchedule'&amp;EntityId='94970492-dddb-4928-8a04-6bcd062910a0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261105143600 +0000" stop="20261105161600 +0000">
+		<title>Budak Dari Tak Bai</title>
+		<desc>Melalui kehidupan yang getir, Johari meninggalkan Tak Bai pada zaman kanak-kanak ke Kota Bharu. Peristiwa hitam membuatkannya hanyut dalam dunia gelap. Dilakonkan oleh Kamal Adli dan Nabila Huda.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17214794'&amp;EntityType='LinearSchedule'&amp;EntityId='98a4a6ba-3994-46f1-b823-ef53ae78b72a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261105161600 +0000" stop="20261105175300 +0000">
+		<title>Delen</title>
+		<desc>Mengisahkan tentang Delen yang mula rasa terancam apabila Emily mula menyukai pelajar baru bernama Robert. Sejak itu, bermulalah persaingan antara Delen dan Robert demi merebut cinta Emily.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17231914'&amp;EntityType='LinearSchedule'&amp;EntityId='f7dbe035-0155-4ab5-9a93-2e41e71d24f3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261105175300 +0000" stop="20261105193800 +0000">
+		<title>Bro Jenin</title>
+		<desc>Kisah Jenin yang telah masuk ke zaman kini. Dia berjumpa dengan seorang animator, Emily. Wujud perbezaan pendapat maka terjadi lah kisah2 lucu dan akhirnya Jenin terpaksa pulang ke tempat asalnya.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17231918'&amp;EntityType='LinearSchedule'&amp;EntityId='be941f07-7439-4aca-8ed5-220c292e6fd4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261105193800 +0000" stop="20261105213100 +0000">
+		<title>Bibik Aku Nak Kahwin</title>
+		<desc>Milah yang terlalu berharap untuk berkahwin, akhirnya menemui jodoh secara tiba-tiba. Lakonan Didie Alias, Hairul Azreen dan Nabila AF.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17231930'&amp;EntityType='LinearSchedule'&amp;EntityId='d8319fac-2aa5-43a8-9e9a-5b3c600b29b3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261105213100 +0000" stop="20261105220000 +0000">
+		<title>We’ll be back at 6.00am</title>
+		<desc>We’ll be back at 6.00am</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17231922'&amp;EntityType='LinearSchedule'&amp;EntityId='1bf1cef8-85c6-423e-a02a-20663c4f8a05'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261105220000 +0000" stop="20261105234700 +0000">
+		<title>Baby-Sita</title>
+		<desc>Two grand-theft-auto and best friends Adam &amp; Hatim discovered a baby at the back seat of a stolen car. Keen to avoid detection, they take care of the baby while figuring out how to return the baby without getting caught</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17231926'&amp;EntityType='LinearSchedule'&amp;EntityId='65637e80-ec39-4071-a438-1714243bc638'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261105234700 +0000" stop="20261106012800 +0000">
+		<title>Baby Jarum</title>
+		<desc>Mami Jarum is back! and this time Mami is making sure her grand-daughter Asyikin will marry the man of her choosing, however Asyikin has a better plan (or worse!) for herself.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235344'&amp;EntityType='LinearSchedule'&amp;EntityId='5a9f0b69-64a2-4efb-9507-b6fedc23f5e6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106012800 +0000" stop="20261106031400 +0000">
+		<title>Challenge Accepted</title>
+		<desc>Jeff seorang tiktokers terkenal. Jeff telah berjaya membuat seoarang gadis,Fatimah jatuh cinta padanya tetapi akhirnya Fatimah mendapat tahu yang Jeff hanya menggunakannya demi populariti.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235311'&amp;EntityType='LinearSchedule'&amp;EntityId='94a5634e-af64-4826-b806-db04fee7276c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106031400 +0000" stop="20261106045900 +0000">
+		<title>Diari Chinta</title>
+		<desc>Chinta selalu gagal dalam cintanya diberikan sebuah diari ajaib untuk menulis babak cinta. Impian yang ditulis Chinta itu menjadi kenyataan dengan kemunculan Ben namun tidaklah selancar yang disangka.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235356'&amp;EntityType='LinearSchedule'&amp;EntityId='1017efc4-3542-44e9-ac39-29757210f6c1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106045900 +0000" stop="20261106064100 +0000">
+		<title>Kipas Belum Mati</title>
+		<desc>Mia, seorang artis meningkat naik, membuka kelab peminatnya dan dibantu oleh Lynn yang menjadi pengurus. Dengan bantuan Lynn, kelabnya maju namun ada harga yang harus dibayar di sebalik kejayaan tersebut..</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235352'&amp;EntityType='LinearSchedule'&amp;EntityId='402cf8f1-7181-4541-9181-ed41d38b69d5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106064100 +0000" stop="20261106082600 +0000">
+		<title>Geng</title>
+		<desc>Isabella is an ex-convict who has sworn off her life of crime. Unfortunately, her old gang boss wants her to do one last drug transaction and kidnaps her mother to blackmail Isabella. With the help of her high school best friends, Mariam and Anita, Isabella goes on a road trip to save her mother.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235336'&amp;EntityType='LinearSchedule'&amp;EntityId='d2d7ee64-5269-4665-bf62-c6014ba7f70b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106082600 +0000" stop="20261106100100 +0000">
+		<title>Keabadian Cinta</title>
+		<desc>3 couples falls in love with each other in 3 different love stories.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235316'&amp;EntityType='LinearSchedule'&amp;EntityId='bffe7635-b115-4697-bd63-3c333dade426'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106100100 +0000" stop="20261106114900 +0000">
+		<title>Boyfriend Aku Dari ...</title>
+		<desc>After being disappointed multiple times, Risya is introduced by a friend to Andy, a nerdy young man. They fall in love but in actuality, Andy is a boyfriend from 'hell'!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235348'&amp;EntityType='LinearSchedule'&amp;EntityId='ff616de1-ab19-4097-ac45-ff5208f3b885'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106114900 +0000" stop="20261106133700 +0000">
+		<title>Gengster Leng Chai</title>
+		<desc>Black is a failure of a gangster, being too soft hearted with people. After meeting Mawar, he is determined to change despite the objections of others.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235324'&amp;EntityType='LinearSchedule'&amp;EntityId='38340b7d-37e3-4713-907d-95c48caf60b4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106133700 +0000" stop="20261106150000 +0000">
+		<title>Strawberi Karipap Sesat Kat Paris</title>
+		<desc>Nini and Haikal start their big adventure to find their aunty Lisa who gets a job offer as a professional photographer in Paris. Unfortunately, their journey turns upside down when they arrive in Paris and ruin a newly-wed coupleís honeymoon.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235332'&amp;EntityType='LinearSchedule'&amp;EntityId='3876824b-20f9-4f0d-9b89-4ac914335a6a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106150000 +0000" stop="20261106164300 +0000">
+		<title>Nota Silam</title>
+		<desc>Munirah menjumpai sebuah nota cinta di dalam sebuah buku yang diperolehi secara rambang dari 'blind date with a book' dan cuba untuk menemukan pasangan di dalam nota tersebut yang merubah hidup Munirah</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235340'&amp;EntityType='LinearSchedule'&amp;EntityId='062d3158-bcf8-442b-85e6-2f8327a7bf0d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261105153100 +0000" stop="20261105162000 +0000">
+		<title>Tersuka Tanpa Sengaja - EP8</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255096'&amp;EntityType='LinearSchedule'&amp;EntityId='fa4ca0f5-e8d7-4a22-8d0d-bb5088879b94'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261105162000 +0000" stop="20261105170800 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP7</title>
+		<desc>Salsa ingin lari ke Kuala Lumpur apabila asik mendengar berita buruk tentang dirinya menjadi perbualan. Yasmin kini tiba di ladang untuk bekerja di situ.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255180'&amp;EntityType='LinearSchedule'&amp;EntityId='29f1e8cc-3e0d-4031-ab31-09ace917e3da'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261105170800 +0000" stop="20261105175700 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP8</title>
+		<desc>Tekanan yang melampau menyebabkan Salsa kemurungan. Kepergian Salsa dari rumah ladang menjadikan Kris sepi dan merindu mereka bersama.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255184'&amp;EntityType='LinearSchedule'&amp;EntityId='e44dc1d3-478d-4434-b566-0356ae3f48c2'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261105175700 +0000" stop="20261105184800 +0000">
+		<title>Isteri Separuh Masa - EP7</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255236'&amp;EntityType='LinearSchedule'&amp;EntityId='91229a67-4b92-483f-b6a9-29d7bd84a3d5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261105184800 +0000" stop="20261105193900 +0000">
+		<title>Isteri Separuh Masa - EP8</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255212'&amp;EntityType='LinearSchedule'&amp;EntityId='c5f31d3c-aa07-4fc7-a8df-f8311ac6f4be'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261105193900 +0000" stop="20261105202900 +0000">
+		<title>Syurga Yang Kedua - EP7</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255188'&amp;EntityType='LinearSchedule'&amp;EntityId='e6758530-5080-41c7-bfd6-bd95eb4c6d86'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261105202900 +0000" stop="20261105211900 +0000">
+		<title>Syurga Yang Kedua - EP8</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255168'&amp;EntityType='LinearSchedule'&amp;EntityId='d5c19e0a-61c5-41e8-9270-f21db6240080'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261105211900 +0000" stop="20261105220000 +0000">
+		<title>We’ll be back at 6.00am</title>
+		<desc>We’ll be back at 6.00am</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255240'&amp;EntityType='LinearSchedule'&amp;EntityId='9401f947-679f-474b-bf7f-60bd4c179208'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261105220000 +0000" stop="20261105225100 +0000">
+		<title>Isteri Separuh Masa - EP9</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17219375'&amp;EntityType='LinearSchedule'&amp;EntityId='e5dfcc9b-9fb9-4b8b-8605-7a70d2207dcd'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261105225100 +0000" stop="20261105233900 +0000">
+		<title>Isteri Separuh Masa - EP10</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235360'&amp;EntityType='LinearSchedule'&amp;EntityId='aec92c87-c84d-4fc7-93ff-62c665d4f96a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261105233900 +0000" stop="20261106002900 +0000">
+		<title>Syurga Yang Kedua - EP9</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235392'&amp;EntityType='LinearSchedule'&amp;EntityId='5c9411ff-8f40-4736-9370-e42f66c806b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106002900 +0000" stop="20261106011900 +0000">
+		<title>Syurga Yang Kedua - EP10</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235408'&amp;EntityType='LinearSchedule'&amp;EntityId='dfcd5a0a-b486-411c-a946-418384740b00'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106011900 +0000" stop="20261106020900 +0000">
+		<title>Tersuka Tanpa Sengaja - EP9</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235428'&amp;EntityType='LinearSchedule'&amp;EntityId='2ff429ed-f35e-46b0-9578-60f3ef8fa5bc'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106020900 +0000" stop="20261106030000 +0000">
+		<title>Tersuka Tanpa Sengaja - EP10</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17235364'&amp;EntityType='LinearSchedule'&amp;EntityId='a5fdbdba-fa22-48be-b680-a53823b5e4f6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106030000 +0000" stop="20261106035100 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP9</title>
+		<desc>Salsa marah apabila Shuib mula mengganggunya di warung. Kris berpandangan jauh untuk memajukan ladang dan Tok Abah menawarkan Salsa bekerja di pejabat di ladang.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255164'&amp;EntityType='LinearSchedule'&amp;EntityId='296f7e8b-ee91-4679-b77a-627f52d5f7c6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106035100 +0000" stop="20261106044200 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP10</title>
+		<desc>Yasmin cuba memburukan Salsa dihadapan para pekerja lain sehingga Salsa berasa sangat malu. Kris memberi amaran kepada Yasmin supaya tidak mengganggu Salsa lagi.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255216'&amp;EntityType='LinearSchedule'&amp;EntityId='278c62ae-a284-482c-a205-a438be5b9154'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106044200 +0000" stop="20261106053300 +0000">
+		<title>Isteri Separuh Masa - EP9</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255172'&amp;EntityType='LinearSchedule'&amp;EntityId='1f64f731-27f5-40eb-8e38-424930b5c6b6'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106053300 +0000" stop="20261106062100 +0000">
+		<title>Isteri Separuh Masa - EP10</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255196'&amp;EntityType='LinearSchedule'&amp;EntityId='e56a37cb-8b0d-4566-b245-d0e7586f346a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106062100 +0000" stop="20261106071100 +0000">
+		<title>Syurga Yang Kedua - EP9</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255192'&amp;EntityType='LinearSchedule'&amp;EntityId='b548b662-9778-4c8b-a790-0a45310a408f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106071100 +0000" stop="20261106080100 +0000">
+		<title>Syurga Yang Kedua - EP10</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255244'&amp;EntityType='LinearSchedule'&amp;EntityId='3dd9ace4-9035-4850-a834-5336c1d5f346'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106080100 +0000" stop="20261106085100 +0000">
+		<title>Tersuka Tanpa Sengaja - EP9</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255200'&amp;EntityType='LinearSchedule'&amp;EntityId='df02e281-ae92-480f-9bb3-5eee4af2cd28'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106085100 +0000" stop="20261106094200 +0000">
+		<title>Tersuka Tanpa Sengaja - EP10</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255248'&amp;EntityType='LinearSchedule'&amp;EntityId='e4bb4c1a-b96e-4b80-a223-bf8d698b26cf'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106094200 +0000" stop="20261106103300 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP9</title>
+		<desc>Salsa marah apabila Shuib mula mengganggunya di warung. Kris berpandangan jauh untuk memajukan ladang dan Tok Abah menawarkan Salsa bekerja di pejabat di ladang.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255204'&amp;EntityType='LinearSchedule'&amp;EntityId='3ab08e8a-40ce-4c7d-9956-901934415925'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106103300 +0000" stop="20261106112400 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP10</title>
+		<desc>Yasmin cuba memburukan Salsa dihadapan para pekerja lain sehingga Salsa berasa sangat malu. Kris memberi amaran kepada Yasmin supaya tidak mengganggu Salsa lagi.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255252'&amp;EntityType='LinearSchedule'&amp;EntityId='1344ba04-a3ae-4c9a-9aea-c9a2f16ab0f5'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106112400 +0000" stop="20261106121500 +0000">
+		<title>Isteri Separuh Masa - EP9</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255176'&amp;EntityType='LinearSchedule'&amp;EntityId='ce77985b-7644-4c02-b007-0e50a4a8ba51'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106121500 +0000" stop="20261106130300 +0000">
+		<title>Isteri Separuh Masa - EP10</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255220'&amp;EntityType='LinearSchedule'&amp;EntityId='8acbe2f7-400b-409d-9be1-e7b59cd9c31b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106130300 +0000" stop="20261106135300 +0000">
+		<title>Syurga Yang Kedua - EP9</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255224'&amp;EntityType='LinearSchedule'&amp;EntityId='7edb3f40-89b1-4a1c-b5e7-4b32fc130100'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106135300 +0000" stop="20261106144300 +0000">
+		<title>Syurga Yang Kedua - EP10</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255228'&amp;EntityType='LinearSchedule'&amp;EntityId='0cb583fa-8b76-4e0e-a61e-5eb5eb51b84c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106144300 +0000" stop="20261106153300 +0000">
+		<title>Tersuka Tanpa Sengaja - EP9</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255208'&amp;EntityType='LinearSchedule'&amp;EntityId='d605d10a-deb0-498e-a7a1-c3dbfc7d2aeb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106153300 +0000" stop="20261106162400 +0000">
+		<title>Tersuka Tanpa Sengaja - EP10</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255232'&amp;EntityType='LinearSchedule'&amp;EntityId='f9aa114d-d94d-4389-9d4f-e452021cd990'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97098" start="20261106173000 +0000" stop="20261106180000 +0000">
 		<title>Talking Point - EP 24</title>
@@ -3241,16 +3496,6 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 8th November, Sunday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17256824'&amp;EntityType='LinearSchedule'&amp;EntityId='9ff8b540-a307-4b82-9d63-84b8cdd1dcbd'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="98202" start="20261107160000 +0000" stop="20261108160000 +0000">
-		<title>No Programme available now. Next Broadcast on 26th November, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC</title>
-		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC on 26th November, Thursday 6pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17328242'&amp;EntityType='LinearSchedule'&amp;EntityId='db71f6ef-0449-4886-86fc-e3c3d0032681'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="204746" start="20261107160000 +0000" stop="20261108160000 +0000">
-		<title>No Programme available now. Next Broadcast on 26th November, Thursday 8.15pm. AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC</title>
-		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC on 26th November, Thursday 8.15pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17328278'&amp;EntityType='LinearSchedule'&amp;EntityId='c21ced1d-429f-4b3d-b510-a60ffac7f10f'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="558278" start="20261106161734 +0000" stop="20261106171235 +0000">
 		<title>MasterChef Australia Season 03 - Elimination Challenge 2</title>
 		<desc>Andrew and Kumar face a "Fix that Dish" Challenge.</desc>
@@ -4070,5 +4315,230 @@
 		<title>The Black Panther</title>
 		<desc>A gung-ho ex-military man pursues a secret life of crime, culminating in the kidnapping of a teenage heiress.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17258735'&amp;EntityType='LinearSchedule'&amp;EntityId='83106b55-ac86-47b7-ad86-96e92754a62c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106164300 +0000" stop="20261106183100 +0000">
+		<title>Bukan Cerita Cinta Cliche</title>
+		<desc>Seorang penulis skrip kisah-kisah cinta tetapi masih bersendirian mengimpikan cinta dalam kehidupan realitinya, lalu dia menyertai sebuah kumpulan terapi untuk berkongsi masalah peribadinya.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17251469'&amp;EntityType='LinearSchedule'&amp;EntityId='651079db-43a5-49e0-af2a-e57b6dcb24e3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106183100 +0000" stop="20261106200000 +0000">
+		<title>Roti Canai Love Story</title>
+		<desc>Kisah hubungan persahabatan di antara kanak-kanak berbangsa Melayu dan Cina yang bermula dari kisah sekeping roti canai dan konflik keluarga mereka.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17251461'&amp;EntityType='LinearSchedule'&amp;EntityId='544d3f19-d386-44c6-97fa-02155f4996ae'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106200000 +0000" stop="20261106214700 +0000">
+		<title>Anais Patah Hati Pertama Kali</title>
+		<desc>Anais is a pastry chef in her thirties that is having a heartbreak for the first time in her life and having difficulties controlling her emotions.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17251465'&amp;EntityType='LinearSchedule'&amp;EntityId='f4d8aa20-8a0e-4bc7-a8ef-315ba57cdc24'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106214700 +0000" stop="20261106220000 +0000">
+		<title>We’ll be back at 6.00am</title>
+		<desc>We’ll be back at 6.00am</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17251453'&amp;EntityType='LinearSchedule'&amp;EntityId='38b51d42-9710-42d8-b70f-546122558d57'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106220000 +0000" stop="20261106234300 +0000">
+		<title>Mark Masuk Jawi</title>
+		<desc>A comedy featuring Mark,an English man who has been married to Suraya. He is forced to confront his anxieties when his father-in-law directs him to undergo traditional circumcision as promised by his wife.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17251457'&amp;EntityType='LinearSchedule'&amp;EntityId='0f62ca4c-1c7c-402f-ba5b-b2df559105aa'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261106234300 +0000" stop="20261107013000 +0000">
+		<title>Abang Tinted &amp; Handbag Ajaib</title>
+		<desc>Kisah seorang lelaki yang kehilangan segalanya selepas ditipu rakan niaganya, tapi diselamatkan oleh tas tangan ‘ajaib’ yang mempunyai jalan penyelesaian kepada semua masalah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254764'&amp;EntityType='LinearSchedule'&amp;EntityId='cc2146e0-827c-489a-b62c-5faa491a0f1c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261107013000 +0000" stop="20261107031200 +0000">
+		<title>Mat So'od</title>
+		<desc>Mat So'od merupakan penglipurlara di kampungnya. Namun berlawanan dengan kerjayanya, Mat So'od merupakan seorang pemurung hampir sepanjang hidupnya.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254756'&amp;EntityType='LinearSchedule'&amp;EntityId='25662340-969e-4ed3-84dd-1b52a91fab7f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261107031200 +0000" stop="20261107050000 +0000">
+		<title>Perkahwinan Dari ...</title>
+		<desc>Pasangan selebriti terkenal di Malaysia, Asha dan Mal terdesak untuk menjaga rahsia perkahwinan mereka dari diketahui oleh pengurus mereka, Feek.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254776'&amp;EntityType='LinearSchedule'&amp;EntityId='a3f54f06-6174-4e77-a301-71bebe6bdf40'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261107050000 +0000" stop="20261107064600 +0000">
+		<title>Girlfriend Aku Dari Neraka</title>
+		<desc>Kisah Rudi yang telah menjalinkan hubungan kekasih bersama Tasha, atau lebih dikenali sebagai "Girlfriend Dari Neraka". Lakonan Aiman Hakim Ridza, Sharifah Sakinah dan Ayda Jebat.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254748'&amp;EntityType='LinearSchedule'&amp;EntityId='9ff872d9-cb19-4a3c-9025-9cda571c2db0'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261107064600 +0000" stop="20261107083100 +0000">
+		<title>Bawang Putih Bawang Holland</title>
+		<desc>Pak Mat is trying to find husbands for his two daughters fearing they would be old spinsters, he runs an audition causing further chaos.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254760'&amp;EntityType='LinearSchedule'&amp;EntityId='f24d3ba5-d4a0-4cb3-a1a5-6b97c8aad855'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261107083100 +0000" stop="20261107101800 +0000">
+		<title>Cupcake Mama</title>
+		<desc>Hanna, an active woman, is becoming bored with her daily life. She soon gets the idea to start a business selling cupcakes.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254768'&amp;EntityType='LinearSchedule'&amp;EntityId='9e5d7ebf-dab9-4283-86af-3ee32f88ffa4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261107101800 +0000" stop="20261107120200 +0000">
+		<title>Bila Kau Datang</title>
+		<desc>The sudden presence of a little girl in a man's life raises thousands of questions, yet it also blossoms into a pretty special relationship.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254772'&amp;EntityType='LinearSchedule'&amp;EntityId='5e195ea1-4578-45e3-a69f-c44b99475c7b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261107120200 +0000" stop="20261107134800 +0000">
+		<title>Kampung Arena Panggang</title>
+		<desc>Di dalam sebuah kampung, pasti terdapat perebutan kuasa. Siapakah yang bakal memegang jawatan tertinggi? Saksikan gelagat lucu mereka berentap untuk digelar ketua kampung.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254752'&amp;EntityType='LinearSchedule'&amp;EntityId='fc8a8ba9-4026-4541-9c18-c3553b69e22c'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261107134800 +0000" stop="20261107153500 +0000">
+		<title>Nyanyuk</title>
+		<desc>Zali is sad with the condition of his wife, Minah who he thinks is senile when in fact he is the one facing the disease.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254780'&amp;EntityType='LinearSchedule'&amp;EntityId='c5abfe2d-bb16-44a7-a8f4-4df21f1ef3b4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558254" start="20261107153500 +0000" stop="20261107172600 +0000">
+		<title>Jongkong</title>
+		<desc>Wan Ibrahim perlu mencari penyelesaian segera untuk melarikan diri daripada pakciknya, Wan Usin, dengan menjual beberapa jongkong emas yang dirompak oleh mereka, dan dia perlu melalui pelbagai cabaran.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17254784'&amp;EntityType='LinearSchedule'&amp;EntityId='f3841214-4f54-447d-80f2-691b2b6644f4'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106162400 +0000" stop="20261106171500 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP9</title>
+		<desc>Salsa marah apabila Shuib mula mengganggunya di warung. Kris berpandangan jauh untuk memajukan ladang dan Tok Abah menawarkan Salsa bekerja di pejabat di ladang.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255304'&amp;EntityType='LinearSchedule'&amp;EntityId='594fbfab-55fb-4666-9c1a-2bdc641c2a6a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106171500 +0000" stop="20261106180600 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP10</title>
+		<desc>Yasmin cuba memburukan Salsa dihadapan para pekerja lain sehingga Salsa berasa sangat malu. Kris memberi amaran kepada Yasmin supaya tidak mengganggu Salsa lagi.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255372'&amp;EntityType='LinearSchedule'&amp;EntityId='8187f1eb-34bb-44f7-b57b-9a6cc2dd1626'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106180600 +0000" stop="20261106185700 +0000">
+		<title>Isteri Separuh Masa - EP9</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255284'&amp;EntityType='LinearSchedule'&amp;EntityId='a41cb572-da0f-467b-9438-b62a470d5a3b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106185700 +0000" stop="20261106194500 +0000">
+		<title>Isteri Separuh Masa - EP10</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255260'&amp;EntityType='LinearSchedule'&amp;EntityId='8bbf248b-5f12-42e0-945b-8ca7dc74289a'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106194500 +0000" stop="20261106203500 +0000">
+		<title>Syurga Yang Kedua - EP9</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255308'&amp;EntityType='LinearSchedule'&amp;EntityId='8be5068d-cf65-4fc4-8931-a0d2817314ec'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106203500 +0000" stop="20261106212500 +0000">
+		<title>Syurga Yang Kedua - EP10</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255288'&amp;EntityType='LinearSchedule'&amp;EntityId='36939b77-1643-4a5e-9151-fba746702500'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106212500 +0000" stop="20261106220000 +0000">
+		<title>We’ll be back at 6.00am</title>
+		<desc>We’ll be back at 6.00am</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255348'&amp;EntityType='LinearSchedule'&amp;EntityId='2ef5fc67-5d36-4c09-adba-b5dcea7e26fb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106220000 +0000" stop="20261106224600 +0000">
+		<title>Isteri Separuh Masa - EP1</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17239390'&amp;EntityType='LinearSchedule'&amp;EntityId='194f7177-226e-4cf9-b6c1-9b10f6b7fbde'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106224600 +0000" stop="20261106233300 +0000">
+		<title>Isteri Separuh Masa - EP2</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255256'&amp;EntityType='LinearSchedule'&amp;EntityId='d9185297-e45c-4fcb-8745-d622e8261707'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261106233300 +0000" stop="20261107002100 +0000">
+		<title>Isteri Separuh Masa - EP3</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255352'&amp;EntityType='LinearSchedule'&amp;EntityId='759db56b-9357-44b4-806a-deaada0e0efe'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107002100 +0000" stop="20261107010900 +0000">
+		<title>Isteri Separuh Masa - EP4</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255312'&amp;EntityType='LinearSchedule'&amp;EntityId='23135b4a-3a59-4064-893b-4d310b9b5592'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107010900 +0000" stop="20261107015800 +0000">
+		<title>Isteri Separuh Masa - EP5</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255264'&amp;EntityType='LinearSchedule'&amp;EntityId='45e87fe4-a362-4976-82e2-cd6ca71810b1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107015800 +0000" stop="20261107024800 +0000">
+		<title>Syurga yang Kedua - EP1</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255356'&amp;EntityType='LinearSchedule'&amp;EntityId='3fc5e6d3-213d-4411-a39e-851fe034e75b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107024800 +0000" stop="20261107033800 +0000">
+		<title>Syurga Yang Kedua - EP2</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255268'&amp;EntityType='LinearSchedule'&amp;EntityId='ed53747e-11fa-4213-99c1-25c2c5ba84d3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107033800 +0000" stop="20261107042800 +0000">
+		<title>Syurga Yang Kedua - EP3</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255292'&amp;EntityType='LinearSchedule'&amp;EntityId='f3f188be-aef7-4049-889c-82502c2dcc17'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107042800 +0000" stop="20261107051800 +0000">
+		<title>Syurga Yang Kedua - EP4</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255296'&amp;EntityType='LinearSchedule'&amp;EntityId='983aa70d-b1c2-4287-887d-d9042cf7273b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107051800 +0000" stop="20261107060800 +0000">
+		<title>Syurga Yang Kedua - EP5</title>
+		<desc>A drama about love and family adapted from the Indomesian popular drama series/soap opera, "Syurga Yang Kedua". It tells the story of Sabrina who has difficulties in conceiving and doesn’t know that her husband has married her best friend Dr. Vanida during coma.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255300'&amp;EntityType='LinearSchedule'&amp;EntityId='736c6dbc-d1f0-4f6c-aac1-e342925a681b'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107060800 +0000" stop="20261107065600 +0000">
+		<title>Tersuka Tanpa Sengaja - EP1</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255272'&amp;EntityType='LinearSchedule'&amp;EntityId='79110d1c-82cc-45a2-aa76-ef3da4f471b7'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107065600 +0000" stop="20261107074700 +0000">
+		<title>Tersuka Tanpa Sengaja - EP2</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255316'&amp;EntityType='LinearSchedule'&amp;EntityId='2033fca1-373e-4ffe-bfde-9c9ee13b791d'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107074700 +0000" stop="20261107083500 +0000">
+		<title>Tersuka Tanpa Sengaja - EP3</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255276'&amp;EntityType='LinearSchedule'&amp;EntityId='c02bf1ea-eade-4c2d-afef-1fb0895e3a61'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107083500 +0000" stop="20261107092300 +0000">
+		<title>Tersuka Tanpa Sengaja - EP4</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255280'&amp;EntityType='LinearSchedule'&amp;EntityId='f85d084f-1cdf-44b8-8635-ee32cf38b078'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107092300 +0000" stop="20261107101300 +0000">
+		<title>Tersuka Tanpa Sengaja - EP5</title>
+		<desc>The marriage between Syed Arief and Farhah without love brings conflicts into their lives. When the relationship starts to get better, Syed Arief meets his old girlfriend Katrina who turns out to be Farhah’s sister. What happens when the younger sister knows her sweetheart is married to her own sister?</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255320'&amp;EntityType='LinearSchedule'&amp;EntityId='0a9cb478-eff0-4aa3-808b-80d7370e4ff1'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107101300 +0000" stop="20261107110300 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP1</title>
+		<desc>Pertemuan Kris dan Salsa bermula ketika Kris membawa diri pulang ke kampung Tok Abah. Salsa kini menghadapi tuduhan pecah amanah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255344'&amp;EntityType='LinearSchedule'&amp;EntityId='eef653f8-44b1-4818-b887-db3c020680c3'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107110300 +0000" stop="20261107115300 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP2</title>
+		<desc>Kris mendapatkan bantuan peguam dan melawat Salsa di penjara. Salsa kembali tersenyum apabila menerima nota inspirasi daripada kris.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255325'&amp;EntityType='LinearSchedule'&amp;EntityId='8cb2e811-b201-402d-901f-732c16bf33fb'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107115300 +0000" stop="20261107124300 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP3</title>
+		<desc>Salsa ditahan di penjara sementara menunggu perbicaraan. Kris semakin risau apabila wang simpanannya tidak mencukupi untuk menjamin salsa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255360'&amp;EntityType='LinearSchedule'&amp;EntityId='60051764-7674-4e42-8f85-49a1686992b8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107124300 +0000" stop="20261107133200 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP4</title>
+		<desc>Selain Nek Nani, Salsa dibuli oleh tahanan lain hingga tertekan dan hampir membunuh diri. Kris menjual lukisannya untuk mendapatkan dana menjamin Salsa.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255332'&amp;EntityType='LinearSchedule'&amp;EntityId='50ae882f-ec2c-4513-9fe9-c9f6af0638ce'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107133200 +0000" stop="20261107142300 +0000">
+		<title>Pengantin Lelaki Untuk Cik Gadis - EP5</title>
+		<desc>Datuk Kamil enggan menarik balik dakwaan terhadap salsa. Tok abah menawar diri untuk membayar duit jaminan buat Salsa &amp; Fatimah berjaya membuktikan Salsa tidak bersalah.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255336'&amp;EntityType='LinearSchedule'&amp;EntityId='f9343869-f0c4-4bd7-831e-e657d6eb8c05'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107142300 +0000" stop="20261107150900 +0000">
+		<title>Isteri Separuh Masa - EP1</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255364'&amp;EntityType='LinearSchedule'&amp;EntityId='3aa60176-5dc0-4a5c-8e57-041e767af503'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107150900 +0000" stop="20261107155600 +0000">
+		<title>Isteri Separuh Masa - EP2</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255340'&amp;EntityType='LinearSchedule'&amp;EntityId='9faae047-56b3-4efe-9dfc-a5193b629c75'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="558271" start="20261107155600 +0000" stop="20261107164400 +0000">
+		<title>Isteri Separuh Masa - EP3</title>
+		<desc>Bagi Nazrin Shah, Medina Izwanilah punca mama dan papanya tidak menerima kekasihnya, Zita sebagai menantu. Lebih teruk apabila mereka dijodohkan oleh nenek mereka. Lakonan Emma Maembong, Ayda Jebat dan Aiman Hakim.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17255368'&amp;EntityType='LinearSchedule'&amp;EntityId='0172af42-ff86-40f4-9ff7-3f50436cdd80'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
