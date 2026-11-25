@@ -32,9 +32,13 @@
 		<display-name>LIVE 1</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318742'&amp;EntityType='Item'&amp;EntityId='97073'&amp;Width=488&amp;Height=249" />
 	</channel>
-	<channel id="97078">
-		<display-name>LIVE 2</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318744'&amp;EntityType='Item'&amp;EntityId='97078'&amp;Width=515&amp;Height=250" />
+	<channel id="98202">
+		<display-name>LIVE 5</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318756'&amp;EntityType='Item'&amp;EntityId='98202'&amp;Width=516&amp;Height=250" />
+	</channel>
+	<channel id="204746">
+		<display-name>LIVE 6</display-name>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='6318758'&amp;EntityType='Item'&amp;EntityId='204746'&amp;Width=519&amp;Height=250" />
 	</channel>
 	<channel id="98200">
 		<display-name>SPL CH01</display-name>
@@ -91,10 +95,6 @@
 	<channel id="557763">
 		<display-name>FIFA+</display-name>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358830'&amp;EntityType='Item'&amp;EntityId='557763'&amp;Width=264&amp;Height=250" />
-	</channel>
-	<channel id="558112">
-		<display-name>W-Sport</display-name>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='9358826'&amp;EntityType='Item'&amp;EntityId='558112'&amp;Width=409&amp;Height=250" />
 	</channel>
 	<programme channel="97098" start="20261124160000 +0000" stop="20261124163000 +0000">
 		<title>Yes Captain! - EP 60</title>
@@ -533,8 +533,8 @@
 	</programme>
 	<programme channel="97104" start="20261125150000 +0000" stop="20261125160000 +0000">
 		<title>Blossom - EP 2 九重紫</title>
-		<desc>Abandoned as a child, Zhuang Han Yan grows up in the southern countryside before returning to her family in the capital. She catches the eye of Fu Yun Xi, a deputy minister with a mysterious illness, who sees her as an ideal wife. As they navigate their relationship, they fall in love, and Han Yan reconnects with her mother while finding warmth and belonging with the Fu family.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17557051'&amp;EntityType='LinearSchedule'&amp;EntityId='f3167114-d1c6-4f3b-8f93-abec3d9b79ba'&amp;Width=1280&amp;Height=720" />
+		<desc>Dou Zhao's father intends to take her mother's friend Wang Yingxue as a concubine. Devastated by his betrayal and her worsening illness, Dou Zhao's mother takes her own life. Young Dou Zhao engineers a confrontation that secures compensation and control of her inheritance. She moves to a country estate with her grandmother, while young Song Mo seeks refuge with his uncle's army.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17704030'&amp;EntityType='LinearSchedule'&amp;EntityId='f3167114-d1c6-4f3b-8f93-abec3d9b79ba'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20261125160000 +0000" stop="20261125170000 +0000">
 		<title>Lost You Forever S2 - EP 10 长相思第二季</title>
@@ -1341,15 +1341,25 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 26th November, Thursday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17575889'&amp;EntityType='LinearSchedule'&amp;EntityId='bacd0ca1-acbf-4cd0-9426-ff0d6356246a'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20261124160000 +0000" stop="20261125160000 +0000">
-		<title>No Programme available now. Next Broadcast on 29th November, Sunday 2pm. Singlife Nations Cup 2026</title>
-		<desc>LIVE 2 will commence broadcast of the Singlife Nations Cup 2026 on 29th November, Sunday 2pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17669388'&amp;EntityType='LinearSchedule'&amp;EntityId='e1a285aa-fe17-489c-b9b0-d2042ef3c9bd'&amp;Width=1280&amp;Height=720" />
+	<programme channel="98202" start="20261124160000 +0000" stop="20261125160000 +0000">
+		<title>No Programme available now. Next Broadcast on 26th November, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC on 26th November, Thursday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17556956'&amp;EntityType='LinearSchedule'&amp;EntityId='83dc58a9-ad9b-43eb-bec1-84a551608c4b'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20261125160000 +0000" stop="20261126160000 +0000">
-		<title>No Programme available now. Next Broadcast on 29th November, Sunday 2pm. Singlife Nations Cup 2026</title>
-		<desc>LIVE 2 will commence broadcast of the Singlife Nations Cup 2026 on 29th November, Sunday 2pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17669392'&amp;EntityType='LinearSchedule'&amp;EntityId='48217ba3-dfcb-47df-83d4-0f89c763e86b'&amp;Width=1280&amp;Height=720" />
+	<programme channel="98202" start="20261125160000 +0000" stop="20261126100000 +0000">
+		<title>No Programme available now. Next Broadcast on 26th November, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC on 26th November, Thursday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17576305'&amp;EntityType='LinearSchedule'&amp;EntityId='cc323279-adac-40f8-94e4-0fb54722516f'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20261124160000 +0000" stop="20261125160000 +0000">
+		<title>No Programme available now. Next Broadcast on 26th November, Thursday 8.15pm. AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC on 26th November, Thursday 8.15pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17556967'&amp;EntityType='LinearSchedule'&amp;EntityId='305e5268-ddda-4656-80dc-e6607f219ea8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20261125160000 +0000" stop="20261126121500 +0000">
+		<title>No Programme available now. Next Broadcast on 26th November, Thursday 8.15pm. AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC</title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC on 26th November, Thursday 8.15pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17576342'&amp;EntityType='LinearSchedule'&amp;EntityId='ee59e992-81e5-49c6-a463-d8fafcfd6c3b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20261124160000 +0000" stop="20261125160000 +0000">
 		<title>No Programme available now. Next Broadcast on 27th November, Friday 7.20pm. Singapore Premier League 2026/2027</title>
@@ -2621,81 +2631,6 @@
 		<desc>Live coverage of the FIFA U-17 World Cup from Qatar.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17626019'&amp;EntityType='LinearSchedule'&amp;EntityId='35b61cb7-7820-48a4-8452-0915a3a98bc5'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="558112" start="20261124133500 +0000" stop="20261124163500 +0000">
-		<title>Malaga Marathon '26</title>
-		<desc>The 2026 GENERALI Málaga Marathon returns on 8 November 2026, offering athletes a notoriously fast, flat and scenic coastal road course through the historic Spanish city.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17543449'&amp;EntityType='LinearSchedule'&amp;EntityId='634bdaad-b9d1-4ad4-92d7-f5659bfc3cc1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261124163500 +0000" stop="20261124170000 +0000">
-		<title>On Her Shoulders: Interviews</title>
-		<desc>An inspiring talk-show series celebrating tennis and the history, milestones and future of the women's World Cup of Tennis, featuring Taylor Townsend.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558848'&amp;EntityType='LinearSchedule'&amp;EntityId='146bdaae-cc51-410b-ad54-84e1ed44ad9e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261124170000 +0000" stop="20261124190000 +0000">
-		<title>USL Superleague '26: Sporting Jax v Carolina Ascent</title>
-		<desc>The 2026 season of the USL Super league will be the 3rd season of US's second tier football league. Watch Sporting Jax v Carolina Ascent FC.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558734'&amp;EntityType='LinearSchedule'&amp;EntityId='45cea262-37aa-4638-bcb8-261e27dfe0aa'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261124190000 +0000" stop="20261124234000 +0000">
-		<title>Tour Down Under '26: Stage 2 Magill to Paracombe</title>
-		<desc>An annual Cycling event in Australia that features the elite teams from around the world. Three days of action to see who gets their campaign off to the perfect start.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558783'&amp;EntityType='LinearSchedule'&amp;EntityId='3593c84b-2e2f-48cd-a0ce-5f4561a3ba76'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261124234000 +0000" stop="20261125001000 +0000">
-		<title>Heroines (S4): Heroines (S4E9)</title>
-		<desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558859'&amp;EntityType='LinearSchedule'&amp;EntityId='2f002d54-6dde-41c7-89bd-627d78ed7128'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125001000 +0000" stop="20261125014500 +0000">
-		<title>Netball Super League '26: Grand Final Thunder v Pulse</title>
-		<desc>The Netball Super League features the 8 Top Netball franchises from across the United Kingdom. Watch Grand Final Thunder v Pulse.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558824'&amp;EntityType='LinearSchedule'&amp;EntityId='8cb4d837-6ef5-442d-8a80-b4f9a308b1d8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125014500 +0000" stop="20261125021500 +0000">
-		<title>Spartan Race '26: UWC H/L- Morzine, France</title>
-		<desc>The Spartan Race World Championships Series are the ultimate test of grit, strength, and determination.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558791'&amp;EntityType='LinearSchedule'&amp;EntityId='34f382e9-1c4c-4ad1-a82d-8f57deb47c9a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125021500 +0000" stop="20261125040500 +0000">
-		<title>USL Superleague '26: Lexington SC v Carolina Ascent</title>
-		<desc>The 2026 season of the USL Super league will be the 3rd season of US's second tier football league. Watch Lexington SC v Carolina Ascent FC.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558775'&amp;EntityType='LinearSchedule'&amp;EntityId='77f39c2e-a5be-43ae-bd3a-de2017a278c5'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125040500 +0000" stop="20261125050000 +0000">
-		<title>Snow League '25/26: Yunding Snow Park, Freeski H/L</title>
-		<desc>Sixteen of the world's best freeskiers joined the Snow League's snowboard roster at Yunding Snow Park in China on December 4-6, 2025.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558743'&amp;EntityType='LinearSchedule'&amp;EntityId='4437a1b2-2573-45a6-9aba-52700abebd06'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125050000 +0000" stop="20261125070000 +0000">
-		<title>WSWC '27 Gr. C: Final China v USA</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558750'&amp;EntityType='LinearSchedule'&amp;EntityId='a14ac63b-60c8-4a4a-a9b9-ff4ffbc2e134'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125070000 +0000" stop="20261125090500 +0000">
-		<title>Wheelchair World Team Cup '26: FIN S1 Netherlands v Japan</title>
-		<desc>The 2026 World Team Cup is the top international wheelchair tennis competition, featuring teams from around the world.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558800'&amp;EntityType='LinearSchedule'&amp;EntityId='ba50fbda-a4a8-41c0-b5df-c74023f70573'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125090500 +0000" stop="20261125110500 +0000">
-		<title>Serie A Women 2026/27: Lazio v Juventus</title>
-		<desc>Serie A Women is the highest league of women's football in Italy. Wattch Lazio v Juventus.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558758'&amp;EntityType='LinearSchedule'&amp;EntityId='20bb0f04-4924-4bf9-a2db-7e4b1ff12d14'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125110500 +0000" stop="20261125134000 +0000">
-		<title>Dutch Masters Grand Slam '26</title>
-		<desc>The Dutch Masters is one of the most highly rates Show Jumping events in the world feature the cream of the best horses and riders from the Equestrian universe.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558812'&amp;EntityType='LinearSchedule'&amp;EntityId='d57ba3c0-56a8-48e9-8b3e-560a8318e330'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125134000 +0000" stop="20261125141000 +0000">
-		<title>Jump Saudi '25 H/L: CSI5 FEI World Cup stage H/L</title>
-		<desc>Jump Saudi 2025 is recognized as one of the major equestrian show jumping events in the world.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558835'&amp;EntityType='LinearSchedule'&amp;EntityId='8b31ecc3-8b32-4493-88e5-a3a9e07313fd'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125141000 +0000" stop="20261125161000 +0000">
-		<title>Serie A Women 2026/27: Ternana v Inter</title>
-		<desc>Serie A Women is the highest league of women's football in Italy. Wattch Ternana v Inter.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17558766'&amp;EntityType='LinearSchedule'&amp;EntityId='95a368ae-66d9-4b78-87dc-cc28b4dbf95f'&amp;Width=1280&amp;Height=720" />
-	</programme>
 	<programme channel="97098" start="20261125160500 +0000" stop="20261125163500 +0000">
 		<title>Yes Captain! - EP 61</title>
 		<desc>Cracks form in Joshua and Adam’s mentor-mentee bond, while DSP Lee and DSP Zuleika’s rivalry reaches a turning point when one decides to leave G5. Kheng is handed a major career opportunity but begins questioning whether it is what he truly wants. Meanwhile, Russell’s patience finally snaps as Charlize continues to put their relationship on back burner.</desc>
@@ -3128,8 +3063,8 @@
 	</programme>
 	<programme channel="97104" start="20261126150000 +0000" stop="20261126160000 +0000">
 		<title>Blossom - EP 3 九重紫</title>
-		<desc>Abandoned as a child, Zhuang Han Yan grows up in the southern countryside before returning to her family in the capital. She catches the eye of Fu Yun Xi, a deputy minister with a mysterious illness, who sees her as an ideal wife. As they navigate their relationship, they fall in love, and Han Yan reconnects with her mother while finding warmth and belonging with the Fu family.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17576457'&amp;EntityType='LinearSchedule'&amp;EntityId='e906403f-1574-4083-b525-c7bfa5171306'&amp;Width=1280&amp;Height=720" />
+		<desc>Fifteen years later, Song Mo returns from a naval battle but clashes with his father over military discipline. Dou Zhao has become a prosperous landowner. At a family banquet, Wang Yingxue attempts to embarrass her, while relatives pressure her to select a husband. Refusing to be manipulated, Dou Zhao publicly overturns the screen used for matchmaking and walks out.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17704034'&amp;EntityType='LinearSchedule'&amp;EntityId='e906403f-1574-4083-b525-c7bfa5171306'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97104" start="20261126160000 +0000" stop="20261126170000 +0000">
 		<title>Lost You Forever S2 - EP 11 长相思第二季</title>
@@ -3643,7 +3578,7 @@
 	</programme>
 	<programme channel="97072" start="20261126130000 +0000" stop="20261126140000 +0000">
 		<title>Insight - EP 26</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Behind K-pop’s global success lies a toxic culture of fan rivalries, harassment and cyberbullying. Despite growing efforts to curb online abuse, why does it persist, and who is responsible?</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17576143'&amp;EntityType='LinearSchedule'&amp;EntityId='e9abfe1c-b378-40b5-b36c-f1e2073e085a'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="97072" start="20261126140000 +0000" stop="20261126150000 +0000">
@@ -3916,10 +3851,35 @@
 		<desc>LIVE 1 will commence broadcast of The Wonder Shop (Home Shopping) on 27th November, Friday 7pm. Please stay tuned!</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17591927'&amp;EntityType='LinearSchedule'&amp;EntityId='c28dc3c0-f10a-43ae-88c0-786175691056'&amp;Width=1280&amp;Height=720" />
 	</programme>
-	<programme channel="97078" start="20261126160000 +0000" stop="20261127160000 +0000">
-		<title>No Programme available now. Next Broadcast on 29th November, Sunday 2pm. Singlife Nations Cup 2026</title>
-		<desc>LIVE 2 will commence broadcast of the Singlife Nations Cup 2026 on 29th November, Sunday 2pm. Please stay tuned!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17669398'&amp;EntityType='LinearSchedule'&amp;EntityId='e76d8293-d0ed-458b-ba04-ebcf0545ce18'&amp;Width=1280&amp;Height=720" />
+	<programme channel="98202" start="20261126100000 +0000" stop="20261126120000 +0000">
+		<title>AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC</title>
+		<desc>Asia’s second-tier premier men’s club competition organised by the Asian Football Confederation (AFC), featuring leading clubs from across Asia. Singapore is represented by Lion City Sailors FC and Tampines Rovers FC in the 2026/27 season.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17576314'&amp;EntityType='LinearSchedule'&amp;EntityId='275cf9ff-9d76-4791-aed2-dede4b2729a9'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20261126120000 +0000" stop="20261126160000 +0000">
+		<title>No Programme available now. Next Broadcast on 3rd December, Thursday 6pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs Tai Po FC</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Lion City Sailors FC vs Tai Po FC on 3rd December Thursday 6pm. Please Stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17576293'&amp;EntityType='LinearSchedule'&amp;EntityId='6706f84a-df20-4a46-8e47-252bf358db61'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="98202" start="20261126160000 +0000" stop="20261127160000 +0000">
+		<title>No Programme available now. Next Broadcast on 3rd December, Thursday 6pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs Tai Po FC</title>
+		<desc>LIVE 5 will commence broadcast of the AFC Champions League Two 2026/27: Lion City Sailors FC vs Tai Po FC on 3rd December Thursday 6pm. Please Stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17592374'&amp;EntityType='LinearSchedule'&amp;EntityId='fb6fb808-b520-4956-937f-ec716b1413a8'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20261126121500 +0000" stop="20261126141500 +0000">
+		<title>AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC</title>
+		<desc>Asia’s second-tier premier men’s club competition organised by the Asian Football Confederation (AFC), featuring leading clubs from across Asia. Singapore is represented by Lion City Sailors FC and Tampines Rovers FC in the 2026/27 season.</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17576356'&amp;EntityType='LinearSchedule'&amp;EntityId='d18aedc2-44ef-4186-9c6f-e7446cde26af'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20261126141500 +0000" stop="20261126160000 +0000">
+		<title>No Programme available now. Next Broadcast on 3rd December, Thursday 6pm. AFC Champions League Two 2026/27: FC Machida Zelvia vs Tampines Rovers FC </title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: FC Machida Zelvia vs Tampines Rovers FC on 3rd December, Thursday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17576367'&amp;EntityType='LinearSchedule'&amp;EntityId='646a706b-3dca-46f7-9054-28e67398f322'&amp;Width=1280&amp;Height=720" />
+	</programme>
+	<programme channel="204746" start="20261126160000 +0000" stop="20261127160000 +0000">
+		<title>No Programme available now. Next Broadcast on 3rd December, Thursday 6pm. AFC Champions League Two 2026/27: FC Machida Zelvia vs Tampines Rovers FC </title>
+		<desc>LIVE 6 will commence broadcast of the AFC Champions League Two 2026/27: FC Machida Zelvia vs Tampines Rovers FC on 3rd December, Thursday 6pm. Please stay tuned!</desc>
+		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&amp;Quality=85&amp;ImageId='17592390'&amp;EntityType='LinearSchedule'&amp;EntityId='8d7964f0-973b-46b3-a33a-806893aa550b'&amp;Width=1280&amp;Height=720" />
 	</programme>
 	<programme channel="98200" start="20261126160000 +0000" stop="20261127112000 +0000">
 		<title>No Programme available now. Next Broadcast on 27th November, Friday 7.20pm. Singapore Premier League 2026/2027</title>
@@ -5115,105 +5075,5 @@
 		<title>Live | FIFA U-17 World Cup Qatar 2026™ | New Zealand v Belgium</title>
 		<desc>Live coverage of the FIFA U-17 World Cup from Qatar.</desc>
 		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17626130'&amp;EntityType='LinearSchedule'&amp;EntityId='20dcd71c-d04f-41fb-b1d9-342b16b5f563'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125161000 +0000" stop="20261125171000 +0000">
-		<title>MP '26: UK Challenge, MP '26</title>
-		<desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578667'&amp;EntityType='LinearSchedule'&amp;EntityId='fa149c2d-7c89-442e-b89c-3bb591afd6e4'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125171000 +0000" stop="20261125174000 +0000">
-		<title>Women's Football Weekly</title>
-		<desc>All the latest football news from the Women's Football Weekly.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578686'&amp;EntityType='LinearSchedule'&amp;EntityId='4e6c0f75-f4b0-484c-bed2-d725542772cf'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125174000 +0000" stop="20261125194000 +0000">
-		<title>Serie A Women 2026/27: Fiorentina v Como 1907</title>
-		<desc>Serie A Women is the highest league of women's football in Italy. Wattch Fiorentina v Como 1907.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578586'&amp;EntityType='LinearSchedule'&amp;EntityId='28d6cfc0-dd05-46ab-8e09-47fd0c3c7da8'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125194000 +0000" stop="20261125201000 +0000">
-		<title>MP '26: Cardiff Half Marathon, MP '26</title>
-		<desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578693'&amp;EntityType='LinearSchedule'&amp;EntityId='2893bff5-e2c7-4ce4-ae0a-794279ab5af0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125201000 +0000" stop="20261125204000 +0000">
-		<title>Spartan Race '25: Mammoth (USA)</title>
-		<desc>Get ready for the first-ever Spartan 10K Super World Championship at Mammoth Mountain Ski Area, California.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578675'&amp;EntityType='LinearSchedule'&amp;EntityId='6bf91c9d-39ee-4549-a838-44797f24cf51'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125204000 +0000" stop="20261125223000 +0000">
-		<title>Global Champions League '26: GCL '26 Vienna R1</title>
-		<desc>Global Champions League: Premier show jumping at iconic venues worldwide, featuring the world's finest horses and riders.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578611'&amp;EntityType='LinearSchedule'&amp;EntityId='a72e57ed-8caf-4ec6-975f-72678705c42a'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125223000 +0000" stop="20261125230000 +0000">
-		<title>Heroines (S4): Heroines (S4E10)</title>
-		<desc>The series amplifies the voices of female athletes, coaches, and leaders, elevating their stories to inspire change, raise the profile of women's sport.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578618'&amp;EntityType='LinearSchedule'&amp;EntityId='a3559a42-7229-4522-936d-12ff083098bb'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261125230000 +0000" stop="20261126003000 +0000">
-		<title>Global Champions League '26: GCL '26 Vienna R2</title>
-		<desc>Global Champions League: Premier show jumping at iconic venues worldwide, featuring the world's finest horses and riders.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578622'&amp;EntityType='LinearSchedule'&amp;EntityId='3fd44783-b48d-475e-9c48-ba7c302b7433'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126003000 +0000" stop="20261126010000 +0000">
-		<title>MP Series '25: MDS 120 Morocco '25 H/L</title>
-		<desc>Inspiring athletes with disabilities conquer the desert, proving that limits exist only to be broken in this powerful race of resilience.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578701'&amp;EntityType='LinearSchedule'&amp;EntityId='cd2ec483-52dc-401f-b6e8-d210c0583fe1'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126010000 +0000" stop="20261126030000 +0000">
-		<title>USL Superleague '26: Ft. Lauderdale v Dallas Trinity</title>
-		<desc>The 2026 season of the USL Super league will be the 3rd season of US's second tier football league. Watch Fort Lauderdale United FC v Dallas Trinity.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578636'&amp;EntityType='LinearSchedule'&amp;EntityId='33a947c2-d54a-40b1-affd-2d86bfb73478'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126030000 +0000" stop="20261126032500 +0000">
-		<title>MP '26: Trans Sahara Marathon, MP '26</title>
-		<desc>Mass Participation celebrates the energy, passion, and spirit of athletes, covering multiple endurance sports from marathons to trail running.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578594'&amp;EntityType='LinearSchedule'&amp;EntityId='71fc17ba-bc36-4b79-83f7-863803a3cd62'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126032500 +0000" stop="20261126050000 +0000">
-		<title>Jump Saudi '25: CSI5 World Cup Qualification</title>
-		<desc>Jump Saudi 2025 is an international equestrian show jumping championship held in Saudi Arabia. It brings together some of the best riders and horses from around the world.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578709'&amp;EntityType='LinearSchedule'&amp;EntityId='dd11b1fe-dfba-44d2-820c-5f856fb47ad6'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126050000 +0000" stop="20261126053000 +0000">
-		<title>Sports Woman '24</title>
-		<desc>A series of programs highlighting the achievements and challenges facing Women in sport and highlighting the journeys endured on the path to success!</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578645'&amp;EntityType='LinearSchedule'&amp;EntityId='b5769514-8db9-4aa2-8d81-2c64a177bfce'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126053000 +0000" stop="20261126070000 +0000">
-		<title>WSWC '27 Gr. C: Mexico v Netherlands</title>
-		<desc>The global softball 2026 tournament leads to the April 2027 finals in Redcliffe, Australia. You can watch Group C from Oklahoma, USA throughout the stage.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578660'&amp;EntityType='LinearSchedule'&amp;EntityId='547f39ac-20b6-4509-b5bf-8549acd5ff43'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126070000 +0000" stop="20261126080500 +0000">
-		<title>Wheelchair World Team Cup '26: FIN S2 Netherlands v Japan</title>
-		<desc>The 2026 World Team Cup is the top international wheelchair tennis competition, featuring teams from around the world.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578715'&amp;EntityType='LinearSchedule'&amp;EntityId='daeb6970-0f39-476a-856f-087f5eb38471'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126080500 +0000" stop="20261126111000 +0000">
-		<title>Amsterdam Marathon '26</title>
-		<desc>The TCS Amsterdam Marathon holds the World Athletics Platinum Label and has for many years featured one of the fastest courses in the world.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578651'&amp;EntityType='LinearSchedule'&amp;EntityId='53169781-6581-4100-92cc-6c98dae01ce0'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126111000 +0000" stop="20261126114000 +0000">
-		<title>Women's Football Weekly</title>
-		<desc>All the latest football news from the Women's Football Weekly.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578604'&amp;EntityType='LinearSchedule'&amp;EntityId='108f81c3-c64f-4573-b767-a0657db23293'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126114000 +0000" stop="20261126134000 +0000">
-		<title>USL Superleague '26: Sporting Jax v DC Power</title>
-		<desc>The 2026 season of the USL Super league will be the 3rd season of US's second tier football league.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578656'&amp;EntityType='LinearSchedule'&amp;EntityId='9c0f3f56-cd2f-4203-9630-e713f754130e'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126134000 +0000" stop="20261126141000 +0000">
-		<title>Jump Saudi '25 H/L: CSI5 Grand Prix H/L</title>
-		<desc>Jump Saudi 2025 is recognized as one of the major equestrian show jumping events in the world.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578679'&amp;EntityType='LinearSchedule'&amp;EntityId='c9a481f3-0154-4895-b099-9a769b692249'&amp;Width=1280&amp;Height=720" />
-	</programme>
-	<programme channel="558112" start="20261126141000 +0000" stop="20261126161000 +0000">
-		<title>Serie A Women 2026/27: Fiorentina v Como 1907</title>
-		<desc>Serie A Women is the highest league of women's football in Italy. Wattch Fiorentina v Como 1907.</desc>
-		<icon src="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&amp;Quality=85&amp;ImageId='17578626'&amp;EntityType='LinearSchedule'&amp;EntityId='fde60053-d76d-4c38-b222-56a51ed17d81'&amp;Width=1280&amp;Height=720" />
 	</programme>
 </tv>
